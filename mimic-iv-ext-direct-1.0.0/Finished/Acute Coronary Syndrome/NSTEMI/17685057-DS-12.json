@@ -1,0 +1,132 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "02:30PM BLOOD cTropnT-0.91*\n06:30PM BLOOD cTropnT-1.09*\n01:26AM BLOOD cTropnT-1.24*\n05:55AM BLOOD CK-MB-4 cTropnT-1.16*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS.$Cause_1": {
+                "Chest Pain$Input1": {}
+            },
+            "The patient reports for the last one to two weeks feeling very fatigued, moving slower and not normal. Also notes feeling more short of breath and after climbing a flight of stairs he had to stop and rest due to difficulty breathing. He also notes intermittent \"sharp\" sub-sternal chest pain for the past one to two weeks.\n is sign of acs$Cause_1": {
+                "The patient reports for the last one to two weeks feeling very fatigued, moving slower and not normal. Also notes feeling more short of breath and after climbing a flight of stairs he had to stop and rest due to difficulty breathing. He also notes intermittent \"sharp\" sub-sternal chest pain for the past one to two weeks.$Input2": {}
+            },
+            "DMII is a risk factor$Cause_1": {
+                "DMII$Input3": {}
+            },
+            "Hypertension is a risk factor$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "Hyperlipidemia is a risk factor$Cause_1": {
+                "Hyperlipidemia$Input3": {}
+            },
+            "Chronic Kidney Disease is a risk factor$Cause_1": {
+                "Chronic Kidney Disease$Input3": {}
+            },
+            "family history\uff1a Both parents died of reasons unknown to him.  is risk fact$Cause_1": {
+                "Both parents died of reasons unknown to him.$Input4": {}
+            },
+            "family history\uff1a Two sisters and a brother died of reasons unknown as well.  is risk fact$Cause_1": {
+                "Two sisters and a brother died of reasons unknown as well.$Input4": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                "EKG taken today showed sinus rhythm, incomplete right bundle-branch block, which appeared new, possible septal infarct and T-wave inversions in the lateral precordial leads, possible anterolateral ischemia, which were changed from prior.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS.$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "The patient reports for the last one to two weeks feeling very fatigued, moving slower and not normal. Also notes feeling more short of breath and after climbing a flight of stairs he had to stop and rest due to difficulty breathing. He also notes intermittent \"sharp\" sub-sternal chest pain for the past one to two weeks.\n is sign of acs$Cause_1": {
+                    "The patient reports for the last one to two weeks feeling very fatigued, moving slower and not normal. Also notes feeling more short of breath and after climbing a flight of stairs he had to stop and rest due to difficulty breathing. He also notes intermittent \"sharp\" sub-sternal chest pain for the past one to two weeks.$Input2": {}
+                },
+                "DMII is a risk factor$Cause_1": {
+                    "DMII$Input3": {}
+                },
+                "Hypertension is a risk factor$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Hyperlipidemia is a risk factor$Cause_1": {
+                    "Hyperlipidemia$Input3": {}
+                },
+                "Chronic Kidney Disease is a risk factor$Cause_1": {
+                    "Chronic Kidney Disease$Input3": {}
+                },
+                "family history\uff1a Both parents died of reasons unknown to him.  is risk fact$Cause_1": {
+                    "Both parents died of reasons unknown to him.$Input4": {}
+                },
+                "family history\uff1a Two sisters and a brother died of reasons unknown as well.  is risk fact$Cause_1": {
+                    "Two sisters and a brother died of reasons unknown as well.$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "EKG taken today showed sinus rhythm, incomplete right bundle-branch block, which appeared new, possible septal infarct and T-wave inversions in the lateral precordial leads, possible anterolateral ischemia, which were changed from prior. He was given aspirin 325mg.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS.$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "The patient reports for the last one to two weeks feeling very fatigued, moving slower and not normal. Also notes feeling more short of breath and after climbing a flight of stairs he had to stop and rest due to difficulty breathing. He also notes intermittent \"sharp\" sub-sternal chest pain for the past one to two weeks.\n is sign of acs$Cause_1": {
+                    "The patient reports for the last one to two weeks feeling very fatigued, moving slower and not normal. Also notes feeling more short of breath and after climbing a flight of stairs he had to stop and rest due to difficulty breathing. He also notes intermittent \"sharp\" sub-sternal chest pain for the past one to two weeks.$Input2": {}
+                },
+                "DMII is a risk factor$Cause_1": {
+                    "DMII$Input3": {}
+                },
+                "Hypertension is a risk factor$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Hyperlipidemia is a risk factor$Cause_1": {
+                    "Hyperlipidemia$Input3": {}
+                },
+                "Chronic Kidney Disease is a risk factor$Cause_1": {
+                    "Chronic Kidney Disease$Input3": {}
+                },
+                "family history\uff1a Both parents died of reasons unknown to him.  is risk fact$Cause_1": {
+                    "Both parents died of reasons unknown to him.$Input4": {}
+                },
+                "family history\uff1a Two sisters and a brother died of reasons unknown as well.  is risk fact$Cause_1": {
+                    "Two sisters and a brother died of reasons unknown as well.$Input4": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "EKG taken today showed sinus rhythm, incomplete right bundle-branch block, which appeared new, possible septal infarct and T-wave inversions in the lateral precordial leads, possible anterolateral ischemia, which were changed from prior.$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS.$Cause_1": {
+                        "Chest Pain$Input1": {}
+                    },
+                    "The patient reports for the last one to two weeks feeling very fatigued, moving slower and not normal. Also notes feeling more short of breath and after climbing a flight of stairs he had to stop and rest due to difficulty breathing. He also notes intermittent \"sharp\" sub-sternal chest pain for the past one to two weeks.\n is sign of acs$Cause_1": {
+                        "The patient reports for the last one to two weeks feeling very fatigued, moving slower and not normal. Also notes feeling more short of breath and after climbing a flight of stairs he had to stop and rest due to difficulty breathing. He also notes intermittent \"sharp\" sub-sternal chest pain for the past one to two weeks.$Input2": {}
+                    },
+                    "DMII is a risk factor$Cause_1": {
+                        "DMII$Input3": {}
+                    },
+                    "Hypertension is a risk factor$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Hyperlipidemia is a risk factor$Cause_1": {
+                        "Hyperlipidemia$Input3": {}
+                    },
+                    "Chronic Kidney Disease is a risk factor$Cause_1": {
+                        "Chronic Kidney Disease$Input3": {}
+                    },
+                    "family history\uff1a Both parents died of reasons unknown to him.  is risk fact$Cause_1": {
+                        "Both parents died of reasons unknown to him.$Input4": {}
+                    },
+                    "family history\uff1a Two sisters and a brother died of reasons unknown as well.  is risk fact$Cause_1": {
+                        "Two sisters and a brother died of reasons unknown as well.$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "Mr. Mike is a man with PMH significant for COPD, HTN, HLD who presents with progressive shortness of breath and chest pain.\n\ufeff\nThe patient reports for the last one to two weeks feeling very fatigued, moving slower and not normal. Also notes feeling more short of breath and after climbing a flight of stairs he had to stop and rest due to difficulty breathing. He also notes intermittent \"sharp\" sub-sternal chest pain for the past one to two weeks. THe pain lasts for about 1 hour and took a pain medication called \"coltaradin\" with relief. The pain occurred both at rest and on exertion and he did not report any clear exaccerbating factors. He noted associated radiation to his bilateral shoulders. He denies associated shortness of breath, nausea, and diaphoresis. He notes it does not feel like his acid reflux pain. The pain does not wake him from sleep. He also usually plants a garden, but his sister found him very short of breath and lacking energy, so she did not let him plant the garden this year.\n\ufeff\nHe presented today to see his Atrius Pulmonologist Dr.Wang for these symptoms. Vitals in clinic were Temp afebirle, BP 132/84, HR 108, RR 18, O2 sat 95% RA. EKG taken today showed sinus rhythm, incomplete right bundle-branch block, which appeared new, possible septal infarct and T-wave inversions in the lateral precordial leads, possible anterolateral ischemia, which were changed from prior. He was given aspirin 325mg. \n\ufeff\ninitial vitals were Temp 99.4, BP 167/95, HR 113, RR 22, O2 sat 100% RA. Labs were significatn for TropI 4.8, WBC 4.1, H/H 11.3/36.0, Plt 140, Na 138, K 4.0, LFTs wnl. He was started on heparin ggt for suspected NSTEMI. CXR with increased interstitial markings and concern for adenopathy with recommendation for CT scan to evaluate for mass. He was transferred to someplace for cardiac cath.\n \n- In the ED, initial vitals were: 99.1 104 148/97 18 99% RA.\n- Labs were significant for WBC 4.0, H/H 10.8, Plt 115, INR 1.1, PTT 123.5 -> repeat 81.7, Cr 0.9, K 3.1, TropT 0.91 -> 1.09.\n- Patient was continued on heparin gtt at 700 units/hr.\n- Atrius Cards consulted and on schedule for cath lab tomorrow first case.\n- Vitals prior on transfer were: 97.8 98 146/88 20 99% RA. \n \nOn arrival to the floor, he denies chest pain. He denies fevers/chills, nausea/vomiting, abdominal pain, diarrhea, dysuria, and lower extremity swelling.\n",
+    "input3": "+ DMII\n+ Hypertension\n+ Hyperlipidemia\n+ Chronic Kidney Disease\n+ GERD\n+ BPH\n+ Rhinitis\n+ Asthma/COPD\n+ Bronchiectasis\n+ Alpha Thalassemia Trait\n+ Hematuria\n+ Gastric Adenoma\n+ Pneumonia\n+ s/p cataract surgery\n",
+    "input4": "Both parents died of reasons unknown to him. Two sisters and a brother died of reasons unknown as well.\n",
+    "input5": "ADMISSION PHYSICAL EXAMINATION:  \nVS: Temp 97.7, BP 168/90, HR 108, RR 20, O2 sat 99% 2L, Weight 55.6 kg\nGeneral: Well-appearing man in no acute distress. \nHEENT: EOMI, PERRLA, clear oropharynx, moist mucous membranes. \nNeck: Supple, no JVP, no lympadenopathy.\nCV: RRR, normal s1/s2, no m/r/g. \nLungs: Transmitted upper airway sounds, no crackles, poor air movement bilaterally.\nAbdomen: Soft, mildly distended, non-tender, normal bowel sounds, no organomegaly. \nExt: Warm, well-perfused, no edema.\nNeuro: A&Ox3, CNII-XII intact, gross motor and sensory intact bilaterally.\nSkin: No rashes.\n",
+    "input6": "ADMISSION LABS\n==============\n02:30PM BLOOD WBC-4.0 RBC-4.67 Hgb-10.8* Hct-32.6* \nMCV-70* MCH-23.2* MCHC-33.3 RDW-18.7*\n02:30PM BLOOD Neuts-57.8 Monos-7.8 Eos-6.2* Baso-0.2\n02:30PM BLOOD Glucose-101* UreaN-13 Creat-0.9 Na-135 \nK-3.1* Cl-108 HCO3-21* AnGap-9\n02:30PM BLOOD Calcium-8.5 Phos-2.7 Mg-1.9\n\ufeff\nPERTINENT LABS\n==============\n02:30PM BLOOD cTropnT-0.91*\n06:30PM BLOOD cTropnT-1.09*\n01:26AM BLOOD cTropnT-1.24*\n05:55AM BLOOD CK-MB-4 cTropnT-1.16*\n"
+}

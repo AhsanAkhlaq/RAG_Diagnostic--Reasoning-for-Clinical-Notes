@@ -1,0 +1,64 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF<40% is the critiera for HFrEF$Cause_1": {
+            "LVEF<40%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is moderately dilated. The right atrium is moderately dilated.$Input6": {}
+            },
+            "Left ventricular systolic dysfunction and partial hypokinesis indicate impaired heart pumping ability, the core problem of heart failure.$Cause_1": {
+                "severe regional left ventricular systolic dysfunction with severe inferior/inferolateral hypokinesis$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "proBNP \u2265 125 pg/mL is a strong value for heart failure$Cause_1": {
+                    "proBNP-4145*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Lower limb edema is one of the common symptoms of heart failure, because the heart's pumping function is weakened, resulting in reduced blood circulation.$Cause_1": {
+                        "Lower Extremity Swelling$Input1": {}
+                    },
+                    "This may indicate severe edema and interstitial fluid leakage, which is often associated with cardiac dysfunction.$Cause_1": {
+                        "right sock and pant leg were wet with yellow fluid$Input2": {}
+                    },
+                    "The patient reported steady dyspnea on exertion, a common symptom of heart failure, as the heart is unable to effectively supply enough oxygen to the body.$Cause_1": {
+                        "stable exertional dyspnea$Input2": {}
+                    },
+                    "Can lie flat for a few hours, but then dyspnea worsens and needs to sit in a chair to sleep. This is a typical presentation of supine dyspnea in a patient with heart failure$Cause_1": {
+                        "can lye flat for servel hours but then gets increasing work of breathing and has to sit in a chair to sleep$Input2": {}
+                    },
+                    "Atrial fibrillation is a common arrhythmia that may coexist with heart failure and be a cause and effect of each other.$Cause_1": {
+                        "atrial fibrillation$Input2": {}
+                    },
+                    "Diabetes can cause high blood sugar levels that damage blood vessels and nerves. Long-term high blood sugar levels can increase the risk of heart disease.$Cause_1": {
+                        "DM c/b neuropathy$Input3": {}
+                    },
+                    "Coronary artery disease can lead to reduced blood flow to the heart, which prevents the myocardium from getting enough oxygen and nutrients. This can lead to a decline in heart function over a long period of time and is one of the direct causes of heart failure.$Cause_1": {
+                        "CAD$Input3": {}
+                    },
+                    "Hyperlipidemia is an important risk factor for cardiovascular disease, which can lead to arteriosclerosis and thus affect heart function.$Cause_1": {
+                        "Hyperlipidemia$Input3": {}
+                    },
+                    "High blood pressure will increase the workload of the heart. Long-term high blood pressure can cause cardiac hypertrophy and eventually lead to heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Heart sounds S1 and S2 have an irregular rhythm and a grade 2/6 systolic murmur is present, which may be a sign of structural abnormalities or cardiac dysfunction.$Cause_1": {
+                        "S1, S2 irregular rhythm, normal rate, II/VI systolic murmur LUSB$Input5": {}
+                    },
+                    "Rales are present at both lung bases, a classic sign of fluid accumulation in the lungs, which is common in heart failure.$Cause_1": {
+                        "crackles bilaterally at bases$Input5": {}
+                    },
+                    "Grade 3 pitting edema was present in both knees. Edema is the accumulation of fluid in heart failure due to the weakening of the heart's pumping function and the obstruction of blood return.$Cause_1": {
+                        "3+ pitting edema bilaterally to the knees$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Lower Extremity Swelling\n",
+    "input2": "This morning after putting on clothes he noticed that right sock and pant leg were wet with yellow fluid. Denies pain or erythema at site. He saw his nephrologist, last week and discussed ankle edema with him but at that time reluctant to increase diuretics due to renal function. He was started on tekturna at that time but has not filled the RX. He reports stable exertional dyspnea. He sleeps on pillows at night, can lye flat for servel hours but then gets increasing work of breathing and has to sit in a chair to sleep. Denies chest pain. He sees a cardiologist, for his atrial fibrillation. He was started on coumadin 2.5 weeks ago, plan for possible electrical cardioversion after therapeutic for one month. In the meantime has been increasing dose of amiodarone but still in AFIB. He denies palpitations, syncope.\n",
+    "input3": "+ DM c/b neuropathy\n+ CAD\n+ CKD: previously noted to be Stage 3\n+ Hyperlipidemia\n+ Hypertension\n+ Colon Cancer\n+ Obesity\n+ Varicose veins\n+ Osteoarthritis \n+ Cataract\n+ Gout \n+ Sleep apnea\n",
+    "input4": "No h/o DM, CAD or cancer.  No h/o renal disease.\n",
+    "input5": "On Admission:\nVS: 110/70 94 18 94%RA  \nGen: Caucasian male in NAD, unlabored respirations  \nHEENT: anicteric, moist mucus membranes  \nCV: S1, S2 irregular rhythm, normal rate, II/VI systolic murmur LUSB  \nPulm: unlabored resp, crackles bilaterally at bases\nAbd: soft, NTND, no guarding, rebound tenderness  \nExt: 3+ pitting edema bilaterally to the knees, area of weeping serosanguoinous drainage on right posterior calf without signficant warmth or erythema  \nNeuro: AOx3, CNII-XII intact, MAE antigravity, sensation grossly intact\n",
+    "input6": "07:15PM BLOOD Glucose-171* UreaN-65* Creat-2.4* Na-141 K-4.0 Cl-102 HCO3-28 AnGap-15\n07:30AM BLOOD Glucose-173* UreaN-75* Creat-2.6* Na-137 K-4.2 Cl-99 HCO3-31 AnGap-11\n04:50PM BLOOD CK(CPK)-75\n07:15PM BLOOD ALT-23 AST-23 LD(LDH)-226 CK(CPK)-89 \nAlkPhos-112 TotBili-0.7\n04:50PM BLOOD CK-MB-3 cTropnT-0.04*\n05:25AM BLOOD CK-MB-3 cTropnT-0.06*\n07:15PM BLOOD CK-MB-3 cTropnT-0.05* proBNP-4145*\n07:30AM BLOOD Mg-2.6\n05:25AM BLOOD TSH-1.9\n05:20AM BLOOD WBC-7.6 RBC-4.08* Hgb-10.6* Hct-32.6* MCV-80* MCH-25.9* MCHC-32.4 RDW-18.0*\n07:30AM BLOOD Glucose-173* UreaN-75* Creat-2.6* Na-137 K-4.2 Cl-99 HCO3-31 AnGap-11\n\ufeff\nWhile in hospital an ECHO was done, with the following result:\nThe left atrium is moderately dilated. The right atrium is moderately dilated. There is mild symmetric left ventricular hypertrophy with normal cavity size. There is severe regional left ventricular systolic dysfunction with severe inferior/inferolateral hypokinesis. There is moderate hypokinesis of the remaining segments (The right ventricular cavity is moderately dilated with moderate global free wall hypokinesis. There is moderate aortic valve stenosis (valve area 1.0-1.2cm2). Trace aortic regurgitation is seen. The mitral valve leaflets are moderately thickened. Mild (1+) mitral regurgitation is seen. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion. LVEF<40%\n"
+}

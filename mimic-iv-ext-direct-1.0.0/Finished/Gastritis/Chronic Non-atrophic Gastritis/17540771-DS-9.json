@@ -1,0 +1,32 @@
+{
+    "Chronic Non-atrophic Gastritis$Intermedia_4": {
+        "The critieria for chronic non-atrophic gastritis$Cause_1": {
+            "Erosion and erythema in the antrum compatible with gastritis (biopsy) without obvious atrophy.$Input6": {}
+        },
+        "Chronic Gastritis$Intermedia_3": {
+            "Helicobacter pylori infection is an important sign of chronic gastritis$Cause_1": {
+                "Helicobacter pylori infection detected$Input6": {}
+            },
+            "Suspected Gastritis$Intermedia_2": {
+                "Nausea may be caused by chronic inflammation of the gastric mucosa, which may be caused by long-term stomach acid irritation, medication side effects, infection, etc.$Cause_1": {
+                    "nausea$Input1": {}
+                },
+                "Retching is a common symptom of gastritis and usually occurs when the stomach is upset or the inflammation is worse.$Cause_1": {
+                    "dry heaving but no vomiting$Input2": {}
+                },
+                "Gastritis may affect the entire digestive system, causing constipation or diarrhea. Changes in stool color may be related to gastrointestinal bleeding or indigestion of food.$Cause_1": {
+                    "initially had light colored stool and constipation and then had dark colored stool$Input2": {}
+                },
+                "Loss of appetite is a typical symptom of chronic gastritis and may lead to weight loss.$Cause_1": {
+                    "has been eating much less.$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "nausea\n",
+    "input2": "She has had some dry heaving but no vomiting. She states that she initially had light colored stool and constipation and then had dark colored stool and loose stool and then has had no bowel movements. Pt denies bloody stool or black stool. She hasnot taken her po meds in ___ days. She also c/o back pain which is similar to her usual back pain. She endorses increased fatigue without fevers or night sweats. She thinks her clothes have been looser over past 2 weeks since she has been eating much less. Pt denies dysuria or hematuria.\n",
+    "input3": "MI ___ yrs ago\ncolon cancer sp some kind of surgery ___ yrs ago\nhypothyroidism (based on her meds)\n",
+    "input4": " Limited as her parents were killed in Halocaust at young age \n",
+    "input5": "Vitals: T: BP: P: R: O2:\nGeneral: Alert, oriented, no acute distress\nHEENT: Sclera anicteric, MM dry, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: Clear to auscultation bilaterally, no wheezes, rales, \nronchi\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, \ngallops\nAbdomen: soft, tender diffusely, suprapubic > rest, \nnon-distended, bowel sounds present, some rebound tenderness without guarding, no organomegaly . vertical scar on abdomen. ? \nkeloid in umbilicus.\nExt: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema\n",
+    "input6": "___ 11:46AM   WBC-13.1* RBC-4.41 HGB-13.9 HCT-40.6 MCV-92 \nMCH-31.6 MCHC-34.3 RDW-13.3\n___ 11:46AM   NEUTS-88.5* LYMPHS-7.2* MONOS-3.7 EOS-0.3 \nBASOS-0.2\n___ 11:46AM   GLUCOSE-127* UREA N-30* CREAT-1.2* \nSODIUM-131* POTASSIUM-3.9 CHLORIDE-91* TOTAL CO2-25 ANION GAP-19\n___ 11:46AM   ALT(SGPT)-23 AST(SGOT)-26 CK(CPK)-40 ALK \nPHOS-74 TOT BILI-1.0\n___ 11:46AM   LIPASE-31\n___ 11:46AM   cTropnT-<0.01\n___ 11:46AM   CK-MB-NotDone\n___ 11:46AM   ALBUMIN-4.5 CALCIUM-10.6* PHOSPHATE-2.5* \nMAGNESIUM-1.8\n___ 04:42PM URINE  HOURS-RANDOM UREA N-314 CREAT-41 \nSODIUM-86\n___ 03:20PM URINE  COLOR-Straw APPEAR-Clear SP ___\n___ 03:20PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-75 \nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 \nLEUK-SM\n___ 03:20PM URINE  ___ BACTERIA-MANY \n\nchest xray ___: IMPRESSION: PA and lateral chest reviewed in the absence of prior chest radiographs: Lungs are fully expanded and clear. Heart size is top normal. No pleural effusion or evidence of central adenopathy. A sharp leftward deviation of the trachea in the neck suggests a thyroid nodule or other mass effect. Clinical correlation advised.\n\nEGD: Impression: Erosion and erythema in the antrum compatible with gastritis (biopsy). Small hiatal hernia \nAngioectasias in the fundus. Otherwise normal EGD to third part of the duodenum.\n\n\nHelicobacter pylori infection detected\n"
+}

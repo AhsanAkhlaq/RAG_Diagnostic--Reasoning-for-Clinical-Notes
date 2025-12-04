@@ -1,0 +1,30 @@
+{
+    "Pituitary Macroadenomas$Intermedia_3": {
+        "Pituitary adenomas that are 1 cm or larger in size are called macroadenomas.$Cause_1": {
+            "Pituitary adenomas that are 2.1 cm large in size.$Input6": {}
+        },
+        "Suspected Pituitary Disease$Intermedia_2": {
+            "This symptom may be related to compression of the pituitary adenoma or related hormonal abnormalities$Cause_1": {
+                "three episodes of unprovoked LOC$Input2": {}
+            },
+            "Headaches, especially in the bitemporal region, may be caused by a pituitary adenoma compressing surrounding structures$Cause_1": {
+                "headaches per month that are bitemporal$Input2": {}
+            },
+            "Unexplained weight loss may be related to the metabolic effects of pituitary adenoma or abnormal secretion of related hormones$Cause_1": {
+                "a weight loss$Input2": {}
+            },
+            "Pituitary adenomas often cause elevated prolactin levels$Cause_1": {
+                "slightly elevated prolactin level with a full endocrinology evaluation$Input2": {}
+            },
+            "Hormone replacement therapy means pituitary disease$Cause_1": {
+                "prescribed Androgel$Input2": {}
+            }
+        }
+    },
+    "input1": "elective admit\n",
+    "input2": "s is a gentleman with three episodes of unprovoked LOC that led to a neurologic work up.  He reports headaches per month that are bitemporal. He has had a weight loss over the course of ca one month. He had relatively normal visual field studies and a slightly elevated prolactin level with a full endocrinology evaluation. He was  prescribed Androgel but this was not covered by insurance and hence he does not take it.\n",
+    "input3": "HTN, \nCHOL, \nBPH, \nright renal cyst\n",
+    "input4": "NC\n",
+    "input5": "Gen: WD/WN, comfortable, NAD.\nHEENT: Pupils:4=3mm EOMs intact\nRRR\nCTA\nNTTP; ND\nExtrem: Warm and well-perfused.\n\nNeuro:Mental status: Awake and alert, cooperative with exam, normal affect.\nOrientation: Oriented to person, place, and date.\nLanguage: Speech fluent.\nNaming intact. No dysarthria or paraphasic errors.\n\nCranial Nerves:\nI: Not tested\nII: Pupils equally round and reactive to light, 4 to 3mm\nmm bilaterally. Visual fields are full to confrontation.\nIII, IV, VI: Extraocular movements intact bilaterally without\nnystagmus.\nV, VII: Facial strength and sensation intact and symmetric.\nVIII: Hearing intact to voice.\nIX, X: Palatal elevation symmetrical.\nXI: Sternocleidomastoid and trapezius normal bilaterally.\nXII: Tongue midline without fasciculations.\n\nMotor: Normal bulk and tone bilaterally. No abnormal movements, tremors. Strength full power ___ throughout. No pronator drift\n\nSensation: Intact to light touch\n",
+    "input6": "___ 03:50AM BLOOD WBC-10.6# RBC-4.52* Hgb-12.5* Hct-39.3* \nMCV-87 MCH-27.7 MCHC-31.7 RDW-13.6 Plt ___\n___ 03:50AM BLOOD Glucose-139* UreaN-15 Creat-0.8 Na-138 \nK-3.6 Cl-102 HCO3-29 AnGap-11\n___ 03:50AM BLOOD Calcium-8.2* Phos-3.1 Mg-2.0\n___ 03:50AM BLOOD Osmolal-292\n___ 03:50AM BLOOD T4-6.2 calcTBG-0.95 TUptake-1.05 \nT4Index-6.5 Free T4-1.2\n___ 03:50AM BLOOD Cortsol-32.0* - On Hydrocortisone for \nthis lab draw\n___ 03:50AM URINE Color-Yellow Appear-Clear Sp ___\n___ 03:50AM URINE Blood-MOD Nitrite-NEG Protein-TR \nGlucose-NEG Ketone-10 Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG\n\nMRI:\nPituitary adenomas that are 2.1 cm large in size.\n"
+}

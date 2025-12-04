@@ -1,0 +1,32 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "This is the support for Low-risk PE$Cause_1": {
+            "The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Types of pulmonary embolism found on CTA. Segmental and subsegmental pulmonary embolism indicate that the embolus is located in the larger branches of the lungs.$Cause_1": {
+                "bilateral segmental and subsegmental PE's$Input2": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "SOB is the common symptom of PE$Cause_1": {
+                    "a bit more short of breath$Input2": {}
+                },
+                "HTN is related to PE$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "The patient is breathing on 3 liters of oxygen. Patients may have hypoxemia without supplemental oxygen, a common symptom of pulmonary embolism$Cause_1": {
+                    "O2 sat on 3L 98%$Input5": {}
+                },
+                "Pneumothorax can increase the risk of pulmonary embolism because it may affect blood flow and pressure in the lungs.$Cause_1": {
+                    "Very small right apical pneumothorax$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "shortness of breath\n",
+    "input2": "His hospital course is as follows: on POD2, after hispost-op chest tube was removed, he began to have somesubcutaneous emphysema, a pigtail catheter was placed and then upsizd for increasing crepitus. A CT scan o ___ showed a small ptx and his crepitus began resolving on POD5. His CT was d/c'd and he was discharged to home on POD9 without issues. On the day on admission he felt a bit more short of breath and went to the ___ where a CTA of the chest documented bilateral segmental and subsegmental PE's. He was transferred here for further management.\n",
+    "input3": "-GERD\n-Gout\n-HTN\n-Known left bundle branch block.\n",
+    "input4": "Non-contributory\n",
+    "input5": "Temp 98  BP 110/60  HR 66  RR 18  O2 sat on 3L 98%\n\nGEN: A&O, NAD\nHEENT: No scleral icterus, mucus membranes moist\nCV: RRR, No M/G/R\nPULM: Clear to auscultation b/l, No W/R/R\nABD: Soft, nondistended, nontender, no rebound or guarding,\nnormoactive bowel sounds, no palpable masses\nDRE: normal tone, no gross or occult blood\nExt: No ___ edema, ___ warm and well perfused\n",
+    "input6": "___ 08:58PM   GLUCOSE-112* UREA N-25* CREAT-1.4* SODIUM-136 \nPOTASSIUM-4.2 CHLORIDE-99 TOTAL CO2-25 ANION GAP-16\n___ 08:58PM   ___ PTT-36.5 ___\n\n___ CXR :\nSevere subcutaneous emphysema is less pronounced today than it was on ___, not appreciably changed since ___.  The distortion of the overlying chest wall anatomy obscures lung findings, but there is still interstitial abnormality in the left lower lobe, probably edema in the setting of severe emphysema.  Both lungs are well expanded.  Very small right apical pneumothorax is seen on the chest CT from ___, not apparent on the conventional chest radiograph, particularly in light of severe paraseptal emphysema.  There is no appreciable pleural effusion.  Heart size is top-normal. \n\nThe patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels\n\n"
+}

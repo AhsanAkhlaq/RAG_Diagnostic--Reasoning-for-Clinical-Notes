@@ -1,0 +1,31 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "BP 191/65$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "blood pressure again increased to 200/85$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.**$Cause_1": {
+            "BP 158/67$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "BP 191/65$Input2": {},
+            "Headache is a classic symptoms of Hypertension.$Cause_1": {
+                "headache$Input1": {}
+            },
+            "Irregular heartbeat is a symptoms of Hypertension.$Cause_1": {
+                "paroxysmal atrial fibrillation$Input2": {}
+            },
+            "Nausea and blurry vision is a symptoms of Hypertension.$Cause_1": {
+                "she was feeling generally nuasea, and had blurry vision$Input2": {}
+            }
+        }
+    },
+    "input1": "headache\n",
+    "input2": "Female with medical problems including , paroxysmal atrial fibrillation, and tachy/brady syndrome s/p ppm was admitted with hypertensive urgency. \n\nThen on the morning of admission she was feeling generally fatigued, weak, nuasea, and had blurry vision. She took her blood pressure several times, and it was elevated to 202-206. She called her PCP who recommended that she restart her norvasc and go to the ED.\n\nUpon arrival in the ED, temp 98.2, HR 61, BP 191/65, RR 15, and pulse ox 100% on room air. Her blood pressure again increased to 200/85, and she was given diltiazem 10mg IV x 1 with improvement in systolic blood pressure to 170. Her exam was unremarkable. Labs were notable for creatinine 1.2, Hct 32.5, and INR 1.8. CXR was unremarkable. She received aspirin 324mg PO x 1 and diltiazem 10mg IV x 1. \n\nReview of systems:  \n(+) Per HPI. blurred vision, shortness of breath, fatigue, nausea\n",
+    "input3": "+Paroxysmal atrial fibrillation  \n+Dyslipidemia\n+Tachy/brady s/p PPM ___ (syncopal episodes)\n+Osteoporosis  \n+GERD  \n+Chronic Renal Failure \n+Baseline Cr 1.2-1.3\n+Obstructive sleep apnea\n+has a CPAP mask but thinks it is not working properly; has not used in the last month  \n+Tricuspid regurgitation\n",
+    "input4": "Father - died of pancreatic CA\nMother - died of \"heart disease\"\n",
+    "input5": "T 96.6 / BP 158/67 / HR 60 / RR 20 / pulse ox 95% on room air / \nWeight 184 lbs\nGen: no acute distress, resting comfortably, appearing younger than stated ago, very pleasant\nHEENT: Clear OP, MMM\nNECK: Supple, No LAD, No JVD\nCV: RR, NL rate. NL S1, S2. No murmurs, rubs or gallops, pacemaker site without swelling, erythema, or tenderness\nLUNGS: CTA, BS ___, No W/R/C\nABD: Soft, NT, ND. NL BS.  No HSM\nEXT: No edema.  \nSKIN: No lesions\nNEURO: A&Ox3. Appropriate. CN intact with the exception of surgical pupils after cataract surgery. Preserved sensation throughout. Normal coordination. Gait assessment deferred\nPSYCH: Listens and responds to questions appropriately, pleasant\n",
+    "input6": "no leukocytosis\nhgb ___ MCV 79\nplt 269\nINR 2.0\nCreat ___  baseline\nTrop <0.01 X2\n\nUA - negative.\nImaging/results: \n___ CXR - nothing acute\n___ ECG - a paced at ~60bpm, normal axis, normal intervals, \n1mm STE in V2 (unchanged from prior\uff09\n"
+}

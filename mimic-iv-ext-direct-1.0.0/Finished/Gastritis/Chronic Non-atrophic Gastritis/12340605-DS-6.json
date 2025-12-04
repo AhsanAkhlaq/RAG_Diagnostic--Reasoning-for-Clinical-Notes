@@ -1,0 +1,26 @@
+{
+    "Chronic non-atrophic gastritis$Intermedia_4": {
+        "Erythema and mosaic appearance of the mucosa were noted in the antrum and stomach body, which is the gold standard for the diagnosis of chronic chronic non-atrophic gastritis\r.$Cause_1": {
+            "EGD:Protruding Lesions 2 cords of grade I varices were seen in the lower third of the esophagus.  Stomach Mucosa: Erythema and mosaic appearance of the mucosa were noted in the antrum and stomach body. Duodenum: Normal duodenum.$Input6": {}
+        },
+        "chronic gastritis$Intermedia_3": {
+            "Long-term Helicobacter pylori infection is a risk factor for chronic gastritis.$Cause_1": {
+                "- long-term Helicobacter pylori infection$Input3": {}
+            },
+            "suspected gastritis$Intermedia_2": {
+                "Abdominal burning pain is a symptom that may occur in patients with gastritis.$Cause_1": {
+                    "presenting with abdominal burning pain that radiates to the back for the past 3 nights.$Input2": {}
+                },
+                "!Abdominal pain is a symptom that may occur in patients with chronic gastritis.$Cause_1": {
+                    "abdominal pain$Input1": {}
+                }
+            }
+        }
+    },
+    "input1": "abdominal pain\n",
+    "input2": "___ year old male with history of EtoH cirrhois complicated by grade 1 varices, portal hypertensive gastropathy, SBP, and encephalopathy, presenting with abdominal burning pain that radiates to the back for the past 3 nights. The pain is slightly relieved after meals then returns, also improved with milk. He has been off of his omeprazole for the past 2 weeks because he forgot some of his medications when he moved out of his place abruptly. He does have nausea, but no vomiting, notes subjective fevers and chills.  He denies chest pain and SOB. He has had similar pain in the past but it never lasted this long. He tried ibuprofen and pepto-bismol (1 small bottle) without much effect.\n\nRegarding his cirrhosis, he follows up regularly.  His cirrhosis has been quite stable as of late, without decompensations. \n\nIn the ED, initial vitals were: 98.8 ___ 16 99%.  Exam notable for diffuse mild abdominal tenderness, guaiac positive dark stool.  CXR did not show any free air or acute process.  Labs stable from prior. He was given 40mg pantoprazole IV.  EKG unremarkable.  \n\nOn the floor, he is comfortable with improved abdominal pain.  He is hungry and asking for food.\n \nROS: per HPI, denies fever, chills, night sweats, headache, vision changes, rhinorrhea, congestion, sore throat, cough, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, hematuria.\n",
+    "input3": "- Hypertension\n- Bipolar disorder\n- EtOH cirrhosis dx ___, h/o hepatic encephalopathy, GI hemorrhage (unclear etiology, not variceal), SBP, SBO, Grade I esophageal varices, portal hypertensive gastropathy\n- Hypospadias                          \n- h/o Lung nodules (Resolved, no additional follow up required) \n- h/o Bell's palsy\n- h/o left foot cellulitis (required wound VAC)\n- long-term Helicobacter pylori infection\n",
+    "input4": "Father: pancreatic cancer - deceased.  \nSister: breast cancer  \nBrother: bladder cancer\nMother: HTN\n",
+    "input5": "VS - T 98.4, BP 158/76, HR 93, RR 20 and 99% RA  \nGENERAL - well-appearing man in NAD, comfortable, appropriate  \nHEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear  \nNECK - supple, no JVD \nLUNGS - CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use  \nHEART - RRR, III/VI holosystolic murmur over LSB, nl S1-S2  \nABDOMEN - NABS, distended, soft/NT, no evidence of fluid wave or shifting dullness, no masses or HSM, no rebound/guarding  \nEXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) \n \nSKIN - no rashes or lesions, no spider angiomata, but skin does have a reddish tint  \nNEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength \n___ throughout, sensation grossly intact throughout, no asterixis\n",
+    "input6": "___ 05:20PM BLOOD WBC-4.9 RBC-4.03* Hgb-11.9* Hct-34.9* MCV-87 MCH-29.6 MCHC-34.2 RDW-15.4 Plt Ct-55*\n___ 06:25AM BLOOD WBC-4.8 RBC-4.13* Hgb-12.4* Hct-35.7* MCV-87 MCH-30.1 MCHC-34.8 RDW-15.5 Plt Ct-64*\n___ 05:20PM BLOOD Neuts-80.9* Lymphs-11.1* Monos-5.0 Eos-2.8 Baso-0.2\n___ 06:25AM BLOOD ___ PTT-31.5 ___\n___ 06:25AM BLOOD Glucose-103* UreaN-10 Creat-1.1 Na-138 K-3.6 Cl-104 HCO3-28 AnGap-10\n___ 06:25AM BLOOD ALT-15 AST-32 LD(LDH)-176 AlkPhos-82 TotBili-0.8\n___ 06:25AM BLOOD Calcium-8.5 Phos-3.9 Mg-2.1\n\nCXR (___): No acute cardiopulmonary process.\n\nEGD (___): Protruding Lesions 2 cords of grade I varices were seen in the lower third of the esophagus.  Stomach Mucosa: Erythema and mosaic appearance of the mucosa were noted in the antrum and stomach body. Duodenum: Normal duodenum. \n\nABD U/S (___): No sonographic evidence for portal vein thrombus.   Trace right lower quadrant ascites.  There is not enough fluid to mark for paracentesis. Cirrhosis with splenomegaly, suggestive of portal hypertension.\n"
+}

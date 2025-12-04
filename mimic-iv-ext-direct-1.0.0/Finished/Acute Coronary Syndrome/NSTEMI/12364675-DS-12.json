@@ -1,0 +1,96 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "Peak troponin greater than 8.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Dyspnea is a symptom of ACS$Cause_1": {
+                "Dyspnea$Input1": {}
+            },
+            "DM is a risk factor of ACS$Cause_1": {
+                "w/ DM2, h/o prostate ca, h/o thyroid ca, stage IV SCC tongue, s/p dissection and chemorad , G-tube, presents as a transfer for I/s/o CAD.$Input2": {}
+            },
+            "HTN is is a risk factor of ACS$Cause_1": {
+                "+HTN$Input3": {}
+            },
+            "DM is is a risk factor of ACS.$Cause_1": {
+                "+DM managed with metformin$Input3": {}
+            },
+            "CAD is a risk factor of ACS.$Cause_1": {
+                "+CAD s/p stenting$Input3": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "s1, s2 present, systolic murmur on LSB w/radiation to carotid is a sign of ACS$Cause_1": {
+                "CARDIAC: RRR, s1, s2 present, systolic murmur on LSB w/radiation to carotid$Input5": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Dyspnea is a symptom of ACS$Cause_1": {
+                    "Dyspnea$Input1": {}
+                },
+                "DM is a risk factor of ACS$Cause_1": {
+                    "w/ DM2, h/o prostate ca, h/o thyroid ca, stage IV SCC tongue, s/p dissection and chemorad , G-tube, presents as a transfer for I/s/o CAD.$Input2": {}
+                },
+                "HTN is is a risk factor of ACS$Cause_1": {
+                    "+HTN$Input3": {}
+                },
+                "DM is is a risk factor of ACS.$Cause_1": {
+                    "+DM managed with metformin$Input3": {}
+                },
+                "CAD is a risk factor of ACS.$Cause_1": {
+                    "+CAD s/p stenting$Input3": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation\r is  a sign of NSTE-ACS$Cause_1": {
+                "ECG\uff1a\nnon-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Dyspnea is a symptom of ACS$Cause_1": {
+                    "Dyspnea$Input1": {}
+                },
+                "DM is a risk factor of ACS$Cause_1": {
+                    "w/ DM2, h/o prostate ca, h/o thyroid ca, stage IV SCC tongue, s/p dissection and chemorad , G-tube, presents as a transfer for I/s/o CAD.$Input2": {}
+                },
+                "HTN is is a risk factor of ACS$Cause_1": {
+                    "+HTN$Input3": {}
+                },
+                "DM is is a risk factor of ACS.$Cause_1": {
+                    "+DM managed with metformin$Input3": {}
+                },
+                "CAD is a risk factor of ACS.$Cause_1": {
+                    "+CAD s/p stenting$Input3": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "s1, s2 present, systolic murmur on LSB w/radiation to carotid is a sign of ACS$Cause_1": {
+                    "CARDIAC: RRR, s1, s2 present, systolic murmur on LSB w/radiation to carotid$Input5": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Dyspnea is a symptom of ACS$Cause_1": {
+                        "Dyspnea$Input1": {}
+                    },
+                    "DM is a risk factor of ACS$Cause_1": {
+                        "w/ DM2, h/o prostate ca, h/o thyroid ca, stage IV SCC tongue, s/p dissection and chemorad , G-tube, presents as a transfer for I/s/o CAD.$Input2": {}
+                    },
+                    "HTN is is a risk factor of ACS$Cause_1": {
+                        "+HTN$Input3": {}
+                    },
+                    "DM is is a risk factor of ACS.$Cause_1": {
+                        "+DM managed with metformin$Input3": {}
+                    },
+                    "CAD is a risk factor of ACS.$Cause_1": {
+                        "+CAD s/p stenting$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea\n",
+    "input2": "w/ DM2, h/o prostate ca, h/o thyroid ca, stage IV SCC tongue, s/p dissection and chemorad , G-tube, presents as a transfer for I/s/o CAD.\n\nHad acute onset of SOB after receiving daily hydration at theinfusion clinic. And 5 days ago, went into acute pulmonary edema while at the infusion clinic.  BNP was greater.  Peak troponin greater than 8. Treated ICU with BiPAP and diuresis and is now compensated. Echo revealed an EF with aortic stenosis with a mean gradient of 12 mmHg and a valve area of 0.9cm2. Right heart cath today: Mean Wedge 20mmHG, pulmonary artery pressure 46/21.  Mean aortic gradient 9 mmHg.  Valve area calculated at 2.93.  Left ventriculogram: EF 25%.  Coronary angiography revealed a patent LAD stent with an 80% stenosis immediately after.  Ostial circumflex with a 90% stenosis.  RCA 70% proximal with a chronically occluded right PDA.  A large ramus had a 60% proximal stenosis.  Patient was stable in the ICU and no longer required ICU care. \n\nOf note, there is a report of him having some intermittent confusion and combativeness at home.  PCP had started him on Keppra for ? concern for seizures. His G tube got clogged and was pulled out this admission. Is able to eat applesauce, protein shakes. Has lost significant weight. They have not been able to put the tube back in due to his current cardiac status. Takes all pills whole in applesauce. Of note, right radial access today: TR band is still in place but depressurized.  No bleeding or hematoma. \n\nVitals prior to transfer: 127/48, 89, 16, afebrile, 96% on 4 liters\n\nOn the floor VSS, on 4L O2, pt is stable. Reporting improvement of SOB, and denies CP now and in the past. Only had CP when he had PCI.  had his last chemo for tongue SCC lastweek.\n",
+    "input3": "+CAD s/p stenting\n+Osteoarthritis with severe arthritis of the left hip (? cane at baseline)\n+HTN\n+HLD\n+DM managed with metformin\n+Hypothyroidism\n+Sporadic Medullary Thyroid Carcinoma s/p thyroidectomy and \ncentral compartment lymph node dissection\n+Migraine headache\n+Esophageal diverticulum and perforation s/p esophageal stent/repair via right thoracotomy with subsequent removal complicated by intrathoracic abscess weeks post op from esophageal repair as mentioned above)\n+Glaucoma\n+Oral leukoplakia\n+Pulmonary nodule right lower lobe (unchanged over years)\n",
+    "input4": "Per record, brother with hx of colon problems.  Mother hx. of DM.\n",
+    "input5": "ADMISSION PHYSICAL EXAM\n=======================\nGENERAL: NAD Oriented x3. Mood, affect appropriate.  \nNECK: Supple. JVP of 15 cm.  \nCARDIAC: RRR, s1, s2 present, systolic murmur on LSB w/radiation to carotid\nLUNGS: Bilateral crackles from mid to base\nABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No\nsplenomegaly.  \nEXTREMITIES: traces of edema\n\nGeneral: NAD\nLungs: Quiet bilaterally, poor air movement \nCV: RRR, S1, S2 present with ___ systolic murmur radiating to\ncarotid, heard at ___\nAbdomen: BS+, ND, NT, soft\nExt: no edema\n",
+    "input6": "ADMISSION LABS\n===========================\n___ 08:04PM BLOOD WBC-4.8 RBC-2.84* Hgb-8.6* Hct-27.5* MCV-97 MCH-30.3 MCHC-31.3* RDW-20.2* RDWSD-69.8* Plt ___\n___ 08:04PM BLOOD ___ PTT-25.9 ___\n___ 08:04PM BLOOD Glucose-166* UreaN-15 Creat-0.7 Na-134* K-4.4 Cl-95* HCO3-28 AnGap-11\n___ 08:04PM BLOOD ___\n___ 08:04PM BLOOD Calcium-6.8* Phos-3.6 Mg-1.8\n___ 08:04PM BLOOD TSH-1.9\n\nDISCHARGE LABS\n===========================\n___ 04:49AM BLOOD WBC-4.8 RBC-2.74* Hgb-8.2* Hct-26.4* MCV-96 MCH-29.9 MCHC-31.1* RDW-19.9* RDWSD-68.8* Plt ___\n___ 04:49AM BLOOD ___ PTT-38.4* ___\n___ 04:49AM BLOOD Glucose-117* UreaN-13 Creat-0.7 Na-138 K-3.7 Cl-95* HCO3-29 AnGap-14\n\nIMAGING\n============================\nCXR ___ IMPRESSION:  \nThere is a left chest wall Port-A-Cath with the tip terminating in the \nsuperior vena cava. There are small bilateral pleural effusions (right greater than left) with bibasilar atelectasis. Underlying consolidation cannot be excluded. There is no pneumothorax. The cardiomediastinal silhouette is within normal limits. There is no pulmonary edema. No acute osseous abnormalities are identified. \n\n\nFindings\nSuccessful PCI with drug-eluting stent of the circumflex coronary artery.\n\nECG\uff1a\nnon-ST-elevation\n"
+}

@@ -1,0 +1,58 @@
+{
+    "NSTE-ACS$Intermedia_4": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "BLOOD cTropnT-0.02*$Input6": {}
+        },
+        "ECG change is a evidence of NSTE-ACS$Cause_1": {
+            "Sinus arrhythmia with ventricular premature beats. Right bundle-branch block. Since the previous tracing of ST segment depression in lead V2 is more prominent.$Input6": {}
+        },
+        "Occlusion of the coronary artery is symbol of acs$Cause_1": {
+            "1. Selective coronary angiography in this right dominant system revealed \n2 vessel coronary artery disease. The LM had minimal angiographically apparent disease. The LAD had no angiographically apparent changes from last angiogram. The LCx had 100% ostial occlusion and was a small vessel; remained unchanged from previous cath. The RCA had 100% acute thrombus in RPLV branch. \n2. Limited resting hemodynamics revealed normal systemic arterial pressure of 143/76mmHg.$Input6": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "BLOOD CK-MB-50* MB Indx-11.6* cTropnT-0.35$Input6": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09..$Cause_1": {
+            "BLOOD CK-MB-51* MB Indx-12.1* cTropnT-0.80*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest Pain$Input1": {}
+            },
+            "symptom of ACS$Cause_1": {
+                "he had been asymptomatic where he had skiied with out any chest pain. Earlier today he was walking with his wife when he noted substernal chest pain that was relieved by rest. He has angina, but he did not have chest pain to this magnitude in the past.$Input2": {}
+            },
+            "risk factors of acs$Cause_1": {
+                "CAD  \nAortic valve replacement- porcine$Input3": {}
+            },
+            "family history is a risk factor$Cause_1": {
+                "Mother with MI,$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "evidence of acs$Cause_1": {
+                "his last Cath  demonstrated 90% focal mid/distal LAD setnosis of a twin LAD. 90% LCX and serioal stenosis of the RCA. He has not had any stents placed.  He had no intervention from his last Cath.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "symptom of ACS$Cause_1": {
+                    "he had been asymptomatic where he had skiied with out any chest pain. Earlier today he was walking with his wife when he noted substernal chest pain that was relieved by rest. He has angina, but he did not have chest pain to this magnitude in the past.$Input2": {}
+                },
+                "risk factors of acs$Cause_1": {
+                    "CAD  \nAortic valve replacement- porcine$Input3": {}
+                },
+                "family history is a risk factor$Cause_1": {
+                    "Mother with MI,$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "Chest Pain\n",
+    "input2": "58 y/o gentlemen with recent CATH showing no interveinable CAD, dyslipidemia, AVR, with h/o PE on coumadin who presents with persistent exertional chest pain.  \n\nPer the patient, he had been asymptomatic where he had skiied with out any chest pain. Earlier today he was walking with his wife when he noted substernal chest pain that was relieved by rest. He has angina, but he did not have chest pain to this magnitude in the past. He was able to go home where Nitro SL provided some relief. He reported some nausea, but no jaw pain, shoulder pain, diaphoresis or emesis. The chest pain persisted and he presented to the ED.  \n\nOf note his last Cath  demonstrated 90% focal mid/distal LAD setnosis of a twin LAD. 90% LCX and serioal stenosis of the RCA. He has not had any stents placed.  He had no intervention from his last Cath.  \n\nOn review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. He denies recent fevers, chills or rigors. He denies exertional buttock or calf pain. All of the other review of systems were negative.  \n\nIn the ED, his vital signs were 97.2 71 BP 194/95 14 100% RA. He was given the following medications: ASA 81 mg x 3, SL nitro x 3, strated on nitro gtt, and heparin drip. He was also given IV morphine.  \n\nOn the floor, he had additional chest pain that was relieved when the nitro gtt was uptitrated. At the time of this interview his chest pain was minimal.\n",
+    "input3": "1. CARDIAC RISK FACTORS: (+) Dyslipidemia \n2. CARDIAC HISTORY:\n3. OTHER PAST MEDICAL HISTORY:  \n+BPH  \n+CAD  \n+Aortic valve replacement- porcine\n+Pulmonary embolism \n+Hyperlipidemia  \n+Arthritis  \n+s/p Appendectomy  \n-GERD\n",
+    "input4": "Mother with MI, Brother with early CABG\n",
+    "input5": "GENERAL: Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \nNECK: Supple with JVP not appreciated at 30 degrees.  \nCARDIAC: PMI located in intercostal space, midclavicular line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness.  \nEXTREMITIES: No c/c/e.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.\n",
+    "input6": "Admission:\n___ 01:44PM BLOOD WBC-8.2 RBC-4.93 Hgb-15.2 Hct-44.2 MCV-90 MCH-30.8 MCHC-34.4 RDW-13.3 Plt ___\n___ 01:44PM BLOOD ___ PTT-24.3 ___\n___ 01:44PM BLOOD Glucose-109* UreaN-20 Creat-1.1 Na-139 K-4.5 Cl-103 HCO3-28 AnGap-13\n___ 01:44PM BLOOD CK(CPK)-185\n___ 01:44PM BLOOD Calcium-9.5 Phos-2.9 Mg-2.2\n.\nCardiac Enzymes:\n___ 01:44PM BLOOD cTropnT-0.02*\n___ 12:50AM BLOOD CK-MB-50* MB Indx-11.6* cTropnT-0.35*\n___ 02:00AM BLOOD CK-MB-52* MB Indx-12.8* cTropnT-0.49*\n___ 07:00AM BLOOD CK-MB-51* MB Indx-12.1* cTropnT-0.80*\n___ 12:55AM BLOOD CK-MB-25* MB Indx-8.1*\n___ 07:25AM BLOOD CK-MB-35* MB Indx-9.5*\n\nECG:\nSinus arrhythmia with ventricular premature beats. Right bundle-branch block. Since the previous tracing of ST segment depression in lead V2 is more prominent. \n\nCATH:\nCOMMENTS:      \n1. Selective coronary angiography in this right dominant system revealed \n2 vessel coronary artery disease. The LM had minimal angiographically apparent disease. The LAD had no angiographically apparent changes from last angiogram. The LCx had 100% ostial occlusion and was a small vessel; remained unchanged from previous cath. The RCA had 100% acute thrombus in RPLV branch. \n2. Limited resting hemodynamics revealed normal systemic arterial pressure of 143/76mmHg.\n"
+}

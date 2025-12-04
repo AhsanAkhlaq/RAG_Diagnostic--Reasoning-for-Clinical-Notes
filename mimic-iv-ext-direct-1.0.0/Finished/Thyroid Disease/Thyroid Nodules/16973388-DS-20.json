@@ -1,0 +1,24 @@
+{
+    "Thyroid Nodules$Intermedia_3": {
+        "The detection of nodules by ultrasound is the criterion for diagnosing thyroid nodules.$Cause_1": {
+            "Recent ultrasound-guided fine-needle aspiration biopsies of the 2 right-sided thyroidnodules have provided evidence of cytology$Input2": {}
+        },
+        "FNA test rules out thyroid cancer$Cause_1": {
+            "FNA examination revealed non-malignant tumor.$Input6": {}
+        },
+        "Suspected Thyroid disease$Intermedia_2": {
+            "Patient previously underwent left hemithyroidectomy to treat a benign nodule which is a risk factor for thyroid nodules$Cause_1": {
+                "The patient underwent a left hemithyroidectomy$Input2": {}
+            },
+            "Thyroiditis sometimes leads to the formation of thyroid nodules$Cause_1": {
+                "thyroiditis$Input3": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "The patient is a woman with a complicated and extensive previous medical history significant for multiple sclerosis,and for which she is on prednisone for a relatively long time and has developed adrenal insufficiency as a consequence, status post partial right nephrectomy for renal cell carcinoma, sarcoidosis, Hashimoto thyroiditis, asthma, osteoporosis, hypertension,sleep apnea, and gastric ulcer.\n\nThe patient underwent a left hemithyroidectomy 2 years ago at another institution for a nodule that turned out to beenign. Recent ultrasound-guided fine-needle aspiration biopsies of the 2 right-sided thyroidnodules have provided evidence of cytology.   \n\n",
+    "input3": "- Multiple sclerosis \n- Adrenal insufficiency\n- Sympathotonic orthostatic hypotension\n- Renal cell carcinoma s/p R partial nephrectomy\n- Pulmonary sarcoidosis\n- thyroiditis\n- GERD\n- recurrent UTIs\n- osteoporosis\n- asthma\n- chronic sinusitis\n- ocular migraines\n",
+    "input4": "Mother - breast ca, lung ca, colon ca, leukemia\nFamily history of thyroiditis but no thyroid cancer\n",
+    "input5": "T 99, BP 120/76, HR 84, RR 18, O2 96%RA\nGeneral: A&O, NAD\nHEENT:No scleral icterus, mucus membranes dry; surgical incision steris c/d/i mild eccymosis, mild edema, no hematoma \nCardiac: RRR, No M/G/R\nPulmonary: Clear to auscultation b/l, No W/R/R\nAbdomen: Soft, nondistended, nontender, no rebound or guarding, normoactive bowel sounds, no palpable masses\nExtremities: warm well perfused, no ___ edema\n",
+    "input6": "___ 01:02PM BLOOD Na-140 K-3.2* Cl-101\n___ 06:30AM BLOOD Glucose-93 UreaN-27* Creat-0.7 Na-141 K-4.0 Cl-105 HCO3-30 AnGap-10\n___ 01:02PM BLOOD Calcium-8.4\n___ 05:15AM BLOOD Calcium-7.1*\n___ 01:17PM BLOOD Calcium-8.2*\n___ 06:00AM BLOOD Calcium-7.5*\n___ 06:30AM BLOOD Calcium-7.9* Phos-3.5 Mg-2.1\n\nFNA examination revealed non-malignant tumor.\n"
+}

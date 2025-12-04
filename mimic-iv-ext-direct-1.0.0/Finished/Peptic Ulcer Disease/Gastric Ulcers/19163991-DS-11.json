@@ -1,0 +1,27 @@
+{
+    "Gastric Ulcers$Intermedia_3": {
+        "Ulcers in the gastric body and antrum are direct evidence of peptic ulcer disease.$Cause_1": {
+            "Ulcers in the stomach body and antrum (biopsy)$Input6": {}
+        },
+        "Suspected Peptic Ulcer Disease$Intermedia_2": {
+            "The pain is persistent, intermittent and dull at night, and is aggravated by food. This is a common symptom of gastric ulcer, because the stomach acid increases under the stimulation of food, causing the pain at the ulcer to increase.$Cause_1": {
+                "Pain has persisted, dull intermittent, occurring at night, worse with food.$Input2": {}
+            },
+            "SAID use (such as Alevitra) is a significant risk factor for gastric ulcers because they damage the stomach lining.$Cause_1": {
+                "take 3 aleve in the week prior to admission$Input2": {}
+            },
+            "Black stool is often a sign of upper gastrointestinal bleeding, which may be caused by a stomach ulcer.$Cause_1": {
+                "jet black stool$Input2": {}
+            },
+            "Stomach ulcers often cause tenderness in the upper abdomen because the ulcers can cause inflammation and pain in this area.$Cause_1": {
+                "diffuse mild tenderness to palpation most pronounced at epigastrium$Input5": {}
+            }
+        }
+    },
+    "input1": "none\n",
+    "input2": "On ___, pain was sharp, steady, nonradiating. She recalls that she fell in ___. She was in ___ for a funeral, fell on ___. Thought she was stepping on sidewalk, but sneaker got caught, and she landed on her R side. At the time, she felt something had \"broken loose\" in her RUQ. When she returned to ___ on ___, she had PCP apt which she cancelled. She was seen by her PCP ___ ___, at which time she described fall, noting intermittent RUQ pain since the time of fall. Xray was reportedly done, unrevealing. \n\nPain has persisted, dull intermittent, occurring at night, worse with food. Has had nonbloody emesis 4 times daily for the past ___ weeks. She took two doses of GasX on ___. On the am of ___, she noted jet black stool, single episode. Stayed in bed on ___ pain. On day prior to presentation, had multiple episodes of emesis, nonbloody. She did take 3 aleve in the week prior to admission, she denies all other NSAID use. She has never had similar symptoms. Endorses lightheadedness on day prior to presentation. Last BM was day prior to presentation, brown, without bright red blood. She denies fevers, chills. GasX provided no relief. She describes 9 lb weight loss over the preceding month ___ decreased PO intake. Weight is now down to 142 lbs. Denies night sweats.\n",
+    "input3": "NIDDM2 - last A1c 6.5% on ___\nBreast cancer - L breast invasive carcinoma, colloid, stage 1, \ns/p lumpectomy, XRT ___\nGoiter, nontoxic, multinodular ___ - FNA negative\nHLD\nHx of DVT - ___, in setting of fall and injury, s/p RLE \nDVT on warfarin x1 month only ___ hematoma - brother has hx of \nthrombosis as well\nOsteopenia\nTobacco dependence\nPaget's disease\nChronic pain syndrome on gabapentin, Percocet, cymbalta\n",
+    "input4": "2 brothers and a sister with DM\nBrother recently diagnosed with metastatic pancreatic cancer, \nlives in ___\n",
+    "input5": "VS 98.1 PO 151 / 64 L Sitting 64 18 100 RA \nGen: Pleasant, alert, interactive female, lying in bed, in NAD\nHEENT: PERRL, EOMI, clear oropharynx, anicteric sclera, MMM\nNeck: supple, no cervical or supraclavicular adenopathy\nCV: RRR, no m/r/g\nLungs: CTAB, no wheeze or rhonchi, good air movement throughout\nAbd: soft, nondistended, diffuse mild tenderness to palpation most pronounced at epigastrium, no rebound or guarding\nGU: No foley\nRectal: Deferred, given positive guaiac documented at ___ \nurgent care and in ___ ED\nExt: WWP, no clubbing, cyanosis or edema\nNeuro: grossly intact\n",
+    "input6": "___ 09:30PM   GLUCOSE-144* UREA N-12 CREAT-0.7 SODIUM-136 \nPOTASSIUM-3.7 CHLORIDE-99 TOTAL CO2-24 ANION GAP-17\n___ 09:30PM   estGFR-Using this\n___ 09:30PM   ALT(SGPT)-10 AST(SGOT)-14 ALK PHOS-86 TOT \nBILI-0.4\n___ 09:30PM   LIPASE-19\n___ 09:30PM   ALBUMIN-4.1 CALCIUM-9.8 PHOSPHATE-3.2 \nMAGNESIUM-2.0\n___ 09:30PM   WBC-10.9* RBC-3.69* HGB-10.4* HCT-32.8* \nMCV-89 MCH-28.2 MCHC-31.7* RDW-14.1 RDWSD-45.8\n___ 09:30PM   NEUTS-49.2 ___ MONOS-6.8 EOS-0.4* \nBASOS-0.5 IM ___ AbsNeut-5.40 AbsLymp-4.68* AbsMono-0.74 \nAbsEos-0.04 AbsBaso-0.05\n___ 09:30PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL \nPOIKILOCY-OCCASIONAL MACROCYT-NORMAL MICROCYT-NORMAL \nPOLYCHROM-OCCASIONAL OVALOCYT-OCCASIONAL\n___ 09:30PM   PLT SMR-NORMAL PLT COUNT-242\n___ 09:30PM   ___ PTT-31.2 ___\n\nCT abd/pelvis with contrast ___:\nIMPRESSION: \n \n1. No acute CT intra-abdominal or intrapelvic findings to account for patient symptoms. \n2. Patient experienced a contrast related event during this \nexam. For details please see note in the electronic medical record/OMR. The patient has received instruction on how to manage this event at home. \n\nEGD ___\n \nImpression: Ulcers in the stomach body and antrum (biopsy)\n\n"
+}

@@ -1,0 +1,114 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "The peak hs-cTn exceeded the 99th percentile of the normal control value$Cause_1": {
+            "cTropnT-1.77*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Possible mitral regurgitation$Cause_1": {
+                "Trivial mitral regurgitation is seen.$Input6": {}
+            },
+            "Chest pain is the mainly clinical presentation$Cause_1": {
+                "patient reported epigastric pressure while at rest which was non-radiating. Pain started while sitting, then lasted until he fell$Input2": {}
+            },
+            "Chest pain is a clinical presentation$Cause_1": {
+                "Chest Pain$Input1": {}
+            },
+            "DM, AFib and HTN etc are the risk factors of ACS$Cause_1": {
+                "He is a Male w/ DM, AFib and HTN who presented to ED w/ one day of epigastric pain, EKG changes, and a troponin leak$Input2": {}
+            },
+            "DM, AFib and HTN etc are the risk factors.$Cause_1": {
+                "+ Diabetes mellitus type II: oral agents & insulin\n+ Atrial Fibrillation\n+ Hypertension$Input3": {}
+            },
+            "may be a family history$Cause_1": {
+                "Father MI in late, Mother DM$Input4": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "transient ST-segment elevation, persistent or transient ST-segment depression, and T wave abnormalities, including hyperacute T waves, T wave inversion, biphasic T waves, flat T waves.$Cause_1": {
+                "Sinus rhythm. ST segment elevation in leads III and possibly lead aVF. T wave inversions in leads V4-V6. ST segment depressions in leads I and V6 consistent with acute ischemia or an infarction. No previous tracing available for comparison.$Input6": {}
+            },
+            "transient ST-segment elevation, persistent or transient ST-segment depression, and T wave abnormalities, including hyperacute T waves, T wave inversion, biphasic T waves, flat T waves, and pseudonormalization of T waves.$Cause_1": {
+                "Sinus Rhythm at 75 ant/septal and lateral ST-T changes, ST elevation in III, and + TWI.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Possible mitral regurgitation$Cause_1": {
+                    "Trivial mitral regurgitation is seen.$Input6": {}
+                },
+                "Chest pain is the mainly clinical presentation$Cause_1": {
+                    "patient reported epigastric pressure while at rest which was non-radiating. Pain started while sitting, then lasted until he fell$Input2": {}
+                },
+                "Chest pain is a clinical presentation$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "DM, AFib and HTN etc are the risk factors of ACS$Cause_1": {
+                    "He is a Male w/ DM, AFib and HTN who presented to ED w/ one day of epigastric pain, EKG changes, and a troponin leak$Input2": {}
+                },
+                "DM, AFib and HTN etc are the risk factors.$Cause_1": {
+                    "+ Diabetes mellitus type II: oral agents & insulin\n+ Atrial Fibrillation\n+ Hypertension$Input3": {}
+                },
+                "may be a family history$Cause_1": {
+                    "Father MI in late, Mother DM$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation\r is  a sign of NSTE-ACS$Cause_1": {
+                "ECG\uff1anon-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Possible mitral regurgitation$Cause_1": {
+                    "Trivial mitral regurgitation is seen.$Input6": {}
+                },
+                "Chest pain is the mainly clinical presentation$Cause_1": {
+                    "patient reported epigastric pressure while at rest which was non-radiating. Pain started while sitting, then lasted until he fell$Input2": {}
+                },
+                "Chest pain is a clinical presentation$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "DM, AFib and HTN etc are the risk factors of ACS$Cause_1": {
+                    "He is a Male w/ DM, AFib and HTN who presented to ED w/ one day of epigastric pain, EKG changes, and a troponin leak$Input2": {}
+                },
+                "DM, AFib and HTN etc are the risk factors.$Cause_1": {
+                    "+ Diabetes mellitus type II: oral agents & insulin\n+ Atrial Fibrillation\n+ Hypertension$Input3": {}
+                },
+                "may be a family history$Cause_1": {
+                    "Father MI in late, Mother DM$Input4": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "transient ST-segment elevation, persistent or transient ST-segment depression, and T wave abnormalities, including hyperacute T waves, T wave inversion, biphasic T waves, flat T waves.$Cause_1": {
+                    "Sinus rhythm. ST segment elevation in leads III and possibly lead aVF. T wave inversions in leads V4-V6. ST segment depressions in leads I and V6 consistent with acute ischemia or an infarction. No previous tracing available for comparison.$Input6": {}
+                },
+                "transient ST-segment elevation, persistent or transient ST-segment depression, and T wave abnormalities, including hyperacute T waves, T wave inversion, biphasic T waves, flat T waves, and pseudonormalization of T waves.$Cause_1": {
+                    "Sinus Rhythm at 75 ant/septal and lateral ST-T changes, ST elevation in III, and + TWI.$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Possible mitral regurgitation$Cause_1": {
+                        "Trivial mitral regurgitation is seen.$Input6": {}
+                    },
+                    "Chest pain is the mainly clinical presentation$Cause_1": {
+                        "patient reported epigastric pressure while at rest which was non-radiating. Pain started while sitting, then lasted until he fell$Input2": {}
+                    },
+                    "Chest pain is a clinical presentation$Cause_1": {
+                        "Chest Pain$Input1": {}
+                    },
+                    "DM, AFib and HTN etc are the risk factors of ACS$Cause_1": {
+                        "He is a Male w/ DM, AFib and HTN who presented to ED w/ one day of epigastric pain, EKG changes, and a troponin leak$Input2": {}
+                    },
+                    "DM, AFib and HTN etc are the risk factors.$Cause_1": {
+                        "+ Diabetes mellitus type II: oral agents & insulin\n+ Atrial Fibrillation\n+ Hypertension$Input3": {}
+                    },
+                    "may be a family history$Cause_1": {
+                        "Father MI in late, Mother DM$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest Pain\n",
+    "input2": "He is a Male w/ DM, AFib and HTN who presented to ED w/ one day of epigastric pain, EKG changes, and a troponin leak most consistent with Acute coronary syndrome.\n\nIn ED, patient reported epigastric pressure while at rest which was non-radiating. Pain started while sitting, then lasted until he fell). Patient noted similar pain the morning of admission after taking daily medications. He took ASA 325 mg at home with complete relief of symptoms. Denied pain on exertion, SOB, N/V, or diaphoresis. \n\nED Course: \nInitial Vitals: pain HR 74  140/82  15  94%. \nTrop: 0.27, INR of 1.0 and hemeoccult neg, will start heparin. \nEKG: Sinus Rhythm at 75 ant/septal and lateral ST-T changes, ST elevation in III, and + TWI. Cards consult: dx NSTEMI vs missed STEMI, admit, cath in AM. Heparin gtt initiated; guaiac neg At time of transfer to floor vitals were: 98.4  HR 57  122/67 21 95% RA \n\nOn arrival to floor, patient denies any chest pain, abdominal pain, or dyspnea. Overall, feels well.\n\nROS: + diarrhea x1 month with some normal BM's usually after takes meds; Otherwise full 10 pt review of systems negative except for above. Of note, no denies any abdominal pain, dyspnea, fever, nausea or vomiting.\n",
+    "input3": "+ Diabetes mellitus type II: oral agents & insulin\n+ Atrial Fibrillation\n+ Hypertension\n",
+    "input4": "Father MI in late, Mother DM\n",
+    "input5": "Admission Physical Exam:\nVS:  98.0  122/80  HR 70  sat 98% on RA;  weight 92 kg\nGen: NAD\nHEENT: clear OP\nCV: NR, RR, no murmur\nPulm: CTAB, nonlabored\nAbd: soft, NT, ND\nGU: no Foley\nExt: no edema\nSkin: no lesions noted\nNeuro: no gross deficits, A&Ox3\nPsych: appropriate\n",
+    "input6": "Admission Labs:\n___ 03:23PM   ___ PTT-30.3 ___\n___ 03:23PM   PLT COUNT-260\n___ 03:23PM   NEUTS-77.3* LYMPHS-16.7* MONOS-4.7 EOS-0.3 BASOS-1.0\n___ 03:23PM   WBC-9.5 RBC-4.66 HGB-15.0 HCT-43.6 MCV-94 MCH-32.2* MCHC-34.4 RDW-12.9\n___ 03:23PM   cTropnT-0.27*\n___ 03:23PM   estGFR-Using this\n___ 03:23PM   GLUCOSE-286* UREA N-16 CREAT-0.8 SODIUM-138 POTASSIUM-4.4 CHLORIDE-102 TOTAL CO2-26 ANION GAP-14\n___ 09:45PM   cTropnT-1.77*\n___:37PM   PTT-52.7*\n\nImaging/Studies:\n# CXR: IMPRESSION: No evidence of an acute cardiopulmonary process.\n# ECG: Sinus rhythm. ST segment elevation in leads III and possibly lead aVF. T wave inversions in leads V4-V6. ST segment depressions in leads I and V6 consistent with acute ischemia or an infarction. No previous tracing available for comparison. \n# ECG: Sinus rhythm. Similar to tracing #1.\n# ECG: Sinus rhythm with partial resolution of the ST-T wave abnormalities in the anterolateral wall. \n# ECG: Sinus rhythm. Similar to tracing #3.\nECG\uff1anon-ST-elevation\n\nFindings\nESTIMATED blood loss: < 50 cc\nHemodynamics (see above): Coronary angiography:  right dominant\nLMCA:  Mild diffuse\nLAD:  Proximal diffuse 30%; Mid 40%; Calcified;\nLCX:  Diffuse disease with mid 40%;\nRCA:  Heavily calcified; Severe diffuse ectasia and tortuosity;Lesion severity difficult to assess due to tortuosity;  Visual estimate is 60-70% proximal, 70% mid and 60-70% distal.\n\n# Trans-thoracic Echocardiogram:\nThe left atrium is mildly dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is low normal (LVEF 50%) secondary to apical hypokinesis with focal apical dyskinesis. The inferior and posterior walls (suboptimally visualized) may also be hypokinetic. Right ventricular chamber size and free wall motion are normal. There are focal calcifications in the aortic arch. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Trivial mitral regurgitation is seen. The left ventricular inflow pattern suggests impaired relaxation. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion.\n"
+}

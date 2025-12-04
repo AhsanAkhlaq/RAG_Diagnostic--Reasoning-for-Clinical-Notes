@@ -1,0 +1,41 @@
+{
+    "Submassive PE$Intermedia_4": {
+        "Right ventricular dilatation is a direct consequence of increased right ventricular pressure due to pulmonary embolism$Cause_1": {
+            "Bedside TTE showed rv dilation$Input2": {}
+        },
+        "Rule out massive PE$Cause_1": {
+            "The patient is hemodynamically stable.$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "This is a typical ECG change in pulmonary embolism, reflecting the increased workload on the right ventricle.$Cause_1": {
+                "EKG demonstrated s1q3t3$Input2": {}
+            },
+            "A significant increase in dimers indicates possible thrombosis in the body.$Cause_1": {
+                "D-Dimer-863\ufeff*$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Patients with cardiac arrest may have a variety of underlying cardiovascular diseases, which themselves may increase the risk of pulmonary embolism.$Cause_1": {
+                    "S/p Cardiac Arrest$Input1": {}
+                },
+                "Obesity is a known risk factor for pulmonary embolism$Cause_1": {
+                    "obese$Input2": {}
+                },
+                "Shortness of breath is one of the most common symptoms of pulmonary embolism.$Cause_1": {
+                    "SOB$Input2": {}
+                },
+                "Abnormal blood clotting sometimes occurs in people with pulmonary embolism$Cause_1": {
+                    "\"bleeding\" but they don't know where$Input2": {}
+                },
+                "Pulmonary embolism can increase the burden on the heart and, in severe cases, can cause a slowing of the heartbeat or even cardiac arrest.$Cause_1": {
+                    "Became bradycardic and coded$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "S/p Cardiac Arrest\n",
+    "input2": "She obese. Per report, pt called friend reporting abd pain, SOB and \"bleeding\" but they don't know where she was bleeding from. Became bradycardic and coded. Arrest x 4 in total while there. Rectal +blood. Labs: CO2 5, Creatinine 13, K 5.4, Hct 39. Transferred for further care. \n\ufeff\nIn the ED, initial vitals were deferred. Initially on levophed max peripherally. Within 5 min of arrival bradycardic and arrested.EKG demonstrated s1q3t3 w/o any sig ST changes or other evidence of ischemia. Bedside TTE showed rv dilation, mod-sev TR, + mc sign all suggestive of PE. Labs significant for ph of 6.68, lactate of 14, Cr of 11, stable Hct.\n",
+    "input3": "+Diabetes\n+Dyslipidemia\n+Obesity (wt >300 lbs)\n",
+    "input4": "unable to be obtained\n",
+    "input5": "Physical Exam:\nADMISSION EXAM\nGeneral: intubated, sedated \nHEENT: fixed pupils\nChest: CTABL, ET tube in place\nCardiovascular: tachycardic, no m/r/g\nAbdominal: Soft, Nontender, Nondistended\nExtr/Back: No cyanosis, clubbing or edema\nSkin: No rash, Warm and dry\n\ufeff\n",
+    "input6": "ADMISSION LABS\n\ufeff\n___ 04:12AM   TYPE-ART PO2-204* PCO2-29* PH-6.72* TOTAL CO2-4* BASE XS--34 INTUBATED-INTUBATED VENT-CONTROLLED\n___ 04:12AM   O2 SAT-98\n___ 03:24AM   PO2-143* PCO2-25* PH-6.68* TOTAL CO2-4* BASE XS--36 INTUBATED-INTUBATED COMMENTS-GREEN TOP\n___ 03:24AM   GLUCOSE-97 LACTATE-14.1* NA+-150* K+-6.1* CL--111*\n___ 03:24AM   HGB-12.2 calcHCT-37 O2 SAT-95 CARBOXYHB-1 MET HGB-0\n___ 03:24AM   freeCa-1.06*\n___ 03:19AM   UREA N-57* CREAT-11.2*\n___ 03:19AM   estGFR-Using this\n___ 03:19AM   LIPASE-385*\n___ 03:19AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG\n___ 03:19AM   WBC-15.1* RBC-3.75* HGB-11.7* HCT-39.7 MCV-106* MCH-31.1 MCHC-29.4* RDW-12.1\n___ 03:19AM   PLT COUNT-266\n___ 03:19AM   PTT-29.0 D-Dimer-863\ufeff*\n\nThe patient is hemodynamically stable.\n"
+}

@@ -1,0 +1,45 @@
+{
+    "Alzheimer$Intermedia_3": {
+        "Amyloid deposition is one of the key biomarkers of Alzheimer's disease, and its accumulation in the prefrontal and temporal regions of the brain is associated with cognitive decline.$Cause_1": {
+            "Amyloid deposition was detected in areas of the frontal and temporal lobes of the brain$Input6": {}
+        },
+        "Suspected Alzheimer$Intermedia_2": {
+            "This suggests that patients may have cognitive impairment or reduced spatial orientation, which are common early symptoms of Alzheimer's disease.$Cause_1": {
+                "Found wondering$Input1": {}
+            },
+            "Altered mental state, such as confusion or uncertainty, is a common early symptom of Alzheimer's disease$Cause_1": {
+                "presenting with altered mental status$Input2": {}
+            },
+            "Frequent wandering off, especially from home without destination, is a common behavioral problem among people with Alzheimer's disease$Cause_1": {
+                "second episode in 2 weeks (OSH reports 4/week) in which he has wandered out of the house without telling her$Input2": {}
+            },
+            "Short-term memory loss is one of the most characteristic symptoms of Alzheimer's disease$Cause_1": {
+                "he has developed short term memory loss$Input2": {}
+            },
+            "Repetitive speech is common in people with Alzheimer's disease and reflects impairments in their memory and cognitive function.$Cause_1": {
+                "patient tells same stories again and again$Input2": {}
+            },
+            "Forgetting basic daily activities, such as eating, is also a sign of memory impairment.$Cause_1": {
+                "forgets if he eats$Input2": {}
+            },
+            "The need for frequent reminders to perform basic personal hygiene activities may indicate a decline in self-management skills, which is a sign of cognitive decline.$Cause_1": {
+                "has to be reminded to bathe etc$Input2": {}
+            },
+            "Confusion about why you are in a certain environment (such as a hospital) may be due to severe impairment of cognitive function.$Cause_1": {
+                "not sure why he is in the hospital$Input2": {}
+            },
+            "If there are discrepancies between the procedure report and the family member's memory, this may indicate memory problems in the patient or family member, and memory problems are one of the classic symptoms of Alzheimer's.$Cause_1": {
+                "s/p pylostomy per OSH notes, oper report daughter denies \nsurgeries$Input3": {}
+            },
+            "High blood pressure is a known risk factor for cognitive decline and Alzheimer's disease.$Cause_1": {
+                "HTN$Input3": {}
+            }
+        }
+    },
+    "input1": "Found wondering\n",
+    "input2": "He is with tobacco abuse, s/p pacer, presenting with altered mental status. He lives with his daughter and was found today by police away from home. Per daughter, this is the second episode in 2 weeks (OSH reports 4/week) in which he has wandered out of the house without telling her. She thinks he is going to the store. Other than these wanderings, there have been no changes in behavior, speech, etc - overall she thinks he has developed short term memory loss. She has tried to help him by writing down address on a card, but he did not bring this with him today. Other than that, dtr remarks that patient tells same stories again and again, forgets if he eats, has to be reminded to bathe etc. Has otherwise been okay, has chronic cough that may be slightly worse lately, no fevers or other symptoms. Patient reports cough productive of clear sputum.  \n\nToday he presented to OSH where head CT was suggestive of SDH. He also reported falling off a truck while truck was it was moving 4 weeks ago. Transferred  for evaluation by neurosurgery.  \n\nIn the ED, initial VS were: 98.5 73 151/84 18 99% on 3L NC. Neuro exam unremarkable; not oriented and reporting gradiose delusions. Again told the truck story. Labs notable for WBC 13.5, plts 115, chems unremarkable, CEs negative, negative tox screen, UA neg for infection. Received levofloxacin.  \n\nOn the floor, patient without complaint, not sure why he is in the hospital. .  \n",
+    "input3": " s/p PPM - patient \n# s/p pylostomy per OSH notes, oper report daughter denies \nsurgeries  \n# hx of GI bleed requring pRBCs, none recently  \n# umbilical hernia  \n# HTN \n",
+    "input4": "non-contributory  \n",
+    "input5": "Vitals: T:97.5, 134/69, 65, 18, 100% 2L  \nGeneral: Alert, very pleasant, no distress  \nHEENT: Face symmetric, sclera anicteric, PERRL, EOMI, MMM, oropharynx clear  \nNeck: supple, JVD 1-2 cm ASA, no LAD  \nLungs: Clear to auscultation bilaterally, occ rhonchi at L base. \nCV: Regular rate and rhythm, normal S1 + S2, faint SM at LUSB  \nAbdomen: soft, non-distended, bowel sounds present. Mild TTP in LUQ and overlying ribs. no rebound tenderness or guarding. No appreciable hepatomegaly or splenomegaly by percussion or palpation.  \nExt: Warm, well perfused, 2+ pulses, no clubbing, cyanosis. 1+ \nbilateral pitting edema, equal.  \nNeuro: CN II-XII intact. Sensory grossly intact. Gait not tested. \n\n",
+    "input6": "___ 12:23AM BLOOD WBC-13.5* RBC-4.46* Hgb-12.2* Hct-37.7* MCV-84 MCH-27.3 MCHC-32.3 RDW-13.6 Plt ___\n___ 12:23AM BLOOD ___ PTT-26.4 ___\n___ 12:23AM BLOOD Glucose-116* UreaN-16 Creat-0.8 Na-139 K-4.4 Cl-103 HCO3-28 AnGap-12\n___ 12:23AM BLOOD Albumin-4.1 Calcium-9.3 Phos-3.3 Mg-1.9\n___ 12:23AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG\n\nCHEST X-RAY\nSINGLE PORTABLE UPRIGHT VIEW OF THE CHEST: A left chest pacing device demonstrates two intact leads. Patient rotation limits evaluation of the cardiomediastinal contour, but there is cardiomegaly and mild pulmonary edema. No site of focal consolidation is seen to suggest pneumonia and there is no pleural effusion.  \n\nHEAD CT WITHOUT IV CONTRAST: There is no hemorrhage, edema, mass effect, shift of midline structures, or evidence of major vascular territory infarction. The ventricles and sulci are prominent and are enlarged in size, consistent with age-related parenchymal involutional change. In addition, there is asymmetric enlargement of the extra-axial CSF space on the left. This may represent a combination of asymmetric parenchymal atrophy and possible chronic subdural hematoma or hygroma, although this differentiation is difficult with lack of remote prior studies. The paranasal sinuses demonstrate circumferential mucosal thickening of the maxillary sinuses (2:3), as well as ethmoid opacification and sphenoid sinus opacification (2:9), The orbits appear unremarkable. The mastoid air cells appear normal. \nIMPRESSION: \n1. No hemorrhage or edema or evident acute process. \n2. Involutional change with enlargement of ventricles and sulci, and asymmetric enlargement of extra-axial CSF space on the left. \n\n\nECHOCARDIOGRAM:\nThe left atrium is moderately dilated. The right atrium is moderately dilated. There is asymmetric left ventricular hypertrophy. The left ventricular cavity size is normal. There is mild regional left ventricular systolic dysfunction with apical hypokinesis. The remaining segments contract normally (LVEF = 50%). There is no left ventricular outflow obstruction at rest or with Valsalva. These findings are consistent with hypertrophic non-obstructive cardiomyopathy (HCM). Right ventricular chamber size and free wall motion are normal. The aortic root is mildly dilated at the sinus level. The ascending aorta is moderately dilated. The aortic valve leaflets are moderately thickened. There is no aortic valve stenosis. Trace aortic regurgitation is seen. The mitral valve leaflets are structurally normal. There is no systolic anterior motion of the mitral valve leaflets. Mild (1+) mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion. \n\nPET:\nAmyloid deposition was detected in areas of the frontal and temporal lobes of the brain\n"
+}

@@ -1,0 +1,87 @@
+{
+    "UA$Intermedia_5": {
+        "Chest pain is a symptom of ACS.$Cause_1": {
+            "who presents chest pain this am at 0850 while walking across a parking a lot, that lasted about about 8 mins pain radiated left arm, no nausea, no diaphoresis during event.$Input2": {}
+        },
+        "Severe chest pain is symbol of ACS-UA.$Cause_1": {
+            "She complained of mild mid-sternal to left shoulder pressure at peak exercise, which resolved almost completely by 5 minutes of recovery with the remaining discomfort only occuring with palpation.$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "+STEMI is a risk fact$Cause_1": {
+                "+STEMI$Input3": {}
+            },
+            "HLD is a risk fact$Cause_1": {
+                "+HLD$Input3": {}
+            },
+            "family history can be risk fact$Cause_1": {
+                "Mother father with CAD and CHF.$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "slight cardiac structural abnormalities can be sign of acs$Cause_1": {
+                "The right ventricular cavity is mildly dilated with focal hypokinesis of the apical free wall. There is abnormal septal motion/position. The aortic root is mildly dilated at the sinus level.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "+STEMI is a risk fact$Cause_1": {
+                    "+STEMI$Input3": {}
+                },
+                "HLD is a risk fact$Cause_1": {
+                    "+HLD$Input3": {}
+                },
+                "family history can be risk fact$Cause_1": {
+                    "Mother father with CAD and CHF.$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "ECG:\nnon-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "+STEMI is a risk fact$Cause_1": {
+                    "+STEMI$Input3": {}
+                },
+                "HLD is a risk fact$Cause_1": {
+                    "+HLD$Input3": {}
+                },
+                "family history can be risk fact$Cause_1": {
+                    "Mother father with CAD and CHF.$Input4": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "slight cardiac structural abnormalities can be sign of acs$Cause_1": {
+                    "The right ventricular cavity is mildly dilated with focal hypokinesis of the apical free wall. There is abnormal septal motion/position. The aortic root is mildly dilated at the sinus level.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "+STEMI is a risk fact$Cause_1": {
+                        "+STEMI$Input3": {}
+                    },
+                    "HLD is a risk fact$Cause_1": {
+                        "+HLD$Input3": {}
+                    },
+                    "family history can be risk fact$Cause_1": {
+                        "Mother father with CAD and CHF.$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "Male-to-female transgender pt (on estrogen and spironolactone), h/o CAD (STEMI and cabg who presents chest pain this am at 0850 while walking across a parking a lot, that lasted about about 8 mins pain radiated left arm, no nausea, no diaphoresis during event. She originally was seen, EKG unchanged compared to prior, trop neg, pt continued to have CP and was given nitro SL and paste x 2, morphine, and ASA lovenox cs, metop tartrate 5,g IV, before transfer.  In the ED intial vitals were:97.9 88 110/64 16 96% 2L pt became hypotensive to 77/44 while on nitro patch this resolved when removing the nitro patch adn BPs went up to the 100s  \n\nLabs were significant for Ddimer <150, trop neg x1 wbc 11  cardiology was consulted and felt there were no frank abnormalities on echo though difficult views, systolic function appeared low normal, ecg unchanged from prior.\n",
+    "input3": "+STEMI\n+CABG\n+HLD  \n+transgender M-->F\n",
+    "input4": "Mother father with CAD and CHF.\n",
+    "input5": "ADMISSION:\nVitals - 98.3 126/73 73 18 98%ra  \nGENERAL: NAD  \nHEENT: no elev JVP  \nCARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  \nLUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles  \nABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly  \nEXTREMITIES: no edema\n",
+    "input6": "ADMISSION LABS:\n___ 04:00PM BLOOD WBC-11.1* RBC-4.10* Hgb-13.8 Hct-39.1 MCV-96 MCH-33.6* MCHC-35.2* RDW-12.0 Plt ___\n___ 04:00PM BLOOD Neuts-67.7 ___ Monos-5.3 Eos-1.5 Baso-0.9\n___ 04:00PM BLOOD ___ PTT-40.8* ___\n___ 04:00PM BLOOD Glucose-89 UreaN-15 Creat-1.0 Na-136 K-4.5 Cl-102 HCO3-25 AnGap-14\n___ 04:00PM BLOOD Calcium-9.9 Phos-4.1 Mg-2.1\n___ 04:00PM BLOOD cTropnT-<0.01\n___ 04:14PM BLOOD Lactate-1.8\n\nIMAGING AND STUDIES:\n\nExercise Stress MIBI:\nINTERPRETATION: THis was an active 61 year old transgender (M to \nF) woman with CAD (MI/cabg, HLD and CHF, who was referred to the lab from the inpatient floor for an evaluation of chest discomfort. She exercised for 6.5 minutes of protocol METs) and stopped due to fatigue. This represents a fair functional capacity for her age. She complained of mild mid-sternal to left shoulder pressure at peak exercise, which resolved almost completely by 5 minutes of recovery with the remaining discomfort only occuring with palpation. In the presence of RBBB on baseline ECG, there were no changes in ST segment or T wave morphology noted during exercise or in recovery. The rhythm was sinus with one isolated PVC seen during exercise and one ventricular couplet seen in immediate recovery. The heart rate and blood pressure responses were mildly blunted (beta blockade). \n  \n___ CXR:\nNo acute cardiopulmonary abnormality. \n  \n___ ECHO bedside:\nThe left atrium is normal in size. Left ventricular wall thicknesses and cavity size are normal. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded - it appears that the inferior wall may be hypokinetic. Overall left ventricular systolic function is low normal (LVEF 50-55%). The right ventricular cavity is mildly dilated with focal hypokinesis of the apical free wall. There is abnormal septal motion/position. The aortic root is mildly dilated at the sinus level. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve leaflets are structurally normal. Trivial mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion. If clinically indicated, a complete transthoracic examination with Doppler is recommended. \n\nCompared with the prior study (images reviewed), right ventricle is slightly larger. Regional left ventricular function cannot be reliably assessed on this emergency study.\n\nECG:\nnon-ST-elevation\n"
+}

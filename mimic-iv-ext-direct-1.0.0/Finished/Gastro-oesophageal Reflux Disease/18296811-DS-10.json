@@ -1,0 +1,30 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET: 9.2% > 6% is the gold standard for GERD diagnosis$Cause_1": {
+            "Ambulatory reflux monitor :total AET:9.2% on pH-impedance monitoring.$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "abdominal pain is a common symptom of GERD$Cause_1": {
+                "abdominal pain$Input1": {}
+            },
+            "Persistent nausea and gastroesophageal reflux, which are typical symptoms of GERD$Cause_1": {
+                "daily nausea and reflux$Input2": {}
+            },
+            "Burning pain in the upper abdomen and chest discomfort are often associated with GERD because stomach acid backs up into the esophagus, causing these symptoms.$Cause_1": {
+                "burning epigastric pain and \"reflux\" discomfort into the chest$Input2": {}
+            },
+            "Bright red blood in vomitus may indicate upper gastrointestinal bleeding, which may be related to damage to the esophageal or stomach lining caused by GERD.$Cause_1": {
+                "vomited for the first time, reports 7 episodes of bilious/green emesis with one \"spoonful\" of bright red blood.$Input2": {}
+            },
+            "Omeprazole is a drug that suppresses stomach acid secretion and is commonly used to treat GERD.$Cause_1": {
+                "prescribed zofran and omeprazole on ___ but they have not helped$Input2": {}
+            }
+        }
+    },
+    "input1": "abdominal pain\n",
+    "input2": "___ female ___ pregnant presenting with emesis and epigastric pain. Throughout pregnancy has had daily nausea and reflux. She was prescribed zofran and omeprazole on ___ but they have not helped. Yesterday she vomited for the first time, reports 7 episodes of bilious/green emesis with one \"spoonful\" of bright red blood. Describes burning epigastric pain and \"reflux\" discomfort into the chest. Has been taking minimal PO for the past ___ due to nausea. +dizzy upon standing and fell at work once. No LOC or headstrike. No diarrhea, vaginal discharge, vaginal bleeding, or contractions. No dysuria or flank pain. Was scheduled to meet with nutritionist to get help meal planning to prevent nausea and vomiting but had to cancel this appointment as she did not feel well enough to go.\n\nROS: +as above, otherwise reviewed and negative\n\nIn ED US w/live IUP. Pt given 1L NS bolus, zofran and pantoprazole. Guaiac negative brown stool. Glucose 68, pt given 1L ___.\n",
+    "input3": "Seizure disorder\n- 3 total lifetime events, last in ___, not on AED\nVentricular premature beats \nMigraines\n",
+    "input4": "Father died of a stroke at age ___.   \nSister died of cancer at ___ and had hepatitis.\nShe has 3 siblings and 2 half siblings.\n",
+    "input5": "Vitals: T:afeb BP: P:55 R:16 O2:99%ra  \nPAIN: 3\nGeneral: nad\nLungs: clear\nCV: rrr no m/r/g\nAbdomen: bowel sounds present, soft, nt/nd\nExt: no e/c/c\nSkin: no rash\nNeuro: alert, follows commands\n",
+    "input6": "___ 05:25PM   GLUCOSE-68* UREA N-10 CREAT-0.6 SODIUM-138 POTASSIUM-3.9 CHLORIDE-104 TOTAL CO2-23 ANION GAP-15\n___ 05:33PM   LACTATE-1.4 K+-3.6\n___ 05:25PM   ALT(SGPT)-14 AST(SGOT)-21 ALK PHOS-53 TOT BILI-0.4\n___ 05:25PM   LIPASE-24\n___ 05:25PM   ALBUMIN-3.9 CALCIUM-9.5 PHOSPHATE-3.4 MAGNESIUM-1.7\n___ 05:25PM   WBC-5.2 RBC-4.11* HGB-13.2 HCT-36.5 MCV-89 MCH-32.1* MCHC-36.1* RDW-12.9\n___ 05:25PM   NEUTS-55.4 ___ MONOS-7.0 EOS-2.0 BASOS-0.2\n___ 05:25PM   PLT COUNT-230#\n___ 05:25PM   ___ PTT-29.3 ___\n___ 08:50PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-TR\n___ 08:50PM URINE  RBC-<1 WBC-1 BACTERIA-FEW YEAST-NONE \nEPI-2\n___ 08:50PM URINE  COLOR-Straw APPEAR-Clear SP ___\n\n \nEARLY OB US <14WEEKS IMPRESSION: Single live intrauterine \npregnancy with size = dates. \n\nRUQ US IMPRESSION: Normal abdominal ultrasound.  No evidence of cholecystitis.\n\nAmbulatory reflux monitor :total AET:9.2% on pH-impedance monitoring.\n\n"
+}

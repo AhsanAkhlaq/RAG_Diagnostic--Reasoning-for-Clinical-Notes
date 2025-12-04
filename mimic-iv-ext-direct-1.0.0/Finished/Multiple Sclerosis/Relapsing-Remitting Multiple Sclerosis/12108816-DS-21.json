@@ -1,0 +1,71 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "The condition has distinct attacks (relapses) and remission periods$Cause_1": {
+            "In the ED he said his symptoms had subsided and his condition had returned to a stable state. He said similar situations had happened before.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "Low-density areas of the brain shown on CT scans may indicate nerve damage or inflammation, which are potential imaging features of multiple sclerosis.$Cause_1": {
+                "CT scan was showed a hypodensity in the right frontal corona radiata extending to the internal capsule.$Input2": {}
+            },
+            "This describes multiple bilateral round and oval T2/FLAIR hyperintense white matter lesions located in the subcortical and periventricular white matter as well as in the posterior fossa and brainstem, which are most likely manifestations of a demyelinating process.$Cause_1": {
+                "Multiple T2/STIR hyperintense lesions within the cervical and thoracic spinal cord, compatible with a demyelinating process.$Input6": {}
+            },
+            "Multiple enhancing lesions suggested active demyelination, and one also showed slowed diffusion, suggestive of an ongoing demyelinating process.$Cause_1": {
+                "There are multiple enhancing lesions indicating active demyelination, one of which also demonstrates slow diffusion.$Input6": {}
+            },
+            "Multiple nonenhancing lesions were present, and several had low signal on T1 images, suggesting axonal loss and chronic demyelination.$Cause_1": {
+                "There are also multiple nonenhancing lesions, and several appear low in signal on the T1 images indicating axonal loss and suggesting chronic demyelination.$Input6": {}
+            },
+            "Several lesions in the cervical spine showed enhancement on postcontrast images, suggesting active demyelinating disease.$Cause_1": {
+                "Several of the cervical spine lesions demonstrate enhancement on the post-contrast images, compatible with active demyelinating disease,$Input6": {}
+            },
+            "Multiple enhancing periventricular and subcortical white matter lesions were partially imaged, consistent with other sites of active demyelinating disease.$Cause_1": {
+                "Multiple enhancing periventricular and subcortical white matter lesions are partially imaged, compatible with additional sites of active demyelinating disease$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Multiple Sclerosis causes damage to the nervous system, affecting communication pathways between the brain and various parts of the body. This nerve damage may cause loss of sensation or numbness on one side of the body, which is one of the common symptoms of Multiple Sclerosis$Cause_1": {
+                    "Right sided numbness$Input1": {}
+                },
+                "Multiple Sclerosis may cause blockage of nerve signal transmission, which affects muscle control and strength, especially in unilateral limbs.$Cause_1": {
+                    "right leg weakness$Input1": {}
+                },
+                "These symptoms indicate possible neurological impairment and are typical clinical manifestations of multiple sclerosis.$Cause_1": {
+                    "1 week of right-sided hypoesthesia, right leg weakness, and left arm clumsiness$Input2": {}
+                },
+                "Balance or coordination problems may be related to damage to the central nervous system, which is common in multiple sclerosis$Cause_1": {
+                    "needs to hold onto things when he walks$Input2": {}
+                },
+                "Impaired neurological function is a typical clinical manifestation of multiple sclerosis$Cause_1": {
+                    "has difficulty flexing the right hip$Input2": {}
+                },
+                "This widespread sensory abnormality may be the result of multiple parts of the central nervous system being affected, as is common in multiple sclerosis.$Cause_1": {
+                    "He notes that he had some numbness. Started with lower waist and both legs became numb. Parts of both hands and arms were numb. The back was also numb.$Input2": {}
+                },
+                "Bilateral spastic dystonia and slow finger tapping of the left hand may indicate damage to the central nervous system and are consistent with motor limitations in multiple sclerosis.$Cause_1": {
+                    "Motor: b/l ___ spastic. Clumsy/slow finger tapping on left.$Input5": {}
+                },
+                "Sensation was reduced, especially in the right leg, trunk, and forearm by about 60%, and vibration sensation in the big toe was diminished. This sensory impairment is one of the common symptoms of multiple sclerosis and reflects possible lesions in the sensory pathways.$Cause_1": {
+                    "~60% sensation (LT and PP) over right leg, right trunk, and medial right forearm. Decreased vibratory sensation at great toes b/l$Input5": {}
+                },
+                "The reflexes on the left side were more active than those on the right side, and there was persistent clonus in the bilateral ankle joints. These symptoms suggest possible central nervous system hypertonia and are consistent with clinical manifestations of multiple sclerosis.$Cause_1": {
+                    "Left ___ slightly more brisk than right. Sustained clonus at ankles b/l.$Input5": {}
+                },
+                "The muscle strength test showed that the left side was slightly weakened in some parts of the muscle (labeled 5-), while the right side was weakened to level 4 in some locations. Asymmetrical weakening of muscle strength is a symptom that patients with RRMS may experience.$Cause_1": {
+                    "L    5    5    5-   5    5-   5-  5    5    5   5    5    5\nR    5    5    5    5    5    5   4+   5    5   5-   5    4-$Input5": {}
+                },
+                "Action tremor may be a manifestation of impaired central nervous system function and is also a common symptom of multiple sclerosis.$Cause_1": {
+                    "Coordination: Mild left-sided action tremor.$Input5": {}
+                },
+                "Low vitamin D levels, which may be associated with an increased risk of multiple sclerosis due to vitamin D's regulatory effects on immune function$Cause_1": {
+                    "25VitD-12*$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "Right sided numbness, right leg weakness\n",
+    "input2": "He is a 46 year-old right-handed man with nosignificant medical history who presents with 1 week of right-sided hypoesthesia, right leg weakness, and left arm clumsiness. \n\nPatient states that his symptoms started 1 week ago. He noticed he was limping due to weakness in right leg. He has difficulty flexing the right hip. His right lower trunk and leg is numb as well as a bit on his right arm. It is painful to touch cold objects. He needs to hold onto things when he walks. Additionally, he has noticed some weakness in the left hand. He intermittently gets trembling in his legs and arms.\n\nHe notes that he had some numbness. Started with lower waist and both legs became numb. Parts of both hands and arms were numb. The back was also numb. He saw a Dr. and was told he has peripheral neuropathy and that his magnesiumwas low. In the ED he said his symptoms had subsided and his condition had returned to a stable state. He said similar situations had happened before.\n\nDenies change in vision. Endorses difficulty stooling (\"not as strong as it used to be\"). Endorses intermittent left-sided chest pain and exertional palpitations. Denies lightheadedness or dizziness. \n\nHe initially presented to where a CT scan was showed a hypodensity in the right frontal corona radiata extending to the internal capsule.\n",
+    "input3": "None\n",
+    "input4": "- Father had diabetes \n- Grandfather with diabetes\n",
+    "input5": "General: Awake, cooperative, NAD.\nHEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in oropharynx.\nNeck: Supple, no carotid bruits appreciated. No nuchal rigidity.\nPulmonary: Normal work of breathing.\nCardiac: RRR, warm, well-perfused.\nAbdomen: Soft, non-distended.\nExtremities: No ___ edema.\nSkin: No rashes or lesions noted.\n \nNeurologic:\n-Mental Status: Alert, oriented x 3. Able to relate history without difficulty. Attentive, able to name backward without difficulty. Language is fluent with intact repetition and comprehension. There were no paraphasic errors. Able to name low frequency objects, but some difficulty with high frequency objects**.  Able to read without difficulty. No dysarthria. Able to follow both midline and appendicular commands. Able to register 3 objects and recall at 5 minutes. There was no evidence of apraxia or neglect.\n\n-Cranial Nerves:\nII: OD 4->2mm, OS 3.5 -> 2mm. No field defects. No RAPD. No red desat. \nIII, IV, VI:   EOMI without nystagmus. Normal saccades. \nV: Facial sensation intact to light touch.\nVII: No facial droop, facial musculature symmetric.\nVIII: Hearing intact to finger-rub bilaterally.\nIX, X: Palate elevates symmetrically.\nXI: ___ strength in trapezii bilaterally.\nXII: Tongue protrudes in midline with good excursions. Strength full with tongue-in-cheek testing.\n\n-Motor: b/l ___ spastic. Clumsy/slow finger tapping on left.\n+orbiting around left hand. \n  [___]\nL    5    5    5-   5    5-   5-  5    5    5   5    5    5\nR    5    5    5    5    5    5   4+   5    5   5-   5    4-\n\n-Sensory: \n~60% sensation (LT and PP) over right leg, right trunk, and medial right forearm. Decreased vibratory sensation at great toes b/l \n\n-Reflexes: Left ___ slightly more brisk than right. Sustained clonus at ankles b/l. \n  [Bic] [Tri] [___] [Pat] [Ach]\nL   2     2      2      3     3\nR   2     2      2      3     3 \nRight plantar response was extensor, left was equivocal.\n\n-Coordination: Mild left-sided action tremor. \n\n-Gait: Good initiation. Narrow-based, normal stride and arm swing. Able to walk in tandem without difficulty.\n",
+    "input6": "___ 03:15AM BLOOD WBC-6.2 RBC-5.02 Hgb-14.9 Hct-44.4 MCV-88 MCH-29.7 MCHC-33.6 RDW-12.0 RDWSD-38.7 Plt ___\n___ 03:15AM BLOOD Glucose-90 UreaN-12 Creat-1.0 Na-139 K-4.3 Cl-101 HCO3-22 AnGap-16\n___ 03:15AM BLOOD ALT-10 AST-17 AlkPhos-69 TotBili-0.6\n___ 03:15AM BLOOD Albumin-4.7 Calcium-9.9 Phos-3.6 Mg-1.8\n___ 03:57PM BLOOD VitB12-497\n___ 03:57PM BLOOD 25VitD-12*\n___ 06:10AM BLOOD HBsAg-NEG HBsAb-POS HBcAb-NEG\n___ 03:15AM BLOOD ANCA-NEGATIVE B\n___ 03:15AM BLOOD RheuFac-<10 ___ CRP-1.3\n___ 03:15AM BLOOD Lyme Ab-POS* Trep Ab-NEG\n___ 10:15AM BLOOD HIV Ab-NEG\n___ 03:15AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Tricycl-NEG\n\nMRI brain:\n1. Multiple bilateral rounded and ovoid T2/FLAIR hyperintense white matter lesions in the subcortical and periventricular white matter as well as involving the posterior fossa and brainstem, most suggestive of a demyelinating process.  There are multiple enhancing lesions indicating active demyelination, one of which also demonstrates slow diffusion.  There are also multiple nonenhancing lesions, and several appear low in signal on the T1 images indicating axonal loss and suggesting chronic demyelination. \n\nMRI spine:\n1. Multiple T2/STIR hyperintense lesions within the cervical and thoracic spinal cord, compatible with a demyelinating process.  Several of the cervical spine lesions demonstrate enhancement on the post-contrast images, compatible with active demyelinating disease, and there are also nonenhancing lesions. \n2. Multiple enhancing periventricular and subcortical white matter lesions are partially imaged, compatible with additional sites of active demyelinating disease.  Please refer to separate report of MRI brain performed on the same day for description of the intracranial findings.\n"
+}

@@ -1,0 +1,39 @@
+{
+    "Hyperthyroidism$Intermedia_3": {
+        "high levels of T4 is a diagnostic criteria of hyperthyroidism$Cause_1": {
+            "T4-14.7$Input6": {}
+        },
+        "high levels of T3 is a diagnostic criteria of hyperthyroidism$Cause_1": {
+            "T3-292$Input6": {}
+        },
+        "Low levels of TSH is a diagnostic criteria of hyperthyroidism$Cause_1": {
+            "TSH-<0.02$Input6": {}
+        },
+        "Suspected Thyroid disease$Intermedia_2": {
+            "Anxiety is the symptom of hyperthyroidism$Cause_1": {
+                "Anxiety$Input3": {}
+            },
+            "Weight loss is a symptom of hyperthyroidism$Cause_1": {
+                "She has lost some weight unintentionally (from 209 to 177 pounds)$Input2": {}
+            },
+            "Increased heart rate is a symptom of hyperthyroidism$Cause_1": {
+                "The rhythm was sinus tachycardia at rest$Input6": {}
+            },
+            "Tachycardia is a symptom of hyperthyroidism$Cause_1": {
+                "She was persistently tachycardic through her stay$Input2": {}
+            },
+            "Easily tired is a symptom of hyperthyroidism$Cause_1": {
+                "feeling fatigued$Input2": {}
+            },
+            "Sweating easily is a symptom of hyperthyroidism$Cause_1": {
+                "sometimes with diaphoresis$Input2": {}
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "She is a woman with morbid obesity and reflux coming with chest pain and shortness of breath. She was in her prior state of health with very poor baseline functional status until approximately 1 week ago when she started having oppresive chest pain in her retro-sternal area from the neck to the epigastrium. Excercise, activity and food make the chest pain worse and rest makes it better. She has not tried any medication. The chest pain is rarely associated with nausea, but sometimes with diaphoresis. She has also noted worsening of her shortness of breath while walking of going up a flight of stairs and has been feeling fatigued. Her appetite is intact (very good), normal bowel movements, no change in diet, normal urine, no fever, chills, rigors. She denies any PND, uses 1 pillow at night and states she can lie flat. Her leg swelling has gotten worse during last 2 months and she has noted darkening of the skin in her feet. She has lost some weight unintentionaly (from 209 to 177 pounds). Her pain got worse today and she decided to come to the emergency room.  \n.  \nIn our ED her initial VS were 98 119 151/90 20 100%. She had a normal physical exam. She received Maalox, Donnatol and lidocaine with improvement of her chest pain. Her labs were significant for WBC 6.8, HCT of 32, PLTs 178, normal BMP-7, BNP of 1182, Trop-T: <0.01, negative HCG and UA. Her ECG showed sinus tachycardia, but no signs of ischemia. She underwent a CXR that ruled out pneumonia, PE-Ct, which showed non-specific mediastinal lymphadenopathy and a possible renal mass that will need outpatient follow up, but no PE. She had negative LENIs. She was persistently tachycardic through her stay and was admitted to medicine for further work up. VS prior to transfer: 98.6 100 126/80 18 100RA.  \n\ufeff\n",
+    "input3": "+Obesity: BMI: 30.5  \n+Venous insufficiency  \n+Gastritis  \n+Anxiety  \n+Fibromyalgia\n",
+    "input4": "Mother diet of an MI. She had HTN and DM2. Father diet of asthma YO; he had PVD. She has many sibblings all healthy. No family history of cancer, premature CAD or stroke.\n",
+    "input5": "Physical Exam:\nADMISSION\nVITAL SIGNS - Temp 97.6 F, BP 124/87 mmHg, HR 101 BPM, RR 18 X', O2-sat 100% RA  \nGENERAL - well-appearing woman in NAD, comfortable, appropriate, not jaundiced (skin, mouth, conjuntiva)  \nHEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear  \nNECK - supple, no thyromegaly, JVD mildly elevated to 12 cm, no carotid bruits  \nLUNGS - CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use  \nHEART - PMI non-displaced, RRR, no MRG, nl S1-S2  \nABDOMEN - huge abdomen, NABS, soft/NT/ND, no masses or HSM, no rebound/guarding.  \nEXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, \nDPs), chronic venous stasis changes in both legs with black-bluish coloration in both feet; no ulcers, good pulses  \nSKIN - no rashes or lesions  \nLYMPH - no cervical, axillary, or inguinal LAD  \nNEURO - awake, A&Ox3, CNs II-XII grossly intact, sensation grossly intact throughout, DTRs 2+ and symmetric, cerebellar exam intact, steady gait  \nPULSES:  \nRight: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+  \nLeft: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+\n\ufeff\n",
+    "input6": "Blood Counts\n___ 01:30PM BLOOD WBC-6.8 RBC-4.07* Hgb-11.0* Hct-32.5* MCV-80* MCH-27.0 MCHC-33.8 RDW-13.1\n___ 07:28AM BLOOD WBC-6.3 RBC-4.03* Hgb-10.5* Hct-32.3* MCV-80* MCH-26.2* MCHC-32.6 RDW-13.3\n\ufeff\nChemistry\n___ 01:30PM BLOOD Glucose-101* UreaN-15 Creat-0.6 Na-142 K-4.3 Cl-107 HCO3-26 AnGap-13\n___ 07:35AM BLOOD Glucose-107* UreaN-24* Creat-0.7 Na-142 K-4.5 Cl-105 HCO3-26 AnGap-16\n\ufeff\nCardiac\n___ 01:30PM BLOOD CK-MB-2 proBNP-1182*\n___ 01:30PM BLOOD cTropnT-<0.01\n___ 07:28AM BLOOD CK-MB-2 cTropnT-<0.01\n___ 07:28AM BLOOD Triglyc-55 HDL-52 CHOL/HD-2.4 LDLcalc-60\n\ufeff\nAnemia\n___ 01:30PM BLOOD calTIBC-250* Ferritn-150 TRF-192*\n\ufeff\nEndocrine\n___ 07:28AM BLOOD T4-14.7* T3-292*\n___ 07:28AM BLOOD TSH-<0.02*\n\ufeff\n___ ETT\nThis woman was referred to the lab for evaluation of chest discomfort. The patient exercised for 7.5 minutes of a modified Gervino protocol and stopped for fatigue. The estimated peak MET capacity was 3 which represents a poor functional capacity for her age. No arm, neck, back or chest discomfort was reported by the patient throughout the study. There were no significant ST segment changes during exercise or in recovery. The rhythm was sinus tachycardia at rest, during exercise and in recovery with 1 apb in early recovery. Appropriate BP response during exercise and recovery.\n"
+}

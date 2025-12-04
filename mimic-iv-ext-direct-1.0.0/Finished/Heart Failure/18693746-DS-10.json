@@ -1,0 +1,88 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Chest X Ray (CXR) found that pulmonary edema suggests pulmonary circulation congestion caused by heart failure.$Cause_1": {
+                "CXR showed bilateral pulmonary edema.$Input2": {}
+            },
+            "Echocardiography (ECHO) is the best and most commonly used tool for diagnosing heart failure. ECHO found systolic dysfunction in the left ventricle indicative of heart failure.$Cause_1": {
+                "ECHO: The left atrium is mildly dilated. The right atrium is moderately dilated. The left ventricular cavity is moderately dilated. There is mild to moderate regional left ventricular systolic dysfunction with inferolateral akinesis, inferior akinesis/hypokinesis and apical hypokinesis.$Input6": {}
+            },
+            "Pulmonary congestion and cardiac enlargement associated with heart failure$Cause_1": {
+                "IMAGING:\nFINDINGS: Frontal and lateral views of the chest were obtained. Low lung volumes limit evaluation. There are bilateral pulmonary opacities which are most confluent in the lung bases. Central pulmonary hilar engorgement with interstitial and alveolar edema is present.$Input5": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "BNP \u2265 35 pg/mL is a strong value for heart failure$Cause_1": {
+                    "BNP 7299*$Input5": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Shortness of breath is a common symptom of heart failure.$Cause_1": {
+                        "shortness of breath$Input1": {}
+                    },
+                    "chest pain is also a common symptom of heart failure.$Cause_1": {
+                        "chest pain$Input1": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "HYPERTENSION$Input3": {}
+                    },
+                    "These are typical manifestations of respiratory distress associated with heart failure. The labored dyspnea gradually worsened, leading to paroxysmal dyspnea at night, pinkish phlegm, and even orthopnea, acute pulmonary edema and other situations.$Cause_1": {
+                        "Pt states that two days ago he developed some CP pain and sob. He took ntg with resolution of CP, however the sob got progressively worse. He felt that he had a \"lack of O2\", and also that there was \"fluid on his lungs\". He denies n/v/diaphoresis but did have some coughing with \"pinkish phlegm\". He denies acute onset but states rather that the SOB progressed over night, worse with exertion and laying flat.$Input2": {}
+                    },
+                    "Edema is also one of the symptoms of heart failure.$Cause_1": {
+                        "He also notes some increased edema.$Input2": {}
+                    },
+                    "Infection is the most common cause of worsening heart failure. Respiratory tract infection is the most common type of infection.$Cause_1": {
+                        "He also notes that 2wks ago he had flu like symptoms and since then has been feeling generally unwell.$Input2": {}
+                    },
+                    "Elevated troponin may occur in some patients with heart failure.$Cause_1": {
+                        "Labs significant for trop 2.13$Input2": {}
+                    },
+                    "HYPERCHOLESTEROLEMIA is known risk factor for heart failure.$Cause_1": {
+                        "HYPERCHOLESTEROLEMIA$Input3": {}
+                    },
+                    "Common signs of heart failure-related dyspnea$Cause_1": {
+                        "GENERAL: some dyspnea. Oriented x3.$Input5": {}
+                    },
+                    "holosystolic murmur may indicate possible heart failure$Cause_1": {
+                        "CARDIAC: PMI located in intercostal space, midclavicular line. RR, normal S1, S2. holosystolic murmur. No thrills, lifts. No S3 or S4.$Input5": {}
+                    },
+                    "Some dyspnea and bilateral crackles in bases in lungs suggest breathing difficulties associated with heart failure.$Cause_1": {
+                        "LUNGS: No chest wall deformities, scoliosis or kyphosis. some dyspnea. bilateral crackles in bases.$Input5": {}
+                    },
+                    "pitting edema in lower extremities bilaterally is a common sign of systemic congestion in heart failure.$Cause_1": {
+                        "EXTREMITIES: 1+ pitting edema in lower extremities bilaterally, warm and well perfused$Input5": {}
+                    },
+                    "Elevated WBC levels may indicate inflammation, which can trigger heart failure$Cause_1": {
+                        "BLOOD WBC-12.6*# RBC-2.64* Hgb-9.2* Hct-26.4* MCV-100* MCH-34.8* MCHC-34.9 RDW-16.2*$Input5": {}
+                    },
+                    "The dynamic evolution of T wave or ST segment indicates potential myocardial damage. Atrial fibrillation with rapid ventricular rate (greater than 100 beats/min) is a cause and predisposing factor of heart failure.$Cause_1": {
+                        "EKG on admission: Rate 133, atrial fibrillation with RVR, occasional PVCs, normal/borderline left axis deviation., LV hyprtrophy.  normal rhythm, normal/borderline left axis, Q waves in III, V2-V4. ST segments depressed in I, AVL, V6 but unchaged from prior EKG.$Input5": {}
+                    },
+                    "With the exception of acute myocardial infarction, multiple increases in troponin levels suggest myocardial damage from heart failure,$Cause_1": {
+                        "cTropnT-2.13*$Input5": {}
+                    },
+                    "Pulmonary congestion and cardiac enlargement associated with heart failure*$Cause_1": {
+                        "Heart size appears enlarged though poorly assessed.$Input5": {}
+                    },
+                    "Coronary artery disease (CAD) is also risk factor for heart failure.$Cause_1": {
+                        "Percutaneous coronary intervention$Input3": {}
+                    },
+                    "Coronary artery disease (CAD) is also risk factor for heart failure.*$Cause_1": {
+                        "LCx$Input3": {}
+                    },
+                    "Coronary artery disease (CAD) is also risk factor for heart failure.**$Cause_1": {
+                        "CORONARY ARTERY DISEASE with ANGINA$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "shortness of breath and chest pain\n",
+    "input2": "old man presents with shortness of breath and chest pain. Pt states that two days ago he developed some CP pain and sob. He took ntg with resolution of CP, however the sob got progressively worse. He felt that he had a \"lack of O2\", and also that there was \"fluid on his lungs\". He denies n/v/diaphoresis but did have some coughing with \"pinkish phlegm\". He denies acute onset but states rather that the SOB progressed over night, worse with exertion and laying flat. He also notes some increased edema. He denies f/c/n/v. He also notes that 2wks ago he had flu like symptoms and since then has been feeling generally unwell.  \nIn the ED, initial vitals were 97.7 78 136/86 18 100% RA. Labs significant for trop 2.13, Na 129, Cr 1.9, K 5.7, Hct 32.8, INR 1.1. CXR showed bilateral pulmonary edema. ECG showed NSR at 75bpm, borderline left axis, q waves V1-V3 and III and avF, t wave inversion avL, no other ST/T changes. He was given 20mg IV lasix. Most recent vitals prior to transfer:  \nOn arrival to the floor, patient was seen with the nurse. The patient states that approximately few days ago, he started developing shortness of breath and fatigue on exertion. He states that around the same time, he developed a cold that involved sinus congestion and a cough and a cold sore on his lip. The patient states that his shortness of breath got progressively worse as the days passed. He states that he has also gained approx 9 pounds and now weighs 209 pounds, since these symptoms began. He also states that approx 3 days ago, he developed chest pain. He states that the pain did not radiate anymore. He states that the pain resolved after few hours when he took 2 sublingual nitroglycerin tabs. He denies any nausea, vomiting, GI upset, changes in stools, or any other symptoms with the chest pain. The patient states that he was seen as an outpatient approx 10 days ago and had an EKG and an ECHO done. THe patient now presented with concerns with his worsening shortness of breath.  \n.\nOn the floor, he was initially treated with heparin drip for NSTEMI, but then dced.  He was started on a lasix drip for CHF. Down 1.5L at 5pm, pressures tending down from SBP 160s/90s to 100s/40s. Flipped into Afib with RVR today at 11pm.  PMH of Afib on one occasion following epistaxis .  He got Metoprolol, BP trended down, now high.  Got 500cc bolus, considering amiodarone, but decided to transfer to CCU for further management.  \n.  \nCurrently, he is alert and orientated x 3, denies any chest pain, headache, dizziness, palpitations, dyspnea.  BP improved to high, remains tachycardic around 120s.  He was given 5 mg IV metoprolol, but remained tachycardic, and dropped BP to systolic, MAP around 55.\n",
+    "input3": "+ Percutaneous coronary intervention \n+ LCx\n+ PERIPHERAL VASCULAR DISEASE with CLAUDICATION\n+ CORONARY ARTERY DISEASE with ANGINA\n+ HYPERTENSION\n+ HYPERCHOLESTEROLEMIA\n+ ABDOMINAL AORTIC ANEURYSM\n+ GERD\n+ MONOCLONAL GAMMOPATHY\n+ GOUT\n+ MEMORY LOSS\n+ HEARING LOSS\n+ PSORIASIS\n+ H/O RETINAL ARTERY OCCLUSION\n+ H/O PYELONEPHRITIS\n",
+    "input4": "The patient states his father had heart problems but lived until 80 years of age. No other known medical history.\n",
+    "input5": "ON ADMISSION\nVS: T= 97.7 BP= 145/98 HR= 75 RR= 22 O2 sat= 97 RA  \nGENERAL: some dyspnea. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Nasal Cannula in place. Sclera anicteric.\nPERRL, \nEOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \nCARDIAC: PMI located in intercostal space, midclavicular line. RR, normal S1, S2. holosystolic murmur. No thrills, lifts. No S3 or S4.  \nLUNGS: No chest wall deformities, scoliosis or kyphosis. some dyspnea. bilateral crackles in bases.  \nABDOMEN: Soft, NTND. No HSM or tenderness. no masses. no rebound tenderness or guarding  \nEXTREMITIES: 1+ pitting edema in lower extremities bilaterally, warm and well perfused  \nRectum - stools are guaiac negative.  \n \nPertinent Results:\nCBC:\n01:50PM BLOOD WBC-6.8 RBC-3.28* Hgb-10.8* Hct-32.4* MCV-99* MCH-33.0* MCHC-33.5 RDW-15.2\n03:15AM BLOOD WBC-12.6*# RBC-2.64* Hgb-9.2* Hct-26.4* MCV-100* MCH-34.8* MCHC-34.9 RDW-16.2*\nDIFF:\n01:50PM BLOOD Neuts-84.2* Lymphs-10.7* Monos-4.0 Eos-0.6 Baso-0.4\nCOAGS\nELECTROLYTES:\n01:50PM BLOOD Glucose-155* UreaN-53* Creat-1.9* Na-129* K-5.7* Cl-96 HCO3-19* AnGap-20\n07:50PM BLOOD Glucose-129* UreaN-73* Creat-2.4* Na-130* K-4.7 Cl-95* HCO3-21* AnGap-19\n03:49AM BLOOD Glucose-213* UreaN-71* Creat-1.9* Na-131* K-3.8 Cl-94* HCO3-21* AnGap-20\n03:15AM BLOOD Glucose-95 UreaN-111* Creat-2.2* Na-136 K-4.4 Cl-97 HCO3-24 AnGap 19\nLFTS:\n07:50AM BLOOD ALT-125* AST-87* CK(CPK)-226 AlkPhos-141* \nTotBili-1.1\nCEs:\n01:50PM BLOOD cTropnT-2.13*\nOTHER:\n10:28AM BLOOD Lactate-1.2\n12:18PM BLOOD Lactate-8.5*  BNP 7299*\n12:18PM BLOOD Type-CENTRAL VE pO2-39* pCO2-28* pH-7.30* calTCO2-14* Base XS--11.\nURINE:\n03:20PM URINE Blood-NEG Nitrite-NEG Protein-100 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG\n06:33PM URINE Blood-NEG Nitrite-NEG Protein-30 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG\n\ufeff\nblood cultures no growth to date on day of death.\n.\nIMAGING:\nFINDINGS: Frontal and lateral views of the chest were obtained. Low lung volumes limit evaluation. There are bilateral pulmonary opacities which are most confluent in the lung bases. Central pulmonary hilar engorgement with interstitial and alveolar edema is present. Bilateral pleural effusions are small to moderate. No pneumothorax. Heart size appears enlarged though poorly assessed. Mediastinal contour is stable with atherosclerotic calcification along the aortic knob. Bony structures are intact. \n\nCXR:\nFINDINGS: As compared to the previous radiograph, there is a decrease in extent of the bilateral pleural effusions. Sequence decrease in severity of the basal areas of atelectasis. Unchanged moderate cardiomegaly, currently without evidence of pulmonary edema.\nKUB\nABDOMEN, SUPINE \nThe distribution of gas in the abdomen is unremarkable. No edematous areas of bowel are seen. There is no evidence of obstruction or infarction. Vascular calcification is noted.\nEKG on admission: Rate 133, atrial fibrillation with RVR, occasional PVCs, normal/borderline left axis deviation., LV hyprtrophy.  normal rhythm, normal/borderline left axis, Q waves in III, V2-V4. ST segments depressed in I, AVL, V6 but unchaged from prior EKG.\n",
+    "input6": "ECHO: The left ventricular cavity is moderately dilated. There is mild to moderate regional left ventricular systolic dysfunction with inferolateral akinesis, inferior akinesis/hypokinesis and apical hypokinesis. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets are moderately thickened. There is moderate aortic valve stenosis (valve area 1.0-1.2cm2). Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Moderate to severe (3+) mitral regurgitation is seen. The tricuspid valve leaflets are mildly thickened. There is moderate pulmonary artery systolic hypertension. There is no pericardial effusion.  On color Doppler imaging, there is an interatrial shunt consistent with stretched PFO or an atrial septal defect. (Images of the interatrial septum were suboptimal in the prior study). Compared with the prior study (images reviewed), the mid anterolateral wall now appears more hypokinetic and the anterior apex is now hypokinetic (may have been foreshortened in the prior study). The aortic valve gradient is similar. Estimated pulmonary artery systolic pressure is now higher. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %)\n"
+}

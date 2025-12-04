@@ -1,0 +1,39 @@
+{
+    "Hyperlipidemia$Intermedia_3": {
+        "The triglyceride level is significantly high, which is a direct indicator for diagnosing hyperlipidemia$Cause_1": {
+            "Triglycerides-460*$Input6": {}
+        },
+        "Suspected Hyperlipidemia$Intermedia_2": {
+            "Early satiety may be related to hyperlipidemia$Cause_1": {
+                "early satiety$Input1": {}
+            },
+            "Loss of appetite may be related to hyperlipidemia, as abnormal blood lipids may affect appetite and digestive function$Cause_1": {
+                "anorexia$Input2": {}
+            },
+            "Weakness may be an indirect symptom of hyperlipidemia, which may lead to systemic metabolic abnormalities and insufficient energy supply.$Cause_1": {
+                "weakness$Input2": {}
+            },
+            "Early satiety may be related to the impact on the digestive system, possibly due to metabolic abnormalities caused by hyperlipidemia$Cause_1": {
+                "early satiety$Input2": {}
+            },
+            "Abdominal discomfort may be related to the accumulation of lipids in the digestive tract$Cause_1": {
+                "abdominal discomfort$Input2": {}
+            },
+            "Upper abdominal fullness may be related to hyperlipidemia$Cause_1": {
+                "upper abd fullness$Input2": {}
+            },
+            "Weight loss may be caused by metabolic disorders caused by hyperlipidemia$Cause_1": {
+                "lost 6 lbs$Input2": {}
+            },
+            "Hyperglycemia is common in metabolic syndrome and is an important manifestation of hyperlipidemia.$Cause_1": {
+                "Glucose-125$Input6": {}
+            }
+        }
+    },
+    "input1": "early satiety\n",
+    "input2": "presenting with 1 week of anorexia, weakness, early satiety, and abdominal discomfort. He reports he was in usual state of health until one week ago when he began to feel full after a few bites food. He has lost 6 lbs since then. Associated with nausea, no dysphagia/odynophagia, or feeling like food is getting stuck. He has not had heartburn, reflux, bitter taste, or cough. He denies NSAID use. Denies RUQ pain. Denies abdominal pain but endorses some upper abd fullness. Denies vomiting, diarrhea. The patient has been having normal BMs (last was this morning) without blood or black stools. No fevers, possible chills. Denies nightsweats, CP, SOB, dysuria, easy bleeding, or bruising, bumps. He had a normal colonoscopy ___ years ago. Seen by PA at PCP office yesterday, normal CBC/lytes/LFTs/neg trop and EKG. Was given prilosec and told to f/u in one month if sx persist. Patient and family scheduled him for an EGD for next ___ but were concerned for ongoing sx so brought him in. \n",
+    "input3": "-history of thyroid nodule treated with radioactive Iodine\n-s/p appendectomy\n-SCC (right temple)\n",
+    "input4": "His mother was diagnosed with colon cancer. His father died from an MI. He has 1 sister w/ breast CA. \n",
+    "input5": "VS -  98.5  133/85  56  16  99% on RA\nGeneral: thin, well-groomed middle-aged gentleman, lying comfortably in bed. anxious-appearing, flat affect\nHEENT:  normocephalic\nNeck: supple, no LAD, JVP 7 mmHg.\nCV: regular rate, rhythm. normal S1, S2. no murmurs, rubs, gallops.\nLungs: clear to auscultation bilaterally. no wheezing, crackles.\nAbdomen: soft, nontender, no rebound, guarding. normoactive bowel sounds\nGU: deferred\nExt: warm, well-perfused. no edema. 2+ DP, ___ pulses. \nNeuro: AOx3, CN II-XII intact, strength, sensation grossly intact. gait not observed\nSkin: no rashes, vescicles\n",
+    "input6": "___ 09:15AM BLOOD WBC-5.6 RBC-4.59* Hgb-14.0 Hct-40.2 MCV-88 MCH-30.5 MCHC-34.8 RDW-13.1 Plt ___\n___ 09:15AM BLOOD Neuts-81.0* Lymphs-14.1* Monos-4.3 Eos-0.3 Baso-0.4\n___ 09:15AM BLOOD Glucose-125* UreaN-18 Creat-0.9 Na-136 K-4.0 Cl-100 HCO3-25 AnGap-15\n___ 09:15AM BLOOD ALT-19 AST-26 AlkPhos-54 Amylase-65 TotBili-0.7\n___ 09:15AM BLOOD Lipase-27\n___ 09:15AM BLOOD cTropnT-<0.01\n___ 09:15AM BLOOD Albumin-4.6 Calcium-9.8 Phos-3.3 Mg-1.8 Triglycerides-460*\n\nCT chest/abdomen/pelvis ___: Normal CT of the chest, abdomen, and pelvis. No evidence of acute inflammatory process gastric outlet or bowel obstruction, for malignancy. \n\nColonoscopy ___: Impression: Grade 1 internal hemorrhoids, repeat in ___ years recommended.\n"
+}

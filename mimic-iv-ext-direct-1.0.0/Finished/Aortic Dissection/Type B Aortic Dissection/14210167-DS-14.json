@@ -1,0 +1,48 @@
+{
+    "Type B Aortic Dissection$Intermedia_3": {
+        "Confirmed aortic dissection, beginning distal to the left subclavian artery and extending to the area above the iliac bifurcation$Cause_1": {
+            "starting just past takeoff of L subclavian artery and extending down to above iliac bifurcation$Input6": {}
+        },
+        "Not extend to the ascending aorta. This is the key basis for diagnosing Type B Aortic Dissection.$Cause_1": {
+            "No evidence of dissection extension into the proximal ascending thoracic aorta or the aortic arch branch vessels.$Input6": {}
+        },
+        "Aortic dissection has steadily extended to the infrarenal portion of the abdominal aorta$Cause_1": {
+            "Stable extension of the dissection into the infrarenal portion of the abdominal aorta.$Input6": {}
+        },
+        "Suspected Aortic Dissection$Intermedia_2": {
+            "Back pain is the common symptom of Aortic Dissection$Cause_1": {
+                "acute onset back pain$Input1": {}
+            },
+            "Chronic abdominal and back pain from previous surgery, which may indicate an ongoing anatomical problem or sequelae of surgery$Cause_1": {
+                "chronic abdominal and back pain for over 5 yrs$Input2": {}
+            },
+            "Hypertension is a risk factor for aortic dissection, especially when systolic blood pressure is significantly elevated.$Cause_1": {
+                "SBP > 200$Input2": {}
+            },
+            "Sudden onset of back pain, a classic symptom of aortic dissection$Cause_1": {
+                "acute onset of back pain while resting$Input2": {}
+            },
+            "Pain radiating from the back to the abdomen is also a common symptom of aortic dissection, reflecting the possible location of the tear in the aorta that affects the abdomen.$Cause_1": {
+                "Pain radiating to abdomen$Input2": {}
+            },
+            "Myocardial infarction is a cardiovascular disease that is associated with an increased risk of aortic dissection because cardiovascular problems can increase stress on the arterial wall.$Cause_1": {
+                "MI$Input3": {}
+            },
+            "High blood pressure is one of the most important risk factors for aortic dissection. High blood pressure can increase the pressure within the arteries, increasing the risk of damage to the aortic wall.$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "Widespread tenderness over the entire abdomen, especially in the epigastrium. Aortic dissection may cause abdominal pain, especially if the dissection affects the abdominal aorta.$Cause_1": {
+                "tender diffusely but to epigastric\nregion$Input5": {}
+            },
+            "There is some hypoperfusion of the right renal artery. Inhomogeneous blood flow to the renal artery can lead to impaired renal function, which is one of the hallmarks of aortic dissection that can lead to serious complications.$Cause_1": {
+                "R renal artery as discrepancy in perfusion of kidneys$Input6": {}
+            }
+        }
+    },
+    "input1": "acute onset back pain\n",
+    "input2": "She is with chronic abdominal and back pain for over 5 yrs from previous surgeries p/w acute onset of back pain while resting. Pain radiating to abdomen. This was associated with profuse vomiting. \n\nOn arrival to ED, SBP > 200 and after nitroprusside and esmolol, her BP did respond. She was still complaining of abdominal and back pain but decreased in severity with narcotics.\n",
+    "input3": "+MI, \n+COPD\n+CVA\n+prolonged QT\n+rectocele\n+HTN\n+conversion disorder presenting with signs/sx of CVA\n",
+    "input4": "None\n",
+    "input5": "Gen: Mild distress, in bed, sleepy\nLungs: clear\nCardio: RRR\nAbd: soft, dist, obese, tender diffusely but to epigastric\nregion, no palpable masses\nExt: scabs t/o lower extremities, no edema or cyanosis\n\nPulses  fem  pop  DP  ___\nL       p/d  d    p   p/d\nR       p/d  d    p   p/d\n",
+    "input6": "139  103  8  \n-------------< 150 \n3.7  25  0.7           estGFR: >75 \nCa: 8.1 Mg: 1.8 P: 4.5\n15.3> 11.9/34.9< 413     N:86.9 L:9.5 M:2.6 E:0.4 Bas:0.6 \n___: 11.8  PTT: 20.0  INR: 1.0  \n\nCTA (OSH) - starting just past takeoff of L subclavian artery and extending down to above iliac bifurcation. There is some R renal artery as discrepancy in perfusion of kidneys (R<L). \n\nCTA (___): The compressed true lumen supplies the celiac axis, the SMA, and the left renal artery. The false lumen supplies the right renal artery. Evolution of infarct involving the right kidney, with increasing edematous appearance of the largely nonperfusing kidney. Residual thin cortical perfusion is identified, along with some segmental perfusion of the right lower pole. \n\nCTA (___): No evidence of dissection extension into the proximal ascending thoracic aorta or the aortic arch branch vessels.  Stable extension of the dissection into the infrarenal portion of the abdominal aorta. Celiac axis, SMA, left renal artery and inferior mesenteric artery arise from the true lumen.  Two right renal arteries are present, with one artery arising from the false and true lumen each. The right renal artery arising from the true lumen is compressed as it passes through the false lumen. Evolving right renal infarct.\n"
+}

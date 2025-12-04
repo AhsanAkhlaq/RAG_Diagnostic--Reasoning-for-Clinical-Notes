@@ -1,0 +1,51 @@
+{
+    "Hemorrhagic Stroke$Intermedia_3": {
+        "CT scan results showed hemorrhage in the occipital and temporal regions, direct evidence of hemorrhagic stroke$Cause_1": {
+            "CT Head at 2:52 pm which showed a 3x3 cm occipital temporal hemorrhage$Input2": {}
+        },
+        "Repeat CT scan showed hemorrhage and surrounding edema in the left posterior parietal area, which further confirmed the diagnosis of hemorrhagic stroke.$Cause_1": {
+            "13 ml left posterior parietal hemorrhage with surrounding edema$Input2": {}
+        },
+        "The scan showed ischemic foci and hematomas with hemorrhagic transformation in the left posterior inferior cerebellum and parieto-occipital region, which are direct signs of hemorrhagic stroke.$Cause_1": {
+            "Early subacute infarct in the left posterior inferior cerebellar hemisphere, in the ___ territory, with central hemorrhagic transformation and thin peripheral contrast enhancement.$Input6": {}
+        },
+        "Enhanced MRI showed slight enhancement at the edge, suggesting the possibility of active bleeding$Cause_1": {
+            "Stable left superior occipital/inferior parietal parenchymal hematoma demonstrates thin rim enhancement without nodularity and adjacent leptomeningeal hyperemia$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "Headache is a common symptom of stroke$Cause_1": {
+                "headache$Input1": {}
+            },
+            "Altered mental status is one of the classic symptoms of stroke$Cause_1": {
+                "alteration of mental status$Input2": {}
+            },
+            "Changes in the Glasgow Coma Scale (GCS) show fluctuations in consciousness level, a possible sign of a stroke.$Cause_1": {
+                "a GCS of 10, but this is not found in documentation; upon presentation here GCS is 14.$Input2": {}
+            },
+            "High blood pressure, a common symptom of hemorrhagic stroke$Cause_1": {
+                "hypertensive to 170s$Input2": {}
+            },
+            "New onset of slurred speech and dysarthria, which may indicate brain damage or impaired function$Cause_1": {
+                "aphasic and dysarthric$Input2": {}
+            },
+            "Hypertension is a major risk factor for hemorrhagic stroke$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "The responses were simple, suggesting possible impairment of cognition and comprehension, symptoms associated with brain damage.$Cause_1": {
+                "answers questions by nodding or shaking his head, sometimes responds yes/no. Otherwise says \"uh\" or \"um\" when prompted to speak. He is able to follow simple but not complex commands.$Input5": {}
+            },
+            "The pupil was 2 mm in diameter and nonresponsive to light, which may be a sign of increased intracranial pressure. The left side blinked more reliably than the right side in response to threats, suggesting possible right-sided brain impairment.$Cause_1": {
+                "Pupils 2 mm nonreactive. Can not cooperate  with VF or sensory testing, but blinks to threat on left more reliably than he does to the right$Input5": {}
+            },
+            "Conscious gaze pursuit and tracking, delayed speech, cognitive impairment (difficulty in expressing certain words), improved naming ability but still low-frequency vocabulary difficulties, and substitution errors when repeating language may indicate impaired function of the left hemisphere, which is closely related to the location of the language center.$Cause_1": {
+                "Alert, regards and tracks, answers appropriate, speech latency, realizes he is unable to state certain words. Naming improved today. able to name watch and pen, though still with deficits with low frequency words. Repetition testing with paraphasic errors and trouble repeating.$Input5": {}
+            }
+        }
+    },
+    "input1": "headache\n",
+    "input2": "The pt is a ___ year old man on Coumadin who underwent a cardiac catheterization followed by bare metal stent placement ___ and ___, respectively, and was discharged on ___ yesterday who presented to ___ ED today with alteration of mental status since this morning. There are no family members at the bedside to provide further detail. At the referring ED, he reportedly had a GCS of 10, but this is not found in documentation; upon presentation here GCS is 14. He had a CT Head at 2:52 pm which showed a 3x3 cm occipital temporal hemorrhage. He was hypertensive to 170s on presentation therefore was placed on a nicardipine drip. Upon arrival to ___ ED his BP 158/54 and he is aphasic and dysarthric, which was not previously documented. Repeat scan at ___ ED reveals 13 ml left posterior parietal hemorrhage with surrounding edema but no midline shift. \n\n\nROS could not be obtained reliably, but patient shakes his head no when asked if he is currently in any pain over various parts of his body, including head. \n",
+    "input3": "Cataracts\nCoronary Artery Disease status post PCI in ___\nDiabetes Mellitus Type II\nHyperlipidemia\nHypertension\nPeripheral Neuropathy\nProstate Cancer s/p radiation seeds, ___\nOsteoarthritis\n",
+    "input4": "Father - had myocardial infarction at age ___, history of colon\ncancer, died at age ___.\nMother - died of leukemia at age ___.\nSister - died of breast cancer, history of melanoma as well.\nBrother - apparently healthy\n",
+    "input5": "Vitals:  T:   HR:  106 BP: 158/54  RR:   SaO2:98% 2 L NC\n___:  NAD lying in bed\nHEENT: NCAT,  no oropharyngeal lesions, neck supple\nExtremities: Warm, no edema, bilateral surgical scars on knees\nNeurologic Examination:\n- Mental status: Awake, alert, oriented x 1; answers questions by nodding or shaking his head, sometimes responds yes/no. Otherwise says \"uh\" or \"um\" when prompted to speak. He is able to follow simple but not complex commands. \n\n- Cranial Nerves: Pupils 2 mm nonreactive. Can not cooperate  with VF or sensory testing, but blinks to threat on left more reliably than he does to the right. No facial movement asymmetry.  Palate elevation symmetric. SCM/Trapezius strength ___ bilaterally. Tongue midline.\n\n- Motor:  Normal bulk and tone. No drift. No tremor or asterixis.\n  [___]\n\nL   NT    5    NT  NT    ___    5     NT   5   NT    5\nR   NT    5    NT  NT    ___    5     NT   5   NT    5  \n\n certain muscle groups could not be tested due to inability to follow instructions\n\nNeurologic:\n\n-Mental Status: Alert, regards and tracks, answers appropriate, speech latency, realizes he is unable to state certain words. Naming improved today. able to name watch and pen, though still with deficits with low frequency words. Repetition testing with paraphasic errors and trouble repeating. On previous day named ___ items on modified ___ naming test. Was able to write simple words but errors noted with more complex sentences. Not able to read. When reading the word \"your\" he can slowly state the individual letters but not the whole word\n",
+    "input6": "___ 06:25AM BLOOD WBC-8.2 RBC-3.43* Hgb-10.1* Hct-31.1* MCV-91 MCH-29.4 MCHC-32.5 RDW-13.5 RDWSD-45.2 Plt ___\n___ 06:35PM BLOOD WBC-11.3* RBC-3.37* Hgb-10.1* Hct-30.6* MCV-91 MCH-30.0 MCHC-33.0 RDW-13.7 RDWSD-45.4 Plt ___\n___ 06:10AM BLOOD ___ PTT-24.9* ___\n___ 06:35PM BLOOD ___ PTT-21.3* ___\n___ 06:25AM BLOOD Glucose-127* UreaN-14 Creat-1.0 Na-137 K-3.7 Cl-99 HCO3-21* AnGap-17\n___ 06:35PM BLOOD ALT-48* AST-81* AlkPhos-236* TotBili-1.1\n___ 06:25AM BLOOD Calcium-8.8 Phos-2.9 Mg-1.3*\n\nMRI head w/ w/o contrast ___\n\"IMPRESSION: \n   \n1. Early subacute infarct in the left posterior inferior cerebellar hemisphere, in the ___ territory, with central hemorrhagic transformation and thin peripheral contrast enhancement. \n2. Stable left superior occipital/inferior parietal parenchymal hematoma demonstrates thin rim enhancement without nodularity and adjacent leptomeningeal hyperemia. Diagnostic considerations include another site of infarction with hemorrhagic transformation versus sequela of amyloid angiopathy, though no chronic hemorrhages related to amyloid angiopathy are identified.  While no underlying mass is identified, evaluation for masses not definitive until the T1 hyperintense blood products resolve. \n  \nRECOMMENDATION(S):  Recommend follow up MRI after resolution of T1 hyperintense blood products to assess for expected evolution and resolution of contrast enhancement.\"\n\nCT head w/o contrast ___\n\"FINDINGS:  \n  \nhere is mass effect on the occipital horn of the left lateral ventricle. \n  \nThere is likely an old left cerebellar hemispheric infarct, not well seen. \n  \nMucosal thickening is evident within the left maxillary sinus.  Vascular calcification is noted.  Mastoid air cells are clear..  The visualized portion of the orbits are unremarkable. \n"
+}

@@ -1,0 +1,24 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "Elevated blood pressure (BP 170/100) postpartum$Input1": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "elevated to 142/96$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.**$Cause_1": {
+            "PE: 160-170/90-100$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Elderly age is an important risk factor for Hypertension,and female have a higher risk.$Cause_1": {
+                "61 yo gravida$Input2": {}
+            }
+        }
+    },
+    "input1": "Elevated blood pressure (BP 170/100) postpartum\n",
+    "input2": "61 yo gravida 1, para status post lower transverse cesarean section 9 days ago, was to the ER for further evaluation when BP's at staple removal visit were elevated to 142/96.  Patient presented to ED with BP. Pt denied HA/RUQ pain and current visual changes.  Was previously seeing some spots- now resolved.  No chest pain/shortness of breath/fever/chills/Nausea/Vomiting/Diarrhea.  No hx of HTN or HTN during pregnancy. Pt is breastfeeding. Incisional pain was controlled at home with Percocet/Motrin.\n",
+    "input3": "+Obhx: G1P1\n+lower transverse cesarean section boy for ?\n",
+    "input4": "non-contributory\n",
+    "input5": "PE: 98.8 58  160-170/90-100 18 99% RA\nNAD\nRRR\nCTA B\nsoft, ND, appropriately tender around incision, fundus firm\nInc C/D/I steristrips\nExt NT/trace edema/2+ DTR\n",
+    "input6": "___ 01:00PM   WBC-7.5 RBC-3.84* HGB-11.6* HCT-33.7* MCV-88 MCH-30.2 MCHC-34.4 RDW-14.5\n___ 01:00PM   NEUTS-71.2* ___ MONOS-3.1 EOS-2.0 BASOS-0.4\n___ 01:00PM   ___ PTT-28.3 ___\n___ 01:00PM   ALT(SGPT)-19 AST(SGOT)-19 LD(LDH)-304* TOT BILI-0.4\n___ 01:00PM   GLUCOSE-87 UREA N-8 CREAT-0.6 SODIUM-143 POTASSIUM-4.4 CHLORIDE-106 TOTAL CO2-26 ANION GAP-15\n___ 01:00PM   ALT(SGPT)-19 AST(SGOT)-19 LD(LDH)-304* TOT BILI-0.4\n___ 01:21PM   LACTATE-1.0\n___ 02:30PM URINE  COLOR-Yellow APPEAR-Clear SP ___\n___ 02:30PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-TR\n___ 02:30PM URINE  ___ BACTERIA-NONE YEAST-NONE EPI-<1\n___ 09:00AM BLOOD WBC-9.3 RBC-3.74* Hgb-11.2* Hct-32.9* MCV-88 MCH-29.9 MCHC-34.0 RDW-14.5 Plt\n___ 09:00AM BLOOD Creat-0.5\n___ 09:00AM BLOOD ALT-16\n___ 09:00AM BLOOD UricAcd-4.4\n"
+}

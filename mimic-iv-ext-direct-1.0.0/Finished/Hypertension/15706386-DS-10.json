@@ -1,0 +1,36 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "VSS:142/88$Input5": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "Initial vitals on presentation were 179/116$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.**$Cause_1": {
+            "BP 220/100s at home$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.***$Cause_1": {
+            "Vitals at the time of admission were BP 180/125$Input2": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Headache is a classic symptoms of Hypertension.$Cause_1": {
+                "Headache$Input1": {}
+            },
+            "Family history is a big risk factor of Hypertension.$Cause_1": {
+                "Father with hypertension$Input4": {}
+            },
+            "Vomiting is a symptoms of Hypertension.$Cause_1": {
+                "episode of vomiting$Input2": {}
+            },
+            "Labetabol is a type of hypotensive drug,indicates that the patient may have Hypertension,which is a risk factor.$Cause_1": {
+                "Patient received labetolol for 100 mg.$Input2": {}
+            }
+        }
+    },
+    "input1": "Headache\n",
+    "input2": "60 yo female c/ h/o HTN and anxiety who presented to ED c/ CP and headache. The CP woke her up at 2 AM; it was sharp in the middle clavicular line 6th rib in a small location. It did not radiate anywhere and was in intensity, she denies SOB, cough, fever, chills. The pain increased with breathing movements. She had headache that started in the front of her head and spread to her whole head and neck. She had episode of vomiting yesterday and reports vomiting her medications. She also notes she has been very anxious as son is in jail and parole hearing was yesterday. She notes she consistently has high blood pressure, often c/ BP 220/100s at home. She reports she is compliant with her medications and has not missed doses.  \n\nED Course: Initial vitals on presentation were 98.6 88 179/116 16 98% RA. Patient was admitted to ED obs for cardiac rule out, had two negative sets of cardiac enzymes and a negative stress test. Patient received 40 mg propranolol, 25 mg HCTZ, and labetolol 100 mg for elevated BP yesterday. Today she received 60 mg diltiazem and 25 mg of HCTZ with continued elevation of her BP. She had persistent headache despite toradol 30 mg x2. CT of the head was negative. She was then admitted for persistent elevated BP and headache. Vitals at the time of admission were BP 180/125 and HR 78.  \n\nCurrently, she denies CP or SOB. She reports a frontal headache radiating to the back of her head and neck. She denies fevers or chills. Denies history of migraines.\n",
+    "input3": "+HCV\n+Hypothyroidism\n+h/o pneumonia\n+MR/CHF - in the setting of pneumonia  \n+Preeclampsia  \n+Anxiety  \n+h/o Kidney stones  \n+s/p C-section  \n+Chronic pain secondary to bilateral foot deformities.\n+s/p removal of left breast cysts  \n+left neck cyst removal  \n+anemia\n",
+    "input4": "Mother with hypothyroidism. Father with hypertension and alcoholism. Grandfather with jaw cancer. No known family history of liver disease.\n",
+    "input5": "VSS:99.1 98.0 142/88 67 97% RA\nGen: NAD, laying comfortably in bed\nHEENT: EOMI, MMM, neck supple\nCV: RRR, no m/r/g\nResp: CTAB\nAbd: S/NT/ND + BS\nExt: no c/c/e, wwp\nNeuro: alert and appropriate\nSkin: wwp\n",
+    "input6": "___ 11:40PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-TR BILIRUBIN-SM UROBILNGN-4* PH-6.5 LEUK-TR\n___ 11:40PM URINE  ___ BACTERIA-NONE YEAST-NONE \n___ 09:40PM   CK(CPK)-66\n___ 09:40PM   cTropnT-<0.01\n___ 09:40PM   TSH-0.38\n___ 03:10PM   GLUCOSE-83 UREA N-9 CREAT-0.9 SODIUM-141 POTASSIUM-4.4 CHLORIDE-106 TOTAL CO2-28 ANION GAP-11\n___ 03:10PM   CK(CPK)-79\n___ 03:10PM   cTropnT-<0.01\n___ 03:10PM   ASA-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG\n___ 03:10PM   WBC-8.8# RBC-4.69 HGB-13.4 HCT-39.8 MCV-85 MCH-28.5 MCHC-33.6 RDW-13.5\n___ 03:10PM   NEUTS-73.7* ___ MONOS-3.7 EOS-2.0 BASOS-0.4\n___ 03:10PM   PLT COUNT-341\n___ 03:10PM   ___ PTT-27.6 ___\n___ 03:10PM   ASA-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG\n"
+}

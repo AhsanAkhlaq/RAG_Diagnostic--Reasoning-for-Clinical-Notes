@@ -1,0 +1,30 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET: 6.5% > 6% is the gold standard for gastro-oesophageal reflux \rdisease diagnosis$Cause_1": {
+            "Ambulatory reflux monitor :total AET:6.5% on pH-impedance monitoring$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "chest pain is a common symptom of GERD$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "These symptoms are common in GERD because stomach acid backs up into the esophagus and can cause discomfort.$Cause_1": {
+                "reports belching and gas$Input2": {}
+            },
+            "Reflux is a direct symptom of GERD, while nausea, bloating, and abdominal pain may be gastrointestinal discomfort caused by acid reflux.$Cause_1": {
+                "nausea, bloating, ___ reflux, abdominal pain,$Input2": {}
+            },
+            "Mild discomfort in the upper abdomen when deeply palpated is a common symptom of GERD and may indicate discomfort caused by reflux of stomach acid or contents into the esophagus$Cause_1": {
+                "mild discomfort with deep palpation in$Input5": {}
+            },
+            "Shortness of breath during exercise may be a symptom of GERD$Cause_1": {
+                "test was stopped because of shortness of breath$Input6": {}
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "The chest discomfort is no pain, it does not radiate and is located on the left side of his chest. The chest pressure is constant and not exacerbated with activity and not relieved with rest. rates it ___. says it feels similar to his presentation in ___ when he was stented.   He felt like he was filling  up with fluid although ___ SOB,ortophena, PND,and ___ swelling.  Torsemide dose increased 2 days ago from 20 to 40 without relief despite losing 3 lbs since increasing dose.  Discomfort is mild in the AM, gets worse throughout day however not associated with strenuous activity. \n\nNotably patient also reports belching and gas.  In the ED intial vitals were: 4 96.7 77 95/55 18 100% RA. Labs significant for Cr 2.4 (from 1.0 baseline), negative troponin, pro-BNP 411. Patient was given: 250cc bolus followed by 500cc bolus.  \n \n  \n \nROS: No rececent URI sx, fevers, sweats, chills. + nausea, bloating, ___ reflux, abdominal pain,  no vomitting or diarreha. all other ROs neg\n \n \nCardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.\n",
+    "input3": "1. CARDIAC RISK FACTORS: +Type 2 Diabetes, +Dyslipidemia  \n2. CARDIAC HISTORY:  \n- PERCUTANEOUS CORONARY INTERVENTIONS: DES to LAD ___  \n- systolic CHF (most recent EF 25%)  \n3. OTHER PAST MEDICAL HISTORY:  \n- AVNRT s/p ablation ___  \n- chronic thrombocytopenia\n",
+    "input4": "Mother ___ ___ COLON CANCER  \nFather ___ ___ CORONARY ARTERY DISEASE, DIABETES MELLITUS  \nSister Living ___\n",
+    "input5": "VS: 97.8 60 90/40 80 98% RA  \nGeneral: well appearing male in NAD, lying flat in bed  \nHEENT: oropharynx clear  \nNeck: no JVD  \nCV: RRR, no mrg  \nLungs: CTA ___  \nAbdomen: soft, nt, nd, mild discomfort with deep palpation in \nepigastrium  \nExt: no CCE  \nNeuro: moves all 4 extremities purposefully and without \nincident, no facial droop  \nSkin: no mottling\n",
+    "input6": "___ 03:40PM BLOOD WBC-4.4 RBC-4.39* Hgb-13.1* Hct-37.1* \nMCV-85 MCH-29.9 MCHC-35.3* RDW-13.9 Plt ___\n___ 03:40PM BLOOD Neuts-59.6 ___ Monos-11.8* \nEos-2.0 Baso-1.0\n___ 03:40PM BLOOD Glucose-163* UreaN-55* Creat-2.4*# Na-135 \nK-4.4 Cl-92* HCO3-29 AnGap-18\n___:40PM BLOOD proBNP-411*\n___ 03:40PM BLOOD cTropnT-<0.01\n___ 06:46AM BLOOD Calcium-8.9 Phos-5.1* Mg-2.2\n\n\nEcho\nThe patient exercised for 6 minutes 0 seconds according to a ___ treadmill protocol ___ METS) reaching a peak heart rate of 19 bpm and a peak blood pressure of 130/50 mmHg. The test was stopped because of shortness of breath. This level of exercise represents a fair exercise tolerance for age. The exercise ECG was uninterpretable in the presence of a rate related LBBB (see exercise report for details). The blood pressure response to exercise was normal. There was a blunted heart rate response to stress [beta blockade]. \n\nResting images were acquired at a heart rate of 50 bpm and a blood pressure of 90/50 mmHg. These demonstrated mild left ventricular cavity dilation with severe global left ventricular hypokinesis with relative preservation of the basal inferolateral and apical walls (LVEF = ___ %). Right ventricular free wall motion is normal. There is no pericardial effusion. Doppler demonstrated no aortic stenosis, aortic regurgitation or significant mitral regurgitation or resting LVOT gradient. \n\nPost-exercise images were acquired within 44 seconds at heart rates of 104 to 68 beats/min. These demonstrated mild augmentation of the left ventricular function, most notably of the anterior wall with slight cavity size decrease.\n\nAmbulatory reflux monitor :total AET:6.5% on pH-impedance monitoring\n"
+}

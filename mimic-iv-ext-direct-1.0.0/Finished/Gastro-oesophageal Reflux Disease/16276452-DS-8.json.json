@@ -1,0 +1,21 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "Oesophagitis(LA grade B) is the gold standard for the diagnosis of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+            "Endoscopy:oesophagitis(LA grade B)$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Heartburn is a typical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "Hertburn$Input1": {}
+            },
+            "Reflux is a typical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "The patient is a gentleman with reflux.$Input2": {}
+            }
+        }
+    },
+    "input1": "Heartburn\n",
+    "input2": "The patient is a gentleman with reflux.  His esophageal manometry was normal with only 20% of swallows with peristalsis. For this reason we performed a operation.  We discussed the conduct of the operation in detail and potential complications, including postoperative heartburn, dysphagia and potential need for reoperation.\n",
+    "input3": "+HIV\n+acute cholecystitis s/p lap chole\n+s/p cervical discectomy\n+branchial cleft cysts removed as a child fractures of arm, ankle when he was younger\n+h/o tobacco use\n+MRSA infection\n+rectal HPV\n+hx abnormal glucose - undergoing w/u\n+insomnia\n+removal anal condyloma\n",
+    "input4": "mother d CAD s/p MI, first MI.\nfather d emphysema, heart disease.\n5 siblings - 1 sister has thyroid problems.\n",
+    "input5": "Vitals: Temp 98.5 PO, BP 140/78, HR 99, RR 18, O2sat 94% RA\nGen: WA, NAD, A&O\nCV: RRR\nPulm: no increased WOB, CTAB\nAbd: soft, mildly distended/tympanitic, no rebound or guarding, appropriate/minimal TTP, port sites C/D/I with dermabond, no erythema or induration\nExt: WWP\n",
+    "input6": "06:42AM BLOOD WBC-6.2 RBC-4.18* Hgb-13.8 Hct-39.7* \nMCV-95 MCH-33.0* MCHC-34.8 RDW-12.2 RDWSD-42.5 Plt\n06:42AM BLOOD Glucose-82 UreaN-14 Creat-1.1 Na-135 \nK-4.4 Cl-101 HCO3-32 AnGap-6*\n06:42AM BLOOD Calcium-8.7 Phos-3.2 Mg-2.3\nEndoscopy:oesophagitis(LA grade B) \n"
+}

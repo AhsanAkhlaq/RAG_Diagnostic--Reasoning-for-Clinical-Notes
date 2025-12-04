@@ -1,0 +1,36 @@
+{
+    "Secondary Adrenal Insufficiency$Intermedia_3": {
+        "ACTH stimulation testing shows an increase in cortisol levels after administration of ACTH, which may indicate a possible problem at the level of the hypothalamic-pituitary-adrenal axis in the adrenal gland's response to ACTH.$Cause_1": {
+            "A stim test find that cortisol increases when ACTH is given.$Input6": {}
+        },
+        "Suspected Adrenal Insufficiency$Intermedia_2": {
+            "Addison's disease is a primary adrenal insufficiency, which is itself a manifestation of insufficient adrenal cortex hormones.$Cause_1": {
+                "Addison's disease$Input2": {}
+            },
+            "Generalized weakness is one of the common symptoms of adrenal insufficiency. Due to the reduced secretion of adrenal cortex hormones, patients may feel persistent fatigue and decreased physical strength, which affects daily life activities.$Cause_1": {
+                "generalized weakness$Input1": {}
+            },
+            "These symptoms may be related to a further decline in adrenocortical hormones, especially in the setting of chronic Addison's disease.$Cause_1": {
+                "feeling \"wonky\" with generalized weakness and fatigue with muscle cramping$Input2": {}
+            },
+            "These electrolyte abnormalities are typical of adrenal insufficiency and may indicate adrenocortical hormone insufficiency.$Cause_1": {
+                "Na 127, K 6.8$Input2": {}
+            },
+            "This may be a manifestation of general fatigue and decreased strength caused by insufficient adrenal cortex hormones.$Cause_1": {
+                "shortness of breath with exertion$Input2": {}
+            },
+            "Dryness of the oral mucosa. Hypofunction of the adrenal glands may cause problems with the body's water regulation, leading to dryness symptoms.$Cause_1": {
+                "MM dry$Input5": {}
+            },
+            "Hypothyroidism may co-occur with adrenal insufficiency as they both involve dysfunction of the endocrine system.$Cause_1": {
+                "HYPOTHYROIDISM$Input3": {}
+            }
+        }
+    },
+    "input1": "generalized weakness\n",
+    "input2": "___ w/hx of Addison's disease who presents for fatigue, cramping, abnormal labs. She has been feeling \"wonky\" with generalized weakness and fatigue with muscle cramping over the last several days.  She had a UTI and was seen in the ED on ___ for this; she was given a 1 week course of cefpodoxime which she just finished yesterday. (Urine cx came back with pan-sensitive E.coli).  At that time, her labs were sig for Na 127, K 6.8 (although hemolyzed).  She received fluids and was sent home.  She didn't take a higher dose of steroids at the time.  However, since that time she feels she never quite recovered in terms of fatigue and weakness, although the urinary symptoms are gone.  \n\nShe does report some shortness of breath with exertion like going up stairs.  There was no e/o upper tract disease at the time.  She was seen by her PCP yesterday who drew labs and found her K to be 5.8, so in combination with her symptoms, sent her to the ED.  She took twice her usual dose of prednisone today (doubled to 10mg from 5mg).  She denies chest pain, cough, fevers, chills, nausea vomiting and diarrhea. \n",
+    "input3": "GASTROESOPHAGEAL REFLUX \nHYPERCHOLESTEROLEMIA \nHYPOTHYROIDISM \nIRON DEFICIENCY ANEMIA \nOSTEOPENIA \nSPINAL STENOSIS \nLACTOSE INTOLERANCE \nRHEUMATOID ARTHRITIS \nH/o COLLAGENOUS COLITIS\n",
+    "input4": "Per OMR and confirmed w/pt: 2 sisters w/breast cancer, 1 sister w/CAD, mother w/dementia and arthritis, father deceased w/heart disease\n",
+    "input5": "Vitals: 97.9 130/83 88 20 96% RA\nGeneral: well appearing, nontoxic, NAD\nHEENT: MM dry, EOMI, PERRL, no nystagmus\nNeck: supple\nLungs: CTAB, no w/r/r\nCV: normal rate, reg rhythm, no m/r/g\nAbdomen: Soft, NABS, very mild tenderness over all of abdomen (pt states \"it feels like I need to have a bowel movement\")\nExt: wwp, no c/c/e\nNeuro: no nystagmus. CN II-XII intact grossly.  ___ strength UE and ___ b/l.\n",
+    "input6": "___ 11:30AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG \nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 \nLEUK-NEG\n___ 11:30AM URINE  COLOR-Straw APPEAR-Clear SP ___\n___ 12:00PM   WBC-12.1* RBC-3.92* HGB-12.7 HCT-35.7* MCV-91 \nMCH-32.4* MCHC-35.6* RDW-14.1\n___ 12:00PM   NEUTS-85.8* LYMPHS-10.3* MONOS-2.3 EOS-1.3 \nBASOS-0.4\n___ 12:00PM   CALCIUM-10.1 PHOSPHATE-4.0 MAGNESIUM-1.9\n___ 12:00PM   ALT(SGPT)-43* AST(SGOT)-36 ALK PHOS-47 TOT \nBILI-0.2\n___ 12:00PM   GLUCOSE-99 UREA N-33* CREAT-1.3* SODIUM-135 \nPOTASSIUM-5.0 CHLORIDE-99 TOTAL CO2-24 ANION GAP-17\n___ 06:57PM URINE  HOURS-RANDOM CREAT-19 SODIUM-61 \nPOTASSIUM-26 CHLORIDE-73\n\n A stim test find that cortisol increases when ACTH is given.\n"
+}

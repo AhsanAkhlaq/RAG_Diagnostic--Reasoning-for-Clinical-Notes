@@ -1,0 +1,61 @@
+{
+    "HFrEF$Intermedia_5": {
+        "Echocardiography showed a left ventricular ejection fraction (LVEF) of 35%-40%, indicating HFrEF$Cause_1": {
+            "moderate sCHF with LVEF of 35%-40% on echo$Input2": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is moderately dilated$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "proBNP \u2265 125 pg/mL is a strong value for heart failure$Cause_1": {
+                    "proBNP-5145*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "chest pain is the common symptom of HF$Cause_1": {
+                        "chest pain$Input1": {}
+                    },
+                    "The patient had moderate pulmonary systolic hypertension, which may be due to increased pulmonary circulation pressure caused by left ventricular dysfunction, further suggesting possible heart failure.$Cause_1": {
+                        "moderate PA systolic hypertension$Input2": {}
+                    },
+                    "Paroxysmal atrial fibrillation can increase the heart's workload and affect the heart's effective pumping function. It is a common complication of heart failure.$Cause_1": {
+                        "paroxysmal atrial fibrillation$Input2": {}
+                    },
+                    "Chest pain that lasts about an hour and radiates to both arms may be a sign of cardiac ischemia and is associated with an acute exacerbation of heart failure$Cause_1": {
+                        "chest pain x 1 hour$Input2": {}
+                    },
+                    "These symptoms are typical clinical manifestations of heart failure, indicating that the heart's pumping function is impaired, leading to fluid retention and difficulty breathing.$Cause_1": {
+                        "reported PND, orthopnea, and increased edema in the ED$Input2": {}
+                    },
+                    "Coronary artery disease and angina are both heart diseases that are often associated with heart failure$Cause_1": {
+                        "CAD with stable angina$Input3": {}
+                    },
+                    "Long-term hypertension is an important factor leading to increased cardiac burden and heart failure$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "Hyperlipidemia is a risk factor for cardiovascular disease and may accelerate the progression of heart disease$Cause_1": {
+                        "Hyperlipidemia$Input3": {}
+                    },
+                    "Increased jugular venous distension. This is a common sign of right ventricular dysfunction in heart failure, reflecting obstruction of blood return to the heart.$Cause_1": {
+                        "Supple with JVP of 8 cm$Input5": {}
+                    },
+                    "An irregular heartbeat and slow heart rate can be a direct manifestation of heart failure, especially when the heart's electrical function is impaired.$Cause_1": {
+                        "Irregular rhythm, bradycardic$Input5": {}
+                    },
+                    "Rales and dullness to percussion at the bases of both lungs, signs of pulmonary effusion, which is common in heart failure$Cause_1": {
+                        "Crackles at bases and dullness to percussion bilaterally$Input5": {}
+                    },
+                    "2+ pitting edema in both lower extremities, a common symptom of heart failure$Cause_1": {
+                        "2+ pitting edema bilaterally$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "There was a 70% lesion just distal to the stent. Successful PTCA of the LCX), moderate sCHF with LVEF of 35%-40% on echo, moderate PA systolic hypertension, paroxysmal atrial fibrillation (not currently on coumadin), who presents with chest pain x 1 hour.  \n.  \nOf note, patient is a poor historian, but notes chest pain at rest that lasted for perhaps 60 minutes. It radiated down both arms and was not associated with other symptoms. He reported PND, orthopnea, and increased edema in the ED. He is not on a diuretic.\n",
+    "input3": "+ CAD with stable angina, s/p CABG, multiple stents \n+ Moderate pulmonary artery systolic hypertension - TR gradient   \n+ Hemoperitoneum around the liver and in the pelvis along with two splenic artery pseudoaneurysms s/p embolization of both.\n+ when taken off vanco, has frequent diarrhea and dehydration\n+ HTN\n+ Hyperlipidemia\n+ Anemia\n+ Prostate CA s/p XRT\n+ s/p discectomy\n+ Left hip arthroplasty\n+ Severe osteoarthritis\n\ufeff\n",
+    "input4": "Non-contributory\n",
+    "input5": "VS: afebrile, HR 53, BP 104/62, RR 22, 100% 4L NC  \nGENERAL: NAD. Oriented to name and location as BI, unsure of year and president. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \n\ufeff\nNECK: Supple with JVP of 8 cm.  \nCARDIAC: PMI located in intercostal space, midclavicular line. Irregular rhythm, bradycardic, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nLUNGS: Unlabored. Crackles at bases and dullness to percussion bilaterally  \nABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.  \nEXTREMITIES: 2+ pitting edema bilaterally. Redness without warmth.  \nSKIN: No ulcers, scars, or xanthomas.  \nPULSES:  \nRight: Carotid 2+ Femoral 2+ Popliteal 2+ DP\nLeft: Carotid 2+ Femoral 2+ Popliteal 2+ DP\n",
+    "input6": "ADMISSION LABS\n12:03AM BLOOD WBC-11.3* RBC-3.76* Hgb-10.7* Hct-33.4* \nMCV-89 MCH-28.5 MCHC-32.1 RDW-16.9*\n12:03AM BLOOD Neuts-93.1* Lymphs-4.5* Monos-1.7* \nEos-0.5 Baso-0.3\n12:03AM BLOOD Glucose-218* UreaN-35* Creat-2.1* Na-137 \nK-5.4* Cl-100 HCO3-24 AnGap-18\n12:03AM BLOOD Calcium-9.5 Phos-3.8 Mg-2.4 Iron-31*\n12:03AM BLOOD cTropnT-0.02*\n05:15AM BLOOD cTropnT-0.11*\n08:11AM BLOOD CK-MB-6 cTropnT-0.19*\n12:03AM BLOOD CK(CPK)-27*\n08:11AM BLOOD CK(CPK)-52\n12:03AM BLOOD CK-MB-3 proBNP-5145*\n\nTTE (Complete) Done ___ \"Conclusions: The left atrium is moderately dilated. Left ventricular wall thickness, \n"
+}

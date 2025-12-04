@@ -1,0 +1,30 @@
+{
+    "Dilated Cardiomyopathy$Intermedia_3": {
+        "ECG: May reveal signs of abnormal rhythms or ventricular enlargement. This can be a sign of  Dilated Cardiomyopathy$Cause_1": {
+            "In his PCP's office he was found to be tachy to 112 and EKG reportedly showed flipped T in I, aVL, V6, and possible Q wave in II and aVR.$Input2": {}
+        },
+        "abnormal rhythms OF ECG can be a sign of Dilated Cardiomyopathy$Cause_1": {
+            "ECG: sinus tach @ 109, slightly low voltage, nml intervals, Suggestion of \"P-mitral\" p-wave in I and II, Q in III and aVF, J point elevation in V2 and V3, TWI in aVL. No comparison available.$Input6": {}
+        },
+        "Suspected Cardiomyopathy$Intermedia_2": {
+            "DOE is a symptom of Cardiomyopath$Cause_1": {
+                "DOE$Input1": {}
+            },
+            "Shortness of breath  and DOE are symptoms of Cardiomyopath$Cause_1": {
+                "Pt was in his USOH until 2 weeks prior when he began to have difficulty sleeping due to waking up after sleeping for ~30 minute with shortness of breath and coughing.  He attempted to sleep propped up with pillows, but he continued to wake up with dyspnea.  During this time he also noted DOE$Input2": {}
+            },
+            "borderline HTN is the risk fact for Cardiomyopath$Cause_1": {
+                "History of borderline HTN$Input3": {}
+            },
+            "family history of diabetes and heart disease  is a risk factor$Cause_1": {
+                "diabetes and heart disease in a maternal grandfather,$Input4": {}
+            }
+        }
+    },
+    "input1": "DOE\n",
+    "input2": "He is with pmh of borderline htn presenting with complaint of new PND and DOE.  Pt was in his USOH until 2 weeks prior when he began to have difficulty sleeping due to waking up after sleeping for ~30 minute with shortness of breath and coughing.  He attempted to sleep propped up with pillows, but he continued to wake up with dyspnea.  During this time he also noted DOE, finding himself dyspneic after walking up only 1 flight of stairs (was able to walk flights before).  He denies palpitations, chest pain, lower extremity edema.  He notes that he had influenza 6 weeks prior which he recovered from without comlpications.  He denies fevers, night sweats, weight loss, joint pains, n/v/d, dysuria.  He reports that he lives in a wooded  area with ticks, and 1 month earlier found a tick on his right shoulder which he removed at that time.  He has noted a perstant 1 cm erythematous rash that is blanching and non-pruritic, but no other rash.  \n\nBecause of these symptoms of dyspnea pt went to his PCP.  In his PCP's office he was found to be tachy to 112 and EKG reportedly showed flipped T in I, aVL, V6, and possible Q wave in II and aVR.  Because of this he was sent to the ED.\n\nED Course: T:97.7, BP:133/87, HR:123, RR:22, O2:99% on RA.  Labs were drawn, and D-Dimer was elevated. Chest Xray and CTA were performed (see below).  CXR was clear, and CTA was without PE, but did show pulmonary edema. BNP was checked, and was found to be elevated. 1 set of CE were sent, and were negative.\n\nROS: negative, except as noted above\n",
+    "input3": "+History of borderline HTN\n+Status post tonsillectomy\n+Status post surgery for undescended right testicle\n+Status post arthroscopy\n+Status post Bankart repair of his right shoulder\n+Surgical debridement of foot infection\n",
+    "input4": "Family history significant for diabetes and heart disease in a maternal grandfather, breast cancer in an aunt, lung cancer in a paternal grandfather, and depression in an aunt.  In addition, his paternal grandfather had a stroke.\n",
+    "input5": "VS: T:98.7, BP:110/80, HR:109, RR:18, O2:96RA \nGEN:mid aged man in NAD with wife at bedside, EOMI, MMM, OP clear\nNECK:supple, no lad, JVP not elevated\nCHEST: Crackles at bil bases, no wheeze\nCV: nml s1 s2, tachy regular, no m/r/g\nABD:soft, nt nd, no hsm\nEXT: no edema.  No clubing or cyanosis\nNEURO: A+Ox3, grossly intact\nSkin: 1 cm erythematous blanching macule on the posterior right shoulder.\n",
+    "input6": "___ 07:40PM   CK-MB-NotDone cTropnT-<0.01\n___ 07:40PM   CK(CPK)-97\n___ 03:58PM URINE  HOURS-RANDOM\n___ 03:58PM URINE  GR HOLD-HOLD\n___ 03:58PM URINE  COLOR-Yellow APPEAR-Clear SP ___- \n___ 03:58PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-15 BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG\n___ 11:08AM   CK(CPK)-112\n___ 11:08AM   cTropnT-<0.01\n___ 11:08AM   CK-MB-3 proBNP-1717*\n___ 11:08AM   TSH-1.9\n___ 11:08AM   WBC-11.8*# RBC-5.18 HGB-14.7 HCT-43.1 MCV-83 MCH-28.4 MCHC-34.1 RDW-13.9\n___ 11:08AM   NEUTS-78.7* LYMPHS-16.4* MONOS-3.3 EOS-1.3 BASOS-0.4\n___ 11:08AM   PLT COUNT-286\n___ 11:08AM   ___ PTT-30.1 ___\n___ 11:08AM   D-DIMER-675*\n\nECG: sinus tach @ 109, slightly low voltage, nml intervals, Suggestion of \"P-mitral\" p-wave in I and II, Q in III and aVF, J point elevation in V2 and V3, TWI in aVL. No comparison available.\n\nStudies: \nCHEST (PA & LAT) Study Date of 10:52 AM The lungs are clear. There is no pleural effusion or pneumothorax. Cardiomediastinal silhouette and pulmonary vasculature are within normal limits. The osseous structures are grossly unremarkable. \nIMPRESSION: No acute cardiopulmonary process. \n\nCTA Chest Prelim read:\nNo PE, Bilateral ground glass opacities and fluffly alveolar opacities.\n"
+}

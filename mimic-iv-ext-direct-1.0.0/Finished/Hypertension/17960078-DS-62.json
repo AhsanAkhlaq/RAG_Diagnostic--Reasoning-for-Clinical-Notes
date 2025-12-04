@@ -1,0 +1,39 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "her BP was reaching the 200s$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "Initial vital in ED was BP 172/80$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.**$Cause_1": {
+            "BP was highly variable in the ED, ranging from SBP 150s-200s$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.***$Cause_1": {
+            "Vitals prior to floor transfer was BP 174/70$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.****$Cause_1": {
+            "VS:BP 190/77$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Chest pain is a symptoms of Hypertension.$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "Elderly age is an important risk factor for Hypertension,and female have a higher risk.$Cause_1": {
+                "a 55 year old female$Input2": {}
+            },
+            "Losartan is a type of hypotensive drug,indicates that the patient may have Hypertension,which is a risk factor.$Cause_1": {
+                "self medicates with Losartan$Input2": {}
+            },
+            "Family history of cardiovascular disease is a big risk factor of Hypertension.$Cause_1": {
+                "Son and mother with \"heart problems\"$Input4": {}
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "The patient is a 55 year old female with nonobstructive CAD, PVD, atrial fibrillation not on Warfarin, tachy-brady syndrome s/p PPM placement, hypertension, hypothyroidism, hyponatremia thought to be from primary polydipsia, and recurrent UTIs who presented to the ED ,left sided chest pain radiating to the neck, and suprapubic discomfort.  \n\nShe closely monitors her BP at home and self medicates with varying doses of Losartan between zero and four tabs daily. She reports that her BP was more elevated than usual this morning and kept increasing despite her taking multiple doses of Losartan, reaching the 200s in the evening. She felt somewhat lightheaded and developed pain in the left side of her chest and neck. She denied any headache, vision changes, hearing changes, muscle weakness, facial droop, difficulty speaking, or new paresthesias. She was concerned that her elevated BP might cause a stroke and impact her ability to live by herself. She has recently been treated with Macrobid for a UTI, and still has some suprapubic discomfort. She has been drinking lots of water to help flush out her bladder. Given her symptoms, her home health aide encouraged her to come in to the ED for evaluation.  \n\nInitial vitals in ED triage were T 99.2, HR 78, BP 172/80, RR 16, and SpO2 97% on 3L. Her BP was highly variable in the ED, ranging from SBP 150s-200s. CBC showed normocytic anemia with Hct 34.1 (similar to baseline), normal WBC and platelet counts, and unremarkable diff. Chemistry panel showed hyponatremia with Na 130 similar to several prior presentations and creatinine 0.9 (at baseline). Dilantin level was 11.4 within normal limits. Initial Troponin was negative. EKG reportedly showed sinus rhythm at 69 bpm with LAD and LBBB, unchanged from prior. CXR showed no acute process with official read pending. Her UA showed WBC 41 and few bacteria, improved fwhen she had urinalysis with WBC >182.  \n\nShe complained of nausea in the ED and was given Ondansetron 4 mg IV with good effect. She was given Diphenhydramine 25 mg PO once for unclear reasons. She was given Macrobid PO for ongoing UTI treatment. She was admitted to Cardiology for further management of hypertension and chest pain. Vitals prior to floor transfer were T 98 po, HR 62, BP 174/70, RR 16, and SpO2 100% on RA. On reaching the floor, she reported feeling much better and denied any chest pain, neck pain, SOB, headache, or new neurological symptoms.\n",
+    "input3": "+Osteopenia  \n+Migraines  \n+Colon Adenoma  \n+Hysterectomy  \n+more than 9 cardiac catherizations \n+Seizure Disorder -- on Phenytoin  \n+Chronic Small Vessel Infarcts \n+Anxiety / Personality Disorder  \n+Spinal stenosis and Lumbar Degenerative Disease  \n+Peripheral Neuropathy -- on Gabapentin  \n+Chronic Rhinitis  \n+Chronic Cystitis\n",
+    "input4": "Son and mother with \"heart problems\"\n",
+    "input5": "VS: T 97.2, BP 190/77, HR 68, RR 16, SpO2 97% on RA  \nGen: Elderly female in NAD. Oriented x3.  \nHEENT: Sclera anicteric. PERRL, EOMI. MMM, OP benign.  \nNeck: JVP not elevated. No cervical lymphadenopathy.  \nCV: RRR with normal S1, S2. No M/R/G appreciated.  \nChest: CTAB without crackles, wheezes or rhonchi.  \nAbd: Normal bowel sounds. Soft, NT, ND.  \nExt: WWP. No C/C/E. Radial pulses 2+ and symmetric. Pedal pulses DP 1+, ___ 1+ bilaterally.  \nNeuro: CN II-XII grossly intact. Strength in all extremities, but gives way slightly on left arm. No pronator drift. No cerebellar signs. Normal speech.\n",
+    "input6": "___ 06:00AM   GLUCOSE-103* UREA N-17 CREAT-0.9 SODIUM-132* POTASSIUM-4.3 CHLORIDE-94* TOTAL CO2-30 ANION GAP-12\n___ 06:00AM   ALT(SGPT)-25 AST(SGOT)-26 LD(LDH)-149 CK(CPK)-57 ALK PHOS-119* TOT BILI-0.1\n___ 06:00AM   CK-MB-2 cTropnT-<0.01\n___ 06:00AM   ALBUMIN-3.8 CALCIUM-9.1 PHOSPHATE-3.3 MAGNESIUM-2.2\n___ 06:00AM   WBC-5.5 RBC-3.74* HGB-10.7* HCT-32.5* MCV-87 MCH-28.5 MCHC-32.9 RDW-15.7*\n___ 06:00AM   PLT COUNT-317\n___ 06:00AM   ___ PTT-25.5 ___\n___ 04:54AM URINE  HOURS-RANDOM UREA N-275 CREAT-30 SODIUM-49 POTASSIUM-36 CHLORIDE-43\n___ 04:54AM URINE  OSMOLAL-273\n___ 11:00PM URINE  COLOR-Straw APPEAR-Hazy SP ___\n___ 11:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-LG\n___ 11:00PM URINE  RBC-1 WBC-41* BACTERIA-FEW YEAST-NONE EPI-2\n___ 11:00PM URINE  HYALINE-3*\n___ 11:00PM URINE  MUCOUS-RARE\n___ 09:00PM   GLUCOSE-124* UREA N-19 CREAT-0.9 SODIUM-130* POTASSIUM-4.6 CHLORIDE-92* TOTAL CO2-25 ANION GAP-18\n___ 09:00PM   estGFR-Using this\n___ 09:00PM   CK(CPK)-59\n___ 09:00PM   cTropnT-<0.01\n___ 09:00PM   CK-MB-2\n___ 09:00PM   OSMOLAL-266*\n___ 09:00PM   TSH-20*\n___ 09:00PM   FREE T4-0.65*\n___ 09:00PM   PHENYTOIN-11.4\n___ 09:00PM   WBC-4.6 RBC-3.96* HGB-11.2* HCT-34.1* MCV-86 MCH-28.4 MCHC-32.9 RDW-15.9*\n___ 09:00PM   NEUTS-70.9* ___ MONOS-4.9 EOS-3.7 BASOS-0.4\n___ 09:00PM   PLT COUNT-278\n\nEKG no changes from prior\n\nCXR ___:  No acute cardiothoracic process.\nUCx ___: fecal contamination\nUCx ___: pending at DC, NGTD x 2d\n"
+}

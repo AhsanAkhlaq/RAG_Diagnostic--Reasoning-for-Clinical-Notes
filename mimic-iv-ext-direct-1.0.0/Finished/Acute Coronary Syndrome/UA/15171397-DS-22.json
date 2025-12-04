@@ -1,0 +1,111 @@
+{
+    "UA$Intermedia_5": {
+        "a history of Aortic stenosis (s/p bioprosthetic AVR and CAD (s/p CABG nd DESx2) who presents with chest pain. are risk facts of asc-ua$Cause_1": {
+            "He is a male with a history of Aortic stenosis (s/p bioprosthetic AVR and CAD (s/p CABG nd DESx2) who presents with chest pain.$Input2": {}
+        },
+        "This morning he woke up with some mild chest discomfort. This later progressed to chest pain with radiation to the L neck and arm. He took two nitro without any relief as well as ASA.\n can be a sign of acs-ua$Cause_1": {
+            "This morning he woke up with some mild chest discomfort. This later progressed to chest pain with radiation to the L neck and arm. He took two nitro without any relief as well as ASA.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "CAD s/p CABG with redo c/b CVA) is risk fact$Cause_1": {
+                "CAD s/p CABG with redo c/b CVA)$Input3": {}
+            },
+            "Aortic stenosis s/p bioprosthetic AVR is risk fact$Cause_1": {
+                "Aortic stenosis s/p bioprosthetic AVR$Input3": {}
+            },
+            "Carotid stenosis s/p left CEA is risk fact$Cause_1": {
+                "Carotid stenosis s/p left CEA$Input3": {}
+            },
+            "HTN is risk fact$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "family history:Father had first MI, had MIs total, died at  heart failure.\n be a risk fact of acs$Cause_1": {
+                "Father had first MI, had MIs total, died at  heart failure.$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "slight cardiac structural abnormalities: Aortic stenosis (s/p bioprosthetic AVR and CAD (s/p CABG nd DESx2 is a sign of acs$Cause_1": {
+                "Aortic stenosis (s/p bioprosthetic AVR and CAD (s/p CABG nd DESx2$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "CAD s/p CABG with redo c/b CVA) is risk fact$Cause_1": {
+                    "CAD s/p CABG with redo c/b CVA)$Input3": {}
+                },
+                "Aortic stenosis s/p bioprosthetic AVR is risk fact$Cause_1": {
+                    "Aortic stenosis s/p bioprosthetic AVR$Input3": {}
+                },
+                "Carotid stenosis s/p left CEA is risk fact$Cause_1": {
+                    "Carotid stenosis s/p left CEA$Input3": {}
+                },
+                "HTN is risk fact$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "family history:Father had first MI, had MIs total, died at  heart failure.\n be a risk fact of acs$Cause_1": {
+                    "Father had first MI, had MIs total, died at  heart failure.$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "ECG:non-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "CAD s/p CABG with redo c/b CVA) is risk fact$Cause_1": {
+                    "CAD s/p CABG with redo c/b CVA)$Input3": {}
+                },
+                "Aortic stenosis s/p bioprosthetic AVR is risk fact$Cause_1": {
+                    "Aortic stenosis s/p bioprosthetic AVR$Input3": {}
+                },
+                "Carotid stenosis s/p left CEA is risk fact$Cause_1": {
+                    "Carotid stenosis s/p left CEA$Input3": {}
+                },
+                "HTN is risk fact$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "family history:Father had first MI, had MIs total, died at  heart failure.\n be a risk fact of acs$Cause_1": {
+                    "Father had first MI, had MIs total, died at  heart failure.$Input4": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "slight cardiac structural abnormalities: Aortic stenosis (s/p bioprosthetic AVR and CAD (s/p CABG nd DESx2 is a sign of acs$Cause_1": {
+                    "Aortic stenosis (s/p bioprosthetic AVR and CAD (s/p CABG nd DESx2$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "CAD s/p CABG with redo c/b CVA) is risk fact$Cause_1": {
+                        "CAD s/p CABG with redo c/b CVA)$Input3": {}
+                    },
+                    "Aortic stenosis s/p bioprosthetic AVR is risk fact$Cause_1": {
+                        "Aortic stenosis s/p bioprosthetic AVR$Input3": {}
+                    },
+                    "Carotid stenosis s/p left CEA is risk fact$Cause_1": {
+                        "Carotid stenosis s/p left CEA$Input3": {}
+                    },
+                    "HTN is risk fact$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "family history:Father had first MI, had MIs total, died at  heart failure.\n be a risk fact of acs$Cause_1": {
+                        "Father had first MI, had MIs total, died at  heart failure.$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "He is a male with a history of Aortic stenosis (s/p bioprosthetic AVR and CAD (s/p CABG nd DESx2) who presents with chest pain. The \npatient was just discharged from the cardiology service yesterday after having an NSTEMI with new RBBB. He had 2 Drug eluting stents placed to the and LCx. He was chest pain free for >24 hours prior to discharge. This morning he woke up with some mild chest discomfort. This later progressed to chest pain with radiation to the L neck and arm. He took two nitro without any relief as well as ASA. He denies any fever, cough, shortness of breath, nausea/vomiting, or dizziness.\n",
+    "input3": "+ DES to the LCx\n+ CAD s/p CABG with redo c/b CVA)\n+ Aortic stenosis s/p bioprosthetic AVR\n+ Carotid stenosis s/p left CEA\n+ HTN\n+ HL\n+ Lumbosacral stenosis w/chronic back pain s/p \n+ decompression/fusion\n",
+    "input4": "Father had first MI, had MIs total, died at  heart failure.\n",
+    "input5": "Admission exam:\n\ufeff\nVS: 98.4 121/50 67 18 96/2L NC \nGeneral: NAD, comfortable, pleasant\nHEENT: NCAT, PERRL, EOMI\nNeck: supple, no JVD\nCV: RRR. III/VI systolic ejection murmur best heard. No lower extremity edema\nLungs: CTAB\nAbdomen: soft, NT/ND, BS+\nExt: WWP, no c/c/e, 2+ distal pulses bilaterally\nNeuro: Left sided facial droop. No pronator drift. Interosseus muscles and rest of upper body. Normal nose finger nose.\n",
+    "input6": "Admission labs:\n\ufeff\n01:30PM BLOOD WBC-4.6 RBC-2.88* Hgb-9.0* Hct-26.3* \nMCV-91 MCH-31.4 MCHC-34.3 RDW-13.6\n01:30PM BLOOD Glucose-227* UreaN-20 Creat-1.2 Na-132* \nK-4.2 Cl-98 HCO3-25 AnGap-13\n01:30PM BLOOD cTropnT-0.12*\n10:30AM BLOOD Calcium-8.5 Phos-3.4 Mg-2.4\n\nECG:non-ST-elevation \n"
+}

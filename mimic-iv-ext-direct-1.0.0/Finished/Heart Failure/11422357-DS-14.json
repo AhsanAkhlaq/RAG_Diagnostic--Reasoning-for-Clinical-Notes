@@ -1,0 +1,46 @@
+{
+    "HFpEF$Intermedia_5": {
+        "LVEF\u226550% is the critiera for HFpEF$Cause_1": {
+            "LVEF>55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "NT-proBNP \u2265125pg/ml is a diagnostic criteria of heart failure$Cause_1": {
+                    "proBNP-7232$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Previous cardiac dysfunction is a risk factor of heart failure$Cause_1": {
+                        "with a history of systolic CHF$Input2": {}
+                    },
+                    "Breathlessness is a typical symptom of heart failure$Cause_1": {
+                        "presents with shortness of breath$Input2": {}
+                    },
+                    "Reduced exercise tolerance is a typical symptom of heart failure$Cause_1": {
+                        "he could not walk or otherwise exert himself without becoming short of breath$Input2": {}
+                    },
+                    "previous coronary heart disease is a risk factor of heart failure$Cause_1": {
+                        "Coronary Artery Disease$Input3": {}
+                    },
+                    "Abnormal electrocardiograph related to heart failure$Cause_1": {
+                        "Prolonged Q-T interval$Input6": {}
+                    },
+                    "Abnormal electrocardiograph related to heart failure #$Cause_1": {
+                        "intraventricular conduction delay of the left bundle-branch block type persists$Input6": {}
+                    },
+                    "Congestion showed in chest X-ray is related to heart failure$Cause_1": {
+                        "Mild interstitial pulmonary edema is relatively similar when compared to the prior exam$Input6": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "\nShortness of breath.\n",
+    "input2": "Mr. ___ is a ___ year old man with a history of systolic CHF who presents with shortness of breath which has been worsening for 4 days in the setting of dietary non-adherence. He says that he was in his usual state of health until 4 days ago when he had a string of \"4 barbeques\" in a row and ate \"all the bad things\", including hot dogs, cheeseburgers, sausages and other tasty salty snacks. He states that over the last 4 days he has had an insidious increase in his shortness of breath, to the point where he could not walk or otherwise exert himself without becoming short of breath. He attempted some of his wife's supplemental oxygen with improvement in shortness of breath. He tried 80mg PO of lasix (20mg above his usual dose of 60mg daily) to no avail. He endorses a progressively worsening dry cough, but denies any edema, weight gain, fevers/chills, or chest pain/pressure.\n",
+    "input3": "\nCoronary Artery Disease  \nCHF with ICD placement.\nAflutter Ablation  \nPeripheral Vascular Disease\nCVA\nTIA\nBilateral Carotid Artery Stenosis (60-69% right ICA stenosis, 40% left ICA stenosis)  \nCervical Osteoarthritis  \nGERD  \nBPH  \nDVT  \nAmputation of Distal Phalanx\nHistory of Esophageal stricturebdilitation  \nCholecystitis sp percutaneous cholecystostomy\n",
+    "input4": "None\n",
+    "input5": "\nADMISSION:\nVITALS: 98.0, 123/73, 61, 18, 98% on 2L  \nGENERAL: well appearing man, conversant, able to speak full sentences without taking a breath, minimally dyspneic  \nNECK: no carotid bruits, JVD at level of the jaw at 90 degrees  \nLUNGS: CTAB  \nHEART: RRR, normal S1 S2, no MRG  \nABDOMEN: Soft, NT, NABS, no organomegaly, laparotomy scar  \nEXTREMITIES: No c/c/e  \nNEUROLOGIC: A+OX3  \n\n\nDISCHARGE:\nVITAL SIGNS: 97.5, (80-103/52-72), 59(58-63), 96%\n83.0kg from 85.3kg yesterday, dry weight = 81.6kg  \nGENERAL: Well-developed, comfortable male appearing stated age. \nConversant, able to speak full sentences without dyspnea.  \nHEENT: PERRL, EOMI, MMM  \nNECK: no carotid bruits, JVD at level at 10cm from 12cm yesterday.  \nLUNGS: CTAB  \nHEART: RRR, normal S1 S2, no MRG  \nABDOMEN: Soft, NT, slight distention, NABS, no organomegaly.  \nEXTREMITIES: No edema, no clubbing/cyanosis  \nNEUROLOGIC: A+OX3\n",
+    "input6": "\nADMISSION:\n\n___ 08:40PM BLOOD Glucose-87 UreaN-22* Creat-1.4* Na-137 \nK-4.3 Cl-103 HCO3-21* AnGap-17\n___ 08:40PM BLOOD WBC-8.2 RBC-5.04 Hgb-14.9 Hct-45.0 MCV-89 \nMCH-29.7 MCHC-33.2 RDW-15.1 Plt ___\n___ 08:40PM BLOOD Neuts-73.5* ___ Monos-6.5 Eos-1.3 \nBaso-0.5\n___ 08:40PM BLOOD ___ PTT-31.9 ___\n___ 08:40PM BLOOD Calcium-9.6 Phos-4.6* Mg-2.3\n___ 08:42PM BLOOD ___ pO2-59* pCO2-37 pH-7.37 \ncalTCO2-22 Base XS--3 Intubat-NOT INTUBA\n___ 08:40PM BLOOD proBNP-7232*\n\nRELEVANT:\n\n___ 08:40PM BLOOD proBNP-7232*\n___ 08:40PM BLOOD cTropnT-0.01\n\nDISCHARGE:\n\n___ 06:06AM BLOOD Glucose-87 UreaN-27* Creat-1.3* Na-140 \nK-4.0 Cl-102 HCO3-24 AnGap-18\n___ 06:06AM BLOOD Calcium-9.6 Phos-4.0 Mg-2.4\n\n___ EKG:\nSinus rhythm. Prolonged Q-T interval. Left atrial abnormality. Intraventricular conduction defect. Possible anteroseptal myocardial infarction, age undetermined. Lateral ST-T wave changes are non-specific but may be due to ischemia. Compared to the previous tracing of ___ the rate has decreased and intraventricular conduction delay of the left bundle-branch block type persists. The lateral T wave changes are not as apparent on the current tracing. Clinical correlation is suggested.  \n\n___ CXR:The left atrium is moderately dilated. Left ventricular wall thickness, cavity size, and global systolic function are normal (LVEF>55%).\n  \nFINDINGS: \n  \nThe patient is status post median sternotomy and CABG. Left-sided AICD/pacemaker lead terminates in the right ventricle, unchanged. Moderate cardiomegaly is redemonstrated. The mediastinal and hilar contours are unchanged. Mild interstitial pulmonary edema is relatively similar when compared to the prior exam. No pleural effusion or pneumothorax is identified. There are no acute osseous abnormalities. \n  \nIMPRESSION: \n  \nMild interstitial pulmonary edema.\n"
+}

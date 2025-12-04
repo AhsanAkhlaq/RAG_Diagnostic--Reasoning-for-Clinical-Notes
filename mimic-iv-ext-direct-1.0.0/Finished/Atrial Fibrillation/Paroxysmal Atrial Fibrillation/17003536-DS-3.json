@@ -1,0 +1,33 @@
+{
+    "Paroxysmal Atrial Fibrillation$Intermedia_3": {
+        "This shows that atrial fibrillation is paroxysmal and can terminate itself, which is consistent with the characteristics of paroxysmal atrial fibrillation.$Cause_1": {
+            "planned for cardioversion but spontaneously converted back to NSR$Input2": {}
+        },
+        "Sinus tachycardia and premature atrial contractions are common electrocardiographic manifestations of AF, indicating the presence of atrial fibrillation.$Cause_1": {
+            "Sinus rhythm with borderline sinus tachycardia and atrial premature beats. The findings are as outlined on previous tracing of the same date except that the rate is faster and atrial ectopy is now seen.$Input6": {}
+        },
+        "Suspected Atrial Fibrillation$Intermedia_2": {
+            "Palpitations are one of the common symptoms of atrial fibrillation$Cause_1": {
+                "Palpitations$Input1": {}
+            },
+            "Palpitations are a common symptom of atrial fibrillation and indicate an abnormal heart rate.$Cause_1": {
+                "he began experiencing rapid heart palpitations$Input2": {}
+            },
+            "Tachyarrhythmias may refer to atrial fibrillation, and carotid artery massage is a common emergency procedure used to try to terminate the abnormal heart rhythm.$Cause_1": {
+                "EMS who noted a tachyarrhythmia on monitor and recommended carotid massage$Input2": {}
+            },
+            "Occasional premature ventricular contractions suggest underlying cardiac electrophysiological instability, which may be related to the onset of atrial fibrillation.$Cause_1": {
+                "In NSR on telemetry with occasional PVCs.$Input2": {}
+            },
+            "High blood sugar may be a heart disease risk factor$Cause_1": {
+                "GLUCOSE-124*$Input6": {}
+            }
+        }
+    },
+    "input1": "Palpitations \n",
+    "input2": "64 year old male. He was planned for cardioversion but spontaneously converted back to NSR earlier this morning. He was discharged home. Approximately 90 minutes after arriving home, he began experiencing rapid heart palpitations. He called EMS who noted a tachyarrhythmia on monitor and recommended carotid massage. This was effective in breaking the tachycardia. He was readmitted to the cardiology service. \n\nAt the time of arrival to the floor, he was feeling better with no palpitations or lightheadedness. In NSR on telemetry with occasional PVCs.\n",
+    "input3": "+grade 6 (3 + 3) adenocarcinoma of the prostate managed with watchful waiting  \n+right cerebellar meningioma with growth to 4.4 cm x 3.1 cm.+nephrolithiasis  \n+ocular migraine  \n+hepatitis B  \n+mononucleosis with subsequent hepatitis  \n+genital herpes  \n+leg fracture  \n+ocular migraine  \n+pyloric stenosis as an infant\n",
+    "input4": "CAD in both grandfathers. Cancer in father.\n",
+    "input5": "GENERAL: NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \nNECK: Supple with JVP of 0 cm.  \nCARDIAC: PMI located in intercostal space, midclavicular line. Regular rate and rhythm, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.  \nEXTREMITIES: No c/c/e. No femoral bruits.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES:  \nRight: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ \nLeft: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+\n",
+    "input6": "___ 06:00AM   PTT-98.3*\n___ 06:00AM   PLT COUNT-235\n___ 06:00AM   WBC-5.4 RBC-4.89 HGB-14.7 HCT-43.3 MCV-89 MCH-30.0 MCHC-33.9 RDW-14.0\n___ 06:00AM   CALCIUM-8.7 PHOSPHATE-3.5 MAGNESIUM-1.9\n___ 02:55PM   ___ PTT-24.7 ___\n___ 02:55PM   PLT COUNT-240\n___ 02:55PM   NEUTS-70.9* ___ MONOS-7.2 EOS-0.7 BASOS-1.3\n___ 02:55PM   WBC-5.9 RBC-5.17 HGB-15.8 HCT-45.8 MCV-89 MCH-30.6 MCHC-34.5 RDW-13.6\n___ 02:55PM   GLUCOSE-124* UREA N-11 CREAT-0.9 SODIUM-140 \nPOTASSIUM-4.3 CHLORIDE-107 TOTAL CO2-23 ANION GAP-14\n\n========\nEKG ___: Sinus rhythm with borderline sinus tachycardia and atrial premature beats. The findings are as outlined on previous tracing of the same date except that the rate is faster and atrial ectopy is now seen.\n"
+}

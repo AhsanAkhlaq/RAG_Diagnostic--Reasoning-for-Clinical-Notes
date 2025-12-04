@@ -1,0 +1,24 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET: 9.2% > 6% is the gold standard for GERD diagnosis$Cause_1": {
+            "Ambulatory reflux monitor :total AET:9.2% on pH-impedance monitoring.$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Substernal pain is a common symptom of GERD.$Cause_1": {
+                "substernal pain$Input2": {}
+            },
+            "Hiatal hernia, in which part of the stomach pushes through a hole into the chest, can exacerbate or cause GERD symptoms$Cause_1": {
+                "a large hiatal hernia$Input2": {}
+            },
+            "Reflux into the throat and even vomiting are typical symptoms of GERD$Cause_1": {
+                "regurgitated so much as to vomit$Input2": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "She is a ___ white female complaining of substernal pain, which awakes her at night.  She has been previously evaluated with Dr. ___ essentially undergone further evaluation with endoscopy, which showed a large hiatal hernia.  The patient was referred by her PCP, ___ due to this hiatal hernia, and her husband who reports that night she actually regurgitated so much as to vomit in her sleep.\n",
+    "input3": "Non-ischemic cardiomyopathy with EF 25% by echo ___\ns/p ICD placement\nAsthma\nDepression\nHep C\nChronic LBP\nHx of etoh abuse\n",
+    "input4": "Her father died of MI/SCD at age ___ no other family history of premature coronary artery disease or sudden death.\n",
+    "input5": "On physical exam, no acute distress.  Blood pressure 102/70,\nrespirations 12, heart rate 78, O2 sat is 98%, weight 157 \npounds,alert, oriented, and wearing an abdominal binder.  There is a palpable device in left upper chest wall consistent with an AICD device.  Neck is supple.  Breathing comfortably.  Lungs clear. \n\nHeart is regular.  Abdomen is soft and nontender.  \nNeurologically\ngrossly intact.  \nUpper and lower extremities, good range of motion, good strength.  Gait and station normal.  Skin without rashes.\n",
+    "input6": "UGI ___\n\nNo definite evidence of leak or obstruction. Contrast passes freely.\n\nAmbulatory reflux monitor :total AET:9.2% on pH-impedance monitoring.\n\n"
+}

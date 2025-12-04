@@ -1,0 +1,156 @@
+{
+    "UA$Intermedia_5": {
+        "Patient states that he has had pain in his chest, bilateral lower biceps, and between his shoulder blades which he says is worsened with exertion and relieved by rest for past 2 weeks. are sign ofa acs-ua$Cause_1": {
+            "Patient states that he has had pain in his chest, bilateral lower biceps, and between his shoulder blades which he says is worsened with exertion and relieved by rest for past 2 weeks.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest Pain$Input1": {}
+            },
+            "history of HTN, HLD, PVD, tobacco  are risk facts of acs$Cause_1": {
+                "He is a gentleman with history of HTN, HLD, PVD, tobacco use presenting with two weeks of intermittent chest pain worsened with exertion.$Input2": {}
+            },
+            "hypertension  is risk fact$Cause_1": {
+                "hypertension$Input3": {}
+            },
+            "dyslipidemia  is risk fact$Cause_1": {
+                "dyslipidemia$Input3": {}
+            },
+            "ALCOHOL ABUSE  is risk fact$Cause_1": {
+                "ALCOHOL ABUSE$Input3": {}
+            },
+            "HYPERLIPIDEMIA is risk fact$Cause_1": {
+                "HYPERLIPIDEMIA$Input3": {}
+            },
+            "HYPERTENSION is risk fact$Cause_1": {
+                "HYPERTENSION$Input3": {}
+            },
+            "family history:Father with MI at died of MI.\n  is a risk fact$Cause_1": {
+                "Father with MI at died of MI.$Input4": {}
+            },
+            "family history:Paternal aunts with cardiovascular disease.  is a risk fact$Cause_1": {
+                "Paternal aunts with cardiovascular disease.$Input4": {}
+            },
+            "family history:Paternal grandmother with cardiovascular  is a risk fact$Cause_1": {
+                "Paternal grandmother with cardiovascular$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "slight cardiac structural abnormalities is a sign of acs$Cause_1": {
+                "PMI located in intercostal space, midclavicular line. RR, normal S1, S2. No murmurs/rubs/gallops. No thrills, lifts.$Input5": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "history of HTN, HLD, PVD, tobacco  are risk facts of acs$Cause_1": {
+                    "He is a gentleman with history of HTN, HLD, PVD, tobacco use presenting with two weeks of intermittent chest pain worsened with exertion.$Input2": {}
+                },
+                "hypertension  is risk fact$Cause_1": {
+                    "hypertension$Input3": {}
+                },
+                "dyslipidemia  is risk fact$Cause_1": {
+                    "dyslipidemia$Input3": {}
+                },
+                "ALCOHOL ABUSE  is risk fact$Cause_1": {
+                    "ALCOHOL ABUSE$Input3": {}
+                },
+                "HYPERLIPIDEMIA is risk fact$Cause_1": {
+                    "HYPERLIPIDEMIA$Input3": {}
+                },
+                "HYPERTENSION is risk fact$Cause_1": {
+                    "HYPERTENSION$Input3": {}
+                },
+                "family history:Father with MI at died of MI.\n  is a risk fact$Cause_1": {
+                    "Father with MI at died of MI.$Input4": {}
+                },
+                "family history:Paternal aunts with cardiovascular disease.  is a risk fact$Cause_1": {
+                    "Paternal aunts with cardiovascular disease.$Input4": {}
+                },
+                "family history:Paternal grandmother with cardiovascular  is a risk fact$Cause_1": {
+                    "Paternal grandmother with cardiovascular$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS.$Cause_1": {
+                "ECG:non-ST-elevation.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "history of HTN, HLD, PVD, tobacco  are risk facts of acs$Cause_1": {
+                    "He is a gentleman with history of HTN, HLD, PVD, tobacco use presenting with two weeks of intermittent chest pain worsened with exertion.$Input2": {}
+                },
+                "hypertension  is risk fact$Cause_1": {
+                    "hypertension$Input3": {}
+                },
+                "dyslipidemia  is risk fact$Cause_1": {
+                    "dyslipidemia$Input3": {}
+                },
+                "ALCOHOL ABUSE  is risk fact$Cause_1": {
+                    "ALCOHOL ABUSE$Input3": {}
+                },
+                "HYPERLIPIDEMIA is risk fact$Cause_1": {
+                    "HYPERLIPIDEMIA$Input3": {}
+                },
+                "HYPERTENSION is risk fact$Cause_1": {
+                    "HYPERTENSION$Input3": {}
+                },
+                "family history:Father with MI at died of MI.\n  is a risk fact$Cause_1": {
+                    "Father with MI at died of MI.$Input4": {}
+                },
+                "family history:Paternal aunts with cardiovascular disease.  is a risk fact$Cause_1": {
+                    "Paternal aunts with cardiovascular disease.$Input4": {}
+                },
+                "family history:Paternal grandmother with cardiovascular  is a risk fact$Cause_1": {
+                    "Paternal grandmother with cardiovascular$Input4": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "slight cardiac structural abnormalities is a sign of acs$Cause_1": {
+                    "PMI located in intercostal space, midclavicular line. RR, normal S1, S2. No murmurs/rubs/gallops. No thrills, lifts.$Input5": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS$Cause_1": {
+                        "Chest Pain$Input1": {}
+                    },
+                    "history of HTN, HLD, PVD, tobacco  are risk facts of acs$Cause_1": {
+                        "He is a gentleman with history of HTN, HLD, PVD, tobacco use presenting with two weeks of intermittent chest pain worsened with exertion.$Input2": {}
+                    },
+                    "hypertension  is risk fact$Cause_1": {
+                        "hypertension$Input3": {}
+                    },
+                    "dyslipidemia  is risk fact$Cause_1": {
+                        "dyslipidemia$Input3": {}
+                    },
+                    "ALCOHOL ABUSE  is risk fact$Cause_1": {
+                        "ALCOHOL ABUSE$Input3": {}
+                    },
+                    "HYPERLIPIDEMIA is risk fact$Cause_1": {
+                        "HYPERLIPIDEMIA$Input3": {}
+                    },
+                    "HYPERTENSION is risk fact$Cause_1": {
+                        "HYPERTENSION$Input3": {}
+                    },
+                    "family history:Father with MI at died of MI.\n  is a risk fact$Cause_1": {
+                        "Father with MI at died of MI.$Input4": {}
+                    },
+                    "family history:Paternal aunts with cardiovascular disease.  is a risk fact$Cause_1": {
+                        "Paternal aunts with cardiovascular disease.$Input4": {}
+                    },
+                    "family history:Paternal grandmother with cardiovascular  is a risk fact$Cause_1": {
+                        "Paternal grandmother with cardiovascular$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest Pain\n",
+    "input2": "He is a gentleman with history of HTN, HLD, PVD, tobacco use presenting with two weeks of intermittent chest pain worsened with exertion.  \n\ufeff\nPatient states that he has had pain in his chest, bilateral lower biceps, and between his shoulder blades which he says is worsened with exertion and relieved by rest for past 2 weeks. He is concerned that this represents angina given his risk factors and family history of cardiovascular disease. He describes the chest pain as a pressure. He denies any DOE or SOB at rest, he has occasional sweating but denies that it correlates with his chest pain.  \n\ufeff\nHe states that he is very active at work. He also reports a chronic cough but otherwise has no acute complaints.  \n\ufeff\nIn the ED initial vitals were:  \n98.5 82 129/84 18 99% RA  \nExam notable for: Comfortable, Heart: RRR no m/r/g, Chest: Unable to reproduce chest pain with palpation, Back: Tenderness to paraspinal musculature in the upper back, Lungs: CTAB, no w/r/c, Ext: No c/c/e EKG: sinus 75, NA, NI, no STE, STD  \nLabs/studies notable for: CBC normal, trop <0.01 x 2, Cr 1.1, K 7.4 grossly hemolyzed, green top K 4.1  \nCXR: No acute cardiopulmonary abnormality. No displaced rib fractures are seen.  \n\ufeff\nPatient was given:  \nASA 243 mg  \nPlan was 2 sets of trops and stress however unable to obtain to interpreter so admitted for further workup of chest pain, pMIBI.\n\ufeff\nVitals on transfer:  \n98.7 73 105/67 16 94% RA  \n\ufeff\nOn the floor patient is feeling well and very grateful for the care he has been receiving. He denies any current chest pain, shortness of breath. He reports chronic low back pain and has received injections for this in the past. No lower extremity weakness or paresthesias, no incontinence of urine or stool.\n",
+    "input3": "+ hypertension\n+ dyslipidemia \n+ PVD  \n+ ALCOHOL ABUSE  \n+ H PYLORI  \n+ HERPES ZOSTER  \n+ HYPERLIPIDEMIA  \n+ HYPERTENSION  \n+ PEPTIC ULCER DISEASE  \n+ PERIPHERAL VASCULAR DISEASE  \n+ TOBACCO ABUSE  \n+ BACK PAIN  \n+ COLONIC POLYPS  \n+ LUNG NODULE\n",
+    "input4": "Father with MI at died of MI. Paternal aunts with cardiovascular disease. Paternal grandmother with cardiovascular\n",
+    "input5": "ADMISSION PHYSICAL EXAM:\n=========================\nVS: 98.2 137/30 90 18 985 on RA  \nweight 92.4kg  \nGENERAL: WDWN very pleasant middle aged gentleman in NAD. \nOriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  \n\ufeff\nNECK: Supple with no JVD.  \nCARDIAC: PMI located in intercostal space, midclavicular line. RR, normal S1, S2. No murmurs/rubs/gallops. No thrills, lifts.  \nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. No crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness.  \nBACK: lower back with paraspinal muscle tenderness, no midline tenderness  \nEXTREMITIES: No c/c/e. No femoral bruits.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES: Distal pulses palpable and symmetric\n",
+    "input6": "12:45PM BLOOD WBC-5.0 RBC-4.73 Hgb-14.7 Hct-43.7 MCV-92 \nMCH-31.1 MCHC-33.6 RDW-12.9 RDWSD-43.0\n12:45PM BLOOD Neuts-55.5 Monos-7.0 Eos-3.2 \nBaso-0.2 AbsNeut-2.77 AbsLymp-1.69 AbsMono-0.35 \nAbsEos-0.16 AbsBaso-0.01\n12:45PM BLOOD Glucose-98 UreaN-14 Creat-1.1 Na-135 \nK-7.1* Cl-101 HCO3-23 AnGap-18\n06:50PM BLOOD cTropnT-<0.01\n12:45PM BLOOD cTropnT-<0.01\n07:45AM BLOOD Calcium-9.1 Phos-4.2 Mg-2.1\n03:16PM BLOOD K-4.1\n\nECG:non-ST-elevation.\n"
+}

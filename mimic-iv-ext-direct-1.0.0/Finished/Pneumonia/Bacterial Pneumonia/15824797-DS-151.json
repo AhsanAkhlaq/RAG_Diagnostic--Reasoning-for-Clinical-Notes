@@ -1,0 +1,50 @@
+{
+    "Bacterial Pneumonia$Intermedia_4": {
+        "Identify the pathogens of pneumonia. MRSA and Klebsiella are common bacteria that cause community-acquired pneumonia.$Cause_1": {
+            "MRSA/Klebsiella community-acquired pneumonia$Input2": {}
+        },
+        "Sputum cultures show a large number of gram-positive cocci and a large number of gram-negative rods. The presence of these bacteria may cause or exacerbate lung infection.$Cause_1": {
+            "Sputum Cx with 3+ GPC (MRSA), 3+ GNR$Input6": {}
+        },
+        "Klebsiella, a common pneumonia pathogen, was also found in the sputum and was sensitive to all antibiotics except ampicillin.$Cause_1": {
+            "Sputum also grew Klebsiella$Input6": {}
+        },
+        "Pneumonia$Intermedia_3": {
+            "Persistent bilateral pulmonary infiltrates with increased right lung base severity. This X-ray appearance is usually consistent with pneumonia.$Cause_1": {
+                "Persistent bilateral infiltrates, worsening in the right lung base.$Input6": {}
+            },
+            "Consolidation of the right lower lobe with development of multiple air cells may represent cavitation or necrosis, which is typical of severe lung infection or pneumonia.$Cause_1": {
+                "Right lower lobe consolidation has developed multiple air pockets which could indicate cavitation or necrosis.$Input6": {}
+            },
+            "Progression of cavitary disease in the left lung and right upper lobe. This describes a regional spread of lung disease and may be related to worsening infection.$Cause_1": {
+                "Progression of airspace disease in the left lung and right upper lobe$Input6": {}
+            },
+            "Suspected Pneumonia$Intermedia_2": {
+                "Fever is a common symptom of pneumonia$Cause_1": {
+                    "Fever$Input1": {}
+                },
+                "COPD is a long-term disease that affects breathing and can increase the risk of lung infections, particularly developing pneumonia.$Cause_1": {
+                    "history of COPD$Input2": {}
+                },
+                "Fever and cough are common symptoms of pneumonia$Cause_1": {
+                    "fever and cough$Input2": {}
+                },
+                "Hypoxemic respiratory failure indicates a possible serious complication of pneumonia$Cause_1": {
+                    "ongoing management of hypoxemic respiratory failure$Input2": {}
+                },
+                "The persistence of these symptoms indicates that pneumonia symptoms are getting worse or are not under control.$Cause_1": {
+                    "low-grade fevers, productive cough, posttussive chest pain, and exertional dyspnea persisted$Input2": {}
+                },
+                "Severe sepsis and transient hypotension indicate that the patient is seriously ill$Cause_1": {
+                    "severe sepsis with \"brief period of hypotension\"$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "Fever\n",
+    "input2": "Ms. ___ is a ___ with history of COPD (uncertain severity) \nand breast cancer status post chemoradiation therapy and left mastectomy in ___ who initially presented to an outside hospital with fever and cough, now transferred for ongoing management of hypoxemic respiratory failure in the setting of MRSA/Klebsiella community-acquired pneumonia. As patient is intubated and sedated, history is obtained from review of outside hospital documentation. She was reportedly in her usual state of health until approximately ___, when she developed fever to 102.5 and chills with productive cough, initially partially responsive to rest and supportive treatment. When low-grade fevers, productive cough, posttussive chest pain, and exertional dyspnea persisted, she presented to ___ \n___ for evaluation at her daughter's insistence.\n\nIn the ___ ED, initial vital signs were as follows: 100.8, 126, 120/58, 24, 93% on 3L NC. Initial labs were notable for Wbc of 38.6 (85% PMNs), Hgb/Hct of 9.7/28.6, platelets of 412, Na of 130, and lactate of 2.1. She received 3L IV normal saline, as well as levofloxacin 750mg IV and ceftriaxone 1g IV for presumed community-acquired pneumonia in the setting of CXR with small left lower lobe infiltrates and lateral parapneumonic effusion. She was admitted to the MICU for close monitoring due to severe sepsis with \"brief period of hypotension\" to an uncertain degree.\n",
+    "input3": "\nmastectomy in ___ no recurrences\nAcute HBV status post spontaneous clearance\nDental surgery in ___\nChronic back pain status post multiple operative interventions\nCold-induced urticaria\nStatus post removal of all teeth\nDepression/anxiety\nSchizophrenia\n",
+    "input4": "Mother with history of lung cancer. Father died in a motor \nvehicle collision.\n",
+    "input5": "___: Intubated, sedated  \nHEENT: Sclerae anicteric, MMM, oropharynx clear  \nNECK: Supple, JVP difficult to assess  \nLUNGS: Clear to auscultation anteriorly, no wheeze  \nCV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, gallops  \nABD: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  \nEXT: Warm, well perfused, 2+ pulses, no edema  \nSKIN: No visible lesions \nNEURO: Sedated, opens eyes partially to vigorous sternal rub, does not follow commands\n",
+    "input6": "___:\nFerritin 519, TIBC 105, Transferrin sat 75, B12 5521 Sputum Cx with 3+ GPC (MRSA), 3+ GNR \n___:\nCytology negative for malignancy.\n___:\nWbc of 15, Hct of 28.7, platelets of 369\n___:\nK of 2.8, BUN/Cr of ___, AST/ALT of ___, TBili 0.1, AlkP \nof 212\n\nOSH MICRO:\nSputum with MRSA ___ ___s bronch: sensitive to Clinda, Tetracycline, Bactrim, Vancomycin, (Resistant to Erythro, Oxacillin, Penicillin, Cefazolin). \n\nSputum also grew Klebsiella from ___: Pan-susceptible except for Ampicillin (Suscept to Ceftazidime, Ceftriaxone, Gentamicin, Levo, Zosyn, Tobra, Bactrim, Tetracycline, Cefoxitin, \nCefuroxime, Meropenem, Cipro, Cefazolin). \n\nOSH Images:  \nTTE (___):\nPosterior mitral valve leaflet calcified with limited mobility. Trace MR. ___ to moderate TR with elevated PA systolic \npressure. Normal LV systolic/diastolic function; LVEF of 55-60%. Moderately enlarged RA. Moderately enlarged RV with mild global hypokinesis.\n\nBilateral lower extremity venous ultrasound (___):\nNegative for DVT. Right ___ cyst.\n\nCT abdomen/pelvis (unclear if with contrast) (Outside hospital, \n___:\nMild intra- and extrahepatic biliary dilation. CBD at 9mm. No lesions otherwise.\n\nPortable CXR (Outside hospital, ___:\nPersistent bilateral infiltrates, worsening in the right lung base.\n\nCT chest with contrast (Outside hospital, ___:\n1. Right lower lobe consolidation has developed multiple air pockets which could indicate cavitation or necrosis.\n2. Progression of airspace disease in the left lung and right upper lobe.\n\n"
+}

@@ -1,0 +1,43 @@
+{
+    "HFpEF$Intermedia_5": {
+        "LVEF\u226550% is the critiera for HFpEF$Cause_1": {
+            "LVEF>55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strongly suspected heart failure.$Cause_1": {
+                    "pBNP 6120 (elevated from 5780 one month ago, 1549 in sometime)$Input2": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "weight gain is a common symptom of fluid retention associated with heart failure.$Cause_1": {
+                        "weight gain$Input1": {}
+                    },
+                    "Coronary artery disease (CAD) and coronary artery bypass grafting (CABG) are also risk factors for heart failure.$Cause_1": {
+                        "cath with 3vd s/p 3v CABG (LIMA to LAD, SVG to PDA and ramus)$Input3": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Dyslipidemia is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "Dyslipidemia$Input3": {}
+                    },
+                    "Diabetes is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "DM II$Input3": {}
+                    },
+                    "Maternal GM died of MI, mother died of heart problems at unknown age, DMII and cancer runs in her family.$Cause_1": {
+                        "Maternal GM died of MI$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "weight gain\n",
+    "input2": "CAD (CABG in certain organs, HTN, DMII on tele-weightmonitoring at home, was told to come in to ER due to continued weight gain. Weight increased 6 lbs overnight and has been increasing about 5 lbs/day for weeks according to the patient. According the telemonitoring notes, it is about 9lbs in 1 week. She has noted some minimal dyspnea on exertion, increased swelling, but no chest pain, orthopnea or PND. Has a history of non-compliance according to notes. She states that she occasionally misses a dose of lasix (particularly at night if she falls asleep) and that she drinks about 3 L of fluid per day. She also noticed low urine output yesterday despite taking her am lasix dose. .In the ED initial vitals were: 97.1 74 163/77 18 100 RA. Labs were notable for trop of 0.15 (baseline 0.01 - 0.04), pBNP 6120 (elevated from 5780 one month ago, 1549 in sometime), Cr of 2.1 (slowly increasing from 0.9 over course of the year), hct of 35%. She was given lasix 80mg x1.\n",
+    "input3": "+ cath with 3vd s/p 3v CABG (LIMA to LAD, SVG to PDA and ramus)\n+ Hypertension\n+ Dyslipidemia\n+ PAD: s/p b/l SFA PTCA/stents for chronic claudication\n+ Asthma\n+ Hx of alcohol and substance abuse- sober several years\n+ DM II\n+ s/p myomectomy and L oophrectomy\n+ Hep C\n+ Depression\n+ Colon Cancer (resected)\n",
+    "input4": "Maternal GM died of MI, mother died of heart problems at unknown age, DMII and cancer runs in her family.\n",
+    "input5": "N/A\n",
+    "input6": "The left atrium is moderately dilated. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%).\n"
+}

@@ -1,0 +1,32 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "This indicates that paresthesias in the hands tend to recur, which is a relapsing characteristic of RRMS.$Cause_1": {
+            "same paresthesias in the hands as before$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "The cervical cord had a T2-weighted hyperintense area at the C3/C4 level, with slight extension to C2 and C5, accompanied by heterogeneous enhancement. In addition, the associated edema extended to the C5 level. These symptoms suggest possible demyelinating damage to the nerve, which is a typical radiological manifestation of multiple sclerosis.$Cause_1": {
+                "Area of T2 hyperintensity in the cervical cord at the level of C3/C4 with mild linear extension to the level of C2 and C5 and likely heterogeneous enhancement. There is associated edema extending to the level of C5. There is prominence of the central canal of the spinal cord with T2 hyperintense signal surrounding the canal at the level of the lesion.$Input6": {}
+            },
+            "MRI of the head showed multiple high signal lesions in the peripheral white matter areas of the brain on FLAIR sequences, especially in the left centrum semiovale, right paraatrial area, bilateral temporal lobes, and dorsal region of the corpus callosum. These lesions are common in multiple sclerosis and suggest a demyelinating process.$Cause_1": {
+                "ultiple hyperintense lesions on FLAIR sequence, in the periventricular white matter, specifically in the left centrum semiovale, right periatrial region, the temporal lobes bilaterally and in splenium of the corpus callosum.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "These symptoms may be related to nerve inflammation or muscle tension, which are more common in people with MS.$Cause_1": {
+                    "feel neck stiffness and soreness in his trapezius$Input2": {}
+                },
+                "Patients experience pain and decreased strength when performing certain movements, which may be due to nerve dysfunction caused by MS.$Cause_1": {
+                    "felt soreness and weakness in his arms (specifically with over head maneuvers)$Input2": {}
+                },
+                "This feeling of instability and unilateral weakness is a sign of the motor coordination problems caused by nerve damage in MS.$Cause_1": {
+                    "legs are \"wobbly\" and feels like his left side is weak in comparison to his right$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Right-handed man. He was seen by Dr was started on Capaxone. About 3 weeks ago he states he has started to feel neck stiffness and soreness in his trapezius. About one week ago he started to feel the same paresthesias in the hands as before and has since also felt soreness and weakness in his arms (specifically with over head maneuvers), he feels his legs are \"wobbly\" and feels like his left side is weak in comparison to his right. He also feels two bands (one on his chest and one on his abdomen). \n\ufeff\nOn ROS: He denies any recent infection, fever, chills, nausea, vomiting, chest pain or SOB. He has had no falls, He denies LOC, language difficulties, changes to vision or diplopia.\n",
+    "input3": "None\n",
+    "input4": "Father with DM.\n",
+    "input5": "N/A\n",
+    "input6": "CSF: \n___ 04:40PM CEREBROSPINAL FLUID (CSF) WBC-1 RBC-1* Polys-0 \n___ 04:40PM CEREBROSPINAL FLUID (CSF) TotProt-77* Glucose-59\n___ 04:40PM CEREBROSPINAL FLUID (CSF) \ufeff\nBlood: \n___ 01:20PM BLOOD WBC-7.2 RBC-5.57 Hgb-17.0 Hct-47.2 MCV-85 MCH-30.4 MCHC-35.9* RDW-13.4\n___ 01:20PM BLOOD Neuts-64.8 Monos-6.0 Eos-1.8 Baso-0.7\n___ 01:20PM BLOOD Glucose-118* UreaN-18 Creat-1.0 Na-142 K-4.0 Cl-104 HCO3-28 AnGap-14\n___ 01:20PM BLOOD Glucose-118* UreaN-18 Creat-1.0 Na-142 K-4.0 Cl-104 HCO3-28 AnGap-14\n___ 06:15AM BLOOD Calcium-9.2 Phos-3.8 Mg-2.1\n___ 06:15AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG\n___ 06:15AM BLOOD %HbA1c-5.2 \n\ufeff\nUrine: \n\ufeff\n___ 03:41PM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG\n___ 03:41PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG cocaine-NEG amphetm-NEG mthdone-NEG\n\ufeff\nMRI C Spine: \nArea of T2 hyperintensity in the cervical cord at the level of C3/C4 with mild linear extension to the level of C2 and C5 and likely heterogeneous enhancement. There is associated edema extending to the level of C5. There is prominence of the central canal of the spinal cord with T2 hyperintense signal surrounding the canal at the level of the lesion. Given the lesions in the brain, this is likely related to demyelination. However, correlate clinically with labs, CSF studies and consider close follow up to exclude other etiologies such as inflammtion/neoplastic and follow up as clinically indicated. Comparison with priors can be helpful.  Vertebral body hemangiomas at the level of C3, C4, and T3.  \n\ufeff\nMRI Head: \nMultiple hyperintense lesions on FLAIR sequence, in the periventricular white matter, specifically in the left centrum semiovale, right periatrial region, the temporal lobes bilaterally and in splenium of the corpus callosum. Given the clinical history, these are likely related to demyelinating disease. \n\ufeff\n"
+}

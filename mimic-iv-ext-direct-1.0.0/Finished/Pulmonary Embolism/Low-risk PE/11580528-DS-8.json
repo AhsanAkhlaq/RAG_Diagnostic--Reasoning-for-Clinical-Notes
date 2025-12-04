@@ -1,0 +1,44 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "This is the support for Low-risk PE$Cause_1": {
+            "The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Moderate embolism in both lungs, which is direct evidence of PE.$Cause_1": {
+                "moderate bilateral pulmonary emboli$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "SOB is the symptom of PE$Cause_1": {
+                    "shortness of breath$Input1": {}
+                },
+                "Have metastatic non-small cell lung cancer (NSCLC, which has spread to the bones and chest wall) and low-grade B-cell non-Hodgkin lymphoma and are receiving chemotherapy. Both of these diseases and their treatments can increase the risk of blood clots forming, which can lead to pulmonary embolism$Cause_1": {
+                    "metastatic NSCLC (to bone, chest wall) as well as low grade B-cell non-Hodgkin lymphoma$Input2": {}
+                },
+                "Progressive dyspnea  occurs. This is a common symptom of pulmonary embolism.$Cause_1": {
+                    "progressive DOE$Input2": {}
+                },
+                "Heparin is a commonly used drug for the prevention and treatment of thrombosis and may be a promising target for pulmonary embolism.$Cause_1": {
+                    "started on IV Heparin$Input2": {}
+                },
+                "High blood pressure increases risk of pulmonary embolism$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Significantly higher than normal, this may indicate difficulty breathing, a common symptom of pulmonary embolism.$Cause_1": {
+                    "Resp rate 94RA$Input5": {}
+                },
+                "A sign of pulmonary embolism caused by the detachment of blood clots after venous thrombosis in the lower extremities$Cause_1": {
+                    "2+ edema bilaterally to thighs$Input5": {}
+                },
+                "The breath sounds in the left lower lung were weakened, which may be a direct manifestation of local blood flow obstruction in the lungs, which is consistent with the typical symptoms of pulmonary embolism.$Cause_1": {
+                    "Decreased BS at left base o/w clear to auscultation$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "shortness of breath\n",
+    "input2": "Female with metastatic NSCLC (to bone, chest wall) as well as low grade B-cell non-Hodgkin lymphoma on chemotherapy who presents with right segmental PEs in RML/RLL.  She reports noted progressive DOE for the last days.  She denies chest pain, back pain, hemoptysis, lightheadedness, or syncope.  She also denies fevers and chills.  Her chronic pain is well controlled with MS.  At rest she is comfortable without SOB.\n.\nIn ED, she showed no intracranial lesions.  She was started on IV Heparin and sent to the floor.\n",
+    "input3": "Breast cancer - as above\nMetastatic NSCLC\nB-cell lymphoplasmocytic lymphoma\nIgM kappa monoclonal gammopathy\nh/o recurrent pneumothoraces blebs, s/p thoracotomy \nw/ bleb removal\nHypertension\nOsteopenia\nleft lobectomy\ns/p bilateral knee surgeries\ns/p appendectomy\ns/p partial chest wall resection \n\n",
+    "input4": "Grandmother died of breast CA. Mother died of \"natural causes\".  Father not well known. Brother ied of pulmonary fibrosis.\n",
+    "input5": "Physical Exam:\nVITAL SIGNS:\nTemperature 97.1\nBlood pressure 110/78\nHeart rate 74\nResp rate 94RA\nGENERAL:  Appears very comfortable, in no distress.\nHEENT:  Sclerae anicteric.   Oropharynx is clear without lesions or thrush.\nNECK:  Supple, without lymphadenopathy.\nLUNGS:  Decreased BS at left base o/w clear to auscultation.\nHEART: Regular rate and rhythm. ii/vi SM LSB\nABDOMEN:  Soft, nontender, nondistended, normal bowel sounds. \nEXTREMITIES:  2+ edema bilaterally to thighs.  No cords.\nSKIN:  No rash.\n\ufeff\n",
+    "input6": ": 14.01  PTT: 31.5  INR: 1.2  \n.\n140    AGap=13 \n----------------  \n4.4  30  0.8 \n. \nALT: 31 AP: 104 Tbili: 0.8   \nAST: 31 LDH: 280  \n.\nCEA: 129\n.\nWBC 5.5  HCT 38.9  PLT 161 \n: 3350  \n.\nNCHCT: No definite evidence of metastases, though noncontrast CT \nis limited. No hemorrhage or edema.\n.\nCTA Chest: \n1. No significant change in comparison at the confluent anterior mediastinal nodal mass, large left effusion, and postoperative changes of the left lung. \n2. Interval increase in the right pleural effusion. \n3. Not mentioned above, multiple foci of sclerosis within the sternum, concerning for metastatic disease. Correlate with bone scan. \n\ufeff4. moderate bilateral pulmonary emboli\n\ufeff5. The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels\n"
+}

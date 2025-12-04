@@ -1,0 +1,47 @@
+{
+    "Submassive PE$Intermedia_4": {
+        "Rule out Massive PE$Cause_1": {
+            "The patient is hemodynamically stable.$Input6": {}
+        },
+        "Echocardiography showed right ventricular dilation, indicating adaptive dilation of the heart to maintain circulation, a direct effect of pulmonary embolism.$Cause_1": {
+            "ECHO showed RV dilitation$Input2": {}
+        },
+        "Right ventricular cavity enlargement with generalized free wall hypoactivity is a typical cardiac imaging finding in pulmonary embolism$Cause_1": {
+            "The right ventricular cavity is dilated with severe global free wall hypokinesis$Input6": {}
+        },
+        "Abnormal septal motion or position, consistent with right ventricular pressure/volume overload, further supports increased cardiac workload due to pulmonary embolism$Cause_1": {
+            "abnormal septal motion/position consistent with right ventricular pressure/volume overload$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "The V2 and V3 leads on the electrocardiogram showed strain and T wave inversion, indicating increased right ventricular load and confirming pulmonary embolism.$Cause_1": {
+                "ECG showed \"strain\" in V2 and V3 and TWI in V2 and V3.$Input2": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Shortness of breath is a common symptom of pulmonary embolism.$Cause_1": {
+                    "shortness of breath$Input1": {}
+                },
+                "Exercise-induced tachypnea reflects an underlying limitation of cardiopulmonary function and is related to the increased pulmonary artery pressures associated with pulmonary embolism.$Cause_1": {
+                    "shortness of breath while walking up the stairs$Input2": {}
+                },
+                "A rapid heart rate is the body's attempt to maintain normal blood circulation and oxygen supply, which is common in pulmonary embolism.$Cause_1": {
+                    "tachycardiac to 120s$Input2": {}
+                },
+                "Hypertension is a potential risk factor for pulmonary embolism$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Mild tachycardia (slightly elevated heart rate) may be an indirect sign of PE$Cause_1": {
+                    "HR 95$Input5": {}
+                },
+                "Increased blood pressure may be a physiological response to acute stress and may be a pulmonary embolism$Cause_1": {
+                    "BP 140s/80$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "shortness of breath\n",
+    "input2": "She first noticed shortness of breath while walking up the stairs. She presented to her PCP who drew D-dimer that was elevated.  She was tachycardiac to 120s and had hypoxemia improving to low on NC. ECG showed \"strain\" in V2 and V3 and TWI in V2 and V3. Bedside ECHO showed RV dilitation. She was given 1 mg/kg lovenox SQ empirically.\n  \nOf note, she denies past medical history of cancer, estrogen usage, known hypercoagulability, recent travel.  No family history fo clotting disorders.\n\ufeff\nLabs were significant for troponin 0.3 and BNP 515. The patient was transferred for ICU admission.  Initial VS were: 97.8 20 98% 4L. cTropnT 0.10, lactate 2.3, BNP of 10000.  Heparin infusion was started, and lovenox was discontinued.  \n  \nOn arrival to the MICU, the patient had no complaints or concerns.  In the MICU she was continued on heparin infusion and started on coumadin today.  \n\ufeff\nCurrently patient reports mild sob but denies any chest pain, palpitations, coughing, n/v, diaphoresis, diarrhea, constipation, hematochezia, dysuria, hematuria.  Denies any recent weight loss.\n\ufeff\n",
+    "input3": "+ Hypertension  \n+ Osteoarthritis\n",
+    "input4": "No history of clotting disorder or DVT/PE. No history of neoplasm.\n",
+    "input5": "Physical Exam:\nVT: 98.1  HR 95  BP 140s/80  O2 98% on 2L\nGeneral: Alert, oriented, no acute distress  \nHEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  \nNeck: supple, JVP not elevated, no LAD  \nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, \ngallops  \nLungs: Clear to auscultation bilaterally, no wheezes, rales, \nronchi  \nAbdomen: soft, non-tender, non-distended, bowel sounds present, \nno organomegaly  \nGU: no foley  \nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or \nedema  \nNeuro: CNII-XII intact, ___ strength upper/lower extremities, \ngrossly normal sensation, 2+ reflexes bilaterally, gait \ndeferred, finger-to-nose intact\nSkin: diffuse hyperpigmented lesion in the her face.  one \ncrusted escahar lesion in her lower lip.\n",
+    "input6": "Admission/Pertinent Labs:\n___ 07:25PM BLOOD WBC-12.7* RBC-4.60 Hgb-15.2 Hct-42.1 MCV-91 MCH-32.9* MCHC-36.0* RDW-15.3\n___ 07:25PM BLOOD Neuts-88.0* Lymphs-7.2* Monos-4.1 Eos-0.4 Baso-0.2\n___ 07:25PM BLOOD PTT-39.7*\n___ 07:25PM BLOOD Glucose-125* UreaN-36* Creat-1.2* Na-134 K-7.2* Cl-99 HCO3-26 AnGap-16\n___ 07:25PM BLOOD cTropnT-0.10*\n___ 02:02AM BLOOD CK-MB-5 cTropnT-0.09*\n___ 08:10PM BLOOD CK-MB-6 cTropnT-0.07*\n___ 07:25PM BLOOD Calcium-9.8 Phos-3.6 Mg-1.9\n___ 07:35PM BLOOD Lactate-2.3* K-5.6*\n___ 11:28PM BLOOD Lactate-1.4\n.\nTTE: \nThe patient is hemodynamically stable. The left atrium is dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF 75%). Doppler parameters are most consistent with Grade I (mild) left ventricular diastolic dysfunction. The right ventricular free wall thickness is normal. The right ventricular cavity is dilated with severe global free wall hypokinesis. There is abnormal septal motion/position consistent with right ventricular pressure/volume overload. There are focal calcifications in the aortic arch. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. There is no mitral valve prolapse. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion. \n.\n"
+}

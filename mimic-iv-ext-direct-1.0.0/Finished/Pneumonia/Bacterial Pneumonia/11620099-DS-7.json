@@ -1,0 +1,38 @@
+{
+    "Bacterial Pneumonia$Intermedia_4": {
+        "The presence of MRSA and Klebsiella, both of which are known causative agents of pneumonia, suggests a possible bacterial infection.$Cause_1": {
+            "Sputum with MRSA bronch: sensitive to Clinda, Tetracycline, Bactrim, Vancomycin, (Resistant to Erythro, Oxacillin, Penicillin, Cefazolin).$Input6": {}
+        },
+        "Pneumonia$Intermedia_3": {
+            "Infiltrate and pleural effusion on chest radiograph may indicate pulmonary infection or inflammation and are direct signs of pneumonia.$Cause_1": {
+                "CXR with small left lower lobe infiltrates and lateral parapneumonic effusion$Input6": {}
+            },
+            "Suspected Pneumonia$Intermedia_2": {
+                "Hypoxemia is when the amount of oxygen in the blood falls below normal levels, which can be caused by a lung infection, such as pneumonia, that blocks oxygen exchange.$Cause_1": {
+                    "hypoxia$Input1": {}
+                },
+                "Fever, cough, body aches, headache, and nausea are common clinical manifestations of pneumonia.$Cause_1": {
+                    "fevers, cough, body aches, headache and nausea$Input2": {}
+                },
+                "High temperature is a common symptom of pneumonia$Cause_1": {
+                    "temperature of 104.3$Input2": {}
+                },
+                "Heavy drinking and loss of consciousness may have a negative impact on the immune system, thereby indirectly increasing the risk of pneumonia$Cause_1": {
+                    "heavy alcohol intake with loss of consiousness$Input2": {}
+                },
+                "Coughing up yellow phlegm is a common symptom of a lung infection$Cause_1": {
+                    "small amount of yellowish \"phlegm\"$Input2": {}
+                },
+                "Intoxication may weaken protective reflexes, making it easier for respiratory secretions or gastric contents to enter the lungs and cause infection.$Cause_1": {
+                    "Alcohol poisoning$Input3": {}
+                }
+            }
+        }
+    },
+    "input1": "hypoxia\n",
+    "input2": "Patient reports he felt in his usual state of health until 8 days prior to admission, when he noted the onset of fevers, cough, body aches, headache and nausea. He was seen in the medical clinic at the ___ the following day, and was given symptomatic treatment with Mucinex, Ibuprofen, and a cough suppressant. His symptoms persisted, and progressed to include diarrhea the day prior to admission. He returned to the medical clinic and was found to have a temperature of 104.3. He was then transferred to the ___ ER. Patient denies recent hospital exposures, pre-school or daycare exposures, or travel outside the ___ area. His older sister was diagnosed with bronchitis over ___, but has recovered without complications. He does report heavy alcohol intake with loss of consiousness about three weeks prior to presentation, but no further episodes since that time. No history of incarceration or homelessness. No associated chest pain or hemoptysis. He does report a small amount of yellowish \"phlegm\" throughout his course. Patient has received the seasonal flu shot, H1N1 flu shot, and meningococcal vaccine. He has no pets at home.\n\nIn the emergency room the patient received one dose of Azithromycin and Ceftriaxone, 500cc of IVF, and a Cepacol lozenge. He was then transferred to the floor. \n\nROS: 10 point review of systems performed and negative except as noted above.\n",
+    "input3": "Appendectomy following a ruptured appendix\nHernia repair\nAlcohol poisoning\n",
+    "input4": "No family history of DM, CAD, or cancer.\n",
+    "input5": "VS: T=99.1  BP=101/61  HR=77  RR=18  O2 sat=93% on RA\nGen: awake, alert, no acute distress\nHEENT: NCAT, EOMI, anicteric\nCV: RR, no m/r/g\nPulm: CTA B\nAbd: Soft, NTND\nExt: WWP, no edema\n",
+    "input6": "___ WBC-7.3 RBC-4.55* Hgb-13.0* Hct-39.2* MCV-86 Plt ___. \n\nPatient was initially treated with Ceftriaxone/Azithromycin, which was transitioned to Levofloxacin at the time of discharge. He had an initial oxygen requirement of 2L nasal cannula to maintain an oxygen saturation of 94-96%, but had stable oxygen saturations of 96% on room air at the time of discharge. He also had a negative HIV test during this admission, and EBV and CMV antibody panels that are still pending at the time of discharge.\n\nCXR with small left lower lobe infiltrates and lateral parapneumonic effusion\n\nSputum with MRSA bronch: sensitive to Clinda, Tetracycline, Bactrim, Vancomycin, (Resistant to Erythro, Oxacillin, Penicillin, Cefazolin).\n\n2. Binge drinking: Educated patient regarding the risks of binge drinking, especially in light of recent episode of loss of consciousness.\n"
+}

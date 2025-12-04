@@ -1,0 +1,26 @@
+{
+    "Type I Diabetes$Intermedia_4": {
+        "ICA antibodies are positive in most patients with type I diabetes.$Cause_1": {
+            "ICA-(+)$Input6": {}
+        },
+        "Diabetes$Intermedia_3": {
+            "Abnormal blood gluose is a diagnostic criteria of diabetes.$Cause_1": {
+                "GLUCOSE-237$Input6": {}
+            },
+            "Suspected Diabetes$Intermedia_2": {
+                "DKA is a basic symptom.$Cause_1": {
+                    "+/- DKA$Input2": {}
+                },
+                "Family history is a big risk factor.$Cause_1": {
+                    "Her grandmother had diabetes.$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "Nausea/vomiting\n",
+    "input2": "Patient is a yo woman with DM1 and frequent admissions for nausea, vomting, and abdominal pain +/- DKA who presents recurrent nausea, vomiting, and abdominal pain.  This morning, after she took her medications, within a couple of minutes she became nauseous and vomiting.  She has not been able to eat anything all day due to nausea/vomiting.  She has no abdominal pain, diarrhea, constipation.  She has her chronic back pain.  Zofran ODT did not help her. She received NS, dilaudid, zofran, and reglan.\n\ufeff\nIn the ED, initial VS were: 98 104 136/87 18 100%. Labs were notable for no AG. The patient received dilaudid, zofran. \n\ufeff\n",
+    "input3": "+Previous admissions for nausea/vomiting with h/o esophagitis  and with concern for diabetic gastroparesis on metoclopramide  \n+Esophagitis / H. Pylori \n+Stage I diabetic nephropathy  \n+ Anxiety/panic attacks  \n+ Depression  \n+Hyperlipidemia  \n+S/P MVA - lower back pain since then. Per patient,  received oxycodone from her primary provider.  \n+Goiter  \n+G2P1Ab1, s/p miscarriage in trimester, s/p C-section \n\ufeff\nnot menstruating secondary to being on Depo-Provera  \n+Genital Herpes\n",
+    "input4": "Her grandmother had diabetes.\n",
+    "input5": "Vitals:  97.8, 130/84, 82, 20, 100RA\nGen: vomiting during history, AOX3  \nHEENT: MMM, sclera anicteric, not injected  \nNeck: no LAD, no JVD  Cardiovascular: tachycardic, regular rhythm, no murmurs appreciated  \nRespiratory: Clear to auscultation bilaterally, no wheezes, rales or rhonchi  \nAbd: normoactive bowel sounds, soft, non-tender, non distended \nExtremities: No edema, 2+ DP pulses  \nIntegument: Warm, moist, no rash or ulceration  \nPsychiatric: appropriate, not anxious \n\ufeff\n",
+    "input6": "ADMISSION LABORATORY STUDIES:\n- ___ 10:40PM   WBC-8.9# (NEUTS-62.9 LYMPHS-31.5 MONOS-1.9* EOS-1.9 BASOS-1.9) RBC-4.44 HGB-12.5 HCT-38.1 MCV-86 MCH-28.1 MCHC-32.7 RDW-14.4 PLT COUNT-316#\n- ___ 10:40PM   GLUCOSE-237 UREA N-13 CREAT-0.8 SODIUM-137 POTASSIUM-3.6 CHLORIDE-99 TOTAL CO2-27 ANION GAP-15 ALT(SGPT)-15 AST(SGOT)-23 ALK PHOS-67 TOT BILI-0.3 LIPASE-28\n- ___ 10:40PM \t\tICA-(+)\n"
+}

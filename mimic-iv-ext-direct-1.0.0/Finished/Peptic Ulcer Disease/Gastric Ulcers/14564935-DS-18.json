@@ -1,0 +1,30 @@
+{
+    "Gastric ulcers$Intermedia_3": {
+        "Gastric ulcer with bleeding on endoscopyis the gold standard of gastric ulcer$Cause_1": {
+            "Endoscopy:Gastric ulcer with bleeding$Input6": {}
+        },
+        "suspected peptic ulcer disease$Intermedia_2": {
+            "Black stools are the manifestation of peptic bleeding.$Cause_1": {
+                "he woke up this morning and passed a large, black stools.$Input2": {}
+            },
+            "Alcohol is the risk factor of peptic ulcer.$Cause_1": {
+                "Male who was previously a heavy alcohol drinker presented to the ED after vomiting blood.$Input2": {}
+            },
+            "Increased heart rete is teh possible manifestation of peptic ulcer with bleeding.$Cause_1": {
+                "Tachy to 110's.$Input2": {}
+            },
+            "Abdominal discomfortis the Possible symptom of peptic ulcer.$Cause_1": {
+                "abdominal discomfort$Input3": {}
+            },
+            "Family history$Cause_1": {
+                "Unable to obtain although mother with gastric cancer.$Input4": {}
+            }
+        }
+    },
+    "input1": "found down, vomitting blood\n",
+    "input2": "Male who was previously a heavy alcohol drinker presented to the ED after vomiting blood. The patient reportedly felt well until he woke up this morning and passed a large, black stools. He went to an outpatient appointment in and was walking on the street when he passed out for an unknown period of time. He was found down by a pedestrian who called . The patient reports awaking with a large volume of BRB around him and in his mouth. EMS brought the patient to the ED. Upon presentation to the ED his VS were: 140-160 systolic/80-100. Tachy to 110's. Afebrile. 99% on RA. He vomited BRB while in the ED. An NG tube was placed and put out 0.5L BRB. The NG was placed on wall suction and continued to put out BRB. Labs were notable for Hct 41.6 with normal platelets and INR. The patient was given protonix 40 IV bolus and started on a protonix gtt. An octreotide gtt was ordered but had not been obtained from pharmacy at the time of sign out. Two 18g and a 16 gauge PIV were placed and 2.5L NS and 2u pRBCs were infused. GI was called with plans to EGD the patient ASAP in the MICU. Surgery was also made aware of the patient. The patient was intubated for airway protection given continued hemoptysis in the ED. He remained HD stable throughout his ED course. Upon arrival to the floor, the patient is intubated and sedated and unable to provide further information.\n",
+    "input3": "+EGD for abdominal discomfort\n",
+    "input4": "Unable to obtain although mother with gastric cancer.\n",
+    "input5": "HD stable, HR\nGeneral: Intubated and sedated\nHEENT: Sclera anicteric, MMM, oropharynx clear  \nNeck: supple, JVP not elevated, no LAD  \nLungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi  \nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  \nAbdomen: soft, non-tender, distended, decreased bowel sounds, no rebound tenderness or guarding, no organomegaly  \nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema\n",
+    "input6": "01:50PM PTT-22.1\n01:50PM PLT COUNT-307\n01:50PM NEUTS-54.4 MONOS-4.5 EOS-1.9 BASOS-1.0\n01:50PM WBC-8.0 RBC-4.48* HGB-14.0 HCT-41.6 MCV-93 MCH-31.3 MCHC-33.8 RDW-13.6\n01:50PM LIPASE-41\n01:50PM ALT(SGPT)-21 AST(SGOT)-36 ALK PHOS-54 TOT BILI-0.9\n01:50PM estGFR-Using this\n01:50PM UREA N-27* CREAT-0.9\n01:58PM freeCa-1.10*\n01:58PM HGB-14.9 calcHCT-45\n01:58PM GLUCOSE-132* LACTATE-1.9 NA+-142 K+-3.6 CL--104 TCO2-22\n01:58PM PH-7.45 COMMENTS-GREEN TOP\n03:49PM PTT-27.5\n03:49PM PLT COUNT-134*#\n03:49PM WBC-7.3 RBC-2.55*# HGB-8.1*# HCT-24.4*# MCV-96 MCH-31.7 MCHC-33.1 RDW-14.7\n03:49PM CALCIUM-6.3* PHOSPHATE-2.5* MAGNESIUM-1.4*\n03:49PM GLUCOSE-111* UREA N-24* CREAT-0.6 SODIUM-145 POTASSIUM-4.2 CHLORIDE-117* TOTAL CO2-20* ANION GAP-12\n04:03PM freeCa-1.04*\n04:03PM LACTATE-3.7*\n04:03PM PH-7.23* COMMENTS-PERIPHERAL\n06:14PM PTT-25.8\n06:14PM HCT-41.3#\n06:14PM CALCIUM-8.5 PHOSPHATE-3.4 MAGNESIUM-2.2\n06:14PM GLUCOSE-122* UREA N-21* CREAT-0.7 SODIUM-139 POTASSIUM-4.3 CHLORIDE-109* TOTAL CO2-24 ANION GAP-10\n08:09PM freeCa-1.25\n08:09PM LACTATE-0.8\n08:09PM TYPE-ART TEMP-36.3 PH-7.30*\n08:38PM HCT-39.9*\n11:12PM TYPE-ART TEMP-36.3 TIDAL VOL-500 PEEP-5 O2-50 PO2-166* PCO2-45 PH-7.35 TOTAL CO2-26 BASE XS-0 INTUBATED-INTUBATED\nEndoscopy:Gastric ulcer with bleeding\n"
+}

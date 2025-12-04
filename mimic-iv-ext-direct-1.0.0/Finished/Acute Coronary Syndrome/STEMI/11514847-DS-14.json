@@ -1,0 +1,52 @@
+{
+    "NSTE-ACS$Intermedia_4": {
+        "ST-elevations is a symotom of acs-stemi$Cause_1": {
+            "Post-PCI EKG demonstrated improvement in ST-elevations$Input2": {}
+        },
+        "Cardiac structural abnormalities is a sigh of ACS$Cause_1": {
+            "Mild inferolateral hypokinesis consistent with single vessel coronary artery disease. Mild tricuspid regurgitation. Moderate pulmonary hypertension.$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Shortness of breath is a symptom of ACS$Cause_1": {
+                "Shortness of breath$Input1": {}
+            },
+            "chest pain is a symptom of ACS$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "family history of heart issues is a risk factor$Cause_1": {
+                "Father \"heart issues.\"$Input4": {}
+            },
+            "family history oCAD is a risk factor.$Cause_1": {
+                "Mother with CAD.$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "chest pain is a symptom of ACS.$Cause_1": {
+                "he began to experience non-radiating chest pressure. The chest pain was non-exertional and seemed to be triggered by alcohol use over the weekend.$Input2": {}
+            },
+            "Cardiac surgery is one of the risk factors$Cause_1": {
+                "He was transferred for cardiac catheterization. He underwent cardiac cath and had 1 DES placed left CX-OM with good result via right radial approach.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Shortness of breath is a symptom of ACS$Cause_1": {
+                    "Shortness of breath$Input1": {}
+                },
+                "chest pain is a symptom of ACS$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "family history of heart issues is a risk factor$Cause_1": {
+                    "Father \"heart issues.\"$Input4": {}
+                },
+                "family history oCAD is a risk factor.$Cause_1": {
+                    "Mother with CAD.$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath, chest pain\n",
+    "input2": "A 46 yo male otherwise healthy gentlemen. Patient was in his normal state of health until approximately 4 days prior to admission when he began to experience non-radiating chest pressure. The chest pain was non-exertional and seemed to be triggered by alcohol use over the weekend.  He initially experienced chest discomfort without any associated symptoms after taking Metronidazole and Maalox for recent H. pylori diagnosis. He thought the combination of Metronidazole and Flagyl triggered this chest discomfort, which resolved in a few hours. He had a similar experience, which again persisted for a few hours before resolving. He denies any prior history of chest pain, and maintains that he is active and runs without any limitations inflicted by chest pain or shortness of breath.\n\nEarlier on the day of presentation, patient was driving home and began to experience a similar chest discomfort, though this time was more severe. The chest pressure was  unremitting without any associated symptoms and patient presented to OSH for further evaluation. \n\nAt OSH, he was loaded with ASA, heparin and trailed SL nitro. He was transferred for cardiac catheterization. He underwent cardiac cath and had 1 DES placed left CX-OM with good result via right radial approach. Post-PCI EKG demonstrated improvement in ST-elevations\n\nOn arrival to CCU, patient is chest pain free. He denies any shortness of breath, nausea/vomiting, palpitations, dizziness or lightheadedness.\n\nROS: Positive per HPI. Remaining 10 point ROS reviewed and negative.\n",
+    "input3": "Recently diagnosed H. pylori\n",
+    "input4": "Father \"heart issues.\" Mother with CAD. MGM with MI. HTN in maternal aunts/uncles. No history of diabetes. No history of sudden unexplained death in young individuals. No history of arrhythmias.\n",
+    "input5": "GENERAL: Well developed, well nourished in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: Normocephalic, atraumatic. Sclera anicteric. PERRL.  EOMI.\n\nNECK: Supple. JVP not elevated  \nCARDIAC: Normal rate, regular rhythm. No murmurs, rubs, or gallops.  \nLUNGS: No chest wall deformities or tenderness. Respiration is unlabored with no accessory muscle use. No adventitious breath sounds.  \nABDOMEN: Soft, non-tender, non-distended. No palpable hepatomegaly or splenomegaly.  \nEXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or peripheral edema.  \nSKIN: No significant lesions or rashes.  \nPULSES: Right radial with bandage and good distal pulse \nNEURO:  No focal deficits\n",
+    "input6": "Hematology \nCOMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW RDWSD Plt \n\nCt \n___ 06:26AM    8.3 4.52* 13.5* 41.9 93 29.9 32.2 13.1 \n44.6 221 Import Result \n___ 02:20AM    10.6* 4.60 13.9 41.6 90 30.2 33.4 12.9 \n42.3 232 Import Result \n BASIC COAGULATION ___, PTT, PLT, INR) ___ PTT Plt Ct ___ \n___ 06:26AM        221   Import Result \n___ 02:20AM        232   Import Result \n___ 02:20AM    13.1* 36.7*   1.2* Import Result \n\n \n \nChemistry \n RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap \n___ 06:26AM    ___ 142 4.1 ___ Import Result \n___ 02:20AM    115* 10 0.7 142 4.1 ___ Import \nResult \nESTIMATED GFR (MDRD CALCULATION) estGFR \n___ 02:20AM    Using this Import Result \nCHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron \n___ 06:26AM          8.8 3.5 2.4     Import Result \n___ 02:20AM          8.7 3.3 2.0     Import Result \n \n\nTTE: \nIMPRESSION: Mild inferolateral hypokinesis consistent with single vessel coronary artery disease. Mild tricuspid regurgitation. Moderate pulmonary hypertension.\n\nPCI: Percutaneous Coronary Intervention: Percutaneous coronary intervention (PCI) was performed on an ad hoc basis based on the coronary angiographic findings from the diagnostic portion of this procedure. A 6___ EBU3.5 guide provided adequate support. Crossed with a Prowater wire into the distal OM.\n\nPredilated with a 2.5 mm balloon and then deployed a 3.0 mm x 24 mm DES. Postdilated with a 3.5 x 15mm NC balloon in proximal segment at 18 ATM. Final angiography revealed normal flow, no dissection and 0% residual stenosis.\nComplications: There were no clinically significant complications.\n"
+}

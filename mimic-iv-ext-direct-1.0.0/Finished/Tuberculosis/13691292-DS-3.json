@@ -1,0 +1,45 @@
+{
+    "Tuberculosis$Intermedia_3": {
+        "Chest CT shows cavitary lesions, which is one of the common imaging manifestations of tuberculosis (TB)$Cause_1": {
+            "CT chest showed a cavitary lesion$Input2": {}
+        },
+        "The test results showed Mycobacterium tuberculosis, which was confirmed to be tuberculosis infection.$Cause_1": {
+            "examine result show sputum samples for  mycobacterium tuberculosis$Input6": {}
+        },
+        "Thick-walled cavitary lesions are typical of tuberculosis$Cause_1": {
+            "thick-walled cavitary \nlesion$Input6": {}
+        },
+        "Suspected Tuberculosis$Intermedia_2": {
+            "Fever is a common symptom of tuberculosis$Cause_1": {
+                "fevers$Input2": {}
+            },
+            "Fatigue is also a common symptom among TB patients$Cause_1": {
+                "fatigue$Input2": {}
+            },
+            "Cough is one of the main symptoms of tuberculosis$Cause_1": {
+                "cough$Input2": {}
+            },
+            "Shortness of breath is also a symptom of tuberculosis$Cause_1": {
+                "SOB 8 days$Input2": {}
+            },
+            "Chest pain may be caused by a lung infection, a potential symptom of tuberculosis$Cause_1": {
+                "chest pain$Input2": {}
+            },
+            "Bone pain may be related to tuberculosis infection$Cause_1": {
+                "bone pain$Input2": {}
+            },
+            "Polyarthritis may also be caused by tuberculosis$Cause_1": {
+                "polyarthitis$Input2": {}
+            },
+            "Large numbers of polymorphonuclear leukocytes and epithelial cells in sputum, indicating inflammation or infection$Cause_1": {
+                ">25 PMNs and >10 epithelial cells/100X field.$Input6": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "___ year old previously healthy woman who was sent in after a CT chest showed a cavitary lesion. The patient started having fevers, fatigue, chest pain, cough, and SOB 8 days ago, and was started on an unknown antibiotic by her PCP. Her cough worsened and she was seen in the ___ ED 5 days ago and a CXR revealed a LUL infiltrate for which she was started on clarithromycin. After this, her symptoms improved slightly.\n\nShe has a h/o of several months of bone pain and polyarthitis, for which is followed by Dr. ___ in rheumatology. She had a routine visit with him yesterday (___) and though she reported decreased cough and SOB, her continued symptoms prompted a CT chest which revealed a LUL cavitary lesion concerning for TB vs. fungal infection. A PPD was placed in her left forearm and she was advised to come to the ED for further evaluation.\n\n",
+    "input3": "Childhood asthma \n",
+    "input4": "Father has high cholesterol, mother has back problems.  No \nfamily members with tuberculosis. Sister had a positive PPD test and here chest xray was negative (unclear when). \n",
+    "input5": "VS: 97.6, 99/63, 59, 18, 100%RA\nGENERAL: Thin well-appearing woman in NAD, comfortable, appropriate.\nHEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.\nNECK: Supple, no thyromegaly, no JVD, no carotid bruits.\nHEART: RRR, no MRG, nl S1-S2.\nLUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored.\nABDOMEN: Soft/NT/ND, no masses or HSM, no rebound/guarding.\nEXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses, joints  non-tender and non-erythematous and with full ROM.\nSKIN: No rashes or lesions.\nLYMPH: No cervical LAD.\nNEURO: A&Ox3, CNs II-XII grossly intact, muscle strength ___ throughout, sensation grossly intact throughout. \n\n",
+    "input6": "___ 10:50PM BLOOD WBC-6.2 RBC-4.58 Hgb-13.1 Hct-39.6 MCV-87 MCH-28.7 MCHC-33.1 RDW-13.2 Plt ___\n___ 10:50PM BLOOD Neuts-71.5* ___ Monos-3.5 Eos-2.3 \nBaso-1.3\n___ 10:50PM BLOOD ___ PTT-27.5 ___\n___ 10:50PM BLOOD Glucose-127* UreaN-12 Creat-0.6 Na-142 \nK-4.2 Cl-105 HCO3-26 AnGap-15\n___ 07:45AM BLOOD WBC-5.2 RBC-4.69 Hgb-13.0 Hct-40.0 MCV-86 MCH-27.8 MCHC-32.6 RDW-13.5 Plt ___\n\nSputum Tests:\n___ 12:10 pm SPUTUM      Source: Expectorated. \n\n   GRAM STAIN (Final ___: \n      >25 PMNs and >10 epithelial cells/100X field. \n      examine result show sputum samples for  mycobacterium tuberculosis\n\n\nCT Scan of Chest\n \nCOMPARISON: No prior study is available for comparison.\n \nTECHNIQUE: MDCT-acquired axial images were obtained through the chest without IV contrast. Coronal and sagittal reformats were displayed.\n \nWithin the lungs, there is a dominant thick-walled cavitary \nlesion measuring 4.5 x 2.3 cm in the superior segment of the left lower lobe. It is difficult to discern whether there is extension of this process across the major fissure or if there is an incomplete fissure. Multiple other cavitary conolidations are noted at the left lung apex and seen best on the coronal sequence (for example, series 8 image 32). \n"
+}

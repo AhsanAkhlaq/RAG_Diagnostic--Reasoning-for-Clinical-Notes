@@ -1,0 +1,27 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "BP: 174/92$Input5": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "stated BP immediately 183/101$Input2": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Labetabol is a type of hypotensive drug,indicates that the patient may have Hypertension,which is a risk factor.$Cause_1": {
+                "on Labetalol 200mg$Input2": {}
+            },
+            "Headache is a symptom of Hypertension.$Cause_1": {
+                "intermittent headaches$Input2": {}
+            },
+            "Chest pain is a symptom of Hypertension.$Cause_1": {
+                "chest \"tightness\"$Input2": {}
+            }
+        }
+    },
+    "input1": "\n",
+    "input2": "HPI: G2P2 with cHTN PP day 11 from SVD c/b sPEC and PPH, s/p\nMagnesium treatment.  Discharged home on Labetalol 200mg BID, saw Dr. A in office for F/U 2 days ago, BPs were elevated,stated BP immediately 183/101,medication increased to 200mg TID. Pt seen today for BP check, pressures severe range, sent to triage.  Pt reports intermittent headaches the last few days, today felt some chest \"tightness\" that she associates with high blood pressure.  Denies visual changes or RUQ/epigastric pain.  Breast feeding going well.\n",
+    "input3": "+SVD xs\n+SVD induced 38 wks for pre eclampsia,\n+SVD 41+0, c/b sPEC by BPs, requiring Mg during labor, dispo home on PO Labetalol, and PPH 650cc, no add'l uterotonics required\n+GynHx: denies abnormal paps, fibroids, GYN surgeries, STIs\n+PMHx: sickle cell trait\n+PSHx: knee surgery\n",
+    "input4": "non-contributory\n",
+    "input5": "AF discharge blood pressure 150s/90s AF\nGen: Thin woman, very pleasant, infant comfortably resting on her chest  \nLung:  CTA B\nCV:  RRR, + flow murmur\nAbd:  Nabs, soft\nExt:  trace edema bilateral\nBP: 174/92\n",
+    "input6": "___ 02:30PM BLOOD WBC-7.2# RBC-4.21 Hgb-10.7* Hct-32.5* MCV-77* MCH-25.4* MCHC-32.9 RDW-15.8* RDWSD-43.8 Plt ___\n___ 09:15AM BLOOD Glucose-76 UreaN-12 Creat-0.9 Na-145 K-4.2 Cl-106 HCO3-28 AnGap-11\n___ 02:30PM BLOOD ALT-12 AST-17\n"
+}

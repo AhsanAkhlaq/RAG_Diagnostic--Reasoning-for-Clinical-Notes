@@ -1,0 +1,36 @@
+{
+    "Ischemic Stroke$Intermedia_3": {
+        "MRI showed that the right parietal lobe was mainly white matter lesions, some of which extended to the gray matter. MRI results are an important basis for the diagnosis of stroke$Cause_1": {
+            "MRI with mainly white matter lesion in the right parietal area$Input2": {}
+        },
+        "Hypodense images in the deep white matter and cortical areas of the right parietal lobe are consistent with infarction, which is direct evidence of ischemic stroke.$Cause_1": {
+            "There is a hypodensity involving the right parietal lobe deep white matter and extending into the cortical region, consistent with infarct.$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "The patient suffered a blow to the head in a car accident. Although this does not directly indicate a stroke, it is necessary to rule out brain damage caused by trauma.$Cause_1": {
+                "hit her head$Input2": {}
+            },
+            "A CT scan of the head showed an abnormality in the right parietal region, but no trauma. This suggests a possible stroke, as strokes often result from abnormalities in a specific area of \u200b\u200bthe brain.$Cause_1": {
+                "abnormality R parietal area$Input2": {}
+            },
+            "Family history of stoke is an import risk of stoke$Cause_1": {
+                "Stroke$Input4": {}
+            },
+            "Left-sided visual field loss, possibly indicating focal cerebral infarction$Cause_1": {
+                "PERRL 3mm-->2mm, left visual field defecit, minimal$Input5": {}
+            },
+            "The intracranial carotid arteries show calcified and non-calcified plaques, especially in the cavernous segment. These plaques may lead to blood flow restriction, thereby increasing the risk of stroke.$Cause_1": {
+                "The intracranial internal carotid arteries demonstrate calcified and noncalcified plaque, particularly within the cavernous segments$Input6": {}
+            },
+            "The relative scarcity of blood vessels in the right parietal infarct area indicates insufficient blood flow to this area, which is associated with ischemic stroke.$Cause_1": {
+                "There is relative paucity of a vasculature in the region of the described right parietal lobe infarct$Input6": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "___ year old female, does not follow with a PCP, who was sent to ED last night for an abnormal MRI finding. She was in a car accident two weeks ago, where she was driving in an intersection and got T-boned by another vehicle coming from the left. She does not relate that she was aware that the other car was coming. She did hit her head at this time against a window which shattered, and injured her left shoulder. She went to an OSH and got a head CT, with no traumatic injury, however with abnormality R parietal area. Follow up MRI with mainly white matter lesion in the right parietal area, although going into the gray matter a bit, and was sent here for further evaluation.\n\nHere, she denies any health issues, and review of systems is negative. She denies falling, bumping into things. Her husband denies this as well and states that she has been acting the same as usual. No weight loss, and no fevers/chills. Denies any numbess, weakness, or imbalance.\n",
+    "input3": "None\n",
+    "input4": "- Stroke\n- No other neurologic disease such as brain tumors\n",
+    "input5": "General - Appears comfortable\nHEENT - MMM, no scleral icterus, no proptosis, sclera and\nconjunctiva with no edema/injection.\nCV - RRR, no murmurs, rubs, or gallops. No carotid bruits\nPulm - CTA b/l\nAbd - soft, non-tender, normal bowel sounds\nExtremities - no cyanosis, no edema\nSkin - warm and pink with no rashes\n\n***Neurologic Exam***\nMENTAL STATUS: Awake and alert, oriented x 3, responds to multi-step commands which cross the midline. Knows recent and distant events. No hemisensory or visual neglect.\n\nLANGUAGE: Fluent, no paraphrasic errors, no dysarthria, naming and repetition intact.\n\nCRANIAL NERVES: [CNII] PERRL 3mm-->2mm, left visual field defecit, minimal. [CNII/IV/VI] EOMI intact, gaze is conjugate [CNV] sensation to light touch intact [CNVII] no facial droop, eyebrow raise and smile symmetric [CNVIII] intact perception of finger-rub b/l [CNIX/X] palate elevates symmetrically, intact gag reflex, [CNXII] tongue protrudes in midline.\n\nMOTOR: normal bulk, normal tone throughout. No adventitious movements, no tremor. No pronator drift. =[Delt] [Bic] [Tri] [ECR] [IO] [IP] [Quad] [Ham] [TA] [Gas] \n[___]\n  [C5]  [C5]  [C7]  [C6]  [T1] [L2]  [L3]  [L5]  [L4] [S1]  [L5]\nL  5      5     5     5     5    5    5      5     5    5     5\nR  5      5     5     5     5    5    5      5     5    5     5\n\nSENSORY: Sensation to light touch and pinprick intact  throughout.\nProprioception intact.\n\nDTRs: \n[Bic] [Tri] [___] [Quad] [Ankle]\nL 2+ 3+ 3+  3+ 3+\nR 2+ 3+ 3+  3+ 3+\n\nCEREBELLAR: No dysmetria, no nystagmus, rapid alternating movements intact\n\nGAIT: Stable narrow-based gait \n",
+    "input6": "CTA head and neck\n\nTECHNIQUE:  Using a multi detector CT scanner, noncontrast volumetric data was acquired through the head and collimated at 5 mm slice thickness.  Volumetric data was also acquired through the head and neck following the uncomplicated administration of intravenous contrast and collimated at 1.25 mm slice thickness.  3D maximum intensity projections of the head and neck were provided.  Additional multiplanar reconstructions were generated on a separate workstation. \n  \nCOMPARISON:  MRI head ___. \n  \nFINDINGS: \n  \nCT Head:  There is a hypodensity involving the right parietal lobe deep white matter and extending into the cortical region, consistent with infarct.  No other area of hypodensity is identified.  There is no evidence of midline shift, mass effect, hemorrhage or extra-axial fluid collections. The ventricles, sulci and basal cisterns are otherwise normal.  There is mucosal thickening of the left maxillary sinus.  Mastoid air cells and paranasal sinuses are otherwise clear.   \n  \nCTA Head:  The intracranial internal carotid arteries demonstrate calcified and noncalcified plaque, particularly within the cavernous segments.  However, there is no evidence of high-grade narrowing.  The bilateral middle cerebral, anterior cerebral, posterior to the prevertebral, basilar and posterior cerebral arteries demonstrate adequate opacification.  There is relative paucity of a vasculature in the region of the described right parietal lobe infarct.  The anterior communicating artery is not definitely visualized.  The posterior communicating arteries are well seen. There is no evidence of high-grade stenosis, aneurysm or dissection. \n"
+}

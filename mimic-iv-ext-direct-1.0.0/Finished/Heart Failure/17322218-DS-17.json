@@ -1,0 +1,64 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is elongated. The right atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "BNP \u2265 35 pg/mL is a strong value for heart failure$Cause_1": {
+                    "BNP 7299$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Dyspnea is the symptom of HF$Cause_1": {
+                        "Dyspnea$Input1": {}
+                    },
+                    "Orthopnea is when a person has trouble breathing while lying down and needs to sit up to breathe. It is a common symptom of heart failure, which occurs when fluid accumulates in the lungs due to decreased heart function.$Cause_1": {
+                        "reported worsening orthopnea$Input2": {}
+                    },
+                    "The left side of the lung is restricted in its function, a condition that can be caused by a lung infection or heart problems. In heart failure, weakened breathing sounds can be related to fluid accumulation in the lungs.$Cause_1": {
+                        "decreased L sided breath sounds$Input2": {}
+                    },
+                    "Pneumonia may further increase the burden on the heart by affecting lung function. Pneumonia is a serious complication for patients with heart failure.$Cause_1": {
+                        "diagnosis of pneumonia$Input2": {}
+                    },
+                    "A persistent cough may be caused by fluid accumulation in the lungs, which is common in people with heart failure.$Cause_1": {
+                        "continues to endorese persistent cough$Input2": {}
+                    },
+                    "Atrial fibrillation is a common risk factor for heart failure because it can cause the heart to pump blood less efficiently.$Cause_1": {
+                        "Atrial fibrillation$Input3": {}
+                    },
+                    "There is a strong association between diabetes and heart failure because long-term damage to blood vessels and heart function caused by high blood sugar increases the risk of heart failure.$Cause_1": {
+                        "Diabetes mellitus type 2$Input3": {}
+                    },
+                    "Hypertension is one of the main risk factors for heart failure because it causes the heart to work under high pressure for a long time, increasing the burden on the heart.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Systolic blood pressure is 149 to 170 mmHg, and diastolic blood pressure is 59 to 68 mmHg. Hypertension is a common risk factor for heart failure. Long-term high blood pressure increases the burden on the heart and may lead to a gradual decline in heart function.$Cause_1": {
+                        "BP=149-170/59-68$Input5": {}
+                    },
+                    "JVD usually refers to abnormal dilation of the jugular vein, which is a key sign of heart failure. This indicates that blood flow back to the heart is blocked and the heart's pumping function is impaired.$Cause_1": {
+                        "JVD to earlobe$Input5": {}
+                    },
+                    "Decreased breath sounds on the left side may indicate fluid accumulation or limited function on the left side of the lung, which is common in people with heart failure because the heart cannot pump enough blood, which may cause fluid to accumulate in the lungs.$Cause_1": {
+                        "decreased air entry on L$Input5": {}
+                    },
+                    "Abdominal distension may be caused by fluid accumulation, which is also common in people with heart failure, especially when heart failure cuts off blood circulation to the rest of the body.$Cause_1": {
+                        "distended, soft, NT +BS$Input5": {}
+                    },
+                    "The presence of pressure mark edema in both lower limbs, accompanied by exudate, is one of the typical symptoms of heart failure. This symptom indicates that the body has a serious accumulation of fluid, which may be due to insufficient heart pumping function resulting in poor blood return.$Cause_1": {
+                        "2+ b/l pitting edema weeping, bandages over b/l feet$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea\n",
+    "input2": "He presented for a regularly scheduled appointment with Dr.reported worsening orthopnea over the last 4 weeks, 7lbs overweight and decreased L sided breath sounds. He was discharged with an admission for a diagnosis of pneumonia (he was treated with levofloxacin/flagyl). He continues to endorese persistent cough but denies subjective fevers (patient is demented and a poor historian).\n",
+    "input3": "+ Prostate Cancer\n+ Atrial fibrillation on warfarin  \n+ Diabetes mellitus type 2\n+ Hypertension\n+ Osteoporosis \n+ Chronic normocytic anemia \n+ Chronic kidney disease\n+ s/p TURP \n+ s/p appy \n+ congnitive decline\n+ hearing loss\n+ inguinal hernia\n+ peripheral neuropathy\n",
+    "input4": "Prostate CA, dementia, CAD\n",
+    "input5": "Physical Exam:\nAdmission\nVS: T=97.4.BP=149-170/59-68.HR=55-57.RR=18.O2 sat=99% on RA\nGeneral:  chronically ill appearing gentleman, AOx1, comfortable appearing\nHEENT:  MMM\nNeck:  no cervical/clavicular LAD\nCV:  RRR, normal S1/S2, JVD to earlobe\nLungs:  decreased air entry on L\nAbdomen:  distended, soft, NT +BS\nGU:  no foley\nExt:  2+ b/l pitting edema weeping, bandages over b/l feet\n",
+    "input6": "Admission:\n07:31PM BLOOD WBC-5.8 RBC-4.07* Hgb-12.3* Hct-38.4* MCV-94 MCH-30.1 MCHC-31.9 RDW-17.3*\n07:31PM BLOOD Glucose-188* UreaN-46* Creat-1.6* Na-144 K-4.4 Cl-101 HCO3-30 AnGap-17\n07:31PM BLOOD Albumin-3.5 Calcium-8.3* Phos-3.0 Mg-2.4 BNP 7299*\n\n\nThe left atrium is elongated. The right atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %) with global hypokinesis\n"
+}

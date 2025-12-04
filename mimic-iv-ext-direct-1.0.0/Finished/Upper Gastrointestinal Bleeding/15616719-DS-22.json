@@ -1,0 +1,24 @@
+{
+    "upper gastrointestinal bleeding$Intermedia_3": {
+        "Fundal varices bleeding on endoscopy is the gold standard for upper gastrointestinal bleeding$Cause_1": {
+            "Endoscopy: fundal varices bleeding$Input6": {}
+        },
+        "suspected upper gastrointestinal bleeding$Intermedia_2": {
+            "Vomited one clot is a typical symptom of upper gastrointestinal bleeding.$Cause_1": {
+                "She vomited one clot today, and states she has diffuse upper abdominal pain.$Input2": {}
+            },
+            "!Hematemesis is a typical symptom of upper gastrointestinal bleeding.$Cause_1": {
+                "Patient with developmental delay, is a ward of the state (see OMR note) and multiple admissions for hematemesis without associated pathology identified presents with hematemesis and abdominal pain.$Input2": {}
+            },
+            "Blood-tinged gastric contents is a typical symptom of upper gastrointestinal bleeding.$Cause_1": {
+                "NGT left in for observation and subsequently she put out about of blood-tinged gastric contents, but no evidence of brisk bleed.$Input2": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Patient with developmental delay, is a ward of the state (see OMR note) and multiple admissions for hematemesis without associated pathology identified presents with hematemesis and abdominal pain. She vomited one clot today, and states she has diffuse upper abdominal pain. The patient was also seen in the ED on and for similar presentation and was discharged on the subsequent days after stable HCTs. During one episode, she left AMA. Per the medical guardian, she has been in the hospital 'hundreds of times' for narcotics and non-specific complaints, including abdominal pain and bleeding. No fevers, sweats, or chills. EGD 1 month ago was negative. In the emergency room, NG lavage was clear. NGT left in for observation and subsequently she put out about of blood-tinged gastric contents, but no evidence of brisk bleed. A rectal exam was performed and revealed guaiac negative brown stool. Given the patient had also been complaining of chest pain, as well as abdominal pain, a CTA of the chest was performed with a CT of the abdomen. GI was consulted in the ED. No urgent endoscopy was recommended. Of note, review of our records was significant for several ED visits in which she presented for pain. A review of narcotic prescription refills revealed that she appeared to have filled 4 narcotic medications in the past month; she has 20 controlled substance prescriptions in 12 months from 11 providers.\n",
+    "input3": "+developmental delay\n+depression\n+asthma\n++PEx3; w/ ivc filter\n+possible seizures\n+chronic right leg pain\n+incisional umbilical hernia repair\n+thymomectomy\n+c-section times 2 \n+appy\n+chole\n",
+    "input4": "Adoted, but per record from the foster mom  says her Mother died w/ HTN, DM, IVDA, and multiple  \nblood clots\n",
+    "input5": "GEN - Alert, oriented, no acute distress  \nHEENT - NCAT, MMM, EOMI, sclera anicteric, OC/OP clear  \nNECK - supple, no JVD, no LAD  \nPULM - CTAB, no w/r/r\nCV - RR, S1/S2, no m/r/g\nABD - soft, NT/ND, normoactive bowel sounds, no guarding or rebound \nEXT - WWP, no c/c/e, 2+ pulses palpable bilaterally\nNEURO - CN II-XII intact, motor function grossly normal  \nSKIN - no ulcers or lesions\n",
+    "input6": "07:50    7.0 4.69 12.3 39.1 83 26.2* 31.4 15.1 318 \n21:14                  35.5*        \n13:00    9.6 4.73 12.3 39.6 84 26.0* 31.1 15.1\nEndoscopy: fundal varices bleeding\n"
+}

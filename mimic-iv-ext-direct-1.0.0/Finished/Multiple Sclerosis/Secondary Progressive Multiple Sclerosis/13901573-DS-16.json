@@ -1,0 +1,38 @@
+{
+    "Secondary Progressive Multiple Sclerosis$Intermedia_4": {
+        "The patient has been diagnosed with relapsing-remitting multiple sclerosis (RRMS) for 3 years, which is consistent with the diagnosis time of Secondary Progressive Multiple Sclerosis.$Cause_1": {
+            "With regards to her MS, she was diagnosed with relapsing remitting years ago and is followed by Dr.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "A continued increase in the number of lesions in the central nervous system, a common phenomenon during the course of Secondary Progressive Multiple Sclerosis, points to disease progression.$Cause_1": {
+                "The number of central nervous system lesions continues to increase.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Binocular diplopia is a common symptom in multiple sclerosis and may be related to damage to neural pathways in the brain.$Cause_1": {
+                    "diplopia$Input2": {}
+                },
+                "These symptoms may be due to an inflammatory response in the central nervous system that leads to impaired nerve conduction and are typical symptoms of multiple sclerosis.$Cause_1": {
+                    "tingling and pain in all extremities$Input2": {}
+                },
+                "The headache and spread of symptoms may be related to inflammation of the nervous system and indicate that the condition may be developing.$Cause_1": {
+                    "severe left-sided headache and spread of her numbness to her left arm and both legs$Input2": {}
+                },
+                "Nerve dysfunction leading to decreased muscle strength is a direct manifestation of nerve damage in multiple sclerosis$Cause_1": {
+                    "weakness of her left arm$Input2": {}
+                },
+                "Patients experience double vision at the extreme right and left ends of their visual field. People with MS often have double vision and other visual problems due to optic neuritis or other nerve dysfunction.$Cause_1": {
+                    "endorse diplopia on extreme right and left end gaze$Input5": {}
+                },
+                "Significant hyperalgesia and hypoesthesia when touched lightly. MS patients may have varying degrees of sensory abnormalities due to damage to the central nervous system.$Cause_1": {
+                    "Significant allodynia and hypesthesia on light touch$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "The patient is a right-handed woman who presented to the ED with a 5 day history of diplopia, tingling and pain in all extremities and left arm weakness. \n\ufeff\nShe also started having diplopia, especially when looking to the left. , This improved and she received an infusion of Tysabri.  She mentioned her symptoms at that time but did not feel an MD appointment was necessary.  She developed a severe left-sided headache and spread of her numbness to her left arm and both legs. Today she developed weakness of her left arm and severe stabbing like pain especially when her arm is touched or moved. She contacted our neurologist-on -call, recommended she come to the ED.\n\ufeff\nWith regards to her MS, she was diagnosed with relapsing remitting 3 years ago and is followed by Dr.  Her initial presentation at which point she was found to have bilateral FLAIR intensities in the subcortical white matter and 8 oligoclonal bands in the CSF.  She has been on Tysabri for 4 months and previously was on Copaxone and Avonex. \n\ufeff\nShe also reports over the past 2 weeks she has both had a URI with laryngitis and a GI illness. Prior to that she had an eye infection from a cat scratch.  \n\ufeff\nOn neurologic review of systems, the patient denies headache, lightheadedness, or confusion. Denies difficulty with producing or comprehending speech. Denies loss of vision, vertigo, tinnitus, hearing difficulty, dysarthria, or dysphagia. Denies bowel or bladder incontinence or retention. \n\ufeff\nOn general review of systems, the patient denies fevers, rigors, night sweats, or noticeable weight loss. Denies chest pain, palpitations, dyspnea. Denies dysuria or hematuria. Denies myalgias, arthralgias, or rash.\n\ufeff\n",
+    "input3": "1) Migraines - correlating with menses\n2) Sickle cell trait\n3) Anxiety/depression\n",
+    "input4": "Significant for lupus, sickle cell, diabetes, migraines.\n",
+    "input5": "Physical Exam:\nAdmission Physical Examination:\nVS T 98.1 62 105/66 16 100% RA \nGeneral:  NAD \nHEENT: NC/AT,  no oropharyngeal lesions, neck supple\n: RRR, no M/R/G \nPulmonary: CTAB, no crackles or wheezes\nAbdomen: Soft, NT, ND, +BS, no guarding \nExtremities: Warm, no edema\nSkin: No rashes or lesions\n\ufeff\nNeurologic Examination:\n- Mental Status - Awake, alert, oriented x 3. Attention to examiner easily attained and maintained. Concentration maintained when recalling months backwards. Recalls a coherent history. Structure of speech demonstrates fluency with full sentences, intact repetition, and intact verbal comprehension. Content of speech demonstrates intact naming (high and low frequency) and no paraphasias. Normal prosody. No dysarthria. Verbal registration and recall. No apraxia. No evidence of hemineglect. No left-right agnosia.\n\ufeff\n- Cranial Nerves - PERRL 5->4 brisk. VF full to number counting.\nEOMI, no nystagmus, although she does endorse diplopia on extreme right and left end gaze. V1-V3 without deficits to light touch bilaterally. No facial movement asymmetry. Hearing intact to finger rub bilaterally.  Palate elevation symmetric. SCM/Trapezius strength bilaterally. Tongue midline.\n\ufeff\n- Motor - Normal bulk and tone. No drift. No tremor or asterixis.\nThe below strength exam is limited by pain. \nDelt Bic Tri WrE FFl FE IO  IP Quad Ham TA Gastroc  \nL  5    4+  4+ 4+  5   5    5  4     5     \nR  5   5-   5    5  5     5     \n\ufeff\n- Sensory - Significant allodynia and hypesthesia on light touch. upon testing of biceps reflex on right she yelled out in pain and described shooting pain into her fingers.  After a 15 seconds, she regrouped but requested no other reflexes be tested.  Also declined pinprick testing. No proprioception deficit bilaterally.\n\ufeff\n-DTRs: (* patient declined given hypesthesia)\nBi Tri Pat Ach\nL  2  2    *    *   *\nR  2  2    *    *   *\nPlantar response mute bilaterally.\n\ufeff\n- Coordination - No dysmetria with finger to nose testing bilaterally. Good speed and intact cadence with rapid alternating movements.\n\ufeff\n",
+    "input6": "ADMISSION LABS:\n___ 10:00PM BLOOD WBC-14.2* RBC-3.53* Hgb-10.2* Hct-31.5* MCV-89 MCH-28.8 MCHC-32.3 RDW-12.7 Plt ___\n___ 10:00PM BLOOD Neuts-51.0 ___ Monos-3.4 Eos-3.1 Baso-0.8\n___ 10:00PM BLOOD Glucose-87 UreaN-8 Creat-0.7 Na-138 K-3.7 Cl-104 HCO3-26 AnGap-12\n\ufeff\n___ 09:40AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG cocaine-NEG amphetmn-NEG mthdone-NEG\n\ufeff\n___ 09:40AM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG\n___ 09:40AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG cocaine-NEG amphetm-NEG mthdone-NEG\n\ufeff\nThe number of central nervous system lesions continues to increase.\n\n"
+}

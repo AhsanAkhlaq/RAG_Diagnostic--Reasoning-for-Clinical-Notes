@@ -1,0 +1,52 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "atrium is moderately dilated.$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is elongated. The right atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strong suspected heart failure.$Cause_1": {
+                    "proBNP-1275*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "dypnea is a common symptom of HF$Cause_1": {
+                        "dyspnea$Input1": {}
+                    },
+                    "This indicates fluid retention, a common symptom of heart failure.$Cause_1": {
+                        "minor episodes of SOB when he does not take his water pills$Input2": {}
+                    },
+                    "These symptoms may point to cardiac ischemia or acute heart failure.$Cause_1": {
+                        "sudden chest pressure, then nonradiating upper sternal CP with accompanying SOB$Input2": {}
+                    },
+                    "Deep vein thrombosis and pulmonary embolism can increase the workload on the heart, especially the right ventricle.$Cause_1": {
+                        "R DVT with PE s/p IVC filter on coumadin$Input3": {}
+                    },
+                    "High blood pressure is one of the main risk factors for heart failure$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "Hyperlipidemia is a risk factor for cardiovascular disease and indirectly affects the risk of heart failure.$Cause_1": {
+                        "Hyperlipidemia$Input3": {}
+                    },
+                    "Persistently high systolic blood pressure may be a sign of increased workload on the heart, which may be associated with heart failure.$Cause_1": {
+                        "BP=139/65$Input5": {}
+                    },
+                    "The heart may be struggling to maintain normal blood circulation, which is common in people with heart failure.$Cause_1": {
+                        "HR=100$Input5": {}
+                    },
+                    "Swelling of the ankles and calves is a common symptom of heart failure, usually caused by a decrease in the heart's ability to pump blood, resulting in fluid accumulation in the lower limbs.$Cause_1": {
+                        "2+ edema through the ankle and into the calf.$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "dyspnea\n",
+    "input2": "Patient reports that occasionally suffers minor episodes of SOB when he does not take his water pills. He doses his furosemide at 4 pills once a day, every other day; he does not remember the dosage (last recorded in OMR as 80mg). There was no recent change in his appetite, health status, diet. Today around 130p he developed sudden chest pressure, then nonradiating upper sternal CP with accompanying SOB. He had taken his furosemide this morning, but had not yet urinated. He had no accompanying sx such as HA, vision changes, n/v, presyncope or syncope. He endorses chills today, but no fevers, no cough, congestion, abdominal pain, urinary symptoms, bowel symptoms. He had no neurologic symptoms. He has chronic LBP, unchanged. He came to the ED for medical attention.\n",
+    "input3": "+ s/p renal transplant\n+ peripheral neuropathy\n+ s/p L BKD chronic osteomyelitis\n+ R DVT with PE s/p IVC filter on coumadin\n+ hx gastroparesis despite normal gastric emptying study\n+ recurrent cdiff\n+ depression\n+ retinopathy\n+ PVD\n+ HTN\n+ Hyperlipidemia\n+ Right tunnelled permcath\n+ AVF RUE-thrombosed s/p thrombectomy\n",
+    "input4": "Father has type I DM. \nMother with fibromyalgia\n",
+    "input5": "ADMISSION PHYSICAL EXAM:\nVS: Wt=134.6 (bed weight, patient unable to stand without aide of prosthetic) T=98.0 BP=139/65 HR=100 RR=18 O2 sat=96%RA  \nGeneral: Well-appearing middle-aged male, pleasant, NAD  \nHEENT: NCAT, EOMI, PERRLA, anicteric sclera, clear OP, MMM  \nNeck: supple, difficult to appreciate JVP  \nCV: RRR, no r/g/m  \nLungs: CTAB, no w/r/r, no crackles  \nAbdomen: Obese, soft, NT, +BS  \nGU: Deferred  \nExt: L BKA. RLE WWP, 2+ edema through the ankle and into the calf.  \nNeuro: CN II-XII intact,\n",
+    "input6": "ADMISSION LABS:\n\ufeff\n09:11PM   PLT COUNT-150\n09:11PM   NEUTS-86.4* LYMPHS-8.7* MONOS-4.2 EOS-0.4 BASOS-0.3\n09:11PM   WBC-7.5# RBC-5.10 HGB-14.2 HCT-43.7 MCV-86 \nMCH-28.0 MCHC-32.6 RDW-15.6*\n09:11PM   CALCIUM-9.2 PHOSPHATE-2.7 MAGNESIUM-1.6\n09:11PM   proBNP-2351*\n09:11PM   cTropnT-<0.01\n09:11PM   estGFR-Using this\n09:11PM   GLUCOSE-355* UREA N-34* CREAT-1.6* SODIUM-136 POTASSIUM-4.8 CHLORIDE-98 TOTAL CO2-23 ANION GAP-20\n09:25PM   O2 SAT-77\n09:25PM   LACTATE-1.2\n09:25PM   _EMP-36.8 PO2-41* PCO2-52* PH-7.34* TOTAL CO2-29 BASE XS-0 INTUBATED-NOT INTUBA\n09:50PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-300 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-NEG\n09:50PM URINE  COLOR-Straw APPEAR-Clear SP\n09:50PM URINE  GR HOLD-HOLD\n09:50PM URINE  UHOLD-HOLD\n09:50PM URINE  HOURS-RANDOM\n09:50PM URINE  HOURS-RANDOM proBNP-1275*\n\nThe left atrium is elongated. The right atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %) with global hypokinesis and regional inferior/infero-lateral,\n"
+}

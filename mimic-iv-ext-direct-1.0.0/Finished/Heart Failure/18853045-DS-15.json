@@ -1,0 +1,46 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Left ventricular ejection fractions (EF) is 35 to 40% suggests that the left ventricular systolic function is abnormal.$Cause_1": {
+                "EF 35-40%$Input2": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "NT-proBNP or pro-BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strongly suspected heart failure.$Cause_1": {
+                    "proBNP-8317$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Dyspnea is a common symptom of heart failure.$Cause_1": {
+                        "Dyspnea on exertion$Input1": {}
+                    },
+                    "Atrial fibrillation (Afib) is a common cause of heart failure.$Cause_1": {
+                        "Afib$Input2": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Chronic renal insufficiency can induce heart failure.$Cause_1": {
+                        "Chronic renal insufficiency$Input3": {}
+                    },
+                    "Hyperlipidemia is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "Hyperlipidemia$Input3": {}
+                    },
+                    "Rales midway up lung fields bilaterally is a common sign of pulmonary edema associated with heart failure.$Cause_1": {
+                        "Lungs: Rales midway up lung fields bilaterally, R>L$Input5": {}
+                    },
+                    "With the exception of myocardial infarction, elevated troponin is indicative of heart failure-related myocardial damage.$Cause_1": {
+                        "cTropnT-0.19*$Input6": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea on exertion\n",
+    "input2": "He yo M PMH dilated CM EF 35-40% s/p BiV pacing, Afib on coumadin presenting with worsening shortness of breath. He notes that over the past week he's had increasing difficulty climbing stairs (tires after climbing 1 flight which he could normally do in the past). He denies orthopnea or PND; denies any significant leg swelling. No chest pressure or discomfort. Does endorse some edema around the abdomen with sensation of bloating.\n",
+    "input3": "+ Recently diagnoses Afib on coumadin  \n+ clean coronaries on c.cath \n+ Hypertension  \n+ Chronic renal insufficiency  \n+ BPH  \n+ Hyperlipidemia  \n+ degenerative joint disease  \n+ pacemaker implantation , with a BiV upgrade \n \n+ hx polypectomy clean colon\n",
+    "input4": "Grandmother HTN, does not know anything about mother and father's health problems. Denies renal disease. \n\ufeff\n",
+    "input5": "Physical Exam:\n98.2, 123/69, 77, 20, 95%RA\nGeneral: Alert, oriented, NAD  \nHEENT: Sclera anicteric, MMM, oropharynx clear  \nLungs: Rales midway up lung fields bilaterally, R>L\nCV: RRR, normal S1 + S2, no murmurs, rubs, gallops  \nAbdomen: soft and nontender with normoactive bowel sounds  \nExt: Warm and well perfused, no peripheral edema\n",
+    "input6": "___ 07:05AM   GLUCOSE-87 UREA N-58* CREAT-2.4* SODIUM-140 POTASSIUM-4.6 CHLORIDE-107 TOTAL CO2-23 ANION GAP-15\n___ 07:05AM   CALCIUM-9.3 PHOSPHATE-3.4 MAGNESIUM-1.8\n___ 07:05AM   WBC-4.0 RBC-2.54* HGB-8.0* HCT-25.9* MCV-102* MCH-31.6 MCHC-31.0 RDW-18.8*\n___ 07:05AM   PLT COUNT-295\n___ 10:55PM   GLUCOSE-116* UREA N-57* CREAT-2.4* SODIUM-137 POTASSIUM-5.5* CHLORIDE-105 TOTAL CO2-21* ANION GAP-17\n___ 10:55PM   CK(CPK)-109\n___ 10:55PM   CK-MB-7\n___ 10:15PM   GLUCOSE-106* UREA N-56* CREAT-2.5* SODIUM-135 POTASSIUM-GREATER TH CHLORIDE-99 TOTAL CO2-12*\n___ 07:30PM   GLUCOSE-120* UREA N-57* CREAT-2.5* SODIUM-135 POTASSIUM-6.7* CHLORIDE-102 TOTAL CO2-20* ANION GAP-20\n___ 07:30PM   estGFR-Using this\n___ 07:30PM   cTropnT-0.19* \n___ 07:30PM   WBC-5.1 RBC-3.02* HGB-9.7* HCT-30.8*# MCV-102* MCH-32.2* MCHC-31.6 RDW-19.1*\n___ 07:30PM   NEUTS-76* BANDS-2 LYMPHS-12* MONOS-10 EOS-0 BASOS-0 MYELOS-0 NUC RBCS-2*\n___ 07:30PM   HYPOCHROM-1+ ANISOCYT-1+ POIKILOCY-1+ MACROCYT-3+ MICROCYT-NORMAL POLYCHROM-1+ OVALOCYT-OCCASIONAL proBNP-8317*\n\ufeff\nOverall left ventricular systolic function is probably moderately depressed (LVEF= 30 %)\n"
+}

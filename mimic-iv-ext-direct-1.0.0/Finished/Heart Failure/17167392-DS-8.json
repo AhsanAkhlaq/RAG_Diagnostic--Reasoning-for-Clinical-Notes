@@ -1,0 +1,73 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF<40% is the critiera for HFrEF$Cause_1": {
+            "LVEF<35%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "proBNP \u2265 125 pg/mL is a strong value for heart failure$Cause_1": {
+                    "proBNP-2245$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "SOB is the common symptom of HF$Cause_1": {
+                        "shortness of breath$Input1": {}
+                    },
+                    "Heart failure may cause insufficient blood flow to the heart, leading to chest pain$Cause_1": {
+                        "intermittent chest pain for the last 4 day$Input2": {}
+                    },
+                    "Ischemia in heart failure may feel like pressure or sharp pain$Cause_1": {
+                        "chest pain as sharp pressure$Input2": {}
+                    },
+                    "People with heart failure may experience pain that is worse with activity because the heart cannot pump blood well enough.$Cause_1": {
+                        "Pain is worse with exertion$Input2": {}
+                    },
+                    "Heart failure causes obstruction of blood flow back to the lungs, causing breathing difficulties$Cause_1": {
+                        "shortness of breath which has increased over the last 4 days$Input2": {}
+                    },
+                    "A common symptom of heart failure, in which the patient has trouble breathing when lying down due to excess blood in the lungs$Cause_1": {
+                        "increased orthopnea and PND$Input2": {}
+                    },
+                    "Sleeping with more pillows is a common way to reduce dyspnea caused by heart failure$Cause_1": {
+                        "typically sleeps with 2 pillows and in the last few days has required 3$Input2": {}
+                    },
+                    "Heart failure may cause fluid retention, leading to edema$Cause_1": {
+                        "increased swelling in her legs$Input2": {}
+                    },
+                    "Past history of Chronic systolic CHF increase the risk of HF$Cause_1": {
+                        "Chronic systolic CHF$Input3": {}
+                    },
+                    "Myocardial infarction is a disease caused by blockage of a heart vessel, which results in partial myocardial necrosis and is an important risk factor for heart failure.$Cause_1": {
+                        "s/p MI and pacemaker placement$Input3": {}
+                    },
+                    "Long-term high blood pressure increases the burden on the heart, leading to cardiac hypertrophy and impaired function, and is one of the common causes of heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Diabetes can lead to a variety of cardiovascular problems, including hardening of the arteries and heart disease, and increases the risk of heart failure.$Cause_1": {
+                        "Diabetes Mellitus$Input3": {}
+                    },
+                    "Significantly increased blood pressure, which may indicate extra stress on the heart and is a common sign of heart failure$Cause_1": {
+                        "BP 164/124$Input5": {}
+                    },
+                    "Increased distension of the jugular veins, a classic sign of impaired right heart function in heart failure, indicating that blood flow back to the heart is blocked$Cause_1": {
+                        "Supple with JVP of up to the ear at 45 degrees.$Input5": {}
+                    },
+                    "A systolic murmur heard may indicate heart valve disease, a common cause of heart failure.$Cause_1": {
+                        "systolic murmur best heard$Input5": {}
+                    },
+                    "Pretibial edema is a direct manifestation of fluid retention and is common in patients with heart failure.$Cause_1": {
+                        "1+ pretibial edema$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "shortness of breath\n",
+    "input2": "Patient reports intermittent chest pain for the last 4 day. She describes the chest pain as sharp pressure. The pain can radiate to her arms but she attributes this pain to her sleeping position. Pain is worse with exertion. Her inhaler is sometimes helpful. She also reports shortness of breath which has increased over the last 4 days. She denies cough or wheezing. She also has increased orthopnea and PND. She typically sleeps with 2 pillows and in the last few days has required 3. She also noted increased swelling in her legs and a weight gain of pounds in the last week. She has been using her nebs at home with no improvement. She has been taking all her medications as prescribed. She denies increased salt in her diet. She did previously take lasix 20 mg daily. However, this was stopped for worsening renal function and frequent falls per daughter. Today she was seen by her PCP, and he referred her for further evaluation and treatment.\n",
+    "input3": "+ Chronic systolic CHF\n+ s/p MI and pacemaker placement \n+ Hypertension\n+ Diabetes Mellitus\n+ Right cataract\n+ Goiter/hyperthyroidism\n+ Low back pain\n+ Abdominal hernia\n",
+    "input4": "brothers and sisters with hypertension and diabetes aunt with MI No other family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.\n",
+    "input5": "Physical Exam:\nadmission exam \nVS: T 96.6 BP 164/124 HR 118 RR 18 O2 sat 100% 3L   \nGENERAL: WDWN in minimal respiratory distress. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \n\ufeff\nNECK: Supple with JVP of up to the ear at 45 degrees.  \nCARDIAC: PMI located in intercostal space, midclavicular line. RRR, systolic murmur best heard at left sternal border. No thrills, lifts. No S3 or S4.  \nLUNGS: Resp were mildly labored, no accessory muscle use. Diminished breath sounds with crackles at bases bilaterally.  No wheezes.\nABDOMEN: +BS. Soft, NTND. Large abdominal hernia noted.  \nGU: No suprapubic tenderness. Foley in place. \nEXTREMITIES: 1+ pretibial edema. No femoral bruits.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES:  \nRight: Carotid 2+ Femoral 2+ DP\nLeft: Carotid 2+ Femoral 2+ DP\n",
+    "input6": "admission labs: \n02:20PM BLOOD WBC-3.8* RBC-3.88* Hgb-10.5* Hct-31.4* MCV-81* MCH-27.0 MCHC-33.4 RDW-15.6*\n02:20PM BLOOD Neuts-53.4 Monos-5.8 Eos-6.0* Baso-0.5\n02:20PM BLOOD Glucose-119* UreaN-28* Creat-0.8 Na-140 K-4.8 Cl-107 HCO3-21* AnGap-17\n02:20PM BLOOD Calcium-10.2 Phos-3.3 Mg-1.9 proBNP-2245*\n05:22PM BLOOD Lactate-1.5 cardiac enzymes\n02:20PM BLOOD cTropnT-<0.01\n12:47AM BLOOD CK-MB-2 cTropnT-<0.01\n07:50AM BLOOD CK-MB-2 cTropnT-<0.01\n04:20PM URINE Color-Straw Appear-Clear\n04:20PM URINE Blood-NEG Nitrite-NEG Protein-TR Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-MOD\n04:20PM URINE RBC-1 WBC-6* Bacteri-FEW Yeast-NONE Epi-<1\n04:20PM URINE Mucous-RARE\n\nTTE (Complete) Done ___ \"Conclusions: The left atrium is moderately dilated. Left ventricular wall thickness, cavity size, and global systolic function are normal (LVEF>55%).\n"
+}

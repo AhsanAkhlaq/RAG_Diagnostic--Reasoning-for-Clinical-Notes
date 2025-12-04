@@ -1,0 +1,61 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is elongated. The right atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strong suspected heart failure.$Cause_1": {
+                    "proBNP-1708$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Cough is a common symptom of HF$Cause_1": {
+                        "cough$Input1": {}
+                    },
+                    "Cough and changes in sputum are usually related to the respiratory system, but they may also occur when accompanied by other symptoms, such as pulmonary congestion in heart failure$Cause_1": {
+                        "1 week of sputum change and now has a cough productive of \"neon yellow\" sputum$Input2": {}
+                    },
+                    "Dyspnea on exertion is a common symptom of heart failure and indicates that the heart may not be pumping enough to support normal activity.$Cause_1": {
+                        "worsening dyspnea on exertion and now has issues climbing scaffolding at work$Input2": {}
+                    },
+                    "Lower limb edema is one of the typical manifestations of heart failure. Due to insufficient heart pumping function, fluid accumulates in the lower limbs.$Cause_1": {
+                        "legs are slightly more swollen than usual$Input2": {}
+                    },
+                    "Chronic high blood sugar levels can damage blood vessels and heart function, increasing the risk of heart failure$Cause_1": {
+                        "Uncontrolled type 2 diabetee$Input3": {}
+                    },
+                    "Hyperlipidemia can lead to atherosclerosis, affect blood supply to the heart, and increase the risk of heart failure.$Cause_1": {
+                        "Hyperlipidemia$Input3": {}
+                    },
+                    "This is a disease that directly affects the heart muscle, causing it to become larger and less able to pump blood, and is a common direct cause of heart failure.$Cause_1": {
+                        "Dilated cardiomyopathy$Input3": {}
+                    },
+                    "family history of heart disease inrease the risk of HF$Cause_1": {
+                        "Mother with CHF.  Father with CAD and CABG.$Input4": {}
+                    },
+                    "Patients with heart failure may have difficulty breathing due to decreased heart pumping function, which may lead to obstruction of blood circulation to the lungs.$Cause_1": {
+                        "mildly dyspneic$Input5": {}
+                    },
+                    "The description mentioned that \"the jugular vein was filled to 90 degrees at the mandibular angle\", which is usually an important sign of heart failure and reflects impaired cardiac return function.$Cause_1": {
+                        "JVP elevated to the angle of the mandible at 90 degrees$Input5": {}
+                    },
+                    "There are moist rales at the lung bases, especially on the left side, which may be a manifestation of pulmonary congestion, which is common in patients with heart failure.$Cause_1": {
+                        "crackles at the bilateral bases$Input5": {}
+                    },
+                    "There is obvious edema below the knees on both sides, which is caused by insufficient heart pumping function in heart failure, resulting in slower blood circulation throughout the body and increased blood venous pressure.$Cause_1": {
+                        "2+ lower extremity edema to the knees bilaterally$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "cough\n",
+    "input2": "The patient has had ~1 week of sputum change and now has a cough productive of \"neon yellow\" sputum. No hemoptysis noted. He also describes worsening dyspnea on exertion and now has issues climbing scaffolding at work. He also notes his legs are slightly more swollen than usual. The patient describes mild abdominal tightness and bloating over the past 3 days, which was what was most bothersome to him initially.\n\n",
+    "input3": "+ Uncontrolled type 2 diabetee\n+ Hyperlipidemia\n+ Dilated cardiomyopathy\n+ Sleep apnea - compliant with CPAP \n+ Erectile dysfunction\n+ Anemia\n+ Substance use disorder(cocaine, tobacco)\n",
+    "input4": "Mother with CHF.  Father with CAD and CABG.\n",
+    "input5": "ADMISSION PHYSICAL EXAM\nVS: 97.7 PO 133 / 88 89 18 98% RA \nGENERAL: Pleasant middle-aged man, mildly dyspneic, lying in bed comfortably, in no acute distress\nHEENT: NC/AT, EOMI, MMM\nNECK: JVP elevated to the angle of the mandible at 90 degrees\nCARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  \nLUNG: Appears in no respiratory distress, crackles at the bilateral bases, slightly worse on the L, no wheezes or rhonchi\nABD: Normal bowel sounds, soft, nontender, nondistended, no\nhepatomegaly, no splenomegaly  \nEXT: Warm, well perfused, 2+ lower extremity edema to the knees bilaterally\nPULSES: 2+ radial pulses\nNEURO: Alert, oriented, moving all 4 extremities with purpose\nSKIN: Scarring over bilateral lower extremities\n",
+    "input6": "ADMISSION LABS\n06:05AM   WBC-6.4 RBC-4.71 HGB-12.6* HCT-38.0* MCV-81* MCH-26.8 MCHC-33.2 RDW-13.3 RDWSD-38.9\n06:05AM   NEUTS-65.8 MONOS-9.2 EOS-0.6* BASOS-0.6 IM AbsNeut-4.20 AbsLymp-1.50 AbsMono-0.59 AbsEos-0.04 AbsBaso-0.04\n06:05AM   GLUCOSE-297* UREA N-15 CREAT-0.9 SODIUM-137 POTASSIUM-4.3 CHLORIDE-105 TOTAL CO2-20* ANION GAP-12\n06:05AM   CALCIUM-8.2* PHOSPHATE-3.1 MAGNESIUM-1.8\n06:05AM   cTropnT-<0.01\n06:05AM   proBNP-1708*\n07:45AM URINE  COLOR-Straw APPEAR-Clear\n07:45AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-150* KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-NEG\n\nThe left atrium is elongated. The right atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %) with global hypokinesis and regional inferior/infero-lateral,\n"
+}

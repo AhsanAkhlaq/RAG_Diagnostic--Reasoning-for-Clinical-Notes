@@ -1,0 +1,41 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "This is the support for Low-risk PE$Cause_1": {
+            "The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "D-dimer is a marker of thrombus formation and lysis, and its elevated level (>500) is often used as an initial screening test for pulmonary embolism.$Cause_1": {
+                "D-dimer was elevated at 5242$Input2": {}
+            },
+            "CTA results showed lung changes consistent with pulmonary embolism$Cause_1": {
+                "CTA showed bilateral pulmonary edema with ? infarct in the left lower lobe wedge.$Input2": {}
+            },
+            "Bilateral pulmonary embolism, which is decisive evidence for direct diagnosis of pulmonary embolism$Cause_1": {
+                "Bilateral pulmonary emboli$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Sudden chest pain is one of the typical symptoms of pulmonary embolism$Cause_1": {
+                    "sudden left-sided chest pain$Input2": {}
+                },
+                "Increased with inspiration and not altered by changes in body position. This symptom may indicate pleural irritation, common in pulmonary embolism$Cause_1": {
+                    "worse on inspiration and not dependent on position$Input2": {}
+                },
+                "Shortness of breath is a common symptom of pulmonary embolism$Cause_1": {
+                    "shortness of breath$Input2": {}
+                },
+                "Rales at the base of the lungs may indicate fluid accumulation or other abnormalities in the lungs, a common symptom of pulmonary embolism.$Cause_1": {
+                    "Left lower base crackles$Input5": {}
+                },
+                "The patient was receiving 2 liters of nasal cannula oxygen therapy, which may indicate that without external oxygen support, the patient may become hypoxemic, another warning sign of pulmonary embolism.$Cause_1": {
+                    "O2sat 100% 2L (NC)$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "M with no PMH presents with sudden left-sided chest pain. \n.\nIt was worse on inspiration and not dependent on position. Patient denied diaphoresis, radiation of pain to the arms, neck, or back. Due to the pain, he later developed shortness of breath. He placed a warm pack on his left chest, which seems to alleviate the pain somewhat. He tried to \"walk off the pain\" but finally decided to come to the ED.\n.\nOf note, patient denied any recent travels, plan rides, surgeries, periods of immobilities. He denied any history of bleeding from mucous membranes, no easy bruising, no difficulty with bleeding/clotting after knee surgery. He has not had any prior clots before. Denied leg pain or swelling. \n.\nIn ED VS were T:98 HR:66 BP:140/82 RR:19 O2sat:99% RA. Based on PERC rule for pulmonary edema, patient qualified for evaluation. D-dimer was elevated at 5242 and CTA showed bilateral pulmonary edema with ? infarct in the left lower lobe wedge. Patient placed on 2 liters of oxygen and treated with 1 dose of oxycodone. Guaiac was negative and he was started on heparin drip with bolus.  \n.\nReview of systems:  \n(+) Per HPI  \n(-) Denies fever, chills, night sweats, recent weight loss or gain. Denies headache, sinus tenderness, rhinorrhea or congestion. Denied cough. Denied palpitations. Denied nausea, vomiting, diarrhea, constipation or abdominal pain. No recent change in bowel or bladder habits. No dysuria. Denied arthralgias or myalgias.\n\ufeff\n",
+    "input3": "+ s/p left knee surgery\n",
+    "input4": "Mother has history of clots after knee surgeries.\n",
+    "input5": "Physical Exam:\nVS: Tc 97.5 HR 65 BP 136/90 RR 18 O2sat 100% 2L (NC)\nGA: AOx3, sitting up in bed, NAD\nHEENT:  PERRLA. MMM. no LAD. no JVD. neck supple. \nCards: RRR S1/S2 heard. No S3 appreciated. no murmurs/gallops/rubs.\nPulm: Left lower base crackles. No wheeze. \nAbd: soft, NT, +BS. no g/rt. neg HSM. neg sign.\nExtremities: wwp, no edema. DPs, PTs 2+. No tenderness. \nNeuro/Psych: CNs II-XII intact. strength in U/L extremities. \nDTRs 2+ (biceps, achilles, patellar). sensation intact to LT, pain, temperature, vibration, proprioception. cerebellar fxn intact (FTN, HTS). gait WNL. \n\ufeff\n",
+    "input6": "1. Labs on admission:\n___ 09:07AM BLOOD WBC-8.0 RBC-4.58* Hgb-14.6 Hct-43.4 MCV-95 MCH-32.0 MCHC-33.7 RDW-12.9\n___ 09:07AM BLOOD PTT-23.1\n___ 09:07AM BLOOD Glucose-102* UreaN-12 Creat-1.0 Na-135 K-8.1* Cl-101 HCO3-26 AnGap-16\n___ 09:07AM BLOOD CK(CPK)-194\n___ 09:07AM BLOOD CK-MB-2 cTropnT-<0.01\n___ 06:40AM BLOOD Calcium-9.0 Phos-3.2 Mg-2.2\n.\n.\n2. Imaging/diagnostics:\n- CXR : Patchy opacity at the lateral left lung base. Given the volume loss, atelectasis is favored, although a focus of early developing pneumonia cannot be entirely excluded. Correlate clinically. \n.\n- CTA : Bilateral pulmonary emboli as described above. Wedge-shaped consolidation seen in the left lower lobe and lingula concerning for pulmonary infarcts in the setting of pulmonary emboli. No evidence for right heart strain. \n\ufeff\nThe patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels\n\n"
+}

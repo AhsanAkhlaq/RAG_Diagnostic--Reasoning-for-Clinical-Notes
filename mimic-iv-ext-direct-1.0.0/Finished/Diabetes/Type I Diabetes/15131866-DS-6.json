@@ -1,0 +1,32 @@
+{
+    "Type I Diabetes$Intermedia_4": {
+        "ICA antibodies are positive in most patients with type I diabetes.$Cause_1": {
+            "ICA test is positive$Input6": {}
+        },
+        "Diabetes$Intermedia_3": {
+            "Abnormal plasma glucose is a diagnostic criteria of diabetes.$Cause_1": {
+                "BLOOD Glucose-201*$Input6": {}
+            },
+            "Suspected Diabetes$Intermedia_2": {
+                "Abnormal random plasma glucose is a big risk factor of diabetes.$Cause_1": {
+                    "dashboard Labs significant for: glu 203,$Input2": {}
+                },
+                "Insulin Lispro is a quick-acting insulin used to treat diabetes.This may suggest that the patient may have diabetes or a condition that requires plasma glucose to be controlled.$Cause_1": {
+                    "She then rec'd a dose of SC Lispro 4U$Input2": {}
+                },
+                "Family history is a big risk factor.$Cause_1": {
+                    "sister with type one diabetes$Input4": {}
+                },
+                "GTT is a glucose tolerance test which is uesd to diagnosed diabetes in cases where plasma glucose is higher than normal range but not high enough for a diagnosis of diabetes.$Cause_1": {
+                    "started on insulin gtt$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "nausea, vomiting, malaise\n",
+    "input2": "Last night the patient became nauseous, started vomiting, had palpitations and felt dyspneic. She had just eaten some tuna tartare. Noted that her BG was running in 200s, and it typically runs in the 150-180 range. Also endorsed lightheadedness. This brought her to the ED.\n  \nIn ED initial VS: 98.2 110 118/69 20 99% RA  Exam: not documented in dashboard Labs significant for: glu 203, AG 29, bicarb 12, pH 7.27 initially Patient was given:-2L NS then started on NS at 250 cc/hr (unsure how much fluid in total she rec'd) \n-started on insulin gtt\n-Zofran, Ativan, Toradol for nausea and headache\nImaging notable for: CXR unremarkable\n\ufeff\nShe was seen in the ED and kept in the CDU overnight. \nHer AG closed in the ED, after which her insulin gtt was dc'd. \nPer patient, the plan had been to stop the insulin gtt and have her insulin pump turned back on. However, she went about 4 hours without getting any insulin, and her gap opened back up. She then rec'd a dose of SC Lispro 4U, was restarted on an insulin gtt and admitted to the ICU.\n\ufeff\nVS prior to transfer: 98.4 96 95/56 18 98% RA  \n  \nOn arrival to the MICU, she is feeling better and reports the Ativan and Toradol have helped her nausea and headache. Still feeling SOB if she stands up. Doesn't feel comfortable eating yet but maybe in a few hours. Does not feel like she has been sick lately. No change in meds, diet or alcohol use. Also having vaginal itching that feels like prior yeast infections.\n\ufeff\nREVIEW OF SYSTEMS: per HPI. otherwise denies chest pain, fever, cough, dysuria\n\ufeff\n",
+    "input3": "+CARPAL TUNNEL SURGERY\n+RADIUS FACTURE \n+ankle fracture\n",
+    "input4": "per chart review: \nsister with type one diabetes and papillary thyroid carcinoma\n",
+    "input5": "Admission PHYSICAL EXAM:  \nVITALS: please see Metavision. afebrile, HR 104, BP 99/62, SaO2 100% RA \nGENERAL: Alert, oriented, no acute distress  \nHEENT: Sclera anicteric, dry oral mucosa, oropharynx clear  \nNECK: supple, JVP not elevated  \nLUNGS: Clear to auscultation bilaterally, no wheezes, rales, rhonchi  \nCV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, gallops  \nABD: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  \nEXT: Warm, well perfused, 2+ pulses, no edema  \nSKIN: no significant rash \nNEURO: A&Ox3, no gross focal defects \n\ufeff\n",
+    "input6": "Admission Labs:\n___ 11:21AM BLOOD WBC-6.1 RBC-4.91 Hgb-14.2 Hct-43.6 MCV-89 MCH-28.9 MCHC-32.6 RDW-13.1 RDWSD-42.5\n___ 11:21AM BLOOD Neuts-81.1* Lymphs-16.1* Monos-2.0* Eos-0.0* Baso-0.5 AbsNeut-4.93 AbsLymp-0.98* AbsMono-0.12* AbsEos-0.00* AbsBaso-0.03\n___ 11:21AM BLOOD Glucose-203* UreaN-19 Creat-0.8 Na-138 K-4.9 Cl-96 HCO3-12* AnGap-30*\n___ 11:21AM BLOOD ALT-13 AST-19 AlkPhos-57 TotBili-0.4\n___ 11:21AM BLOOD Albumin-5.0\n___ 04:48AM BLOOD Calcium-8.2* Phos-2.2* Mg-2.0\n___ 11:32AM BLOOD pO2-68* pCO2-25* pH-7.27* calTCO2-12* Base XS--13 Comment-GREEN TOP \n___ 11:32AM BLOOD Glucose-201* Na-138 K-4.6 Cl-108\n___ 11:32AM BLOOD Hgb-14.9 calcHCT-45 O2 Sat-89\n___ 11:32AM ICA test is positive\n\ufeff\n"
+}

@@ -1,0 +1,29 @@
+{
+    "chronic non-atrophic gastritis$Intermedia_4": {
+        "Antral erosions are often associated with gastritis, especially chronic inflammation caused by Helicobacter pylori infection.$Cause_1": {
+            "Erosions in the antrum$Input6": {}
+        },
+        "H pylori infection is one of the common causes of chronic gastritis. Antibiotic treatment may cause changes in the gastric mucosa, thereby increasing the risk of chronic gastritis.$Cause_1": {
+            "H pylori which was treated with antibiotics.$Input6": {}
+        },
+        "chronic gastritis$Intermedia_3": {
+            "Alcohol use is a common risk factor for gastritis.$Cause_1": {
+                "long history of frequent ed visits$Input2": {}
+            },
+            "suspected gastritis$Intermedia_2": {
+                "Black stools may be a sign of gastrointestinal bleeding, which may be related to gastritis.$Cause_1": {
+                    "black bowel movement$Input2": {}
+                },
+                "Black vomit usually indicates upper gastrointestinal bleeding, such as stomach bleeding, which may be caused by gastritis.$Cause_1": {
+                    "black vomitus$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "He and his wife report that he work up in the middle of the night (around 2 or 3 am) and had two \"normal\" brown bowel movements. About an hour later, he had a large black bowel movement. Then, about 30 mins later, he went to go to the bathroom and his wife heard a loud thump. When she went to the bathroom, she saw that he had fallen and hit his head on the shower and had an episode of black vomitus. He did not have incontinence of stools. He believes he lost consciousness for \"possibly a few seconds\". His wife said that after calling his name ___ few times he woke up and was not confused. She then called EMS and brought him to the ER.  long history of frequent ed visits\n\n\nThis has never happened to him prior. He had a recent colonoscopy with polypectomies (x3) in ___, the pathology of which revealed adenomas. He was to f/u with a repeat colonoscopy in ___ years. He has no endoscopies on record.  Pt reported that he did experience some lightheadness but feels well now. He denies HA. No F/C, no CP, no SOB.\n",
+    "input3": "Hypertension,  \nhyperlipidemia,  \ns/p prostate cancer resection in ___,  \nrosacea,  \nColon polyps,  \nPAD (___)  \n. s/p angioplasty)  \ndilated aortic root,  \nhistory of vertigo  \nRight Knee OA (moderate)\n",
+    "input4": "mother died at ___ of ovarian cancer and? DM  Grandfather with DM\n",
+    "input5": "Vitals: T: 100.2 BP: 116/69 P: 84 R: 18 O2: 100% \nGeneral: Alert, oriented, no acute distress; \nHEENT: Sclera anicteric, MMM, oropharynx clear  \nNeck: supple, JVP not elevated, no LAD  \nLungs: Clear to auscultation bilaterally, no wheezes, rales, \nronchi  \nCV: RRR, normal S1 + S2, ___ systolic murmurs, no rubs/gallops  \nAbdomen: soft, non-tender, non-distended, bowel sounds present, \nno rebound tenderness or guarding, no organomegaly  \nGU: no foley  \nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema\n",
+    "input6": "___ 11:20AM BLOOD WBC-9.8# RBC-3.65* Hgb-11.3*# Hct-34.8* \nMCV-95 MCH-30.9 MCHC-32.4 RDW-13.1 Plt ___\n___ 11:20AM BLOOD Neuts-81.5* Lymphs-14.5* Monos-3.3 \nEos-0.3 Baso-0.4\n___ 11:20AM BLOOD ___ PTT-19.9* ___\n___ 11:20AM BLOOD Glucose-160* UreaN-82* Creat-0.9 Na-142 \nK-4.2 Cl-108 HCO3-20* AnGap-18\n___ 11:20AM BLOOD CK-MB-4 cTropnT-<0.01\n___ 11:36AM BLOOD Glucose-146* Na-143 K-4.0 Cl-110* \ncalHCO3-21\n\nMICRO:\nHpylori - ___________.\nH pylori which was treated with antibiotics.\n\n\nIMAGING: \nHead CT (___)\n1. No evidence of an acute intracranial process. No fracture. \n2. Subcutaneous nodule in the right frontal scalp. Please correlate with physical exam. \n\nTTE (___)\nThe left atrium is moderately dilated. There is mild symmetric left ventricular hypertrophy with normal cavity size. Left ventricular systolic function is hyperdynamic (EF>75%). There is a mild resting left ventricular outflow tract obstruction. There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion. \n\n\nEGD (___)\nMedium hiatal hernia\n___ tear\nEsophageal ring\nBlood in the stomach body\nErosions in the antrum\nErosions in the duodenal bulb\nOtherwise normal EGD to third part of the duodenum\n"
+}

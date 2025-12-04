@@ -1,0 +1,33 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET: 6.5% > 6% is the gold standard for gastro-oesophageal reflux \rdisease diagnosis$Cause_1": {
+            "Ambulatory reflux monitor :total AET:6.5% on pH-impedance monitoring$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Chest pain is a common symptom of GERD$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "Indigestion is a common symptom of GERD, and acid reflux may cause this discomfort$Cause_1": {
+                "indigestion last night$Input2": {}
+            },
+            "Heaviness in the chest and sweating may be symptoms of GERD$Cause_1": {
+                "chest heaviness and diaphhoresis$Input2": {}
+            },
+            "A sore throat is also a common symptom of GERD$Cause_1": {
+                "acidness in the back of her throat$Input2": {}
+            },
+            "A sour taste in the mouth is a direct sign of acid reflux.$Cause_1": {
+                "sour taste in her mouth$Input2": {}
+            },
+            "Peptic ulcer disease directly involves the gastrointestinal system and may be related to GERD because ulcer and reflux symptoms may coexist and affect each other$Cause_1": {
+                "PUD$Input3": {}
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "Per patient report last night she experienced indigestion last night and went to bed, she awoke with chest heaviness and diaphhoresis took her aspirin and called ___. in the ambulance she received 0.4 ntg spray and another 2 asprins. her pain came down to 4 out of 10.  Upon arrival to ED she received 0.4 slntg and 0.5 inch ntg paste with pain down to ___. Gi cocktail given with no change in pain.  no ECG changes but was then pain free. The patient felt the same symptoms prior to her Cardiac Arrest on ___.\n\nVital Sign Range at OSH (BP/ O2 sat / HR / Tele):  108/64 hr 70 sr, sa02 100% 2lnc, 97.6 rr 16.\n.\nshe was transferred to ___ cath lab where she underwent cardiac cath. Findings included open stent in LAD, no CAD. An angioseal was placed on rt groin and she was transferred to the floor.\n.\nOn the floor she complained of a burning sensation radiating up her chest but no chest heaviness. She also complained of a sour taste in her mouth and some acidness in the back of her throat. Additionally she had a migraine that had started in the cath lab and was relieved with tylenol.\n\n.  \nOn review of systems, she denies cough, hemoptysis, black stools or red stools. She denies recent fevers, chills or rigors. She denies exertional buttock or calf pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations.\n",
+    "input3": ". CARDIAC RISK FACTORS: Dyslipidemia, Hypertension  \n2. CARDIAC HISTORY:  MI in ___ complicated by cardiac \narrest s/p stent placement in LAD on plavix\n-CABG:  none\n-PERCUTANEOUS CORONARY INTERVENTIONS:  cath as above\n-PACING/ICD:  None\n3. OTHER PAST MEDICAL HISTORY:  \nPUD last EGD ___ year ago with some abnormality that was not \nfollowed up because she had her arrest\nDepression\n",
+    "input4": "Mom has HTN and HL. No early MIs.\n",
+    "input5": "VS: T=98.9 BP=127/60 HR=63 RR=14 O2 sat=  100RA\nGENERAL: WDWN F in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric.  Conjunctiva were pink.  \nNECK: Supple with JVP flat lying flat  \nCARDIAC: PMI located in ___ intercostal space, midclavicular \nline. RR, normal S1, S2. No m/r/g.   \nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi anteriorly.unable to examine posterior as patient on bedrest  \nABDOMEN: Soft, NTND. No HSM or tenderness. \nEXTREMITIES: No c/c/e.   \nPULSES:  \nRight: DP 2+ \nLeft: DP 2+\n",
+    "input6": "___ 07:05AM BLOOD WBC-5.8 RBC-3.59* Hgb-10.0* Hct-30.3* \nMCV-84 MCH-27.7 MCHC-32.9 RDW-17.4* Plt ___\n___ 06:05PM BLOOD ___ PTT-22.4 ___\n___ 07:05AM BLOOD UreaN-10 Creat-0.7 Na-137 K-4.6 Cl-104\n\nEKG:  NSR rate 66bpm. nl axis, intervals. No ST or TW changes.\n\nCardiac Cath: \nCOMMENTS:      \n1. Selective coronary angiography of this left dominant system demonstrated mild one vessel nonobstructive coronary disease. The LMCA was very short and collinear with the LCX. The LAD had mild to moderate calcification. There was an ostial 40% plaque with superimposed catheter-induced spasm that improved (but did not resolve completely) with IC nitroglycerine. THere was hazy diffuse disease in the mid LAD to ___ with systolic bowing. The distal LAD wraps around the apex with slow flow after IC nitroglycerine consistent with microvascular dysfunction. \n\n- LCX had mild to moderate calcification. There was mild plaquing in the AV groove CX. There was a small OM1 and OM2, larger OM3, large LPL1 and a tripartite LPDA with septal LPDA the largest of the 3. \n\nThere was slow flow after IC nitroglycerine consistent with microvascular dysfunction. \n- RCA was small and nondominant. \n\n2. Limited resting hemodynamics demonstrated normal systemic arterial pressures (129/72 mmHg). There was no gradient on pullback of catheter from LV to aorta. LVEDP was normal at 5mmHg. \n\n3. Left ventriculography demonstrated 1+ non-ectopic mitral \nregurgitation. LV wall motion and LVEF were normal. \n  \nFINAL DIAGNOSIS:     \n1. No angiographically apparent flow limiting CAD but premature atherosclerosis evident with slow flow consistent with microvascular dysfunction. \n2. Normal systolic and diastolic LV function. \n\nLabs from OSH:   ___ WBC 6.6, HGB 10.6, HCT 32.5, plt 337. \nCK 48, Trop <0.01, Na 136, K 4.6, Cl 102, Co2 25, BUN 13, Cr \n0.8, Glu 98, TBili 0.2, Alk phos 62, ALT 11, AST 81\n\nRadiology Results from OSH:  cxr- ? of infiltrate in right lung base unchanged from ___. Consider follow up PA/Lateral.\n\nAmbulatory reflux monitor :total AET:6.5% on pH-impedance monitoring\n\n"
+}

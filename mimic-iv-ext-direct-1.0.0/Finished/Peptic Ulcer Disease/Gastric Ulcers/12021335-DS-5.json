@@ -1,0 +1,33 @@
+{
+    "gastric ulcers$Intermedia_3": {
+        "Gastric ulcer with bleeding onendoscopy is the gold standard ofgastric ulcer.$Cause_1": {
+            "Endoscopy:Gastric ulcer with bleeding$Input6": {}
+        },
+        "suspected peptic ulcer disease$Cause_2": {
+            "Peptic ulcer are prone to bleeding symptoms.$Cause_1": {
+                "GI bleed$Input1": {}
+            },
+            "Hematemesis and melena are the manifestations of peptic ulcer with bleeding.$Cause_1": {
+                "with no major comorbidities admitted to MICU Green with hematemesis and melena. felt presyncopal, sat down awhile, then had tarry black BM. Felt exhausted and sweaty, then later projectile vomited with coffee ground emesis. Then has bright red emesis.$Input2": {}
+            },
+            "Anemia is the manifestations of peptic ulcer with bleeding.$Cause_1": {
+                "she was sent to where she was noted to feel dizzy and weak with vitals 112/78 and Hct 17.9.$Input2": {}
+            },
+            "Rectal exam showed guaic positive black stool may be caused by peptic ulcer with bleeding.$Cause_1": {
+                "Rectal exam showed guaic positive black stool.$Input2": {}
+            },
+            "Non-steroidal anti-inflammatory drugs are the risk factors of peptic ulcer.$Cause_1": {
+                "She has been taking Aleve daily for RLE pain after a fracture/surgery in .$Input2": {}
+            },
+            "Family history of bleeding ulcer.$Cause_1": {
+                "F - deceased with heart disease, kidney disease, bleeding ulcer, EtOHism$Input4": {}
+            }
+        }
+    },
+    "input1": "GI bleed\n",
+    "input2": "with no major comorbidities admitted to MICU Green with hematemesis and melena. felt presyncopal, sat down awhile, then had tarry black BM. Felt exhausted and sweaty, then later projectile vomited with coffee ground emesis. Then has bright red emesis. Went to where was told she had bowel obstruction and sent home after 3 hrs with some type of laxative and told to stop ASA, Aleve, Motrin. She was told to f/u with her PCP on . she kept feeling presyncopal and weak. am she saw her PCP, and of 17 was noted; she was sent to where she was noted to feel dizzy and weak with vitals 112/78 and Hct 17.9. Transfer to for further management. In the ED initial vitals: 16 100%. Rectal exam showed guaic positive black stool. Bilateral PIV's were placed, she was T&S'd and 4u cross matched. She did not tolerate NG lavage. PPI bolus + gtt was started. She was given 1L IVF's. KUB was obtained given the questionable h/o obstruction last at , but felt to be low suspicion given no abdominal tenderness and she was passing stool. She has been taking Aleve daily for RLE pain after a fracture/surgery in . She notes \"burning in her stomach\" called as GERD after starting Fosamax, but stopped 2 wks ago. No Coumadin Plavix, only drinks a couple bottles of wine per week, no retching, no h/o PUD. Never had this before. ROS as above, does endorse fatigue, DOE, poor appetite but tolerating PO's. No dyspepsia, hematochezia, or tenesmus. No f/c/ns, SOB, CP, palps, abd pain, bleeding elsewhere, n/v, dysuria. Of note, she has been a Jehovah's Witness in the past, however will be acceptable to transfusion if needed. Vitals before transfer: 107/85 p81 100%RA.\n",
+    "input3": "+Denies DM, HTN, HL.\n+Osteoporosis\n+AMI, very unclear, \"bad EKG\" suspicious for old MI, saw Cards and reports stress test last year that was normal per pt\n+\"Seizure\" -- again very unclear history, reports had \"worse h/a of her life\" and then had a grand mal seizure and reports imaging showed \"partial seizure disorder of L frontoparietal lobe\"\n",
+    "input4": "M - alive with emphysema, PMR, DM, neuralgia, AMI, EtOHism\nF - deceased with heart disease, kidney disease, bleeding ulcer, EtOHism\n",
+    "input5": "98.9 p82 107/49 (107-124) 100%RA  \nPleasant female, no distress, conversant, appears very pale though, with pale conjunctiva, pale gums, pale palms  \nEOMI, no scleral icterus  \nCTAB no w/c/r/r  \nRRR without murmurs, S1/S2 clear  \nAbd soft NT ND, benign  \nNo BLE edema noted, extrems are warm but pale appearing  \nCN2-12 intact, moving all exremities spontaneously, no focal neuro deficits.\n",
+    "input6": "140   103   13\n----------------< 98\n3.9   27    0.7\n\nALT 15  AST 17  AlkP 74  Tbili 0.1  Alb 4.1\nWBC 6.5  normal diff\nHct 19.5 MCV 94\nPlts 370\nCoags 11.3 / 18.4 / 0.9\n\nEKG: From OSH, NSR, normal axis, intevals, normal EKG\n\nImaging: Abd plain film IMPRESSION: No evidence of bowel obstruction. Rounded density in the pelvis likely represents a distended bladder. \n\nCXR IMPRESSION: No acute cardiopulmonary proces\nEndoscopy:Gastric ulcer with bleeding\n"
+}

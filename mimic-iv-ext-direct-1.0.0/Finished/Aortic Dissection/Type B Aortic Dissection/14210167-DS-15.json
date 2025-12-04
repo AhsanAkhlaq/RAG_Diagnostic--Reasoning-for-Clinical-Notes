@@ -1,0 +1,48 @@
+{
+    "Type B Aortic Dissection$Intermedia_3": {
+        "Confirmation of direct evidence of aortic dissection, showing extension of the dissection into the aorta$Cause_1": {
+            "extention of the dissection$Input2": {}
+        },
+        "not extend to the ascending aorta. This is the key basis for diagnosing Type B Aortic Dissection.$Cause_1": {
+            "Contained aortic rupture at the proximal descending thoracic aorta with small periaortic mediastinal hematoma$Input6": {}
+        },
+        "Aortic aneurysm is a risk factor for the development of aortic dissection because the aneurysm wall may become thinner due to increased pressure, increasing the risk of rupture.$Cause_1": {
+            "Aneurysmal descending thoracic aorta up to 4.4 cm.$Input6": {}
+        },
+        "Suspected Aortic Dissection$Intermedia_2": {
+            "back pain is a common symptom of Aortic Dissection$Cause_1": {
+                "Back Pain$Input1": {}
+            },
+            "One of the classic symptoms of aortic dissection is sudden back or chest pain, especially if the pain radiates to other parts of the body.$Cause_1": {
+                "udden onset of midback pain radiating to the front$Input2": {}
+            },
+            "Hypertension is a major risk factor for aortic dissection$Cause_1": {
+                "strict blood pressure control$Input2": {}
+            },
+            "Aortic dissection may present with repeated episodes of severe pain, reflecting persistence or recurrence of the condition.$Cause_1": {
+                "sudden onset of sharp midback pain radiating to the front similar in nature and character to her last attack$Input2": {}
+            },
+            "Shortness of breath during exertion may indicate compromised cardiovascular function, while leg fatigue and weakness may be related to poor circulation. This may be a symptom of Aortic Dissection$Cause_1": {
+                "shortness-of-breath with exertion since her initial presentation as well as her legs feeling more tired/weak$Input2": {}
+            },
+            "Significant hypertension is a key factor in the development and progression of aortic dissection$Cause_1": {
+                "systolic blood pressure to be in the 190s$Input2": {}
+            },
+            "Myocardial infarction can lead to persistent damage to heart function, affecting the efficiency of the heart's pumping, thereby exacerbating or inducing aortic abnormalities.$Cause_1": {
+                "MI$Input3": {}
+            },
+            "Hypertension is a significant risk factor for aortic dissection because persistent high blood pressure increases stress on the blood vessel walls, especially the aorta.$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "The patient had hypertension, which is an important risk factor for aortic dissection$Cause_1": {
+                "BP: 150s-160s/70s,$Input5": {}
+            }
+        }
+    },
+    "input1": "Back Pain\n",
+    "input2": "She is a 39 year-old female who presented in early with sudden onset of midback pain radiating to the front.  She was managed non-operatively with strict blood pressure control and discharged home on Hydrochlorothiazide 25mg BID, Losartan 50mg BID, and Toprol 100mg daily.  \n\nShe reports that she has otherwise been in her usual state of health until the evening prior to presentation (~3AM) when she had sudden onset of sharp midback pain radiating to the front similar in nature and character to her last attack in early.  The pain had remained constant and she experienced nausea and vomited once that morning (bilious, nonbloody).  She further reports that she had been more tired with shortness-of-breath with exertion since her initial presentation as well as her legs feeling more tired/weak.  She denied fevers, chills, headache, dizziness, chest pain, or changes in bowel habits.  A nurse had been monitoring her blood pressure and that morning found her systolic blood pressure to be in the 190s.  She has not been able to follow-up with her PCP.  A CTA was obtained which showed extention of the dissection and she was admitted to the vascular surgery service.\n",
+    "input3": "+MI\n+COPD\n+HTN\n",
+    "input4": "Non-contributory\n",
+    "input5": "Vitals: T: 98.9 degrees Farenheit, BP: 150s-160s/70s, HR 75 bpm, RR 16 bpm, O2: 91% on RA. \nGen: Pleasant, calm female in NAD.\nHEENT: No conjunctival pallor. No icterus. MMM. OP clear.  \nNECK: Supple, No LAD. JVP low.\nCV: RRR normal S1,S2. No murmurs, rubs, clicks\nLUNGS: CTAB. No wheezes, rales, or rhonchi.  \nABD: NABS. Soft, NT, ND. No abdominal bruits.  \nEXT: WWP, NO CCE. 2+ dorsalis pedis and posterior tibial pulses bilaterally.\nNEURO: A&Ox3. CN grossly intact. strength in all extremities\n",
+    "input6": "___ 11:40AM   PTT-23.9\n___ 11:40AM   PLT COUNT-786*\n___ 11:40AM   NEUTS-76.8* LYMPHS-16.9* MONOS-3.8 EOS-1.9 BASOS-0.6\n___ 11:40AM   WBC-11.4* RBC-3.47* HGB-10.5* HCT-30.7* MCV-88 MCH-30.3 MCHC-34.3 RDW-14.7\n___ 11:40AM   cTropnT-<0.01\n___ 11:40AM   GLUCOSE-109* UREA N-17 CREAT-0.9 SODIUM-131* POTASSIUM-5.0 CHLORIDE-93* TOTAL CO2-25 ANION GAP-18\n___ 03:29PM   LACTATE-1.0\n\n___ CTA Torso:  IMPRESSION:   \n1. Contained aortic rupture at the proximal descending thoracic aorta with small periaortic mediastinal hematoma. Aneurysmal descending thoracic aorta up to 4.4 cm. \n2. Bilateral pulmonary granulomas and sub-4-mm nodules.\n"
+}

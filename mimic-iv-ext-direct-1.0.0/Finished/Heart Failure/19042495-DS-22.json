@@ -1,0 +1,40 @@
+{
+    "HFpEF$Intermedia_5": {
+        "LVEF\u226550% is the critiera for HFpEF$Cause_1": {
+            "LVEF>55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strongly suspected heart failure.$Cause_1": {
+                    "proBNP-2775*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "These are typical manifestations of respiratory distress associated with heart failure.$Cause_1": {
+                        "Dyspnea on Exertion$Input1": {}
+                    },
+                    "Dyslipidemia is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "Dyslipidemia$Input3": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "A family history of cardiovascular disease$Cause_1": {
+                        "Father died of a stroke. Mother had a  myocardial infarction and cancer of the vagina.$Input4": {}
+                    },
+                    "Tachycardia - Bradycardia syndrome is the cause of heart failure$Cause_1": {
+                        "tachy/brady s/p ppm$Input2": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea on Exertion\n",
+    "input2": "She is a female with tachy/brady s/p ppm who presents with chief complaint of dyspnea with minimal exertion since return home from international travel. Patient reprots she had a similar episode when her PPM was placed. This was done so we do not have the records of this. Otherwise she has not had symptoms of heart failure. She reports that she went on a cruise with her family a fwe4 weeks ago. On the last day of the cruise she started to feel tired. AFter this she continued to have progressive DOE to the point that she was unable to get dressed without significant SOB yesterday. She thought it mgiht be from graduation parties and the traveling she was doing.  She was seen by her PCP in clinic today where she reported subjective air hunger at rest, signficant shortness of breath on minimal exertion, eg gettingdressed. VS in clinic were: Wt. 157 lbs (was 151 on visit just one month ago) P 77 BP 160/68 (standing 164/80) %O2 Sat 94. BP slightly elevated from her baseline, systolic 160. O2 sat 94%, lower than baseline. EKG suggestive of possible infarction so she was sent into the ED.  \n \n.  \nIn the ED, initial vitals were: 98.9 70 190/81 22 100% 4L Nasal Cannula. The patient c/o SOB with exertion x 2 weeks since returning from travel. Denies CP. Denies orthopnea or PND.. She was speaking in full sentences. Pt lives in a studio apt and states she gets winded just getting to the bathroom. An ECG showed paced rhythm consistent with prior. CXR showed pulmonary congestion. She was given lasix 20mg IV X 1 and admitted for CHF likely dietary indiscretion while on her cruise.  There were no VS recorded prior to transfer in the E-signout from the MD.  On arrival to the floor patient c/o non-productive cough worse in the past few weeks in addition to the symptoms of DOE worsening to the point that she could not shower, PND, and edema. She has also had stable orthopnea, and her usual palpitations associated with her atrial fibrillation and chest pressure that comes on when she goes into Afib. She denies other chest pain, syncope, presyncope. She does note a weight gain that she attributes to the food on the cruise. She has also had night sweats several nights a week for the last months that require a change of clothes. She is uptodate on her mammograms and has had a colonoscopy in the last years that per her report was normal.  \n\ufeff\n",
+    "input3": "1. CARDIAC RISK FACTORS: Diabetes(-), Dyslipidemia(+),  Hypertension(+)  \n2. CARDIAC HISTORY:  cerebrovascular accident times two  Tachy/ syndrom pacemaker PPM on coumadin  \n \n3. OTHER PAST MEDICAL HISTORY:  \nRenal cell carcinoma.  \nCompression fractures.  \nParavertebral muscle hematoma (complication of vertebroplasty).  \nOsteoarthritis.  \nDepression/anxiety.  \nHistory of urinary tract infection.  \nConstipation.  \nScoliosis.  \nCervical spondylosis with cord compression.  \nOsteoporosis  \nCerebral aneurysms.  \nStrokes.  \nPAST SURGICAL HISTORY:  \n1. Thumb surgery.  \n2. Left eye cataract surgery.  \n3. Status post face lift.  \n4. Hysterectomy.  \n5. Tonsillectomy.  \n6. Rotator cuff surgery.  \n7. Thyroid ablation.  \n8. Status post kyphoplasty for treatment of compression fractures.  \n9. Left total knee replacement  \n\ufeff\n",
+    "input4": "Father died of a stroke. Mother had a  myocardial infarction and cancer of the vagina.  \n\ufeff\n",
+    "input5": "Physical Exam:\nN/A\n",
+    "input6": "ADMISSION:\n\ufeff\n___ 01:25PM   GLUCOSE-100 UREA N-12 CREAT-0.8 SODIUM-141 POTASSIUM-3.7 CHLORIDE-101 TOTAL CO2-29 ANION GAP-15\n___ 01:25PM   cTropnT-<0.01\n___ 01:25PM   proBNP-2775*\n___ 01:25PM   DIGOXIN-1.0\n___ 01:25PM   WBC-7.1 RBC-3.51* HGB-10.5* HCT-31.9* MCV-91 MCH-29.8 MCHC-32.8 RDW-15.5\n\ufeff\nCXR\nPA AND LATERAL VIEWS OF THE CHEST: Left-sided dual-chamber pacemaker leads terminating in the right atrium and right ventricle are in unchanged positions. Mild enlargement of the cardiac silhouette is unchanged with unfolding of the thoracic aorta. There are increased interstitial markings compared to the prior study, suggestive of mild interstitial pulmonary edema.  Cephalization of the pulmonary vascular markings is also noted. Small right pleural effusion is present. No pneumothorax is identified. There are mild degenerative changes of the thoracic spine. Coils are partially imaged within the upper aspect of the abdomen. There are no acute osseous findings. \n  \nIMPRESSION: Interstitial pulmonary edema with small right pleural effusion. \n\ufeff\nTTE:\nThe left atrium is moderately dilated. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%). There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. The ascending aorta is mildly dilated. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Mild (1+) mitral regurgitation is seen. The tricuspid valve leaflets are mildly thickened. There is moderate pulmonary artery systolic hypertension. There is a trivial/physiologic pericardial effusion. \n\ufeff\nCompared with the prior study (images reviewed), no change.  \n\ufeff\n"
+}

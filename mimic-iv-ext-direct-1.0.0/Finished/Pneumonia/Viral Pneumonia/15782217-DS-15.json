@@ -1,0 +1,50 @@
+{
+    "Viral Pneumonia$Intermedia_4": {
+        "Positive respiratory virus antigen indicates respiratory virus infection$Cause_1": {
+            "Positive for Respiratory Viral Antigen.$Input6": {}
+        },
+        "Pneumonia$Intermedia_3": {
+            "An elevated white blood cell count, especially an increased proportion of neutrophils, is one of the symptoms of pneumonia.$Cause_1": {
+                "Labs were notable for an elevated WBC of 11.4 wtih 84% neutrophils$Input2": {}
+            },
+            "An increase in neutrophils, usually indicating an acute infection such as pneumonia$Cause_1": {
+                "NEUTS-86.2$Input6": {}
+            },
+            "Suspected Pneumonia$Intermedia_2": {
+                "Cough is a typical symptom of pneumonia$Cause_1": {
+                    "cough$Input1": {}
+                },
+                "Fever is a typical symptom of pneumonia$Cause_1": {
+                    "fever$Input1": {}
+                },
+                "Fever and cough are common symptoms of pneumonia$Cause_1": {
+                    "presents with low-grade fevers of 99-100.2 and cough$Input2": {}
+                },
+                "Persistent fever duration can indicate the presence of infection and is a warning sign of pneumonia$Cause_1": {
+                    "first developed fevers 3 days ago$Input2": {}
+                },
+                "A drop in oxygen saturation below 90% may indicate respiratory compromise, which is common in patients with pneumonia$Cause_1": {
+                    "an oxygen level of 90%$Input2": {}
+                },
+                "Productive coughing and shortness of breath are classic symptoms of pneumonia$Cause_1": {
+                    "has a productive cough and shortness of breath over the past 3 days$Input2": {}
+                },
+                "Increased dyspnea and frequent use of wheezing rescue inhalers may indicate increased pressure on the respiratory system, which may be related to lung infection$Cause_1": {
+                    "been more dyspneic and has needed to take her albuterol inhaler more often.$Input2": {}
+                },
+                "Asthma increases pneumonia risk$Cause_1": {
+                    "asthma$Input3": {}
+                },
+                "Obstructive sleep apnea may cause repeated nocturnal hypoxemia. This long-term low oxygen state may reduce the effectiveness of the immune system, thereby increasing the risk of pneumonia.$Cause_1": {
+                    "OSA$Input3": {}
+                }
+            }
+        }
+    },
+    "input1": "cough, fever\n",
+    "input2": "She is a 73 year old woman with a history of stage III follicular lymphoma grade II, currently cycle 2 day 14 of R-CHOP chemotherapy who presents with low-grade fevers of 99-100.2 and cough.  She first developed fevers 3 days ago.  She noted today to have an oxygen level of 90% when checked by her son.  She also has a productive cough and shortness of breath over the past 3 days.  She notes that she has been more dyspneic and has needed to take her albuterol inhaler more often.  She denies headache, myalgias, abdominal pain, nausea, or diarrhea.  She has slight sore throat and nasal congestion.  She has 5 grandchildren who visit frequently.\n\nIn the emergency department, initial vitals: 98.0 105 142/77 22 96%. Labs were notable for an elevated WBC of 11.4 wtih 84% neutrophils.  electrolytes were wnl.  A CXR was normal.  She was given levofloxacin 750 mg PO.\n",
+    "input3": "+OSA\n+asthma\n+hypothyroid\n+atrial fibrillation\n+vestibular schwannoma\n+DEXA scan showing osteopenia\n+hx of colon cancer s/p partial colon resection\n+Urge incontinence\n",
+    "input4": "Her father had colon cancer. Her biologic daughter had a negative colonoscopy.\n",
+    "input5": "VS: T98.0 BP 136/84 HR 80 RR 20 95%2L\nGENERAL: alert and oriented, NAD\nHEENT: No scleral icterus. PERRLA/EOMI. MMM. OP slightly red, no exudates.  Neck Supple, No LAD.\nCARDIAC: irregular. Normal S1, S2. Systolic murmur at the left upper sternal border. \nLUNGS: CTA B, good air movement bilaterally.\nABDOMEN: NABS. Soft, NT, ND.  No HSM\nEXTREMITIES: No c/c/e, 2+ dorsalis pedis/ posterior tibial \npulses.\nNEURO: A&Ox3. Appropriate. CN grossly intact. Preserved \nsensation throughout. strength throughout.\n",
+    "input6": "__ 08:20PM   GLUCOSE-88 UREA N-9 CREAT-0.8 SODIUM-136 POTASSIUM-5.4* CHLORIDE-100 TOTAL CO2-27 ANION GAP-14\n___ 08:34PM   LACTATE-1.1 K+-3.4\n___ 10:00PM   PLT COUNT-187\n___ 10:00PM   NEUTS-86.2* MONOS-5.6 EOS-1.4 BASOS-0.7\n___ 10:00PM   RBC-3.92* HGB-12.3 HCT-38.8 MCV-99* MCH-31.3 MCHC-31.6 RDW-16.9*\n\nCXR ___:\nIMPRESSION: Enlarged cardiac silhouette without definite acute cardiopulmonary process\n\nRespiratory Viral Antigen Screen (Final ___: \nPositive for Respiratory Viral Antigen. Specimen screened for: Adeno, Parainfluenza 1, 2, 3, Influenza A, B,and RSV by immunofluorescence.\n"
+}

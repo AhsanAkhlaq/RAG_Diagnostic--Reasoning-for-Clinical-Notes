@@ -1,0 +1,29 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "The condition has distinct attacks (relapses) and remission periods$Cause_1": {
+            "In the ED she said her symptoms had subsided and her condition had returned to a stable state. He said similar situations had happened before.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "Patients with a history of MS$Cause_1": {
+                "h/o MS$Input6": {}
+            },
+            "This describes multiple bilateral round and oval T2/FLAIR hyperintense white matter lesions located in the subcortical and periventricular white matter as well as in the posterior fossa and brainstem, which are most likely manifestations of a demyelinating process.$Cause_1": {
+                "Multiple T2/STIR hyperintense lesions within the cervical and thoracic spinal cord, compatible with a demyelinating process.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Falls can be caused by poor balance or muscle control. This can be related to muscle or nerve dysfunction.$Cause_1": {
+                    "fell while transferring from toilet$Input2": {}
+                },
+                "The risk of developing multiple sclerosis is related to genetic factors. If there are cases of multiple sclerosis in the family, especially in close relatives, the risk of developing the disease may increase.$Cause_1": {
+                    "Two family members with MS-paternal cousins$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "she with PMH of polio (affecting R leg) who fell while transferring from toilet to wheelchair.  She attempted to grab the wheel of the wheelchair and it began to roll away and she then fell on her knees and her face.  She has chronic R leg pain related to her polio and her R knee began to hurt.  Her pain was not controlled at home so she came to the ER for help with pain control.   \n\ufeff\nThe patient denies any other symptoms, no weakness of any other extremity, she had dysuria 2 days ago but non since.  No other symptoms, no F/C/NS, no chest pain, no SOB, no LH, no HA, no new visual disturbances or neurologic symptoms, no abd pain, blood in stool.  Rest of ROS is negative.\n\nIn the ED she said her symptoms had subsided and her condition had returned to a stable state. He said similar situations had happened before.\n",
+    "input3": "+ Congenital L hip dysplasia- s/p mult surgical repair- 3 total hip replacements, last repair complicated my multiple postoperative dislocations\n+ Hypertension\n+ polio affecting the right lower extremity, severe chronic pain-followed by pain service\n+ Left sciatic neuropathy\n\ufeff\n",
+    "input4": "Two family members with MS-paternal cousins\n",
+    "input5": "VS: T 97.5  BP 135/88  HR 85  RR 18  O2 sat 100% on RA\nGEN: NAD, AOX3\nHEENT: MMM\nCARD: RRR, no m/r/g\nPULM: CTAB, no ronchi or rales or wheezes, normal resp effort\nABD: soft, NT, ND, no masses or organomegaly\nEXT: wwp, no c/c/e, R leg atrophy\nNEURO: R leg w/ antigravity (minimal) other ext stregnth, normal mood and affect, AOx3\n\ufeff\n",
+    "input6": "Admission labs: 05:25AM \nURINE BACTERIA-NONE YEAST-NONE\nURINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG \nLEUK-MOD\n\ufeff\nR KNEE X RAY: No acute fracture or dislocation.\n\ufeff\n06:30AM \nGlucose-101* UreaN-12 Creat-0.7 Na-142 K-3.3 Cl-98 HCO3-37* AnGap-___ yoF w/ a h/o MS and polio presents after a mechanical fall with R knee pain.\n\ufeff\n# UTI: Uncomplicated, treated w/ cipro x 3d\n\ufeff\n# HTN: Patient was continued on her home antihypertensives with good control. \n\ufeff\n# Anxiety / depression: Patient was continued on her home Klonopine and Venlafaxine\n\nMultiple T2/STIR hyperintense lesions within the cervical and thoracic spinal cord, compatible with a demyelinating process.\n"
+}

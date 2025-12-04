@@ -1,0 +1,26 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "The condition has distinct attacks (relapses) and remission periods$Cause_1": {
+            "In the ED she said her symptoms had subsided and her condition had returned to a stable state.She said similar situations had happened before.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "This describes multiple bilateral round and oval T2/FLAIR hyperintense white matter lesions located in the subcortical and periventricular white matter as well as in the posterior fossa and brainstem, which are most likely manifestations of a demyelinating process.$Cause_1": {
+                "Multiple T2/STIR hyperintense lesions within the cervical and thoracic spinal cord, compatible with a demyelinating process.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Multiple sclerosis may affect the central nervous system, including the nerves that control urination. Urinary retention may be due to impaired bladder function.$Cause_1": {
+                    "retaining urine$Input2": {}
+                },
+                "Horizontal nystagmus is a classic symptom of MS. These rapid, involuntary eye movements may be caused by MS causing inflammation or damage to the part of the brain responsible for coordinating eye movements.$Cause_1": {
+                    "horizontal nystagmus noted$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "The patient is a female with a past medical history significant for depression.  The patient states that 2 weeks ago, she had a foley catheter placed because she was found to be retaining urine.  About 1 week ago she noted cloudy, foul urine draining from her catheter as well as suprapubic abdominal pain.  The nursing home also noted fevers up to 100.4.  The patient is unsure how long she has been having fevers and denies chills.  She was sent here from the nursing home where she resides.  She denies fevers, chills, chest pain, shortness of breath, nausea, vomiting.\n\nIn the ED she said her symptoms had subsided and her condition had returned to a stable state.She said similar situations had happened before.\n\n\ufeff\nIn the ED, vital signs were T: 98.9 HR 104  BP: 114/68 RR: 20 94% RA.  Labs were remarkable for an elevated WBC (11.3) and UA with >182 WBC, pos Nitrites and small Leuks. CT abd/pelvis did not show pyelonephritis.  The patient was treated with one dose of ceftriaxone.\n",
+    "input3": "+ Depression  \n+ Insomnia  \n+ cataracts  \n+ bladder incontinence\n",
+    "input4": "None\n",
+    "input5": "Physical Exam:\nADMISSION PHYSICAL EXAM\nVS t: 98.1 bp: 115/74 hr 116 rr 20 95% on RA\nGeneral: NAD\nHEENT: horizontal nystagmus noted\nNeck: no LAD\nCV: tachycardia, RRR, no murmurs\nLungs: clear to auscultation bilaterally, no rales/wheezes\nAbd: +BS, soft, nondistended, tender to palpation suprapubically\nExt: no edema\nNeuro: AAOx3\n\ufeff\n",
+    "input6": "ADMISSION LABS\n___ 02:22AM BLOOD WBC-11.3* RBC-4.71 Hgb-14.0 Hct-41.7 MCV-89 MCH-29.8 MCHC-33.7 RDW-13.4\n___ 02:22AM BLOOD Neuts-53.5 Monos-9.3 Eos-0.9 Baso-0.9\n___ 02:22AM BLOOD PTT-22.2*\n___ 02:22AM BLOOD Glucose-104* UreaN-22* Creat-0.6 Na-140 K-4.0 Cl-102 HCO3-26 AnGap-16\n___ 02:22AM BLOOD ALT-52* AST-33 AlkPhos-79 TotBili-0.6\n___ 02:22AM BLOOD Albumin-3.9\n___ 08:39AM BLOOD Calcium-9.8 Phos-3.7 Mg-2.3\n\ufeff\nCT abd/pelvis\nIMPRESSION: \n1.  Foley catheter within the bladder, which is collapsed, \nlimiting its \nevaluation.  A small amount of surrounding stranding may be \nrelated to \ncystitis.  No evidence of pyelonephritis. \n2.  Small amount of free fluid, which would be abnormal in a \npost-menopausal patient, though is nonspecific. \n3.  2.2 cm left ovarian cyst.  If the patient is premenopausal, \nthis is likely normal follicular activity.  If the patient is \npostmenopausal, further evaluation with a non-emergent pelvic \nultrasound is recommended.   \n4.  Large amount of stool within the rectum. \n\ufeff\nUrine culture\nURINE CULTURE (Final: \nPROTEUS MIRABILIS.    >100,000 ORGANISMS/ML. \nPRESUMPTIVE IDENTIFICATION. \nPSEUDOMONAS AERUGINOSA.    >100,000 ORGANISMS/ML..\n\ufeff\nSENSITIVITIES: MIC expressed in \nMCG/ML\n                      \n_________________________________________________________\nPROTEUS MIRABILIS\n|          PSEUDOMONAS AERUGINOSA\n|          |   \nAMPICILLIN------------   <=2 S\nAMPICILLIN/SULBACTAM--   <=2 S\nCEFEPIME--------------   <=1 S        4 S\nCEFTAZIDIME-----------   <=1 S      <=1 S\nCEFTRIAXONE-----------   <=1 S\nCIPROFLOXACIN---------   =>4 R        1 S\nGENTAMICIN------------   <=1 S      <=1 S\nMEROPENEM-------------<=0.25 S        1 S\nPIPERACILLIN/TAZO-----   <=4 S        8 S\nTOBRAMYCIN------------   <=1 S      <=1 S\nTRIMETHOPRIM/SULFA----   <=1 S\n\ufeff\nMultiple T2/STIR hyperintense lesions within the cervical and thoracic spinal cord, compatible with a demyelinating process.\n\n"
+}

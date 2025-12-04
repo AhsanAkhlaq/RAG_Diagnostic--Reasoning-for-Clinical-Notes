@@ -1,0 +1,35 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "The structure of right heart is normal, and submassive PE is ruled out.$Cause_1": {
+            "The main and right pulmonary arteries are normal in caliber, and there is no evidence of right heart strain.$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Filling defect refers to the presence of abnormal material in the blood vessel, which may be a blood clot. This is a key sign for diagnosing pulmonary embolism.$Cause_1": {
+                "a filling defect in the right pulmonary embolism$Input2": {}
+            },
+            "There is a soft tissue filling defect in the distal right main pulmonary artery, consistent with thrombus$Cause_1": {
+                "Soft tissue filling defect in the distal right main pulmonar artery is consistent with a thrombus$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "The patient is currently receiving a clinical trial of a PD1/TK1 inhibitor. Certain cancer treatment drugs may affect blood coagulation and increase the risk of embolism.$Cause_1": {
+                    "PD1/TK1 trial therapy$Input2": {}
+                },
+                "Patients may have metastases to the pancreas, lungs, and adrenal glands. Metastatic cancer is often associated with systemic inflammation and coagulopathy, which increases the risk of pulmonary embolism.$Cause_1": {
+                    "probable metasteses to the pancreas, lung and adrenal glands$Input2": {}
+                },
+                "The electrocardiogram showed signs of increased right ventricular stress, probably due to a blood clot in the pulmonary artery that increases the pressure on the lungs to pump blood.$Cause_1": {
+                    "some classic EKG changes for right heart strain$Input2": {}
+                },
+                "Hypertriglyceridemia is one of the risk factors for atherosclerosis and may increase blood viscosity and slow blood flow, thereby increasing the risk of thrombosis.$Cause_1": {
+                    "hypertriglyceridemia$Input3": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Patient seen and examined, agree with house officer admit note with additions below:\n\ufeff\nMale with metastatic renal cell carcinoma who presents from clinic, after an outpatient staging CT demonstrated a filling defect in the right pulmonary embolism. The patient has widely metastatic cancer, and is status-post a nephrectomy, lung wedge resection and is currently on PD1/TK1 trial therapy. He has probable metasteses to the pancreas, lung and adrenal glands. He was asymptomatic, and was undergoing a routine staging CT, which was not timed as a CTA but was concerning for a large filling defect in the right main pulmonary artery.\n\ufeff\nThe patient was sent to the ED from radiology, and despite there not being an exact agreement on whether this represents an actual PE given the study was not timed for pulmonary artery imaging, he is clearly high-risk for thrombosis given his metastatic cancer. Bilateral LENIs were performed in the ED which were negative. While he had some classic EKG changes for right heart strain, this was not changed from prior EKGs. He was not hypoxemic in the ED, with a SAO2 of 98% on room air. The plan was to start empiric enoxoparin, and while a repeat CTA would be desirable, this was not done given the risk to his lone kidney on top of the recent dye load.\n\ufeff\n",
+    "input3": "PAST ONCOLOGIC HISTORY:  \n\n+ bilateral hernioraphy\n+ hypertriglyceridemia\n\ufeff\n",
+    "input4": "Denies any Family History of Hypertension, clotting disorders, blood clots, cancer\n",
+    "input5": "Physical Exam:\nROS:\nGEN: - fevers, - Chills, - Weight Loss\nEYES: - Photophobia, - Visual Changes\nHEENT: - Oral/Gum bleeding\nCARDIAC: - Chest Pain, - Palpitations, - Edema\nGI: - Nausea, - Vomitting, - Diarhea, - Abdominal Pain, - \nConstipation, - Hematochezia\nPULM: - Dyspnea, - Cough, - Hemoptysis\nHEME: - Bleeding, - Lymphadenopathy\nGU: - Dysuria, - hematuria, - Incontinence\nSKIN: - Rash\nENDO: - Heat/Cold Intolerance\nMSK: - Myalgia, - Arthralgia, - Back Pain\nNEURO: - Numbness, - Weakness, - Vertigo, - Headache\n\n",
+    "input6": "___ 07:00PM BLOOD WBC-4.7 RBC-3.85* Hgb-13.9* Hct-41.3 MCV-107* MCH-35.9* MCHC-33.5 RDW-13.5\n___ 07:00PM BLOOD Neuts-47.7* Monos-9.7 Eos-7.8* Baso-0.7\n___ 07:00PM BLOODPTT-28.2\n___ 07:00PM BLOOD Glucose-97 UreaN-22* Creat-1.0 Na-140 K-4.0 Cl-104 HCO3-23 AnGap-17\n___ 07:00PM BLOOD cTropnT-<0.01\n___ 07:00PM BLOOD proBNP-14\n___ 09:10PM URINE Color-Straw Appear-Clear\n___ 09:10PM URINE Blood-NEG Nitrite-NEG Protein-NEG \nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG\n\ufeff\nCT ABD & PELVIS WITH CONTRAST Study Date of 11:13 AM \nIMPRESSION: \nPreliminary Report 1. Stable pancreatic lesion. Stable sclerotic focus in the left iliac bone. No new lesion suspicious for metastatic disease within the abdomen or pelvis. \n  \nCT CHEST W/CONTRAST Study Date of 12:39\nIMPRESSION:  \nSoft tissue filling defect in the distal right main pulmonar artery is consistent with a thrombus\n\nBILAT LOWER EXT VEINS Study Date of8:07\nIMPRESSION: \nNo evidence of DVT in the right or left lower extremity. \n\ufeff\nCT HEAD W/O CONTRAST Study Date of 8:13\nIMPRESSION:\nNo evidence of acute intracranial process.  MRI would be more \nsensitive to evaluate for intracranial lesions.   \n\nThe main and right pulmonary arteries are normal in caliber, and there is no evidence of right heart strain.\n\n\ufeff\n"
+}

@@ -1,0 +1,27 @@
+{
+    "Type B Aortic Dissection$Intermedia_3": {
+        "The CTA examination results confirmed the dissection of the descending aorta, but did not extend to the ascending aorta. This is the key basis for diagnosing Type B Aortic Dissection.$Cause_1": {
+            "dissection of descending thoracic aorta from just beyond origin of left subclavian artery extending to the aortic hiatus$Input2": {}
+        },
+        "Suspected Aortic Dissection$Intermedia_2": {
+            "Chest and back pain are typical symptoms of aortic dissection$Cause_1": {
+                "presented to w/ c/o chest and back pain$Input2": {}
+            },
+            "Controlling blood pressure is an important part of managing aortic dissection$Cause_1": {
+                "BP control$Input2": {}
+            },
+            "Hypertension is a major risk factor for aortic dissection$Cause_1": {
+                "w/ h/o HTN$Input2": {}
+            },
+            "Obesity is a risk factor for aortic dissection$Cause_1": {
+                "obese$Input5": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Male w/ h/o HTN, OSA, transferred for management of acute aortic dissection. He initially presented to w/ c/o chest and back pain. He was told he had gastritis and was discharged home. On follow-up with PCP, there was concern for PE, so CTA chest was obtained, which showed dissection of descending thoracic aorta from just beyond origin of left subclavian artery extending to the aortic hiatus. Patient was admitted to MICU. He was started on labetalol gtt for BP control. His chest pain resolved. Repeat chest CTA at 10:50PM showed extension of the dissection beyond the aortic bifurcation to include the right internal iliac artery and left common iliac artery. Troponins were negative x3. Creatinine was 0.6 and patient had good UOP.\n\nOn arrival to the MICU, patient denies any pain. Denies any numbness or weakness in extremities. Continues to have good UOP. SBPs in the 110s on labetalol drip.\n",
+    "input3": "+OSA\n+Depression / Anxiety\n",
+    "input4": "Father died of liver cancer\nMother died of breast cancer\nNo family history of HTN.\n",
+    "input5": "ADMISSION:\nVitals- 98.4  63  122/74  22  96%2L NC  \nGeneral-  NAD, well-appearing, obese\nHEENT-  dry MM. EOMI. PERRL. OP clear\nNeck-  supple. no JVP elevation appreciated\nCV-  RRR. no m/r/g\nLungs-  mild expiratory wheezes in R upper lung field, otherwise clear\nAbdomen- obese, benign\nGU-  Foley in place\nExt-  2+ distal pulses. well-perfused, warm. sensation intact. strength throughout.\n",
+    "input6": "___ 05:30AM BLOOD WBC-8.4 RBC-4.07* Hgb-11.6* Hct-37.1* MCV-91 MCH-28.6 MCHC-31.4 RDW-12.8 Plt ___\n___ 05:30AM BLOOD Glucose-150* UreaN-10 Creat-0.5 Na-138 K-4.0 Cl-104 HCO3-25 AnGap-13\n___ 05:30AM BLOOD ALT-38 AST-22 CK(CPK)-57 AlkPhos-65 TotBili-0.3\n___ 05:30AM BLOOD CK-MB-2 cTropnT-<0.01\n___ 05:30AM BLOOD Albumin-3.0* Calcium-8.2* Phos-2.9 Mg-1.7\n___ 05:39AM BLOOD Type-ART pO2-90 pCO2-47* pH-7.39 calTCO2-30 Base XS-2\n___ 05:39AM BLOOD Lactate-0.8\n\nCTA chest and abdomen ___:\n\n1. celiac trunk, superior mesenteric artery and right renal artery arise from the true lumen of the dissected abdominal aorta. the left renal artery and inferior mesenteric artery seem to arise from the false lumen of the dissected abdominal aorta with apparent slightly delayed nephrogram of the left kidney.\n"
+}

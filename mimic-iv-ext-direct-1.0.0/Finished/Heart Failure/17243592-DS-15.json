@@ -1,0 +1,76 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is elongated. The right atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strong suspected heart failure.$Cause_1": {
+                    "proBNP-6395*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Exertional dyspnea is a potential symptom of heart failure$Cause_1": {
+                        "dyspnea on exertion$Input1": {}
+                    },
+                    "Shortness of breath is a common symptom of heart failure. As the heart's ability to pump blood decreases, blood circulation in the lungs becomes poor.$Cause_1": {
+                        "increasingly short of breath$Input2": {}
+                    },
+                    "People with heart failure may gain weight rapidly because of water accumulation in the body. This is because the heart cannot pump blood effectively enough to drive the kidneys to remove the excess water.$Cause_1": {
+                        "eight has increased from 201 lbs to 208 lbs$Input2": {}
+                    },
+                    "These are classic symptoms of heart failure. PND and orthopnea occur when the heart is not able to pump blood enough when lying flat, causing fluid to accumulate in the lungs.$Cause_1": {
+                        "complains of PND, lower extremity swelling, and orthopnea$Input2": {}
+                    },
+                    "Sitting upright helps reduce fluid accumulation in the lungs, and sublingual administration usually refers to the use of nitroglycerin, which is used to relieve angina and may indicate heart disease.$Cause_1": {
+                        "very short of breath and that this is relieved by sitting up and sometimes by taking sublingually.$Input2": {}
+                    },
+                    "This is because fluid accumulates in the lungs when lying on your back, causing difficulty breathing, a clear sign of heart failure$Cause_1": {
+                        "In fact, he has been sleeping upright$Input2": {}
+                    },
+                    "Chest pain and its response to nitroglycerin are often associated with coronary artery disease, which may exacerbate heart failure.$Cause_1": {
+                        "had chest pain last night that was somewhat relieved by nitroglycerine.$Input2": {}
+                    },
+                    "Coronary artery disease is a major risk factor for heart failure, and myocardial infarction (MI) causes death of heart tissue and affects heart function.$Cause_1": {
+                        "Coronary artery disease, status-post MI x3$Input3": {}
+                    },
+                    "Peripheral vascular disease increases the risk of heart disease because they often share the same causes, such as hardening of the arteries.$Cause_1": {
+                        "Peripheral vascular disease$Input3": {}
+                    },
+                    "Obesity puts a strain on the heart and is associated with a variety of heart diseases, including heart failure$Cause_1": {
+                        "Obesity$Input3": {}
+                    },
+                    "Diabetes can lead to heart disease, such as coronary artery disease, which can lead to heart failure.$Cause_1": {
+                        "Type 2 DM$Input3": {}
+                    },
+                    "Long-term high blood pressure will increase the burden on the heart, leading to cardiac hypertrophy and functional decline, and is one of the main causes of heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Hyperlipidemia is a risk factor for coronary artery disease and indirectly promotes the development of heart failure by accelerating atherosclerosis.$Cause_1": {
+                        "Hyperlipdiemia$Input3": {}
+                    },
+                    "Stroke can affect cardiac function through multiple mechanisms, including cardiac stress and injury through heart-brain interactions.$Cause_1": {
+                        "CVA$Input3": {}
+                    },
+                    "Distended jugular veins are a common symptom of heart failure and indicate obstruction of blood flow back to the heart, usually associated with right heart dysfunction.$Cause_1": {
+                        "JVD above mid neck roughly 15cm$Input5": {}
+                    },
+                    "Irregular heart sounds may indicate abnormalities in the structure or function of the heart. This may be due to heart valve disease or irregular heartbeats, both potential factors for heart failure.$Cause_1": {
+                        "heart sounds irregular though pulse$Input5": {}
+                    },
+                    "Bilateral basilar rales are usually a sign of fluid accumulation in the lungs, a classic symptom of pulmonary congestion in heart failure.$Cause_1": {
+                        "bilateral basilar crackles without wheezing$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "dyspnea on exertion\n",
+    "input2": "For the last three days he has become increasingly short of breath.  He weighs himself every day. His weight has increased from 201 lbs to 208 lbs in the last three days. He complains of PND, lower extremity swelling, and orthopnea. He says that sometimes he gets very short of breath and that this is relieved by sitting up and sometimes by taking sublingually. In fact, he has been sleeping upright. He actually declines chest pain; however, the ED note says that he had chest pain last night that was somewhat relieved by nitroglycerine.  He does not have a cough during the day. No fevers or chills. He had two episodes of watery brown diarrhea today. No recent antibiotic exposure. No vomiting or nausea.\n",
+    "input3": "+ Coronary artery disease, status-post MI x3 (first was an  \nanterior MI treated with percutaneous intervention)  \n+ ICD placed\n+ CVA\n+ Chronic renal insufficiency\n+ Peripheral vascular disease\n+ Obesity\n+ Type 2 DM\n+ Hypertension\n+ Hyperlipdiemia\n+ Right leg fracture after fall\n+ left ankle fx\n+ gout\n",
+    "input4": "Mother died with \"arterial blockage.\"  \nFather died of accident. Half-brother is alive.\n",
+    "input5": "Physical Exam:\nAdmission Physical Exam:  \nVitals:  98.1F, 139/85, p 68, rr 18, 98% 4L NC\nGENERAL - NAD, comfortable, appropriate\nHEENT - NC/AT, PERRLA, strabismus with left eye abducted, sclerae anicteric, MMM, OP clear  \nNECK - supple, no thyromegaly, JVD above mid neck roughly 15cm  \nHEART - regular rate, heart sounds irregular though pulse \nChest: Pacer c/d/i\nLUNGS - bilateral basilar crackles without wheezing, good air movement, resp unlabored, no  accessory muscle use\n",
+    "input6": "01:20PM   GLUCOSE-160* UREA N-21* CREAT-1.6* SODIUM-140 POTASSIUM-3.5 CHLORIDE-100 TOTAL CO2-26 ANION GAP-18\n01:20PM   estGFR-Using this\n01:20PM   cTropnT-0.05*\n01:20PM   proBNP-6395*\n01:20PM   D-DIMER-<150\n01:20PM   WBC-9.6 RBC-3.95* HGB-12.1* HCT-36.6* MCV-93 \nMCH-30.6 MCHC-33.0 RDW-16.2*\n01:20PM   NEUTS-71.3* MONOS-6.1 EOS-2.9 BASOS-0.4\n01:20PM   PLT COUNT-321\n\nThe left atrium is elongated. The right atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %) with global hypokinesis and regional inferior/infero-lateral,\n"
+}

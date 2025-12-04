@@ -1,0 +1,27 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "VS:140/96$Input5": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "States BP at home today 188/90$Input2": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Headache is a classic symptoms of Hypertension.$Cause_1": {
+                "headache$Input1": {}
+            },
+            "Elderly age is an important risk factor for Hypertension,and female have a higher risk.$Cause_1": {
+                "55 yo Female$Input2": {}
+            },
+            "Family history is a big factor of Hypertension.$Cause_1": {
+                "The patient's mother has history of hypertension.$Input4": {}
+            }
+        }
+    },
+    "input1": "headache\n",
+    "input2": "This is a 55 yo Female .She presents with 2 wks of worsening HA and general malaise. The HA is bifrontal and relatively constant but improves sometimes with lying down. No photophobia, no fevers, no neck stiffness. No focal weakness, numbness, blurry vision or slurred speech.  Also noted on episode of L sided CP, described as \"sticking\" and worse with inhalation. No associated SOB, N/V, diaphoresis, radiation. The patient states that she did not like to take her blood pressure medications because she did not want to be \"one of those people who need to take pills everyday\". She was trying many different herbal remedies instead.States BP at home today 188/90 \n",
+    "input3": "None\n",
+    "input4": "The patient's mother is alive and well, has history of hypertension. Father alive and well without known medical illnesses. The patient has multiple siblings, a few of whom have been noted to have borderline elevated blood pressure.\n",
+    "input5": "VS: 97.9, 69, 140/96, 98% RA  \nGen: NAD  \nHEENT: NCAT, EOMI, PERRL. Anicteric, no conjunctival pallor. OP clear, MMM.  \nNeck: No JVD, no LAD  \nCor: RRR no m/r/g  \nPulm: CTAB no w/r/r  \nAbd: soft +BS, NT/ND, No HSM  \nExtrem: no c/c/e  \nSkin: no rashes  \nNeuro: CN II-XII in tact bilaterally. Strength is in upper and lower extremities and sensation to LT is in tact bilaterally. No tremor/asterixis. A&Ox3. Gait deferred.\n",
+    "input6": "___ 06:20PM BLOOD WBC-5.7 RBC-4.37 Hgb-14.4 Hct-40.3 MCV-92 MCH-33.0* MCHC-35.7* RDW-13.1 Plt ___\n___ 06:20PM BLOOD Neuts-51.6 ___ Monos-4.7 Eos-1.7 Baso-0.4\n___ 07:25AM BLOOD Glucose-102 UreaN-13 Creat-1.0 Na-141 K-4.3 Cl-104 HCO3-32 AnGap-9\n___ 07:25AM BLOOD CK(CPK)-91\n___ 06:20PM BLOOD CK(CPK)-134\n___ 07:25AM BLOOD CK-MB-NotDone cTropnT-<0.01\n___ 06:20PM BLOOD cTropnT-<0.01\n___ 07:25AM BLOOD Calcium-9.5 Phos-5.3* Mg-2.1 U/A NEG\n"
+}

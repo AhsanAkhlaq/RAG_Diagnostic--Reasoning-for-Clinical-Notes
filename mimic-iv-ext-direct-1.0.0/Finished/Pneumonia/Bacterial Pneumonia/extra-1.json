@@ -1,0 +1,47 @@
+{
+    "Bacterial Pneumonia$Intermedia_4": {
+        "Sputum culture results showed multiple microorganisms consistent with Streptococcus pneumoniae, directly indicating Streptococcus pneumoniae infection.$Cause_1": {
+            "Multiple organisms consistent with Streptococcus pneumoniae.$Input6": {}
+        },
+        "Pneumonia$Intermedia_3": {
+            "This is a typical radiological finding of pneumonia$Cause_1": {
+                "Right lower lobe showing infiltrates.$Input6": {}
+            },
+            "Suspected Pneumonia$Intermedia_2": {
+                "Fever is a common symptom of pneumonia$Cause_1": {
+                    "Fever$Input1": {}
+                },
+                "Headache, muscle and joint pain, and runny nose may be early signs of infection$Cause_1": {
+                    "mild headache, muscle and joint pain, and a runny nose with clear discharge$Input2": {}
+                },
+                "A cough that is initially nonproductive but then becomes productive with grayish-white sputum may indicate the presence and progression of an infection.$Cause_1": {
+                    "developed a cough, which initially produced no mucus but later became productive, yielding thick, grayish sputum without blood$Input2": {}
+                },
+                "Shortness of breath after walking less than 10 feet is one of the important symptoms of pneumonia and indicates that lung function may be seriously affected.$Cause_1": {
+                    "acute shortness of breath$Input2": {}
+                },
+                "Significant asthma that does not improve even with nebulized therapy may indicate chronic or acute airway inflammation$Cause_1": {
+                    "significant wheezing that did not improve with nebulizer treatments$Input2": {}
+                },
+                "The patient had been hospitalized multiple times for pneumonia, including three admissions to the intensive care unit, suggesting that she was at high risk for recurrent lung infections.$Cause_1": {
+                    "history of hospitalization for pneumonia, has been in the ICU three times$Input2": {}
+                },
+                "IVIG is commonly used to treat immune deficiencies, suggesting she may have underlying immune system problems.$Cause_1": {
+                    "Currently, she is on an IVIG infusion every three weeks$Input2": {}
+                },
+                "Rales and squeaks usually indicate fluid or sputum in the airways, which is a classic sign of pneumonia.$Cause_1": {
+                    "Diffuse rhonchi and squeaks in the right lower lung.$Input5": {}
+                },
+                "Chest pain is one of the common symptoms of pneumonia and may be due to pleural irritation caused by lung inflammation.$Cause_1": {
+                    "reports chest pain.$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Fever\n",
+    "input2": "Her symptoms began approximately 10 days ago with a mild headache, muscle and joint pain, and a runny nose with clear discharge. Her condition temporarily improved after taking Tylenol, but she soon experienced increased fatigue, mild nausea without vomiting, reduced appetite, and decreased fluid intake. She also developed a cough, which initially produced no mucus but later became productive, yielding thick, grayish sputum without blood. One day prior to admission, she experienced acute shortness of breath when walking less than 10 feet, along with epigastric pain radiating to her back, several minutes of palpitations, and significant wheezing that did not improve with nebulizer treatments. She reported subjective fevers, chills up to three or four times, but no night sweats, chest pain, painful urination, blood in urine, diarrhea, or constipation. She has not been in contact with any sick individuals, traveled recently, or has known allergies, though she has two dogs and carpets at home. She received her flu vaccine this year.\n\nNotably, the patient has a history of hospitalization for pneumonia, has been in the ICU three times, and experienced sepsis, although she was never intubated. Her most recent hospital admission was for pneumonia and occurred ___ ago. She has no history of MRSA. Currently, she is on an IVIG infusion every three weeks, with the next scheduled for ___. She reported feeling weaker and more susceptible to illness as her next IVIG infusion approaches and is considering switching to a weekly infusion schedule.\n",
+    "input3": "None\n",
+    "input4": "DM2 in mother, sister, and children.\n",
+    "input5": "Vital Signs: Heart rate 96.0, blood pressure 140/78, respiratory rate 20, oxygen saturation 96% on room air, reports chest pain.\nGeneral: Appears well, alert and oriented x3.\nHead, Eyes, Ears, Nose, Throat: Pupils equal, round, reactive to light; extraocular movements intact; moist mucous membranes; sclera are not yellow and not red.\nNeck: No lymphadenopathy or jugular venous distention observed.\nCardiovascular: Regular rate and rhythm, normal heart sounds S1 and S2, no heart murmurs detected.\nRespiratory: Diffuse rhonchi and squeaks in the right lower lung.\nAbdomen: Active bowel sounds, abdomen soft and non-tender, not distended.\nExtremities: No swelling, dorsalis pedis pulses are strong.\nNeurological: Pupils equal, round, reactive to light; extraocular movements intact; facial symmetry maintained, no deviation of the tongue.\nSkin: Warm and moist, no rashes or ulcerations noted.\nPsychiatric: Behavior appropriate, demeanor pleasant, not exhibiting anxiety.\n",
+    "input6": "___ 10:20PM   WBC-5.0 RBC-4.07* HGB-11.6* HCT-33.5* MCV-82 \nMCH-28.5 MCHC-34.6 RDW-13.3\n___ 10:20PM   NEUTS-70.0 ___ MONOS-7.0 EOS-3.1 \nBASOS-0.5\n___ 10:20PM   PLT COUNT-189\n___ 10:20PM   GLUCOSE-78 UREA N-29* CREAT-2.0* SODIUM-137 \nPOTASSIUM-3.7 CHLORIDE-102 TOTAL CO2-26 ANION GAP-13\n___ 10:20PM   ___ PTT-26.5 ___\n___ 10:34PM   GLUCOSE-75 LACTATE-1.0\n___ 09:10AM BLOOD WBC-5.3 RBC-4.70 Hgb-13.1* Hct-40.5 \nMCV-86 MCH-27.8 MCHC-32.2 RDW-13.7 Plt ___\n___ 09:10AM BLOOD Glucose-85 UreaN-25* Creat-2.0* Na-140 \nK-3.9 Cl-103 HCO3-28 AnGap-13\n\nCHEST (PA & LAT) Study Date of ___  \nIMPRESSION: Left lower lobe tubular opacities, suggestive of bronchial impaction. Right lower lobe showing infiltrates.\n\nCXR ___: TECHNIQUE: PA AND LATERAL CHEST RADIOGRAPH: \nCardiac, mediastinal and hilar contours are within normal limits. Retrocardiac opacification may represent atelectasis, however, underlying infectious process cannot be completely \nexcluded. No pleural effusions or pneumothorax. \n\nEKG:  LBBB.  No acute ischemic changes from prior.\n\n\nMultiple organisms consistent with Streptococcus pneumoniae.\n\n"
+}

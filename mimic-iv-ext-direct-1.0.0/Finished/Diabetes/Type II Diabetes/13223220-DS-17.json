@@ -1,0 +1,38 @@
+{
+    "Type II diabetes$Intermedia_4": {
+        "Related C -peptide peak is more common in patients with type II diabetes and is a sign of insulin resistance$Cause_1": {
+            "C-peptide release test hints the peak relate,did not fall back to fasting values at 180min.$Input6": {}
+        },
+        "Related insulin peak is more common in patients with type II diabetes.This indicator is often combined with C-peptide results for type II diabetes.$Cause_1": {
+            "Insulin release test hints the high insulin levels and related peak,did not fall back to fasting values at 180min.$Input6": {}
+        },
+        "Diabetes$Intermedia_3": {
+            "Abnormal random blood glucose is a diagnostic criteria of diabetes.$Cause_1": {
+                "GLUCOSE-383$Input6": {}
+            },
+            "Suspected Diabetes$Intermedia_2": {
+                "Hyperglycemia is a classic symptom of diabetes.$Cause_1": {
+                    "hyperglycemia$Input1": {}
+                },
+                "Metformin is a biguanides drug used to control high blood glucose in patients with T2DM.$Cause_1": {
+                    "recently been on metformin$Input2": {}
+                },
+                "Frequent urination is a symptom of diabetes.$Cause_1": {
+                    "urinary frequency$Input2": {}
+                },
+                "Hypertension is a risk factor of diabetes.$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Family history is a big risk factor of diabetes.$Cause_1": {
+                    "Mother, Father both had DM2.Sister with DM2$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "hyperglycemia\n",
+    "input2": "He is a man admitted from the ED with critically high blood sugars.  He managed in the past with oral agents.  He has most recently been on both metformin and oral prednisone.  The oral prednisone was prescribed by ENT doctor nasal polyps.  The course of prednisone is now complete and he is no longer on this medication (last took when taper completed).  He was not able to be transitioned to insulin therapy safely in the outpatient setting.  Please see OMR notes from NP Brain doctor.\n.\nPatient reports significant fatigue, urinary frequency.  He says he has suffered considerably with his nasal polyps.  He denies any recent chest discomfort but says that sometimes with extreme exertion, he'll get anterior chest discomfort.  He denies any shortness of breath.  He is otherwise feeling well. 10 point review of systems is negative except for noted above.\n",
+    "input3": "1) Hypertension\n2) h/o cocaine and alcohol abuse - none x per patient, active in AA\n3) h/o homelessness\n4) Allergic rhinitis with nasal polyps\n",
+    "input4": "Mother, Father both deceased, unclear reasons, both had DM2.Sister with DM2, on insulin therapy.  Three children live with their mother, their health is fine as far as he is aware.\n\ufeff\n",
+    "input5": "GEN: Well-appearing middle-aged man, in no apparent distress\nVS: 98.5  122/86  95  20  97% RA - patient reports weight = 176 lbs\nHEENT: anicteric, PEERL, o/p without lesion, edentuous\nNECK: supple, no LAD, no JVD\nCV: reg rate, no m/r/g\nLUNGS: CTA bilaterally with good air entry\nABD: soft, NT/ND, no masses\nEXT: warm, no edema, no foot ulcers\nNEURO: alert, grossly intact, provides coherent HPI, gait normal\nPSYCH: appropriate\nSKIN: dry, no rash\n\nBrief Hospital Course:\nHe is a man with HTN, admitted with dehydration and marked hyperglycemia in need of insulin therapy. This was not able to be be achieved safely in the outpatient setting so he is thus admitted to ensure safe care.  Metformin was continued at it's current dose. There was concern that Lantus would be too expensive for him given his current insurance, so he was given insulin 70/30 so he would only need 2 injections a day. His fasting glucose was 170 with this. He will record his fasting glucoses for the next week so his insulin can be adjusted.\ufeff\n",
+    "input6": "___ 02:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-1000 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-NEG\n___ 12:45PM   GLUCOSE-383* UREA N-10 CREAT-0.9 SODIUM-132* POTASSIUM-5.0 CHLORIDE-95* TOTAL CO2-29 ANION GAP-13\n___ 12:45PM   WBC-8.4 RBC-4.31* HGB-11.0* HCT-34.9* MCV-81* MCH-25.6* MCHC-31.6 RDW-12.9\n___ 12:45PM   NEUTS-58.1 MONOS-4.3 EOS-6.7* BASOS-0.3\n___ 12:45PM   PLT COUNT-294\n___ 07:52AM   UREA N-8 CREAT-0.9 SODIUM-135 POTASSIUM-5.0 CHLORIDE-93* TOTAL CO2-30 ANION GAP-17. EKG - normal sinus rhythm without ischemic changes\n\nC-PEPTIDE RELEASE TEST:\nC-P0          2.64ng/ml\nC-P30         3.89ng/ml\nC-P60         11.74ng/ml\nC-P120        16.48ng/ml\nC-P180        8.10ng/ml\n\nC-peptide release test hints the peak relate,did not fall back to fasting values at 180min.\n\nINSULIN RELEASE TEST:\nInsulin       6.300mlU/L\nInsulin30     58.85mlU/L\nInsulin60     197.4mlU/L\nInsulin120    258.3mlU/L\nInsulin180    96.20mlU/L\n\nInsulin release test hints the high insulin levels and related peak,did not fall back to fasting values at 180min.\n\n\n\n"
+}

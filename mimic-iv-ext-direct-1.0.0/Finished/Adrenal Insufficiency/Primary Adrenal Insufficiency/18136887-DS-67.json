@@ -1,0 +1,24 @@
+{
+    "Primary Adrenal Insufficiency$Intermedia_3": {
+        "The patient has a history of Addison's disease, which is a direct diagnostic basis for primary adrenal insufficiency.$Cause_1": {
+            "Addison's disease$Input2": {}
+        },
+        "Suspected Adrenal Insufficiency$Intermedia_2": {
+            "These symptoms are typical of adrenal insufficiency$Cause_1": {
+                "1 week of lethargy, weakness, malaise$Input2": {}
+            },
+            "Digestive symptoms, such as abdominal pain and diarrhea, which may be related to electrolyte imbalances or abnormal hormone levels$Cause_1": {
+                "Her weakness and vague abdominal pain with loose stools$Input2": {}
+            },
+            "The patient's rapid and obvious response to treatment may indicate that the original symptoms were related to a hormone or electrolyte deficiency, consistent with a diagnosis of Addison's disease$Cause_1": {
+                "On arrival to the floor she reports significant improvement from her initial presentation$Input2": {}
+            }
+        }
+    },
+    "input1": "Weakness, abdominal pain\n",
+    "input2": "Ms. is 26 year old lady with a history of Addison's disease presenting with 1 week of lethargy, weakness, malaise, and anorexia after her dog of 7 years passed away.  She commented that managing her medicines seems to occupy a great deal of concentration, and since grieving for the dog, she has felt like she has \"gotten behind\" with dose adjustments of her fludricortisone, predisone, and anti-hypertensives.  Her weakness and vague abdominal pain with loose stools persisted to the point that she came into the ED to for further evaluation. \n\nOn arrival to the floor she reports significant improvement from her initial presentation.  She feels thirsty, but otherwise her headache and abdominal pain have resolved since treatment. She denies any underlying illness: coughing, sneezing, sick contacts, fevers, chills, dysuria.\n\nROS: Denies fever, chills, night sweats, vision changes, rhinorrhea, congestion, sore throat, cough, shortness of breath, chest pain, constipation, BRBPR, melena, hematochezia,dysuria, hematuria.\n",
+    "input3": "1. Addison's disease\n2. ___'s Thyroiditis now w/ Hypothyroidism - ___\n3. ___ syndrome while on steroids  \n4. Benign Hypertension (inactive)  \n5. Migraine headache \n6. Microscopic colitis\n7. Depression/anxiety  \n8. Osteoarthritis  \n9. Spondylolisthesis status-post lumbar fusion - ___  \n10. Status-post ligation - ___\n11. H/o Transaminitis in setting of unintentional tylenol  overdose\n",
+    "input4": "Mother - rheumatoid arthritis  \nFather - CAD with first MI\n",
+    "input5": "Admission Exam:\nVS:  96.1 122/80 87 20 97% RA\nGENERAL: Well-appearing woman in NAD, comfortable, appropriate.  \n\nHEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.  \nNECK: Supple, no thyromegaly, no JVD, no carotid bruits.  \nHEART: RRR, no MRG, nl S1-S2.  \nLUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored. \n \nABDOMEN: Soft/ND, mildly tender to palpation diffusely no masses or HSM, no rebound/guarding.  \nEXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses.  \nSKIN: No rashes or lesions. Dark skin tone without involvement \nof palmar creases \nLYMPH: No cervical LAD.  \nNEURO: Awake, A&Ox3, CNs II-XII grossly intact, muscle strength  throughout, steady gait.\n",
+    "input6": "Admission Labs:\n133  101  17  \n-------------<90 \n4.9  18  1.1  \nestGFR: 52/63 (click for details)  \n.\nUCG: Negative \n.\n13.9 \n7.7>---<415\n40.3  \nN:49.9 L:39.5 M:5.1 E:4.2 Bas:1.3 \n"
+}

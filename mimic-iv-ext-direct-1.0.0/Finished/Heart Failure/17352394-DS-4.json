@@ -1,0 +1,49 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF = 20 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "A chest X-ray showed an enlarged heart, a classic sign of heart failure, indicating that the heart's pumping function may be impaired.$Cause_1": {
+                "CXR shows enlarged heart$Input2": {}
+            },
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is moderately dilated.$Input6": {}
+            },
+            "Left ventricular hypertrophy is an adaptive response of the heart to sustained pressure overload and is common in patients with hypertension or valvular heart disease.$Cause_1": {
+                "There is mild symmetric left ventricular hypertrophy$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "BNP is a hormone secreted when the heart is under stress, and its high level is an important biochemical marker of heart failure.$Cause_1": {
+                    "BNP 1390$Input2": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "People with heart failure often retain fluid, leading to dramatic weight gain and swelling in the extremities.$Cause_1": {
+                        "25 pound weight gain and bilateral pedal edema$Input2": {}
+                    },
+                    "Pericardial effusion and dilated cardiomyopathy can both affect heart function and increase the risk of heart failure$Cause_1": {
+                        "CT showing mild pericardial effusion and dilated cardiomyopathy$Input2": {}
+                    },
+                    "These symptoms indicate a buildup of fluid in the body, possibly due to poor fluid circulation caused by heart failure.$Cause_1": {
+                        "Pericardial effusion and bilateral pleural effusions and small amount of ascites$Input2": {}
+                    },
+                    "Obesity is the risk factor of heart failure$Cause_1": {
+                        "Obesity$Input3": {}
+                    },
+                    "JVP8-10cm, higher jugular venous pressure is an important indicator of heart failure, indicating possible cardiac dysfunction.$Cause_1": {
+                        "Supple with JVP of 8-10cm$Input5": {}
+                    },
+                    "Increased left ventricular filling pressures are common in diastolic dysfunction and may lead to heart failure$Cause_1": {
+                        "Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg)$Input6": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Patient has been intermittently treated for UTI/pylo. She presented today with 25 pound weight gain and bilateral pedal edema. CXR shows enlarged heart. The patient had CT showing mild pericardial effusion and dilated cardiomyopathy. Recent admission , lyme titres, rheum factors tested and negative. Recently treated this past week for UTI, PNA with levoquin and macrobid.  She reports that her child had strep throat and during that time she felt sick herself, however, she recovered well.On arrival to the ED the patient's vitals were 0 96.2 102 137/91 20 98% RA. The patient labs were significant for Trop Neg, BNP 1390, labs WNL, UA neg. Patient was given lasix 40mg and metop succ 25mg prior to transfer. CTA chest: IMPRESSION: No acute pulmonary embolism. Pericardial effusion and bilateral pleural effusions and small amount of ascites. Right lower lobe infiltrate. Subsegmental atelectasis left lung base. Cardiology was consulted in the ED and recommended admission to the floor.  \n\ufeff\nOn the floor the patient's vitals were 98.2 130/90 103 22 100RA. Repeat blood pressure showed systolics in the 100s, however patient was warm and well perfused. The patient was NAD and breathing comfortably. She had no active complaints. She had been diuresing well.\n",
+    "input3": "+ Obesity\n+ Asthma\n",
+    "input4": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.\n",
+    "input5": "ADMISSION PHYSICAL EXAM\n=======================\nNo family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.  \nPHYSICAL EXAM:  \nVS:98.2 130/90 103 22 100RA  \nGENERAL: NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  \n\ufeff\nNECK: Supple with JVP of 8-10cm (difficult to assess but appeared elevated with patient sitting at 60 degrees)  \nCARDIAC: PMI located in intercostal space, midclavicular line. RR, normal S1, S2. No murmurs/rubs/gallops. No thrills, lifts (difficult to auscultate given obese body habitus).  \nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. No crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness.  \nEXTREMITIES: No c/c/e. No femoral bruits.\n",
+    "input6": "ADMISSION LABS\n==============\n12:10AM BLOOD WBC-14.4* RBC-4.75 Hgb-14.6 Hct-44.2 \nMCV-93# MCH-30.7 MCHC-33.0 RDW-13.1 RDWSD-44.7\n12:10AM BLOOD Glucose-140* UreaN-15 Creat-1.1 Na-137 K-4.0 Cl-98 HCO3-27 AnGap-16\n12:10AM BLOOD ALT-26 AST-20 LD(LDH)-210 CK(CPK)-93 \nAlkPhos-55 TotBili-0.6\n12:10AM BLOOD CK-MB-1 cTropnT-<0.01\n12:10AM BLOOD Albumin-3.5 Calcium-9.2 Phos-3.9 Mg-1.6\n07:05PM BLOOD calTIBC-403 Ferritn-83 TRF-310\n12:10AM BLOOD TSH-3.2\n09:03AM BLOOD CRP-5.2*\n05:00PM BLOOD HIV Ab-Negative\n\ufeff\n___ ECHO\n==============\nThe left atrium is moderately dilated. No atrial septal defect is seen by 2D or color Doppler. There is mild symmetric left ventricular hypertrophy with normal cavity size. There is severe global left ventricular hypokinesis (LVEF = 20 %). Systolic function of apical segments is relatively preserved. The estimated cardiac index is depressed (<2.0L/min/m2). No masses or thrombi are seen in the left ventricle. Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg). The right ventricular cavity is mildly dilated with moderate global free wall hypokinesis. Tricuspid annular plane systolic excursion is depressed (1.4 cm) consistent with right ventricular systolic dysfunction. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve leaflets are structurally normal. Mild (1+) mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is high normal. There is a very small circumferential pericardial effusion. \nIMPRESSION: Normal left ventricular cavity size with severre global hypokinesis in a pattern most c/w a non-ischemic cardiomyopathy. Right ventricular cavity dilation with free wall hypokinesis. Mild mitral regurgitation. Increased PCWP. \n\ufeff\n"
+}

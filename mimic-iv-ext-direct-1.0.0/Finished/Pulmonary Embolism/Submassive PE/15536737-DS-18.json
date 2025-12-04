@@ -1,0 +1,50 @@
+{
+    "Submassive PE$Intermedia_4": {
+        "Despite RV abnormalities, the patient is hemodynamically stable. Excludes massive PE$Cause_1": {
+            "hemodynamically stable$Input2": {}
+        },
+        "Impaired right ventricular function, a common sign of increased pressure and volume overload in pulmonary embolism$Cause_1": {
+            "right ventricular cavity is mildly dilated with mild global free wall hypokinesis$Input6": {}
+        },
+        "The right ventricle is exposed to abnormal pressure and volume loads, often associated with pulmonary hypertension.$Cause_1": {
+            "abnormal septal motion/position consistent with right ventricular pressure/volume overload$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Bilateral pulmonary artery embolism. This is direct evidence for the diagnosis of pulmonary embolism.$Cause_1": {
+                "bilateral main pulmonary artery emboli$Input2": {}
+            },
+            "This is a possible direct consequence of a pulmonary embolism, indicating an abnormally high pressure within the pulmonary arteries.$Cause_1": {
+                "moderate pulmonary artery systolic hypertension$Input6": {}
+            },
+            "Multiple thrombi in the pulmonary artery branches are typical radiological manifestations of pulmonary embolism..$Cause_1": {
+                "numerous filling defects within the branches of the right pulmonary artery$Input6": {}
+            },
+            "Deep vein thrombosis (DVT) of the lower extremities, which is a common cause of pulmonary embolism.$Cause_1": {
+                "left popliteal vein is not compressible and is partially occluded by echogenic thrombus$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "High blood pressure increases the risk of pulmonary embolism$Cause_1": {
+                    "history of HTN$Input2": {}
+                },
+                "Acute shortness of breath is a manifestation of pulmonary embolism$Cause_1": {
+                    "acute shortness of breath$Input2": {}
+                },
+                "The patient has worsening dyspnea and dizziness, which indicates that cardiopulmonary function may be affected. This is a manifestation of pulmonary embolism.$Cause_1": {
+                    "worsening dyspnea with associated light-headedness$Input2": {}
+                },
+                "Long-haul flights are a known risk factor for deep vein thrombosis, which can lead to pulmonary embolism.$Cause_1": {
+                    "long distance flight$Input2": {}
+                },
+                "Unilateral lower limb edema is a typical symptom of deep vein thrombosis, and DVT is one of the main sources of pulmonary embolism.$Cause_1": {
+                    "lower extremity edema on left leg to level of tibia$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "He with a background history of HTN, who presented with acute shortness of breath on a background of sub-acute dyspnea for several days, found to have bilateral main pulmonary artery emboli, now being transferred for possible thrombolysis.\n\ufeff\nThe patient is hemodynamically stable. Patient reports a week long history of progressive shortness of breath. When he was climbing stairs, he experienced worsening dyspnea with associated light-headedness. Denies chest pain, pre-syncope or syncope. This resolved with rest, with no recurrence of same. Breathing has worsened over the subsequent days, to the point he shortness of breath at rest. Awoke this morning with acute shortness of breath and decided to attend for evaluation of same.\n\ufeff\nOf note, patient with long distance flight ~ 5 weeks ago.\n\ufeff\nRecently started on azithromycin for a reported positive strep test, due to complete a five day course. He attended, where he had a CXR which was negative and a normal EKG. \n\ufeff\n",
+    "input3": "+ Coronaries: unknown  \n+ Pump: unknown  \n+ Rhythm: NSR \n\n\ufeff\n",
+    "input4": "No family history of blood clots.\n",
+    "input5": "Physical Exam:\n===============================\nADMISSION PHYSICAL EXAMINATION:\n===============================\nVS: T 97.9  HR 80  BP 120/105  RR 23  SaO2 95% 2L N/C  \nGENERAL: lying comfortably in bed, no apparent distress\nHEENT: NT/AC, no conjunctival, anicteric sclera, MMM \nNECK: supple, JVD does not appear elevated but difficult to assess \nCV: RRR, S1 and S2 normal, no murmurs/rubs/gallops\nRESP: CTAB, no wheeze/crackles, breathing comfortably without use of accessory muscles of respiration \nsoft, non-tender, no distention greater than baseline, no organomegaly, BS normoactive \nEXTREMITIES: warm, well perfused, no cyanosis, 1+ lower extremity edema on left leg to level of tibia\nSKIN: no significant skin lesions or rashes \nPULSES: distal pulses palpable and symmetric\nNEURO: A/O x3, CN II-XII intact, strength in all extremities, sensation intact  \n\ufeff\n",
+    "input6": "===============\nADMISSION LABS:\n===============\n___ WBC-10.0 RBC-4.79 Hgb-13.9 Hct-40.9 MCV-85 MCH-29.0 MCHC-34.0 RDW-13.1 RDWSD-40.3\n___ Neuts-56.4  Monos-7.3 Eos-2.8 Baso-0.2 Im \n___ AbsNeut-5.65 AbsLymp-3.30 AbsMono-0.73 AbsEos-0.28 AbsBaso-0.02\n___ PTT-60.4* \n___ Glucose-83 UreaN-14 Creat-1.0 Na-143 K-4.8 Cl-103 HCO3-24 AnGap-16\n___ ALT-48* AST-39 LD(LDH)-435* AlkPhos-93 TotBili-0.8\n___ Calcium-9.3 Phos-4.5 Mg-2.1\n___ 07:00PM CK-MB-5 cTropnT-<0.01\n\ufeff\n================\nIMAGING/REPORTS:\n================\nTTE\nThe left atrial volume index is normal. Left ventricular wall thicknesses and cavity size are normal. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Overall left ventricular systolic function is low normal. Quantitative (biplane) LVEF = 49 %. The right ventricular cavity is mildly dilated with mild global free wall hypokinesis. There is abnormal septal motion/position consistent with right ventricular pressure/volume overload. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve appears structurally normal with trivial mitral regurgitation. There is moderate pulmonary artery systolic hypertension. There is an anterior space which most likely represents a prominent fat pad. \n\ufeff\nBILATERAL LOWER EXTREMITY VENOUS DOPPLER US\nThere is normal compressibility, flow, and augmentation of the bilateral common femoral and femoral veins.  There is normal color flow in the right posterior tibial and peroneal veins. The left popliteal vein is not compressible and is partially occluded by echogenic thrombus. However, there is normal color flow in the left posterior tibial veins. The left peroneal veins are not visualized. There is normal respiratory variation in the common \nfemoral veins bilaterally. No evidence of medial popliteal fossa cyst. \n\ufeff\nPULMONARY ARTERIOGRAM\nLeft pulmonary arteriogram demonstrates numerous filling defects within the branches of the left pulmonary artery consistent with findings on prior CTA chest. Right pulmonary arteriogram demonstrates numerous filling defects within the branches of the right pulmonary artery consistent with findings on prior CTA chest. Final fluoroscopic image of the chest demonstrate appropriate placement of the bilateral EKOS catheters. \n\ufeff\n"
+}

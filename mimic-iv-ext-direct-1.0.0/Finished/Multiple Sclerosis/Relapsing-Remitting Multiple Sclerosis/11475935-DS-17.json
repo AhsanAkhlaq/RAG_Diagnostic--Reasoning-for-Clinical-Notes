@@ -1,0 +1,50 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "The condition has distinct attacks (relapses) and remission periods$Cause_1": {
+            "In the ED he said his symptoms had subsided and his condition had returned to a stable state. He said similar situations had happened before.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "This describes multiple bilateral round and oval T2/FLAIR hyperintense white matter lesions located in the subcortical and periventricular white matter as well as in the posterior fossa and brainstem, which are most likely manifestations of a demyelinating process.$Cause_1": {
+                "Multiple T2/STIR hyperintense lesions within the cervical and thoracic spinal cord, compatible with a demyelinating process.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Blurred vision, especially in one eye, is a common symptom of RRMS.$Cause_1": {
+                    "Blurry vision in the left eye$Input1": {}
+                },
+                "Vision problems are a common symptom of RRMS and may be related to optic neuritis$Cause_1": {
+                    "blurry vision on left eye for 1 week$Input2": {}
+                },
+                "People with RRMS may experience problems with motor coordination and changes in gait, possibly due to neuropathy in the brain and spinal cord that affects motor control.$Cause_1": {
+                    "been unsteady; he is not falling down but he noticed a significant change in his gait$Input2": {}
+                },
+                "Patients may experience impaired balance or muscle control, which may also be caused by lesions in the central nervous system.$Cause_1": {
+                    "tends to lean towards the right side$Input2": {}
+                },
+                "The symptoms of MS may gradually accumulate damage in the long term, affecting daily function and work ability.$Cause_1": {
+                    "his gait issues have been slowly getting worse and that he lost his job$Input2": {}
+                },
+                "A general feeling of weakness and difficulty climbing stairs compared to descending them may reflect decreased strength and coordination$Cause_1": {
+                    "feels generalized weakness. He has more difficulty with climbimg up stairs tahn going down$Input2": {}
+                },
+                "Facial muscle weakness and flattening of the nasolabial folds suggest left upper motor neuron damage, which may be due to damage to nerve fibers in the cerebrum or brainstem.$Cause_1": {
+                    "Left  UMN facial weakness with flattened nasolabial fold$Input5": {}
+                },
+                "Internal rotation deviation of the arm and forearm indicates impaired coordination of the upper limb muscles and is a manifestation of central nervous system dysfunction.$Cause_1": {
+                    "He has a left pronator drift$Input5": {}
+                },
+                "Mild dyscoliasis and slowed finger tapping during the finger-to-nose test suggest possible damage to the cerebellum or its connecting pathways.$Cause_1": {
+                    "mild dysmetria on both hands on finger to nose, slowed finger tapping$Input5": {}
+                },
+                "A wide-based gait and slight instability suggest impaired balance and coordination, which are common in people with MS$Cause_1": {
+                    "Wide based, mildly unsteady to the sides$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Blurry vision in the left eye\n",
+    "input2": "M with PMH of DM type 2 and sickle cell trait who presents with unsteadinness over the past 5 months and blurry vision on left eye for 1 week with temporal headache. Patient reports that he has been unsteady; he is not falling down but he noticed a significant change in his gait. He says he tends to lean towards the right side. He denies any focal weakness but feels generalized weakness. He has more difficulty with climbimg up stairs tahn going down. He also noticed he has been more clumsy with his hands but he denies weakness; he can hold objects without problems. He thinks his gait issues have been slowly getting worse and that he lost his job because of his condition. He reports that 1 week ago he woke up with a left temporal headache, throbbing with no photo or phonophobia or nausea alongwith blurry vision on left eye (he did close one eye at a time). He usually does not have headaches and this one lasted for about 3 days. His vision did not improve. He was seen by Opththalmology yesterday abnormality was found that would explain his blurry vision (formal note is pending). He comes to ER today for neurologic evaluation. He denies urinary or bowel incontinence. In the ED he said his symptoms had subsided and his condition had returned to a stable state. He said similar situations had happened before.\n\n",
+    "input3": "+Type 2 diabetes (his DM type 2 is thought to have been induced by steroids use for severe asthma during adolescence)\n+childhood asthma\n",
+    "input4": "Significant with mother and younger sister with asthma. Mother has DM type 2 and father has HTN. No hx of ataxia in the family.\n",
+    "input5": "Physical Exam:\nT-98.7 BP-130/79 HR-87RR-18 99O2Sat\nGen: Lying in bed, NAD\nHEENT: NC/AT, moist oral mucosa   \nNeck: No tenderness to palpation, normal ROM, supple, no carotid or vertebral bruit\nBack: No point tenderness or erythema\nCV: RRR, Nl S1 and S2, no murmurs/gallops/rubs \nLung: Clear to auscultation bilaterally \naBd: +BS soft, nontender ext: no edema\n\ufeff\nNeurologic examination: \nMental status: Awake and alert, cooperative with exam, normal affect.  Oriented to person, place, and date.  Attentive, says backwards.  Speech is fluent with normal comprehension and repetition; naming intact. No dysarthria. Reading and writing intact.  Registers, recalls in 5 minutes.  No right left confusion. No evidence of apraxia or neglect.\n \nCranial Nerves:  \nPupils equally round and reactive to light, 4 to 2 mm bilaterally. Visual fields are full to confrontation. left eye R eye. Fundi was normal. Extraocular movements intact bilaterally, no nystagmus. Sensation intact V1-V3.Left  UMN facial weakness with flattened nasolabial fold.  Hearing intact to finger rub bilaterally.  Palate elevation symmetrical.  Sternocleidomastoid and trapezius normal bilaterally. Tongue midline, movements intact\n \nMotor: \nNormal bulk bilaterally. Increased tone in both legs. No observed myoclonus or tremor He has a left pronator drift\nDel Tri Bi  WF WE FE FF  IP  H  Q DF PF TE TF\nR  5   5-\nL  5   5- \n\ufeff\nSensation: Intact to light touch, pinprick, vibration and proprioception throughout. No extinction to DSS. \n\ufeff\nReflexes: B T Br Pa Pl \nRight     1  1 \nLeft      1  1  \nToes were downgoing bilaterally. \n\ufeff\nCoordination: mild dysmetria on both hands on finger to nose, slowed finger tapping\n\ufeff\nGait: Wide based, mildly unsteady to the sides (did not to any side)\n\ufeff\nRomberg: Negative\n\ufeff\n",
+    "input6": "___ 05:45PM   HIV Ab-NEGATIVE\n___ 05:36PM URINE  COLOR-Yellow APPEAR-Clear\n___ 05:36PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-1 PH-7.0 LEUK-NEG\n___ 08:40AM   dsDNA-NEGATIVE\n___ 08:40AM   I-HOS-DONE\n___ 08:40AM   SED RATE-5\n___ 12:35AM   GLUCOSE-101 UREA N-13 CREAT-0.7 SODIUM-139 POTASSIUM-4.4 CHLORIDE-106 TOTAL CO2-21* ANION GAP-16\n___ 12:35AM   estGFR-Using this\n___ 12:35AM   CALCIUM-9.4 PHOSPHATE-4.5 MAGNESIUM-2.2\n___ 12:35AM   CRP-0.2\n___ 12:35AM   WBC-6.6 RBC-3.92* HGB-12.6* HCT-35.5* MCV-91 MCH-32.1* MCHC-35.4* RDW-12.7\n___ 12:35AM   NEUTS-58.6 MONOS-4.8 EOS-2.0 BASOS-0.2\n___ 12:35AM   PLT COUNT-289\n___ 12:35AM   PTT-27.8\n\ufeff\nMultiple T2/STIR hyperintense lesions within the cervical and thoracic spinal cord, compatible with a demyelinating process. \n"
+}

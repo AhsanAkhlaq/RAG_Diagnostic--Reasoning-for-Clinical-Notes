@@ -1,0 +1,44 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "The condition has distinct attacks (relapses) and remission periods$Cause_1": {
+            "She reports having vertigo once before (years ago). She was prescribed meclizine, which helped. Her symptoms resolved in a few days.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "Multiple enhancing lesions suggested active demyelination, and one also showed slowed diffusion, suggestive of an ongoing demyelinating process.$Cause_1": {
+                "There are multiple enhancing lesions indicating active demyelination, one of which also demonstrates slow diffusion.\n\ufeff$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Inflammation or changes caused by MS may affect these nerve pathways that control balance, causing vertigo.$Cause_1": {
+                    "vertigo$Input1": {}
+                },
+                "MS may cause inflammatory responses in the nervous system, affecting the nerve pathways that control balance, leading to vertigo.$Cause_1": {
+                    "profoundly vertiginous (described as room spinning around her)$Input2": {}
+                },
+                "This symptom suggests that the patient's nervous system is overreacting to movement, which may be related to the nerve damage in MS.$Cause_1": {
+                    "Vertigo is exacerbated by any kind of movement of her body or head$Input2": {}
+                },
+                "Teriflunomide is a drug used to treat MS, which suggests that doctors suspected she might have MS and planned to treat her with the drug.$Cause_1": {
+                    "planned to start on teriflunomide$Input2": {}
+                },
+                "MS can affect the central nervous system, leading to decreased muscle control and coordination, which in turn affects gait.$Cause_1": {
+                    "Her gait is very unsteady.$Input2": {}
+                },
+                "Nystagmus is a common symptom in MS, especially when the gaze is turned to one side.$Cause_1": {
+                    "Left-beating nystagmus on left gaze$Input5": {}
+                },
+                "Intention tremor and dyscoordination are typical movement disorders in MS, suggesting that the cerebellum or its pathways may be damaged.$Cause_1": {
+                    "Mild intention tremor bilaterally.$Input5": {}
+                },
+                "These symptoms may indicate impaired central nervous system control of balance and coordination, which is common in MS.$Cause_1": {
+                    "Very unsteady. Falls to the right when standing or attempting stride. Vomits several times after standing up.$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "vertigo\n",
+    "input2": "Patient was feeling well until this morning. She went to bed at 9:45pm and awoke at 6AM. Upon awakening she was profoundly vertiginous (described as room spinning around her). Vertigo is exacerbated by any kind of movement of her body or head. Her gait is very unsteady. She needs to hold onto furniture/walls to ambulate. She denies headache, new sensory or motor symptoms, vision changes. She had chills yesterday, but denies specific infectious symptoms. She has no ear fullness or change in hearing. \n\ufeff\nShe reports having vertigo once before (years ago). She was prescribed meclizine, which helped. Her symptoms resolved in a few days. \n\ufeff\nShe most recently saw Dr in clinic. At  that time, he had planned to start on teriflunomide; however, she has not yet started taking this medication. \n\ufeff\nOn neurologic ROS, the pt denies headache, loss of vision, blurred vision, diplopia, dysarthria, dysphagia, lightheadedness, tinnitus or hearing difficulty. Denies difficulties producing or comprehending speech.  Denies focal weakness, numbness, parasthesiae. No bowel or bladder incontinence or retention. \n\ufeff\nOn general review of systems, the pt denies recent fever.  No night sweats or recent weight loss or gain. Denies cough, shortness of breath.  Denies chest pain or tightness, palpitations.  Denies diarrhea, constipation or abdominal pain. No recent change in bowel or bladder habits.  No dysuria.  Denies arthralgias or myalgias. Denies rash.\n\ufeff\n",
+    "input3": "+ Asthma \n+ Lactose intolerance\n+ Ovarian cyst s/p removal\n+ Back Pain \n+ Dysmenorrhea \n+ Lymphocytic colitis, controlled constipation  \n+ IBS (irritable bowel syndrome)  \n+ Postpartum hemorrhage \n\ufeff\n",
+    "input4": "3 aunts with lupus uncle: DVT, Maternal grandmother: \"epileptic\"\n",
+    "input5": "Physical Exam:\nAdmission Physical Exam\n\ufeff\nVitals: T36, HR 96, BP 122/80, 99% RA  \nGeneral: Awake, cooperative, NAD.\nHEENT: No scleral icterus noted, MMM, no lesions noted in oropharynx\nNeck: Supple, no nuchal rigidity\nPulmonary: Non-labored breathing on ambient air \nCardiac: RRR, no MRG. \nAbdomen: Soft, NT/ND, no masses or organomegaly noted.\nExtremities: Warm, well-perfused, no cyanosis, clubbing or edema bilaterally\nSkin: no rashes or lesions noted.\n\ufeff\nNEUROLOGIC:\n-----------\n-Mental Status: \nOriented to date and location. Able backwards. Recalls objects at 3 minutes. Speech is articulate, fluent, and no errors. \n\ufeff\n-Cranial Nerves:\nI: Olfaction not tested.\nII: PERRL 3 to 2mm and brisk. VFF to confrontation. Fundoscopic exam deferred due to severe discomfort. \nIII, IV, VI: Full range, conjugate gaze. Left-beating nystagmus on left gaze. No nystagmus in primary position. No vertical nystagmus. No skew deviation. Cannot tolerate head impulse test. \n\ufeff\nV: Facial sensation intact to light touch.\nVII: No facial droop, facial musculature symmetric.\nVIII: Hearing intact to finger-rub bilaterally.\nIX, X: Palate elevates symmetrically.\nXI: strength in trapezii and SCM bilaterally.\nXII: Tongue protrudes in midline.\n\ufeff\n-Motor: \nNormal bulk, tone throughout. No pronator drift bilaterally.\nNo adventitious movements, such as tremor, noted. No asterixis noted.\nDelt Bic Tri WrE FFl  FE  IO  IP   Quad  Ham TA   ___\nL  5    ___   5    ___     5    5   5      5     5\nR  5    ___   5    ___-    5    5   5      5     5\nOf note, patient was quite uncomfortable, so the motor exam was not reliable. Given these limitations, I could not appreciate significant focal weakness. \n\ufeff\n-Sensory: \nNo deficits to light touch, pinprick.\n\ufeff\n-Reflexes:\nBi Tri ___ Pat Ach\nL  2  2    2    2   1\nR  2  2    2    2   1\nPatellar reflexes slightly brisk bilaterally, with +suprapatellar but no crossed adductors. \n\ufeff\nPlantar response was flexor bilaterally.\n\ufeff\n-Coordination: \nMild intention tremor bilaterally. No dysmetria. There is slight dysdiadochokinesia of the RUE. \n\ufeff\n-Gait: \nVery unsteady. Falls to the right when standing or attempting stride. Vomits several times after standing up. \n\ufeff\n",
+    "input6": "___ 11:52AM   %HbA1c-5.3 eAG-105\n___ 11:52AM   WBC-11.1* RBC-4.63 HGB-12.2 HCT-39.3 MCV-85 MCH-26.3 MCHC-31.0* RDW-15.4 RDWSD-46.9*\n___ 11:52AM   NEUTS-88.8* LYMPHS-7.8* MONOS-2.5* EOS-0.1* BASOS-0.3 AbsNeut-9.86* AbsLymp-0.86* AbsMono-0.28 AbsEos-0.01* AbsBaso-0.03\n___ 11:52AM   PLT COUNT-213\n___ 10:30AM   GLUCOSE-108* UREA N-9 CREAT-0.6 SODIUM-138 POTASSIUM-4.1 CHLORIDE-104 TOTAL CO2-20* ANION GAP-14\n___ 10:30AM   estGFR-Using this\n___ 10:30AM   ALT(SGPT)-20 AST(SGOT)-20 ALK PHOS-99 TOT BILI-0.2\n___ 10:30AM   LIPASE-23\n___ 10:30AM   cTropnT-<0.01\n___ 10:30AM   ALBUMIN-4.6 CALCIUM-9.3 PHOSPHATE-2.1* MAGNESIUM-1.6\n___ 10:30AM   HCG-<5\n___ 10:30AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG tricyclic-NEG\n___ 10:30AM   PTT-26.2\n\nThere are multiple enhancing lesions indicating active demyelination, one of which also demonstrates slow diffusion.\n\ufeff\n"
+}

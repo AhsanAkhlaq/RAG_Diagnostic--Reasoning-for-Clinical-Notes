@@ -1,0 +1,55 @@
+{
+    "NSTE-ACS$Intermedia_4": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "cTropnT-5.97*$Input6": {}
+        },
+        "Cardiac structural abnormalities is a sigh of ACS.$Cause_1": {
+            "The LAD had a ___ mid vessel stenosis. The Cx had a 100% mid vessel thrombotic occlusion. The RCA had a mid vessel stenosis.$Input6": {}
+        },
+        "Cardiac structural abnormalities is a sigh of ACS$Cause_1": {
+            "Overall left ventricular systolic function is severely depressed (LVEF= 15X %). with depressed free wall contractility. The number of aortic valve leaflets cannot be determined. The aortic valve leaflets are moderately thickened. The mitral valve leaflets are structurally normal. Moderate to severe (3+) mitral regurgitation is seen. There is a trivial/physiologic pericardial effusion.$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "history of HTN, dCHF, severe AS, HLD ARE risk factors$Cause_1": {
+                "Female with history of HTN, dCHF, severe AS, HLD$Input2": {}
+            },
+            "HTN is the risk fact for ACS$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "Severe AS is the risk fact for ACS$Cause_1": {
+                "Severe AS$Input3": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "More severe clinical presentations of acs$Cause_1": {
+                "She felt exhausted and lightheaded and also had some diarrhea last night. Also noticed some numbness in her right leg whihc comes and goes$Input2": {}
+            },
+            "EKG changes are sign of ACS$Cause_1": {
+                "Was found to have EKG changes.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "history of HTN, dCHF, severe AS, HLD ARE risk factors$Cause_1": {
+                    "Female with history of HTN, dCHF, severe AS, HLD$Input2": {}
+                },
+                "HTN is the risk fact for ACS$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "Severe AS is the risk fact for ACS$Cause_1": {
+                    "Severe AS$Input3": {}
+                }
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "Female with history of HTN, dCHF, severe AS, HLD who presented initially with complaint of chest pressure anteriorly. She described it as substernal, constant since last night. She felt exhausted and lightheaded and also had some diarrhea last night. Also noticed some numbness in her right leg whihc comes and goes. Was found to have EKG changes.  She had no prior cardiac history.  Had been seen last week at ED and ruled out with -ve sets after \"strained muscle in her chest moving her arm\". A CTA of the chest showed mild emphysema, but no evidence of PE.  \n\nInitial VS were 97.8, HR 109, BP 121/84, RR 22, 02 sat 78% and pain. In ED she was noted to have an o2 sat of 80% and was lightheaded. Found to be guaiac positive. She got ASA and was started on a heaprin gtt (w/o bolus). IN cath lab,  they went in through the lt radial huge and found a thrombus in lcx, mild right disease. She got 600 plavix after cath, bival, bms in lcx, and had a hematoma in lt radial. Transferred to CCU after procedure.\n",
+    "input3": "+HTN\n+HL\n+dCHF\n+Severe AS\n+GERD\n+Osteoprosis: Pseudoclaudication, likely because of spinal stenosis, history of falls and shoulder injury, s/p ORIF right patellar fracture\n",
+    "input4": "non-contributory\n",
+    "input5": "On transfer to CCU\nVS: 98.4, 103, 131/87, 19, 90% on NRB\nGENERAL: NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were \npink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \n\nCARDIAC: PMI located in intercostal space, midclavicular line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.  \nEXTREMITIES: No c/c/e. No femoral bruits.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas. \nNEURO: AAOx3, CNII-XII intact, strength biceps, triceps, wrist, knee/hip flexors/extensors, 2+ reflexes biceps, brachioradialis, patellar, ankle. \nPULSES:  \nRight: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+   \nLeft: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+\n",
+    "input6": "___ 05:22PM BLOOD CK(CPK)-___*\n___ 05:22PM BLOOD CK-MB-114* MB Indx-6.2* cTropnT-5.97*\n\nCardiac Cath\n1. Selective coronary angiography in this right dominant systemdemonstrated one vessel disease. The LMCA had noangiographically apparent disease. The LAD had a ___ mid vessel stenosis. The Cx had a 100% mid vessel thrombotic occlusion. The RCA had a mid vessel stenosis. \n\n2. Limited resting hemodynamics revealed a central aortic pressure of 132.86 mmHg. \n\n3. Successful PTCA and stenting of the mid Cx with a 2.25x8mm INTEGRITY stent which was postdilated to 2.75mm. Final angiography revealed no residual stenosis, no angiographically apparent dissection and TIMI II to III flow. \n  \nBedside TTE\nOverall left ventricular systolic function is severely depressed (LVEF= 15X %). with depressed free wall contractility. The number of aortic valve leaflets cannot be determined. The aortic valve leaflets are moderately thickened. The mitral valve leaflets are structurally normal. Moderate to severe (3+) mitral regurgitation is seen. There is a trivial/physiologic pericardial effusion. \n\nCXR (___)\nWide spread bilateral dense reticular opacities with relative left lower lung and right mid lung sparing, likely representing flash pulmonary edema due to acute cardiac decompensation in the setting of ischemia/infarct.\n"
+}

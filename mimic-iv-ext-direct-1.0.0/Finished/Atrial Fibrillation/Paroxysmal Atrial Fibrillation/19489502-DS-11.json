@@ -1,0 +1,36 @@
+{
+    "Paroxysmal Atrial Fibrillation$Intermedia_3": {
+        "Paroxysmal atrial fibrillation is characterized by symptoms that resolve spontaneously or are relieved by medical intervention$Cause_1": {
+            "entire episode lasted 15 minutes and his symptoms gradually started to go away$Input2": {}
+        },
+        "Rapid heart rate is typical of atrial fibrillation$Cause_1": {
+            "EMS found him to be in rapid afib$Input2": {}
+        },
+        "Absence of P waves is one of the typical features of atrial fibrillation$Cause_1": {
+            "ECG:No P wave$Input6": {}
+        },
+        "Suspected Atrial Fibrillation$Intermedia_2": {
+            "Palpitations, the feeling of an abnormal heartbeat, are one of the common symptoms of AF$Cause_1": {
+                "palpitations$Input1": {}
+            },
+            "Palpitations are a common symptom of paroxysmal atrial fibrillation$Cause_1": {
+                "started to feel chest pressure/palpitations$Input2": {}
+            },
+            "Dizziness may be caused by an irregular heartbeat that causes erratic blood flow to the brain$Cause_1": {
+                "slightly dizzy$Input2": {}
+            },
+            "Hyperlipidemia is a factor in atrial fibrillation$Cause_1": {
+                "Dyslipidemia$Input3": {}
+            },
+            "This may be a symptom of atrial fibrillation$Cause_1": {
+                "Irregular Irregular$Input5": {}
+            }
+        }
+    },
+    "input1": "palpitations\n",
+    "input2": "This 63 year old man with no cardiac history, BPH and GERD was transferred to our facility transferred with a.fib with RVR (initially on a dilt gtt) from OSH. This morning, the patient got up to go urinate, and suddently at 1 am started to feel chest pressure/palpitations, complained of difficulty swallowing, and tingling of left arm. He called out to his daughter (who lives upstairs). The patient reports the feeling of not being able to swallow, but denied overt chest pain. He felt slightly dizzy but denies LOC. He states that the entire episode lasted 15 minutes and his symptoms gradually started to go away, but resolved completely upon administration of medicines at OSH. EMS found him to be in rapid afib. He was taken at rapid a.fib to 140's got 20 IV dilt, 10 IV dilt, then dilt gtt. EKG showed some ST dep. CP resolved with rate control. Gave ASS 325 and neg trop.\n\n\n",
+    "input3": "+Dyslipidemia\n+BPH\n+GERD\n+Bilateral Eye surgery\n",
+    "input4": "Father died of MI. One brother - well, one brother died with alcoholism and prostate cancer. Two sisters one with a lung problem.\n",
+    "input5": "VS: ___\nGENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.\nHEENT: NCAT. Sclera anicteric. Pupils unreactive (bilateral surgery) Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  Missing all teeth. \nNECK: Supple with no JVD.  \nCARDIAC: Irregular Irregular, S1, S2. no murmurs appreciated. \nLUNGS: Mild crackles at bases, no rales or ronchi.\nABDOMEN: Soft, NTND. \nEXTREMITIES: No c/c/e. No femoral bruits.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES:  \nRight:  Popliteal 1+ DP 1+ \nLeft: Popliteal 1+ DP 1+\n",
+    "input6": "___ 05:35AM   ___ PTT-30.1 ___\n___ 05:35AM   PLT COUNT-253\n___ 05:35AM   NEUTS-61.7 ___ MONOS-4.5 EOS-2.5 BASOS-0.5\n___ 05:35AM   WBC-5.7 RBC-3.66* HGB-11.4* HCT-33.6* MCV-92 MCH-31.1 MCHC-33.9 RDW-14.3\n___ 05:35AM   TSH-2.3\n___ 05:35AM   CALCIUM-8.5 PHOSPHATE-4.0 MAGNESIUM-2.1\n___ 05:35AM   proBNP-635\n___ 05:35AM   cTropnT-0.04*\n___ 05:35AM   estGFR-Using this\n___ 05:35AM   GLUCOSE-114* UREA N-22* CREAT-1.1 SODIUM-140 POTASSIUM-4.1 CHLORIDE-106 TOTAL CO2-26 ANION GAP-12\n___ 12:45PM   CK(CPK)-51\n___ 12:45PM   CK(CPK)-51\n\nECG:No P wave\n"
+}

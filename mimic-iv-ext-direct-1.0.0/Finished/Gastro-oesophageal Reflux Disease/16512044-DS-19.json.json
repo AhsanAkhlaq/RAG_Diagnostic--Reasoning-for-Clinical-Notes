@@ -1,0 +1,18 @@
+{
+    "gastro-oesophageal reflux disease$Intermedia_3": {
+        "Oesophagitis\uff08LA grades B\uff09 is the gold standard for the diagnosis of gastro-oesophageal reflux \rdisease.$Cause_1": {
+            "endoscopy\uff1aoesophagitis\uff08LA grades B\uff09 chronic gastritis$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux disease$Intermedia_2": {
+            "Heartburn is a typical symptom of gastro-oesophageal reflux \rdisease$Cause_1": {
+                "The patient has heartburn.$Input2": {}
+            }
+        }
+    },
+    "input1": "Hiatal Hernia\n",
+    "input2": "The patient saw Dr. in the office today in surgical consultation for a question of a hiatal hernia.  He is a man who has had worsening symptoms over the past year despite several adjustments of medical therapy.  The patient has heartburn.  There is pain at night, is sometimes relieved by Maalox and saltine crackers.\n",
+    "input3": "+ALLERGY to penicillin\n",
+    "input4": "Family history is negative for cancer or heart disease.\n",
+    "input5": "Well-developed gentleman who is 6 feet 1 inch tall and weighs 240 pounds.  Head, eyes, ears, nose, and throat are normal.  The neck is supple, without mass, nodes, or thyromegaly.  Chest is clear to percussion and auscultation.  Heart sounds are regular without murmurs or gallops.  The abdomen is soft without tenderness, mass, or organomegaly.  His incisions without erythema.  Dressings are clean dry and intact.  Extremities are without cyanosis, clubbing, or edema.  He is neurologically intact.\n",
+    "input6": "11:57AM BLOOD Mg-2.0\n11:57AM BLOOD Na-142 K-4.3 Cl-108\n11:57AM BLOOD Hct-44.RIEF HOSPITAL COURSE:\nendoscopy\uff1aoesophagitis\uff08LA grades B\uff09 chronic gastritis\n"
+}

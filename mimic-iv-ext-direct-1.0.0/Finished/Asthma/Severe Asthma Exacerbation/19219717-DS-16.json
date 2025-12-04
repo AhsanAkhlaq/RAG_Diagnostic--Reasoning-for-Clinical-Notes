@@ -1,0 +1,32 @@
+{
+    "Severe Asthma$Intermedia_4": {
+        "The criteria to diagnose Severe Asthma$Cause_1": {
+            "Doesn't respond well to conventional treatments$Input2": {}
+        },
+        "Asthma$Intermedia_3": {
+            "Significant improvement in FEV1 is often used to assess asthma patients' response to treatment and to diagnose asthma.$Cause_1": {
+                "significant improvement in FEV1 of more than 16%$Input6": {}
+            },
+            "Suspected Asthma$Intermedia_2": {
+                "Seizures is a common symptom of asthma$Cause_1": {
+                    "Seizures$Input1": {}
+                },
+                "Chest tightness is one of the common symptoms of asthma, which manifests as shortness of breath and a feeling of pressure in the chest.$Cause_1": {
+                    "chest tightness$Input2": {}
+                },
+                "Obesity can increase the risk of asthma because it may affect respiratory function and chronic inflammatory state.$Cause_1": {
+                    "morbid obesity$Input3": {}
+                },
+                "Obesity may be linked to asthma because it puts more strain on the respiratory system, leading to breathing problems.$Cause_1": {
+                    "cooperative obese female$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Seizures\n",
+    "input2": "She stated that she has been prescribed dilantin in past, but has not been complaint.  Patient has had multiple visits to the emergency deparment with complaints of chest pain, but has not had any acute pathology.  She presented for establishment of new PCP ___ and stated that she had acute LUE pain and was s/p seizure on ___. She complained of some chest tightness during her visit and was subsequently referred to the ER.\n.\nWhile in the ER, given her self reported history of PE, a CTA was obtained that was negative for PE, and had an EKG that showed non specific anterior precordial t wave inversions with no ST-T changes.  Patient also had a LUE ultrasound that was negative for a DVT.\n.\nUpon chart review, it appears that the patient's self reported medical conditions have been mostly unverified.  Records \nwererequested from ___ and ___.  ___ records do not show that the patient had a PE at their hospital as the patient reports. Doesn't respond well to conventional treatments\n",
+    "input3": "seizure disorder, s/p head injury ___ years ago\nmorbid obesity\n",
+    "input4": "mother has diabetes\nfather has hypertension\nCousin at age ___ died of sudden cardiac death while playing football\n",
+    "input5": "Vitals: 98.0, 130/90, 77, 20, 98%RA\nGeneral: Awake, cooperative obese female in NAD. \nHEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted inoropharynx. Horizontal nystagmus noted bilaterally.\nNeck: Supple, no JVD or carotid bruits appreciated. No nuchalrigidity \nPulmonary: Lungs CTA bilaterally without R/R/W \nCardiac: distant sounds RRR, nl. S1S2, II/VII Systolic flow \nmurmur at LUSB.\nAbdomen: obese soft, NT/ND, normoactive bowel sounds, no massesor organomegaly noted. \nExtremities: No C/C/E bilaterally, 2+ radial, DP pulses bilaterally. \nSkin: no rashes noted. Left forearm with 3inch healed scar from lacteration.  TTP LUE at anticubital fossa.  No fluctuation or induration noted.  \nNeuro: CN II/XII grossly intact, Horizontal nystagmus noted \nbilaterally.  ___ strength noted in all extremities.\n",
+    "input6": "CTA ___:  IMPRESSION:\n \n1. No central or segmental pulmonary embolus. Normal aorta.\n2. Lungs clear.\n.\nLUE U/S ___: INDICATION: ___ woman with swelling and pain over the left upper extremity forearm. \n.\nComparison: Internal jugular, subclavian, axillary, brachial, cephalic, and basilic veins were interrogated using grayscale, color, and Doppler ultrasounds. There is normal compressibility (where applicable), flow and augmentation. \n.\nIMPRESSION: No left upper extremity DVT. \n.\n___:\nNa 139, K 3.8, Cl 102, CO2 29, BUN/Cr ___, Glc 99\nSerum tox Negative\nPhenytoin level: 8.0\nCBC:  WBC 5.3, H/H 11.2/33.2, Plt 327, MCV 87\nINR 1.1, PTT 34.1, ___ 13.2\nUrine tox Negative\nUCG negative\nUA: Lg Bld and Rare Bact, otherwise negative.\n\nsignificant improvement in FEV1 of more than 16%\n\n"
+}

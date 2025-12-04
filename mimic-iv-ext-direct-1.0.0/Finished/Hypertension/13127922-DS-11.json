@@ -1,0 +1,21 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "VS:188/97$Input5": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "severe by blood pressures(175/85)$Input2": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Headache is a classic symptoms of Hypertension.$Cause_1": {
+                "Headache$Input1": {}
+            }
+        }
+    },
+    "input1": "Headache\n",
+    "input2": "He is a s/p spontaneous vaginal delivery following intrauterine fetal demise at 28 weeks gestational age. She was readmitted with superimposed pre-eclampsia, severe by blood pressures(175/85).\n",
+    "input3": "None\n",
+    "input4": "None\n",
+    "input5": "VS:188/97\nNeuro/Psych: NAD, Oriented x3, Affect Normal \nHeart: RRR\nLungs: nl respiratory effort\nAbdomen: soft, appropriately tender\nPelvis: minimal bleeding \nExtremities: warm and well perfused, no calf tenderness, no edema\n",
+    "input6": "___ 02:49PM BLOOD WBC-9.5 RBC-4.10 Hgb-12.5 Hct-36.2 MCV-88 MCH-30.5 MCHC-34.5 RDW-13.5 RDWSD-43.9\n___ 02:49PM BLOOD Creat-0.5\n___ 02:49PM BLOOD ALT-19 AST-22\n___ 02:49PM BLOOD UricAcd-5.2\n"
+}

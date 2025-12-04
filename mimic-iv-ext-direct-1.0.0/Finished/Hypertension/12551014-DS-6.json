@@ -1,0 +1,24 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "States BP at ED 167/92.$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "States BP at ED 167/92.$Input2": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Nausea is a symptom of Hypertension.$Cause_1": {
+                "nausea$Input2": {}
+            },
+            "Diabetes is a big risk factor of HP,which is generally accompanied by Hypertension.$Cause_1": {
+                "+Type 2 DM$Input3": {}
+            }
+        }
+    },
+    "input1": "Abdominal pain\n",
+    "input2": "He is with chronic pancreatitis, seen by Dr. C who returns to the ED with 3 days of progressive nonradiating burning epigastric abdominal pain that is worsened with eating and alleviated with Dilaudid. He also reports, nausea and some nonbloody vomiting, but denies fevers, chills, SOB, pleuritic pain, abdominal swelling, leg swelling, diarrhea, dysuria, hematuria. He reports that he's decreased his oral intake over the past few days, but denies NSAID use, recent viral infection, EtOH use. He does smoke 1 ppd for the past yrs. He reports that these symptoms are typical of a pancreatitis flare.  \n\nOf note, recent normal EUS in.  \n\nIn the ED he was treated with Zofran, Morphine 4 mg IV x 2, and NS.States BP at ED 167/92.\n",
+    "input3": "+Psoriasis  \n+Chronic Abdominal Pain  \n+Type 2 DM  \n+GERD  \n+Hyperlipidemia  \n+Vascular necrosis of the hip  \n+Atrial tachycardia\n",
+    "input4": "Not obtained.\n",
+    "input5": "Vitals - T:97.5 BP: 176/82 HR: 96 RR:18 02 sat: 97 RA  \nGENERAL: wincing, writing in bed, communicative  \nSKIN: diaphoretic, no lesions or rashes  \nHEENT: AT/NC, EOMI, PERRLA, anicteric sclera, pink conjunctiva, patent nares, MMM, good dentition, nontender supple neck, no LAD, no JVD  \nCARDIAC: tachycardic, S1/S2, no mrg  \nLUNG: good airmovement, slight expiratory wheezes in lower lung fields bilaterally  \nABDOMEN: nondistended, +BS, tenderness to palpation in epigastrium, no rebound/guarding, no hepatosplenomegaly  \nM/S: moving all extremities well, no cyanosis, clubbing or edema, no obvious deformities  \nPULSES: 2+ DP pulses bilaterally  \nNEURO: CN II-XII intact\n",
+    "input6": "___ 03:55PM BLOOD WBC-18.1*# RBC-5.36 Hgb-17.7 Hct-49.6 MCV-93 MCH-33.0* MCHC-35.7* RDW-13.3 Plt ___\n___ 03:55PM BLOOD Neuts-79.0* Lymphs-13.1* Monos-7.1 Eos-0.5 Baso-0.3\n___ 07:30AM BLOOD ___ PTT-28.8 ___\n___ 03:55PM BLOOD Glucose-174* UreaN-42* Creat-3.2*# Na-131* K-4.4 Cl-89* HCO3-25 AnGap-21*\n___ 07:05AM BLOOD Glucose-93 UreaN-11 Creat-0.7 Na-141 K-3.7 Cl-104 HCO3-27 AnGap-14\n___ 03:55PM BLOOD Lipase-39\n___ 07:05AM BLOOD Lipase-32\n___ 03:55PM BLOOD ALT-25 AlkPhos-62 TotBili-0.7\n\nMRCP with secretin \nIMPRESSION: \n1. Mild side branch dilatation in the pancreatic body and tail after secretin administration, consistent with mild chronic pancreatitis. \n2. Three tiny pancreatic cystic lesions, which may be sequela of prior pancreatitis or tiny side branch IPMNs. Followup MRI in six months could be performed to document stability. \n\nCXR\nIMPRESSION: No acute cardiopulmonary abnormality.\n"
+}

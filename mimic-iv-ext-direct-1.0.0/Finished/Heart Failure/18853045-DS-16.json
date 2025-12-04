@@ -1,0 +1,49 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 35-40 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Echocardiography indicated left ventricular systolic insufficiency, presenting as heart failure.$Cause_1": {
+                "Echo:There is severe symmetric left ventricular hypertrophy. Overall left ventricular systolic function is moderately depressed.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "NT-proBNP or pro-BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strongly suspected heart failure.$Cause_1": {
+                    "proBNP-8317$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Leg Swelling is a common symptom of fluid retention associated with heart failure.$Cause_1": {
+                        "Leg Swelling$Input1": {}
+                    },
+                    "Atrial fibrillation is the cause and triggering factor of heart failure.$Cause_1": {
+                        "pacemaker implantation$Input3": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Chronic renal insufficiency can induce heart failure.$Cause_1": {
+                        "Chronic renal insufficiency$Input3": {}
+                    },
+                    "Hyperlipidemia is a risk factor for heart failure.$Cause_1": {
+                        "Hyperlipidemia$Input3": {}
+                    },
+                    "Bibasilar crackles is a sign of pulmonary edema associated with heart failure.$Cause_1": {
+                        "bibasilar crackles$Input5": {}
+                    },
+                    "Edema to knees is sign of fluid retention associated with heart failure.$Cause_1": {
+                        "EXTREMITIES: edema to knees$Input5": {}
+                    },
+                    "With the exception of myocardial infarction, elevated troponin is indicative of heart failure-related myocardial damage.$Cause_1": {
+                        "cTropnT-0.30*$Input6": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Leg Swelling\n",
+    "input2": "He with sCHF (EF=40%, s/p biV pacer, CKD (baseline Cr 2.9), Afib not on coumadin, PPM who was sent in due to worsening of b/l edema. \n\ufeff\nThe patient has been managed with increasing doses of bumex recently however continues to have worsening swelling. DOE but denies CP or orthopnea. Also with progression of CKD. States that he has not had much icnreased UOP despite increasing diuretic dose. Does not know weight today but from OMR appears he weighed 148lb which is above his baseline of 142-145lb. He has complained about increasing DOE with only being able to climb single flight of stairs where he has previously been able to climb 2.5 flights.\n  \nIn the ED, initial vitals were 98.3 67 101/54 20 100%. Labs were notable for elevation of Cr to 3.4 above baseline of ~3. Anemia and leukopenia were at baseline. Patient was given 40mg IV lasix. VS prior to transfer were 98.0 74 114/72 18 95%. \n\ufeff\n",
+    "input3": "+ Recently diagnoses Afib on coumadin  \n+ clean coronaries on c.cath \n+ Hypertension  \n+ Chronic renal insufficiency  \n+ BPH  \n+ Hyperlipidemia  \n+ degenerative joint disease  \n+ pacemaker implantation , with a BiV upgrade  \n \n+ hx polypectomy clean colon \n\ufeff\n",
+    "input4": "Grandmother HTN, does not know anything about mother and father's health problems. Denies renal disease.\n",
+    "input5": "Physical Exam:\nUpon Admission:\n========================================\nVS: T=97.2 BP=93/58 HR=65 RR=20 O2 sat=99%  \nGENERAL:NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. No xanthalesma.  \nNECK: Supple with JVP of 12 cm.  \nCARDIAC: PMI located intercostal space, midclavicular line. RR, normal S1, split S2 with loud P2. II/VI SEM loudest thrills, lifts. No S3 or S4.  \nLUNGS: No chest wall deformities, +b/l bibasilar crackles, No wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominal bruits.  \nEXTREMITIES: edema to knees.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES:  \nRight: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+\nLeft: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+\n\ufeff\n",
+    "input6": "___ 03:35PM BLOOD WBC-2.8* RBC-2.76* Hgb-9.0* Hct-29.9* MCV-108* MCH-32.6* MCHC-30.2* RDW-18.6* \n___ 03:35PM BLOOD Glucose-119* UreaN-73* Creat-3.4* Na-144 K-4.3 Cl-104 HCO3-30 AnGap-14\n___ 08:20AM BLOOD Glucose-137* UreaN-83* Creat-3.3* Na-141 K-4.5 Cl-99 HCO3-29 AnGap-18\n___ 06:55AM BLOOD ALT-11 AST-18 CK(CPK)-57 AlkPhos-88 TotBili-0.5\n___ 02:05AM BLOOD CK-MB-3 cTropnT-0.30* proBNP-8317*\n\ufeff\nCXR: 1.  Mild pulmonary edema.  More confluent opacity at right lung base may be asymmetric pulmonary edema; however, infection cannot be excluded. 2.  New small right pleural effusion. \n\ufeff\nCXR: There is some engorgement of ill-defined pulmonary vessels, consistent with relatively mild elevation of pulmonary venous pressure.  Some basilar asymmetry with opacification on the right, could be a sign of developing consolidation in the appropriate clinical setting. \n\ufeff\nEcho:There is severe symmetric left ventricular hypertrophy. Overall left ventricular systolic function is moderately depressed (LVEF= 35-40 %). The right ventricular cavity is mildly dilated with mild global free wall hypokinesis. The ascending aorta is mildly dilated. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Mild to moderate aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Moderate to severe (3+) mitral regurgitation is seen. The tricuspid valve leaflets are mildly thickened. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion. \n\ufeff\nIMPRESSION: Severe symmetric LVH with global hypokinesis and inferolateral near-akinesis. Diastolic dysfunction likely present. Dilated and hypokinetric right ventricle. Moderate to severe mitral regurgitation. Mild to moderate aortic regurgitation.\n"
+}

@@ -1,0 +1,60 @@
+{
+    "Secondary Adrenal Insufficiency$Intermedia_3": {
+        "If cortisol levels respond normally to increases in ACTH, this usually indicates that the adrenal glands themselves are functioning normally and there may be a problem with the pituitary gland, resulting in secondary adrenal hormone insufficiency.$Cause_1": {
+            "Cortisol levels rise in response to ACTH administration.$Input6": {}
+        },
+        "Suspected Adrenal Insufficiency$Intermedia_2": {
+            "Adrenal insufficiency may be related to impaired renal function, because renal failure may lead to the accumulation of metabolites in the body, which in turn affects the synthesis and secretion of adrenal hormones. Acute exacerbation of chronic renal failure indicates long-term and ongoing worsening of the patient's kidney function problems$Cause_1": {
+                "Acute on chronic renal failure$Input1": {}
+            },
+            "Hypotension is one of the common symptoms of adrenal insufficiency because adrenocortical hormones are critical to maintaining stable blood pressure. When adrenocortical hormone secretion is insufficient, vasodilation may occur, resulting in hypotension.$Cause_1": {
+                "hypotension$Input1": {}
+            },
+            "Hypotension requiring treatment with norepinephrine may be due to adrenocortical insufficiency resulting in insufficient cortisol levels to maintain normal blood pressure$Cause_1": {
+                "hypotension requiring norepinephrine$Input2": {}
+            },
+            "Low blood pressure and a moderate heart rate may indicate abnormal cortisol levels in the body.$Cause_1": {
+                "Documented vitals 97.8 91/51 75 18 100%RA$Input2": {}
+            },
+            "Insufficient secretion of adrenal cortical hormones affects the water and electrolyte balance in the body$Cause_1": {
+                "Repeat electrolytes 10 hours later$Input2": {}
+            },
+            "Decreased urine output may be related to adrenal insufficiency because adrenal hormones regulate fluid balance$Cause_1": {
+                "he is able to recount making less urine than normal for the past 2 days$Input2": {}
+            },
+            "Insufficient adrenocortical hormones may lead to fluid retention, which can lead to edema$Cause_1": {
+                "He notes that his legs are much more swollen than normal$Input2": {}
+            },
+            "Having adrenal insufficiency in the past is a potential risk factor$Cause_1": {
+                "adrenal insufficiency$Input3": {}
+            },
+            "Hyperkalemia is a classic symptom of adrenal insufficiency because cortisol helps regulate electrolyte balance in the body$Cause_1": {
+                "hyperlipidemia$Input2": {}
+            },
+            "Severe COPD may lead to long-term use of corticosteroids, which may suppress adrenal function in the body.$Cause_1": {
+                "COPD stage IV$Input3": {}
+            },
+            "Adrenal insufficiency may lead to changes in fluid regulation and vascular responses, which may affect blood pressure stability$Cause_1": {
+                "158/114 (rechecked 96/41)$Input5": {}
+            },
+            "Chronic fatigue and low energy are common symptoms of adrenal insufficiency.$Cause_1": {
+                "Rouses appropriately to voice but intermittently falling asleep during interview, oriented, no acute distress$Input5": {}
+            },
+            "Altered mental status (e.g., reduced level of consciousness or impaired cognitive function) may be associated with chronic glucocorticoid deficiency.$Cause_1": {
+                "unable to participate in complete exam due to mental status$Input5": {}
+            },
+            "These electrolyte abnormalities may be related to adrenal insufficiency, especially insufficient secretion of adrenocortical hormones, which may lead to imbalance of electrolytes in the body.$Cause_1": {
+                "Na-126* K-7.0* Cl-87* HCO3-19* AnGap-20*$Input6": {}
+            },
+            "Elevated blood urea nitrogen (UreaN-90) and creatinine (Creat-4.0) indicate impaired renal function. Adrenal insufficiency may indirectly affect renal function because adrenocortical hormones play an important role in maintaining blood pressure and renal blood flow.$Cause_1": {
+                "Glucose-85 UreaN-90*$Input6": {}
+            }
+        }
+    },
+    "input1": "Acute on chronic renal failure, hypotension\n",
+    "input2": "He is with history of HFpEF (60% on TTE), hypertension, hyperlipidemia, DVT/PE on warfarin, CKD, disease s/p total colectomy, and abdominal surgical wound c/b enterocutaneous fistula, recent hospital admission including MICU stay for cellulitis/staph bacteremia and hemorrhagic shock in setting of gluteal hematoma now who now presents with acute on chronic kidney injury, hyperkalemia, hypotension requiring norepinephrine. He had no acute EKG changes felt to be related to hyperkalemia. Given his hypotension, he had a RIJ CVL placed in the ED to continue norepinephrine and was transferred to MICU for further management. In the ED, there was suspicion for cellulitlis given groin rash, and he was started on empiric vanc/zosyn. He received no potassium-lowering therapy.\n  \nIn ED initial VS:  per ED resident, SBP in 150s and on home O2. Documented vitals 97.8 91/51 75 18 100%RA\nExam:  none documented\nLabs significant for: \n\n___\n---------<85\n7.0/___/4.0\n\nCa 9.9 Mg 2.0 Phos 5.2\n14.4>10.1/32.1<706 MCV 99 with 66%N\nRepeat electrolytes 10 hours later, whole blood showed:\nNa 123, K 5.7, Cl 90 TCO2 20, Hgb 11.0\n\nEKG with sinus rhythm, normal axis/intervals, no acute ST elevations/depressions. T waves more pronounced that last ECG, however no severe peaking\n\nPatient was given:  Calcium gluconate, vancomycin, zosyn\n\nImaging notable for:  \nPortable CXR with mild cardiomegaly, trace bilateral effusions, no major change from CXR\n\nConsults:  none\nVS prior to transfer:  94/57 65 18 100%RA\n \nOn arrival to the MICU, he is able to recount making less urine than normal for the past 2 days. He is otherwise feeling fairly well, denying any recent lightheadedness/dizziness, fevers, chills, chest pain, dyspnea, abdominal pain, nausea, vomiting.  He notes that his legs are much more swollen than normal.\n",
+    "input3": " - HTN  \n - HLD  \n - c/b fistulae w/ abscess, s/p total colectomy and splenectomy with ileo-rectal anastomosis. Previously on Remicade and Humira, stopped due to anaphylaxis and recurrent pneumonias\n - Recurrent C. Diff\n - COPD stage IV  \n - Diastolic congestive heart failure  \n - DVT: in right popliteal vein & started on 6 months of coumadin; provoked DVT in RUE in secondary to a line.  Coumadin stopped s/p GI bleeding incident,  with PE prompting reinitiation of coumadin.  \n - Reactive arthritis  \n - OSA: on CPAP  \n - Obesity  \n - Depression  \n - Osteoarthritis \n - adrenal insufficiency\n",
+    "input4": "- Mother: CHF; DM; COPD; Angina; HTN\n- Father: ___ DM; stroke\n- GM: CAD; MI\n- Sister #1: DM, Depression\n- Sister #2: Depression; Psoriasis\n- Sister #3: COPD, Asthma\n- 3 sons and 1 daughter: healthy except one son has anal fissure \n- No family hx of IBD or colon cancer \n \n",
+    "input5": "VITALS:  158/114 (rechecked 96/41), 82 12 96%4L\nGENERAL: Rouses appropriately to voice but intermittently falling asleep during interview, oriented, no acute distress  \nHEENT: Sclera anicteric, MMM, oropharynx clear  \nNECK: supple, JVP difficult to assess given habitus, no LAD \nLUNGS: Distant breath sounds, minimal wheezing\nCV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, gallops (distant heart sounds)  \nABD: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly. 4cm enterocutaneous fistula with small brown residue, no purulent output. Ostomy with loose brown stool. \nEXT: 2+ pitting edema to bilateral thighs\nSKIN:  many areas of weeping and bullous edematous changes, see abd exam for fistula\nNEURO:  unable to participate in complete exam due to mental status\n",
+    "input6": "___ 08:34PM BLOOD WBC-14.4* RBC-3.24* Hgb-10.1* Hct-32.1* MCV-99* MCH-31.2 MCHC-31.5* RDW-15.7* RDWSD-56.3* Plt ___\n___ 08:34PM BLOOD Neuts-66.3 ___ Monos-6.0 Eos-2.9 Baso-0.9 NRBC-0.1* Im ___ AbsNeut-9.53* AbsLymp-3.14 AbsMono-0.86* AbsEos-0.42 AbsBaso-0.13*\n___ 03:15AM BLOOD ___ PTT-32.0 ___\n___ 10:00AM BLOOD Glucose-85 UreaN-90* Creat-4.0*# Na-126* K-7.0* Cl-87* HCO3-19* AnGap-20*\n___ 10:00AM BLOOD Calcium-9.9 Phos-5.2* Mg-2.0\n___ 08:39PM BLOOD Glucose-111* Na-123* K-5.7* Cl-90* calHCO3-20*\n___ 08:39PM BLOOD Hgb-11.0* calcHCT-33\n\nMICROBIOLOGY\n============\nBLOOD CULTURE (___): NGTD\nURINE CULTURE (Final:    NO GROWTH. SPUTUM GRAM STAIN (Final: >25 PMNs and >10 epithelial cells/100X field. Gram stain indicates extensive contamination with upper respiratory\n\nIMAGING:\n========\nCXR (___)\nIMPRESSION:\n1. Right internal jugular central venous catheter tip projects over the cavoatrial junction. \n2. Worsening right lower lung atelectasis or consolidation. \n\nTTE (___)\nThe estimated right atrial pressure is ___ mmHg. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). Right ventricular chamber size and free wall motion are normal. The ascending aorta is mildly dilated. No masses or vegetations are seen on the aortic valve, but cannot be fully excluded due to suboptimal image quality. There is no aortic valve stenosis. No aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. No masses or vegetations are seen on the mitral valve, but cannot be fully excluded due to suboptimal image quality. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion. \n\nIMPRESSION: No vegetations or clinically-significant regurgitant valvular disease seen (suboptimal-quality study). Normal global and regional biventricular systolic function. In presence of high clinical suspicion, absence of vegetations on transthoracic echocardiogram does not exclude endocarditis. \n\nRENAL US (___)\nIMPRESSION:\nNo hydronephrosis. \nCortisol levels rise in response to ACTH administration.\n"
+}

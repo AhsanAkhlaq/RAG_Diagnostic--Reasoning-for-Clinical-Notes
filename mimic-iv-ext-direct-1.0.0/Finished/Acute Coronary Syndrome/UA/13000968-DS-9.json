@@ -1,0 +1,96 @@
+{
+    "UA$Intermedia_5": {
+        "symptom of acs-ua$Cause_1": {
+            "He experienced two episodes of SSCP radiating to the left arm that were responsive to NTG.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest Pain$Input1": {}
+            },
+            "CAD history is a risk fact$Cause_1": {
+                "She is a 68 y/o male with a complex CAD history$Input2": {}
+            },
+            "HTN is a risk fact$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "HL is a  risk fact$Cause_1": {
+                "HL$Input3": {}
+            },
+            "family history is a risk fact$Cause_1": {
+                "Many family members with CAD in his father side.$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "ECG changes are symbol of acs$Cause_1": {
+                "ECG - Sinus rhythm. Prior inferior myocardial infarction. Compared to the previous tracing of the rate has slowed. The inferior lead Q waves are more prominent. The anterolateral ST-T wave abnormalities have improved. There is now ST segment flattening and depression in leads I, aVL and V5-V6 and the rate has slowed.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "CAD history is a risk fact$Cause_1": {
+                    "She is a 68 y/o male with a complex CAD history$Input2": {}
+                },
+                "HTN is a risk fact$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "HL is a  risk fact$Cause_1": {
+                    "HL$Input3": {}
+                },
+                "family history is a risk fact$Cause_1": {
+                    "Many family members with CAD in his father side.$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "non-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "CAD history is a risk fact$Cause_1": {
+                    "She is a 68 y/o male with a complex CAD history$Input2": {}
+                },
+                "HTN is a risk fact$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "HL is a  risk fact$Cause_1": {
+                    "HL$Input3": {}
+                },
+                "family history is a risk fact$Cause_1": {
+                    "Many family members with CAD in his father side.$Input4": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "ECG changes are symbol of acs$Cause_1": {
+                    "ECG - Sinus rhythm. Prior inferior myocardial infarction. Compared to the previous tracing of the rate has slowed. The inferior lead Q waves are more prominent. The anterolateral ST-T wave abnormalities have improved. There is now ST segment flattening and depression in leads I, aVL and V5-V6 and the rate has slowed.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS$Cause_1": {
+                        "Chest Pain$Input1": {}
+                    },
+                    "CAD history is a risk fact$Cause_1": {
+                        "She is a 68 y/o male with a complex CAD history$Input2": {}
+                    },
+                    "HTN is a risk fact$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "HL is a  risk fact$Cause_1": {
+                        "HL$Input3": {}
+                    },
+                    "family history is a risk fact$Cause_1": {
+                        "Many family members with CAD in his father side.$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest Pain\n",
+    "input2": "She is a 68 y/o male with a complex CAD history including CABG (LIMA to Diag, SVG to OM1, SVG to PDA) and re-do CABG (radial to LAD and diagonal and repeat SVG to LCx and rPDA) with stress testing last showing a severe fixed inferoapical defect with an EF of 60% who is admitted from home due to a 10-day h/o exertional chest pain now ocurring at rest.\n.\nThe patient was scheduled to undergo outpatient cardiac cath. He experienced two episodes of SSCP radiating to the left arm that were responsive to NTG. The patient called Dr. suggested direct admit for observation pending cardiac cath in AM.\n\nThe patient describes his CP as mostly exertional over the past 10 days. Says that prior to two weeks ago he was able to walk blocks but now cannot walk more than 100 feet without the onset of CP. Has been progressively worsening with the worse symptoms over this past weekend. Denies SOB or leg swelling. Rare palpitations that self terminate.\n\nOn admission the patient's VS were 94.9 114/87 67 18 97%RA. He denied any active CP, palp or SOB. Felt generally well.\n",
+    "input3": "+ HTN\n+ HL\n+ Vertigo\n+ GERD\n+ Basal Cell CA \n+ Depression \n+ Right Hip Bursitis\n",
+    "input4": "Many family members with CAD in his father side. He is an only child. Mother had ALS.\n",
+    "input5": "Vital Signs - 94.9 114/87 67 18 97%RA\nGeneral - Patient appears well and is in NAD\nHEENT - PERRLA, EOMI, anicteric, MMM, OP clear\nCV - RRR, S1 and S2, no m/r/g\nLung - Mild bibasilar crackles, otherwise good air entry\nAbdomen - Soft, NT/ND, BSx4\nExtremities - No edema\nNeuro - Awake, alert and oriented. Moving all extremities. CN II-XII grossly intact.\n",
+    "input6": "Labs:\n___ 11:55AM BLOOD WBC-8.3 RBC-4.77 Hgb-13.3* Hct-42.1 MCV-88 MCH-27.9 MCHC-31.6 RDW-13.1 Plt ___\n___ 11:55AM BLOOD ___\n___ 11:55AM BLOOD UreaN-13 Creat-1.1 Na-137 K-4.2 Cl-101 HCO3-24 AnGap-16\n___ 12:45PM BLOOD Calcium-9.7 Phos-3.7 Mg-1.8\n___ 12:45PM BLOOD CK(CPK)-139\n___ 12:45PM BLOOD CK-MB-3 cTropnT-<0.01\n\nStudies:\n\nECG - Sinus rhythm. Prior inferior myocardial infarction. Compared to the previous tracing of the rate has slowed. The inferior lead Q waves are more prominent. The anterolateral ST-T wave abnormalities have improved. There is now ST segment flattening and depression in leads I, aVL and V5-V6 and the rate has slowed.non-ST-elevation\n"
+}

@@ -1,0 +1,33 @@
+{
+    "Type B Aortic Dissection$Intermedia_3": {
+        "Type B Aortic Dissection usually originates from the left subclavian artery and extends to the renal artery. This illustrates the starting location and extension of the arterial dissection, which is a typical feature of Type B Aortic Dissection.$Cause_1": {
+            "originating from left subclavian extending to renals$Input6": {}
+        },
+        "Suspected Aortic Dissection$Intermedia_2": {
+            "back pain is the common symptom of Aortic Dissection$Cause_1": {
+                "Back pain$Input1": {}
+            },
+            "Hypertension is one of the major risk factors for aortic dissection$Cause_1": {
+                "h/o HTN$Input2": {}
+            },
+            "Acute mid-back and abdominal pain is one of the classic symptoms of aortic dissection$Cause_1": {
+                "acute onset of mid-back and abdominal pain$Input2": {}
+            },
+            "Dyspnea may be due to pain or dissection, a complication$Cause_1": {
+                "difficulties breathing$Input2": {}
+            },
+            "Hypertension is one of the common causes and symptoms of aortic dissection$Cause_1": {
+                "BP was elevated at 180's$Input2": {}
+            },
+            "Myocardial infarction, especially STEMI, can cause impaired heart function, which in turn increases the risk of arterial disease, including aortic dissection.$Cause_1": {
+                "MI (inferior STEMI ___, SCC of lip$Input3": {}
+            }
+        }
+    },
+    "input1": "Back pain\n",
+    "input2": "__ with h/o HTN, and stent in RCA here with acute onset of mid-back and abdominal pain that started a few hours prior to admission. C/O difficulties breathing ___ pain. Seen at ___ ED and CT scan showed Type B dissection. BP was elevated at 180's and pt given labetolol. Also given full dose ___.\n\nPatient currently stable on arrival to ___. Recieved morphine in ED and currently denies back or abdominal pain. No extremity pain. No headaches.\n",
+    "input3": "MI (inferior STEMI ___, SCC of lip\n",
+    "input4": "No family history of early MI, otherwise non-contributory. Her sister has CAD with stents in place. Her mother died at age ___ from ___, and her father at age ___ from ___. There is also a family history of CVA's. \n",
+    "input5": "Afebrile, vital signs stable\nMMM, no scleral icterus, tongue and trachea midline, no palpable \nlymphadenopathy\nRRR\nCTAB\nSoft, NT/ND, no masses felt\nR: P/P/P/P\nL: P/P/P/P\nLeft radial pulse palp and equal to right\n\n",
+    "input6": "CT: originating from left subclavian extending to renals. Celiac supplied by both true and false lumen whereas both SMA and renals supplied by true lumen.\n"
+}

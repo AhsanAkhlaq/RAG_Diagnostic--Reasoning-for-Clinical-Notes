@@ -1,0 +1,33 @@
+{
+    "Asthma$Intermedia_3": {
+        "Albuterol nebs is a kind of SABA, the increase of dosage indicates that the asthma has not been under control.$Cause_1": {
+            "Received Albuterol nebs x3\uff0cbut still w/inspiratory & expiratory wheezes$Input2": {}
+        },
+        "An increase of peak flow of more than 200ml after giving medicine comfirms the reversibility of airflow obstruction.$Cause_1": {
+            "After 2 nebs peak flow 300->650$Input2": {}
+        },
+        "Suspected asthma$Intermedia_2": {
+            "It might relate to chest or bronchus diseases.$Cause_1": {
+                "Shortness of breath$Input1": {}
+            },
+            "It indicates that the patient might have chest or bronchus disease.$Cause_1": {
+                "After prednisone & neb: Desats to 90% ambulatory room air, still has diffuse wheezes.$Input2": {}
+            },
+            "After giving medicine, patient still has different sound of breath may indicates that patient has chest or bronchus disease.$Cause_1": {
+                "Received prednisone,but still w/inspiratory & expiratory wheezes$Input2": {}
+            },
+            "Different breathe sound from normal may related to chest or bronchus disease.$Cause_1": {
+                "Chest: Difuse wheezes.$Input5": {}
+            },
+            "Low persistence peak flow indicates that patient has chest or bronchus disease.$Cause_1": {
+                "Peak Flow: 510$Input5": {}
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "This is a 41 year old male who presents to the ED with shortness of breath times two weeks. He ran our of his MDI a few weeks ago. He tried an over the counter epinephrine INH without improvement. He presented to the ED because he was not improving. He does not report fevers or chills. No chest pain, no cough.  \n \nIn the ED, initial vitals were 97.8 116 146/88 16 98. He recieved 60mg prednisone, IVF, and Albuterol nebs x3. After 2 nebs peak flow 300->650 but still tachy, at 94% on 2lpm, w/inspiratory & expiratory wheezes. After prednisone & neb: Desats to 90% ambulatory room air, still has diffuse wheezes.  \n \nOn review of systems, notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope, myalgias, joint pains, cough, hemoptysis, black stools or red stools. He denies recent fevers, chills or rigors. All of the other review of systems were negative.\n",
+    "input3": "None\n",
+    "input4": "Noncontributory\n",
+    "input5": "VS - 97.3, 114/86, 72, 20, 99%2L Peak Flow: 510  \nGen: NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.  \nCV: S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nChest: Difuse wheezes. No rhales or Rhonchi. Good air movement throughout chest. No dullness to percussion noted.  \nAbd: Soft, NTND. No HSM or tenderness.  \nExt: No c/c/e.  \nSkin: No stasis dermatitis, ulcers, scars, or xanthomas.  \nNeuro: grossly intact.\n",
+    "input6": "CXR: ___:  \nFINDINGS: PA and lateral views of the chest are obtained. The lungs are clear bilaterally demonstrating no evidence of pneumonia or CHF. Cardiomediastinal silhouette is normal. Osseous structures are intact. No free air is seen below the right hemidiaphragm.\n"
+}

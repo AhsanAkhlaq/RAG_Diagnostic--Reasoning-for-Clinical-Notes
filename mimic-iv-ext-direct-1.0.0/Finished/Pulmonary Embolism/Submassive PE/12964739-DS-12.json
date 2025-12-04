@@ -1,0 +1,50 @@
+{
+    "Submassive PE$Intermedia_4": {
+        "Despite RV abnormalities, the patient is hemodynamically stable. Excludes massive PE$Cause_1": {
+            "The patient is hemodynamically stable$Input6": {}
+        },
+        "Signs of right ventricular compression, with an RV:LV ratio greater than 1, suggest impaired right ventricular function, consistent with submassive PE$Cause_1": {
+            "CT sign of right ventricular strain with RV: LV ratio greater than 1$Input6": {}
+        },
+        "Elevated cardiac troponin indicates myocardial damage$Cause_1": {
+            "cTropnT-0.07*$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "CTA showed acute embolism in the right main pulmonary artery and bilateral lobar branches$Cause_1": {
+                "CTPA notable for acute pulmonary embolus within the right main pulmonary artery and bilateral lobar branches$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Significantly increased, indicating increased cardiac pressure load$Cause_1": {
+                    "proBNP-6318*$Input6": {}
+                },
+                "Dyspnea after exercise is one of the typical symptoms of PE$Cause_1": {
+                    "dyspnea on exertion$Input1": {}
+                },
+                "Sudden shortness of breath may be a symptom of pulmonary embolism (PE)$Cause_1": {
+                    "udden onset shortness of breath while walking up the stairs$Input2": {}
+                },
+                "Shortness of breath that does not improve the next day and interferes with daily activities further supports the possibility of PE$Cause_1": {
+                    "felt so short of breath$Input2": {}
+                },
+                "Hypertension can cause hardening and damage of blood vessels, increasing the risk of blood clots, which may lead to pulmonary embolism.$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "Hyperlipidemia can lead to dyslipidemia and promote the occurrence of atherosclerosis, which also increases the possibility of thrombosis and may lead to pulmonary embolism.$Cause_1": {
+                    "HLD$Input3": {}
+                },
+                "Shortness of breath is a classic symptom of pulmonary embolism.$Cause_1": {
+                    "CTAB, short of breath when talking$Input5": {}
+                },
+                "Tachycardia, possibly related to pulmonary embolism$Cause_1": {
+                    "HEART - mildly tachy, Loud P2$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "dyspnea on exertion\n",
+    "input2": "At baseline she can walk up to a mile a day and uses an exercise bike. She developed sudden onset shortness of breath while walking up the stairs at her house last night that improved with rest. This morning, she attempted to go on her typical walk but felt so short of breath that she decided to seek care. \n\nShe has never experienced this sensation before and there is no associated chest pain, pleuritic or otherwise, no cough, no symptoms at rest, no hemoptysis, and no increased leg swelling. She denies any prior history of blood clot. She denies any recent travel or extended car or plane trips, and has had no recent surgery or trauma. She has no prior personal or family history of VTE. She reports she had her last colonoscopy in which was reportedly normal and completed her screening. She says she had a mammogram last year which was normal completed her Pap testing.\n",
+    "input3": "HTN\nHLD\nGERD\n",
+    "input4": "She has no family history of blood clots or autoimmune disease. Her mother had ovarian cancer. Her father had a CABG as well as COPD\n",
+    "input5": "VITALS: T 98.1, HR 104 BP 140/96 RR 22 pO2 94% 4L NC\nGENERAL - obese, well appearing in NAD, Oriented x3, comfortable, \nMood, affect appropriate. \nHEENT - NC/AT, sclerae anicteric, MMM, OP clear, No xanthalesma. \nNECK - supple, JVD 12cm, no carotid bruits \nLUNGS - CTAB, short of breath when talking\nHEART - mildly tachy, Loud P2. No m/r/g.\nABDOMEN - soft/NT/ND, no masses or HSM, no rebound guarding. \nEXTREMITIES - wwp, no c/c/e, 2+ peripheral pulses (radials, DPs)\nNEURO - awake, A&Ox3, normal mental status, moves all extremities, coordination and sensory function grossly intact.\nPSYCH: pleasant, appropriate affect\n",
+    "input6": "___ 10:45PM BLOOD WBC-7.1 RBC-4.51 Hgb-13.1 Hct-40.2 MCV-89 \nMCH-29.0 MCHC-32.6 RDW-13.2 RDWSD-43.4 Plt ___\n___ 10:45PM BLOOD Glucose-108* UreaN-19 Creat-1.0 Na-143 \nK-3.7 Cl-104 HCO3-22 AnGap-17\n___ 10:45PM BLOOD proBNP-6318*\n___ 10:45PM BLOOD cTropnT-0.07*\n___ 07:55AM BLOOD cTropnT-0.04*\n___ 07:55AM BLOOD ALT-12 AST-22 AlkPhos-133* TotBili-0.9\n___ 10:49PM BLOOD Lactate-1.1\n\nIMAGING/OTHER STUDIES: \n======================\n\nThe patient is hemodynamically stable\nOSH CTA Chest:\nCTPA notable for acute pulmonary embolus within the right main pulmonary artery and bilateral lobar branches. There is\nassociated CT sign of right ventricular strain with RV: LV ratio greater than 1. There is a mass within the liver for which further evaluation is recommended to assess for potential malignancy. \n\n___ CTa/p w/ contrast\n1. 7.7 cm hypodense lesion within hepatic segment ___, with enhancement  characteristics consistent with a hemangioma. \n2. Likely smaller hemangioma within hepatic segment VI measuring 1.0 cm. \n3. Extensive diverticulosis without evidence of acute \ndiverticulitis.\n"
+}

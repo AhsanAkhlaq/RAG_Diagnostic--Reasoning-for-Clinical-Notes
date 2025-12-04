@@ -1,0 +1,63 @@
+{
+    "Ischemic Stroke$Intermedia_3": {
+        "Damage to brain tissue in the area supplied by the right middle cerebral artery (MCA), consistent with a diagnosis of ischemic stroke$Cause_1": {
+            "Re-demonstration of scattered areas of hypodensity within the right inferior frontal lobe in the region of the known right MCA infarct and recent thrombectomy.$Input6": {}
+        },
+        "This finding suggests that ischemic stroke is progressing, and this worsening is suggestive of expansion of the infarcted area.$Cause_1": {
+            "Interval increase in the hypodensity in the right frontal lobe, insula, temporal lobe, basal ganglia and corona radiata.$Input6": {}
+        },
+        "Demonstrates no significant change in previously noted small foci of hemorrhage, suggesting that there is no progressive or worsening bleeding at this specific site.$Cause_1": {
+            "No significant change in the small focus of intraparenchymal hemorrhage along the posterior right insula.$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "Weakness on the left side of the body, one of the common symptoms of stroke$Cause_1": {
+                "she found her on the ground and apparently weak on the left side.$Input2": {}
+            },
+            "It showed that the patient had significant facial paralysis, which is also a typical symptom of stroke.$Cause_1": {
+                "facial palsy 3$Input2": {}
+            },
+            "It indicates that the stroke may have affected the patient's speech center or its motor function.$Cause_1": {
+                "language 3, dysarthria 2$Input2": {}
+            },
+            "A CT scan of the head shows an abnormality in the right middle cerebral artery, a clear indication of a stroke in the brain$Cause_1": {
+                "A noncontrast head CT showed a dense right MCA$Input2": {}
+            },
+            "Atrial fibrillation is a heart rhythm disorder that significantly increases the risk of stroke$Cause_1": {
+                "a history of atrial fibrillation$Input2": {}
+            },
+            "Hyperlipidemia increases the risk of stroke$Cause_1": {
+                "Hyperlipidemia$Input3": {}
+            },
+            "High blood pressure is a major risk factor for stroke$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "Diastolic heart failure means the heart's ability to fill with blood is impaired, which can lead to insufficient circulation$Cause_1": {
+                "Diastolic heart failure$Input3": {}
+            },
+            "The patient's neglect of tactile stimulation in the left arm is a typical symptom of stroke.$Cause_1": {
+                "Neglects to tactile stimulation in the left arm.$Input5": {}
+            },
+            "This abnormal eye movement may be a sign of neurological damage caused by stroke$Cause_1": {
+                "There is a right gaze preference that can be overcome with doll's eyes.$Input5": {}
+            },
+            "This suggests that left-side brain function may be impaired, associated with stroke.$Cause_1": {
+                "Blink to threat present on right, absent on left.$Input5": {}
+            },
+            "This is a common symptom of stroke and indicates damage to the facial nerves.$Cause_1": {
+                "Left lower facial droop.$Input5": {}
+            },
+            "This limb weakness is also a typical symptom of stroke$Cause_1": {
+                "lifts left arm and leg against the plane of the bed, though with some drift.$Input5": {}
+            },
+            "Severe tricuspid regurgitation and pulmonary hypertension may lead to the formation of blood clots that may travel to the brain and cause ischemic stroke.$Cause_1": {
+                "SEVERE tricuspid regurgitation.$Input6": {}
+            }
+        }
+    },
+    "input1": "Left sided weakness\n",
+    "input2": "This is a woman with a history of atrial fibrillation who presents to the ED.  History is obtained primarily from the records as well as from her son.\n\ufeff\nShe was apparently in her usual state of health the day and saw her son in the morning, and then spoke to him on the phone at around 4:30.  A few hours later  received a call from her sister who was worried because they usually talk on the phone at time time and she had not heard from her. then called the patient's neighbor to go check on her.  This was at approximately 7:30.  When the neighbor went to check on her, she found her on the ground and apparently weak on the left side. EMS was called and she was brought to hospital, initial vitals were notable for BP 138/69, pulse 75, temp 96.8, respirations 20. (LOC 1, questions 2, gaze 2, visual fields 2, facial palsy 3, left arm 4, left leg 2, ataxia 1, language 3, dysarthria 2, extinction 2). Labwork was notable for INR 1.2. A noncontrast head CT showed a dense right MCA sign with loss of gray-white differentiation in the right subinsular cortex.  Aspect score was\n7.  A thrombus was seen in the distal right M1 segment in discussion with neurology she was transferred to other department for consideration of thrombectomy.\n",
+    "input3": "+ Chronic kidney disease, stage II\n+ Colon cancer status post hemicolectomy\n+ Osteoarthritis\n+ Hyperlipidemia\n+ Hypothyroidism\n+ Osteoporosis\n+ Depression                               \n+ Hypertension\n+ Splenic infarct\n+ Diastolic heart failure\n",
+    "input4": "Mother had breast cancer.  Daughter and sister both had lung cancer\n",
+    "input5": "Admission exam:\nGeneral: Awake, cooperative, NAD.\nHEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in\noropharynx.\nNeck: Supple, no carotid bruits appreciated. No nuchal rigidity.\nPulmonary: Normal work of breathing.\nCardiac: warm, well-perfused.\nAbdomen: Soft, non-distended.\nExtremities: No edema.\nSkin: No rashes or lesions noted.\n \nNeurologic:\n-Mental Status: Awake and alert.  Able to follow commands and answer questions appropriately.  Able to describe pictures on the stroke card.  She can name and repeat.  There are no paraphasic errors.  Neglects to tactile stimulation in the left arm.\n\ufeff\n-Cranial Nerves:\nPupils 4-2 mm bilaterally.  There is a right gaze preference that can be overcome with doll's eyes.  Blink to threat present on right, absent on left. Left lower facial droop. Speech is not dysarthric.\n\ufeff\n-Motor: Normal bulk and tone throughout.  Able to move right arm and leg easily against gravity, full strength.   lifts left arm and leg against the plane of the bed, though with some drift.\n\ufeff\n-Sensory: No deficits to light touch, pinprick throughout. No extinction to DSS. \n\ufeff\n-Reflexes: Deferred\n\ufeff\n-Coordination: No dysmetria on FNF bilaterally.\n\ufeff\n-Gait: Not tested.\n",
+    "input6": "CT head\n \nIMPRESSION:\n \n1. Small, 0.7 x 0.5 cm focus of hyperdensity in the right inferior frontal lobe may represent a small intraparenchymal hemorrhage.\n2. Re-demonstration of scattered areas of hypodensity within the right inferior frontal lobe in the region of the known right MCA infarct and recent thrombectomy.\n \nCT head\n \nIMPRESSION: \n \n1.  Interval increase in the hypodensity in the right frontal lobe, insula, temporal lobe, basal ganglia and corona radiata.\n2.  No significant change in the small focus of intraparenchymal hemorrhage along the posterior right insula.\n\ufeff\nTTE\nIMPRESSION: Marked biatrial enlargement. Left ventricular cavity dilation with normal regional and low normal global systolic function. Marked right ventricular cavity dilation with low normal free wall motion. SEVERE tricuspid regurgitation. \nModerate pulmonary artery systolic hypertension. Mild mitral regurgitation.\n"
+}

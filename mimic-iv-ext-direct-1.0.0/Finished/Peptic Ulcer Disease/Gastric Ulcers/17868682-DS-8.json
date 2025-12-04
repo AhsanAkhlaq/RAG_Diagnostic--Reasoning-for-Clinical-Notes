@@ -1,0 +1,21 @@
+{
+    "Gastric ulcers$Intermedia_3": {
+        "Gastric ulcer was bleeding and perforation endoscopy is the gold standard of gastric ulcer.$Cause_1": {
+            "Endoscopy:Gastric ulcer was bleeding and perforation$Input6": {}
+        },
+        "suspected peptic ulcer disease$Intermedia_2": {
+            "Post prandial pain suspected gastric ulcer.$Cause_1": {
+                "Male with Afib on coumadin who presents with 3 weeks of epigastric and upper back pain which occurs about 1 hour post-prandially, especially with fatty meals.$Input2": {}
+            },
+            "Vascular surgery saw pt and felt the celiac dissection with preservation of flow was incidental finding, which may supports peptic bleeding and perforation.$Cause_1": {
+                "Vascular surgery saw pt and felt the celiac dissection with preservation of flow was incidental finding.$Input2": {}
+            }
+        }
+    },
+    "input1": "abdominal pain\n",
+    "input2": "Male with Afib on coumadin who presents with 3 weeks of epigastric and upper back pain which occurs about 1 hour post-prandially, especially with fatty meals. The pain has been most severe in the past week, but has always remitted after about an hour until last night. Yesterday evening, the patient developed pain after dinner, and it did not remit leading him to present to the emergency room. The pain was as intense as in severity. It feels \"constant\", like the pain that he had before his cholecystectomy years ago. Has tried Advil at for the pain. Denies fever, chills, blood in stool, or melena. Last bowel movement last night, normal. In the ED, initial vs at 2AM were: T 97.6 P 72 BP 155/82 R 18 O2 sat 99% RA. Patient was given zofran (total 4mg), morphine (total 12mg), dilaudid (total 1mg) and ativan (total 2mg) for nausea and pain. Vascular surgery saw pt and felt the celiac dissection with preservation of flow was incidental finding. Vascular advised adding aspirin to coumadin for atrial fibrillation and that the pts abdominal pain was not consistent with intestinal ischemia. Vital signs prior to transfer: 77 130/76 18 97% on RA. On the floor, the patient's pain and nausea was well-controlled, and he had no other complaints.\n",
+    "input3": "+Atrial Fibrillation on Coumadin  \n+dysthymia  \n+BPH  \n+obstructive sleep apnea  \n+seasonal allergies  \n+s/p Lap cholecystectomy  \n+s/p R Inguinal Hernia repair\n+s/p Left knee arthroscopy with +partial knee meniscectomy\n+s/p bilateral cataract surgery\n+s/p BCC excision from left side of nose\n",
+    "input4": "colon cancer (mother, father) \nsyndrome (sister), DM2 (father)\n",
+    "input5": "Vitals: T:96.5 BP:120/70 P:60 R:18 O2:98%/RA  \nGeneral: Alert, oriented, no acute distress.  \nHEENT: Sclera anicteric, MMM, oropharynx clear.  \nNeck: supple, JVP not elevated  \nLungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi  \nCV: Irregular, normal rate, normal S1 + S2, no murmurs, rubs, gallops  \nAbdomen: soft, tender in epigastrium, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  \nRectal: guiaic negative in ED \nExt: Warm, well perfused, 2+ pulses, no cyanosis or edema\nSkin: No rash\nNeuro: Alert and oriented x 3. Appropriate. PERRL. Moving all extremities.\n",
+    "input6": "WBC-9.2 RBC-4.74 Hgb-14.4 Hct-42.1 MCV-89 MCH-30.3 MCHC-34.2 RDW-13.6 Plt\nNeuts-69.8 Lymphs-17.0* Monos-4.3 Eos-7.6* Baso-1.2\nPTT-28.1\nGlucose-128* UreaN-31* Creat-1.1 Na-141 K-3.9 Cl-105 HCO3-25 AnGap-15\nALT-21 AST-25  AlkPhos-63 TotBili-0.4 Lipase-19\n04:08PM CK(CPK)-78 CK-MB-NotDone cTropnT-<0.01\n02:45AM CK(CPK)-124 CK-MB-7cTropnT-<0.01\nAlbumin-4.4 Calcium-9.4 Phos-3.7 Mg-2.1\nLactate-1.1\nEndoscopy:Gastric ulcer was bleeding and perforation\n"
+}

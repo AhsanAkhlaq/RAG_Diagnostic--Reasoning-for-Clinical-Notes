@@ -1,0 +1,24 @@
+{
+    "duodenal ulcers$Intermedia_3": {
+        "Duodenal ulcer with bleeding onendoscopyis the gold standard of duodenal ulcer.$Cause_1": {
+            "Endoscopy:duodenal ulcer with bleeding$Input6": {}
+        },
+        "suspected peptic ulcer disease$Cause_2": {
+            "Melena and dizziness are the manifestations of peptic ulcer with bleeding.$Cause_1": {
+                "Melena and dizziness$Input1": {}
+            },
+            "Blood in the stool is the manifestations of peptic ulcer with bleeding.$Cause_1": {
+                "Rectal exam showed guaiac positive brown stool.$Input2": {}
+            },
+            "Family history of gapeptic disease.$Cause_1": {
+                "Father - colon cancer$Input4": {}
+            }
+        }
+    },
+    "input1": "Melena and dizziness\n",
+    "input2": "Patient with PMH hypertension, hyperlipidemia, GERD, diverticulitis s/p colectomy, and prostate cancer, now presenting with melena and dizziness. Patient denies any abdominal pain. He reports that he had one episode of black tarry stool at ~7pm followed by some dizziness and lightheadedness. He also had burning chest pain, which is typical for his GERD and esophagitis. States that his esophagitis and gastritis have been particularly bothersome over the last 2 weeks. Denies any bright red blood per rectum. Denies any chest pain or dyspnea. Patient came to the ED for evaluation. Upon arrival in the ED, initial VS: 98.8, 81, 116/80, 15, 95%. Patient's labs showed BUN 40 and Hct 40 (down from 45 baseline). Patient was otherwise stable and without complaint. Rectal exam showed guaiac positive brown stool. GI was consulted, who recommended starting IV PPI, type and cross, large bore IVs and admitting to medicine for likely EGD in AM. Patient was given pantoprazole 40mg IV x 1 and admitted to medicine for further management. Upon arrival to the floor, patient states that he feels better. Has had some lightheadedness for the last few days. Had one episode of melena and came in for evaluation. Reports some nausea, no vomiting. No bright red blood per rectum. States that he has bad esophagitis and generally takes tums daily as well as ranitidine 150mg po daily. He was taking esomeprazole but stopped several years ago because it wasn't working. Regarding his chest discomfort, it is mostly mid-substernal and epigastric, lasting all day. Nothing helps, including his Tums or ranitidine, over the last few weeks. He has also had mild dyspnea for the same period. Symptoms have no relationship to activity. Patient states that he has a stress test every year, most recently in and is due for another one in two weeks. States that they have always been normal as far as he is aware.\n",
+    "input3": "+GERD  \n+Depression  \n+Arthritis  \n+History of an irregular heartbeat  \ndiverticulosis and diverticulitis s/p sigmoid resection (side-side anastomosis)  \n+erectile dysfunction  \n+hypertension  \n+hyperlipidemia  \n+obstructive sleep apnea  \n+prostate cancer s/p prostatectomy   \n+COPD\n",
+    "input4": "Family history of arthritis and hypertension. Sister w/ stroke secondary to endocarditis.  \nMother - breast cancer\nFather - colon cancer\n",
+    "input5": "Vitals - 98.7F, 122/63, 61, 18, 99% RA  \nGENERAL: well appearing man in no acute distress  \nHEENT: PERRL, EOMI, moist mucous membranes  \nCARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  \nLUNG: CTAB  \nABDOMEN: non-distended, normal bowel sounds, mild tenderness to palpation in RUQ and epigastric area, otherwise non-tender to palpation. No masses.  \nEXTREMITIES: moving all extremities well, no cyanosis, clubbing or edema  \nNEURO: A&O x 3, grossly normal sensory and motor function  \nSKIN: warm and well perfused, no excoriations or lesions, no rashes\n",
+    "input6": "01:40PM   WBC-4.5 RBC-3.79* HGB-11.9* HCT-36.4* MCV-96 MCH-31.4 MCHC-32.6 RDW-13.6\n01:40PM   PLT COUNT-120*\n03:43AM   GLUCOSE-80 UREA N-36* CREAT-0.8 SODIUM-141 POTASSIUM-3.3 CHLORIDE-106 TOTAL CO2-26 ANION GAP-12\n03:43AM   CALCIUM-8.2* PHOSPHATE-2.9 MAGNESIUM-2.4\n03:43AM   WBC-6.7 RBC-3.91* HGB-12.3* HCT-38.0* MCV-97 MCH-31.5 MCHC-32.5 RDW-13.6\n03:43AM   PLT COUNT-121*\n08:35PM   GLUCOSE-104* UREA N-40* CREAT-1.0 SODIUM-141 POTASSIUM-3.8 CHLORIDE-105 TOTAL CO2-27 ANION GAP-13\n08:35PM   estGFR-Using this\n08:35PM   ALT(SGPT)-22 AST(SGOT)-20 ALK PHOS-43 TOT \nBILI-0.5\n08:35PM   CALCIUM-8.0* PHOSPHATE-2.6* MAGNESIUM-2.4\n08:35PM   WBC-6.7 RBC-4.17* HGB-13.4* HCT-40.4 MCV-97 MCH-32.2* MCHC-33.2 RDW-14.2\n08:35PM   NEUTS-59.9 MONOS-7.1 EOS-1.0 BASOS-0.6\n08:35PM   PLT COUNT-142*\n08:35PM   PTT-25.5\nEndoscopy:duodenal ulcer with bleeding\n"
+}

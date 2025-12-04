@@ -1,0 +1,39 @@
+{
+    "Hemorrhagic Stroke$Intermedia_3": {
+        "Intracerebral hemorrhage is a direct manifestation of hemorrhagic stroke. The results of CT scan show the location and extent of bleeding, which is the key to diagnosis.$Cause_1": {
+            "serial head CTs demonstrated worsening R intraparenchymal bleed$Input2": {}
+        },
+        "It showed a large area of \u200b\u200bintracerebral hemorrhage and local mass effect in the posterior part of the right parietal lobe, which was direct evidence of hemorrhagic stroke.$Cause_1": {
+            "Large parenchymal hemorrhage in the posterior right parietal lobe with local mass effect.$Input6": {}
+        },
+        "Indicates that the bleeding area has expanded, which is a direct manifestation of the progression of hemorrhagic stroke$Cause_1": {
+            "Interval increase in size of intraparenchymal hemorrhage within the right parietal lobe$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "One of the common symptoms of stroke is weakness on one side of the body.$Cause_1": {
+                "unable to walk because of weakness on the left side$Input2": {}
+            },
+            "Frequent falls, which may be caused by weakness on one side of the body or loss of balance, are common in people who have had a stroke.$Cause_1": {
+                "fell getting out of bed on ___, 45 minutes later in the bathroom, and again at the breakfast table shortly thereafter$Input2": {}
+            },
+            "Facial droop is often associated with stroke$Cause_1": {
+                "Left facial droop$Input2": {}
+            },
+            "Increasing drowsiness is a decrease in consciousness, which is a serious symptom that may be caused by a stroke.$Cause_1": {
+                "increasingly drowsy$Input2": {}
+            },
+            "High blood pressure is a major risk factor for stroke$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "Diabetes is a major risk factor for stroke$Cause_1": {
+                "DM$Input3": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "The pt is an ___ y/o F who presented to ___ after 3 falls at home on ___. Details of the falls were related by her grandson, ___. He reports that the patient was unable to walk because of weakness on the left side. She fell getting out of bed on ___, 45 minutes later in the bathroom, and again at the breakfast table shortly thereafter. The grandson noted that the patient couldn't use her walker at all secondary to weakness after the third fall. Son arrived and picked patient up off floor. Noted L sided weakness and called EMS. Left facial droop was noted but this was this is somewhat confounded by an old bells palsy. At ___, serial head CTs demonstrated worsening R intraparenchymal bleed. She was sent here for further care.  She was admitted to the TSICU and was noted to be increasingly drowsy and a CT head was done this morning which showed worsening from previous CT.  \n",
+    "input3": "HTN\nDM - diet controlled\nBells palsy ___ yrs ago)  \nAsthma  \nHypothyroidism  \nS/p hysterectomy  \narthritis  \n",
+    "input4": "NC\n",
+    "input5": "Vitals: T:98.8 P:70 R:14 BP:124/84 SaO2:96%RA  \nGeneral: Awake, cooperative, NAD.  \nHEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in oropharynx. pupils are surgical.  \nNeck: Supple, no carotid bruits appreciated. No nuchal rigidity  \n\nPulmonary: With crackles at the right base.  \nCardiac: RRR, nl. S1S2, no M/R/G noted  \nAbdomen: soft, NT/ND, normoactive bowel sounds, no masses or organomegaly noted.  \nExtremities: No C/C/E bilaterally, 2+ radial, DP pulses bilaterally.  \nSkin: Patient has lesions over abdomen, previously diagnosed with zoster.  \n",
+    "input6": "___ 06:00AM BLOOD WBC-14.2* RBC-3.85* Hgb-13.1 Hct-37.1 MCV-97 MCH-34.0* MCHC-35.2* RDW-16.2* Plt ___\n___ 09:45PM BLOOD ___ PTT-39.4* ___\n___ 11:06AM BLOOD ___ PTT-37.4* ___\n___ 11:06AM BLOOD Glucose-146* UreaN-12 Creat-1.0 Na-140 K-2.9* Cl-101 HCO3-26 AnGap-16\n___ 11:06AM BLOOD ALT-12 AST-18 CK(CPK)-53 AlkPhos-88 TotBili-0.5\n___ 11:06AM BLOOD CK-MB-NotDone cTropnT-<0.01\n___ 11:06AM BLOOD Albumin-3.9 Calcium-8.9 Phos-3.4 Mg-2.0 Cholest-154\n___ 11:06AM BLOOD Triglyc-113 HDL-70 CHOL/HD-2.2 LDLcalc-61\n___ 11:06AM BLOOD Osmolal-304\n___ 11:06AM BLOOD TSH-0.19*\n___ 03:15PM BLOOD Type-ART Rates-16/ Tidal V-500 FiO2-50 pO2-126* pCO2-43 pH-7.40 calTCO2-28 Base XS-1 -ASSIST/CON \n\n1. Significantly limited study due to patient movement. Large parenchymal hemorrhage in the posterior right parietal lobe with local mass effect. Apparent effacement along the right suprasellar cistern likely represents volume averaging due to motion, however, evolving uncal herniation is not entirely excluded. Attention to this finding on follow-up imaging is recommended.\n2. Diffuse white matter hypodensity throughout the bilateral basal ganglia, likely sequela of severe chronic microvascular ischemia, less likely infarction.\n\nRepeat Head CT ___:\n1. Interval increase in size of intraparenchymal hemorrhage within the right parietal lobe. Worsening of right lateral ventricle mass effect.\n2. No subfalcine or uncal herniation.\n"
+}

@@ -1,0 +1,49 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is elongated. The right atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strong suspected heart failure.$Cause_1": {
+                    "proBNP-1275*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "SOB is the common symptom of HF$Cause_1": {
+                        "shortness of breath$Input1": {}
+                    },
+                    "Shortness of breath is a common symptom of heart failure, which may be caused by the heart's inability to pump blood effectively, resulting in poor blood return to the lungs.$Cause_1": {
+                        "woke up the night prior to admission feeling very short of breath$Input2": {}
+                    },
+                    "Patients often get up at night to go to the bathroom and do not often feel short of breath, but frequent nocturia can be an indirect sign of heart failure because poor cardiac function may lead to fluid retention during the day and urination accelerated at night due to changes in body position.$Cause_1": {
+                        "waking up nightly to go to the bathroom but rarely feels short of breath$Input2": {}
+                    },
+                    "Patients with type 2 diabetes may suffer from cardiovascular damage and increase the risk of heart failure due to long-term hyperglycemia.$Cause_1": {
+                        "Diabetes mellitus, type II$Input3": {}
+                    },
+                    "Long-term high blood pressure can put stress on the heart and cause changes in its structure and function, which may lead to heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Hyperlipidemia is associated with atherosclerosis, a major risk factor for heart failure$Cause_1": {
+                        "Hyperlipidemia$Input3": {}
+                    },
+                    "The S1 during contraction is weakened, the S2 is normal, and there is a systolic murmur. These are all signs of abnormal heart valve function and may be related to heart failure.$Cause_1": {
+                        "faint S1, normal S2, systolic murmur$Input5": {}
+                    },
+                    "Decreased breath sounds may indicate fluid accumulation in the lungs due to heart failure, called pulmonary congestion.$Cause_1": {
+                        "breath sounds diminished at bases$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "shortness of breath\n",
+    "input2": "Patient woke up the night prior to admission feeling very short of breath. This did not resolve and he alerted his son (who lives upstairs). His son called the fire department and he was brought to the ED. He reports waking up nightly to go to the bathroom but rarely feels short of breath. He denies any worsening DOE (baseline DOE with 1 flight of stairs but not walking around the ground floor of his house). He denies orthopnea, diaphoresis, CP. He denies any F/C. He has had a cough productive of white sputum for several weeks.\n",
+    "input3": "+ Metastatic Prostate cancer  \n+ Diabetes mellitus, type II  \n+ Hypertension  \n+ Hyperlipidemia  \n+ Possible COPD  \n+ Hx positive PPD w/ neg cxr  \n+ Bilateral hearing loss  \n+ Carotid stenosis,\n",
+    "input4": "Father died of TB meningitis. Mother died of TB of the lung .\n",
+    "input5": "Physical Exam:\nADMISSION PHYSICAL:\n================================\nVitals - T: 97.7 BP: 128/71 HR: RR: 20 02 sat: 100 on 2L  \nGENERAL: elderly male in NAD  \nHEENT: PERRL, anicteric sclera, pink conjunctiva, MMM  \nNECK: no JVD  \nCARDIAC: RRR, faint S1, normal S2, systolic murmur, no r/g \n \nLUNG: CTA bilaterally, breath sounds diminished at bases, non-labored  \nABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding  \nEXTREMITIES: no cyanosis, clubbing or edema, wwp, moving all 4 extremities with purpose  \nPULSES: 2+ Right DP pulse, 1+ Left DP pulse\n",
+    "input6": "ADMISSION LABS:\n====================================\n02:40AM BLOOD WBC-8.7 RBC-4.26* Hgb-13.2* Hct-39.0* \nMCV-91 MCH-31.1 MCHC-34.0 RDW-14.5\n02:40AM BLOOD Neuts-66.8 Monos-6.1 Eos-0.8 \nBaso-0.8\n02:40AM BLOOD Glucose-139* UreaN-47* Creat-2.1* Na-146* K-4.5 Cl-109* HCO3-26 AnGap-16\n02:40AM BLOOD cTropnT-0.02*\n10:00AM BLOOD cTropnT-0.08*\n10:00AM BLOOD Calcium-9.9 Mg-2.4\n02:53AM BLOOD pO2-39* pCO2-68* pH-7.27* \ncalTCO2-33* Base XS-1\n02:53AM BLOOD Lactate-1.7 proBNP-1275*\n\nThe left atrium is elongated. The right atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %) with global hypokinesis and regional inferior/infero-lateral,\n"
+}

@@ -1,0 +1,33 @@
+{
+    "Hypertrophic Cardiomyopathy$Intermedia_3": {
+        "Abnormal rhythms of ECG can be a sign ofHypertrophic Cardiomyopathy$Cause_1": {
+            "EKG: Terminal T-wave inversion V2, 2mm STD V3 new from prior, persistent STD V4-V6, inferior leads; STE aVR consistent with prior$Input2": {}
+        },
+        "Echocardiogram: Increased thickness of the myocardial wall (typically >15mm) can be diagnosised  as Hypertrophic Cardiomyopathy$Cause_1": {
+            "Echocardiogram: \nIncreased thickness of the myocardial wall (18mm)$Input6": {}
+        },
+        "Suspected Cardiomyopathy$Intermedia_2": {
+            "Chest Pain/L arm Pain is a sign of Cardiomyopathy$Cause_1": {
+                "Chest Pain/L arm Pain$Input1": {}
+            },
+            "history of congestive heart failure and cheat pain are risk facts of Cardiomyopathy$Cause_1": {
+                "She is a 60 female with a history of congestive heart failure with preserved EF, atypical chest pain who presents for the evaluation of 1 day of waxing and waning, constant, sharp left-sided chest pain radiating to her neck and her left shoulder.$Input2": {}
+            },
+            "HTN is a risk fact of Cardiomyopathy$Cause_1": {
+                "She thinks that her blood pressure was high over the days leading up to this admission$Input2": {}
+            },
+            "Obesity with BMI of 46 is the risk fact for Cardiomyopathy$Cause_1": {
+                "Obesity with BMI of 46$Input3": {}
+            },
+            "Hypothyroidismv is the risk fact for Cardiomyopathy$Cause_1": {
+                "Hypothyroidism$Input3": {}
+            }
+        }
+    },
+    "input1": "Chest Pain/L arm Pain\n",
+    "input2": "She is a 60 female with a history of congestive heart failure with preserved EF, atypical chest pain who presents for the evaluation of 1 day of waxing and waning, constant, sharp left-sided chest pain radiating to her neck and her left shoulder.  Pain began on the morning of presentation, waking her from sleep around 4am. She had episodes of this sharp left-sided pain throughout the day. Pain crescendos over several minutes and then subsides on its own. There is no exertional or pleuritic component. She denies any shortness of breath, cough, fevers, orthopnea, lower extremity edema.  She thinks that her blood pressure was high over the days leading up to this admission; home readings were around 160s systolic. She notes 2 days of bifrontal headache without blurry vision or altered mental status or other neurological symptom.  \n\nIn the ED initial vitals were: 98 BP 163/100, HR 62, RR 18 98RA  \nEKG: Terminal T-wave inversion V2, 2mm STD V3 new from prior, persistent STD V4-V6, inferior leads; STE aVR consistent with prior  \nLabs/studies notable for: normal CBC, chemistry panel, Troponin negative x1, UA negative, CXR with No acute cardiopulmonary process.  \nPatient was given: PO 1g Acetaminophen, 10 mg IV metoclopramide, PO aspirin 243, carvedilol 3.25mg PO  \nCardiology was consulted, recommended admission for BP medication titration.  She has had many similar admissions, in past also with SOB with asthma exacerbation along with diastolic dysfunction.  \n \nREVIEW OF SYSTEMS:  \nPositive per HPI  \n+mild frontal headache  \nCardiac review of systems is notable for absence dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope, or presyncope.\n",
+    "input3": "+Hypertension  \n+Obesity with BMI of 46  \n+Asthma triggered by URIs \n+Possible obstructive sleep apnea\n+Hypothyroidism\n+Carpal tunnel syndrome, requiring surgery\n+Nephrolithiasis\n+Hysterectomy  \n+Upper extremity paresthesias and numbness.  \n+Retropubic mid urethral sling procedure\n",
+    "input4": "Father: Died \"young\" from a brain aneurysm  \nMother: Had \"fluid in her lungs\"\n",
+    "input5": "PHYSICAL EXAMINATION AT ADMISSION:  \nVS: T 97.5, bp 158/89, HR 68, RR 18, SPO2 94% on RA.  \nGENERAL: Well developed, well nourished woman in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI. Conjunctiva were pink. No pallor or cyanosis of the oral mucosa. No xanthelasma.  \nNECK: Supple. JVP of 7 cm.  \nCARDIAC: PMI located intercostal space, midclavicular line. Regular rate and rhythm. Normal S1, S2. No murmurs, rubs, or gallops. No thrills or lifts.  \nLUNGS: No chest wall deformities or tenderness. Respiration is unlabored with no accessory muscle use. No crackles, wheezes or rhonchi.  \nABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No splenomegaly.  \nEXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or peripheral edema.  \nSKIN: No significant skin lesions or rashes.  \nPULSES: Distal pulses palpable and symmetric.\n",
+    "input6": "___ 04:45PM BLOOD WBC-7.6 RBC-5.03 Hgb-13.8 Hct-42.9 MCV-85 MCH-27.4 MCHC-32.2 RDW-13.1 RDWSD-40.3 Plt ___\n___ 04:45PM BLOOD Neuts-54.8 ___ Monos-5.0 Eos-2.1 Baso-0.7 Im ___ AbsNeut-4.14 AbsLymp-2.80 AbsMono-0.38 AbsEos-0.16 AbsBaso-0.05\n___ 04:45PM BLOOD Glucose-91 UreaN-12 Creat-0.8 Na-142 K-3.9 Cl-104 HCO3-25 AnGap-17\n___ 04:45PM BLOOD cTropnT-<0.01\n___ 10:50PM BLOOD cTropnT-<0.01\n\nEchocardiogram: \nIncreased thickness of the myocardial wall (18mm)\n"
+}

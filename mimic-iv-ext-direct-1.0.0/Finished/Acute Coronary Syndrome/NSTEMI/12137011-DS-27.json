@@ -1,0 +1,96 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "TnT 0.12$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest Pain is a symptom of ACS.$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "chest Pain after exercisec is a symptom of ACS.$Cause_1": {
+                "He went up and down stairs twice outside in the heat, and developed acute chest pressure/pain after exertion. the chest pain was midsternal, non-radiating, and associated with extreme flushing/diaphoresis, no N/V.$Input2": {}
+            },
+            "Status post aortic valve replacement and mitral valve is Risk factors$Cause_1": {
+                "+Status post aortic valve replacement and mitral valve\n+Prosthetic valve endocarditis (Staphylococcus epidermidis)\n+Myocardial infarction secondary to endocarditis, septic embolus\n+History of atrial fibrillation.\n+History of Crohn's disease\n-Hypertension.\n+Hypercholesterolemia.$Input3": {}
+            },
+            "Family history is a big risk factor$Cause_1": {
+                "Father -diabetes, chronic obstructive pulmonary disease, and a history of cerebrovascular accidents;Brother with lupus.$Input4": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "Changes in heart structure is a diagnostic criteria of ACS.$Cause_1": {
+                "Normal functioning bileaflet AVR and MVR. Symmetric left ventricular hypertrophy with regional systolic dysfunction most c/w CAD. Mildly dilated ascending aorta.$Input6": {}
+            },
+            "Abnormal electrocardiogram is a diagnostic criteria of ACS$Cause_1": {
+                "EKG: Regular sinus rhythm, RBBB, diffuse ST elevation in II, III, aVF, V2 through V6, Q wave in I, II, and aVL, unchanged from prior$Input2": {}
+            },
+            "Abnormal electrocardiogram is a diagnostic criteria of ACS.$Cause_1": {
+                "Right bundle-branch block. Left anterior fascicular block. Anterior wall myocardial infarction of indeterminate age. Prolonged Q-T interval. Compared to the previous tracing P-R interval is now prolonged.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "chest Pain after exercisec is a symptom of ACS.$Cause_1": {
+                    "He went up and down stairs twice outside in the heat, and developed acute chest pressure/pain after exertion. the chest pain was midsternal, non-radiating, and associated with extreme flushing/diaphoresis, no N/V.$Input2": {}
+                },
+                "Status post aortic valve replacement and mitral valve is Risk factors$Cause_1": {
+                    "+Status post aortic valve replacement and mitral valve\n+Prosthetic valve endocarditis (Staphylococcus epidermidis)\n+Myocardial infarction secondary to endocarditis, septic embolus\n+History of atrial fibrillation.\n+History of Crohn's disease\n-Hypertension.\n+Hypercholesterolemia.$Input3": {}
+                },
+                "Family history is a big risk factor$Cause_1": {
+                    "Father -diabetes, chronic obstructive pulmonary disease, and a history of cerebrovascular accidents;Brother with lupus.$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation\r is  a sign of NSTE-ACS$Cause_1": {
+                "non-ST-elevation$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "chest Pain after exercisec is a symptom of ACS.$Cause_1": {
+                    "He went up and down stairs twice outside in the heat, and developed acute chest pressure/pain after exertion. the chest pain was midsternal, non-radiating, and associated with extreme flushing/diaphoresis, no N/V.$Input2": {}
+                },
+                "Status post aortic valve replacement and mitral valve is Risk factors$Cause_1": {
+                    "+Status post aortic valve replacement and mitral valve\n+Prosthetic valve endocarditis (Staphylococcus epidermidis)\n+Myocardial infarction secondary to endocarditis, septic embolus\n+History of atrial fibrillation.\n+History of Crohn's disease\n-Hypertension.\n+Hypercholesterolemia.$Input3": {}
+                },
+                "Family history is a big risk factor$Cause_1": {
+                    "Father -diabetes, chronic obstructive pulmonary disease, and a history of cerebrovascular accidents;Brother with lupus.$Input4": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "Changes in heart structure is a diagnostic criteria of ACS.$Cause_1": {
+                    "Normal functioning bileaflet AVR and MVR. Symmetric left ventricular hypertrophy with regional systolic dysfunction most c/w CAD. Mildly dilated ascending aorta.$Input6": {}
+                },
+                "Abnormal electrocardiogram is a diagnostic criteria of ACS$Cause_1": {
+                    "EKG: Regular sinus rhythm, RBBB, diffuse ST elevation in II, III, aVF, V2 through V6, Q wave in I, II, and aVL, unchanged from prior$Input2": {}
+                },
+                "Abnormal electrocardiogram is a diagnostic criteria of ACS.$Cause_1": {
+                    "Right bundle-branch block. Left anterior fascicular block. Anterior wall myocardial infarction of indeterminate age. Prolonged Q-T interval. Compared to the previous tracing P-R interval is now prolonged.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest Pain is a symptom of ACS.$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "chest Pain after exercisec is a symptom of ACS.$Cause_1": {
+                        "He went up and down stairs twice outside in the heat, and developed acute chest pressure/pain after exertion. the chest pain was midsternal, non-radiating, and associated with extreme flushing/diaphoresis, no N/V.$Input2": {}
+                    },
+                    "Status post aortic valve replacement and mitral valve is Risk factors$Cause_1": {
+                        "+Status post aortic valve replacement and mitral valve\n+Prosthetic valve endocarditis (Staphylococcus epidermidis)\n+Myocardial infarction secondary to endocarditis, septic embolus\n+History of atrial fibrillation.\n+History of Crohn's disease\n-Hypertension.\n+Hypercholesterolemia.$Input3": {}
+                    },
+                    "Family history is a big risk factor$Cause_1": {
+                        "Father -diabetes, chronic obstructive pulmonary disease, and a history of cerebrovascular accidents;Brother with lupus.$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "He is with history of bicuspid aortic valve status post prosthetic aortic valve, staphylococcus epidermidis endocarditis requiring a repeat aortic valve surgery, thromboembolic myocardial infarction s/p balloon angioplasty of the left circumflex artery, HLD, CKD (baseline creatinine 1.4), gout, Crohn's disease, who presented with chest pain.  \n\nPatient reported that he was in his usual state of health until the day of presentation. He went up and down stairs twice outside in the heat, and developed acute chest pressure/pain after exertion. the chest pain was midsternal, non-radiating, and associated with extreme flushing/diaphoresis, no N/V. Feeling much improved. Also w/+SOB and DOE, no orthopnea. He has a history of MI but doesn't know if this is a similar pain. He also reported bad taste in his mouth with this episode. Wife noted that his ankles appear more swollen b/l.  \n\nHe denies fever, chills, headache, dizziness, dysuria, calf tenderness. He has cough at baseline.  \n\nIn the ED, initial vitals were: 98.3 63 121/71 17 96% RA  \nExam notable for:  rrr, s1/s2, ___ murmurs  ctabl no w/c/r  soft, +bs, nd/nt  no edema, no tenderness b/l, wwp  \n\nLabs notable for:  \nWBC 8.0 N:75.4 H/H 13.3/41.6 Platelets: 163  \nNa 137 K 3.9 creatinine 1.5  \nPTT: 54.1 INR: 3.8  \nALT: 47 AP: 94 Tbili: 0.8 Alb: 4.0 AST: 61  \n2100 Trop-T: 0.12 CK: 135 MB: 4  \n0300 Trop-T: 0.12 CK: 112 MB: 4  \nUA within normal limits  \nImaging notable for: CXR with no acute cardiopulmonary process.  \n\nEKG: Regular sinus rhythm, RBBB, diffuse ST elevation in II, III, aVF, V2 through V6, Q wave in I, II, and aVL, unchanged from prior \n non-ST-elevation \n \nPatient was given:  \nNitroglycerin SL .4 mg  PO/NG Atorvastatin 80 mg Metoprolol Tartrate 25 mg  \n\nCardiology consulted and recommended: Hx of nonobstructive CAD. P/w several ours of chest pain at rest. resolved after arriving to ED (NTG). TnT 0.12, second set pending. ECG essentially unchanged from baseline. RBBB j point elevations V4-6. New isolated concordant STD in V1. on VKA, INR supratheraputic, hold UFH, give ASA and high potency statin.\n",
+    "input3": "+Status post aortic valve replacement and mitral valve\n+Prosthetic valve endocarditis (Staphylococcus epidermidis)\n+Myocardial infarction secondary to endocarditis, septic embolus\n+History of atrial fibrillation.\n+History of Crohn's disease\n-Hypertension.\n+Hypercholesterolemia.\n",
+    "input4": "Father -diabetes, chronic obstructive pulmonary disease, and a history of cerebrovascular accidents;Brother with lupus.\n",
+    "input5": "ADMISSION PHYSICAL EXAM:  \n=========================\nVital Signs: 97.8 | 155/91 | 54 | 18 | 96%RA  \nGeneral: Alert, oriented, no acute distress  \nHEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL, neck supple, JVP not elevated, no LAD  \nCV: Regular mechanical heart sounds, no murmurs, rubs, gallops  \nLungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi  \nAbdomen: Soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding  \nGU: No foley  \nExt: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  \nNeuro: Grossly non-focal\n",
+    "input6": "IMAGING & STUDIES:  \n\n___ Imaging CHEST (PA & LAT) \nMidline sternotomy wires again noted.  Cardiomediastinal silhouette is unchanged with mild cardiac enlargement.  Aortic and mitral valve replacements are noted.  Lungs are clear without overt signs of edema or pneumonia.  Mild hilar congestion is suspected.  No large effusion or pneumothorax.  Bony  structures are intact.  Degenerative changes of the left shoulder partially imaged \n\n___ Cardiovascular ECG \nSinus rhythm with A-V conduction delay. Right bundle-branch block. Left anterior fascicular block. Anterior wall myocardial infarction of indeterminate age. Prolonged Q-T interval. Compared to the previous tracing P-R interval is now prolonged.  \nTRACING #1 \n\n___ Cardiovascular ECG \nSinus rhythm. Right bundle-branch block. Left anterior fascicular block.  A-V conduction delay. Anterior wall myocardial infarction of indeterminate age. Compared to tracing #1 findings are similar. \nTRACING #2 \n\n___ Cardiovascular ECG \nSinus bradycardia. A-V conduction delay. Right bundle-branch block. Left anterior fascicular block. Anterior wall myocardial infarction of indeterminate age. Compared to tracing #2 the heart rate has slowed. \nTRACING #3 \n\n___: ECHO: (LVEF = 41%)\nThe left atrial volume index is moderately increased. There is moderate symmetric left ventricular hypertrophy with normal cavity size. There is mild regional left ventricular systolic dysfunction with thinning/akinesis of the distal half of the inferolateral and distal inferior wall. The remaining segments contract normally (LVEF = 41%). No masses or thrombi are seen in the left ventricle. The ascending aorta is mildly dilated. A bileaflet aortic valve prosthesis is present. The aortic valve prosthesis appears well seated, with normal disc motion and transvalvular gradients. No aortic regurgitation is seen. A bileaflet mitral valve prosthesis is present. The mitral prosthesis appears well seated, with normal disc motion and transvalvular gradients. No mitral regurgitation is seen. Due to acoustic shadowing, the severity of mitral regurgitation may be significantly UNDERestimated.] The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion. \n\nIMPRESSION: Suboptimal image quality. Normal functioning bileaflet AVR and MVR. Symmetric left ventricular hypertrophy with regional systolic dysfunction most c/w CAD. Mildly dilated ascending aorta.\n"
+}

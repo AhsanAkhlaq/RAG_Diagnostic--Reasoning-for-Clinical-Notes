@@ -1,0 +1,46 @@
+{
+    "HFpEF$Intermedia_5": {
+        "LVEF\u226550% is the critiera for HFpEF$Cause_1": {
+            "LVEF>55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "Mild symmetric left ventricular hypertrophy with normal global and regional biventricular systolic function. Dilated right ventricle with moderate global systolic dysfunction.$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "BNP \u2265 35 pg/mL is a strong value for heart failure$Cause_1": {
+                    "BNP 600pg/mL$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "weight gain is a sign of heart failure$Cause_1": {
+                        "weight gain$Input2": {}
+                    },
+                    "Peripheral edema is a sign of heart failure$Cause_1": {
+                        "increasing edema over the last one week in her lower legs and abdomen$Input2": {}
+                    },
+                    "increased fatigue is a typical symptom of heart failure$Cause_1": {
+                        "increased fatigue$Input2": {}
+                    },
+                    "Pleural effusion is a sign of heart failure$Cause_1": {
+                        "moderate pulmonary edema$Input2": {}
+                    },
+                    "CAD is a risk factor of heart failure$Cause_1": {
+                        "CAD$Input3": {}
+                    },
+                    "Chronic atrial fibrillation is a risk factor of heart failure$Cause_1": {
+                        "Chronic atrial fibrillation$Input3": {}
+                    },
+                    "Hypertension is a risk factor of heart failure$Cause_1": {
+                        "Hypertension$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "Ms. is an 68 year old woman with CAD, diastolic heart failure, and rheumatic heart disease. Her dry weight is 120-122 pounds. She weighs herself daily and has had multiple admissions in the past for CHF exacerbations. Today she reports gaining approximately 2.5 pounds since yesterday. She describes increasing edema over the last one week in her lower legs and abdomen. She uses home oxygen (3L) for exertional activities. She has been using it more frequently over the last week with any type of exertion. She also describes increased fatigue and a heavy sensation in her lower extremities. She does not lay flat due to SOB. After speaking with her PCP, she was referred to the ED for further evaluation.  \n\nIn the ED initial VS were 97.5 76 115/43 16 91 on RA. She had a chest xray consistent with moderate pulmonary edema. She was placed on supplemental oxygen which increased her O2 sat to 96% on two liters. She was not given any additional diuresis.  \n\nOn the floor she denied any additional complaints. She stated that her left leg was improving. It had been recently treated for cellulitis. She also notes that her left leg (around the knee) is always slightly worse than the right. She has taken metalozone 3 times last week.\n",
+    "input3": "+CAD- S/P Cath - 2 vessel CAD\n+Rheumatic heart disease, status post bioprosthetic AVR and MVR following a clinical course of repeated admissions for acute pulmonary edema in the setting of functional mitral\nregurgitation.\n+Chronic atrial fibrillation, on warfarin.\n+Hypertension.\n+Pulmonary hypertension with mild RV dysfunction.\n+COPD with exercise dependent oxygen supplement. \n+CKD - stage IV\n",
+    "input4": "Father:died stomach cancer.\nNo family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.\n",
+    "input5": "VS: 95.9 116/68 16 86 on RA, 96 on 3L 72  \nGen: appears comforable, thin  \nHEENT: MMM, pupils equal  \nNeck: JVD  \nCV: irregularly irregular, systolic murmur  \nPulm: bilateral crackles at bases  \nAbd: soft, nontender, slightly distended, normoactive bowel \nsounds  \nExt: 1+ edema, pulses 2+ bilaterally, small amount of erythema around left leg, non-tender  \nNeuro: moving all extremities, face symmetric, plantar/dorsiflexion, grip, hip flexion, arm flexion/extension, gross sensation intact\n",
+    "input6": "Labs on Admission:\n___ 04:40PM BLOOD WBC-9.5 RBC-3.46* Hgb-9.5* Hct-30.4* MCV-88 MCH-27.4 MCHC-31.1 RDW-18.3* Plt ___\n___ 04:40PM BLOOD Neuts-77.1* Lymphs-16.6* Monos-3.2 Eos-2.7 Baso-0.4\n___ 04:40PM BLOOD ___ PTT-38.8* ___\n___ 04:40PM BLOOD Glucose-102* UreaN-83* Creat-2.9* Na-142 K-4.2 Cl-105 HCO3-20* AnGap-21*\n___ 04:40PM BLOOD ___\n___ 05:55AM BLOOD Calcium-8.7 Phos-4.5 Mg-2.2\nBNP 600\nLabs on Discharge:\n___ 09:25AM BLOOD ___ PTT-43.6* ___\n___ 09:25AM BLOOD Glucose-211* UreaN-79* Creat-2.3* Na-141 K-3.5 Cl-99 HCO3-27 AnGap-19\n___ 09:25AM BLOOD Calcium-9.5 Phos-3.3 Mg-2.0\n.\nCXR (___): FINDINGS: PA and lateral views of the chest are obtained. Midline sternotomywires and prosthetic cardiac valves are again seen. The heart remains stably enlarged with significant interstitial edema again noted. Underlying emphysema is again noted. No large pleural effusions or pneumothorax is seen. Atherosclerotic calcifications along the aorta noted. Bones are demineralized and note is again made of a compression fracture in the lower thoracic spine.\nIMPRESSION: Stable radiograph compared with cardiomegaly and pulmonary interstitial edema.\n\nECHO: The left atrium is moderately dilated. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%). The right ventricular cavity is moderately dilated with moderate global free wall hypokinesis. A bioprosthetic aortic valve prosthesis is present. The prosthetic aortic valve leaflets are thickened. The transaortic gradient is higher than expected for this type of prosthesis and corresponds to severe functional aortic stenosis. Trace aortic regurgitation is seen. A bioprosthetic mitral valve prosthesis is present. The prosthetic mitral valve leaflets are thickened. The gradients are higher than expected for this type of prosthesis. Mild (1+) mitral regurgitation is seen. The tricuspid valve leaflets are mildly thickened. Moderate to severe [3+] tricuspid regurgitation is seen. There is severe pulmonary artery systolic hypertension. There is no pericardial effusion. \n\nIMPRESSION: Mild symmetric left ventricular hypertrophy with normal global and regional biventricular systolic function. Dilated right ventricle with moderate global systolic dysfunction. Degenerated aortic and mitral valve bioprostheses with thickened leaflets and higher-than-expected gradients. Moderate to severe tricuspid regurgitation. Severe pulmonary hypertension.\n"
+}

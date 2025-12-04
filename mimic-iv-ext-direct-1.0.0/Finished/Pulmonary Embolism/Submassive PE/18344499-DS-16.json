@@ -1,0 +1,50 @@
+{
+    "Submassive PE$Intermedia_4": {
+        "hemodynamically stable rule out massive PE.$Cause_1": {
+            "The patient is hemodynamically stable$Input6": {}
+        },
+        "Increased right ventricle/left ventricle ratio. This is an important imaging indicator for diagnosing pulmonary embolism.$Cause_1": {
+            "The RV/LV ratio is greater than 1$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Multiple emboli indicate extensive pulmonary vascular involvement, which is characteristic of severe pulmonary embolism$Cause_1": {
+                "There are occlusive and nonocclusive emboli within right upper, middle, and lower lobe pulmonary arteries.$Input6": {}
+            },
+            "nonocclusive saddle embolism may obstruct blood flow, increase cardiac workload, and is direct evidence of pulmonary embolism.$Cause_1": {
+                "There is a nonocclusive saddle embolism within the right main pulmonary artery.$Input6": {}
+            },
+            "The embolism of the left pulmonary artery indicates the extensiveness of pulmonary embolism.$Cause_1": {
+                "There is also an acute thrombus on the left involving lobar, segmental and subsegmental arteries.$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Hypertension is one of the common chronic diseases in patients with pulmonary embolism$Cause_1": {
+                    "h.o HTN$Input2": {}
+                },
+                "Surgery is an important factor leading to venous thrombosis, especially after arthroscopic surgery, the risk of venous thrombosis is higher, which can further lead to pulmonary embolism.$Cause_1": {
+                    "recent R.sided arthroscopy$Input2": {}
+                },
+                "Calf cramps may be an early symptom of deep vein thrombosis (DVT), which may be related to pulmonary embolism.$Cause_1": {
+                    "calf cramping in the RLE$Input2": {}
+                },
+                "Shortness of breath is a classic symptom of pulmonary embolism$Cause_1": {
+                    "developing SOB$Input2": {}
+                },
+                "Significant limitation of respiratory function, which is a critical clinical finding in patients with pulmonary embolism$Cause_1": {
+                    "felt like he could not get any air in$Input2": {}
+                },
+                "High blood pressure may be a warning sign of pulmonary embolism$Cause_1": {
+                    "BP: 154/94$Input5": {}
+                },
+                "Pulmonary hypertension may be caused by obstruction of the pulmonary blood vessels$Cause_1": {
+                    "moderate pulmonary artery systolic hypertension$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Pt is a male with h.o HTN, recent R.sided arthroscopy who presented to OSH with SOB. Pt reports that he developed calf cramping in the RLE which was new. This lasted a few days. He then started developing SOB which he attributed to his anxiety. However, the SOB continued to worsen and pt felt like he could not get any air in and presented to OSH. He denies CP, palpitations, LH/dizziness, n/v. He reports that calf pain resolved yesterday. No history of bleeding or clots. \n\ufeff\nOther 10pt ROS reviewed and negative including for headache, abdominal pain, d/c, melena, brbpr, dysuria, hematuria, other joint pain, rash, weight loss, appetite changes.\n\ufeff\n",
+    "input3": "N/A\n",
+    "input4": "states mother, sister, brother alive and well. Father died of cancer. No history of clotting disorders.\n",
+    "input5": "Physical Exam:\nADMISSION PHYSICAL EXAM:\nGEN-WELL appearing, NAD, comfortable appearing\n0745 Temp: 97.7 PO BP: 154/94 HR: 84 RR: 18 O2\nsat: 95% O2 delivery: RA \nHEENT-ncat eomi anicteric MMM\nneck-supple\nrespiratory-b/l ae no w/c/r\ncardiovascular-s1s2 rr no m/r/g\next-no c/c/e 2+pulses\nmsk-R.knee with steristreps at surgical site, no erythema, or signs of bleeding\nneuro-face symmetric, speech fluent\npsych-calm, cooperative \nskin-no obvious rashes\n\ufeff\n",
+    "input6": "ADMISSION LABS:\n___ 02:45AM BLOOD WBC: 8.6 RBC: 5.02 Hgb: 14.6 Hct: 40.9 MCV: 82 MCH: 29.1 MCHC: 35.7 RDW: 12.9 RDWSD: 37.\n___ 02:45AM BLOOD : 12.8* PTT: 31.3 : 1.2* \n___ 02:45AM BLOOD Glucose: 145* UreaN: 12 Creat: 0.9 Na: 141 K: 3.6 Cl: 101 HCO3: 25 AnGap: 15 \n___ 02:45AM BLOOD cTropnT: <0.01 \n___ 02:45AM BLOOD proBNP: 129 \n___ 03:00AM BLOOD Lactate: 1.8 \n\ufeff\nIMAGING\n- CTA chest: The heart is normal in size. There is no coronary calcification or circumferential pericardial fluid collection. The thoracic aorta looks normal. There is no mediastinal or hilar nodal enlargement. There is a nonocclusive saddle embolism within the right main pulmonary artery. There are occlusive and nonocclusive emboli within right upper, middle, and lower lobe pulmonary arteries. There is also an acute thrombus on the left involving lobar, segmental and subsegmental arteries. Some of these are occlusive. The RV/LV ratio is greater than 1. Despite this there is no reflux of contrast into the IVC or hepatic veins. The visualized portions of the solid organs in the upper abdomen look normal. Incidental note is made of a smalllipoma along the inferolateral aspect of left chest\n\ufeff\nThe lungs are clear. There is minimal right pleural fluid. There is no left pleural effusion. There is no pneumothorax on either side.\n\ufeff\n\ufeff\n- TTE: The patient is hemodynamically stable. The left atrial volume index is normal. There is normal left ventricular wall thickness with a normal cavity size. There is normal regional left ventricular systolic function. The visually estimated left ventricular ejection fraction is 70%. There is no resting left ventricular outflow tract gradient. Normal right ventricular cavity size with normal free wall motion. The aortic sinus diameter is normal for gender with normal ascending aorta diameter for gender. The aortic arch diameter is normal. The aortic valve leaflets (3) appear structurally normal. There is no aortic valve stenosis. There is no aortic regurgitation. The mitral valve leaflets appear structurally normal with no mitral valve prolapse. There is no mitral valve stenosis. There is trivial mitral regurgitation. The tricuspid valve leaflets appear structurally normal with systolic prolapse. There is physiological tricuspid regurgitation. There is moderate pulmonary artery systolic hypertension. There is nopericardial effusion\n\ufeff\n"
+}

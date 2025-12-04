@@ -1,0 +1,27 @@
+{
+    "Gastric ulcers$Intermedia_3": {
+        "Gastric ulcer with bleeding on endoscopy\nis the gold standard of gastric ulcer.$Cause_1": {
+            "Endoscopy:Gastric ulcer with bleeding$Input6": {}
+        },
+        "suspected peptic ulcer disease$Intermedia_2": {
+            "Fatigue and GI bleedis the manifestation of gastric ulcer with bleed.$Cause_1": {
+                "Fatigue, GI bleed$Input1": {}
+            },
+            "Black stool may be caused by gastric ulcer with bleed.$Cause_1": {
+                "Has noticed black stool over the last several days.$Input2": {}
+            },
+            "Depression is the risk factor of peptic ulcer.$Cause_1": {
+                "depression$Input3": {}
+            },
+            "Anemia is the manifestation of gastric ulcer with bleed.$Cause_1": {
+                "RBC-3.31* Hgb-10.7*$Input6": {}
+            }
+        }
+    },
+    "input1": "Fatigue, GI bleed\n",
+    "input2": "with a history of diabetes, hypertension, s/p gastric bypass in who presents with GI bleed. Pt recently started taking Fe supplements for anemia. Has noticed black stool over the last several days. Has felt very fatigued, SOB with exertion. No chest pain. Recent colonoscopy / EGD was unremarkable. No h/o GI bleed. No blood thinning medications. In ED, hct 32, Lactate 4, hematemeisis present when placing NGT.\n",
+    "input3": "+depression\n+DM2\n+HTN\n+obesity\n+peripheral neuropathy  \n+herniorrhaphy ventral\n+gastric bypass\n",
+    "input4": "Father with CAD, DM, prostate CA. Brother and HTN\n",
+    "input5": "VS:  T98.6, HR 83, BP 117/50, RR 18, 97%RA\nGEN: AA&O x 3, NAD, calm, cooperative.  \nHEENT: (-)LAD, mucous membranes moist, trachea midline, EOMI, PERRL.  \nCHEST: Clear to auscultation bilaterally, (-) cyanosis.  \nABDOMEN:(+) BS x 4 quadrants, soft, nontender to palpation, no gurading or rebound tenderness, normal to percussion\nEXTREMITIES: Warm, well perfused, pulses palpable,(+) edema of upper extremities bilaterally.\n",
+    "input6": "10:17AM BLOOD WBC-8.9# RBC-3.31* Hgb-10.7* Hct-32.1* MCV-97 MCH-32.3* MCHC-33.2 RDW-17.1* Plt\n03:12PM BLOOD Hct-27.7*\n09:35PM BLOOD Hct-24.5*\n02:05AM BLOOD Hct-24.6*\n06:03AM BLOOD WBC-4.2# RBC-2.47*# Hgb-7.6*# Hct-23.8* MCV-96 MCH-30.8 MCHC-32.0 RDW-17.4* Plt\n02:10PM BLOOD WBC-4.3 RBC-2.54* Hgb-8.2* Hct-24.6* MCV-97 MCH-32.3* MCHC-33.3 RDW-17.0* Plt\n07:33AM BLOOD WBC-3.7* RBC-2.81* Hgb-9.1* Hct-27.6* MCV-98 MCH-32.3* MCHC-33.0 RDW-17.1* Plt\nEndoscopy:Gastric ulcer with bleeding\n"
+}

@@ -1,0 +1,114 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "BLOOD CK-MB-3 cTropnT-0.38*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain on exertion is a symptom of ACS.$Cause_1": {
+                "Chest pain on exertion$Input1": {}
+            },
+            "This patient is a male who complains of Chest pain, Transfer. Patient presents with intermittent chest pain for 3 days. Patient states is worse with exercise.\n is sign of acs$Cause_1": {
+                "This patient is a male who complains of Chest pain, Transfer. Patient presents with intermittent chest pain for 3 days. Patient states is worse with exercise.$Input2": {}
+            },
+            "Diabetes is a risk factor$Cause_1": {
+                "Diabetes$Input3": {}
+            },
+            "Dyslipidemia is a risk factor$Cause_1": {
+                "Dyslipidemia$Input3": {}
+            },
+            "Hypertension is a risk factor$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "family fistory: brother has hypertension is a risk fact$Cause_1": {
+                "brother has hypertension$Input4": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                "PERCUTANEOUS CORONARY INTERVENTIONS: 2 x DES to RCA per report. Most recent cath - LAD w/ 40% mid-occlusion, normal LCx, RCA w/ 99% occlusion at the origin of the PDA, and 40% occluded ramus.  \n+ PACING/ICD: pacemaker for complete heart block s/p multiple lead revisions$Input3": {}
+            },
+            "The heart structure is abnormalwhich is a strongly sign of acs\n\n\n.$Cause_1": {
+                "The large high OM1 (functionally a ramus intermedius) had a mild ostial plaque and patent stents. Flow was slightly slow and pulsatile, consistent with microvascular dysfunction.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain on exertion is a symptom of ACS.$Cause_1": {
+                    "Chest pain on exertion$Input1": {}
+                },
+                "This patient is a male who complains of Chest pain, Transfer. Patient presents with intermittent chest pain for 3 days. Patient states is worse with exercise.\n is sign of acs$Cause_1": {
+                    "This patient is a male who complains of Chest pain, Transfer. Patient presents with intermittent chest pain for 3 days. Patient states is worse with exercise.$Input2": {}
+                },
+                "Diabetes is a risk factor$Cause_1": {
+                    "Diabetes$Input3": {}
+                },
+                "Dyslipidemia is a risk factor$Cause_1": {
+                    "Dyslipidemia$Input3": {}
+                },
+                "Hypertension is a risk factor$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "family fistory: brother has hypertension is a risk fact$Cause_1": {
+                    "brother has hypertension$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "She went outside hospital had a negative EKG$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain on exertion is a symptom of ACS.$Cause_1": {
+                    "Chest pain on exertion$Input1": {}
+                },
+                "This patient is a male who complains of Chest pain, Transfer. Patient presents with intermittent chest pain for 3 days. Patient states is worse with exercise.\n is sign of acs$Cause_1": {
+                    "This patient is a male who complains of Chest pain, Transfer. Patient presents with intermittent chest pain for 3 days. Patient states is worse with exercise.$Input2": {}
+                },
+                "Diabetes is a risk factor$Cause_1": {
+                    "Diabetes$Input3": {}
+                },
+                "Dyslipidemia is a risk factor$Cause_1": {
+                    "Dyslipidemia$Input3": {}
+                },
+                "Hypertension is a risk factor$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "family fistory: brother has hypertension is a risk fact$Cause_1": {
+                    "brother has hypertension$Input4": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "PERCUTANEOUS CORONARY INTERVENTIONS: 2 x DES to RCA per report. Most recent cath - LAD w/ 40% mid-occlusion, normal LCx, RCA w/ 99% occlusion at the origin of the PDA, and 40% occluded ramus.  \n+ PACING/ICD: pacemaker for complete heart block s/p multiple lead revisions$Input3": {}
+                },
+                "The heart structure is abnormalwhich is a strongly sign of acs\n\n\n.$Cause_1": {
+                    "The large high OM1 (functionally a ramus intermedius) had a mild ostial plaque and patent stents. Flow was slightly slow and pulsatile, consistent with microvascular dysfunction.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain on exertion is a symptom of ACS.$Cause_1": {
+                        "Chest pain on exertion$Input1": {}
+                    },
+                    "This patient is a male who complains of Chest pain, Transfer. Patient presents with intermittent chest pain for 3 days. Patient states is worse with exercise.\n is sign of acs$Cause_1": {
+                        "This patient is a male who complains of Chest pain, Transfer. Patient presents with intermittent chest pain for 3 days. Patient states is worse with exercise.$Input2": {}
+                    },
+                    "Diabetes is a risk factor$Cause_1": {
+                        "Diabetes$Input3": {}
+                    },
+                    "Dyslipidemia is a risk factor$Cause_1": {
+                        "Dyslipidemia$Input3": {}
+                    },
+                    "Hypertension is a risk factor$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "family fistory: brother has hypertension is a risk fact$Cause_1": {
+                        "brother has hypertension$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain on exertion\n",
+    "input2": "This patient is a male who complains of Chest pain, Transfer. Patient presents with intermittent chest pain for 3 days. Patient states is worse with exercise.Patient denies any shortness of breath. But does note fatigue when he gets chest pain. Patient states when he stops ambulating and improves. He denies any fevers or chills. She went outside hospital had a negative EKG \n",
+    "input3": "+ Diabetes\n+ Dyslipidemia\n+ Hypertension\n+ CABG: none\n+ PERCUTANEOUS CORONARY INTERVENTIONS: 2 x DES to RCA per report. Most recent cath - LAD w/ 40% mid-occlusion, normal LCx, RCA w/ 99% occlusion at the origin of the PDA, and 40% occluded ramus.  \n+ PACING/ICD: pacemaker for complete heart block s/p multiple lead revisions  \n+ RBBB\n+ GERD  \n+ B12 deficiency  \n+ allergic rhinitis  \n+ chronic sinusitis  \n+ AAA  \n+ peripheral neuropathy  \n+ lumbar degenerative disc disease  \n+ h/o strokes  \n+ BPH\n",
+    "input4": "-father died from liver disease  \n-mother died from complications after cholecystectomy  \n-brother has hypertension\n",
+    "input5": "Admission PE: \nVitals - T: 98.3 BP: 174-190/81-93 HR: 62 RR: 18 02 sat: 98% RA  \n\ufeff\nGENERAL: NAD  \nHEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, patent nares, MMM, good dentition  \nNECK: nontender supple neck, no LAD, no JVD (8cm)  \nCARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  \nLUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles  \nABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding. \nEXTREMITIES: moving all extremities well, no cyanosis, clubbing or edema  \nPULSES: 2+ DP pulses bilaterally  \nNEURO: CN II-XII intact  \nSKIN: warm and well perfused, no excoriations or lesions, no rashes\n",
+    "input6": "Admission Labs: \n\ufeff\n07:00AM BLOOD WBC-5.6 RBC-4.61 Hgb-13.0* Hct-40.4 \nMCV-88 MCH-28.3 MCHC-32.3 RDW-15.0\n07:00AM BLOOD Glucose-111* UreaN-13 Creat-1.3* Na-141 \nK-3.6 Cl-106 HCO3-28 AnGap-11\n01:00AM BLOOD CK(CPK)-125\n01:00AM BLOOD CK-MB-3 cTropnT-0.08*\n07:00AM BLOOD CK-MB-3 cTropnT-0.38*\n07:00AM BLOOD Calcium-8.9 Phos-2.7 Mg-2.1\n\ufeff\nIMAGING:\n\ufeff\nCath: \nCoronary angiography: right dominant\nLMCA: The moderate long LMCA tapered to 35% distally.\nLAD: The LAD had an ostial 30% stenosis. There was a proximal-mid diffuse LAD lesion to 60% beginning just before S1. A mildly diseased segment of the mid LAD may have been intramyocardial. There was a very distal apical 75% stenosis (unchanged from previous) before the LAD wrapped around the apex in a terminal bifurcation. The distal diagonals were fairly large and long vessels. Flow in the LAD was slow, consistent with microvascular dysfunction. There were septal collaterals to the\nRPDA.\nLCX: The large high OM1 (functionally a ramus intermedius) had a mild ostial plaque and patent stents. Flow was slightly slow and pulsatile, consistent with microvascular dysfunction. The true AV groove CX was small, diffusely diseased and supplied several small OM and LPL branches, as well as several small atrial branches.\nRCA: The RCA had diffuse disease throughout the mid-distal vessel to 35% mid vessel and 45% in the mid-distal RCA. The prior stent(s) in the distal RCA before the RPDA were patent. The RPDA was subtotally occluded with 99% stenosis at its origin and minimal antegrade filling (TIMI 1), likely the culprit lesion for the current (? recent vs. subacute) NSTEMI. The AV groove RCA just after the RPDA had an 85% stenosis (distal stent edge restenosis) with TIMI 2 pulsatile flow. The RPL1 just beyond this 85% stenosis had an origin 50% stenosis. RPL2 was of modest caliber and diffusely diseased. RPL3 had a laterally oriented sidebranch. The RCA ran well up the lateral aspect of the AV\ngroove.\n"
+}

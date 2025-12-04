@@ -1,0 +1,58 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is elongated. The right atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strong suspected heart failure.$Cause_1": {
+                    "proBNP-1275*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "The nature of chest pain may indicate stress on the heart or abnormal heart function.$Cause_1": {
+                        "Gradualonset, squeezing, \"rolling\", central chest pain$Input2": {}
+                    },
+                    "Pain radiating from the chest to the elbows, along with numbness in the fingertips, may indicate a pinched nerve or poor blood flow from a heart problem.$Cause_1": {
+                        "radiatingto both elbows with numbness to fingertips$Input2": {}
+                    },
+                    "Dizziness may be caused by a lack of blood flow to the brain due to poor heart pumping.$Cause_1": {
+                        "some lightheadedness$Input2": {}
+                    },
+                    "Long-term diabetes can lead to damage to the cardiovascular system and increase the risk of heart failure$Cause_1": {
+                        "Diabetes type 2$Input3": {}
+                    },
+                    "Coronary artery disease reduces blood flow to the heart, causing damage to the heart muscle, which increases the likelihood of heart failure.$Cause_1": {
+                        "Coronary artery disease$Input3": {}
+                    },
+                    "Dyslipidemia increases the risk of atherosclerosis, an important cause of coronary artery disease and heart failure.$Cause_1": {
+                        "Dyslipidemia$Input3": {}
+                    },
+                    "Long-term high blood pressure will increase the workload on the heart, causing it to gradually enlarge and possibly progress to heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Atrial fibrillation can cause the heart to fill poorly and produce less blood, increasing the risk of heart failure.$Cause_1": {
+                        "Atrial fibrillation$Input3": {}
+                    },
+                    "Distended jugular veins are a common sign of heart failure, indicating that blood flow back to the heart is blocked.$Cause_1": {
+                        "JVP elevated to jaw$Input5": {}
+                    },
+                    "A heart murmur may be due to a malfunctioning heart valve or other structural problems with the heart, conditions that are common in people with heart failure.$Cause_1": {
+                        "possible I/VI systolic murmur at the right upper sternal boarder$Input5": {}
+                    },
+                    "Limb edema and skin changes such as reticular erythema are manifestations of increased venous pressure and poor circulation caused by heart failure.$Cause_1": {
+                        "Feet: livedo stasis bilaterally with scaleing skin over anterior tibia$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Patient is a poor historian;  Gradualonset, squeezing, \"rolling\", central chest pain, radiatingto both elbows with numbness to fingertips associated with diaphoresis and some lightheadedness. Denies nausea/vomitting/syncope. Pain occured at rest. \n",
+    "input3": "+ Diabetes type 2  \n+ Coronary artery disease, s/p DES\n+ Dyslipidemia  \n+ Hypertension  \n+ Atrial fibrillation  \n+ PVD, s/p bilateral iliac stents, s/p right carotid \nendarterectomy  \n+ Recurrent DVT/PE (clot R leg), s/p IVC filter  \n+ COPD  \n+ GERD  \n+ Cataracts  \n+ Glaucoma  \n+ Alzheimer's dementia  \n+ Delusional d/o  \n+ Temporal arteritis\n",
+    "input4": "Brothers x2 and sister died of lung CA.  \nBrother with CVA.  \nFather died of MI.\n",
+    "input5": "In the ED, initial vitals were:\nPain 0, Temp 97.8, P 59, BP 137/54, RR 16, O2 sat 98% RA  \n\nUpon arrival to the floor, vitals were: Pain 0, Temp 97.4, BP \n138/60, P 60, RR 20, O2 sat 100% RA\n\nWeight:\nAdmission: 98.1 kg (standing)\n: 99 kg (bed)\n: 97.4 kg (standing)\n\nPHYSICAL EXAMINATION:  \nGeneral: Patient cheerfully laying in bed, hard of hearing,wheezing, clearly delusional \nHEENT: EOMI, conjunctival sclera   \nNeck: JVP elevated to jaw, no carotid bruits \nCV: RRR, normal S1/S2, possible I/VI systolic murmur at the right upper sternal boarder with no radiation to carotids, norubs/gallops, no heaves/thrills  \nLungs: Clear bilateral breath sounds, no crackles/crepitatins  \nAbdomen: Soft, distended with fat, tender on deep palpation in right and left upper quadrants  \nGU: deferred  \nExt: Hands: strong regular radial pulses, hands hold, capillary refill >2 seconds; Feet: livedo stasis bilaterally with scaleing skin over anterior tibia, DP and pulses found via doppler (stronger on right), clubbing of all toes   \nNeuro: Alert, orientated to name and place, however delusional with mulitple tangents  \nSkin: No rashes\n",
+    "input6": "On admission:\n11:00PM   cTropnT-<0.01\n05:06PM   GLUCOSE-97 UREA N-25* CREAT-1.2 SODIUM-139 \nPOTASSIUM-4.9 CHLORIDE-103 TOTAL CO2-26 ANION GAP-15\n05:06PM   estGFR-Using this\n05:06PM   cTropnT-<0.01 proBNP-1275*\n05:06PM   DIGOXIN-1.1\n05:06PM   WBC-10.8 RBC-3.72* HGB-9.4* HCT-29.5* \nMCV-79*# MCH-25.3*# MCHC-31.9 RDW-15.5\n05:06PM   NEUTS-78.9* LYMPHS-13.1* MONOS-6.4 EOS-1.5 \nBASOS-0.1\n05:06PM   PLT COUNT-190\n03:20PM URINE  COLOR-Straw APPEAR-Clear SP\n03:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG \nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 \nLEUK-SM \n03:20PM URINE  RBC-0 WBC-1 BACTERIA-NONE YEAST-NONE \nEPI-<1\n\nThe left atrium is elongated. The right atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %) with global hypokinesis and regional inferior/infero-lateral,\n"
+}

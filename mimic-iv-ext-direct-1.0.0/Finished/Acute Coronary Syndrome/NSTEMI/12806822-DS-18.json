@@ -1,0 +1,72 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "Changes in heart structure is a diagnostic criteria of ACS.$Cause_1": {
+            "cTropnT-0.55$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest Pain is a symptom of ACS.$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "diaphoresis, and clammy feeling is a symptom of ACS.$Cause_1": {
+                "he was walking pt abruptly started having a dull CP at this chest in severity. He also had some diaphoresis, and clammy feeling but denies any jaw or neck pain, radiating pain to the arm.$Input2": {}
+            },
+            "hemmoroids is a risk fact$Cause_1": {
+                "hemmoroids$Input3": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.\n are strongly signs of acs$Cause_1": {
+                "Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "diaphoresis, and clammy feeling is a symptom of ACS.$Cause_1": {
+                    "he was walking pt abruptly started having a dull CP at this chest in severity. He also had some diaphoresis, and clammy feeling but denies any jaw or neck pain, radiating pain to the arm.$Input2": {}
+                },
+                "hemmoroids is a risk fact$Cause_1": {
+                    "hemmoroids$Input3": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation\r is  a sign of NSTE-ACS$Cause_1": {
+                "ECG\uff1a\nnon-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "diaphoresis, and clammy feeling is a symptom of ACS.$Cause_1": {
+                    "he was walking pt abruptly started having a dull CP at this chest in severity. He also had some diaphoresis, and clammy feeling but denies any jaw or neck pain, radiating pain to the arm.$Input2": {}
+                },
+                "hemmoroids is a risk fact$Cause_1": {
+                    "hemmoroids$Input3": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.\n are strongly signs of acs$Cause_1": {
+                    "Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest Pain is a symptom of ACS.$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "diaphoresis, and clammy feeling is a symptom of ACS.$Cause_1": {
+                        "he was walking pt abruptly started having a dull CP at this chest in severity. He also had some diaphoresis, and clammy feeling but denies any jaw or neck pain, radiating pain to the arm.$Input2": {}
+                    },
+                    "hemmoroids is a risk fact$Cause_1": {
+                        "hemmoroids$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "69 yo M w/o any signicant PMH presents with CP. Each morning he walks 1.5mi and this morning when he was walking pt abruptly started having a dull CP at this chest in severity. He also had some diaphoresis, and clammy feeling but denies any jaw or neck pain, radiating pain to the arm.  Once the pain occured he sat down, and the pain lasted a total of 10 minutes and completely went away. Pt did admit that he had some R hand numbness. Pt did not take an asprin or any other med, and when he got back home did take one prilosec. The pain was different from indigestion he has been having over the last couple months which is lower on his chest and a feeling offullness and some acid reflux feeling. Pt said he also had similar CP on (4d ago) when doing yard work and shoveling, and also later that night with the same pattern of pain/length and resolution when resting.\n \nOn review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. He denies recent fevers, chills or rigors. He denies exertional buttock or calf pain. Only (+) for blurry vision - for a couple minutes at a time over the last couple weeks pt would have a small area of his visual field that would be blurry and go away. \n\nCardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.\n",
+    "input3": "+hemmoroids\n-no other medical hx\n",
+    "input4": "There is no family history of premature coronary artery disease or sudden death.\n",
+    "input5": "VS - 97.3, 143/89, 61, 18, 100%RA\nGen: WDWN middle aged male in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were \npink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \nNeck: Supple with JVP of *** cm.  \nCV: PMI located in ___ intercostal space, midclavicular line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nChest: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nAbd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.  \nExt: No c/c/e. No femoral bruits.  \nSkin: No stasis dermatitis, ulcers, scars, or xanthomas.  \nRight: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ \nLeft: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+\n",
+    "input6": "___ 09:08PM   CK(CPK)-107\n___ 09:08PM   CK-MB-4\n___ 09:08PM   PLT COUNT-179\n___ 09:28AM   GLUCOSE-116* UREA N-26* CREAT-1.0 SODIUM-144 POTASSIUM-4.6 CHLORIDE-108 TOTAL CO2-29 ANION GAP-12\n___ 09:28AM   estGFR-Using this\n___ 09:28AM   CK(CPK)-148\n___ 09:28AM   cTropnT-0.55\n___ 09:28AM   CK-MB-5\n___ 09:28AM   WBC-5.1 RBC-4.68 HGB-14.4 HCT-42.1 MCV-90 MCH-30.7 MCHC-34.1 RDW-13.6\n___ 09:28AM   NEUTS-73.6* ___ MONOS-3.9 EOS-1.7 BASOS-0.5\n___ 09:28AM   PLT COUNT-191\n___ 09:28AM   ___ PTT-23.5 ___\n\nECG\uff1a\nnon-ST-elevation\n"
+}

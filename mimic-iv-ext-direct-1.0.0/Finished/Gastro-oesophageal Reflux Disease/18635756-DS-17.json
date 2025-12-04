@@ -1,0 +1,33 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET: 9.2% > 6% is the gold standard for GERD diagnosis$Cause_1": {
+            "Ambulatory reflux monitor :total AET:9.2% on pH-impedance monitoring.$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "abd pain is a common symptom of GERD$Cause_1": {
+                "abd pain$Input1": {}
+            },
+            "Typical GERD symptoms, which include worsening pain after eating and pain behind the breastbone, may be due to the backflow of stomach acid into the esophagus.$Cause_1": {
+                "progressive mid-epigastric abdominal pain that radiates to her chest and is exacerbate with eating food$Input2": {}
+            },
+            "Gastritis may be associated with GERD because both involve problems with the stomach and esophagus. Gastritis may worsen symptoms of GERD.$Cause_1": {
+                "Gastritis$Input3": {}
+            },
+            "Alcohol is a known GERD trigger, as it relaxes the lower esophageal sphincter and increases the likelihood of acid reflux.$Cause_1": {
+                "Alcohol abuse$Input3": {}
+            },
+            "Fatigue and weakness can be common experiences with GERD due to chronic pain.$Cause_1": {
+                "appears fatigued and weak$Input5": {}
+            },
+            "Mild pain in the upper abdomen may be directly related to GERD and reflect irritation of the esophagus-stomach interface by acid reflux.$Cause_1": {
+                "mild tenderness in epigastric region$Input5": {}
+            }
+        }
+    },
+    "input1": "abd pain\n",
+    "input2": "___ with metastatic ovarian cancer treated one month ago with___ presents with progressive abdominal pain, nausea and inability to tolerate oral intake. \n\nThe patient complains of progressive mid-epigastric abdominal pain that radiates to her chest and is exacerbate with eating food and noted to be worse in the morning. This pain has\nprogressed since getting chemotherapy and she has been unable to reliably take adequate PO intake. She has been administering IV infusions of normal saline, up to two liters per day at home without improvement of her symptoms.\n\nShe also notes occasional chills but no fevers. Last bowel movement was this morning.\n\nShe has no headache but endorses dizziness. No chest pain or\ndyspnea. No vomiting or diarrhea. No melena, hemotochezia or\ndysuria.\n",
+    "input3": "- Ovarian carcinoma as above\n- Gastritis\n- Nontoxic unilateral nodular goiter\n- Schistosomiasis\n- Fibroids\n- Migraine with aura\n- Low back pain\n- Generalized anxiety disorder\n- Alcohol abuse\n- Vitamin D deficiency\n",
+    "input4": "- Maternal grandmother with breast cancer in ___\n- Maternal aunt with breast cancer in ___\n- No history of gynecologic or colonic malignancies\n",
+    "input5": "VS 98.1 PO 99 / 62 63 18 98 Ra\nGENERAL:  appears fatigued and weak, but is calm and appears in NAD\nHEENT: Moist mucous membranes without thrush or erythema. Good dentition.\nEYES:  PERRL, anicteric\nNECK:  Supple\nRESP:  CTAB, no increased WOB, no rhonchi, wheezing, or crackles\n___:  RRR no MRG, normal distal perfusion, no edema\nGI:  Soft, mild tenderness in epigastric region, No rebound or guarding. Multiple, well healed surgical incisions noted\nEXT:  Warm, no edema, poor muscle bulk\nSKIN:  Dry, no rashes or bruising\nNEURO:  AOx3, fluent speech, calm\nACCESS:  Port dressing c/d/I\n",
+    "input6": "IMAGING:\n\nCT A/P:\n1. No evidence of abdominopelvic recurrence or metastasis. \n2. Apparent transverse colon wall thickening may reflect luminal underdistention, but difficult to exclude colitis in the appropriate clinical setting. \n\nCT Chest:\nNo evidence of metastasis to the chest. Please refer to dedicated report on abdomen which has been dictated separately \nfor further details.  Status post splenectomy. \n\nO&P: PENDING\nSchisto: PENDING\n\nAmbulatory reflux monitor :total AET:9.2% on pH-impedance monitoring.\n\n"
+}

@@ -1,0 +1,32 @@
+{
+    "Type I Diabetes$Intermedia_4": {
+        "CA antibodies are positive in most patients with type 1 diabetes$Cause_1": {
+            "ICA test result is positive$Input6": {}
+        },
+        "Diabetes$Intermedia_3": {
+            "Abnormal blood glucose is a diagnostic criteria of diabetes.$Cause_1": {
+                "BLOOD Glucose-217$Input6": {}
+            },
+            "Suspected Diabetes$Intermedia_2": {
+                "Hypertension is a symptom of diabetes.$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Family history is a big risk factor.$Cause_1": {
+                    "- mother  - type I diabetes$Input4": {}
+                },
+                "Thinness is a sign of diabetes.$Cause_1": {
+                    "GENERAL: Thin woman$Input5": {}
+                },
+                "Insulin degludec is a long-acting insulin used to treat diabetes. This may suggest that the patient may have diabetes or a condition that requires blood sugar control.$Cause_1": {
+                    "subcutaneous Tresiba FlexTouch U-100 *NF*$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "Hemoptysis\n",
+    "input2": "She has history of tracheal esophageal fistula, esophageal atresia, dysmotility, recurrent aspiration pneumonia, hypoplastic left lung, chronic cough, who presents with hemoptysis. \n\ufeff\nPatient reports that the day prior to admission she was in her usual state of health when she coughed up a dark red blood clot while playing mini-golf on vacation. The following day she again coughed up blood - this time around 1 teaspoon of bright red blood. She reports that prior to this she had no cough, shortness of breath, chest pain, fevers or chills. She also reports no nosebleeds, sore throat, nausea or vomiting. This has not happened to her before. She is not lightheaded or dizzy. \n\ufeff\nOn review of records, she was recently seen for a new chronic cough. st was felt that her ACEi and GERD were likely contributing factors. She was switched from Lisinopril to losartan and was started on a PPI twice daily for GERD. She was also noted to have a restrictive pattern of PFTs, thought possibly due to her hypoplastic lung. Patient states that since this visit her cough has improved and she has gone back to once daily omeprazole. \n\ufeff\nIn the ED:\n\ufeff\nInitial vital signs were notable for: T 97.9, HR 98, BP 148/81,RR 18, 100% RA \n\ufeff\nLabs were notable for:\n\ufeff\n- CBC: WBC 8.3, hgb 14.9, plt 167 \n\ufeff\n- Lytes:\n\ufeff\n140 / 102 / 14     AGap=13 \n-------------- 217 \n4.0 \\ 25 \\ 0.7 \n\ufeff\n- coags: ___: 10.9  PTT: 27.9  INR: 1.0  \n\ufeff\nConsults: IP was consulted, recommending CTA chest, evaluation of upper airway at bedside, broad spectrum antibiotics, and NPO at midnight for bronch \n\ufeff\nStudies performed include:\n- CTA chest with no evidence of active intrathoracic contrast extravasation/hemorrhage\n- Bedside evaluation of upper airways was normal \n\ufeff\nPatient was given: \n___ 21:57 subcutaneous Tresiba FlexTouch U-100 *NF* (insulin degludec)  \n___ 21:59 IV CefTRIAXone (1 g ordered)  \n___ 23:08 IV Azithromycin 500 mg \n\ufeff\nVitals on transfer: T 98.5, HR 66, BP 110/73, RR 18, 96% RA \n\ufeff\nUpon arrival to the floor, patient recounts history as above. Shestates she continues to feel well. \n\ufeff\nROS: Pertinent positives and negatives as noted in the HPI.  All other systems were reviewed and are negative. \n\ufeff\n",
+    "input3": "+ She was born with esophageal atresia with a tracheal fistula that was repaired surgically as a child.\n+ atonic upper esophagus.\n+ Other congenital abnormalities include a hypoplastic left lung and breast, scoliosis and developmental delay among others.\n+ restrictive lung disease due to chest wall abnormalities. \n+ angioedema due to some foods.\n+ Aspiration w/ frequent aspiration pneumonia\n+ Hypothyroidism.\n+ Hypertension.\n",
+    "input4": "- mother  - type I diabetes\n- father - mesothelioma\n- son - asthma, allergies\n- brother - crohns\n- sister - rheumatoid arthritis\n",
+    "input5": "================\nVITALS: T 98.5, HR 66, BP 110/73, RR 18, 96% RA \nGENERAL: Thin woman, alert and in no acute distress \nEYES: Anicteric, pupils equally round\nENT: Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesion, erythema or exudate\nCV: Heart regular, no murmur, no S3, no S4.  No JVD.\nRESP: Lungs clear to auscultation with good air movement bilaterally.  Breathing is non-labored\nGI: Abdomen soft, non-distended, non-tender to palpation.  Bowel sounds present.  No HSM\nGU: No suprapubic fullness or tenderness to palpation\nMSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs\nSKIN: No rashes or ulcerations noted\nNEURO: Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs, sensation to light touch grossly intact throughout\nPSYCH: pleasant, appropriate affect\n",
+    "input6": "Admission Labs:\n================\n___ 04:13PM BLOOD WBC-8.3 RBC-4.98 Hgb-14.9 Hct-45.0 MCV-90 MCH-29.9 MCHC-33.1 RDW-12.8 RDWSD-42.2 \n___ 04:13PM BLOOD Neuts-70.5 Monos-6.3 Eos-0.5* Baso-0.7 AbsNeut-5.86 AbsLymp-1.79 AbsMono-0.52 AbsEos-0.04 AbsBaso-0.06\n___ 04:22PM BLOOD PTT-27.9\n___ 04:13PM BLOOD Glucose-217* UreaN-14 Creat-0.7 Na-140 K-4.0 Cl-102 HCO3-25 AnGap-13\n___ 04:13PM BLOOD Calcium-9.8 Phos-2.9 Mg-1.8\n\ufeff\nMicro:\n=========\nBAL from RUL of lung: Prelim gram stain with 3+ pmns, no microorganisms\n\ufeff\nBronch:\n===============\nNo evidence of old blood in proximal BI likely source RUL. No active bleeding. A bronchial lavage with 90mL of saline performed\n\nAntibody test:\n===============\nICA antibody test result is positive\n"
+}

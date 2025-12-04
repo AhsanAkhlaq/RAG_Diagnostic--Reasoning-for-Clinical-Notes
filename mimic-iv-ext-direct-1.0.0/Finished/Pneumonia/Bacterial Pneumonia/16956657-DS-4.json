@@ -1,0 +1,35 @@
+{
+    "Bacterial Pneumonia$Intermedia_4": {
+        "The patient developed neutropenic fever after stem cell transplantation and the administration of leukoproliferative factors, and was also found to have consolidation in the right lung, which was caused by bacterial or fungal pneumonia.$Cause_1": {
+            "With neutropenic fever after starting neupogen for SCT, found to have right sided consolidation concerning for bacterial vs fungal PNA.$Input6": {}
+        },
+        "Pneumonia$Intermedia_3": {
+            "Lung consolidation usually indicates that the lung tissue is congested or filled with fluid, a classic sign of pneumonia$Cause_1": {
+                "Nodular like consolidation in the right upper lobe (4:102) measuring 4.8 x 3.1 cm.$Input6": {}
+            },
+            "Suspected Pneumonia$Intermedia_2": {
+                "Fever due to neutropenia can be a risk factor for the diagnosis of pneumonia.$Cause_1": {
+                    "Neutropenic Fever$Input1": {}
+                },
+                "High fever is one of the common symptoms of pneumonia$Cause_1": {
+                    "Last night he recorded a temperature of 105 F$Input2": {}
+                },
+                "Flu-like symptoms (eg, fever, malaise, myalgias) can also be symptoms of pneumonia, especially if you feel unexplained for a long time$Cause_1": {
+                    "He feels as though he \"has the flu\", but this sensation has been present for the better part of the past year$Input2": {}
+                },
+                "The patient was treated with antibiotics in the emergency department, which could mean doctors suspected a bacterial infection, including possible pneumonia.$Cause_1": {
+                    "In the emergency department he was administered cefepime, vancomycin, and 1L NS$Input2": {}
+                },
+                "Long-term smoking can damage the lungs and airways and increase the risk of pneumonia$Cause_1": {
+                    "Chronic Smoker$Input3": {}
+                }
+            }
+        }
+    },
+    "input1": "Neutropenic Fever\n",
+    "input2": "He is 61 year-old Caucasian with history of lambda freelight chain multiple myeloma, gout, congenital hemihyperplasia, obesity, diabetes type 2 complicated by diabetic retinopathy and chronic kidney disease who presents with a fever.\n\nAfter undergoing a workup for microalbuminuria, he was found to have a faint band of lambda light chain monoclonal protein. A skeletal survey on rule out myeloma lytic lesions revealed no lytic lesions. A bone marrow biopsy was performed and revealed plasma cell with lambda light chain expression. Patient was diagnosed with smoldering myeloma. CKD was still attributed to diabetes. He was monitored every 3 months (with lab tests including SPEP, Light Chain Assay, Immunoglobulins) and was also given IV Zometa  q3 months for possible skeletal metastasis. \n\nOn patient underwent a repeat bone marrow aspiration and biopsy which revealed a normal cellular bone marrow involvement of about 10% of lambda restricted plasma cell neoplasm. He had a repeat skeletal survey on which showed no lytic bone lesion. He was then initiated on RVD and completed 8C in VGPR.\n\nThis admission was complicated by diarrhea for which an infectious workup was negative. At discharge he was instructed to call if he developed a fever.  Last night he recorded a temperature of 105 F, and was promptly instructed to come to the ED. \n\nHe feels as though he \"has the flu\", but this sensation has been present for the better part of the past year. Otherwise, he denies any symptoms. His diarrhea is resolving, and now half of his BM's are loose, and half are solid.\n\nIn the emergency department he was administered cefepime, vancomycin, and 1L NS. Maximum temperature in the ED was 100.0.\n\n\n",
+    "input3": "+DM2\n+HLD\n+CKD \n+Obesity\n+Hemihypertrophy\n+Diabetic Retinopathy\n+Microalbuminuria \n+Hemochromatosis (Heterozygous) \n+Gout \n+Chronic Knee Pain\n+Chronic Smoker\n",
+    "input4": "Mother (Cardiac) and Father (abuse/cirrhosis) are deceased. Brother and sister died of a drug overdose. No family history of hematological illness or cancer.\n",
+    "input5": "VITALS: Afebrile and vital signs stable (see eFlowsheet)\nGENERAL: Alert and in no apparent distress\nEYES: Anicteric, pupils equally round\nENT: Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesion, erythema or exudate\nCV: Heart regular, no murmur, no S3, no S4.  No JVD.\nRESP: Lungs clear to auscultation with good air movement bilaterally.  Breathing is non-labored\nGI: Abdomen soft, non-distended, non-tender to palpation.  Bowel sounds present.  Obese.\nGU: No suprapubic fullness or tenderness to palpation\nMSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs. No cervical or clavicular lymphadenopathy. Fullness in left axilla.\nSKIN: No rashes or ulcerations noted\nNEURO: Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs, sensation to light touch grossly intact throughout\nPSYCH: pleasant, appropriate affect\n",
+    "input6": "ADMISSION RESULTS:\n___ 11:44PM BLOOD WBC-0.3* RBC-3.17* Hgb-9.8* Hct-28.3* MCV-89 MCH-30.9 MCHC-34.6 RDW-13.7 RDWSD-45.0 Plt ___\n___ 11:44PM BLOOD Glucose-145* UreaN-17 Creat-1.3* Na-140 K-4.1 Cl-103 HCO3-20* AnGap-17\n___ 11:44PM BLOOD ALT-9 AST-10 AlkPhos-95 TotBili-0.9\n___ 11:44PM BLOOD Albumin-4.5 Calcium-9.4 Phos-2.1* Mg-1.4*\n\nPERTINENT RESULTS:\n\nCT CHEST (___)\n \nFINDINGS:  \n  \nNECK, THORACIC INLET, AXILLAE, CHEST WALL: There are no thyroid \nlesions that warrant further imaging. No lymphadenopathy in the thoracic inlet. No abnormalities on the chest wall. No atherosclerosis in head and neck vessels. \n  \nUPPER ABDOMEN: The limited sections of the upper abdomen show no significant abnormal findings. \n  \nMEDIASTINUM: Esophagus is unremarkable. Small mediastinal lymph nodes, not pathologically enlarged by size criteria, the largest right paratracheal measuring up to 7 mm.  No apparent hilar lymphadenopathy. \n  \nHEART and PERICARDIUM: Heart is normal in size. No pericardial effusions. Mild atherosclerotic calcifications in the coronary arteries. PLEURA: No pleural effusions. \n\n  \n1. PARENCHYMA:  Nodular like consolidation in the right upper lobe (4:102) measuring 4.8 x 3.1 cm. \n2. AIRWAYS:  Airways are patent to subsegmental levels. \n3. VESSELS:  Pulmonary arteries are not enlarged. \nCHEST CAGE: Moderate dorsal spondylosis.  No acute fractures.  No suspicious lytic or sclerotic lesions. \n  \n\nMICROBIOLOGY (___)\nWith neutropenic fever after starting neupogen for SCT, found to have right sided consolidation concerning for bacterial vs fungal PNA.\n"
+}

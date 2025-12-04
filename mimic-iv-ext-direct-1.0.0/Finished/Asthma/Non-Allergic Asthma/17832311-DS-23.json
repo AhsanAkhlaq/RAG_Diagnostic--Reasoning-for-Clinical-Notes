@@ -1,0 +1,47 @@
+{
+    "Non-Allergic Asthma$Intermedia_4": {
+        "Mold is a known asthma trigger, especially in people with asthma, where it can cause or worsen respiratory symptoms.$Cause_1": {
+            "mold in the house$Input2": {}
+        },
+        "Asthma$Intermedia_3": {
+            "Significant improvement in FEV1 is often used to assess asthma patients' response to treatment and to diagnose asthma.$Cause_1": {
+                "significant improvement in FEV1 of more than 16%$Input6": {}
+            },
+            "Suspected Asthma$Intermedia_2": {
+                "Dyspnea is a common symptom of asthma$Cause_1": {
+                    "Dyspnea$Input1": {}
+                },
+                "Smoking is a known trigger for asthma$Cause_1": {
+                    "tobacco use$Input2": {}
+                },
+                "Atopic dermatitis and asthma share a common immunological background, and the two often coexist.$Cause_1": {
+                    "atopic dermatitis who presents with acute onset dyspnea$Input2": {}
+                },
+                "Acute onset of dyspnea is a typical symptom of asthma.$Cause_1": {
+                    "acute onset dyspnea$Input2": {}
+                },
+                "She received intravenous magnesium, solumetasone, and ipratropium bromide, which are commonly used to treat acute asthma attacks. Magnesium and hormones help relieve airway inflammation and dilate the airways.$Cause_1": {
+                    "magnesium 2g IV, solumedrol 125mg IV, and combivent x2 en$Input2": {}
+                },
+                "Previous history of asthma increase the risk$Cause_1": {
+                    "asthma$Input3": {}
+                },
+                "Family history inrease the risk$Cause_1": {
+                    "Brother has asthma.$Input4": {}
+                },
+                "An elevated white blood cell count may indicate infection or inflammation, which may be seen in people with asthma.$Cause_1": {
+                    "WBC-12.9$Input6": {}
+                },
+                "It is common in patients with dyspnea and hypoxemia, which may occur during an asthma attack.$Cause_1": {
+                    "Sinus tachycardia$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea\n",
+    "input2": "She is current tobacco use, and atopic dermatitis who presents with acute onset dyspnea. \n\nPatient reports acute onset dyspnea this the morning of ___,\nwhich prompted her to call EMS. On arrival, EMS noted O2 sat 89% and placed patient on supplemental O2. She received magnesium 2g IV, solumedrol 125mg IV, and combivent x2 en route to ___. She was then placed on BiPAP. \n\nIn the ED, initial vitals were HR 95  BP 120/65  RR 15  POx 99% CPAP\n\nOn arrival to the floor, patient endorses the above history and adds that she is concerned her house may be the trigger for her recent exacerbations. She believes there may be mold in the house, as it is very old and has not been re-done. She denies recent infectious symptoms or sick contacts. She recently purchased a hypoallergenic mattress and pillows. She keeps her pets out of the bedroom. She is trying to cut back on how much she smokes, but did not smoke at all today or immediately before feeling short of breath.\n",
+    "input3": "-asthma (PFTs in ___: FEV1/FVC 78%, FEV1 1.8L) w/ prior intubation in ___ for asthma exacerbation in pregnancy\n-HTN\n-reported G6PD deficiency \n-prior splenectomy (reportedly for a splenic cyst ___\n-current tobacco use\n",
+    "input4": "Mother and 3 siblings with G6PD. Brother has asthma.\n",
+    "input5": "___ ___ Temp: 97.8 PO BP: 149/81 HR: 92 RR: 18 O2 sat: 96%\nO2 delivery: Ra \nGENERAL: Well-appearing, laying in bed comfortably, in NAD\nHEENT: NC/AT, EOMI, MMM\nNECK: No cervical lymphadenopathy. No JVD.\nCARDIAC: Regular rhythm, normal rate. Audible S1 and S2. Soft systolic murmur at RUSB\nLUNGS: Good air movement bilaterally, rare wheezes in bilateral bases, no rhonci\nABDOMEN: Normal bowels sounds, non distended, non-tender to deep palpation in all four quadrants. No organomegaly.\nEXTREMITIES: No clubbing, cyanosis, or edema.\nSKIN: Warm, well-perfused, no rashes\nNEUROLOGIC: A&Ox3, moving all extremities with purpose, no \nfacial asymmetry\n",
+    "input6": "___ 09:50AM BLOOD WBC-12.9* RBC-4.08 Hgb-12.7 Hct-39.1 \nMCV-96 MCH-31.1 MCHC-32.5 RDW-13.8 RDWSD-48.4* Plt ___\n___ 09:50AM BLOOD Glucose-169* UreaN-22* Creat-1.4* Na-140 \nK-3.9 Cl-101 HCO3-23 AnGap-16\n\n- ___ EKG: Sinus tachycardia, biatrial enlargement, LVH with\nsecondary repolarization abnormality and anterior ST elevation, unchanged from prior\n\nsignificant improvement in FEV1 of more than 16%\n\n"
+}

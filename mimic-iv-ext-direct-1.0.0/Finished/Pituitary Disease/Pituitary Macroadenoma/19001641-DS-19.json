@@ -1,0 +1,21 @@
+{
+    "Pituitary Macroadenomas$Intermedia_3": {
+        "The discovery of large Pituitary adenomas directly proves Pituitary Macroadenomas$Cause_1": {
+            "Pituitary adenomas that are 1.8 cm$Input6": {}
+        },
+        "Suspected pituitary disease$Intermedia_2": {
+            "A pituitary giant adenoma may affect the body's hormonal balance, which in turn may affect blood pressure.$Cause_1": {
+                "hypertension$Input3": {}
+            },
+            "Patients have visual field defects, especially during lateral gaze. Large pituitary tumors may compress the optic chiasm and cause visual field defects.$Cause_1": {
+                "Visual fields showed a lateral gaze deficit$Input5": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "None\n",
+    "input3": "+ hypertension \n+ diabetes type II\n+ surgical treatment for plantar fasciitis\n",
+    "input4": "non-contributory\n",
+    "input5": "Physical Exam:\nPre-Op exam:\nOn exam: he appears to be in no acute distress, well nourished. He is alert and oriented to person, place, and time. PERRL, EOM intact without nystagmus, face symmetric, tongue midline, facial strength and sensation intact, hearing intact to voice, speech is clear and fluent, comprehension intact, no pronator drift, no Romberg, heel to shin intact, and tandem gait intact. Visual fields showed a lateral gaze deficit. He moves all extremities with full strength, normal tone and bulk. Gait is normal.  \n\ufeff\n",
+    "input6": "Labs on Admission:\n___ 05:22AM BLOOD WBC-13.7*# RBC-4.63 Hgb-10.2* Hct-30.9* MCV-67* MCH-22.0* MCHC-33.0 RDW-14.9\n___ 05:22AM BLOOD Glucose-193* UreaN-14 Creat-0.9 Na-135 K-4.2 Cl-101 HCO3-27 AnGap-11\n___ 05:22AM BLOOD Calcium-8.5 Phos-2.5* Mg-1.6\n\ufeff\nLabs on Discharge:\n___ 04:40AM BLOOD WBC-9.2 RBC-4.73 Hgb-10.5* Hct-31.3* MCV-66* MCH-22.3* MCHC-33.7 RDW-14.8\n___ 04:40AM BLOOD PTT-22.5\n___ 04:40AM BLOOD Glucose-139* UreaN-15 Creat-0.8 Na-138 K-3.7 Cl-101 HCO3-32 AnGap-9\n___ 04:40AM BLOOD Calcium-8.9 Phos-3.5 Mg-2.5\n___ 03:08PM BLOOD Osmolal-301\n\ufeff\nImaging: \nPituitary adenomas that are 1.8 cm \n\ufeff\n\ufeff\n"
+}

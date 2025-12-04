@@ -1,0 +1,108 @@
+{
+    "UA$Intermedia_5": {
+        "Severe chest pain is symbol of ACS-UA$Cause_1": {
+            "she started to feel badly as if she was in a 'fog' and was lightheaded.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "lightheadedness is a symptom of ACS$Cause_1": {
+                "lightheadedness$Input1": {}
+            },
+            "PMH CAD s/p MI and stenting, HTN, hyperlipidemia, glaucoma, are risk factors of acs$Cause_1": {
+                "69 yo F with PMH CAD s/p MI and stenting, HTN, hyperlipidemia, glaucoma, macular degeneration admitted for lightheadedness.$Input2": {}
+            },
+            "HTN is a risk fact$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "MI s/p PCI with stent placement, repeat PCI with stenting is a risk factor$Cause_1": {
+                "MI s/p PCI with stent placement, repeat PCI with stenting$Input3": {}
+            },
+            "Hyperlipidemia is a risk fact$Cause_1": {
+                "Hyperlipidemia$Input3": {}
+            },
+            "Glaucoma is a risk fact$Cause_1": {
+                "Glaucoma$Input3": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "can strongly suspected ACS$Cause_1": {
+                "IMPRESSION: \n1. Bilateral, left greater than right, bibasilar linear atelectases. No focal consolidation or pleural effusion. \n2. Diffuse osteopenia. Apparent multi-level vertebral body wedge$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "lightheadedness is a symptom of ACS$Cause_1": {
+                    "lightheadedness$Input1": {}
+                },
+                "PMH CAD s/p MI and stenting, HTN, hyperlipidemia, glaucoma, are risk factors of acs$Cause_1": {
+                    "69 yo F with PMH CAD s/p MI and stenting, HTN, hyperlipidemia, glaucoma, macular degeneration admitted for lightheadedness.$Input2": {}
+                },
+                "HTN is a risk fact$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "MI s/p PCI with stent placement, repeat PCI with stenting is a risk factor$Cause_1": {
+                    "MI s/p PCI with stent placement, repeat PCI with stenting$Input3": {}
+                },
+                "Hyperlipidemia is a risk fact$Cause_1": {
+                    "Hyperlipidemia$Input3": {}
+                },
+                "Glaucoma is a risk fact$Cause_1": {
+                    "Glaucoma$Input3": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of c$Cause_1": {
+                "ECG:non-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "lightheadedness is a symptom of ACS$Cause_1": {
+                    "lightheadedness$Input1": {}
+                },
+                "PMH CAD s/p MI and stenting, HTN, hyperlipidemia, glaucoma, are risk factors of acs$Cause_1": {
+                    "69 yo F with PMH CAD s/p MI and stenting, HTN, hyperlipidemia, glaucoma, macular degeneration admitted for lightheadedness.$Input2": {}
+                },
+                "HTN is a risk fact$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "MI s/p PCI with stent placement, repeat PCI with stenting is a risk factor$Cause_1": {
+                    "MI s/p PCI with stent placement, repeat PCI with stenting$Input3": {}
+                },
+                "Hyperlipidemia is a risk fact$Cause_1": {
+                    "Hyperlipidemia$Input3": {}
+                },
+                "Glaucoma is a risk fact$Cause_1": {
+                    "Glaucoma$Input3": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "can strongly suspected ACS$Cause_1": {
+                    "IMPRESSION: \n1. Bilateral, left greater than right, bibasilar linear atelectases. No focal consolidation or pleural effusion. \n2. Diffuse osteopenia. Apparent multi-level vertebral body wedge$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "lightheadedness is a symptom of ACS$Cause_1": {
+                        "lightheadedness$Input1": {}
+                    },
+                    "PMH CAD s/p MI and stenting, HTN, hyperlipidemia, glaucoma, are risk factors of acs$Cause_1": {
+                        "69 yo F with PMH CAD s/p MI and stenting, HTN, hyperlipidemia, glaucoma, macular degeneration admitted for lightheadedness.$Input2": {}
+                    },
+                    "HTN is a risk fact$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "MI s/p PCI with stent placement, repeat PCI with stenting is a risk factor$Cause_1": {
+                        "MI s/p PCI with stent placement, repeat PCI with stenting$Input3": {}
+                    },
+                    "Hyperlipidemia is a risk fact$Cause_1": {
+                        "Hyperlipidemia$Input3": {}
+                    },
+                    "Glaucoma is a risk fact$Cause_1": {
+                        "Glaucoma$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "lightheadedness\n",
+    "input2": "69 yo F with PMH CAD s/p MI and stenting, HTN, hyperlipidemia, glaucoma, macular degeneration admitted for lightheadedness.  \n\nPatient reports that earlier this afternoon while playing scrabble she started to feel badly as if she was in a 'fog' and was lightheaded. At that time, she did not have CP, SOB, HA, blurred vision or N/V. 911 was called and she was brought to where she received ASA, SL NG x1 with resolution of her symptoms. EKG was unchanged. Patient was placed on heparin gtt and transferred here for further management. Per records, patient had a positive PMIBI in anterior wall distrubution this week.\n\nIn the ED here VS: 97.9 60 146/70 17 97%2L. Repeat CE were negative. EKG unchanged from prior. CXR without acute process per my read.  \n\nROS: Currently denies fevers, weight loss, weight gain, chest pain, shortness of breath, DOE, PND, orthopnea, abdominal pain, nausea, vomiting, hematemesis, constipation, BRBPR, change in bowel or bladder habits, dysuria, hematuria, lower extremity edema.\n",
+    "input3": "+MI s/p PCI with stent placement, repeat PCI with stenting  \n+HTN  \n+Hyperlipidemia  \n+Glaucoma  \n+Macular Degeneration\n",
+    "input4": "NC\n",
+    "input5": "Vitals T:97.1 BP:153/89 HR:65 RR:18 98% on RA  \nGnl: NAD, Alert and oriented x 3  \nHEENT: PERRLA, Anicteric, MMM, no JVD  \nCV: regular rate, loud s2, SEM at RUSB  \nResp: Clear to auscultation bilaterally, No wheezes or crackles  \nAbd: obese, +bs, soft, nontender, mo hepatosplenomegaly  \nExtremities: No cyanosis, clubbing or edema  \nskin/nails: no rashes/no jaundice/no splinters  \nNeuro: AAOx3. Cn II-XII intact. ___ strength throughout. No sensory deficits to light touch appreciated. 2+DTR's-patellar and biceps. gait not assessed  \nRectal: not done\n",
+    "input6": "Labs on admission:\n\n___ 08:10PM   GLUCOSE-102 UREA N-14 CREAT-0.8 SODIUM-144 POTASSIUM-3.7 CHLORIDE-110* TOTAL CO2-22 ANION GAP-16\n___ 08:10PM   WBC-6.0 RBC-4.40 HGB-13.3 HCT-40.1 MCV-91 MCH-30.3 MCHC-33.3 RDW-13.5\n___ 08:10PM   NEUTS-47.7* LYMPHS-42.1* MONOS-5.1 EOS-4.5* BASOS-0.6\n___ 08:10PM   PLT COUNT-197\n\nCardiac enzymes:\n___ set negative at OSH)\n___ 06:15AM BLOOD CK(CPK)-88\n___ 06:15AM BLOOD CK-MB-NotDone cTropnT-<0.01\n___ 08:10PM BLOOD CK(CPK)-96\n___ 08:10PM BLOOD cTropnT-<0.01\n\nCXR:  \nIMPRESSION: \n1. Bilateral, left greater than right, bibasilar linear atelectases. No focal consolidation or pleural effusion. \n2. Diffuse osteopenia. Apparent multi-level vertebral body wedge\n\nECG:non-ST-elevation\n"
+}

@@ -1,0 +1,30 @@
+{
+    "Secondary Adrenal Insufficiency$Intermedia_3": {
+        "The use of steroids to treat certain syndromes may result in adrenal suppression because exogenous steroids inhibit the body's natural production of adrenocortical hormones, a direct factor in secondary adrenal insufficiency.$Cause_1": {
+            "syndrome while on steroids$Input3": {}
+        },
+        "An ACTH stimulation test was performed, and adrenocortical hormone (cortisol) increased after the administration of ACTH. In secondary adrenal insufficiency, ACTH secretion is decreased due to problems with the pituitary gland or hypothalamus, resulting in insufficient adrenal cortical hormone secretion.$Cause_1": {
+            "A stim test find that cortisol increases when ACTH is given.$Input6": {}
+        },
+        "Suspected Adrenal Insufficiency$Intermedia_2": {
+            "Common symptoms of adrenal insufficiency include fatigue and nonspecific abdominal discomfort.$Cause_1": {
+                "weakness and vague abdominal pain with loose stools persisted$Input2": {}
+            },
+            "The use of hydrocortisone is standard of care for acute adrenal crisis and indicates that physicians consider the possibility of adrenal insufficiency.$Cause_1": {
+                "pt received:  Hydrocortisone 50mg x1 and Dilaudid IV, Zofran and NS$Input2": {}
+            },
+            "Rapid improvement after hydrocortisone treatment further supports the diagnosis of adrenal insufficiency$Cause_1": {
+                "arrival to the floor she reports significant improvement from her initial presentation$Input2": {}
+            },
+            "Hypothyroidism after thyroiditis may lead to an imbalance in the body's overall hormone balance, affecting the normal production and secretion of adrenal cortical hormones, which may in turn affect adrenal function.$Cause_1": {
+                "Thyroiditis now w/ Hypothyroidism$Input3": {}
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "She commented that managing her medicines seems to occupy a great deal of concentration, and since grieving for the dog, she has felt like she has \"gotten behind\" with dose adjustments of her fludricortisone, predisone, and anti-hypertensives.  Her weakness and vague abdominal pain with loose stools persisted to the point that she came into the ED to for further evaluation. \n\n.  \n-In the ED, initial VS: 97.3 87 119/85 16 100% RA   \n-The pt underwent:  no studies\n-The pt received:  Hydrocortisone 50mg x1 and Dilaudid IV, Zofran and NS\n-The pt's case was discussed with ___ per report of the ED \nresident \n-Vitals prior to transfer: 98.9po 81 111/52 18 98%ra  \n.  \nOn arrival to the floor she reports significant improvement from her initial presentation.  She feels thirsty, but otherwise her headache and abdominal pain have resolved since treatment.  She denies any underlying illness: coughing, sneezing, sick contacts, fevers, chills, dysuria.\n.\nROS: Denies fever, chills, night sweats, vision changes, rhinorrhea, congestion, sore throat, cough, shortness of breath, chest pain, constipation, BRBPR, melena, hematochezia, dysuria, hematuria.\n",
+    "input3": "1. Addison's disease \n2. ___'s Thyroiditis now w/ Hypothyroidism - ___\n3. ___ syndrome while on steroids  \n4. Benign Hypertension (inactive)  \n5. Migraine headache - started in ___ grade, improvement after menopause, last flair a few months ago\n6. Microscopic colitis (lymphocytic and collagenous colitis)-  neg IBD serology. - dx in ___\n7. Depression/anxiety  \n8. Osteoarthritis  \n9. Spondylolisthesis status-post lumbar fusion - ___  \n",
+    "input4": "Mother - rheumatoid arthritis  \nFather - CAD with first MI at age ___ s/p 2x CABG, ___ MIs in total; died of mesothelioma  \n2 sisters with breast cancer in ___. She has never been tested for BRCA. \n",
+    "input5": "VS:  96.1 122/80 87 20 97% RA\nGENERAL: Well-appearing woman in NAD, comfortable, appropriate.  \n\nHEENT: NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear.  \nNECK: Supple, no thyromegaly, no JVD, no carotid bruits.  \nHEART: RRR, no MRG, nl S1-S2.  \nLUNGS: CTA bilat, no r/rh/wh, good air movement, resp unlabored. \n \nABDOMEN: Soft/ND, mildly tender to palpation diffusely no masses or HSM, no rebound/guarding.  \nEXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses.  \nSKIN: No rashes or lesions. Dark skin tone without involvement of palmar creases \nLYMPH: No cervical LAD.  \nNEURO: Awake, A&Ox3, CNs II-XII grossly intact, muscle strength ___ throughout, steady gait.\n",
+    "input6": "133  101  17  \n-------------<90 \n4.9  18  1.1  \nestGFR: 52/63 (click for details)  \n.\nUCG: Negative \n.\n13.9 \n7.7>---<415\n40.3  \nN:49.9 L:39.5 M:5.1 E:4.2 Bas:1.3 \n.  \nU/A: Within normal limits\nMICROBIOLOGY: None\n.  \nSTUDIES:  None\n\nA stim test find that cortisol increases when ACTH is given.\n"
+}

@@ -1,0 +1,46 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF=35%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "left ventricular hypertrophy$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "BNP \u2265 35 pg/mL is a strong value for heart failure$Cause_1": {
+                    "BNP 4814$Input2": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Developed shortness of breath is a symptom of heart failure$Cause_1": {
+                        "Developed shortness of breath$Input2": {}
+                    },
+                    "CAD is a risk factor of heart failure$Cause_1": {
+                        "CAD$Input3": {}
+                    },
+                    "Atrial fibrillation is a risk factor of heart failure$Cause_1": {
+                        "Atrial fibrillation$Input3": {}
+                    },
+                    "Type 2 diabetes mellitus is a risk factor of heart failure$Cause_1": {
+                        "Type 2 diabetes mellitus$Input3": {}
+                    },
+                    "Hypercholesterolemia is a risk factor of heart failure$Cause_1": {
+                        "Hypercholesterolemia$Input3": {}
+                    },
+                    "Obesity is a risk factor of heart failure$Cause_1": {
+                        "Obesity$Input3": {}
+                    },
+                    "Pleural effusion is a sign of heart failure$Cause_1": {
+                        "pulmonary edema$Input2": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea\n",
+    "input2": "He is with CAD, DM, AFib on coumadin, CKD, presenting with rapidly progressive shortness of breath beginning yesterday.  \n\nDeveloped shortness of breath, worse on exertion but present at rest, yesterday morning. Progressed since that time without other symptoms (notably no fever, cough, chest pain). Lower extremity left (unilateral) edema stable for last three months. Able to sleep flat, no PND. Some chest discomfort without anginal equivalent (as per two previous MIs). Follows glucose carefully. No history of previous CHF. \n\nIn the ED, initial vs 96.1 116 142/81 24 100%15LNRB. CXR showed moderate pulmonary edema and cardiomegaly. BNP 4814 trop 0.04 Cr 1.4 INR 3.2. Treated with BiPAP with improvement. Given ASA 325 mg, lasix 10 mg IV (700 cc UOP), levofloxacin 750 mg IV, and solumedrol 125 mg IV. Vital signs prior to transfer 91 109/65 98%4LNC.\n",
+    "input3": "+CAD status post two MIs\n+Atrial fibrillation - The patient is anticoagulated with a\ngoal INR of 2 to 3. \n+Type 2 diabetes mellitus \n+Glaucoma\n+Hypercholesterolemia\n+Obesity\n+Gait instability\n+Chronic low back pain\n+Basal cell skin cancers\n",
+    "input4": "The patient reports that his mother died of a CVA and his father died of an MI. One brother died of liver disease.  Another brother has a long history of tobacco abuse and suffers from emphysema.\n",
+    "input5": "General: Alert, oriented, using accessory muscles for breathing\nHEENT: Sclera anicteric, MMM, oropharynx clear  \nNeck: supple, JVP not elevated, no lymphadenopathy  \nLungs: Audible wheezes heard at the bedside, no wheezes on auscultation, crackles bilaterally, increased fremitus in right posterior upper lung field\nCV: Regular rate and rhythm, soft S1 + S2, no murmurs, rubs, gallops  \nAbdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  \nExt: Warm, well perfused, weak pulses, no clubbing, cyanosis.  Pitting edema in right lower leg to the mid-calf.  Calf supple, nontender, and non-erythematous.\nNeuro: Alert, oriented to person, place, date, context of admission. CN II - XII intact. Bulk reduced in legs more than arms. Tone increased in legs. Power full throughout. Sensation not tested. Reflexes brisk with spread at patella (contrateral spread), upper extremity reflexes not elicitable, even with reinforcement. Coordination fast and accurate. Intention tremor on FNF, but not lower extremities method). Gait deferred.\nSkin: no leg hair, shiny skin (trohpic changes).\n",
+    "input6": "___ 07:30AM BLOOD WBC-12.5*# RBC-3.87* Hgb-11.0* Hct-35.7* MCV-92 MCH-28.6 MCHC-30.9* RDW-13.4 Plt ___\n___ 03:10AM BLOOD WBC-13.5*# RBC-3.43* Hgb-10.2* Hct-30.6* MCV-89 MCH-29.9 MCHC-33.5 RDW-13.6 Plt ___\n___ 08:55AM BLOOD WBC-15.7* RBC-3.41* Hgb-10.2* Hct-31.0* MCV-91 MCH-29.9 MCHC-32.8 RDW-13.8 Plt ___\n___ 12:50PM BLOOD WBC-16.3* RBC-3.87* Hgb-11.0* Hct-34.8* MCV-90 MCH-28.3 MCHC-31.5 RDW-13.3 Plt ___\n___ 06:30AM BLOOD WBC-13.0* RBC-3.47* Hgb-10.4* Hct-31.2* MCV-90 MCH-29.9 MCHC-33.3 RDW-13.7 Plt ___\n___ 07:30AM BLOOD ___ PTT-29.1 ___\n___ 07:16PM BLOOD ___\n___ 03:10AM BLOOD ___ PTT-28.7 ___\n___ 06:30AM BLOOD ___ PTT-29.8 ___\n___ 07:30AM BLOOD Glucose-327* UreaN-31* Creat-1.4* Na-138 K-4.8 Cl-106 HCO3-19* AnGap-18\n___ 03:10AM BLOOD Glucose-186* UreaN-36* Creat-1.6* Na-139 K-4.2 Cl-105 HCO3-26 AnGap-12\n___ 06:30AM BLOOD Glucose-229* UreaN-41* Creat-1.5* Na-140 K-4.6 Cl-105 HCO3-27 AnGap-13\n___ 03:10AM BLOOD ALT-16 AST-26 LD(LDH)-178 CK(CPK)-83 AlkPhos-52 TotBili-0.4\n___ 06:30AM BLOOD ALT-14 AST-21 LD(LDH)-171 CK(CPK)-50 AlkPhos-51 TotBili-0.5\n___ 06:30AM BLOOD Lipase-32\n___ 07:16PM BLOOD CK-MB-NotDone cTropnT-0.23*\n___ 03:10AM BLOOD CK-MB-NotDone cTropnT-0.29*\n___ 12:50PM BLOOD CK-MB-NotDone cTropnT-0.29*\n___ 06:30AM BLOOD CK-MB-NotDone cTropnT-0.20*\n___ 07:30AM BLOOD CK-MB-4 proBNP-41___*\n\nCXR: Moderate pulmonary edema and cardiomegaly. Repeat radiographs, preferably with a lateral view, after appropriate diuresis is recommended to clarify enlarged right hilum. \n\nCXR: Disappearance of pulmonary edema pattern, remaining small bilateral pleural effusions, but no evidence of new acute pulmonary infiltrates or pneumothorax. Thus, the patient apparently has undergone a short episode of left-sided CHF, which now has improved. \n\nEcho: The left atrium is mildly dilated. The estimated right atrial pressure. There is mild symmetric left ventricular hypertrophy with normal cavity size. There is severe regional left ventricular systolic dysfunction with severe hypokinesis/akinesis of the mid to distal left ventricle. Overall left ventricular systolic function is severely depressed (LVEF= 35___. No masses or thrombi are seen in the left ventricle. Right ventricular chamber size and free wall motion are normal. The aortic arch is mildly dilated. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Moderate (2+) mitral regurgitation is seen. The tricuspid valve leaflets are mildly thickened. There is mild pulmonary artery systolic hypertension.\n"
+}

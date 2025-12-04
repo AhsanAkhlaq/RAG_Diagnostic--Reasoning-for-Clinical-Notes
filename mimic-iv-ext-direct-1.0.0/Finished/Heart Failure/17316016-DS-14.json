@@ -1,0 +1,61 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is elongated. The right atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "BNP \u2265 35 pg/mL is a strong value for heart failure$Cause_1": {
+                    "BNP 7299$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Dyspnea is a common symptom of heart failure$Cause_1": {
+                        "Dyspnea$Input1": {}
+                    },
+                    "Dyspnea during exertion, in which the patient's symptoms progress to difficulty breathing even at rest. This is a common symptom of heart failure and indicates that the heart may not be able to pump blood well enough.$Cause_1": {
+                        "feeling more DOE,and is now feeling short of breath at rest$Input2": {}
+                    },
+                    "Describes chronic and acute loss of muscle strength, including difficulty getting out of bed or walking. These symptoms may result from general weakness caused by heart failure.$Cause_1": {
+                        "acute on chronic weakness$Input2": {}
+                    },
+                    "A dry cough is also a possible symptom of heart failure, especially if fluid accumulates in the lungs.$Cause_1": {
+                        "non-productive cough$Input2": {}
+                    },
+                    "The use of oxygen during sleep may indicate nocturnal dyspnea or sleep-disordered breathing, which can also be associated with heart failure.$Cause_1": {
+                        "Uses 2L O2 at night$Input2": {}
+                    },
+                    "Obesity increases the risk of heart disease because it puts extra strain on the heart, which can lead to heart failure$Cause_1": {
+                        "Obesity$Input3": {}
+                    },
+                    "A stroke often indicates a blood vessel problem, which may affect blood flow to the heart and indirectly lead to heart failure.$Cause_1": {
+                        "CVA history$Input3": {}
+                    },
+                    "High blood lipids may lead to atherosclerosis, which reduces blood flow to the heart and increases the risk of heart failure.$Cause_1": {
+                        "Hyperlipidemia$Input3": {}
+                    },
+                    "Long-term high blood pressure puts a strain on the heart and can lead to heart disease and heart failure$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "LVH is a manifestation of the heart's adaptation to persistent high blood pressure, which can damage heart function in the long term and may lead to heart failure.$Cause_1": {
+                        "LVH$Input3": {}
+                    },
+                    "An increased JVP and a positive hepatojugular reflex are classic signs of heart failure and suggest that right heart function is impaired, probably because the heart is unable to pump blood effectively.$Cause_1": {
+                        "JVP 11-12cm with large v waves and +HJR$Input5": {}
+                    },
+                    "Decreased breath sounds bilaterally and rales at the lung bases usually indicate pulmonary congestion, a sign of increased pulmonary pressures due to heart failure$Cause_1": {
+                        "diminished breath sounds bilaterally, crackles at ases$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea\n",
+    "input2": "States that she has been feeling more DOE,and is now feeling short of breath at rest. Also reports acute on chronic weakness including difficulty getting out of bed or ambulating. She notes a non-productive cough but denies any chest pain, palpitations, abdominal pain, nausea, vomiting. Patient states that she has IBS-D and her diarrheal bowel movements that may have increased in frequency recently. Of note, she does have history of c diff infection. No BRBPR or melena. Uses 2L O2 at night time and has not needed for O2 during the day time. Denies worsening orthopnea, PND, CP, palpitations, diaphoresis.\n\ufeff\n",
+    "input3": "+ Obesity \n+ CVA history \n+ Hyperlipidemia  \n+ HTN \n+ LVH\n+ mitral valve replacement\n+ arthritis\n+ anxiety/depression/memory loss (alert and oriented x 3)\n+ compression fractures\n+ seizures\n+ hysterectomy.\n+ Reflux\n+ Hypothyroidism\n+ Sleep apnea no CPAP\n+ Anemia\n+ Osteoporosis\n+ Vit D deficiency\n",
+    "input4": "Stroke, TIA, hypertension. in her mother. Cancer in her father colon cancer.\n",
+    "input5": "Physical Exam:\nADMISSION PHYSICAL EXAM\n=======================\nVS: 96 (ax), 115/75, 71, 20, 97% 2L \nGENERAL: frail appearing women in NAD\nHEENT: NC/AT, PERRLA, anicteric, MMM\nNECK: JVP 11-12cm with large v waves and +HJR\nCARDIAC: RRR, HSM at LLSB\nLUNGS: diminished breath sounds bilaterally, crackles at ases\nABDOMEN: soft, NT, distended, +BS, no rebound or guarding \nEXTREMITIES: cool, no pitting edema\nSKIN: No significant skin lesions or rashes.\n",
+    "input6": "ADMISSION LABS\n==============\n01:28PM BLOOD WBC-4.1 RBC-3.92 Hgb-10.1* Hct-35.6 \nMCV-91 MCH-25.8* MCHC-28.4* RDW-16.1* RDWSD-52.8* Plt Ct-65*\n01:28PM BLOOD Glucose-103* UreaN-58* Creat-1.5* Na-145 K-5.5* Cl-101 HCO3-33* AnGap-11\n06:45AM BLOOD ALT-13 AST-17 LD(LDH)-151 AlkPhos-165* TotBili-0.5\n06:45AM BLOOD Albumin-3.9 Calcium-9.1 Phos-4.9* Mg-2.5 \nIron-55\n06:45AM BLOOD TSH-3.5\n08:20AM BLOOD HCV Ab-NEG BNP 7299*\n\nIMAGING/STUDIES\n===============\n\nThe left atrium is elongated. The right atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %) with global hypokinesis\n"
+}

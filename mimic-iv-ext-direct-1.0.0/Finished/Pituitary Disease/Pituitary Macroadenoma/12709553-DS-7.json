@@ -1,0 +1,24 @@
+{
+    "Pituitary Macroadenomas$Intermedia_3": {
+        "Cranial pituitary enlargement may be a direct manifestation of pituitary adenoma$Cause_1": {
+            "enlarged pit$Input2": {}
+        },
+        "The adenomas were large and had cystic components that extended upward into the foramina of the skull, directly demonstrating the presence of Pituitary Macroadenomas.$Cause_1": {
+            "a large pituitary macroadenoma with a cystic component superiorly extending towards the foramen$Input6": {}
+        },
+        "Suspected pituitary disease$Intermedia_2": {
+            "The growth of the pituitary adenoma may have affected the optic nerve, causing visual problems. This is a common clinical manifestation of large pituitary adenomas.$Cause_1": {
+                "symptomatic lesion and visual changes.$Input2": {}
+            },
+            "A non-functional adenoma means that the adenoma does not secrete excess hormones that can affect the rest of the body.$Cause_1": {
+                "non-funtioning adenoma with a cystic$Input2": {}
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "HPI: the enlarged pit was noted prior at the time of  her SAH and aneurysm clipping; it was not followed; She now presents woth a symptomatic lesion and visual changes. No HA, N, V, Dz, Sz;   neuroophtalmology exam and VFT by Dr. abonomralities and hence she was referred to us. Endocrine w/o revealed a non-funtioning adenoma with a cystic\n",
+    "input3": "1. s/p CCY\n2. cervical dysplasia\n3. Hypertension\n4. Dyslipidemia\n5. DVT history yrs ago which was treated with coumadin for 6 months; without further complications\n",
+    "input4": "non-contribuitory\n",
+    "input5": "Physical Exam:\nPHYSICAL EXAMINATION ON ADMISSION:\nNeuro: AAOx3 conversant, cooperative, pleasant nl affect\nCN: I) not tested\nII) PERLA; no gross visual field abnormalities but see Dr. for details\nIII-VI) EOMI\nV) symmetric sensation, bite eugnatal\nVII) symmetric\nVIII) bilaterally intact \nIX/X) no swallowing difficulties; phonation intact\nXII) tongue midline\n\ufeff\nMot: bilaterally; no drift\n: no epicritic or protopathic deficit\nReflexes: symmetric 2+ no clonus, no Babinski, no extrapramidal signs; eudiadochokinesis Stable stand and gait; Rhomberg \n\ufeff\n",
+    "input6": "Examination performed for surgical planning demonstrates a large pituitary macroadenoma with a cystic component superiorly extending towards the foramen, but without hydrocephalus.  No significant change in size and appearance of the adenoma seen. \n\ufeff\nNon-Contrast Head CT:\n1. No evidence of postoperative hemorrhage. \n  \n2. Air mixed with blood pcoducts within the surgical bed, consistent with expected postoperative changes. \n\ufeff\n"
+}

@@ -1,0 +1,38 @@
+{
+    "Mild COPD$Intermedia_4": {
+        "80% \u2264 FEV1 confirm Mild COPD$Cause_1": {
+            "FEV1 85%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "FEV1/FVC < 0.70 confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC = 0.63.$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "One of the classic symptoms of COPD is that the patient's breathlessness worsens during activity, to the point where he or she can only walk a few steps on flat ground and cannot walk up a slope or stairs.$Cause_1": {
+                    "dyspnea on exertion has worsened to the point where she can only walk block on level ground and cannot walk more than a few steps up an incline or stairs$Input2": {}
+                },
+                "The patient began noticing symptoms a week ago but acknowledged that they may have come on gradually. The development of COPD is usually slow, with gradual worsening.$Cause_1": {
+                    "noting symptoms one week ago, but admits it may have been a more gradual onset$Input2": {}
+                },
+                "The patient reports mild right-sided chest discomfort that may be exacerbated by coughing. This may be due to chest muscle fatigue caused by the persistent cough caused by COPD.$Cause_1": {
+                    "mild right sided chest discomfort that may be worse with coughing$Input2": {}
+                },
+                "A dry cough is a common symptom of COPD.$Cause_1": {
+                    "increased cough$Input2": {}
+                },
+                "People with COPD may experience progressive dyspnea, especially during physical activity, including speaking.$Cause_1": {
+                    "slightly dyspneic while speaking$Input5": {}
+                },
+                "Chronic scarring or pleural thickening in the left lower lobe may be the result of chronic inflammation or past infection, which is more common in patients with COPD.$Cause_1": {
+                    "chronic scarring or pleural thickening at the left lower lobe$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Patient started noting symptoms one week ago, but admits it may have been a more gradual onset. Her dyspnea on exertion has worsened to the point where she can only walk block on level ground and cannot walk more than a few steps up an incline or stairs. She reports some mild right sided chest discomfort that may be worse with coughing. Denies diaphoresis, palpitations, lightheadedness. She reports some increased cough without any sputum production. denies any fevers or chills or sore throat. No orthopnea, peripheral edema or increased abdominal girth. She cannot assess for PND as she is on nocturnal CPAP, which she restarted a few weeks ago when they started monitoring compliance. denies any recent leg cramps or swelling. No N/V/ab pain.\n",
+    "input3": "+ Diabetes\n+ Dyslipidemia\n+ Hypertension \n+ anemia  \n+ depression  \n+ HTN  \n+ HLD  \n+ DM - diet controlled  \n+ GERD  \n+ OSA on nocturnal CPAP\n+ s/p CCK, appy, hysterectomy\n",
+    "input4": "Diabetes and CAD in mother and father, both of whom died in \ntheir. Sister also with diabetes.\n",
+    "input5": " VS: Wt=97.4kg (214lb) T=99.3 BP=103/69 HR=87 RR=17 O2 sat=96%/RA \nGeneral: well developed, overweight, reclining in bed comfortably. Appeared slightly dyspneic while speaking, but O2 sats remained at 96-97% and HR remained\nHEENT: PERRL, EOMI, scleral anicteric, OP clear, dentures in place\nNeck: supple, JVP 1cm above clavicle at 45 degrees  \nCV: RRR, III/VI systolic murmur, radiating to carotids  \nLungs: CTAB, no wheezes, rhonchi or crackles  \nAbdomen: obese, soft, non-tender, BS present  \nExt: 2+ pulses, warm and well perfused, no peripheral edema \nNeuro: AAOx3, CN II-XII intact, strength in BUE and BLE \nSkin: no lesions  \nPULSES: 2+ dp and radial bilaterally\n",
+    "input6": "10:40AM   WBC-6.2 RBC-4.05* HGB-11.4* HCT-34.5* MCV-85 \nMCH-28.2 MCHC-33.2 RDW-13.4\n10:40AM   NEUTS-70.8* MONOS-5.3 EOS-2.9 \nBASOS-0.4\n10:40AM   PLT COUNT-208\n10:40AM   GLUCOSE-101* UREA N-22* CREAT-1.2* SODIUM-143 \nPOTASSIUM-4.1 CHLORIDE-105 TOTAL CO2-23 ANION GAP-19\n10:40AM   proBNP-947*\n10:40AM   cTropnT-<0.01\n12:16PM   D-DIMER-369\n05:05AM BLOOD cTropnT-<0.01\n05:05AM BLOOD Glucose-104* UreaN-27* Creat-1.1 Na-141 K-4.2 Cl-102 HCO3-26 AnGap-17\n\nCXR:  \nUpright PA and lateral radiographs of the chest.  The lungs are normally expanded without focal airspace consolidation.  There is chronic scarring or pleural thickening at the left lower lobe.  The cardiomediastinal silhouette and hilar contours are normal.  There is no pleural effusion or pneumothorax.  The costophrenic sulci are sharp.  The retrosternal clear space is opacified, but when referring to the next most recent CT of the chest, this represents mediastinal fat. \nIMPRESSION:  No evidence of acute cardiopulmonary abnormality.\n\nPost-bronchodilator FEV1/FVC = 0.63.\nFEV1 85%\n"
+}

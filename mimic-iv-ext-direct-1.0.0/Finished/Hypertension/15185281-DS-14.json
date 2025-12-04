@@ -1,0 +1,24 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "blood pressures of 150's/90's$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "blood pressure of 154/84$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.**$Cause_1": {
+            "VITALS: BP 156/103-->153/104-->158/84$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Headache is a classic symptoms of Hypertension.$Cause_1": {
+                "Headache$Input1": {}
+            }
+        }
+    },
+    "input1": "Headache\n",
+    "input2": "39 y/o G1P0 at 35 weeks gestation with who presents to triage from the office with blood pressures of 150's/90's. She denies HA, visual changes, epigastric or URQ pain. Pt felt overnight crampy but now none, no vaginal bleeding or leaking of fluid. Reports active fetal movement. Pt had a blood pressure of 154/84 at 10 wks GA booking \n",
+    "input3": "+Dating by sure LMP\n+Labs: O pos/Ab neg/R-NI/GLT 84/\n+migraine HA\n+asthma\n+heart murmur echo normal (not in this preg)\n",
+    "input4": "non-contributory\n",
+    "input5": "GENERAL: NAD\nVITALS: T 97.9 po, BP 156/103-->153/104-->158/84 HR 78, RR 18\nHEART: RRR S1S2 II/VI systolic murmur midsternal\nLUNGS: CTA B\nABDOMEN: gravid, soft, nontender, no CVAT\nEXTREMITIES: - edema B\nEFM: 125 ___ accels, no decels, Av, reactive \nTA U/S: BPP ___, vtx, fetal cardiac motion\nTOCO: occ ctx\nSVE: closed/40/soft sl post\n",
+    "input6": "___ WBC-11.6 RBC-4.08 Hgb-12.1 Hct-36.2 MCV-89 Plt-301\n___ WBC-10.4 RBC-3.96 Hgb-11.8 Hct-35.6 MCV-90 Plt-317\n___ PTT-25.4 Creat-0.9 ALT-15 AST-17 UricAcd-5.5\n___ Creat-0.8 ALT-14 AST-19 UricAcd-5.7\n___ URINE Hrs-RAN Cre-124 TProt-12 Pr/Cr-0.1\n___ URINE pH-6 Hrs-24 Vol-3000 Cre-54 TProt-8 Pr/Cr-0.1\n___ URINE 24Creat-1620 24Prot-___ y/o G1 at 35 wks with gestational \n\nSHe has a blood pressures were elevated in triage, 150s/80-100. She denied any preeclampsia symptoms.___ WBC-11.6 RBC-4.08 Hgb-12.1 Hct-36.2 MCV-89 Plt-301\n___ WBC-10.4 RBC-3.96 Hgb-11.8 Hct-35.6 MCV-90 Plt-317\n___ PTT-25.4 Creat-0.9 ALT-15 AST-17 UricAcd-5.5\n___ Creat-0.8 ALT-14 AST-19 UricAcd-5.7\n___ URINE Hrs-RAN Cre-124 TProt-12 Pr/Cr-0.1\n___ URINE pH-6 Hrs-24 Vol-3000 Cre-54 TProt-8 Pr/Cr-0.1\n___ URINE 24Creat-1620 24Prot-___ y/o G1 at 35 wks with gestational \n\nSHe has a blood pressures were elevated in triage, 150s/80-100. She denied any preeclampsia symptoms.\n"
+}

@@ -1,0 +1,42 @@
+{
+    "Epilepsy$Intermedia_3": {
+        "Typical epileptic discharges were observed during EEG examination, which is one of the criteria for diagnosis.$Cause_1": {
+            "EEG typical epileptiform discharges, showing as spikes$Input6": {}
+        },
+        "Suspected Epilepsy$Intermedia_2": {
+            "Serious car accidents may cause brain damage, increase risk of epilepsy$Cause_1": {
+                "significant motor vehicle accident$Input2": {}
+            },
+            "The patient had a series of epileptic seizures$Cause_1": {
+                "a flurry of seizures$Input2": {}
+            },
+            "Bright or flashing lights can trigger seizures, called photosensitive epilepsy.$Cause_1": {
+                "been frustrated with the \"fluorescent lights\" at work$Input2": {}
+            },
+            "A complex partial classic seizure lasting about five minutes$Cause_1": {
+                "a prolonged complex partial typical seizure.$Input2": {}
+            },
+            "Memory loss is one of the symptoms of epilepsy$Cause_1": {
+                "She does not remember the conversation nor the remainder of the daily activities from yesterday.$Input2": {}
+            },
+            "Lamotrigine and clonazepam are both drugs used to treat epilepsy. Unauthorized reduction of the dose may lead to a decrease in the blood concentration of the drug, weakening the control effect on epilepsy, thereby increasing the risk of seizures.$Cause_1": {
+                "she halved her LTG dose and the clonazepam dose (from 2 to 1mg QHS)$Input2": {}
+            },
+            "Recurrent neurological dysfunction in the past is one of the risk factors$Cause_1": {
+                "Seizure disorder$Input3": {}
+            },
+            "The patient is sweating, which may be a manifestation of an uncommon seizure.$Cause_1": {
+                "appeared diaphoretic but did not convulse$Input5": {}
+            },
+            "Increased heart and breathing rates may be physiological responses during epileptic seizures$Cause_1": {
+                "HR increased to 105, and RR to about 26$Input5": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "This is a 60 woman with a history of PTSD anddepression and a significant motor vehicle accident in who presents to the ED following a flurry of seizures. The patient provides her own history. \n\nShe explains that her general physical health has largely been stable. She was treated with a course of amoxicillin last week for a \"head cold\". She has recently been able to secure employment over the past three months, and she has been frustrated with the \"fluorescent lights\" at work, which she feels may be exacerbating her seizure disorder. \n\nApparently last night, she had a prolonged complex partial typical seizure. This was only noted to her in retrospect - the seizure occurred while she was on the phone with her father and lasted for about five minutes. She does not remember the conversation nor the remainder of the daily activities from yesterday. She woke up this morning with an immense sense of anxiety and fear. She had a seizure at home, and upon speaking with Dr. G the seizure, she was directed to our ED.\n\nOn further questioning, she reports that she has been taking half of her dose of her lamotrigine. She could not tell me exactly when she started taking this dose. She reported to one of our on-call physicians over the phone 3 days prior) that she had taken Dr. G permission to do this, but Dr. G was not aware of this at all. She now explains that she was having difficulty functioning at work at the higher dose, and that she is \"extremely sensitive to medications\". She was also having some decreased appetite, and so she halved her LTG dose and the clonazepam dose (from 2 to 1mg QHS), but not the lacosamide (100mg BID). \n\nOn review of systems, she admits to having one episode of loose stool this morning, some mild headache and difficulties with concerntation and increased anxiety. She is due to get her period in a few days (menses is a typical trigger for her). \n\n",
+    "input3": "+Seizure disorder\n+S/p cholecystectomy\n+Depression/Anxiety/PTSD\n",
+    "input4": "Father: ETOH abuse and manic-depressive\n",
+    "input5": "vital signs were 98.7, HR 92, BP124/81, RR 18, 98%. \nIn general, patient is awake, cooperative, pleasant and appeared quite anxious. She had a flat affect with limited emotionality. During the interview, on one occasion, she was able to verbalize that she was having a seizure. She followed commands during this time. She appeared diaphoretic but did not convulse. Her HR increased to 105, and RR to about 26. Otherwise, the patient had a NCAT head without conjunctival icterus. Mucous membranes were moist and oropharynx is clear of lesions. Neck was supple without masses or thyromegaly. Chest examination revealed regular heart sounds without murmurs, and lungs were clear to auscultation bilaterally. Belly was thin and soft without focal tenderness, and extremities were warm and well perfused. Skin examination showed no rashes or lesions.  \n\nNeurologically, the patient is awake, alert and oriented x 3. Able to relate history without difficulty. Attentive, able to name backward without difficulty. Language is fluent with intact repetition and comprehension. Normal prosody. There were no paraphasic errors. Able to read without difficulty. Speech was not dysarthric. Able to follow both midline and appendicular commands. Pt. was able to register 3 objects and recall at 5 minutes.\n",
+    "input6": "___ 01:35PM   GLUCOSE-103* UREA N-6 CREAT-0.6 SODIUM-136 POTASSIUM-3.7 CHLORIDE-102 TOTAL CO2-27 ANION GAP-11\n___ 01:35PM   WBC-7.2 RBC-4.98 HGB-14.2 HCT-40.8 MCV-82 MCH-28.6 MCHC-34.9 RDW-12.9\n___ 01:35PM   NEUTS-78.7* LYMPHS-14.6* MONOS-5.5 EOS-0.5 BASOS-0.8\n___ 01:35PM   PLT COUNT-224\n___ 01:35PM URINE  COLOR-Straw APPEAR-Clear SP ___\n___ 01:35PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-NEG\n\nEEG:\nEEG typical epileptiform discharges, showing as spikes\n"
+}

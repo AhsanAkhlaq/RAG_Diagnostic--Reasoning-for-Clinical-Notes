@@ -1,0 +1,33 @@
+{
+    "Duodenal Ulcers$Intermedia_3": {
+        "The presence of ulcers is direct evidence that the patient has ulcerative lesions in the gastrointestinal tract.$Cause_1": {
+            "EGD there which showed 4 ulcers, 3 of which were cauterized$Input2": {}
+        },
+        "Ulcers found in the lesser curvature and duodenal bulb are the direct basis for diagnosing duodenal ulcer disease.$Cause_1": {
+            "Ulcer in the lesser curvature.Ulcer in the duodenal bulb.$Input6": {}
+        },
+        "Suspected Peptic Ulcer Disease$Intermedia_2": {
+            "This phenomenon may be caused by bleeding in the upper digestive tract, especially when the bleeding comes from the ulcer site, which is one of the more common symptoms of gastric ulcer disease.$Cause_1": {
+                "dark stools$Input1": {}
+            },
+            "Occult blood-positive stools indicate that the patient may have gastrointestinal bleeding, a common symptom of peptic ulcer disease. Anemia may occur due to iron deficiency caused by prolonged bleeding.$Cause_1": {
+                "Guaiac+ stools and anemia$Input2": {}
+            },
+            "Helicobacter pylori is one of the main causes of peptic ulcers and can cause gastric ulcers$Cause_1": {
+                "H. pylori infection$Input2": {}
+            },
+            "Black stools are a common symptom of upper gastrointestinal bleeding and are usually associated with gastric or duodenal ulcers.$Cause_1": {
+                "melena$Input2": {}
+            },
+            "These symptoms may be triggered by irritation of stomach contents caused by a peptic ulcer or by pain from the ulcer.$Cause_1": {
+                "abdominal cramping and nausea$Input2": {}
+            }
+        }
+    },
+    "input1": "dark stools\n",
+    "input2": "There, she was noted to have Guaiac+ stools and anemia and was admitted to the ICU for transfusion. She had an EGD there which showed 4 ulcers, 3 of which were cauterized. She was subsequently transferred to ___ for further management. She was in the ICU there for anemia requiring blood transfusion. She did not have a repeat EGD at that time as her stool was guaiac negative. Per EGD report at ___, she was found to have H. pylori infection. As such, she was started on clarithromycin, amoxicillin, and pantoprazole triple therapy on ___. She was transferred out of the ICU at ___ and remained on the general floor until discharge on ___ ___. She was doing well at home with regular BM, no melena or hematochezia, until ___, when she noted melena. The morning of admission, she was still having melena as well as abdominal cramping and nausea. She presented to her PCP who sent her to ___ for further management. Currently, she complains of abdominal cramping and black stools. She denies nausea, hematemesis, fevers, chills, dizziness, lower extremity edema, CP, or SOB.\n",
+    "input3": "None\n",
+    "input4": "Father with PUD and h/o GIB  \nMother with HTN\n",
+    "input5": "VS -  T 98.2 HR 70 BP 114/74 RR 18 100% RA\nGENERAL: NAD, AAOx3\nHEENT: AT/NC, EOMI, PERRL, anicteric sclera, pale conjunctiva, \nMMM, good dentition, \nNECK: nontender supple neck, no LAD, no JVD  \nCARDIAC: RRR, Loud S1, normal S2, no murmurs, gallops, or rubs  \nLUNG: CTAB, no wheezes, rales, rhonchi\nABDOMEN: nondistended, hypoactive BS, nontender in all \nquadrants, no rebound/guarding, no hepatosplenomegaly  \nEXTREMITIES: no cyanosis, clubbing or edema\nPULSES: 2+ DP pulses bilaterally  \nNEURO: CN II-XII intact  \nSKIN: warm and well perfused, no excoriations or lesions, no rashes\n",
+    "input6": "___ 11:50AM   ___ PTT-26.5 ___\n___ 11:50AM   WBC-7.7 RBC-3.11*# HGB-8.9*# HCT-27.3*# \nMCV-88 MCH-28.6 MCHC-32.6 RDW-13.5 RDWSD-43.0\n___ 11:50AM   NEUTS-54.9 ___ MONOS-6.9 EOS-3.5 \nBASOS-0.5 IM ___ AbsNeut-4.21 AbsLymp-2.59 AbsMono-0.53 \nAbsEos-0.27 AbsBaso-0.04\n___ 12:33PM   LACTATE-1.3\n___ 01:26PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG \nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 \nLEUK-NEG\n___ 01:26PM URINE  UCG-NEGATIVE\n___ 06:50PM   WBC-8.7 RBC-2.99* HGB-8.5* HCT-26.3* MCV-88 \nMCH-28.4 MCHC-32.3 RDW-13.5 RDWSD-42.6\n___ 11:59PM   WBC-8.6 RBC-2.74* HGB-7.9* HCT-24.0* MCV-88 \nMCH-28.8 MCHC-32.9 RDW-13.6 RDWSD-42.5\n\nEGD ___\nImpression: Normal mucosa in the esophagus. Ulcer in the lesser curvature.Ulcer in the duodenal bulb. Otherwise normal EGD to third part of the duodenum. Recommendations: No evidence of recent or active bleeding on this examination. Risk of rebleeding with clean based ulcer is 3%. Continue PPI BID until follow up EGD. Complete H. pylori treatment. Avoid NSAIDs. Follow up EGD in 6 weeks with Dr. ___.\n"
+}

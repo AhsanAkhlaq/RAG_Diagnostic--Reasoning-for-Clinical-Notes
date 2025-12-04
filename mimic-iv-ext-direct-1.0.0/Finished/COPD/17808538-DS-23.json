@@ -1,0 +1,44 @@
+{
+    "Severe COPD$Intermedia_4": {
+        "30% \u2264 FEV1 < 50% confirm Severe COPD$Cause_1": {
+            "FEV1 42%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "Use of inhalers is the standard of care for COPD management, indicating that patients had previously been diagnosed and were managing COPD.$Cause_1": {
+                "taking her inhalers at home$Input2": {}
+            },
+            "FEV1/FVC < 0.70 confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC = 0.40.$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "Hypoxemia is a common symptom of COPD. The co-occurrence of hypoxemia with multiple myeloma and polycythemia vera indicates that the patient may have an underlying blood disease, which may aggravate the condition of COPD.$Cause_1": {
+                    "multiple myeloma and polycythemia presents with hypoxia$Input2": {}
+                },
+                "Oxygen saturation below the normal range indicates impaired oxygen exchange in the lungs, which is a typical manifestation of COPD.$Cause_1": {
+                    "low O2 saturations of 91-94%$Input2": {}
+                },
+                "Increased carbon dioxide pressure in the blood usually indicates insufficient respiratory function and is an important sign of COPD progression.$Cause_1": {
+                    "pCO2 of 86$Input2": {}
+                },
+                "Dyspnea after exertion is a common symptom in COPD patients and reflects the limitations of their lung function.$Cause_1": {
+                    "dyspnea on exertion$Input2": {}
+                },
+                "Persistent cough is a common symptom of COPD$Cause_1": {
+                    "Cough is at baseline$Input2": {}
+                },
+                "An oxygen saturation of only 91% on 3 liters of oxygen indicates that the patient may be experiencing inadequate gas exchange, a common symptom of COPD.$Cause_1": {
+                    "O2:91%3L$Input5": {}
+                },
+                "Dispersed wheezing often indicates the presence of airway obstruction or inflammation, which is a typical clinical manifestation of COPD.$Cause_1": {
+                    "scattered wheezing$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "multiple myeloma and polycythemia presents with hypoxia. She had a usual follow up with her oncologist today and was noted to have low O2 saturations of 91-94% in the office. A venous blood gas was sent which resulted after the patient went home, with a pCO2 of 86. Pt reports some dyspnea on exertion for a few weeks, Cough is at baseline, denied CP. She had been taking her inhalers at home with good effect. \n",
+    "input3": "+ CT-guided biopsy of this mass was consistent with a plasmacytoma.  No morphologic evidence of any plasma cells within the bone marrow biopsy.  Her only abnormality was an elevated serum free kappa. SPEP and UPEP were normal.  \n+ treated with radiation therapy initially completing on \n+ completed second course radiation therapy as the \nsize of her sacral mass did not change considerably.  \n+ total of six cycles of treatment with Velcade.  \n+ unusual pulmonary infiltrates that were evaluated by Dr. \n+ repeat bone marrow aspirate and biopsy was aplastic related to the radiation therapy to the pelvis.  \n+ stem cells were collected with Mozobil and Neupogen due to concerns for cytopenias with high-dose Cytoxan\n",
+    "input4": "Father deceased in house fire accident. Mother has arthritis, HTN, and fibrocystic breast disease.  Two maternal aunts with history of breast cancer, paternal uncle with history of lymphoma.\n",
+    "input5": "Vitals: T:98.2 BP:130/80 P:97 R:16 O2:91%3L  \nPAIN: 2\nGeneral: nad\nEYES: anicteric\nLungs: scattered wheezing\nCV: rrr no m/r/g\nAbdomen: bowel sounds present, soft, nt/nd\nExt: no e/c/c\nSkin: no rash\nNeuro: alert, follows commands\n",
+    "input6": "07:16PM   TYPE-ART PO2-61* PCO2-46* PH-7.43 TOTAL \nCO2-32* BASE XS-4 INTUBATED-NOT INTUBA\n03:30PM   UREA N-10 CREAT-0.7 SODIUM-137 POTASSIUM-4.6 \nCHLORIDE-96 TOTAL CO2-32 ANION GAP-14\n03:30PM   GLUCOSE-99\n03:30PM   ALT(SGPT)-12 AST(SGOT)-20 LD(LDH)-226 ALK \nPHOS-48 TOT BILI-0.2\n03:30PM   TOT PROT-7.0 ALBUMIN-4.9 GLOBULIN-2.1 \nCALCIUM-9.6 PHOSPHATE-5.3* MAGNESIUM-2.2\n03:30PM   IgG-730 IgA-137 IgM-34*\n03:30PM   WBC-7.7 RBC-5.86* HGB-16.7* HCT-50.6* MCV-86 \nMCH-28.4 MCHC-32.9 RDW-12.4\n03:30PM   NEUTS-65.0 MONOS-7.4 EOS-2.7 \nBASOS-1.1\n03:30PM   PLT COUNT-293\n\nPost-bronchodilator FEV1/FVC = 0.40.\nFEV1 42%\n"
+}

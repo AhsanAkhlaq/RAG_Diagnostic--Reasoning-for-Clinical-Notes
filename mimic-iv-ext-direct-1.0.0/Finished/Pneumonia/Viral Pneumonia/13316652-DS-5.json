@@ -1,0 +1,38 @@
+{
+    "Viral Pneumonia$Intermedia_4": {
+        "The cause of infection was confirmed to be viral pneumonia$Cause_1": {
+            "not a manifestation of reactivation of fungal pneumonia, but represent viral infection.$Input6": {}
+        },
+        "Pneumonia$Intermedia_3": {
+            "This opacity is usually caused by infection and is one of the common symptoms of pneumonia$Cause_1": {
+                "new mild peribronchial opacification in the lower lobes$Input6": {}
+            },
+            "Elevated values may indicate signs of infection, and these are abnormal biochemical indicators that may be observed in patients with pneumonia.$Cause_1": {
+                "CREAT-1.7$Input6": {}
+            },
+            "Suspected Pneumonia$Intermedia_2": {
+                "Difficulty breathing is a classic symptom of pneumonia$Cause_1": {
+                    "Shortness of breath$Input1": {}
+                },
+                "Difficulty breathing, body aches, and chills are common with pneumonia.$Cause_1": {
+                    "SOB for the last 4 days with fever, body aches, chills, and headaches.$Input2": {}
+                },
+                "This may indicate infection or inflammation in the lungs, which is common in pneumonia$Cause_1": {
+                    "SOB, because her \"lungs hurt.\"$Input2": {}
+                },
+                "Nocturnal breathing difficulties can be a sign of pneumonia leading to impaired oxygen exchange$Cause_1": {
+                    "had trouble breathing at night$Input2": {}
+                },
+                "Fever is one of the common symptoms of pneumonia$Cause_1": {
+                    "VS: 100.3$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "66 y/o female here with DM, CKD, silent MI in past, p/w SOB for the last 4 days with fever, body aches, chills, and headaches. Had a fever of 99.5 Influenza- like-illness symptoms. She went today referred here for cardiac evaluation. Her Trop 0.03 at OSH. \n\nPatient reports that she has been feeling ill with the \"flu\" for a week.  No coughing, but fever (subjective), chills, body aches. No chest pain. She does have SOB, because her \"lungs hurt.\" No runny nose. She had an uncomfortable night, and had trouble breathing at night. She felt her right hand tingling. She took two nitroglycerines because she felt short of breath, and because she was not sure what to do. \n\nIn the ED, initial vitals were 0 97.0 70 170/74 20 98%. RR 20. Labs and imaging significant for Na 132, Cr 1.7, troponin 0.06, Hct 32.2. CXR wnl. EKG showing no changes. Patient was given tylenol for her fever. Vitals on transfer were 100.6, 68, 30, 99 RA. Patient was Chest pain-free while in our facility. She was given tylenol in the ED. \n\nOn arrival to the floor, patient was complaining of a headache, her vitals were 100.3, 153/71, 68, 18, 98RA  wt 92.7KG.  She felt well.\n",
+    "input3": "+Insulin dependent diabetes mellitus\n+Hypothyroidism.  \n+CKD stage III secondary to DM \n+CHF\n+Hypertension.  \n+Macular degeneration, blind in right eye  \n+Chronic Pseudomonas cystitis  \n+Yeast UTI.  \n+Peripheral vascular disease s/p left fem pop\n+Hyperlipidemia\n",
+    "input4": "She has a history of CAD in her family and diabetes. Mother is healthy. Father died from prostate cancer. Brother died alcohol abuse. Sister is healthy. No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death.\n",
+    "input5": "VS: 100.3-___\nGENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Blind in R. eye. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \nNECK: Supple, no JVD.  \nCARDIAC:  normal S1, S2. No m/r/g.  \nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.  \nEXTREMITIES: No c/c/e. No femoral bruits.  \nSKIN: two small ulcer on left leg, healing. No discharge noted.\n",
+    "input6": "___ 01:00PM   ___ PTT-27.9 ___\n___ 01:00PM   PLT COUNT-248\n___ 01:00PM   NEUTS-75.1* ___ MONOS-3.3 EOS-0.4 BASOS-1.2\n___ 01:00PM   WBC-7.2 RBC-4.17* HGB-11.0* HCT-32.2* MCV-77* MCH-26.5* MCHC-34.2 RDW-13.6\n___ 01:00PM   TRIGLYCER-142 HDL CHOL-21 CHOL/HDL-3.8 LDL(CALC)-31\n___ 01:00PM   CALCIUM-8.7 PHOSPHATE-3.3 MAGNESIUM-2.3 CHOLEST-80\n___ 01:00PM   CK-MB-3\n___ 01:00PM   CK(CPK)-45\n___ 01:00PM   estGFR-Using this\n___ 01:00PM   GLUCOSE-177* UREA N-25* CREAT-1.7* SODIUM-132* POTASSIUM-4.2 CHLORIDE-97 TOTAL CO2-23 ANION GAP-16\n___ 07:38PM   CK-MB-2 cTropnT-0.07*\n___ 07:38PM   CK(CPK)-41\n\nCXR:IMPRESSION: PA and lateral chest compared to previous: Punctate pulmonary calcifications are more numerous and central lymph node calcifications larger today than they were on a two prior studies. These are probably the residual granulomatous pulmonary infection, particularly histoplasmosis. The new mild peribronchial opacification in the lower lobes, particularly the right, is not a manifestation of reactivation of fungal pneumonia, but represent viral infection.  \n\n#Depression - patient expressed some passive SI, and was evaluted by Psychiatry who agreed that she is likely depressed. She reported feeling depressed since in context of recurrent hospitalizations. It was decided that patient may benefit from starting zoloft for her depression (which is less likely to interact with other meds she is on). Patient will need follow up with PCP to continue to discuss her mood. \nInactive Issues\n\n# PUMP: Overall left ventricular systolic function is mildly depressed (LVEF= 40-45 %), with mildly depressed global LV systolic function and elevated LV filling pressures, without significant valvular disease. Not a candidate for CABG.\n"
+}

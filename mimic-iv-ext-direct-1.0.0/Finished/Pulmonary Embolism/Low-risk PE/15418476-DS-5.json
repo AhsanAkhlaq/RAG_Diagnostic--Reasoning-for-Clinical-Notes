@@ -1,0 +1,32 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "This is the support for Low-risk PE$Cause_1": {
+            "The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Vascular occlusion and blood flow reversal are typical manifestations of deep vein thrombosis, which is the direct source of pulmonary embolism.$Cause_1": {
+                "right mid occlusion with reversal of flow distal to the occlusion$Input2": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Smoking is a risk factor for pulmonary embolism because it thickens the blood, increasing the risk of blood clots forming.$Cause_1": {
+                    "active smoker$Input2": {}
+                },
+                "Pain may be related to nerve or blood vessel compression, and one should be alert to possible deep vein thrombosis, which is a direct precursor to pulmonary embolism.$Cause_1": {
+                    "shooting pain down his right leg$Input2": {}
+                },
+                "HTN is a risk factor of PE$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "Hypertension may be associated with chronic cardiovascular disease, a risk factor for pulmonary embolism$Cause_1": {
+                    "BP: 160/84$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "He is a male who is an active smoker with no other significant past medical history who presents with days of acute onset right fifth toe pain.  The patient reported that this past he had a colonoscopy, at which 6 polyps were removed, and after the colonoscopy developed shooting pain down his right leg.  This pain resolved quickly however developed into a severe right fifth toe pain.  He states that this pain has been consistent and severe for the past 5 days.  Worse when he is walking or when he is elevating his leg, partially relieved by dragging his foot off the bed.  Given these symptoms he presented to an outside hospital where an arterial duplex ultrasound of the right leg was obtained and demonstrated a right mid occlusion with reversal of flow distal to the occlusion. Therefore he was transferred for vascular surgery evaluation.\n\ufeff\nCurrently, the patient states that he has continued pain.  He has never had symptoms like this before, and he has no known arterial disease.  Apart from his foot he has been in his usual state of health, and denies all other symptoms.\n\ufeff\n",
+    "input3": "Past Medical History: HTN\n\nPast Surgical History: none\n",
+    "input4": "Noncontributory\n",
+    "input5": "Physical Exam:\nTemp: 99.0 (Tm 99.0), BP: 160/84 (117-160/75-88), HR: 82\n(77-89), RR: 16, O2 sat: 96% (96-100), O2 delivery: Ra\nGeneral: NAD, AAOx3\nCV: RRR, extremities warm and well perfused\nPulm: Breathing unlabored on room air, no respiratory distress\nAbd: Soft, nontender, nondistended\nWound: right toe dusky at the distal end, improving tenderness, with healing ulceration and mild surrounding cellulitis digit that appears to continue tobe improving \nExt: wwp, no edema\nPulses: DP palp bilaterally\n\ufeff\n",
+    "input6": "___ 05:07AM BLOOD WBC-9.6 RBC-4.08* Hgb-13.2* Hct-39.5* MCV-97 MCH-32.4* MCHC-33.4 RDW-13.3 RDWSD-47.8*\n___ 05:07AM BLOOD PTT-69.3*\n___ 04:58AM BLOOD PTT-81.7*\n___ 02:56AM BLOOD PTT-91.9*\n\ufeff\nThe patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels\n\n"
+}

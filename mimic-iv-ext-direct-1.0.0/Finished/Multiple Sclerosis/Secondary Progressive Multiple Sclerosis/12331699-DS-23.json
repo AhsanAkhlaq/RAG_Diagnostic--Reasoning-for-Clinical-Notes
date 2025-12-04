@@ -1,0 +1,58 @@
+{
+    "Secondary Progressive Multiple Sclerosis$Intermedia_4": {
+        "The patient has been diagnosed with relapsing-remitting multiple sclerosis (RRMS) for 4 years, which is consistent with the diagnosis time of Secondary Progressive Multiple Sclerosis.$Cause_1": {
+            "4 years of RRMS$Input3": {}
+        },
+        "A continued increase in the number of lesions in the central nervous system, a common phenomenon during the course of Secondary Progressive Multiple Sclerosis, points to disease progression.$Cause_1": {
+            "The number of central nervous system lesions continues to increase.$Input6": {}
+        },
+        "Suspected Multiple Sclerosis$Intermedia_2": {
+            "Falls may be a symptom of multiple sclerosis$Cause_1": {
+                "s/p fall$Input1": {}
+            },
+            "Family history considered a risk factor in multiple sclerosis study$Cause_1": {
+                "Two family members with MS-paternal cousins$Input4": {}
+            },
+            "Muscle atrophy can be a manifestation of reduced motor function due to nerve damage in multiple sclerosis.$Cause_1": {
+                "R leg atrophy$Input5": {}
+            },
+            "Reduced strength in the right leg, which may reflect impaired nerve function, one of the common symptoms in multiple sclerosis$Cause_1": {
+                "R leg w/ antigravity (minimal)$Input5": {}
+            },
+            "Anxiety and depression are more common among people with MS, possibly due to the long-term stress and effects of the disease.$Cause_1": {
+                "Patient was continued on her home Klonopine and Venlafaxine$Input6": {}
+            }
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "Visual impairment caused by multiple sclerosis$Cause_1": {
+                "She is with (mainly with visual disturbances from MS) who fell while transferring from toilet to wheelchair.$Input2": {}
+            },
+            "The patient's pain has improved with continued treatment with her regular home medications, and she is further improving her strength and mobility with physical therapy and upcoming rehabilitation. This indicates that the patient is in the relapsing-remitting stage of MS$Cause_1": {
+                "Multiple Sclerosis: Patient was continued on her home medication regimen with improvement in her pain. She worked with physical therapy and will be sent to Rehab to further regain strength and mobility.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Falls may be a symptom of multiple sclerosis$Cause_1": {
+                    "s/p fall$Input1": {}
+                },
+                "Family history considered a risk factor in multiple sclerosis study$Cause_1": {
+                    "Two family members with MS-paternal cousins$Input4": {}
+                },
+                "Muscle atrophy can be a manifestation of reduced motor function due to nerve damage in multiple sclerosis.$Cause_1": {
+                    "R leg atrophy$Input5": {}
+                },
+                "Reduced strength in the right leg, which may reflect impaired nerve function, one of the common symptoms in multiple sclerosis$Cause_1": {
+                    "R leg w/ antigravity (minimal)$Input5": {}
+                },
+                "Anxiety and depression are more common among people with MS, possibly due to the long-term stress and effects of the disease.$Cause_1": {
+                    "Patient was continued on her home Klonopine and Venlafaxine$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "s/p fall\n",
+    "input2": "She is with (mainly with visual disturbances from MS) who fell while transferring from toilet to wheelchair.  She attempted to grab the wheel of the wheelchair and it began to roll away and she then fell on her knees and her face.  She has chronic R leg pain related to her polio and her R knee began to hurt.  Her pain was not controlled at home so she came to the ER for help with pain control.   \n\nThe patient denies any other symptoms, no weakness of any other extremity, she had dysuria 2 days ago but non since.  No other symptoms, no F/C/NS, no chest pain, no SOB, no LH, no HA, no new visual disturbances or neurologic symptoms, no abd pain, blood in stool.  Rest of ROS is negative.\n",
+    "input3": "- 4 years of RRMS\n- Congenital L hip dysplasia- s/p mult surgical repair- 3 total hip replacements, last repair ___ complicated my multiple postoperative dislocations\n- Hypertension\n- polio affecting the right lower extremity, severe chronic pain-followed by pain service\n- Left sciatic neuropathy\n",
+    "input4": "Two family members with MS-paternal cousins\n",
+    "input5": "VS: T 97.5  BP 135/88  HR 85  RR 18  O2 sat 100% on RA\nGEN: NAD, AOX3\nHEENT: MMM\nCARD: RRR, no m/r/g\nPULM: CTAB, no ronchi or rales or wheezes, normal resp effort\nABD: soft, NT, ND, no masses or organomegaly\nEXT: wwp, no c/c/e, R leg atrophy\nNEURO: R leg w/ antigravity (minimal) other ext ___ stregnth, normal mood and affect, AOx3\n",
+    "input6": "Admission labs: ___ 05:25AM \nURINE  ___ BACTERIA-NONE YEAST-NONE ___\nURINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG \nLEUK-MOD\n\nR KNEE X RAY ___: No acute fracture or dislocation.\n\n___ 06:30AM \nGlucose-101* UreaN-12 Creat-0.7 Na-142 K-3.3 Cl-98 HCO3-37* AnGap-___ yoF w/ a h/o MS and polio presents after a mechanical fall with R knee pain.\n\n# Multiple Sclerosis: Patient was continued on her home medication regimen with improvement in her pain. She worked with physical therapy and will be sent to Rehab to further regain strength and mobility.\n\n# UTI: Uncomplicated, treated w/ cipro x 3d\n\n# HTN: Patient was continued on her home antihypertensives with good control. \n\n# Anxiety / depression: Patient was continued on her home Klonopine and Venlafaxine\n\n# MRI\nThe number of central nervous system lesions continues to increase.\n"
+}

@@ -1,0 +1,33 @@
+{
+    "Pituitary Macroadenomas$Intermedia_3": {
+        "MRI findings confirmed the presence of a pituitary tumor and its compression of surrounding structures, particularly the optic nerve.$Cause_1": {
+            "MRI which revealed a 2.8x 2.2 cm mass with left sided optic nerve compression$Input2": {}
+        },
+        "Suspected pituitary disease$Intermedia_2": {
+            "Obesity may be associated with endocrine dysfunction, which may affect the normal function of the pituitary gland$Cause_1": {
+                "obese woman$Input2": {}
+            },
+            "Migraines may be associated with pituitary tumors, particularly if the tumor compresses adjacent neural structures.$Cause_1": {
+                "history of migraine$Input2": {}
+            },
+            "Amenorrhea is one of the typical symptoms of pituitary tumors, especially when the tumor secretes excessive prolactin or other hormones, affecting the normal level of reproductive hormones.$Cause_1": {
+                "workup for amenorrhea$Input2": {}
+            },
+            "Headache is often an important symptom of a pituitary tumor, which may be caused by the tumor growing and compressing surrounding structures, especially brain tissue and nerves.$Cause_1": {
+                "Headaches frsit began months ago$Input2": {}
+            },
+            "Vision problems are often related to a pituitary tumor pressing on the optic nerve, especially if the tumor is located near the optic chiasm.$Cause_1": {
+                "intermittent left sided blurry vision or visual sensations$Input2": {}
+            },
+            "Nausea may be associated with headaches or may be caused by increased pressure in the brain.$Cause_1": {
+                "nausea$Input2": {}
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "She is a yo obese woman with a history of migraine and depression upon workup for amenorrhea and headaches. Headaches frsit began months ago, and are described as diffuse \"pressure\" associated with intermittent left sided blurry vision or visual sensations (crossing lines), sometimes also with nausea.   She also had not had a menstrual cycle and recently went to OBGYN for workup where she was found with elevated prolactin to 47 which responded to progesterone challenge.  As part of that workup she was sent for MRI which revealed a 2.8x 2.2 cm mass with left sided optic nerve compression. \n\ufeff\nShe was referred where she had endorcrine workup and a cosyntropin test which returned normal.  She had formal visual field testing as well but does not know the results.  Referred to us today for assessment of potential resection.\n",
+    "input3": "None\n",
+    "input4": "DM, HTN, colon ca\n",
+    "input5": "Physical Exam:\nPre-op:\nAVSS\nGen: WD/WN, comfortable, NAD.\nHEENT: Pupils: PERRL, EOMs intact without nystagmus.  \nNeck: Supple.\nLungs: CTA bilaterally.\nCardiac: RRR. S1/S2.\nAbd: Soft, NT, BS+\nExtrem: Warm and well-perfused. No C/C/E.\n\ufeff\nNeuro:\nMental status: Awake and alert, cooperative with exam, normal affect.\nOrientation: Oriented to person, place, and date.\nLanguage: Speech fluent with good comprehension and repetition. Naming intact. No dysarthria or paraphasic errors.\n\ufeff\nCranial Nerves:\nI: Not tested\nII: Pupils equally round and reactive to light, 4mm to 3mm bilaterally. Visual fields are full to confrontation. Visual fields, and peripheral vision intact to finger movement and count\nIII, IV, VI: Extraocular movements intact bilaterally without nystagmus.\nV, VII: Facial strength and sensation intact and symmetric.\nVIII: Hearing intact to finger rub bilaterally.\nIX, X: Palatal elevation symmetrical.\nXI: Sternocleidomastoid and trapezius normal bilaterally.\nXII: Tongue midline without fasciculations.\n\ufeff\nMotor: Normal bulk and tone bilaterally. No abnormal movements, \ntremors. Strength full power throughout. No pronator drift \nSensation: Intact to light touch\n\ufeff\nToes downgoing bilaterally\n\ufeff\nCoordination: normal on finger-nose-finger\n\ufeff\n\ufeff\n",
+    "input6": "OSH Labs:\nPROLACTIN - 47.1 (slightly elevated)\nFT4- 7.8 wnl\nLH- 3.6 wnl\nFSH- 7.8 wnl\nfree cortisol 11.3 wnl\nCosyntropin test negative\n\ufeff\nMR w/ contrast \nPituitary macroadenoma with unchanged bulge into the right cavernous sinus and lateral displacement of the right carotid artery. \n\ufeff\nCt w/o contrast\nStatus post transsphenoidal hypophysectomy and fat packing without evidence of postoperative bleed.\n"
+}

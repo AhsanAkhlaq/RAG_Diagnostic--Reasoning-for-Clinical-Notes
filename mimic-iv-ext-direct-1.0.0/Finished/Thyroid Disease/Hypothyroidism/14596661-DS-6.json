@@ -1,0 +1,39 @@
+{
+    "Hypothyroidism$Intermedia_3": {
+        "Abnormally high TSH values is diagnostic criteria for hypothyroidism$Cause_1": {
+            "TSH-63$Input6": {}
+        },
+        "Extreme low T3 values is a diagnostic criteria for hypothyroidism$Cause_1": {
+            "T3-38$Input6": {}
+        },
+        "A low free T4 value is a symptom of hypothyroidism$Cause_1": {
+            "FREE T4-0.81$Input6": {}
+        },
+        "A borderline T4 value is one of the common symptoms of hypothyroidism$Cause_1": {
+            "T4-5.1$Input6": {}
+        },
+        "Suspected Thyroid disease$Intermedia_2": {
+            "Positive TPO antibodies indicate autoimmune thyroiditis, a common cause of hypothyroidism$Cause_1": {
+                "Studies revealed severe hypothyroidism, positive TPO antibodies thyroiditis$Input2": {}
+            },
+            "Drowsiness is a classic symptom of hypothyroidism$Cause_1": {
+                "Patient is too somnolent$Input2": {}
+            },
+            "Hair loss, confusion, fatigue, and amenorrhea are classic symptoms of hypothyroidism$Cause_1": {
+                "history of hair loss, confusion, fatigue and amenorrhea.$Input2": {}
+            },
+            "Lethargy and unresponsiveness can be symptoms of hypothyroidism$Cause_1": {
+                "Somnolent, minimally responsive to sternal rub, moans$Input5": {}
+            },
+            "Dry skin is one of the common symptoms of hypothyroidism$Cause_1": {
+                "Dry skin$Input5": {}
+            }
+        }
+    },
+    "input1": "AMS\n",
+    "input2": "SHe is with PMH significant for uterine fibroids who presents with AMS after elopement from yesterday. The patient was admitted for medical evaluation of psychosis. Studies revealed severe hypothyroidism, positive TPO antibodies thyroiditis.\n\nThe patient presented to the ED where initial vs: 98.2, 76, 144/88, 16, 96% RA.  Exam notable for peristent AMS and signs of catatonia. The patient received Levothryoxine 125mcg and became agitated at one point requiring haloperidol 5mg and lorazepam 2mg.  \n\nPatient is too somnolent for a history to be obtained on arrival to the floor. Records indicate a history of hair loss, confusion, fatigue and amenorrhea. \n",
+    "input3": "Uterine fibroids\n",
+    "input4": "Mother - RA\n",
+    "input5": "Vitals- 97.6, 111-126/68-79, 46-64, 16, 98%2L  \nGeneral- Somnolent, minimally responsive to sternal rub, moans\nHEENT- PERLA, Sclera anicteric, MMM, oropharynx clear, no goiter \n \nNeck- Supple, JVP not elevated, no LAD  \nLungs- CTAB no wheezes, rales, rhonchi  \nCV- RRR, Nl S1, S2, No MRG \nAbdomen- Soft, NT/ND bowel sounds present, no rebound tenderness or guarding,  \nExt- Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  \nNeuro- withdraws to pain\nSkin - Dry skin. 1 - 4cm erythematous macules that blanch with diascopic pressure, light collarette of scale. Evidence of excoriation. Distributed over the shoulders, sacrum and legs.\n",
+    "input6": "___ 12:38PM   LACTATE-1.3\n___ 12:15PM   GLUCOSE-88 UREA N-15 CREAT-1.1 SODIUM-138 POTASSIUM-3.9 CHLORIDE-102 TOTAL CO2-26 ANION GAP-14\n___ 12:15PM   CALCIUM-9.7 PHOSPHATE-3.8 MAGNESIUM-2.3\n___ 12:15PM   TSH-63*\n___ 12:15PM   T4-5.1 T3-38* FREE T4-0.81*\n___ 12:15PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG\n___ 12:15PM   WBC-6.1# RBC-4.46 HGB-12.9 HCT-40.4 MCV-91 MCH-28.8 MCHC-31.8 RDW-15.2\n___ 12:15PM   NEUTS-68.5 ___ MONOS-6.5 EOS-3.0 BASOS-1.1\n___ 12:15PM   PLT COUNT-268\n___ 12:15PM   ___ PTT-28.5 ___\n\n\nIMAGING\n___ PCXR \nFINDINGS:  Single portable view of the chest.  The lungs are clear.  The cardiomediastinal silhouette is within normal limits for technique.  No acute osseous abnormality is identified.\n\n"
+}

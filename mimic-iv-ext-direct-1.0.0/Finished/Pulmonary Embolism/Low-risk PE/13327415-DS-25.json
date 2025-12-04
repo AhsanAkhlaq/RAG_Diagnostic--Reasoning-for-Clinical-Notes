@@ -1,0 +1,44 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "The right heart has not been significantly affected, and submassive PE is ruled out.$Cause_1": {
+            "The main and right pulmonary arteries are normal in caliber, and there is no evidence of right heart strain.$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Elevated D-dimer levels (>500 ng/mL) are a common laboratory finding of pulmonary embolism.$Cause_1": {
+                "D-DIMER-1698$Input6": {}
+            },
+            "The scan showed decreased perfusion in the posterior segment of the right upper lobe and the posterolateral segment of the left lung base, which is a typical radiographic finding of pulmonary embolism and indicates possible blood flow obstruction.$Cause_1": {
+                "Perfusion images in the same 8 views show a large area of decreased perfusion inthe posterior segment of the right upper lobe and a small area of decreasedperfusion in the lateral and posterior basal segments of the left lobe.$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "chest pain is a common symptom for PE$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "PE usually causes chest pain, especially with deep breathing.$Cause_1": {
+                    "R sided chest pain$Input2": {}
+                },
+                "Pulmonary embolism may make it difficult for patients to sleep$Cause_1": {
+                    "Didn't sleep well$Input2": {}
+                },
+                "Chest pain that does not go away may indicate a more serious condition$Cause_1": {
+                    "aching has persisted all day,$Input2": {}
+                },
+                "Patients with type 2 diabetes may have an increased risk of thrombosis due to increased blood viscosity$Cause_1": {
+                    "DM2$Input3": {}
+                },
+                "Heart failure may cause slow blood flow, increasing the likelihood of blood clots forming, which can increase the risk of pulmonary embolism.$Cause_1": {
+                    "CHF$Input3": {}
+                },
+                "Blood pressure shows high systolic pressure may indicate PE$Cause_1": {
+                    "160/58$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "She year old M who presents with R sided chest pain. Pain began last night while lying in bed. Dull aching pain only in right chest. Didn't sleep well overnight. Though denies shortness of breath. The aching has persisted all day, and was only relieved with morphine in the ER. Vomited twice yesterday, and continues to feel nauseated today.No history of DVTs or bleeding. Occasionally has mild bilateral edema. No recent surgeries or trauma. No history of long car rides or plane rides. Non smoker (quit years ago). Prior to yesterday, patient was in his usual state of health.\n",
+    "input3": "1. DM2 -latest A1C 6.1%\n2. CAD s/p CABG\n3. s/p MI years ago)\n4. CHF: echo -EF -moderate MR, moderate to severe TR\n5. h/o afib -per chart. Patient denies this.\n6. CKD -baseline Cr 2.3\n7. Peripheral neuropathy  \n8. Hypertension - not currently being treated  \n9. PVD s/p fem-pop bypass\n10. Hypercholesteremia  \n11. Depression  \n12. Memory loss  \n13. CVA\n",
+    "input4": "non-contributory\n",
+    "input5": "Physical Exam:\nVitals 160/58 HR 54 RR 18 O2 100% 2L T 96.1\nGen: Well appearing, NAD\nHEENT: Supple, No LAD. MMM. No oral lesions.\nCV: RRR. No murmurs.\nResp: CTAB. No wheezes.\nAbd: Soft, NT, ND. No masses.\nExtremities: Warm, well perfused. No edema.\n",
+    "input6": "___ 12:50PM   D-DIMER-1698*\n___ 12:50PM   WBC-8.1 RBC-4.68 HGB-14.1 HCT-38.4* MCV-82 MCH-30.1 MCHC-36.7*# RDW-14.7\n___ 12:50PM   NEUTS-79.6* LYMPHS-12.1* MONOS-4.7 EOS-3.3 BASOS-0.4\n___ 12:50PM   PTT-28.3\n___ 12:50PM   cTropnT-0.08*\n___ 12:50PM   LIPASE-140*\n___ 12:50PM   ALT(SGPT)-27 AST(SGOT)-29 CK(CPK)-73 ALK PHOS-100 TOT BILI-0.7\n___ 12:50PM   GLUCOSE-174* UREA N-63* CREAT-2.3* SODIUM-139 POTASSIUM-5.3* CHLORIDE-103 TOTAL CO2-27 ANION GAP-14\n___ 05:15PM   cTropnT-0.07*\n\ufeff\nV/Q Scan:\nPerfusion images in the same 8 views show a large area of decreased perfusion inthe posterior segment of the right upper lobe and a small area of decreasedperfusion in the lateral and posterior basal segments of the left lobe. Theventilation to both lungs is normal.\nChest x-ray shows cardiomegaly.\n\nThe main and right pulmonary arteries are normal in caliber, and there is no evidence of right heart strain.\n\n\ufeff\n"
+}

@@ -1,0 +1,51 @@
+{
+    "Epilepsy$Intermedia_3": {
+        "Epileptiform discharges have a unique spike waveform pattern. Spike waveform refers to the sharp, rapid peaks that appear in EEG recordings, which is one of the important bases for diagnosing epilepsy.$Cause_1": {
+            "EEG recordings often identify typical epileptiform discharEpileptiform discharges have a unique spike waveform pattern. Spike waveform refers to the sharp, rapid peaks that appear in EEG recordings, which is one of the important bases for diagnosing epilepsy.es which are characterized by their distinctive spike patterns.$Input6": {}
+        },
+        "Suspected Epilepsy$Intermedia_2": {
+            "This symptom may occur during a seizure, especially one related to the area of \u200b\u200bthe brain that controls language function.$Cause_1": {
+                "Episodes of slurred speech$Input1": {}
+            },
+            "These are typical symptoms of an epileptic seizure, involving a brief loss of consciousness and muscle twitches.$Cause_1": {
+                "consist of altered mental status, staring, upper lip twitching, occasional fluttering of eyelids$Input2": {}
+            },
+            "Patients may experience cognitive dysfunction or subtle alterations in mental status while awake, which may be manifestations of chronic epileptic activity.$Cause_1": {
+                "able to engage in routine activities such as making coffee and doing chores but is perseverative and inattentive during conversations and has no recollection of events afterwards.$Input2": {}
+            },
+            "Persistent confusion may indicate a non-habitual state of seizures$Cause_1": {
+                "Symptoms are typically prolonged with confusion lasting for hrs at a time with gradual improvement over the next 1 hrs.$Input2": {}
+            },
+            "Has a history of seizures is a risk fact of epilepsy$Cause_1": {
+                "has had seizures since childhood$Input2": {}
+            },
+            "Status nonatonicum is a form of epilepsy characterized by brief loss of consciousness, usually without overt motor manifestations.$Cause_1": {
+                "was found to be in nonconvulsiveabsence status.$Input2": {}
+            },
+            "Adjustment of drug doses may affect epilepsy control$Cause_1": {
+                "She had been on keppra 1250 mg bid which was slowly tapered off over the past several weeks.$Input2": {}
+            },
+            "Family history of stroke patients may be at increased risk of developing epilepsy in some cases$Cause_1": {
+                "mother with stroke$Input4": {}
+            },
+            "Repetitive behaviors or topics, which may be post-epileptic status$Cause_1": {
+                "Very perseverative limiting further testing$Input5": {}
+            },
+            "Impairments in memory and mental flexibility may be indirect manifestations of epileptic seizures$Cause_1": {
+                "Able to do DOY forwards but not any days backwards$Input5": {}
+            },
+            "This reflects an impact on the area of \u200b\u200bthe brain that processes language, which is common in people with temporal lobe epilepsy.$Cause_1": {
+                "Perseverates when attempting to name objects or repeatsentences.$Input5": {}
+            },
+            "Nystagmus, especially rapid rhythmic movements during distal gaze, may be a sign of neurologic dysfunction and is sometimes seen in neuropathy associated with epilepsy.$Cause_1": {
+                "beats of endgaze nystagmus b/l$Input5": {}
+            }
+        }
+    },
+    "input1": "Episodes of slurred speech\n",
+    "input2": "67 yo F with history of afib on coumadin. Her symptom consist of altered mental status, staring, upper lip twitching, occasional fluttering of eyelids, and is able to engage in routine activities such as making coffee and doing chores but is perseverative and inattentive during conversations and has no recollection of events afterwards. Symptoms are typically prolonged with confusion lasting for hrs at a time with gradual improvement over the next 1 hrs.  \nShe has had seizures since childhood and had been well-controlled on depakote monotherapy, with episodes 9 times per year.  However due to a longstanding tremor, she was switched to keppra with frequency increasing to every two months. She had mild improvement with a switch from generic to brand keppra.  She was admitted to the epilepsy service in early with her typical events and was found to be in nonconvulsiveabsence status.  She was started on zonisamide but becamelethargic at 200 mg daily so was decreased to 100 mg daily andslowly titrated up back to current dose of 200 mg daily. (lethargy was also in context of ativan taper).  She had been on keppra 1250 mg bid which was slowly tapered off over the past several weeks.  She has also tried dilantin in the past.  Per prior notes she has a remote history of GTCs and myoclonus but none recently.\n\nShe lives alone and typically calls her son every morning at 08 am.  This AM when she did not call, her son was concerned and tried calling her but she did not pick up.  Her arrived and noted her to be inattentive and perseverative.  Her son arrived and thought her presentation was consistent with her typical seizures.  Per his neurologist's instructions he gave her lorazepam 0.5 mg x2 and possibly with some transient improvement in her symptoms, but symptoms persisted, so he brought her to the ED for further evaluation.\n\nHe reports she has been compliant with his medications and does not believe she has had any recent fevers, chills, cough, SOB, chest pain, palpitations, nausea, vomiting, or diarrhea.\n",
+    "input3": "+spine fx\n+pelvic fx\n+afib on coumadin\n+osteoporosis\n+pneumonia\n",
+    "input4": "mother with stroke. Father with MI, sister with lupus.\n",
+    "input5": "VS: T 98 P 64 BP 139/64 RR 18 96% RA\nGen: lying in bed, NAD\nCV: RRR, no murmurs\nPulm: CTA anteriorly\nAbd: soft, nt, nd\nExtr: 1+ edema at anklesNeuro;\nMS: Awake, oriented to person and her age.  Can tell me her son's name but not his birthday.  Very perseverative limiting further testing.  Able to do DOY forwards but not any days backwards. Follows appendicular commands and occasional two-step simple commands.  Perseverates when attempting to name objects or repeatsentences.  Registers, recalls at 1 and 3 minutes.  \nCN: PERRL 4mm-->3mm, EOMI, beats of endgaze nystagmus b/l. Appears to blink to threat in all visual fields.  Face symmetric, palate symmetric, tongue midline.\nMotor: normal bulk and tone.  No pronator drift, tremor, or asterixis.  Uncooperative with formal strength testing but maintains against gravity and symmetric at R and L delt, bicep, tricep, FE, FF, IP, TA, and gastrocs.\nSensory: intact to light touch throughout.\nReflexes: 1+ at biceps and brachioradialis, 0 at patellar and achilles b/l.  Toes downgoing.\nCoordination: no dysmetria on FNF b/l.\nGait: deferred\n",
+    "input6": "Admission Labs: \nCBC Normal \nBMP/Ca/Mg/Phos: normal \nUA: Yellow, Hazy, 1.106, 4 RBC, 36 RBC, few bacteria\n\nEEG:\nEEG recordings often identify typical epileptiform discharges which are characterized by their distinctive spike patterns. \n"
+}

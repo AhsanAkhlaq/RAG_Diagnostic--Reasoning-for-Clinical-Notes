@@ -1,0 +1,18 @@
+{
+    "Gastric ulcers$Intermedia_3": {
+        "Gastric ulcer on endoscopy is the gold standard of gastric ulcer.$Cause_1": {
+            "Endoscopy:Gastric ulcer$Input6": {}
+        },
+        "suspected peptic ulcer disease$Intermedia_2": {
+            "abdominal pain, nausea and vomitingare the possible symptoms of peptic ulcer.$Cause_1": {
+                "Over the past month, patient has had bursts of severe abdominal pain, largely in the left upper quadrant, associated with nausea and vomiting$Input2": {}
+            }
+        }
+    },
+    "input1": "Nausea, vomiting, epigastric pain, weight loss\n",
+    "input2": "Ms. is a female with a history of functional abdominal pain years ago requiring multiple hospitalizations presenting with abdominal pain. One month ago, patient was treated here in the emergency department for abdominal pain that was thought to be related to a UTI. She did not have any urinary symptoms at that time. Over the past month, patient has had bursts of severe abdominal pain, largely in the left upper quadrant, associated with nausea and vomiting. She last reports trialing solid food fries) two weeks ago, she vomited about 30 minutes after this with food still visible. She denies any diarrhea, bloody stools, or black stools. Her menstrual cycles are regular and her last menstrual period was two weeks ago. Patient has been seen in multiple hospitals, has had 2 CT scans both unremarkable. Patient has referral for an endoscopy and colonoscopy. Last night at 11, patient vomited and became severe worsening overnight. Per PCP, patient has lost 35 pounds in the last month 216lbs <- 249 lbs on. Patient is having difficulty tolerating p.o. The ED resident spoke with PCP extensively, and is hoping that patient will require an admission for expedited workup including endoscopy and colonoscopy.\n",
+    "input3": "+nephrolithiasis\n",
+    "input4": "MGM with breast cancer\n",
+    "input5": "VS: 1641 Temp: 98.1 PO BP: 124/85 HR: 90 RR: 18 O2 sat:\n100% O2 delivery: Ra \nGENERAL: Pleasant, lying in bed comfortably  \nHEENT:  mucosa moist\nCARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  \nLUNG: Appears in no respiratory distress, clear to auscultation bilaterally, no crackles, wheezes, or rhonchi  \nABD: Normal bowel sounds, soft, mild epigastric tenderness to palpation, nondistended, no hepatomegaly, no splenomegaly bypercussion of space, unable to palpate spleen\nEXT: Warm, well perfused, no lower extremity edema  \nPULSES: 2+ radial pulses, 2+ ___ pulses, 2+ DP pulses  \nNEURO: Alert, oriented, CN II-XII intact, motor and sensory function grossly intact  \nSKIN: No significant rashes\n",
+    "input6": "02:22PM   COMMENTS-GREEN TOP\n02:22PM   LACTATE-1.6\n11:38AM URINE  HOURS-RANDOM CREAT-194 TOT PROT-26 PROT/CREA-0.1\n11:38AM URINE  UCG-NEGATIVE\n11:38AM URINE  COLOR-Yellow APPEAR-Hazy* SP\n11:38AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30* \nGLUCOSE-NEG KETONE-40* BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 LEUK-NEG\n11:38AM URINE  RBC-2 WBC-5 BACTERIA-NONE YEAST-NONE EPI-16\n11:38AM URINE  AMORPH-RARE*\n11:38AM URINE  MUCOUS-MANY*\n09:19AM   COMMENTS-GREEN TOP\n09:19AM   LACTATE-2.2*\n09:08AM   GLUCOSE-109* UREA N-4* CREAT-0.8 SODIUM-140 \nPOTASSIUM-3.8 CHLORIDE-100 TOTAL CO2-23 ANION GAP-17\n09:08AM   estGFR-Using this\n09:08AM   ALT(SGPT)-28 AST(SGOT)-32 LD(LDH)-283* ALK \nPHOS-92 AMYLASE-49 TOT BILI-0.4\n09:08AM   LIPASE-24\n09:08AM   ALBUMIN-4.6 IRON-45\n09:08AM   calTIBC-343 FERRITIN-81 TRF-264\n09:08AM   WBC-6.9 RBC-5.22* HGB-12.8 HCT-39.9 MCV-76* MCH-24.5* MCHC-32.1 RDW-16.0* RDWSD-43.7\n09:08AM   NEUTS-56.1 MONOS-11.4 EOS-1.2 BASOS-0.7 IM AbsNeut-3.85 AbsLymp-2.08 AbsMono-0.78 \nAbsEos-0.08 AbsBaso-0.05\n09:08AM   PLT COUNT-424*\nEndoscopy:Gastric ulcer\n"
+}

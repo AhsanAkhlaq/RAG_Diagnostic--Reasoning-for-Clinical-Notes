@@ -1,0 +1,30 @@
+{
+    "Pituitary Macroadenomas$Intermedia_3": {
+        "The size of the pituitary adenoma, 1.7 cm, was an important factor in the direct diagnosis of Pituitary Macroadenomas.$Cause_1": {
+            "B Pituitary adenomas that are 1.7 cm$Input6": {}
+        },
+        "Suspected pituitary disease$Intermedia_2": {
+            "headache is a common symptom of pituitary disease$Cause_1": {
+                "headache$Input1": {}
+            },
+            "Headache is one of the possible symptoms of a giant pituitary adenoma because the tumor may compress surrounding structures.$Cause_1": {
+                "worked up for headaches$Input2": {}
+            },
+            "Abnormally elevated IGF-1 is common in conditions of excessive growth hormone secretion, which may be associated with pituitary adenomas.$Cause_1": {
+                "Endocrinology consult was then obtained which revealed elevated IGF-1.$Input2": {}
+            },
+            "The medical team suspects a cystic structure that requires surgery, which is common in pituitary adenomas, especially large or symptomatic ones$Cause_1": {
+                "discuss excision of the cyst$Input2": {}
+            },
+            "Increased muscle size found during a physical exam, which may be a sign of excessive growth hormone production from the pituitary gland$Cause_1": {
+                "enlarged bulk$Input5": {}
+            }
+        }
+    },
+    "input1": "headache\n",
+    "input2": "Pt worked up for headaches. Endocrinology consult was then obtained which revealed elevated IGF-1. Visual Field Testing performed and no deficit was noted. Pt is now referred for neurosurgical consultation to discuss excision of the cyst.\n",
+    "input3": "Chronic headache, HTN, DM2\n",
+    "input4": "Noncontributory\n",
+    "input5": "Physical Exam:\nGen: WD/WN, comfortable, NAD.\nHEENT: Pupils: PERRL     EOMs intact\nNeck: Supple.\nLungs: no adventicious sounds\nCardiac: RRR\nAbd: Soft, NT\nExtrem: Warm and well-perfused.\nNeuro:\nMental status: Awake and alert, cooperative with exam, normal affect.\nOrientation: Oriented to person, place, and date.\nLanguage: Speeks, Speech fluent but thick with good comprehension \n\ufeff\nCranial Nerves:\nI: Not tested\nII: Pupils equally round and reactive to light, 4 to 3\nmm bilaterally. Visual fields are full to confrontation.\nIII, IV, VI: Extraocular movements intact bilaterally without nystagmus.\nV, VII: Facial strength and sensation intact and symmetric.\nVIII: Hearing intact to voice.\nIX, X: Palatal elevation symmetrical.\nXI: Sternocleidomastoid and trapezius normal bilaterally.\nXII: Tongue midline without fasciculations.\n\ufeff\nMotor: enlarged bulk and normal tone bilaterally. No abnormal movements, tremors. Strength full power ___ throughout. No pronator drift. acromegalic features.\n\ufeff\nSensation: Intact to light touch\n\ufeff\nCoordination: normal on finger-nose-finger, rapid alternating movements\n\ufeff\nOn discharge he was non focal without csf leak \n\ufeff\n",
+    "input6": "B Pituitary adenomas that are 1.7 cm\n"
+}

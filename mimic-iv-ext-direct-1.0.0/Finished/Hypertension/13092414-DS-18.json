@@ -1,0 +1,24 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "VS: 148/88$Input5": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "stress test prior to admission that was abnormally high(BP:145/95)$Input2": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Chest pain is a symptoms of Hypertension.$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "Family history is a big risk factor of Hypertension.$Cause_1": {
+                "Two sisters with hypertension$Input4": {}
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "54 y/o man with a history of positive family history for premature coronary artery disease presented to ED with c/o worsening chest pain, lightheadedness and palpitations. He had a stress test prior to admission that was abnormally high(BP:145/95) and restarted ASA and Prilosec at that time. he described chest tightness with exertion that radiated to jaw. He also c/o lightheadness and palpitations. Given family history of premature heart disease, pt. was treated for unstable angina.\n",
+    "input3": "None\n",
+    "input4": "Father: died of MI\nBrother: MI\nMother: CAD\nTwo sisters with hypertension\n",
+    "input5": "VS: 148/88 96%\nGeneral: appears comfortable in NAD.\nNeuro: A+O X3. Affect appropriate. MAE.\nNeck: supple (-) carotid bruits\nChest: lungs clear\nCV: AP RRR no m/r/g\nAbd: soft, NT,ND,(+) BS.\nExt; (+) peripheral pulses without edema.\nAccess site: RRA access without ooze, hematoma, (+) radial pulse.\n",
+    "input6": "___ 12:34AM BLOOD Neuts-39.0 ___ Monos-7.3 Eos-2.4 Baso-0.5 Im ___ AbsNeut-2.98 AbsLymp-3.87* AbsMono-0.56 AbsEos-0.18 AbsBaso-0.04\n___ 07:45AM BLOOD PTT-83.3*\n___ 12:34AM BLOOD Plt ___\n___ 12:34AM BLOOD Glucose-111* UreaN-18 Creat-1.1 Na-140 K-4.3 Cl-103 HCO3-26 AnGap-15\n___ 12:34AM   D-DIMER-290\n___ 01:24AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG\n___ 12:34AM   WBC-7.6 RBC-5.22 HGB-15.7 HCT-47.2 MCV-90 MCH-30.1 MCHC-33.3 RDW-13.0 RDWSD-42.\n\nMale with family history of premature CAD who presented with c/o worsening chest pain, lightheadedness and palpitations. He underwent a stress test that was normal. Troponins negative.\n"
+}

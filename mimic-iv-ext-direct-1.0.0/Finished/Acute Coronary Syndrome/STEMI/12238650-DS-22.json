@@ -1,0 +1,82 @@
+{
+    "NSTE-ACS$Intermedia_4": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "cTropnT-6.61*$Input6": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "cTropnT-12.62*$Input6": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09 .$Cause_1": {
+            "cTropnT-11.69*$Input6": {}
+        },
+        "Cardiac structural abnormalities is a sigh of ACS.$Cause_1": {
+            "Left\nThe LMCA was short with nearly separate ostia in the LAD and Cx. The LAD was widely patent with no thrombosis in the stent and only mild luminal irregularities. The Cx had mild plaquing. The RCA was nondominant with luminal irregularities as before.$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "history of coronary artery disease is a risk factor$Cause_1": {
+                "Male with history of coronary artery disease$Input2": {}
+            },
+            "Chest pain is a symptom of ACS.$Cause_1": {
+                "The patient has been complaining of progressive, exertional, left sided chest pain.$Input2": {}
+            },
+            "HTN is the risk fact for ACS$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "DM2 is the risk fact for ACS$Cause_1": {
+                "DM2$Input3": {}
+            },
+            "HLD is the risk fact for ACS$Cause_1": {
+                "HLD$Input3": {}
+            },
+            "family history of HTN is a risk factor$Cause_1": {
+                "HTN in both parents$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "Coronary stenosis isa sign of acs$Cause_1": {
+                "The patient underwent elective coronary angiography which demonstrated a 90% proximal LAD lesion for which a 3.0x12 Xience (DES).$Input2": {}
+            },
+            "More severe clinical presentations of acs$Cause_1": {
+                "before the patient could pick up with prescription, he had the sudden onset of sharp, mid-abdominal pain. This was without radiation, nausea, vomiting or diarrhea.$Input2": {}
+            },
+            "More severe clinical presentations of acs.$Cause_1": {
+                "the patient reported sudden onset of dyspnea, nausea/vomiting and diaphoresis.$Input2": {}
+            },
+            "EKG changes are sign of ACS$Cause_1": {
+                "An ECG was obtained which demonstrated sinus rhythm at a rate of 89 with STE V2-V5 and aVL with reciprocal changed in II and III.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "history of coronary artery disease is a risk factor$Cause_1": {
+                    "Male with history of coronary artery disease$Input2": {}
+                },
+                "Chest pain is a symptom of ACS.$Cause_1": {
+                    "The patient has been complaining of progressive, exertional, left sided chest pain.$Input2": {}
+                },
+                "HTN is the risk fact for ACS$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "DM2 is the risk fact for ACS$Cause_1": {
+                    "DM2$Input3": {}
+                },
+                "HLD is the risk fact for ACS$Cause_1": {
+                    "HLD$Input3": {}
+                },
+                "family history of HTN is a risk factor$Cause_1": {
+                    "HTN in both parents$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "Male with history of coronary artery disease s/p recent PCI presents with in-stent thrombosis.\n\nThe patient has been complaining of progressive, exertional, left sided chest pain. He underwent a nuclearstress test that demonstrated METs with chest pain symptoms. Normal myocardial perfusion study. LVEF 46&\". In addition, a TTE demonstrated \"LVEF 60-65%, normal RV, mild MR\".\n\nHe was seen that his chest pain was attributed to possible angina though this was deemed less likely given his negative stress testing. Given his risk factors and family history the patient, along with his cardiologist elected to pursue angiography. \n\nThe patient underwent elective coronary angiography which demonstrated a 90% proximal LAD lesion for which a 3.0x12 Xience (DES). He was loaded with ticagrelor and discharged the same day. \n\nThe patient was seen in the CDAC for abdominal discomfort that is exacerbated after eating food ever since he started taking his ticagrelor. He was instructed to start pantoprazole and to discontinue his ticagrelor. He was given a prescription for clopidogrel 75mg daily after a 300mg loading dose. \n\nHe had taken his morning dose of ticagrelor. He was instructed to hold his evening dose and load with clopidogrel 300mg the next morning. The patient went to his pharmacy that evening to pick up his prescription. The pharmacist said they did not have the 300mg loading dose available but that the patient should come back the next day to pick it up. The patient took clopidogrel 75mg the next morning with plans to  pick up his loading dose later in the day. \n\nHowever, before the patient could pick up with prescription, he had the sudden onset of sharp, mid-abdominal pain. This was without radiation, nausea, vomiting or diarrhea. \n\nHis vitals on presentation were notable for T 98.2 HR 73 R 16 BP146/101 SpO2 99. His Chemistry panel was wnl. LFTs were notable for AST 20 ALT 38 AP 62 and Lipase 128. INR was 1.2 CBC was wnl.\n\nHe underwent a CT abd which showed evidence of mild pancreatitis. He was admitted for abdominal pain with concern for pancretitis.\n\nHis ECG on admission demonstrated normal sinus rhythm at a rate of 66 with normal axis and intervals. There was TWI in V4-6 and STD I-II. \n\nThe next day, the patient reported sudden onset of dyspnea, nausea/vomiting and diaphoresis. An ECG was obtained which demonstrated sinus rhythm at a rate of 89 with STE V2-V5 and aVL with reciprocal changed in II and III. He was transferred out of concern for in-stent thrombosis.\n\nUpon arrival, he was taken directly to the cath lab where he underwent coronary angiography via the R radial artery. This demonstrated complete occlusion of the LAD for which he received POBA. \n\nHe was then transferred to the floor where he was complaining of mild dyspnea but improved abdominal pain. He has no fevers or chills. No chest pain or papliations. His ECG showed improved anteroseptal STEs.\n\nOf note, the patient has had an episode of pancreatitis that was thought to be possible due to biliary obstruction but  no stones were seen on EUS. Therefore the etiology was thought to  be from resolved choledocholithiasis vs. idiopathic. The patient states that this abdominal pain is very similar to this episode.\n",
+    "input3": "+HTN\n+HLD\n+CVA c/b R arm and leg weakness\n+DM2\n+Pancreatitis\n",
+    "input4": "HTN in both parents, father with CHF, mother with CABG in her, multiple siblings with HTN. Had myopathy to rosuvastatin \nand cough to lisinopril.\n",
+    "input5": "ADMISSION PHYSICAL EXAMINATION:  \n===============================\nVS: T 98.2 BP 159/98 HR 91 R 18 SpO2 98 ra \nGEN: NAD\nHEENT: Clear OP, no scleral icterus\nRESP: No increased WOB. Mild, end-expiratory crackles R base\nABD: NTND no HSM\nEXT: Warm, no edema. No mass by R radial artery. Bandage c/d/i\nNEURO: CN II-XII intact. Strength ___ LUE and LLE ___ RUE and RLE\n",
+    "input6": "ADMISSION LABS:\n===============\n___ 11:00AM BLOOD WBC-7.6 RBC-4.56* Hgb-13.5* Hct-39.9* MCV-88 MCH-29.6 MCHC-33.8 RDW-13.2 RDWSD-42.2 Plt ___\n___ 11:00AM BLOOD Neuts-86.3* Lymphs-9.6* Monos-3.3* Eos-0.1* Baso-0.3 Im ___ AbsNeut-6.58* AbsLymp-0.73* AbsMono-0.25 AbsEos-0.01* AbsBaso-0.02\n___ 11:00AM BLOOD Glucose-253* UreaN-10 Creat-1.1 Na-140 K-4.0 Cl-101 HCO3-25 AnGap-14\n___ 11:00AM BLOOD ALT-63* AST-304* LD(LDH)-690* AlkPhos-57 Amylase-29 TotBili-0.9\n___ 11:00AM BLOOD Lipase-77*\n___ 11:00AM BLOOD CK-MB-214* cTropnT-6.61*\n___ 08:00PM BLOOD cTropnT-12.62*\n___ 09:52PM BLOOD CK-MB-259* cTropnT-11.69*\n___ 11:00AM BLOOD Albumin-4.2 Calcium-9.1 Phos-4.0 Mg-1.9 Iron-50 Cholest-108\n___ 11:00AM BLOOD calTIBC-325 Ferritn-204 TRF-250\n___ 11:00AM BLOOD Triglyc-28 HDL-44 CHOL/HD-2.5 LDLcalc-58\n\n\nIMAGING/STUDIES:\n================\nCORONARY ANGIOGRAPHY ___:\nFINDINGS:\nHemodynamics: State: Baseline\nDominance: Left\nThe LMCA was short with nearly separate ostia in the LAD and Cx. The LAD was widely patent with no thrombosis in the stent and only mild luminal irregularities. The Cx had mild plaquing. The RCA was nondominant with luminal irregularities as before.\nImpressions:\n1. No change in coronary disease.\n\nCXR:\nThere is a right lower lobe patchy opacity.  No pleural effusion or pneumothorax identified.  The size of the cardiac silhouette is within normal limits. \nIMPRESSION:  \nRight basilar atelectasis and/or consolidation. \n\nLIVER OR GALLBLADDER U/S:\n1. Echogenic liver most likely due to fatty deposition.  Please note, on the basis of this appearance, more advanced forms liver disease not excluded. \n2. Status post cholecystectomy.  No biliary ductal dilation.\n"
+}

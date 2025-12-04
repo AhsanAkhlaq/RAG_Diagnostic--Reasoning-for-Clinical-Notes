@@ -1,0 +1,51 @@
+{
+    "Paroxysmal Atrial Fibrillation$Intermedia_3": {
+        "Arrhythmic events are an important symptom of AF, Not persistent attacks point to Paroxysmal Atrial Fibrillation$Cause_1": {
+            "Pt reports occasional epsiodes previously and now multiple episodes in the past few days$Input2": {}
+        },
+        "Atrial fibrillation waves are found, which is a condition for diagnosis$Cause_1": {
+            "Irregular and rapid waveforms of atrial activity, irregular RR intervals$Input6": {}
+        },
+        "Suspected Atrial Fibrillation$Intermedia_2": {
+            "the upper chamber of the heart no longer contracts effectively, reducing the heart's pumping efficiency, which may lead to insufficient blood supply to the whole body, especially the brain, leading to syncope.$Cause_1": {
+                "Presyncope$Input1": {}
+            },
+            "Symptoms such as dizziness may be due to atrial fibrillation causing a transient reduction in cardiac output$Cause_1": {
+                "On the day prior to presentation she was at a flu clinic line, sat down after standing for a while, then upon walking felt diaphoretic and lightheaded and thought she would fall down.$Input2": {}
+            },
+            "Blurred or altered vision may be related to unstable cardiac output, which may be a transient reduction in cerebral blood flow due to AF.$Cause_1": {
+                "her vision was off$Input2": {}
+            },
+            "Mild elevations in BNP may be due to cardiac stress or cardiac structural problems, which is consistent with increased cardiac workload in patients with AF.$Cause_1": {
+                "mildly elevated BNP at 4000$Input2": {}
+            },
+            "Hypertension is an important risk factor for AF$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "Coronary artery disease (CAD) and myocardial infarction (MI) increase the risk of atrial fibrillation$Cause_1": {
+                "CAD with MI s/p PCI$Input3": {}
+            },
+            "The tendency of the blood to clot, which is associated with the risk of atrial fibrillation and blood clots$Cause_1": {
+                "h/o DVT$Input3": {}
+            },
+            "High blood pressure may be a risk factor for atrial fibrillation$Cause_1": {
+                "174/93$Input5": {}
+            },
+            "A diastolic murmur may indicate a structural heart problem, which is also a risk factor for atrial fibrillation$Cause_1": {
+                "diastolic murmur at the RUSB nonradiating$Input5": {}
+            },
+            "Blood circulation problems may indirectly increase the risk of heart disease$Cause_1": {
+                "mutliple varicocities bilaterally$Input5": {}
+            },
+            "Elevated levels of proBNP are often a sign of cardiac dilation or impaired cardiac function and are associated with atrial fibrillation.$Cause_1": {
+                "proBNP-4620$Input6": {}
+            }
+        }
+    },
+    "input1": "Presyncope\n",
+    "input2": "She is an 69 yo F w/ PMH of CAD, breast cancer s/p bilateral mastectomies who presents with lightheadedness. Pt reports occasional epsiodes previously and now multiple episodes in the past few days. On the day prior to presentation she was at a flu clinic line, sat down after standing for a while, then upon walking felt diaphoretic and lightheaded and thought she would fall down. Also felt as though her vision was off and others were asking her if she felt okay. +nausea associated. No chest pain no shortness of breath. No recent increase in peripheral edema, orthopnea or PND. She reports no changes in her medications. No recent changes in bowel movements, no hematochezia, no abdominal pain or vomiting. She has been eating normally and had eaten on the day of the symptoms. She went to her PCP's office who was concerned and sent her to the ED  \n\nOn arrival to the ED her initial VS were 98.5, 130/72, 60, 16, 96%2L. EKG showed a LBBB that was unchanged compared to prior. Labs were notable for mildly elevated BNP at 4000, negative trop x1 and she was admitted for workup of presyncope given the increase in frequency and her cardiac history to rule out MI.  On arrival to the floor she has no complaints and reports feeling well.\n",
+    "input3": "+HTN  \n+CAD with MI s/p PCI  \n+h/o DVT\n+Breast cancer s/p bilateral mastectomy  \n+Carpal tunnel syndrome  \n+Rotator cuff injury\n+Right shoulder dislocation/rotator cuff injury (no surgery  adviced for severe arthritis?)  \n+Left rotator cuff injury s/p surgery\n",
+    "input4": "Father with cancer, Mother with ALS. Denies FH of CAD, DM, HTN, stroke, MI, asthma, colon/skin/breast cancer.\n",
+    "input5": "Vitals- 97.7, 174/93, 69, 16, 96RA wt 80.2kg  \nGeneral- Alert, oriented, no acute distress, lying in bed comfortably  \nHEENT- Sclera anicteric, MMM, oropharynx clear  \nNeck- supple, JVP not elevated, no LAD, no carotid bruits on exam  \nLungs- Clear to auscultation bilaterally, no wheezes, rales, ronchi  \nCV- Regular rate and rhythm, normal S1 + S2, diastolic murmur at the RUSB nonradiating  \nAbdomen- soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  \nGU- no foley  \nExt- mutliple varicocities bilaterally. Well healed scars bilaterally. No pitting edema. Brisk DP pulses bilaterally  \nNeuro- CNs2-12 intact, motor function grossly normal\n",
+    "input6": "___ 05:40PM BLOOD D-Dimer-198\n___ 08:10AM BLOOD Calcium-9.0 Phos-3.8 Mg-1.7\n___ 05:40PM BLOOD proBNP-4620*\n___ 05:40PM BLOOD cTropnT-<0.01\n___ 05:40PM BLOOD Glucose-97 UreaN-26* Creat-1.1 Na-142 K-4.4 Cl-109* HCO3-24 AnGap-13\n___ 05:40PM BLOOD ___ PTT-45.6* ___\n___ 05:40PM BLOOD WBC-6.3 RBC-4.64 Hgb-12.4 Hct-35.4* MCV-76*# MCH-26.7* MCHC-35.0 RDW-14.4\n___ 05:40PM BLOOD Neuts-69.4 ___ Monos-4.0 Eos-4.5* Baso-0.7\n\nImaging:\nCXR ___: \nIMPRESSION: No evidence of pneumonia.  \n \nEKG: Irregular and rapid waveforms of atrial activity, irregular RR intervals\n"
+}

@@ -1,0 +1,108 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "cTropnT-0.60*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest Pain is a symptom of ACS.$Cause_1": {
+                "Chest Pain$Input1": {}
+            },
+            "PMHx of HTN and chronic hepatitis are risk facts and Chest Pain is a symptom of ACS$Cause_1": {
+                "a man with PMHx of HTN and chronic hepatitis C who presents with substernal chest pain.$Input2": {}
+            },
+            "experience chest pain is a symptom of ACS.$Cause_1": {
+                "The patient reports that he was sitting in a recliner this AM drinking coffee, when he began to experience chest pain. The pain dissipated sponatneously after a few minutes, and then returned for approximately 30 minutes.$Input2": {}
+            },
+            "HTN is a risk factor$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "Chronic hepatitis C\n is a risk factor$Cause_1": {
+                "Chronic hepatitis C$Input3": {}
+            },
+            "father deceased before, h/o alcoholism and pancreatitis is a risk fact$Cause_1": {
+                "father deceased before, h/o alcoholism and pancreatitis$Input4": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "acute thrombotic 1 vessel coronary artery disease is a strongly sign of acs$Cause_1": {
+                "Selective coronary angiography in this right dominant system demonstrated acute thrombotic 1 vessel coronary artery disease.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "PMHx of HTN and chronic hepatitis are risk facts and Chest Pain is a symptom of ACS$Cause_1": {
+                    "a man with PMHx of HTN and chronic hepatitis C who presents with substernal chest pain.$Input2": {}
+                },
+                "experience chest pain is a symptom of ACS.$Cause_1": {
+                    "The patient reports that he was sitting in a recliner this AM drinking coffee, when he began to experience chest pain. The pain dissipated sponatneously after a few minutes, and then returned for approximately 30 minutes.$Input2": {}
+                },
+                "HTN is a risk factor$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "Chronic hepatitis C\n is a risk factor$Cause_1": {
+                    "Chronic hepatitis C$Input3": {}
+                },
+                "father deceased before, h/o alcoholism and pancreatitis is a risk fact$Cause_1": {
+                    "father deceased before, h/o alcoholism and pancreatitis$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "ECG:non-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "PMHx of HTN and chronic hepatitis are risk facts and Chest Pain is a symptom of ACS$Cause_1": {
+                    "a man with PMHx of HTN and chronic hepatitis C who presents with substernal chest pain.$Input2": {}
+                },
+                "experience chest pain is a symptom of ACS.$Cause_1": {
+                    "The patient reports that he was sitting in a recliner this AM drinking coffee, when he began to experience chest pain. The pain dissipated sponatneously after a few minutes, and then returned for approximately 30 minutes.$Input2": {}
+                },
+                "HTN is a risk factor$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "Chronic hepatitis C\n is a risk factor$Cause_1": {
+                    "Chronic hepatitis C$Input3": {}
+                },
+                "father deceased before, h/o alcoholism and pancreatitis is a risk fact$Cause_1": {
+                    "father deceased before, h/o alcoholism and pancreatitis$Input4": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "acute thrombotic 1 vessel coronary artery disease is a strongly sign of acs$Cause_1": {
+                    "Selective coronary angiography in this right dominant system demonstrated acute thrombotic 1 vessel coronary artery disease.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest Pain is a symptom of ACS.$Cause_1": {
+                        "Chest Pain$Input1": {}
+                    },
+                    "PMHx of HTN and chronic hepatitis are risk facts and Chest Pain is a symptom of ACS$Cause_1": {
+                        "a man with PMHx of HTN and chronic hepatitis C who presents with substernal chest pain.$Input2": {}
+                    },
+                    "experience chest pain is a symptom of ACS.$Cause_1": {
+                        "The patient reports that he was sitting in a recliner this AM drinking coffee, when he began to experience chest pain. The pain dissipated sponatneously after a few minutes, and then returned for approximately 30 minutes.$Input2": {}
+                    },
+                    "HTN is a risk factor$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "Chronic hepatitis C\n is a risk factor$Cause_1": {
+                        "Chronic hepatitis C$Input3": {}
+                    },
+                    "father deceased before, h/o alcoholism and pancreatitis is a risk fact$Cause_1": {
+                        "father deceased before, h/o alcoholism and pancreatitis$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest Pain\n",
+    "input2": "a man with PMHx of HTN and chronic hepatitis C who presents with substernal chest pain. The patient reports that he was sitting in a recliner this AM drinking coffee, when he began to experience chest pain. The pain dissipated sponatneously after a few minutes, and then returned for approximately 30 minutes. The pain resolved immediately with nitro and aspirin administered by the EMTs. Reports tingling down both extremities and associated diaphoresis and shortness of breath. Denies nausea, vomiting, palpitations, and loss of conscioussness. The patient reports no cardiac history, and has never experienced chest pain like this before.\n",
+    "input3": "+ HTN\n+ Chronic hepatitis C\n+ h/o H. pylori\n+ h/o bacterial PNA\n+ h/o acute pancreatitis\n+ s/p lap cholecystectomy\n",
+    "input4": "father deceased before, h/o alcoholism and pancreatitis\n",
+    "input5": "VS -  98.9  134/82  59  97% RA\nGen: WDWN middle aged male in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: PERRL, EOMI.   \nNeck: Supple.\nCV: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4. \n \nChest: Resp were unlabored, no accessory muscle use. CTAB anteriorly.\nAbd: Soft, NTND. No HSM or tenderness. \nExt: No c/c/e. No femoral bruits. No hematoma.\n",
+    "input6": "Labs:\n06:20AM BLOOD WBC-5.6 RBC-4.43* Hgb-13.9* Hct-40.7 MCV-92 MCH-31.3 MCHC-34.0 RDW-13.1\n06:20AM BLOOD Neuts-53.1 Monos-4.1 Eos-1.4 Baso-1.1\n06:20AM BLOOD Glucose-120* UreaN-21* Creat-1.0 Na-140 \nK-3.9 Cl-107 HCO3-27 AnGap-10\n06:20AM BLOOD cTropnT-0.60*\n06:20AM BLOOD CK-MB-3 cTropnT-0.09*\n06:20AM BLOOD Triglyc-128 HDL-38 CHOL/HD-3.8 LDLcalc-81\n\ufeff\nCath Report:\n1.  Selective coronary angiography in this right dominant system demonstrated acute thrombotic 1 vessel coronary artery disease.  The LMCA, LAD, and LCx had no angiographically apparent flow-limiting disease.  The RCA had a 90% proximal stenosis with extensive thrombus,as well as a 70% mid to distal segment stenosis.\n2.  Limited resting hemodynamics revealed mild systemic systolic arterial hypertension with an SBP of 145 mmHg.\n3.  Successful angiojet/PTCA/stenting of the mid and distal RCA: the mid-distal RCA was stented with a VISIOn 3.5x12mm bare-metal stent (BMS) and post-dilated with an NC Quantum Apex MR 3.75x20mm balloon and the mid RCA was stented with a VISION 3.5x28mm BMS and then postdilated with an NC Quantum Apex OTW 4.0x20mm balloon. Final angiography revealed 0%residual stenosis, no angiographically apparent dissection and normal flow.\n4. femoral artery angioseal closure device deployed without complications.\n\nECG:non-ST-elevation\n"
+}

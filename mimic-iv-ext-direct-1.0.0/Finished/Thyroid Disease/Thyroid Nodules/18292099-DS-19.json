@@ -1,0 +1,21 @@
+{
+    "Thyroid Nodules$Intermedia_3": {
+        "FNA examination is the standard for diagnosing thyroid nodules$Cause_1": {
+            "RLL thyroid nodule with FNA suspicious for malignancy$Input2": {}
+        },
+        "Suspected Thyroid disease$Intermedia_2": {
+            "Physical pressure on the esophagus or trachea caused by thyroid disease$Cause_1": {
+                "Difficulty swallowing, feeling like something is stuck in your throat$Input2": {}
+            },
+            "Thyroid-related diseases can cause compression of the recurrent laryngeal nerve$Cause_1": {
+                "Patient's voice is hoarse.$Input2": {}
+            }
+        }
+    },
+    "input1": "enlarging thyroid adenomas\n",
+    "input2": "Patient's voice is hoarse. Difficulty swallowing, feeling like something is stuck in your throat. RLL thyroid nodule with FNA suspicious for malignancy.\n",
+    "input3": "+Allergic rhinitis\n+mild asthma\n+GER\n",
+    "input4": "Grandfather with renal failure, mother deceased from multiple myeloma. no family history suggestive of thyroid cancer or endocrine neoplasia. \n",
+    "input5": "98.6/98.4 86 117/78 20 98% RA\nGen: NAD, comfortable\nCV: RRR\nR: clear, unlabored\nNeck: incision c/d/i with steri-strips in place, no erythema, discharge, hematoma, or bruising, voice normal\nAbd: soft, NT/ND\nExt: no c/c/e\n",
+    "input6": "___ 06:08AM BLOOD Calcium-8.2*\n___ 06:08AM BLOOD\n"
+}

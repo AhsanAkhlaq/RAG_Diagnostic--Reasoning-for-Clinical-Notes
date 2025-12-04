@@ -1,0 +1,39 @@
+{
+    "Paroxysmal Atrial Fibrillation$Intermedia_3": {
+        "direct indication of paroxysmal atrial fibrillation. No evidence for$Cause_1": {
+            "Atrial fibrillation with a mean ventricular rate of 104.  Disappered within 24 hours.$Input6": {}
+        },
+        "Suspected Atrial Fibrillation$Intermedia_2": {
+            "Patients with atrial fibrillation may have a weakened heart pumping ability, resulting in reduced blood circulation efficiency, resulting in shortness of breath$Cause_1": {
+                "shortness of breath$Input1": {}
+            },
+            "These symptoms may be a sign of reduced cardiac output due to atrial fibrillation.$Cause_1": {
+                "He had profound fatigue and dyspnea even on walking up a few stairs.$Input2": {}
+            },
+            "This is a classic symptom of atrial fibrillation, and palpitations may indicate a possible irregular heartbeat.$Cause_1": {
+                "abrupt onset of dyspnea on exertion$Input2": {}
+            },
+            "May indicate that the heart is under stress when it needs extra oxygen$Cause_1": {
+                "He denies dyspnea at rest, but does note some on chewing$Input2": {}
+            },
+            "Chronic heart failure linked to atrial fibrillation$Cause_1": {
+                "sCHF, LVEF$Input3": {}
+            },
+            "Diabetes linked to atrial fibrillation$Cause_1": {
+                "T2DM$Input3": {}
+            },
+            "Irregular heartbeat. This is an important symptom of paroxysmal atrial fibrillation$Cause_1": {
+                "CARDIAC: irreg$Input5": {}
+            },
+            "Slightly increased jugular venous pressure may be seen in patients with atrial fibrillation$Cause_1": {
+                "JVP of 9-10 cm.$Input5": {}
+            }
+        }
+    },
+    "input1": "shortness of breath\n",
+    "input2": "He had profound fatigue and dyspnea even on walking up a few stairs.  At that time he was cardioverted 3 times in a 2 week period.  He has been maintained on a variety of medical regimens, most recently amiodarone.  He has been very healthy and active, able to walk a mile a day.  \n\nThree days ago he noticed the abrupt onset of dyspnea on exertion when he went out for his usual daily walk, such that he had to turn around and return home after a short distance.  This dyspnea was also associated with palpitations, but not chest pain or diaphoresis.  He denies dyspnea at rest, but does note some on chewing.  He also notes that the shortness of breath is much less severe on this occasion than on prior episodes.  He has noticed increased swelling.  He has had increased frequency of urination, but denies dysuria or change in the quality of his urination.  He continues to sleep with one pillow and denies PND.  He states that he weighs himself each morning as part of his usual routine, and that his weight has not varied outside a range of 150-152 for months.  He weighted 175 prior to moving a year ago, at which time he was able to lose 25 pounds that he has since maintained.  He weighs himself without clothes.  \n\nThe patient thinks that the recent dyspnea may be linked to a dietary indiscretion when he ate food two nights in a row.  He typically is very careful about his salt intake, but this was a rare exception.  He believes that his difficulty with dyspnea started two days after this intake.\n\n",
+    "input3": "+s/p inguinal hernia repair\n+sCHF, LVEF\n+s/p hip replacement\n+Sensorinueral hearing loss\n+Psoriasis\n+Osteoarthritis\n+h/o amaurosis fugax\n+BPH\n+Asthma\n+h/o actinic keratosis\n+T2DM\n+s/p colonoscopy showing polyp\n+h/o SCC of skin\n",
+    "input4": "non-contributory\n",
+    "input5": "VS: 97.5  106/71  108  16  98% RA \nGENERAL: NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI.  \nNECK: Supple with JVP of 9-10 cm.  \nCARDIAC: irreg, normal S1 S2, no MRG  \nLUNGS: Resp were unlabored, no accessory muscle use. CTAB, no rales, wheezes or rhonchi.  \nABDOMEN: Soft, non-tender, non-distended.  No HSM.  \nEXTREMITIES: No cyanosis, clubbing, or edema.  Onychomycosis, dry skin of b/l feet. 2+ peripheral pulses\nNEURO:  CN II-XII tested and intact, strength ___ throughout, sensation grossly normal.  Gait not tested.\nSKIN: dry skin, no significant lesions or scars\n",
+    "input6": "___ 11:00AM BLOOD WBC-4.2 RBC-3.69* Hgb-10.9* Hct-35.7* MCV-97 MCH-29.5 MCHC-30.6* RDW-13.9 Plt ___\n___ 11:00AM BLOOD Neuts-67.0 ___ Monos-6.2 Eos-1.7 Baso-0.9\n___ 11:00AM BLOOD ___ PTT-41.2* ___\n___ 11:00AM BLOOD Glucose-113* UreaN-39* Creat-1.5* Na-142 K-4.3 Cl-105 HCO3-25 AnGap-16\n___ 11:00AM BLOOD Calcium-9.2 Phos-4.0 Mg-2.1\n\nEKG ___: Atrial fibrillation with a mean ventricular rate of 104. Disappered within 24 hours. Right bundle-branch block. Left axis deviation. Left anterior fascicular block. Non-diagnostic repolarization abnormalities. Possible anteroseptal myocardial infarction of indeterminate age. No previous tracing available for comparison.\n\n"
+}

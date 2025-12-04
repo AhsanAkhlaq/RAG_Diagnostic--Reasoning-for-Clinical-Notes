@@ -1,0 +1,49 @@
+{
+    "HFpEF$Intermedia_5": {
+        "LVEF\u226550% is the critiera for HFpEF$Cause_1": {
+            "LVEF>55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is moderately dilated$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "NT-proBNP \u2265125pg/ml is a diagnostic criteria of heart failure$Cause_1": {
+                    "proBNP-2210$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Back pain is an atypical symptom of heart failure.$Cause_1": {
+                        "Back pain$Input1": {}
+                    },
+                    "Diabetes is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "DM2$Input3": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "Hyperlipidemia is a risk factor for heart failure.$Cause_1": {
+                        "HLD$Input3": {}
+                    },
+                    "Morbid obesity is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "Morbid obesity$Input3": {}
+                    },
+                    "A family history of cardiovascular disease$Cause_1": {
+                        "Father died from MI s/p CABG, CHF. Mother alive with HTN, GERD, overweight$Input4": {}
+                    },
+                    "dyspnea is the symptom of HF$Cause_1": {
+                        "dyspnea$Input2": {}
+                    },
+                    "SOB is the symptom of HF$Cause_1": {
+                        "shortness of breath$Input2": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Back pain\n",
+    "input2": " \nHe had a CT abdomen/pelvis with contrast to evaluate for deep infection as a complication of panniculitis. He with creatinine rise from 0.9 to a peak of 2.2. This resolved back to baseline. He was seen in the ED for dyspnea, Cr was up to 1.5 at this time. At follow up with PCP he was to continue 100mg torsemide BID.  \n\ufeff\nHe presented to the ED again for this admission because his \"creatinine is up\" (up to 1.5 2 weeks ago, steadily downtrending, 1.3 on presentation) and that he is concerned for his kidneys because his back hurts. Patient also says he is here \"because I just need to be admitted,\" and wants admission to go to rehabilitation. Patinet reports he has chronic low back pain that has limited his mobility, and gradual worsening pain in his legs. He endorses baseline shortness of breath with exertion. Denies chest-pain, abdominal pain, and worsening SOB on admission.\n",
+    "input3": "+ DM2  \n+ HTN  \n+ HLD  \n+ EtOH abuse  \n+ Anxiety  \n+ Back pain  \n+ Gastroparesis  \n+ Morbid obesity  \n+ PUD  \n+ Rectal fissure  \n+ Restrictive lung disease  \n+ Shoulder pain  \n+ Nacotics contract  \n+ Vitamin D deficiency  \n+ H/O CARPAL TUNNEL SYNDROME  \n+ H/O PYELONEPHRITIS  \n+ SHOULDER SURGERY (Left; arthroscopic biceps tenotomy, subacromial decompression, and open biceps tenodesis)\n",
+    "input4": "Father died from MI s/p CABG, CHF. Mother alive with HTN, GERD, overweight\n",
+    "input5": "Physical Exam:\nADMISSION PHYSICAL EXAM:  \nVitals - 97.5, 154/62, 76, 20, 95%RA  \nGENERAL: morbidly obese male, NAD  \nHEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, patent nares, MMM  \nCARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs. Unable to assess JVD  \nLUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles  \nABDOMEN: Obese, difficult to examine pannus  \nEXTREMITIES: moving all extremities well, chronic venous stasis changes of lower extremities  \nNEURO: CN II-XII intact  \nSKIN: warm and well perfused, no excoriations or lesions, no rashes\n\ufeff\n",
+    "input6": "___ 05:00PM   WBC-9.3 RBC-4.37* HGB-13.5* HCT-41.6 MCV-95 MCH-30.9 MCHC-32.5 RDW-13.7\n___ 05:00PM   NEUTS-73.4* MONOS-4.5 EOS-1.0 BASOS-0.3\n___ 05:00PM   PLT COUNT-228\n___ 05:00PM   %HbA1c-11.0* eAG-269*\n___ 05:00PM   proBNP-2210*\n___ 05:00PM   ALT(SGPT)-15\n___ 05:00PM   UREA N-25* CREAT-1.4* SODIUM-135 POTASSIUM-3.9 CHLORIDE-91* TOTAL CO2-28 ANION GAP-20\n\ufeff\n___ 06:50PM   WBC-8.5 RBC-4.25* HGB-13.0* HCT-40.5 MCV-95 MCH-30.6 MCHC-32.0 RDW-14.0\n___ 06:50PM   ALBUMIN-4.0 CALCIUM-9.0 PHOSPHATE-4.2 MAGNESIUM-1.8\n___ 06:50PM   ALT(SGPT)-16 AST(SGOT)-21 ALK PHOS-94 TOT BILI-0.2\n___ 06:50PM   GLUCOSE-351* UREA N-28* CREAT-1.3* SODIUM-141 POTASSIUM-4.4 CHLORIDE-98 TOTAL CO2-35* ANION GAP-12\n___ 09:45PM URINE  BLOOD-TR NITRITE-NEG PROTEIN-600 GLUCOSE-150 KETONE-NEG BILIRUBIN-SM  UROBILNGN-2* PH-6.0 LEUK-NEG\n___ 09:45PM URINE  HOURS-RANDOM UREA N-460 CREAT-340 SODIUM-LESS THAN  POTASSIUM-64 CHLORIDE-LESS THAN  TOT PROT-271 PROT/CREA-0.8* albumin-183.0 alb/CREA-538.2*\n___ 09:45PM URINE  OSMOLAL: Patient describes intermittently taking his torsemide as frequent urination is bothersome. Creatinine elevation likely \nContrast nephropathy given time course after CT. Creatinine has since normalized and rose recently to 1.5, now downtrending again. Recent bump may be over diuresis with decreased PO intake given that patient intermittently takes 100mg BID of torsemide. Urine electrolytes demonstrated fractional excretion of urea at 6.3%, consistent with a pre-renal etiology. Patient received 500mL of IVF and was restarted on home torsemide. He was encouraged to drink fluids consistently and take his torsemide consistently, with a fluid limit of 2L. He was discharged for outpatient follow-up and further management. His Cr trended down to 1.3 from 1.4 at the time of discharge. \n \n#: CXR showed right sided fat, pad and mild vascular congestion. He had a stable clinical exam and he was continued on his home dose of torsemide. \n\ufeff\n# Hypertension: Continued home meds given resolving. \n \n# DM2: Uncontrolled, HbA1C 11. In hospital, continued home insulin regimen with sliding scale. Continuued home metformin given resolving ___.    \n\ufeff\n# Hypercholesterolemia: Continued simvastatin 40 mg QD.  \n\ufeff\n___ CXR:The left atrium is moderately dilated. Left ventricular wall thickness, cavity size, and global systolic function are normal (LVEF>55%).\n"
+}

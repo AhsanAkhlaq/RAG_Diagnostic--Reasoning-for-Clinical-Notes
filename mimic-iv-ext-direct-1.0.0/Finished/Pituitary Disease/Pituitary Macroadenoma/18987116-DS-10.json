@@ -1,0 +1,21 @@
+{
+    "Pituitary Macroadenomas$Intermedia_3": {
+        "MRI results showed a large mass in the pituitary gland that expanded upward and laterally. This indicated the size and direction of the mass, confirming the diagnosis of Pituitary Macroadenomas.$Cause_1": {
+            "MRI of the sella at OSH showed a 1.8 x 2.7 x 1.8 cm mass in the pituitary gland, extending superiorly and also laterally.$Input2": {}
+        },
+        "Suspected pituitary disease$Intermedia_2": {
+            "Restricted visual fields are often associated with pituitary tumors, probably because of compression of the optic nerve by the tumor.$Cause_1": {
+                "Visual fields attempted - patient unable to follow$Input5": {}
+            },
+            "The pupil reacts normally to light, but changes in pupil size (eg, 3\u20132 mm) may indicate central nervous system stress or injury, possibly associated with a pituitary tumor.$Cause_1": {
+                "PERRL 3-2mm bilaterally$Input5": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "HPI: He is a male who was found to have a sellar mass when a CT scan was done after he fell on ice and snow. A subsequent  MRI of the sella at OSH showed a 1.8 x 2.7 x 1.8 cm mass in the pituitary gland, extending superiorly and also laterally.\n",
+    "input3": "prostate cancer, treated with radiation.  type 2 diabetes, hyperlipidemia, thrombocytopenia and leukopenia reflux disease. \n\ufeff\n",
+    "input4": "Non-contributory\n",
+    "input5": "Physical Exam:\nPHYSICAL EXAMINATION ON ADMISSION:\nVital Signs sheet entries for: \nBP: 124/70. Heart Rate: 62. O2 Saturation%: 70.13. Weight: 201.4 (With Clothes). Height: 70.13. BMI: 28.8.\n\ufeff\nMental status: Awake and alert, cooperative with exam, normal affect. Patient is oriented to person, place, and date.\nMotor: all four extremities are full strength. Sensation is intact to light touch. The incision is well healed.\n\ufeff\nPHYSICAL EXAMINATION ON DISCHARGE:\n\ufeff\nOpens eyes: [x]spontaneous [ ]to voice [ ]to noxious\nOrientation: [x]Person [x]Place [x]Time\nFollows commands: [ ]Simple [x]Complex [ ]None\nPupils:  PERRL 3-2mm bilaterally \nVisual fields attempted - patient unable to follow\nEOM: [x]Full [ ]Restricted\nFace Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No\nPronator Drift [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No\nComprehension intact [x]Yes [ ]No\n\ufeff\nMotor:\nTrapDeltoidBicepTricepGrip\n\ufeff\nIPQuadHamATEHLGast\nRight___\nLeft5       5       5       5       5       5 \n\ufeff\n[x]Sensation intact to light touch\n\ufeff\nWound: \n[x]nasal packing removed\n\ufeff\n",
+    "input6": "Please see OMR for pertinent lab and imaging results.\n"
+}

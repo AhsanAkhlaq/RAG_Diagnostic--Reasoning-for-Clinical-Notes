@@ -1,0 +1,24 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "her BP to be systolic >200$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "initial vitals were BP 190/118$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.**$Cause_1": {
+            "VS: BP 158/71$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Dyspnea is a symptoms of Hypertension.$Cause_1": {
+                "Dyspnea$Input1": {}
+            }
+        }
+    },
+    "input1": "Dyspnea\n",
+    "input2": "The patient is a F with a PMH of CAD s/p 2v CABG (LIMA-LAD, SVG-OM) and PCI LCx, CVA admitted with acute onset dyspnea. The patient reported worsening shortness of breath over the last week and acutely worsening with walking on day of admission. Pt checked her BP to be systolic >200 and called EMS.\n\nIn ED, initial vitals were Time T 98.4 HR 75 BP 190/118 RR 28 O2 100 on 15L NRB. ECG was unchanged from prior, cardiac enzymes were negative X2. Patient given 325mg ASA. CXR negative for acute process. She underwent CTA which was negative for PE.  \n\nOn admission to the medical floor, the patient reports that she found herself to be hypertensive earlier this afternoon with systolic BP 200s followed by an episode of acute dyspnea. She denied CP, edema, denies cough, fever/chills. Denies wheezing.  \n\nOn review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. She denies recent fevers, chills or rigors. She denies exertional buttock or calf pain. All of the other review of systems were negative.  \n\nCardiac review of systems is notable for absence of chest pain, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.\n",
+    "input3": "+CAD: CAD s/p CABG\n+Peripheral vascular disease: s/p right popliteal angioplasty\n+Hypercholesterolemia\n+Hypothyroidism  \n+Collagenous colitis  \n+Macular degneration  \n+s/p bilateral cataract surgery  \n+Glaucoma\n",
+    "input4": "Non-contributory\n",
+    "input5": "VS: T 98.4, HR 67, BP 158/71, RR 22, O2 100% 2L  \nGENERAL: elderly WDWN in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \n\nNECK: Supple with flat JVP  \nCARDIAC: PMI located in ___ intercostal space, midclavicular line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.  \nEXTREMITIES: No c/c/e. No femoral bruits.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nRight: Carotid 2+ Femoral 2+ DP 2+ \nLeft: Carotid 2+ Femoral 2+ DP 2+\n",
+    "input6": "___ 06:35AM BLOOD WBC-5.7 RBC-3.58* Hgb-11.4* Hct-34.4* MCV-96 MCH-31.8 MCHC-33.1 RDW-13.6 Plt ___\n___ 07:00PM BLOOD Neuts-73.3* ___ Monos-5.1 Eos-0.9 Baso-0.3\n___ 06:35AM BLOOD ___ PTT-29.5 ___\n___ 06:35AM BLOOD Glucose-89 UreaN-19 Creat-0.9 Na-139 K-4.8 Cl-105 HCO3-23 AnGap-16\n___ 06:35AM BLOOD CK(CPK)-110\n___ 07:00PM BLOOD CK-MB-6 cTropnT-<0.01\n___ 01:00AM BLOOD cTropnT-0.06*\n___ 06:35AM BLOOD CK-MB-6 cTropnT-0.04*\n___ 07:00PM BLOOD proBNP-864*\n___ 06:35AM BLOOD Calcium-9.0 Phos-4.5 Mg-2.3\n\nCXR: Cardiomegaly with no acute pulmonary process.\n\nCTA: PRELIMINARY READ: no PE or acute aortic pathology\n"
+}

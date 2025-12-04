@@ -1,0 +1,24 @@
+{
+    "Hypertension$Intermedia_3": {
+        "an elevation of BP (SBP\u2265140mmHg or DBP\u226590mmHg) confirmed is a diagnostic criteria of hypertension\n.$Cause_1": {
+            "Physical Exam:\nVitals: 181/93$Input5": {}
+        },
+        "an elevation of BP (SBP\u2265140mmHg or DBP\u226590mmHg) confirmed is a diagnostic criteria of hypertension$Cause_1": {
+            "the patient reports elevated blood pressures at home persistently above 160/90$Input2": {}
+        },
+        "an elevation of BP (SBP\u2265140mmHg or DBP\u226590mmHg) confirmed is a diagnostic criteria of hypertension\n..$Cause_1": {
+            "Chief Complaint:\nelevated blood pressures$Input1": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "These symptoms may be associated with high blood pressure, especially headaches$Cause_1": {
+                "a headache, right upper quadrant pain and back pain$Input2": {}
+            }
+        }
+    },
+    "input1": "Chief Complaint:\nelevated blood pressures\n",
+    "input2": "\nHPI: This is a patient with unstablechronic hypertension with superimposed pre-eclampsia. The patientwas placed on magnesium for 24 hrs post-partum. During her immediate post-partum period, the patient had normal blood pressures while in the hospital.\nShe was able to void spontaneously, tolerate a regular diet without nausea or vomiting, with minimal lochia, and with regular\nbreastfeeding. However, on ___, the patient reports elevated blood pressures at home persistently above 160/90, with a headache, right upper quadrant pain and back pain.\nShe denies dysuria or changes in urinary frequency, fevers or chills or SOB/CP.\n\nROS: neg per review of systems\n",
+    "input3": "Past Medical History:\nPOB: ___\n- SAB ___ @ 11 weeks\n- LTCS  ___, term, 7lb14oz; arrest of dilation\n- repeat LTCS term, ___, gestational carrier\n- repeat LTCS 33w0d (pre-term labor) twins, ___, gestational carrier\n- current pregnancy via IVF after failed IUI\nPGYN: endometrial polyps s/p HSC/PPY x 2\nPMH: chronic hypertension as above\nPSH: LTCS x 3, HSC/PPY x 2\n",
+    "input4": "None\n",
+    "input5": "Physical Exam:\nVitals:\n98.1  66  18  181/93\nnifedipine 10mg ___ given\n166/90\n136/66\n\nGen: A&O, NAD\nCV: RRR\nResp: CTAB\nAbd: +BS, soft, NT/ND, no rebound or guarding\nExt: calves nontender bilaterally, no c/c/e\nIncision: skin edges not well approximated, with multiple 1cm-2cm edges that are slightly open though cannot be opened with a\nQ-tip, monocyrl suture can be visualized that is still in place, mild skin edge erythema, though no induration, no purulent discharge, not tender to palpation and no signs of infections. \n\nUpon discharge:\nVSS, AF\nGen: NAD, A&O x3\nResp: CTAB\nAbd: +BS, soft, NT/ND, no r/g/d\nIncision: areas of poor skin edge approximation, though grossly intact, small areas with scant purulent drainage though no sign of cellulitis\nExt: no clubbing, no cyanosis, mild edema in legs bilaterally\n",
+    "input6": "Pertinent Results:\n___ 07:22PM   GLUCOSE-108* UREA N-14 CREAT-0.8 SODIUM-141 \nPOTASSIUM-4.0 CHLORIDE-105 TOTAL CO2-25 ANION GAP-15\n___ 07:22PM   estGFR-Using this\n___ 07:22PM   ALT(SGPT)-22\n___ 07:22PM   CALCIUM-8.7 PHOSPHATE-4.6* MAGNESIUM-1.9 URIC \nACID-6.9*\n___ 07:22PM   TSH-2.5\n___ 07:22PM   WBC-7.4 RBC-3.97* HGB-10.4* HCT-33.4* MCV-84 \nMCH-26.1* MCHC-31.0 RDW-14.7\n___ 07:22PM   PLT COUNT-325#\n"
+}

@@ -1,0 +1,39 @@
+{
+    "Hypertension$Intermedia_3": {
+        "an elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "Vitals:BP 200/106$Input5": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "intial vitals were: 10 98.2 88 198/92$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.**$Cause_1": {
+            "Vitals on transfer: 5 98.7 84 176/89$Input2": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Headache is a classic symptom of Hypertension.$Cause_1": {
+                "Headache$Input1": {}
+            },
+            "Diabetes is a big risk factor of HP,which is generally accompanied by Hypertension.$Cause_1": {
+                "history of diabetes$Input2": {}
+            },
+            "Visual disturbance is a symptom of HP,which is generally accompanied by Hypertension.$Cause_1": {
+                "right-sided eye pain with some flashes of light of the right eye$Input2": {}
+            },
+            "Nausea is a symptoms of Hypertension.$Cause_1": {
+                "continuing to feel nauseated$Input2": {}
+            },
+            "Family history is a big risk factor of Hypertension.$Cause_1": {
+                "Mom: HTN$Input4": {}
+            },
+            "Family history is a big risk favtor of Hypertension.$Cause_1": {
+                "Dad: HTN$Input4": {}
+            }
+        }
+    },
+    "input1": "Headache\n",
+    "input2": "She has history of diabetes c/b diabetic retinopathy, CKD, recent cataract surgery with recurrent right-sided headache. Patient states she initially had a right-sided headache involving her right eye and right side of the head. At that time she was seen here had a negative CT and LP, and her pain improved with morphine. The middle of this month she had a cataract surgery which had no complications per the patient. Yesterday she began noticing some right-sided eye pain with some flashes of light of the right eye. The pain spread to the side of her head and the back of her head similar to her headache. She was seen by her ophthalmologist on the day of admission who said that her eye was healing well and had no concerns. She was then referred to the emergency department for further workup of her headache. She denies any fevers or chills. She denies any chest pain or shortness of breath or cough. She has had left upper quadrant abdominal pain for the last month which appears at baseline. She has had no diarrhea. She has had 4 or 5 episodes of nonbloody nonbilious emesis with her headache earlier today. She has had no urinary symptoms.  \n \nIn the ED intial vitals were: 10 98.2 88 198/92 16 100%. CT head showed the right globe appears hyperdense, likely related to recent prior ocular surgery. Otherwise, showed no acute intracranial process. Patient was given mophine and reglan IV and headache improved. Patient initially felt better and planned to send home however she then became nauseated and vomited. Given that she is not tolerating POs, she was admitted to medicine. Vitals on transfer: 5 98.7 84 176/89 100% RA.  \n\nUpon arrival to the floor, she continues to have very severe headache centered around her right eye that she feels is worse with coughing. Also continuing to feel nauseated.\n",
+    "input3": "+IDDM2 - complicated by retinopathy with complete loss of vision in L eye and s/p cataract and retinal repair surgery in right eye\n+CKD likely diabetic retinopathy  \n+HLD\n",
+    "input4": "Mom: DM2, HTN, HLD  \nMGM: DM2  \nDad: HTN, prostate CA\n",
+    "input5": "Vitals:T 98.7, BP 200/106, HR 95, RR 18, O2 sat 100%RA  \nGeneral: obese woman lying in bed with eyes closed, appears uncomfortable  \nHEENT: Mild periorbital edema bilaterally. Right eye is preferentially closed with some exudate she states is from ointment and eye drops, EOMI, MMM, oropharynx clear  \nNeck: supple, unable to assess JVD  \nLungs: Clear to auscultation bilaterally, no wheezes, rales,ronchi  \nCV: Regular rate and rhythm, normal S1 + S2, soft systolic murmur heard best over RUSB radiating to carotids, no rubs or gallops  \nAbdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  \nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  \nNeuro: CNs2-12 intact, strength in UE, sensation intact\n",
+    "input6": "Labs:\n___ 06:20PM BLOOD WBC-8.2 RBC-3.49* Hgb-9.0* Hct-27.3* MCV-78* MCH-25.9* MCHC-33.1 RDW-15.4 Plt ___\n___ 08:10AM BLOOD WBC-5.6 RBC-3.01* Hgb-7.6* Hct-23.8* MCV-79* MCH-25.3* MCHC-31.9 RDW-15.1 Plt ___\n___ 06:20PM BLOOD Neuts-85.3* Lymphs-10.1* Monos-3.7 Eos-0.6 Baso-0.2\n___ 08:10AM BLOOD ___ PTT-23.5* ___\n___ 06:20PM BLOOD Glucose-149* UreaN-25* Creat-2.7* Na-141 K-3.8 Cl-109* HCO3-25 AnGap-11\n___ 08:10AM BLOOD Glucose-125* UreaN-24* Creat-2.9* Na-138 K-3.8 Cl-108 HCO3-23 AnGap-11\n___ 06:20PM BLOOD ALT-11 AST-19 AlkPhos-73 TotBili-0.5\n___ 06:20PM BLOOD Lipase-136*\n___ 06:20PM BLOOD Albumin-2.8*\n___ 06:05AM BLOOD Calcium-7.4* Phos-3.5# Mg-2.4\n___ 08:10AM BLOOD Calcium-7.0* Phos-2.9 Mg-2.3\n___ 07:24PM BLOOD Lactate-1.4\n\nImaging:\nCT HEAD W/O CONTRAST Study \nIMPRESSION:  \n1. No acute intracranial process.   \n2. Partially visualized vitreous hyperdensity in right globe may be related to recent ocular surgery though clinical correlation is advised.\n"
+}

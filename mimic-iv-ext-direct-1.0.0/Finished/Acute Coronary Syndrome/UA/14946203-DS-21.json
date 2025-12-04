@@ -1,0 +1,141 @@
+{
+    "UA$Intermedia_5": {
+        "Was treating at home with sodium bicarb with no effect. He states that he has had occ SOB and chest pain with walking dog and endorses decreased exercise tolerance since last time. can be signs of acs-ua$Cause_1": {
+            "Was treating at home with sodium bicarb with no effect. He states that he has had occ SOB and chest pain with walking dog and endorses decreased exercise tolerance since last time.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "CAD s/p CABGx 2, cath, hx of cardiomyopathy, s/p tissue mitral valve replacement, afib on coumadin, pacer are risk facts of acs$Cause_1": {
+                "He is a pleasant man with CAD s/p CABGx 2, cath, hx of cardiomyopathy, s/p tissue mitral valve replacement, afib on coumadin, pacer, who was admitted to hospital with complaints of discomfort/heartburn x 3 days.$Input2": {}
+            },
+            "afib, s/p cardioversion two months ago, on coumadin is risk fact$Cause_1": {
+                "afib, s/p cardioversion two months ago, on coumadin$Input3": {}
+            },
+            "Hx MI, s/p cabg and revision is risk fact$Cause_1": {
+                "Hx MI, s/p cabg and revision$Input3": {}
+            },
+            "family historyFather with diabetes, MI. can be a risk fact of acs$Cause_1": {
+                "Father with diabetes, MI.$Input4": {}
+            },
+            "family history:3 sisters with DM, stroke,can be a risk fact of acs$Cause_1": {
+                "3 sisters with DM, stroke,$Input4": {}
+            },
+            "family history:brother with bladder cancer, \ncan be a risk fact of acs$Cause_1": {
+                "brother with bladder cancer,$Input4": {}
+            },
+            "family history:other brother with heart pbs. can be a risk fact of acs$Cause_1": {
+                "other brother with heart pbs.$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "slight cardiac structural abnormalities: Cardiac cath showed occluded vein graft, two DES placed. Procedure was complicated by a small hematoma.\n\n is a sign of acs$Cause_1": {
+                "Cardiac cath showed occluded vein graft, two DES placed. Procedure was complicated by a small hematoma.$Input2": {}
+            },
+            "slight cardiac structural abnormalities: Mitral valve replacement with mosaic tissue valve is a sign of acs$Cause_1": {
+                "Mitral valve replacement with mosaic tissue valve$Input3": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "CAD s/p CABGx 2, cath, hx of cardiomyopathy, s/p tissue mitral valve replacement, afib on coumadin, pacer are risk facts of acs$Cause_1": {
+                    "He is a pleasant man with CAD s/p CABGx 2, cath, hx of cardiomyopathy, s/p tissue mitral valve replacement, afib on coumadin, pacer, who was admitted to hospital with complaints of discomfort/heartburn x 3 days.$Input2": {}
+                },
+                "afib, s/p cardioversion two months ago, on coumadin is risk fact$Cause_1": {
+                    "afib, s/p cardioversion two months ago, on coumadin$Input3": {}
+                },
+                "Hx MI, s/p cabg and revision is risk fact$Cause_1": {
+                    "Hx MI, s/p cabg and revision$Input3": {}
+                },
+                "family historyFather with diabetes, MI. can be a risk fact of acs$Cause_1": {
+                    "Father with diabetes, MI.$Input4": {}
+                },
+                "family history:3 sisters with DM, stroke,can be a risk fact of acs$Cause_1": {
+                    "3 sisters with DM, stroke,$Input4": {}
+                },
+                "family history:brother with bladder cancer, \ncan be a risk fact of acs$Cause_1": {
+                    "brother with bladder cancer,$Input4": {}
+                },
+                "family history:other brother with heart pbs. can be a risk fact of acs$Cause_1": {
+                    "other brother with heart pbs.$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS.$Cause_1": {
+                "EKG: Ventricular paced rhythm. Compared to the previous tracing of atrial pacing spikes are probably not present.$Input6": {}
+            },
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "EKG: A-V sequential paced rhythm. Compared to tracing #2 on the atrial pacing spikes are now apparent.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "CAD s/p CABGx 2, cath, hx of cardiomyopathy, s/p tissue mitral valve replacement, afib on coumadin, pacer are risk facts of acs$Cause_1": {
+                    "He is a pleasant man with CAD s/p CABGx 2, cath, hx of cardiomyopathy, s/p tissue mitral valve replacement, afib on coumadin, pacer, who was admitted to hospital with complaints of discomfort/heartburn x 3 days.$Input2": {}
+                },
+                "afib, s/p cardioversion two months ago, on coumadin is risk fact$Cause_1": {
+                    "afib, s/p cardioversion two months ago, on coumadin$Input3": {}
+                },
+                "Hx MI, s/p cabg and revision is risk fact$Cause_1": {
+                    "Hx MI, s/p cabg and revision$Input3": {}
+                },
+                "family historyFather with diabetes, MI. can be a risk fact of acs$Cause_1": {
+                    "Father with diabetes, MI.$Input4": {}
+                },
+                "family history:3 sisters with DM, stroke,can be a risk fact of acs$Cause_1": {
+                    "3 sisters with DM, stroke,$Input4": {}
+                },
+                "family history:brother with bladder cancer, \ncan be a risk fact of acs$Cause_1": {
+                    "brother with bladder cancer,$Input4": {}
+                },
+                "family history:other brother with heart pbs. can be a risk fact of acs$Cause_1": {
+                    "other brother with heart pbs.$Input4": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "slight cardiac structural abnormalities: Cardiac cath showed occluded vein graft, two DES placed. Procedure was complicated by a small hematoma.\n\n is a sign of acs$Cause_1": {
+                    "Cardiac cath showed occluded vein graft, two DES placed. Procedure was complicated by a small hematoma.$Input2": {}
+                },
+                "slight cardiac structural abnormalities: Mitral valve replacement with mosaic tissue valve is a sign of acs$Cause_1": {
+                    "Mitral valve replacement with mosaic tissue valve$Input3": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "CAD s/p CABGx 2, cath, hx of cardiomyopathy, s/p tissue mitral valve replacement, afib on coumadin, pacer are risk facts of acs$Cause_1": {
+                        "He is a pleasant man with CAD s/p CABGx 2, cath, hx of cardiomyopathy, s/p tissue mitral valve replacement, afib on coumadin, pacer, who was admitted to hospital with complaints of discomfort/heartburn x 3 days.$Input2": {}
+                    },
+                    "afib, s/p cardioversion two months ago, on coumadin is risk fact$Cause_1": {
+                        "afib, s/p cardioversion two months ago, on coumadin$Input3": {}
+                    },
+                    "Hx MI, s/p cabg and revision is risk fact$Cause_1": {
+                        "Hx MI, s/p cabg and revision$Input3": {}
+                    },
+                    "family historyFather with diabetes, MI. can be a risk fact of acs$Cause_1": {
+                        "Father with diabetes, MI.$Input4": {}
+                    },
+                    "family history:3 sisters with DM, stroke,can be a risk fact of acs$Cause_1": {
+                        "3 sisters with DM, stroke,$Input4": {}
+                    },
+                    "family history:brother with bladder cancer, \ncan be a risk fact of acs$Cause_1": {
+                        "brother with bladder cancer,$Input4": {}
+                    },
+                    "family history:other brother with heart pbs. can be a risk fact of acs$Cause_1": {
+                        "other brother with heart pbs.$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n\n",
+    "input2": "He is a pleasant man with CAD s/p CABGx 2, cath, hx of cardiomyopathy, s/p tissue mitral valve replacement, afib on coumadin, pacer, who was admitted to hospital with complaints of discomfort/heartburn x 3 days. The pain woke him up from sleep, not accompanied by diaphoresis, SOB, non-radiating, similar to prior MIs. No aggravating or alleviating factors. Was treating at home with sodium bicarb with no effect. He states that he has had occ SOB and chest pain with walking dog and endorses decreased exercise tolerance since last time. When he presented to OSH, troponins were elevated to 1.39, peaked at 1.8. Pain resolved with IV nitro at 10mcg/min. He was transferred to hospital for cath. Cardiac cath showed occluded vein graft, two DES placed. Procedure was complicated by a small hematoma. He was started on integrellin x12 hrs for thrombus burden. On the floor, he denies SOB, CP. He has mild back pain similar to his chronic back pain, no groin pain.\n\ufeff\nOn review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, bleeding at the time of surgery, myalgias, joint pains. He does have a mild chronic cough and rhinorrhea. No hemoptysis, black stools or red stools. He denies recent fevers, chills or rigors. He denies exertional buttock or calf pain. All of the other review of systems were negative.\n\ufeff\nCardiac review of systems is notable for absence paroxysmal nocturnal dyspnea, orthopnea, ankle edema, syncope or presyncope. Does c/o occ palpitations.\n",
+    "input3": "+ BiV ICD\n+ BPH s/p TURP\n+ Chronic lower back pain\n+ s/p epidural injections\n+ T&A\n+ GERD\n+ Rosacea\n+ DJD and facet disease\n+ hx of PE, AAA (not repaired)\n+ some w/u for concerns for PVD/claudication.\n+ Mitral valve replacement with mosaic tissue valve\n+ afib, s/p cardioversion two months ago, on coumadin\n+ Hx MI, s/p cabg and revision\n+ CHF EF\n+ Benign thyroid nodule\n+ Rosacea\n",
+    "input4": "Father with diabetes, MI. 3 sisters with DM, stroke, brother with bladder cancer, other brother with heart pbs.\n",
+    "input5": "VS - 123/60 62 16 97 2L 97.4\nGen: WDWN middle aged male in NAD. Oriented x3. Mood, affect appropriate.\nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.\nNeck: Supple with JVP of 7 cm.\nCV: PMI located in intercostal space, midclavicular line. \nRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.\nChest: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB anteriorly, no crackles, wheezes or rhonchi.\nAbd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.\nExt: No c/c/e. No femoral bruits. R-sided cath site with mild edema, small amt of fresh blood, no TTP, no burits.\nSkin: No stasis dermatitis, ulcers, scars, or xanthomas.\nNeuro: aaox3, CNs intact.\n",
+    "input6": "10:44AM BLOOD WBC-10.8 RBC-4.23* Hgb-14.0 Hct-39.6* \nMCV-94 MCH-33.1* MCHC-35.4* RDW-14.5 Plt Ct-76*\n03:50AM BLOOD Glucose-82 UreaN-18 Creat-1.3* Na-138 \nK-3.9 Cl-99 HCO3-32 AnGap-11\n03:50AM BLOOD calTIBC-261 Ferritn-134 TRF-201\n03:50AM BLOOD Digoxin-1.1\n\ufeff\nEKG: Ventricular paced rhythm. Compared to the previous tracing of atrial pacing spikes are probably not present.\n\ufeff\nEKG: A-V sequential paced rhythm. Compared to tracing #2 on the atrial pacing spikes are now apparent. \n\ufeff\n03:50AM BLOOD WBC-7.3 RBC-4.04* Hgb-13.5* Hct-37.5* MCV-93 MCH-33.5* MCHC-36.0* RDW-14.3 Plt Ct-65*\n12:20AM BLOOD WBC-7.4 RBC-4.03* Hgb-13.4* Hct-37.5* MCV-93# MCH-33.3* MCHC-35.7*# RDW-14.4 Plt Ct-97*#\n10:44AM BLOOD WBC-10.8 RBC-4.23* Hgb-14.0 Hct-39.6* MCV-94 MCH-33.1* MCHC-35.4* RDW-14.5 Plt Ct-76*\n\ufeff\nCardiac Cath (prelim report): \n1. Selective coronary angiography of this right dominant system revealed three vessel coronary artery disease.  The heart had no angiographically apparent flow limiting stenosis.  The LAD had 100% occlusion in the mid portion.  The distal vessel and the diagonal filled via the LIMA. The ramus branch was patent.  The Cx had 100% proximal occlusion.  The distal vessel filled via the SVG-OM1.  The RCA had 100%mid vessel occlusion. \n2. Arterial conduit arteriography revealed a patent LIMA to the LAD. \n3. Selective vein graft angiography revealed a patent SVG-OM1.  The SVG to the RCA and PDA was patent to the RCA and then severe 90% stenosis to the PDA. \n4. Resting hemodynamics revealed very mildly elevated central \nsystemic pressures (134/73 with a mean of 88 mm Hg).\n5. Successful stenting of the Distal SVG-PDA with 2.5 mm X 12 mm and 3.0 mm X 28 mm Vision BMS at the anastamotic site and 3.5 X 28 mm Vision stent in distal SVG, with post dialtion to 3.5 mm. TIMI 3 flow and no dissection.\n"
+}

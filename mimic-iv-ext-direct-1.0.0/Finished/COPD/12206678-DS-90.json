@@ -1,0 +1,35 @@
+{
+    "Mild COPD$Intermedia_4": {
+        "FEV1 \u2265 80% confirm Mild COPD$Cause_1": {
+            "FEV1 82%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC < 0.70.$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "Smoking is a risk factor for COPD$Cause_1": {
+                    "current smoker$Input2": {}
+                },
+                "Shortness of breath is one of the symptoms of COPD$Cause_1": {
+                    "short of breath$Input2": {}
+                },
+                "Long-term smoking history is one of the symptoms of COPD$Cause_1": {
+                    "40+-pack-year smoking history$Input2": {}
+                },
+                "Long-term smoking history is one of the risk fact of COPD$Cause_1": {
+                    "tobacco use$Input3": {}
+                },
+                "Cmild wheezes, one of the symptoms of COPD$Cause_1": {
+                    "Cmild wheezes,$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "male current smoker presenting after feeling short of breath while visiting his wife earlier today. Patient states that he has a 40+-pack-year smoking history. He does not recall any inciting event. He went outside and smoked a cigarette and then felt worse. He presented to the emergency department from there.No cough productive of mucus, no fevers or chills. No chest pain. No prior cardiac history. \n",
+    "input3": "HTN\ntobacco use\n",
+    "input4": "Non contributory \n",
+    "input5": "General: Alert, oriented, no acute distress  \nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  \nLungs: Cmild wheezes, \nSkin: Warm, dry, no rashes or notable lesions.  \nNeuro: CNII-XII intact, ___ strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally.  \n",
+    "input6": "___ 02:45AM BLOOD WBC-11.9* RBC-4.99 Hgb-16.6 Hct-48.0 \nMCV-96 MCH-33.3* MCHC-34.6 RDW-15.0 RDWSD-52.8* Plt ___\n___ 02:45AM BLOOD Glucose-86 UreaN-12 Creat-0.7 Na-145 \nK-4.1 Cl-108 HCO3-19* AnGap-18\n\nPost-bronchodilator FEV1/FVC < 0.70.\nFEV1 82% \n\n"
+}

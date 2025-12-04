@@ -1,0 +1,51 @@
+{
+    "Ischemic Stroke$Intermedia_3": {
+        "Narrowing of the internal arteries increases the risk of insufficient blood flow to the brain, possibly leading to stroke$Cause_1": {
+            "CTA was most notable for distal left ICA stenosis$Input2": {}
+        },
+        "Narrowing of the vertebral artery, which supplies part of the brainstem and cerebellum, can significantly increase the risk of stroke.$Cause_1": {
+            "moderate to severe focal stenosis of left vertebral artery$Input2": {}
+        },
+        "The patient had an ischemic infarction of the right cerebellum with associated edema and compression of the fourth ventricle. This is a direct manifestation of ischemic stroke.$Cause_1": {
+            "Subacute right cerebellar infarct with associated edema and effacement of the fourth ventricle.$Input6": {}
+        },
+        "There are abnormalities in the function of the heart valves. Long-term valve disease increases the risk of atrial fibrillation, which may lead to the formation of blood clots that may break off and become the source of embolism.$Cause_1": {
+            "Trivial mitral regurgitation is seen$Input6": {}
+        },
+        "Aortic stenosis is a diagnostic criterion for ischemic stroke$Cause_1": {
+            "The aortic valve leaflets (3) are thickened over 1.2mm.$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "Feeling dizzy and your surroundings spinning, which are typical symptoms of a stroke$Cause_1": {
+                "the patient became dizzy and the room was spinning when he arose from sitting$Input2": {}
+            },
+            "Headaches around the eyes are a classic symptom of stroke$Cause_1": {
+                "a right frontal headache located primarily behind his eye$Input2": {}
+            },
+            "Dizzy, nausea and vomiting are symptoms of stroke$Cause_1": {
+                "he again felt dizzy (room spinning),became nauseated and vomited$Input2": {}
+            },
+            "Headaches, especially intermittent headaches that occur in the back of the skull, may be related to insufficient blood supply to the brain or vascular disease$Cause_1": {
+                "he complains of an intermittent headache located in the posterior (occipital) area$Input2": {}
+            },
+            "High cholesterol is a risk factor for stroke.$Cause_1": {
+                "he had high cholesterol$Input3": {}
+            },
+            "A family history of stroke is a risk factor$Cause_1": {
+                "father died of stroke$Input4": {}
+            },
+            "The patient has high blood pressure, a major risk factor for stroke$Cause_1": {
+                "BP: 169/79$Input5": {}
+            },
+            "Higher than normal cholesterol levels increase the risk of atherosclerosis, one of the main factors leading to ischemic stroke.$Cause_1": {
+                "LDLcalc-144$Input6": {}
+            }
+        }
+    },
+    "input1": "dizzyness\n",
+    "input2": "He is a pleasant male with no significant past medical history.  On evening, the patient became dizzy and the room was spinning when he arose from sitting.  he described a right frontal headache located primarily behind his eye.  He didn't think much of it and went to bed.  On the following morning, the patient ate breakfast and felt fairly normal.  Shortly thereafter, he again felt dizzy (room spinning),became nauseated and vomited.  He laid down on the floor to try and relax.  Because the patient didn't feel better, he called his son to take him to hospital. Since that time, he complains of an intermittent headache located in the posterior (occipital) area.\n\ufeff\nthe patient initially underwent a non-contrast CT and CTA.  CT was a normal study and CTA was most notable for distal left ICA stenosis and moderate to severe focal stenosis of left vertebral artery.  \n\ufeff\nToday, the patient was being transported to radiology for a MRI study.  While in transit, the patient became clammy and dizzy and didn't feel well enough to sit through the exam.  Instead, he underwent a repeat non-contrast CT which revealed a right cerebellar infarct with effacement of the fourth ventricle.  As a result, arrangements were made to send the patient to a hospital department for neurosurgical evaluation.\n",
+    "input3": "None.  \nPatient thinks he had high cholesterol, but was controlling it via diet per PCP.\n",
+    "input4": "Mother had hypertension and diabetes, father died of stroke.\n",
+    "input5": "Exam on Admission\nO: T: 98.4   HR 80  BP: 169/79  RR 22  O2 Sat 95% on room air\nGen: WD/WN, comfortable, NAD. \nHEENT: PERRL, EOMs intact.\nNeuro:\nMental status: Awake and alert, cooperative with exam, normal affect.\nOrientation: Oriented to person, place, and date.\nLanguage: Speech fluent with good comprehension and repetition.\nNaming intact. No dysarthria.\n\ufeff\nCranial Nerves:\nI: Not tested\nII: Pupils equally round and reactive to light, to mm bilaterally. Visual fields are full to confrontation.\nIII, IV, VI: Extraocular movements intact bilaterally without nystagmus.\nV, VII: Facial strength and sensation intact and symmetric.\nVIII: Hearing intact to voice.\nIX, X: Palatal elevation symmetrical.\nXI: Sternocleidomastoid and trapezius normal bilaterally.\nXII: Tongue midline without fasciculations.\n\ufeff\nMotor: Normal bulk and tone bilaterally. No abnormal movements, tremors. Strength full power throughout. No pronator drift.\n\ufeff\nSensation: Intact to light touch. \n\ufeff\nCoordination: normal on finger-nose-finger.\n\ufeff\nRight handed.\n",
+    "input6": "ECHO\nThe left atrium is normal in size. No thrombus/mass is seen in the body of the left atrium. No atrial septal defect is seen by 2D or color Doppler. There is mild (non-obstructive) focal hypertrophy of the basal septum ( in some views it appears as an aberrant papillary muscle insertion at the basal septum). The left ventricular cavity size is normal. Regional left ventricular wall motion is normal. Overall left ventricular systolic function is normal (LVEF>55%). No masses or thrombi are seen in the left ventricle. There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are thickened over 1.2mm. No masses or vegetations are seen on the aortic valve. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. No mass or vegetation is seen on the mitral valve. Trivial mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion.  \n\ufeff\nNCHCT\nOverall stable appearance of right cerebellar infarct and resultant effacement of the fourth ventricle. \n\ufeff\nCXR\nNo relevant change as compared to the previous EXAMINATION:. Normal size of the cardiac silhouette. Normal hilar and mediastinal structures. Mild elongation of the descending aorta. \n\ufeff\nMR\nIMPRESSION: \n1. No evidence of acute intracranial hemorrhage. \n2. Subacute right cerebellar infarct with associated edema and effacement of the fourth ventricle. The third ventricle and lateral ventricles are stable in size. \n\n\ufeff\n04:42AM BLOOD %HbA1c-5.5 eAG-111\n04:42AM BLOOD Triglyc-76 HDL-72 CHOL/HD-3.2 LDLcalc-144*\n09:30PM BLOOD TSH-0.98\n"
+}

@@ -1,0 +1,47 @@
+{
+    "Type II diabetes$Intermedia_4": {
+        "Related C-peptide peak is more common in patients with type II diabetes and is a sign of insulin resistance.$Cause_1": {
+            "C-peptide release test hints the peak relate,did not fall back to fasting values at 180min.$Input6": {}
+        },
+        "Related insulin peak is more common in patients with type II diabetes.This indicator is often combined with C-peptide results for type diabetes.$Cause_1": {
+            "Insulin release test hints the peak relate,did not fall back to fasting values at 180min.$Input6": {}
+        },
+        "Diabetes$Intermedia_3": {
+            "Abnormal blood glucose is a diagnostic criteria of diabetes.$Cause_1": {
+                "GLUCOSE-697$Input6": {}
+            },
+            "Suspected Diabetes$Intermedia_2": {
+                "Obesity is a big risk factor of diabetes.$Cause_1": {
+                    "history of obesity$Input2": {}
+                },
+                "Polydipsia is a classic symptom of diabetes.$Cause_1": {
+                    "polydipsia$Input2": {}
+                },
+                "Polyuria is a classic symptom of diabetes.$Cause_1": {
+                    "polyuria$Input2": {}
+                },
+                "Blurry vision is a symptom of diabetes,which usually indicates diabetic retinopathy.$Cause_1": {
+                    "blurry vision$Input2": {}
+                },
+                "Vaginal erythema and itching is a symptom of diabetes commonly seen in female.$Cause_1": {
+                    "vaginal erythema and itching$Input2": {}
+                },
+                "Candidal vaginitis is a symptom of diabetes.$Cause_1": {
+                    "candidal vaginitis$Input2": {}
+                },
+                "Anxiety is a symptom of diabetes.$Cause_1": {
+                    "anxiety/depression --PTSD$Input3": {}
+                },
+                "Family history is a big risk factor of diabetes.$Cause_1": {
+                    "sister with breast cancer/DM, son with DMI$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "abdominal pain\n",
+    "input2": "She is a woman with a history of obesity, anxiety/depression, GERD who was sent from her PCP's office for new diagnosis nausea/vomiting. She notes 2 weeks of polydipsia, polyuria, blurry vision, nausea/vomiting andepigastric abdominal pain. She also complains of 2 days of chest pain last week which spontaneously resolved over the weekend.  \nShe found these symptoms manageable but presented to her PCP's office for vaginal erythema and itching. She admits to douching BID. Her PCP performed ___ vaginal exam demonstrating erythema and scaling consistent with candidal vaginitis. She was sent to the ED for evaluation of possible DM.  In the ED, initial VS were: 97.0 107 145/63 20 97%, urine demonstrated 1000 glucose, trace ketones. Glucose was initially679 and improved to 300 with insulin gtt. She was given 2L IVF. Initially was hyponatremic to 126 and improved to 132 with IVF and insulin.  \n \nREVIEW OF SYSTEMS:  \n(+) as above, also constipation  \n\ufeff\n",
+    "input3": "anxiety/depression --PTSD  \nSeasonal allergies  \nGERD\n",
+    "input4": "sister with breast cancer/DM, son with DMI, Mother with CAD\n",
+    "input5": "ADMISSION PHYSICAL EXAM\nGENERAL - well-appearing woman in NAD, comfortable, appropriate, talkative  \nHEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, dry-MM, OP clear \n \nNECK - supple, no thyromegaly, no JVD, no carotid bruits  \nLUNGS - CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use  \nHEART - PMI non-displaced, RRR, no MRG, nl S1-S2  \nABDOMEN - NABS, ttp in epigastrium, no masses or HSM, no rebound/guarding  \nEXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) \n \nSKIN - no rashes or lesions  \nLYMPH - no cervical, axillary, or inguinal LAD  \nNEURO - awake, A&Ox3, CNs II-XII grossly intact, sensation grossly intact throughout, DTRs 2+ and symmetric, cerebellar exam intact, steady gait\n",
+    "input6": "___ 08:56PM   GLUCOSE-332* NA+-132* K+-4.3 CL--94* TCO2-31*\n___ 06:49PM   PO2-45* PCO2-48* PH-7.40 TOTAL CO2-31* BASE XS-3 COMMENTS-GREEN TOP\n___ 06:15PM   GLUCOSE-499* UREA N-34* CREAT-1.4* SODIUM-127* POTASSIUM-4.9 CHLORIDE-86* TOTAL CO2-24 ANION GAP-22\n___ 06:15PM   ALT(SGPT)-50* AST(SGOT)-45* LD(LDH)-439* ALK PHOS-138* TOT BILI-0.7\n___ 06:15PM   LIPASE-55\n___ 06:15PM   ALBUMIN-4.2\n___ 04:09PM   GLUCOSE-GREATER TH LACTATE-2.5* NA+-126* K+-4.6 CL--86* TCO2-29\n___ 04:09PM   HGB-15.3 calcHCT-46\n___ 03:50PM   GLUCOSE-697* UREA N-40* CREAT-1.6* SODIUM-126* POTASSIUM-5.4* CHLORIDE-82* TOTAL CO2-27 ANION GAP-22\n___ 03:50PM   OSMOLAL-308\n___ 03:50PM   WBC-10.4 RBC-5.07 HGB-15.3 HCT-44.0 MCV-87 MCH-30.2 MCHC-34.7 RDW-12.1\n___ 03:50PM   NEUTS-73.0* MONOS-4.7 EOS-0.7 BASOS-0.5\n___ 03:50PM   PLT COUNT-316\n___ 03:50PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-1000 KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-MOD\n___ 03:50PM URINE  RBC-1 WBC-4 BACTERIA-NONE YEAST-NONE EPI-1\n___ 03:50PM URINE  MUCOUS-RARE\n___ 03:50PM URINE  EOS-NEGATIVE  \n___ 06:35AM BLOOD CK-MB-2 cTropnT-<0.01\n___ 07:45AM BLOOD CK-MB-2 cTropnT-<0.01\n___ 07:45AM BLOOD %HbA1c-13.8* eAG-349*\n___ 07:45AM C-peptide-135*\n\nIMAGING/STUDIES:\nECG: Sinus rhythm. Left atrial abnormality. Prior inferior wall myocardial infarction of indeterminate age with persistent ST segment elevation recorded also in the lateral precordium. Rule out myocardial infarction. Followup and clinical correlation are suggested. \n  \nECG: Sinus rhythm. Inferior myocardial infarction, age undetermined. There are mild J point and ST segment elevations in the inferior leads and lead V6 of uncertain significance. Since the previous tracing the rate is now slower. Otherwise, unchanged. \n\ufeff\nCXR (AP Portable): Chest findings within normal limits as seen on single view AP chest examination.  Thus, no evidence of pneumonia. \n  \nTTE:\nThe left atrium is normal in size. No atrial septal defect is seen by 2D or color Doppler. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%). There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. The ascending aorta is mildly dilated. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve appears structurally normal with trivial mitral regurgitation. There is no mitral valve prolapse. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion\n\nC-PEPTIDE RELEASE TEST:\nC-P0     2.03ng/ml\nC-P30    5.60ng/ml\nC-P60    9.830ng/ml\nC-P120   13.10ng/ml\nC-P180   4.68ng/ml\nC-peptide release test hints the peak relate,did not fall back to fasting values at 180min.\n\nINSULIN RELEASE TEST:    \nInsulin     13.20mlU/L\nInsulin30   100.87mlU/L\nInsulin60   205.2mlU/L\nInsulin120  253.4mlU/L\nInsulin180  87.332mlU/L\nInsulin release test hints the peak relate,did not fall back to fasting values at 180min. \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+}

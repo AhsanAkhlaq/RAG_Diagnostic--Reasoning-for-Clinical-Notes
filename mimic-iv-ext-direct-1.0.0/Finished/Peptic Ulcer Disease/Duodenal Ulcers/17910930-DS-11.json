@@ -1,0 +1,27 @@
+{
+    "duodenal ulcers$Intermedia_3": {
+        "Bleeding duodenal ulcer onEGD is the gold standard of duodenal ulcer.$Cause_1": {
+            "He subsequently underwent EGD under conscious sedation with identification of bleeding duodenal ulcer and electrocautery;$Input2": {}
+        },
+        "suspected peptic ulcer disease$Intermedia_2": {
+            "Ibuprofe is the risk of peptic ulcer.$Cause_1": {
+                "he has been taking 800 mg of ibuprofen 3 times daily combined with multiple daily Aleve.$Input2": {}
+            },
+            "Melena is the manifestation of peptic ulcer with bleeding.$Cause_1": {
+                "presents for evaluation of melena.$Input2": {}
+            },
+            "Lightheadedness is the manifestation of peptic ulcer with bleeding.$Cause_1": {
+                "Today, he noted about bowel movements which were first watery but then dark red. Symptoms were associated with some lightheadedness.$Input2": {}
+            },
+            "hypotensive is the manifestation of peptic ulcer with bleeding.$Cause_1": {
+                "He was evaluated by his PCP today and found to be hypotensive to$Input2": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Male with a past medical history of COPD on 2L at night, chronic back pain who presents for evaluation of melena. The patient reports that for the past 6 weeks, he has experienced worsening back pain and left-sided sciatica for which he has been taking 800 mg of ibuprofen 3 times daily combined with multiple daily Aleve. Today, he noted about bowel movements which were first watery but then dark red. Symptoms were associated with some lightheadedness. No chest pain or pressure. He was evaluated by his PCP today and found to be hypotensive to . EMS was called and he was taken to the ED, receiving 400 cc of fluid en route with improvement in his blood pressure. Patient is not on any beta blockade or blood thinner. No large alcohol use. No previous history of GI bleeding. No known esophageal varices or liver disease. In the ED, initial vitals were HR 95 BP 124/95 RR 18 O2 sat 96% RA. Exam notable for frail-appearance, rectal with dark guaiac positive stool. Labs showed Hgb down to 11.1 from 13.6 on , with BUN elevated to 56 from . GI was consulted and recommended admission to the ICU for urgent EGD. On evaluation, the patient endorses the history above. He feels \"woozy\" but denies abdominal pain, nausea, or vomiting. He subsequently underwent EGD under conscious sedation with identification of bleeding duodenal ulcer and electrocautery; see EGD report in OMR.\n",
+    "input3": "+COPD on 2L at night \n+Sciatica\n",
+    "input4": "Reviewed; non-contributory\n",
+    "input5": "VS: HR 95 BP 119/94 RR 25 O2 sat 92% RA\nGEN: Pale-appearing elderly man, no distress\nHEENT: Sclera anicteric. Moist mucus membranes.\nNECK: No palpable lymphadenopathy. \nCV:  Normal S1S2, RRR, no murmurs\nRESP: Scattered rhonchi, otherwise clear bilaterally \nGI:  Soft, non-tender, non-distended, no palpable organomegaly\nMSK: Warm, well-perfused, no lower extremity edema\nSKIN:  No bruises or rashes\nNEURO:  AOX3, CNII-XII intact, moves all extremities with purpose\n",
+    "input6": "02:40PM BLOOD WBC-7.9 RBC-4.81 Hgb-13.6* Hct-40.8 MCV-85 MCH-28.3 MCHC-33.3 RDW-13.8 RDWSD-42.8 Plt\n02:40PM BLOOD Neuts-66.0 Lymphs-17.7* Monos-10.6 Eos-4.0 Baso-1.3* Im AbsNeut-5.23 AbsLymp-1.40 AbsMono-0.84* AbsEos-0.32 AbsBaso-0.10*\n02:40PM BLOOD PTT-38.6*\n02:40PM BLOOD Glucose-88 UreaN-26* Creat-1.2 Na-141 K-4.3 Cl-108 HCO3-23 AnGap-10\n02:40PM BLOOD ALT-8 AST-13 AlkPhos-69 TotBili-0.4\n02:40PM BLOOD Lipase-46\n02:40PM BLOOD proBNP-446\n02:40PM BLOOD cTropnT-<0.01\n02:40PM BLOOD Albumin-3.6 Calcium-9.5 Phos-3.1 Mg-2.2\n02:52PM BLOOD Lactate-1.2\n"
+}

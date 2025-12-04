@@ -1,0 +1,42 @@
+{
+    "Primary Adrenal Insufficiency$Intermedia_3": {
+        "Failure to increase ACTcortisol after administration is direct evidence of primary adrenal insufficiency$Cause_1": {
+            "cortisol does not increase even when ACTH is given$Input6": {}
+        },
+        "These drugs are commonly used to treat adrenal insufficiency and indicate that the patient may have known adrenal insufficiency.$Cause_1": {
+            "fludrocortisone and hydrocortisone$Input2": {}
+        },
+        "Suspected Adrenal Insufficiency$Intermedia_2": {
+            "Abnormal weight loss is the symptom of adrenal insufficiency$Cause_1": {
+                "Abnormal weight loss$Input3": {}
+            },
+            "Low sodium is a classic biochemical manifestation of adrenal insufficiency$Cause_1": {
+                "Na-124$Input6": {}
+            },
+            "High potassium is a classic biochemical manifestation of adrenal insufficiency$Cause_1": {
+                "K-5.6$Input6": {}
+            },
+            "Hypochloride is classic biochemical manifestations of adrenal insufficiency$Cause_1": {
+                "Cl-93$Input6": {}
+            },
+            "hypocarbonate is classic biochemical manifestations of adrenal insufficiency$Cause_1": {
+                "HCO3-19$Input6": {}
+            },
+            "Adrenal insufficiency can cause electrolyte imbalances and fluid distribution abnormalities, which can sometimes cause chest discomfort or pain.$Cause_1": {
+                "abruptly developed left-sided chest pressure$Input2": {}
+            },
+            "Anorexia is a common symptom of primary adrenal insufficiency and may be related to chronic cortisol deficiency.$Cause_1": {
+                "decreased appetite$Input2": {}
+            },
+            "Adrenal insufficiency can affect the body's stress response mechanisms, leading to problems such as insomnia.$Cause_1": {
+                "difficulty sleeping$Input2": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "The patient abruptly developed left-sided chest pressure around noon on the day of presentation. The pain radiated to his left shoulder blade and worsened with inspiration. The chest pain mostly resolved within three hours, but the patient continued to experience mild discomfort with deep inspiration. The patient denied any trauma, recent travel, lower extremity swelling or pain, or infectious symptoms. He had never experienced chest pain like this before.\n\nUpon arrival to the floor, the patient confirmed the above history. Additionally, he noted a decreased appetite on the morning of admission. He did not eat anything the morning before arriving at the ED, but had been drinking water. The patient took his usual morning doses of fludrocortisone and hydrocortisone. He also reported having difficulty sleeping for three nights prior to admission but denied recent stressors. The patient denied diarrhea, vomiting, fever, chills, or cough. He mentioned that he started feeling better once he was in the ED and was able to eat a grilled cheese sandwich.\n",
+    "input3": "Back pain\nAbnormal weight loss\n",
+    "input4": "Mother and maternal aunt with breast cancer. Father with DM and liver cancer. Denies family history of autoimmune disorders or anemia.\n",
+    "input5": "Temp: 96.2 HR: 90 BP: 100/62 Resp: 14 O2 Sat: 99\nGENERAL: Alert and interactive. In no acute distress.\nHEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.\nNECK: No cervical lymphadenopathy. \nCARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No\nmurmurs/rubs/gallops.\nLUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or rales. No increased work of breathing.\nABDOMEN: Normal bowels sounds, non distended, non-tender. No\norganomegaly.\nEXTREMITIES: No clubbing, cyanosis, or edema. \nSKIN: Warm. Cap refill <2s. Good skin turgor, no tenting. \nNEUROLOGIC: AOx3. Grossly intact.\n",
+    "input6": "INITIAL LABS: \n=================\n___ 04:19PM BLOOD WBC-9.7 RBC-5.70 Hgb-16.9 Hct-48.2 MCV-85 \nMCH-29.6 MCHC-35.1 RDW-11.9 RDWSD-35.8 Plt ___\n___ 04:19PM BLOOD Neuts-63.4 ___ Monos-11.2 Eos-0.5* Baso-0.3 Im ___ AbsNeut-6.15* AbsLymp-2.34 AbsMono-1.09* AbsEos-0.05 AbsBaso-0.03\n___ 04:19PM BLOOD Plt ___\n___ 04:19PM BLOOD Glucose-81 UreaN-23* Creat-0.8 Na-124* K-5.6* Cl-93* HCO3-19* AnGap-12\n___ 04:19PM BLOOD cTropnT-<0.01\n\n\ncortisol does not increase even when ACTH is given \n\n\nMICRO: \n=================\nUrine Dipstick: unremarkable, nitrites negative\n\nIMAGING\n=================\n\nEKG: sinus rhythm\n  \nTECHNIQUE:  Chest PA and lateral \nFINDINGS:  \nHeart size is normal.  The mediastinal and hilar contours are normal. The pulmonary vasculature is normal. Lungs are clear.  No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.\n"
+}

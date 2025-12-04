@@ -1,0 +1,24 @@
+{
+    "Tuberculosis$Intermedia_3": {
+        "A positive AFB culture result is an important diagnostic indicator for tuberculosis. Mycobacterium tuberculosis is an acid-fast bacillus, and the presence of such bacteria usually points to the possibility of tuberculosis.$Cause_1": {
+            "abscess fluid grew AFB with speciation pending$Input2": {}
+        },
+        "Abscesses and vertebral joint involvement found on MRI, along with meningeal enhancement, may indicate deep-seated tuberculosis infection.$Cause_1": {
+            "MRI was performed after the LP showed a 3.1 x 1.6 cm abscess in the right paraspinal musculature at the L3-5 level with involvement of the right L4-5 facet joint and the L4 spinous process with additional leptomeningeal enhancement.$Input2": {}
+        },
+        "Suspected Tuberculosis$Intermedia_2": {
+            "People with HIV have a compromised immune system, making them more susceptible to tuberculosis infection and to developing active tuberculosis.$Cause_1": {
+                "HIV$Input3": {}
+            },
+            "Scattered red rashes on the skin may be a skin manifestation of tuberculosis infection. Red, partially depigmented macules may be a symptom of tuberculosis$Cause_1": {
+                "Scatterred rash on upper right back, chest, and on \nextremities. Erythematous, partially blanching, macules.$Input5": {}
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "The patient presented on her PREVIOUS Admission to an OSH with severe lumbar pain. An LP was performed and showed WBC 59K with cultures growing MRSA. Blood cultures also grew MRSA. MRI was performed after the LP showed a 3.1 x 1.6 cm abscess in the right paraspinal musculature at the L3-5 level with involvement of the right L4-5 facet joint and the L4 spinous process with additional leptomeningeal enhancement. It was unclear if the LP fluid that was obtained was from the abscess or from the spinal fluid, given the close proximity and the unknown presence of abscess at the time of LP.  The patient was given vancomycin, ceftriaxone and acyclovir and was transfered to ___. On arrival to ___ she was intubated due to altered mental status. \n.\nNeurosurgery evaluated the patient and she underwent ___ guided drainage of her paraspinal abscess, cultures also grew MRSA. She was continued on vancomycin alone. She was taken back for repeat ___ guided drainage of her abscess on ___ with and a drain was removed prior to discharge. TTE revealed no\nvegetations. She was discharged on vancomycin with a planned prolonged duration of therapy. Her ID follow up was transitioned to her PCP prior to discharge. \n.\nAfter discharge her ___ abscess fluid grew AFB with speciation pending. Due to this, and a truncal rash, she was referred back to the ___ for admission ___\n\nAt the time of admission, she reported feeling better and her abscess continuing to heal. She still doesn't walk back to normal, but is constantly improving. No fevers/chills/SOB/CP/N/V/D/C.\n",
+    "input3": "HIV\nIVDA - including heroin. on methadone.\nh/o PE\nchronic low back pain\n",
+    "input4": "Unknown.\n",
+    "input5": "ADMISSION PHYSICAL EXAM:  \nVitals: T:98.2 BP:108/82 P:88 R:20 O2:98RA  \nGeneral: Alert, oriented, no acute distress  \nHEENT: Sclera anicteric, MMM, oropharynx clear  \nNeck: supple, JVP not elevated, no LAD  \nLungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi  \nCV: Regular rate and rhythm, normal S1 + S2, S4 gallop \nappreciated  \nAbdomen: soft, non-tender, non-distended, bowel sounds present. Escoriations throughout abdomen.   \nExt: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  \nSkin: Scatterred rash on upper right back, chest, and on \nextremities. Erythematous, partially blanching, macules. \nNeuro: A and O x3. CN II-XII grossly intact. Strength ___ in b/l upper and lower extremities. 2+ reflexes in knees, \nbrachioradialis. Gait with limp due to favoring R side\n",
+    "input6": "___ 05:45PM BLOOD WBC-7.4 RBC-4.00* Hgb-10.9* Hct-33.3* \nMCV-83 MCH-27.3 MCHC-32.7 RDW-14.3 Plt ___\n___ 05:45PM BLOOD Neuts-69.8 ___ Monos-6.9 Eos-1.1 \nBaso-0.6\n___ 07:45AM BLOOD  WBC-5.4 Lymph-22 Abs ___ CD3%-91 \nAbs CD3-1083 CD4%-35 Abs CD4-413 CD8%-54 Abs CD8-642 \nCD4/CD8-0.6*\n___ 05:45PM BLOOD Glucose-99 UreaN-9 Creat-0.9 Na-139 K-4.1 \nCl-97 HCO3-28 AnGap-18\n___ 07:45AM BLOOD ALT-50* AST-74* AlkPhos-82 TotBili-0.3#\n___ 07:45AM BLOOD Calcium-9.4 Phos-4.9* Mg-1.8 Iron-57\n___ 07:45AM BLOOD calTIBC-324 Ferritn-103 TRF-249\n\nSTUDIES:  \n___ CXR: No acute cardiopulmonary process\n"
+}

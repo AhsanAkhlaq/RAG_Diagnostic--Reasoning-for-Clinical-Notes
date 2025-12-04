@@ -1,0 +1,32 @@
+{
+    "Non-Allergic Asthma$Intermedia_4": {
+        "A typical scenario that triggers or exacerbates asthma symptoms, with shortness of breath worsening after inhaling smoke$Cause_1": {
+            "He breathed in the cigarette smoke and his symptoms got worse$Input2": {}
+        },
+        "Asthma$Intermedia_3": {
+            "Low sustained peak flow rates usually indicate that there may be some kind of obstruction or narrowing of the airways, which is one of the classic symptoms of asthma.$Cause_1": {
+                "Peak expiratory flow show low persistence peak flow.$Input6": {}
+            },
+            "Suspected Asthma$Intermedia_2": {
+                "Not taking asthma medication regularly can lead to poor symptom control and is a common problem in asthma management.$Cause_1": {
+                    "not been taking all of his asthma medications regularly$Input2": {}
+                },
+                "Regular smoking, including marijuana, can worsen asthma symptoms and has a direct irritating effect on the respiratory tract.$Cause_1": {
+                    "continues to smoke 3 marijua blunts per day$Input2": {}
+                },
+                "This indicates that the patient has had recurrent asthma attacks since childhood.$Cause_1": {
+                    "Since childhood. Numerous asthma exacerbations$Input3": {}
+                },
+                "Family history inrease the risk.$Cause_1": {
+                    "+ history of asthma in maternal relatives.$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "The pt reports that he was at a friend's house who was cooking dinner the day of admission, around 7pm. The smell of food was strong, so they turned on the ceiling fan. He felt short of breath so he went outside to get some air, and someone was smoking. He breathed in the cigarette smoke and his symptoms got worse. He then presented to the ED. Of note, the patient reports that he has not been taking all of his asthma medications regularly because he ran out. He also continues to smoke 3 marijua blunts per day. His seasonal allergies have been bad lately with watery eyes and stuffy nose. No cough recently, no URIs, no fevers. No sick contacts. No chest pain.\n\nIn the ED, initial VS were: 99.1 114 131/83 30 99% RA. HR improved to ___ and RR improved to 18. Labs were largely unremarkable. VBG 7.34/51/40/29. CXR showed no acute process. The patient received back to back duonebs, magnesium, and IV methylpred around 8:30pm, then duonebs again at 9pm and 11:30pm. \n\n \nUpon arrival to the floor, the patient reports that his breathing is much better. He does not know his baseline peak flow.\n",
+    "input3": "ALLERGIC RHINITIS\nASTHMA\n-- Since childhood. Numerous asthma exacerbations. Never intubated. Asthma exacerbations have required steroids frequently.\n",
+    "input4": "No history of CAD, MI, Early malignancy.  + history of asthma in maternal relatives.\n",
+    "input5": "97.5, 123/66, 105, 18, 99% on RA\nGEN: well appearing young man in NAD\nHENT: NCAT, OP clear, MMM\nEyes: PERRL, EOMI, anicteric\nCV: RRR, no m/g/r\nResp: breathing comfortably without tachypnea or accessory muscle use. diffuse adventitious breath sounds b/l with no wheezing. Good air movement. \nGI: s, nd, nt, nabs\nGU: no foley\nExtr: wwp, no edema\nNeuro: CNs intact, ___ strength, full sensation\nSkin: no lesions or rashes\nPsych: normal affect and mood\n",
+    "input6": "___ 08:44PM   ___ PO2-40* PCO2-51* PH-7.34* TOTAL \nCO2-29 BASE XS-0\n___ 08:15PM   GLUCOSE-103* UREA N-6 CREAT-1.1 SODIUM-144 \nPOTASSIUM-3.6 CHLORIDE-105 TOTAL CO2-28 ANION GAP-15\n___ 08:15PM   estGFR-Using this\n___ 08:15PM   CALCIUM-9.5 PHOSPHATE-3.8 MAGNESIUM-1.9\n___ 08:15PM   WBC-7.4 RBC-4.48* HGB-12.3* HCT-39.0* MCV-87 \nMCH-27.5 MCHC-31.5* RDW-14.4 RDWSD-45.4\n___ 08:15PM   NEUTS-61.6 ___ MONOS-5.4 EOS-3.7 \nBASOS-0.4 IM ___ AbsNeut-4.52 AbsLymp-2.12 AbsMono-0.40 \nAbsEos-0.27 AbsBaso-0.03\n___ 08:15PM   PLT COUNT-200\n\nImaging:\nCXR ___:\nFINDINGS: \nLungs are clear.  The cardiomediastinal silhouette is within normal limits.  No acute osseous abnormalities.\nIMPRESSION: \nNo acute cardiopulmonary process.\n\nPeak expiratory flow show low persistence peak flow. \n"
+}

@@ -1,0 +1,21 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "BP 160$Input5": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "elevated blood pressure for 147/100$Input2": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Headache is a classic symptoms of Hypertension.$Cause_1": {
+                "headache$Input1": {}
+            }
+        }
+    },
+    "input1": "Sore throat,headache,heartburn, elevated BP\n",
+    "input2": "Patient presented with a sore throat (from vomiting, she stated), heartburn, and elevated blood pressure for 147/100. Concern for preeclampsia so admitted for evaluation.\n",
+    "input3": "\n",
+    "input4": "noncontributory\n",
+    "input5": "BP 160\n",
+    "input6": "___ 07:23PM   CREAT-0.6\n___ 07:23PM   estGFR-Using this\n___ 07:23PM   ALT(SGPT)-23 AST(SGOT)-26\n___ 07:23PM   URIC ACID-3.9\n___ 07:23PM   WBC-11.9* RBC-4.37 HGB-10.3* HCT-32.0* MCV-73* MCH-23.6* MCHC-32.2 RDW-18.9* RDWSD-46.3\n___ 07:23PM   NEUTS-71.4* ___ MONOS-7.6 EOS-0.3* BASOS-0.3 IM ___ AbsNeut-8.53* AbsLymp-2.37 AbsMono-0.91* AbsEos-0.03* AbsBaso-0.03\n___ 07:23PM   PLT COUNT-369\n___ 07:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR* GLUCOSE-NEG KETONE-40* BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-NEG\n"
+}

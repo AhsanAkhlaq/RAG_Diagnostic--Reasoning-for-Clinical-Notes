@@ -1,0 +1,24 @@
+{
+    "upper gastrointestinal bleeding$Intermedia_3": {
+        "Dieulafoy can cause upper gastrointestinal bleeding.Upper gastrointestinal bleeding was confirmed by EGD.$Cause_1": {
+            "An EGD showed fresh blood and clot in the high fundus where prior Dieulafoy's was thought to have been, this area was injected and cauterized but uncertainty as to adequacy of treatment remained.$Input2": {}
+        },
+        "suspected upper gastrointestinal bleeding$Intermedia_2": {
+            "Dizziness is one of the manifestations of anemia.$Cause_1": {
+                "Male with recurrent symptomatic dizziness over the past four months.$Input2": {}
+            },
+            "Anemia is one of the manifestations of gastrointestinal bleeding$Cause_1": {
+                "He saw his MD and was noted to be anemic to HCT 24%.$Input2": {}
+            },
+            "Melena is the typical symptoms of gastrointestinal bleeding.$Cause_1": {
+                "He reports melena at around 3pm today.$Input2": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Male with recurrent symptomatic dizziness over the past four months. Multiple EGD findings described below. On he was light-headed and had BRBPR. He saw his MD and was noted to be anemic to HCT 24%. He received a total of 5 Units of blood (2 on , 1 on , 2 on with subsequent HCT 34.6% today. A bleeding scan was negative . An EGD showed fresh blood and clot in the high fundus where prior Dieulafoy's was thought to have been, this area was injected and cauterized but uncertainty as to adequacy of treatment remained. He was sent here for Argon Plasma Coagulation. He reports melena at around 3pm today. Denies light-headedness, dizziness or abdominal pain at this time.\n",
+    "input3": "+HTN\n+BPH s/p TURP x 2\n+Asthma\n+Diverticulosis\n+Rectal Polyp\n+Internal hemorrhoids\n+CKD II-III\n+s/p R THR x 2\n+Left ear canal cancer\n+R ear skin cancer\n+s/p R herniorrhaphy\n",
+    "input4": "Mo - CAD/MI\nNo GI cancers\n",
+    "input5": "98.0. 166/83, 61, 16, 100RA\nYounger than stated age, very reliable historian, a bit hard of hearing\nHEENT: anicteric, OP clear, neck supple, no bruits\nLUNGS: CTA bilat w/o wheeze, rubs, gallops\nCOR: S1, SEM murmur loudest at RUSB radiates to neck, heard across precordium\nABD: soft, NT / ND, no HSM or masses, no G/R\nEXT: no C/C/E\nSKIN: multiple SKs, large 5cm sebaceous cyst L upper back without inflammation\nNEURO: A & O x 3, fluent speech & cognition, moves all 4 extremities, no focal deficits\nPSYCH: pleasant, cooperative\n",
+    "input6": "HCT 26.3, PLT 161\nHCT 34.6, PLT 144, INR  BUN 40, Cr 1.20\nBUN 16, Cr 1.03, Na 140, K 3.7, HCO3 21, Cl 110, Glu 91\n"
+}

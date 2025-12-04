@@ -1,0 +1,30 @@
+{
+    "Gastric ulcers$Intermedia_3": {
+        "Gastric ulcer with bleeding ion endoscopy is the gold standard of peptic ulcer.$Cause_1": {
+            "Endoscopy:Gastric ulcer with bleeding$Input6": {}
+        },
+        "suspected peptic ulcer disease$Intermedia_2": {
+            "History of PUD and PUD bleed.$Cause_1": {
+                "This is a female with history of PUD, most recent upper GI bleed,$Input2": {}
+            },
+            "Nausea and vomiting, with guaiac + stools are the manifestations of peptic ulcer with bleeding.$Cause_1": {
+                "Pt continued to have severe nausea and vomiting, with guaiac + stools$Input2": {}
+            },
+            "Anemia is the manifestation of peptic ulcer with bleeding.$Cause_1": {
+                "pt was febrile and tachycardic with low-normal BP$Input2": {}
+            },
+            "Anxiety and epression are the risk factor of peptic ulcer.$Cause_1": {
+                "Anxiety\uff0cDepression after pt was laid off$Input3": {}
+            },
+            "Family history of colon ca.$Cause_1": {
+                "Grandmother - colon ca.$Input4": {}
+            }
+        }
+    },
+    "input1": "Transfer from OSH for management of gastric outlet obstruction\n",
+    "input2": "This is a female with history of PUD, most recent upper GI bleed, hypertension, diagnosis of celiac dz by biopsy in who presented to OSH with nausea, vomiting, and weight loss of 30 lbs. Then, for days prior to her presentation to OSH, she had severe N/V/anorexia that prevented her from keeping any POs down. On admission to OSH, noted to have BP of 81/50 and Cr of 6. Pt was volume resuscitated with IVF, with improvement in BP and Cr returned to baseline of less than 1. Pt continued to have severe nausea and vomiting, with guaiac + stools. Work up was done to r/o bowel obstruction. Upper GI did not show any obstruction but upper endoscopy on showed duodenal stenosis. NG tube suction was initiated and pt reported improvement in symptoms. The plan was to rescope pt with plan to perform balloon plasty on if necessary. Pt desired to be transferred to where her primary MD practices and wished to get a second opinion. Upon arrival at , pt was febrile and tachycardic with low-normal BP, however she denied any symptoms. Pt is feeling better than she ever has in a long time. No abdominal pain, n/v. Denies feelings of heart racing. No coughs.\n",
+    "input3": "+GI bleeds requiring blood transfusions\n+Insomnia\n+Anxiety\n+s/p patella fracture\n+Diabetes\n+HTN\n+Depression after pt was laid off\n",
+    "input4": "Mom- HTN, ESRD. Grandmother - colon ca.\n",
+    "input5": "PE: pale, cachectic, temporal wasting. resting comfortably in bed. \nvitals: 101.7  139    20   95% RA\nHEENT: PERRL, EOMI, dry MM, cracked lips, OP clear\nNeck: Supple, no JVD\nCV: Tachycardic, regular rhythm. No m/r/g\nLungs: CTAB \nAbdomen: +BS, NTND, soft, no guarding or rebound, no organomegaly\nExt: no edema, 1+ pulses DP\nNeuro: AAOx3, CN II-XII grossly intact\n",
+    "input6": "12:50PM   WBC-13.9*# RBC-4.21# HGB-11.5*# HCT-36.1# MCV-86 MCH-27.4 MCHC-32.0 RDW-14.1\n12:50PM   NEUTS-94.4* BANDS-0 LYMPHS-2.9* MONOS-2.5 EOS-0.1 BASOS-0.1\n12:50PM   PLT SMR-VERY HIGH PLT COUNT-622*\n12:50PM   GLUCOSE-135* UREA N-22* CREAT-0.8 SODIUM-143 POTASSIUM-2.9* CHLORIDE-108 TOTAL CO2-22 ANION GAP-16\n12:50PM   ALT(SGPT)-7 AST(SGOT)-8 LD(LDH)-124 ALK PHOS-137* TOT BILI-0.4\n12:50PM   ALBUMIN-3.4 CALCIUM-9.3 PHOSPHATE-2.8 MAGNESIUM-1.7\n12:50PM   PTT-34.4 \n04:55PM URINE  COLOR-Yellow APPEAR-Clear SP\n04:55PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR GLUCOSE-NEG KETONE-15 \nBILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-TR\n04:55PM URINE  BACTERIA-FEW \nYEAST-NONE 04:55PM URINE  04:55PM URINE  MUCOUS-MOD\nEndoscopy:Gastric ulcer, duodenal ulcer with bleeding\n"
+}

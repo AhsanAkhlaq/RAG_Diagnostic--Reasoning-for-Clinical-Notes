@@ -1,0 +1,60 @@
+{
+    "UA$Intermedia_5": {
+        "Severe chest pain is symbol of ACS-UA$Cause_1": {
+            "He was walking up the stairs today when he experienced chest pain for two minutes associated with palpitations. The pain lasted for 10 minutes. He has had a few other episodes with exertion this week.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Hyperkalemia is a symptom of ACS$Cause_1": {
+                "Hyperkalemia$Input1": {}
+            },
+            "+Dyslipidemia   can be risk fact$Cause_1": {
+                "+Dyslipidemia$Input3": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "ECG changes can be sign of acs$Cause_1": {
+                "EKG: sinus rhythm with subtle ST depression in lateral leads withpoor R wave progression$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Hyperkalemia is a symptom of ACS$Cause_1": {
+                    "Hyperkalemia$Input1": {}
+                },
+                "+Dyslipidemia   can be risk fact$Cause_1": {
+                    "+Dyslipidemia$Input3": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "and non-ST-elevation$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Hyperkalemia is a symptom of ACS$Cause_1": {
+                    "Hyperkalemia$Input1": {}
+                },
+                "+Dyslipidemia   can be risk fact$Cause_1": {
+                    "+Dyslipidemia$Input3": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "ECG changes can be sign of acs$Cause_1": {
+                    "EKG: sinus rhythm with subtle ST depression in lateral leads withpoor R wave progression$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Hyperkalemia is a symptom of ACS$Cause_1": {
+                        "Hyperkalemia$Input1": {}
+                    },
+                    "+Dyslipidemia   can be risk fact$Cause_1": {
+                        "+Dyslipidemia$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Hyperkalemia\n",
+    "input2": "He is a 69 year old male with history of hypothyroidism who presents to the ED after an episode of exertional chest pain.\n\nHe was walking up the stairs today when he experienced chest pain for two minutes associated with palpitations. The pain lasted for 10 minutes. He has had a few other episodes with exertion this week. He denies n/v, diaphoresis, radiation of the pain to either arm or to his jaw. He denies any prior issues with bleeding, has no upcoming planned surgeries. \n\nIn the ED initial vitals were:  T: 97.4  HR: 95  BP: 136/54  RR: 18  SPO2: 100% RA \n\nEKG: sinus rhythm with subtle ST depression in lateral leads withpoor R wave progression and non-ST-elevation\n \nPatient was given:  PO Aspirin 324 mg \n\nOn the floor, patient denies any recurrent chest pain but does note some mild indigestion which he is quick to point out is quite different from his prior chest pain.\n",
+    "input3": "+Dyslipidemia  \n+Rhythm: NSR\n",
+    "input4": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death.\n",
+    "input5": "Vitals: 97.6 139 / 90 71 18 97 RA \nTelemetry:  no events\nGeneral:  laying comfortably in bed\nLungs: breathing comfortably, CTA b/l\nCV: rrr, no mrg, JVP not elevated\nAbdomen: soft, ntnd\nExt: no peripheral edema\n",
+    "input6": "___ 07:30AM BLOOD WBC-8.0 RBC-4.95 Hgb-14.9 Hct-44.7 MCV-90 MCH-30.1 MCHC-33.3 RDW-13.5 RDWSD-44.5 Plt ___\n___ 07:30AM BLOOD Plt ___\n___ 07:30AM BLOOD Glucose-99 UreaN-13 Creat-0.9 Na-141 K-4.5 Cl-102 HCO3-29 AnGap-10\n___ 08:45AM BLOOD CK(CPK)-45*\n___ 09:03AM BLOOD CK-MB-2 cTropnT-<0.01\n___ 03:02AM BLOOD CK-MB-2 cTropnT-<0.01\n___ 08:45AM BLOOD CK-MB-2 cTropnT-<0.01\n___ 07:30AM BLOOD Calcium-9.0 Phos-3.1 Mg-2.2\n___ 03:20AM BLOOD RedHold-HOLD\n"
+}

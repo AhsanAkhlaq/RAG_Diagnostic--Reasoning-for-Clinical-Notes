@@ -1,0 +1,105 @@
+{
+    "UA$Intermedia_5": {
+        "Severe chest pain is symbol of ACS-UA$Cause_1": {
+            "He reports that the pain seemed to radiate to the back b/w the scapulae and worsened with breathing but denies other assoc symptoms other than slight dyspnea. Pain lasted for approx 30 min- pt reports \"nearly passing out\" when taking sublingual nitroglycerin.$Input2": {}
+        },
+        "nomal(<0.2 \u03bcg/L)$Cause_1": {
+            "BLOOD cTropnT-<0.01$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest Pain$Input1": {}
+            },
+            "HTN is the risk fact for ACS$Cause_1": {
+                "HTN,$Input3": {}
+            },
+            "HLD is the risk fact for ACS$Cause_1": {
+                "HLD$Input3": {}
+            },
+            "former smoker is the risk fact for ACS$Cause_1": {
+                "former smoker$Input3": {}
+            },
+            "Obesity is the risk fact for ACS$Cause_1": {
+                "Obesity$Input3": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "PCIs (following MI, RCA stent are the risk facts for ACS$Cause_1": {
+                "He is a 66 yr old male with known CAD s/p multiple PCIs (following MI, RCA stent, 2 RCA stents on.$Input2": {}
+            },
+            "Chest pain is a symptom of ACS.$Cause_1": {
+                "He reports an episode of dull substernal chest pain 2 days ago when he was out shopping with his wife.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "HTN is the risk fact for ACS$Cause_1": {
+                    "HTN,$Input3": {}
+                },
+                "HLD is the risk fact for ACS$Cause_1": {
+                    "HLD$Input3": {}
+                },
+                "former smoker is the risk fact for ACS$Cause_1": {
+                    "former smoker$Input3": {}
+                },
+                "Obesity is the risk fact for ACS$Cause_1": {
+                    "Obesity$Input3": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "ECG\uff1anon-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "HTN is the risk fact for ACS$Cause_1": {
+                    "HTN,$Input3": {}
+                },
+                "HLD is the risk fact for ACS$Cause_1": {
+                    "HLD$Input3": {}
+                },
+                "former smoker is the risk fact for ACS$Cause_1": {
+                    "former smoker$Input3": {}
+                },
+                "Obesity is the risk fact for ACS$Cause_1": {
+                    "Obesity$Input3": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "PCIs (following MI, RCA stent are the risk facts for ACS$Cause_1": {
+                    "He is a 66 yr old male with known CAD s/p multiple PCIs (following MI, RCA stent, 2 RCA stents on.$Input2": {}
+                },
+                "Chest pain is a symptom of ACS.$Cause_1": {
+                    "He reports an episode of dull substernal chest pain 2 days ago when he was out shopping with his wife.$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS$Cause_1": {
+                        "Chest Pain$Input1": {}
+                    },
+                    "HTN is the risk fact for ACS$Cause_1": {
+                        "HTN,$Input3": {}
+                    },
+                    "HLD is the risk fact for ACS$Cause_1": {
+                        "HLD$Input3": {}
+                    },
+                    "former smoker is the risk fact for ACS$Cause_1": {
+                        "former smoker$Input3": {}
+                    },
+                    "Obesity is the risk fact for ACS$Cause_1": {
+                        "Obesity$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest Pain\n",
+    "input2": "He is a 66 yr old male with known CAD s/p multiple PCIs (following MI, RCA stent, 2 RCA stents on. Of note, pt is s/p negative nuclear stress testing and coronary angiography. He reports an episode of dull substernal chest pain 2 days ago when he was out shopping with his wife. He reports that the pain seemed to radiate to the back b/w the scapulae and worsened with breathing but denies other assoc symptoms other than slight dyspnea. Pain lasted for approx 30 min- pt reports \"nearly passing out\" when taking sublingual nitroglycerin. Of note, at baseline pt reports substernal chest pain at its worst lasting min- he notes that this baseline pain occasionally occurs at rest and has been present since discharge from last month; he feels that he has had approximately 6 episodes in the last day. \n\nPt saw his PCP yesterday and reported his chest pain from the day before along w/hx of baseline symptoms, and was subsequently referred. Pt was afebrile, BP 158/80, HR 56, RR 18, SaO2 98% RA. Work-up yielded Troponin I x3 <0.015 (<0.046 ng/mL), CPK-MB 2.6 (0.5-3.6 ng/mL), EKG showed normal sinus rhythm, CXR showed no acute cardiopulmonary process.\n",
+    "input3": "+Cardiac Risk Factors: \n+HTN, \n+HLD, \n+former smoker \n+CAD s/p multiple PCIs: following MI, RCA stent, 2 RCA stents.\n+Pulmonary hypertension\n+Mitral valve regurgitation\n+psoriatic arthritis (denies any medical management)\n+Obesity\n+Scarlet fever as a child\n+Bilateral cataracts s/p cataract surgery\n+Bladder cancer , s/p surgery + chemotherapy\n+S/P hernia repair\n+s/p fracture left shoulder, s/p ORIF\n+Persistent hip pain, left\n",
+    "input4": "-Father died, hx of ETOH overconsumption\n-Mother died when pt was young, reportedly from complications assoc w/gestational diabetes\n-No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death\n",
+    "input5": "ADMISSION\nT 97.8F, BP 124/68, HR 50, RR 18, SaO2 99% RA. \nPleasant elderly man resting comfortably in bed, no acute distress\nHEENT: NCAT. Pupils slightly asymmetric, pupillary light reflex not appreciable prior cataract surgery); pt wearing blue-colored contact lenses. Conjunctiva pink, sclera anicteric, moist mucous membranes. Patient wearing partial upper and lower dentures.\nNeck: supple, no JVD\nCV: RRR, HS 1 and 2 audible on auscultation, no m/r/g\nLungs: CTAB \nAbdomen: soft, nontender, non-distended, BS+\nExt: 2+ distal pulses in upper and lower extremities \nbilaterally. Scars on ulnar aspect L forearm (reported to be psoriasis)\nNeuro: A&O x3, cranial nerves II to XII grossly intact. strength in upper and lower extremities bilaterally\n",
+    "input6": "___ 07:45AM BLOOD ___\n___ 04:30PM BLOOD Plt ___\n___ 07:45AM BLOOD Glucose-100 UreaN-17 Creat-1.0 Na-139 K-4.1 Cl-104 HCO3-28 AnGap-11\n___ 04:30PM BLOOD Na-140 K-4.1 Cl-105\n___ 04:30PM BLOOD cTropnT-<0.01\n\nECG\uff1anon-ST-elevation\n"
+}

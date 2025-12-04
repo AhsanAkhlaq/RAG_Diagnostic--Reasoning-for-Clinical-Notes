@@ -1,0 +1,56 @@
+{
+    "Bacterial Pneumonia$Intermedia_4": {
+        "Sputum culture results showed multiple microorganisms consistent with Streptococcus pneumoniae, directly indicating Streptococcus pneumoniae infection.$Cause_1": {
+            "Multiple organisms consistent with Streptococcus pneumoniae.$Input6": {}
+        },
+        "Pneumonia$Intermedia_3": {
+            "An elevated white blood cell count usually indicates the presence of infection or inflammation, which is a common clinical manifestation of pneumonia.$Cause_1": {
+                "WBC-11.8$Input6": {}
+            },
+            "This is a typical radiological finding of pneumonia$Cause_1": {
+                "Right lower lobe showing infiltrates.$Input6": {}
+            },
+            "An increased proportion of neutrophils usually indicates an acute infection, especially a bacterial infection, which is consistent with the characteristics of pneumonia.$Cause_1": {
+                "Neuts-85.3$Input6": {}
+            },
+            "Decreased lymphocyte percentage may be due to neutrophilia suppression, which is common in bacterial infections$Cause_1": {
+                "Lymphs-9.3$Input6": {}
+            },
+            "Suspected Pneumonia$Intermedia_2": {
+                "Chills are often the body's response to an infection, especially a respiratory infection like pneumonia$Cause_1": {
+                    "Chills$Input1": {}
+                },
+                "Fatigue is a common symptom among pneumonia patients$Cause_1": {
+                    "fatigue$Input1": {}
+                },
+                "Cough is a direct manifestation of lung disease, especially in pneumonia$Cause_1": {
+                    "cough$Input1": {}
+                },
+                "Deep fatigue, myalgia, anorexia, and unproductive cough are common symptoms of pneumonia$Cause_1": {
+                    "profound fatigue, myalgias, anorexia, and non-productive cough$Input2": {}
+                },
+                "Chills and occasional high fever and shaking indicate possible infection, and very poor appetite is also a common sign of infectious disease.$Cause_1": {
+                    "had chiils, occasional rigors, and very poor apetite$Input2": {}
+                },
+                "A past history of pneumonia may increase the risk of developing it again$Cause_1": {
+                    "Had PNA once$Input2": {}
+                },
+                "High fever is important indicators of pneumonia$Cause_1": {
+                    "febrile to 102.9$Input2": {}
+                },
+                "Increased heart rate is important indicators of pneumonia$Cause_1": {
+                    "HR=107$Input2": {}
+                },
+                "Chills, a common symptom of infection, especially pneumonia$Cause_1": {
+                    "Having rigors$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Chills, fatigue, cough\n",
+    "input2": "He is 61 yo retired colonel developed profound fatigue, myalgias, anorexia, and non-productive cough three days ago. Since then has had chiils, occasional rigors, and very poor apetite. Has not been eating or drinking well for the past 3 days. Denies shortness of breath or pain. No GI symptoms. No HA, visual changes, neurologic symptoms. Has chronic post-nasal drip and sinus drainage. Had PNA once. ROS: all other systems negative x \"feeling very cold\", with chills during my examination.\n\nNo sick contacts at home. Did receive influenza vaccination this season.\n\nIn ED, he was febrile to 102.9, HR=107, BP=135/78 RR=18 SaO2=96% RA\n",
+    "input3": "+CAD- S/P MI with stent (type of stent not known)\n+Hyperlipidemia\n+PUD - bleeding ulcer\n+Gastric hamartoma\n",
+    "input4": "+Family History:\n+Mother deceased in heart failure\n+One brother - schizophrenia\n+One sister-epilepsy\n+Two biological sons - both healthy\n",
+    "input5": "Very pleasant gentleman. Having rigors. No respiratory distress.\nT=99.9  BP=121/79  HR=96 RR=18  SaO2=99%RA\nHEENT - dry mucous membranes, otherwise negative\nNeck-no JVD, no adenopathy, no carotid bruits, 2+ carotids\nLungs-CTAB\nCV-RR, no m/r/g\nAbd-soft, NT, ND, NABS\nExtr-no edema, well-perfused.\nSkin-good turgor, no rashes.\nNeuro - negative screening examination. A&O xe. Speech normal.\n",
+    "input6": "___ 12:35PM BLOOD WBC-11.8* RBC-4.67 Hgb-16.0 Hct-43.2 MCV-93 MCH-34.3* MCHC-37.1* RDW-14.4 Plt ___\n___ 12:35PM BLOOD Neuts-85.3* Lymphs-9.3* Monos-4.6 Eos-0.1Baso-0.6\n___ 12:35PM BLOOD ___ PTT-27.3 ___\n___ 12:35PM BLOOD Glucose-151* UreaN-24* Creat-1.5* Na-131* K-4.1 Cl-96 HCO3-23 AnGap-16\n___ 12:35PM BLOOD cTropnT-<0.01\n___ 12:42PM BLOOD Lactate-1.8\n___ 07:45AM BLOOD WBC-6.8 RBC-4.37* Hgb-14.6 Hct-40.3 MCV-92 MCH-33.5* MCHC-36.3* RDW-13.5 Plt ___\n___ 07:45AM BLOOD ___ PTT-28.8 ___\n___ 07:45AM BLOOD Glucose-164* UreaN-16 Creat-1.2 Na-133 K-3.8 Cl-100 HCO3-29 AnGap-8\n___ 07:45AM BLOOD ALT-31 AST-47* LD(LDH)-343* AlkPhos-55 TotBili-1.1\n___ 07:45AM BLOOD Albumin-3.7 Calcium-8.2* Phos-1.9* Mg-2.1 Iron-21*\n\nCHEST X RAY ___:\nRight lower lobe showing infiltrates.\n\nMICROBIOLOGY:\n1. Sputum Culture from ___ (per report)\nMultiple organisms consistent with Streptococcus pneumoniae.\n"
+}

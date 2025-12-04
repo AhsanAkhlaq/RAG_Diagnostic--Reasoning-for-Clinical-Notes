@@ -1,0 +1,21 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "Oesophagitis\uff08LA grades B\uff09 is the gold standard for the diagnosis of gastro-oesophageal reflux \rdisease.$Cause_1": {
+            "endoscopy\uff1aoesophagitis\uff08LA grades B\uff09 chronic gastritis$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Heartburn and reflux are the typical symptom of gastro-oesophageal reflux \rdisease.$Cause_1": {
+                "Heartburn/reflux sx not responding to both omeprazole and ranitidine.$Input2": {}
+            },
+            "Reflux is a typical symptom of gastro-oesophageal reflux \rdisease.$Cause_1": {
+                "Today he reports the he is constantly bothered by reflux, constantly clearing his throat. He wakes up at night with choking feeling, and sour taste in mouth.$Input2": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "A patient with a disease and atrial fibrillation with small streaks of blood in his phlegm. Bronch by IP BAL: NEGATIVE FOR MALIGNANT CELLS Heartburn/reflux sx not responding to both omeprazole and ranitidine. He is referred for surgery.\nToday he reports the he is constantly bothered by reflux, constantly clearing his throat. He wakes up at night with choking feeling, and sour taste in mouth. He sleeps with HOB elevated. Otherwise denies dyspnea, cough, midsternal pain, dysphagia, early satiety, abd bloating, wt loss,  hemoptysis, fevers, chills, night sweats. He denies alcohol, caffeine, or chocolate intake and he will not eat past 6p at night. No other concerning symptoms.\n",
+    "input3": "+Hypertension  \n+Neuropathy\n",
+    "input4": "None reported\n",
+    "input5": "Vitals: ___ 0801 Temp: 98.0 PO BP: 135/70 R Lying HR: 53\nRR: 14 O2 sat: 97% O2 delivery: Ra \nGen: [x] NAD, [] AAOx3  \nCV: [x] RRR, [] murmur  \nResp: [x] breaths unlabored, [] CTAB, [] wheezing, [] rales Abdomen: [x] soft, [] distended, [] tender, [] rebound/guarding \nWound: [x] incisions clean, dry, intact  \nExt: [x] warm, [] tender, [] edema\n",
+    "input6": "04:08AM BLOOD WBC-10.6* RBC-4.33* Hgb-12.0* Hct-37.5* \nMCV-87 MCH-27.7 MCHC-32.0 RDW-17.3* RDWSD-55.0* Plt\n04:08AM BLOOD Glucose-112* UreaN-11 Creat-0.9 Na-138 \nK-5.0 Cl-100 HCO3-26 AnGap-12\nendoscopy\uff1aoesophagitis\uff08LA grades B\uff09 chronic gastritis\r\n"
+}

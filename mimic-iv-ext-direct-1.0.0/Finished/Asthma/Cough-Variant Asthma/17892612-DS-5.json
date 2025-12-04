@@ -1,0 +1,41 @@
+{
+    "Cough-Variant asthma$Intermedia_4": {
+        "A long time of non-productive cough is typical symptom of cough-variant asthma.$Cause_1": {
+            "She has been having progressively worsening shortness of breath, non-productive cough, and chest tightness since ending recent prednisone taper 6 days ago$Input2": {}
+        },
+        "Asthma$Intermedia_3": {
+            "She has diagnosed asthma.$Cause_1": {
+                "She has asthma (recently diagnosed)$Input2": {}
+            },
+            "Lower peak flow than bl indicates patient may have chest orr bronchus disease.$Cause_1": {
+                "Peak flow 300L/m (bl 450)$Input5": {}
+            },
+            "Suspected asthma$Intermedia_2": {
+                "A symptom of chest or bronchus disease.$Cause_1": {
+                    "shortness of breath$Input1": {}
+                },
+                "Lower peak flow than baseline indicates patient may have chest or bronchus disease.$Cause_1": {
+                    "Her peak flow was measured at 320 L/m (baseline is 420)$Input2": {}
+                },
+                "Dyspneic is a symptom of chest or bronchus disease.$Cause_1": {
+                    "Patient was dyspneic, but able to speak in full sentences.$Input2": {}
+                },
+                "Patient who has a history of asthma still has a high probability develop asthma.$Cause_1": {
+                    "+Asthma$Input3": {}
+                },
+                "Family history of asthma indicates patient may have high probability of asthma.$Cause_1": {
+                    "Mother:asthma$Input4": {}
+                },
+                "It indicates that atient may have chest or bronchus disease.$Cause_1": {
+                    "somewhat diminished air-movement$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "shortness of breath\n",
+    "input2": "She has asthma (recently diagnosed), G6PD def, and anemia presenting w/ worsening SOB, cough, and chest tightness. Symptoms have been steadily worsening since ending recent prednisone taper 6 days ago. She has been trying nebs at home without improvement. She denies any fevers/chills. Denies leg swelling or pain. States that her first asthma exacerbation was 3 weeks ago. 3 days prior to that she teaches at had farm animals visit. Since then, she has been to the ED several times for worsening chest tightness/SOB. She has been d/c'd from the ED twice with 5-day tapers of prednisone, starting at 20mg, only to have symptoms recur immediately upon cessation of steroids. More recently, after seeing new pulmonologist, she was started on Advair, Singulair, and a prednisone taper, starting at 60mg. This taper ended 6 days ago. Since then she has been having progressively worsening shortness of breath, non-productive cough, and chest tightness. Denies fevers/chills, abdominal pain, nausea, vomiting. States that her DuoNebs at home have been giving partial relief, but only lasting for hours. \n \nIn the ED, initial vitals 98.6 100 114/61 20 100%  \nLabs notable for UA w/ moderate, Pos Nit., 1WBC, Few Bacteria.  \nWBC 4.9, HCT 35.9.  \nBicarb 18, AG 16  \nPhos 1.0  \n\nCXR showed no acute intrathoracic process.  Patient was dyspneic, but able to speak in full sentences. Her peak flow was measured at 320 L/m (baseline is 420)  The pt received duonebs, methylprednisolone, and 1 packet of NeutraPhos.  \nVitals prior to transfer: 99.6 100 113/68 24 99%.  \nCurrently, complains of chest tightness and only mild shortness of breath.  \n \nROS: per HPI, denies fever, chills, night sweats, headache, vision changes, rhinorrhea, congestion, sore throat, shortness of breath, abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, hematuria.\n",
+    "input3": "+Asthma  \n+G6PD deficiency  \n+Anemia\n",
+    "input4": "Mother: G6PD deficiency, asthma, allergic rhinitis  \nSister: eczema\n",
+    "input5": "VS - 98.2 108/60 130 20 99%RA  \nGENERAL - well-appearing young female in NAD, comfortable, appropriate  \nHEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, dry MM, OP clear  \nNECK - supple, no thyromegaly, no JVD  \nLUNGS - CTA bilat, no r/rh/wh, somewhat diminished air-movement, resp unlabored, no accessory muscle use. Peak flow 300L/m (bl 450)  \nHEART - PMI non-displaced, tachycardic, regular rhythm no MRG, nl S1-S2  \nABDOMEN - NABS, soft/NT/ND, no masses or HSM, no rebound/guarding  \nEXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) \nSKIN - no rashes or lesions  \nLYMPH - no cervical, axillary, or inguinal LAD  \nNEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength throughout, sensation grossly intact throughout\n",
+    "input6": "___ 02:40PM BLOOD WBC-4.9 RBC-4.42 Hgb-11.4* Hct-35.9* MCV-81* MCH-25.7* MCHC-31.6 RDW-14.6 Plt ___\n___ 07:55AM BLOOD WBC-8.2# RBC-4.27 Hgb-11.0* Hct-35.1* MCV-82 MCH-25.6* MCHC-31.2 RDW-14.8 Plt ___\n___ 02:40PM BLOOD Neuts-47.1* Lymphs-45.2* Monos-5.8 Eos-1.3 Baso-0.6\n___ 02:40PM BLOOD Glucose-91 UreaN-8 Creat-1.0 Na-137 K-4.9 Cl-103 HCO3-18* AnGap-21\n___ 07:55AM BLOOD Glucose-122* UreaN-9 Creat-0.8 Na-138 K-4.3 Cl-105 HCO3-22 AnGap-15\n___ 02:40PM BLOOD Calcium-9.3 Phos-1.0* Mg-1.9\n___ 07:55AM BLOOD Calcium-9.1 Phos-5.3*# Mg-1.8\n___ 08:00AM BLOOD Phos-3.6#\n___ 07:55AM BLOOD Hapto-123\n___ 08:00AM BLOOD ANCA-PND\n___ 08:00AM BLOOD ___\n___ 09:02PM BLOOD Type-ART pO2-121* pCO2-25* pH-7.44 calTCO2-18* Base XS--4\n\nIMAGING/OTHER STUDIES:\n\nEKG ___: Sinus tachycardia. Otherwise, normal ECG. No previous tracing available for comparison.  \n\nCXR ___: FINDINGS:  PA and lateral views of the chest provided demonstrate no focal consolidation, effusion, pneumothorax.  The heart and mediastinal contours are normal.  Bony structures are intact.  No free air below the right hemidiaphragm.\n"
+}

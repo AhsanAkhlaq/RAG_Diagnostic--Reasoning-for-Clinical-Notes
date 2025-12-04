@@ -1,0 +1,87 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "CK-MB-41* MB Indx-7.2* cTropnT-1.63*$Input6": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "CK-MB-57* MB Indx-8.6* cTropnT-2.08*$Input6": {}
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "There is likely underlying complete heart block with demand ventricular pacing. Findings are similar to tracing #1.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "Patient trying to fall asleep when she developed chest pressure with radiation to back and both shoulders, associated with nausea, and later felt clammy.\n isa sign of acs$Cause_1": {
+                    "Patient trying to fall asleep when she developed chest pressure with radiation to back and both shoulders, associated with nausea, and later felt clammy.$Input2": {}
+                },
+                "Hypertension is a risk factor$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Atrial fibrillation s/p ablation is a risk factor$Cause_1": {
+                    "Atrial fibrillation s/p ablation$Input3": {}
+                },
+                "Bradycardia s/p dual-chamber permanent pacemaker is a risk factor$Cause_1": {
+                    "Bradycardia s/p dual-chamber permanent pacemaker$Input3": {}
+                },
+                "CHF (unknown EF is a risk factor$Cause_1": {
+                    "CHF (unknown EF$Input3": {}
+                },
+                "Asthma (never intubated) is a risk factor$Cause_1": {
+                    "Asthma (never intubated)$Input3": {}
+                },
+                "Hypothyroidism is a risk factor$Cause_1": {
+                    "Hypothyroidism$Input3": {}
+                },
+                "Anxietyis a risk factor$Cause_1": {
+                    "Anxiety$Input3": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "with atrial fibrillation status post ablation, heart block s/p pacemaker (with EF at most 40%, per pt report) presents with gradual onset of substernal chest pressure that radiates to her back.$Input2": {}
+                },
+                "The atrial flutter waves are more defined. is a strongly sign of acs$Cause_1": {
+                    "EKG: The atrial flutter waves are more defined.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest Pain is a symptom of ACS.$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "Patient trying to fall asleep when she developed chest pressure with radiation to back and both shoulders, associated with nausea, and later felt clammy.\n isa sign of acs$Cause_1": {
+                        "Patient trying to fall asleep when she developed chest pressure with radiation to back and both shoulders, associated with nausea, and later felt clammy.$Input2": {}
+                    },
+                    "Hypertension is a risk factor$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Atrial fibrillation s/p ablation is a risk factor$Cause_1": {
+                        "Atrial fibrillation s/p ablation$Input3": {}
+                    },
+                    "Bradycardia s/p dual-chamber permanent pacemaker is a risk factor$Cause_1": {
+                        "Bradycardia s/p dual-chamber permanent pacemaker$Input3": {}
+                    },
+                    "CHF (unknown EF is a risk factor$Cause_1": {
+                        "CHF (unknown EF$Input3": {}
+                    },
+                    "Asthma (never intubated) is a risk factor$Cause_1": {
+                        "Asthma (never intubated)$Input3": {}
+                    },
+                    "Hypothyroidism is a risk factor$Cause_1": {
+                        "Hypothyroidism$Input3": {}
+                    },
+                    "Anxietyis a risk factor$Cause_1": {
+                        "Anxiety$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "with atrial fibrillation status post ablation, heart block s/p pacemaker (with EF at most 40%, per pt report) presents with gradual onset of substernal chest pressure that radiates to her back. Patient trying to fall asleep when she developed chest pressure with radiation to back and both shoulders, associated with nausea, and later felt clammy. Pressure was ongoing from 9:30PM, unrelieved by SLNTG x 3 in ambulance, and finally subsided after morphine 5mg given ~1AM in ED. The only other time she has had this kind of chest pressure, when a catheterization showed \"no obstructions or clots.\"  Patient denies any shortness of breath, vomiting, abdominal pain, fevers, chills, cough. Patient did have a recent car trip.\n",
+    "input3": "+ Hypertension\n+ Dyslipidemia\n+ Atrial fibrillation s/p ablation\n+ Bradycardia s/p dual-chamber permanent pacemaker\n+ Bilateral subdural hematoma while on warfarin for Afib, s/p \ncraniotomy\n+ CHF (unknown EF)\n+ Asthma (never intubated)\n+ Carcinoid s/p proximal colon and appendix resection\n+ Temporal arteritis\n+ Diverticulitis c/b abscess, s/p resection\n+ Hypothyroidism\n+ Anxiety\n",
+    "input4": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.\n",
+    "input5": "ADMISSION\nVS: 97.6  159/86-170/93  72  14  94%RA\nGeneral: WDWN woman appearing stated age in no distress\nHEENT: MMM, OP clear  \nNeck: no JVD appreciated  \nCV: RRR, nl S1, loud S2, no murmur appreciated\nLungs: trace inspiratory crackles and faint expiratory wheeze on left\nAbdomen: soft, NT, normoactive BS, vertical scar below umbilicus\nGU: no foley\nExt: warm, no edema  \nNeuro: Pt with slight droop of left face, however appears normal to her husband. nerve strength equal bilaterally. \nstrength in  upper and lower compartments bilaterally. \nSkin: no rashes noted\nPULSES: 2+ DP pulses\n",
+    "input6": "ADMISSION LABS\n01:25AM BLOOD WBC-10.2 RBC-4.33 Hgb-13.0 Hct-39.9 \nMCV-92 MCH-30.0 MCHC-32.6 RDW-13.2\n01:25AM BLOOD Neuts-79.6* Lymphs-12.4* Monos-3.4 \nEos-3.7 Baso-0.9\n01:25AM BLOOD Glucose-167* UreaN-25* Creat-1.0 Na-136 \nK-3.8 Cl-100 HCO3-25 AnGap-15\n07:10AM BLOOD Calcium-9.3 Phos-4.1 Mg-2.0\n01:25AM BLOOD cTropnT-<0.01\n07:10AM BLOOD cTropnT-0.14*\n02:44PM BLOOD CK-MB-57* MB Indx-8.6* cTropnT-2.08*\n09:56PM BLOOD CK-MB-41* MB Indx-7.2* cTropnT-1.63*\n07:40AM BLOOD CK-MB-24* MB Indx-6.0 cTropnT-1.11*\n07:40AM BLOOD Cholest-111\n07:40AM BLOOD HDL-41 CHOL/HD-2.7\n03:10PM BLOOD %HbA1c-6.1* eAG-128*\n07:40AM BLOOD TSH-4.1\n\ufeff\nEKG: Extensive baseline artifact precludes accurate rhythm identification. It is a ventricularly paced rhythm and the atrial mechanism appears to be an atrial flutter versus tachycardia with variable block. No previous tracing available for comparison.\n\ufeff\nEKG: The atrial flutter waves are more defined. The ventricular rhythm remains paced given the regular ventricular rate of 65 beats per minute. There is likely underlying complete heart block with demand ventricular pacing. Findings are similar to tracing #1.\n\ufeff\nCXR: FINDINGS:  Portable upright frontal view of the \nchest.  A dual-chamber cardiac pacer is present.  There is moderate \ncardiomegaly, and an unfolded, slightly tortuous aorta.  There are coarse increased interstitial markings throughout both lung bases, consistent with mild interstitial edema. There is no overt pulmonary edema. lines are noted and could reflect chronic CHF. Increased retrocardiac density may represent a combination of atelectasis and CHF findings.  No definite focal consolidation. No pleural effusion or pneumothorax is detected.   Incidental note made of soft tissue anchor over left humeral head.\n"
+}

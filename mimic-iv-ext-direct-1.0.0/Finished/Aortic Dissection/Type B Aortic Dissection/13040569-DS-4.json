@@ -1,0 +1,27 @@
+{
+    "Type B Aortic Dissection$Intermedia_3": {
+        "The CT scan results showed that the aortic dissection extended from the left subclavian artery to the iliac artery, indicating that the aortic dissection had a large extension, but did not extend to the ascending aorta. This is the key basis for diagnosing Type B Aortic Dissection.$Cause_1": {
+            "CT SCAN showing extending from L sblcv artery all the way down to both iliacs$Input2": {}
+        },
+        "The CT scan results showed that the aortic dissection extended from the left subclavian artery to the iliac artery, indicating that the aortic dissection had a large extension, but did not extend to the ascending aorta. This is the key basis for diagnosing Type B Aortic Dissection$Cause_1": {
+            "originating just at the level of the origin of the left subclavian and extending through the entire descending thoracic aorta, the abdominal aorta, and both common iliac arteries.$Input6": {}
+        },
+        "Suspected Aortic Dissection$Intermedia_2": {
+            "Back pain is one of the common symptoms of aortic dissection.$Cause_1": {
+                "Back pain$Input1": {}
+            },
+            "Back pain is also an important symptom of aortic dissection$Cause_1": {
+                "c/o CP and back pain$Input2": {}
+            },
+            "Labetalol is a drug commonly used to control high blood pressure, a risk factor for aortic dissection.$Cause_1": {
+                "given labetalol$Input2": {}
+            }
+        }
+    },
+    "input1": "Back pain\n",
+    "input2": "37 y/o chinese speaking only, on family visit. Reports falling yesterday afternoon in restroom. Pt is poor historian but he denied CP, SOB, seizure or LOC before or after fall. c/o CP and back pain today that prompted ER visit to OSH where CXR was done, then a CT SCAN showing extending from L sblcv artery all the way down to both iliacs. Was given labetalol during transport and in ER. Denies any prior medical problems, but no PCP visit for \"a while\". pt reports no extremity weakness in ER.\n",
+    "input3": "Denies\n",
+    "input4": "Denies\n",
+    "input5": "Pulse: 67 Resp:  O2 sat: 98\nB/P  Right: 115/78   Left: 112/80\nHeight:     Weight:\n\nGeneral: relatively comfortable\nSkin: Dry [x] intact []\nHEENT: PERRLA [] EOMI [x]\nNeck:  Supple [x] Full ROM []\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds + []\nExtremities: Warm [x], well-perfused [x]  Edema Varicosities:\nNeuro: Grossly intact, moves 4 ext, R handed. follows commands\nPulses:\nFemoral      Right:   Left:\nDP           Right: +  Left: +\nRadial       Right: +  Left: +\nCarotid Bruit        Right: -   Left: -\n",
+    "input6": "___ CT Scan Chest\n1. Aortic dissection as described above originating just at the level of the origin of the left subclavian and extending through the entire descending thoracic aorta, the abdominal aorta, and both common iliac arteries. The SMA, celiac axis, and both renal arteries all originate from the true lumen with no flap visualized. Good opacification of both true and false lumens. Aneurysmal dilation of the descending abdominal aorta most prominent just at the bifurcation with associated thrombus formation up to 5.8 x 5.5 cm. \n  \n2. Cirrhosis of the liver with sequelae of portal hypertension such as recanalization of the umbilical vein and gastroepiploic varices. \n\n\n___ 05:45AM BLOOD WBC-5.6 RBC-3.88* Hgb-13.4* Hct-37.5* MCV-97 MCH-34.5* MCHC-35.7* RDW-13.9 Plt ___\n___ 05:45AM BLOOD Glucose-89 UreaN-21* Creat-0.9 Na-139 K-4.1 Cl-103 HCO3-24 AnGap-16\n"
+}

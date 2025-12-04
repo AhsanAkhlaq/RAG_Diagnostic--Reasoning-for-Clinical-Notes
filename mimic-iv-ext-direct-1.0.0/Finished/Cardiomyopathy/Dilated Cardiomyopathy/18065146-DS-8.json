@@ -1,0 +1,39 @@
+{
+    "Dilated Cardiomyopathy$Intermedia_3": {
+        "abnormal rhythms of ECG can be a sign of Dilated Cardiomyopath$Cause_1": {
+            "CV: tachy, reg rhythm, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.$Input5": {}
+        },
+        "Mild-to-moderate cardiomegaly can be a sign of Dilated Cardiomyopath$Cause_1": {
+            "Mild-to-moderate cardiomegaly.$Input6": {}
+        },
+        "Abnormal rhythms of ECG can be a sign of Dilated Cardiomyopath$Cause_1": {
+            "Left ventricular hypertrophy with secondary repolarization abnormalities.$Input6": {}
+        },
+        "LVEF = 20 % ios a sign of Dilated Cardiomyopath$Cause_1": {
+            "There is severe global left ventricular hypokinesis (LVEF = 20 %).$Input6": {}
+        },
+        "Suspected Cardiomyopathy$Intermedia_2": {
+            "Shortness of breath is a sign of Cardiomyopathy$Cause_1": {
+                "Shortness of breath$Input1": {}
+            },
+            "PMH and HTN are risk facts of Cardiomyopathy$Cause_1": {
+                "70 yo male with PMH of recently diagnosed asthma, HTN presents with shortness of breath for the last 12 weeks.$Input2": {}
+            },
+            "a sign of Cardiomyopathy$Cause_1": {
+                "He experiences SOB x/ day while at work. The SOB is occasionally associated with gasping and pressure at the xiphoid progress.$Input2": {}
+            },
+            "CXR and ECG changes can be a sign of Cardiomyopathy$Cause_1": {
+                "CXR revealed cardiomegaly; ECG showed a strain pattern.$Input2": {}
+            },
+            "family history of hypertension is a risk factor$Cause_1": {
+                "His mother has hypertension and his father died of prostate cancer.$Input4": {}
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "70 yo male with PMH of recently diagnosed asthma, HTN presents with shortness of breath for the last 12 weeks. He has episodes of SOB approximately every 30 minutes while in his apartment, which he relates to mold exposure. He experiences SOB x/ day while at work. The SOB is occasionally associated with gasping and pressure at the xiphoid progress. He experiences orthopnea but not DOE or PND. His PCP treated him with inhalers without relief. He was then given a 3 week course of corticosteroids which ended 2 days ago. \n\nTwo days ago, he reports increased frequency of SOB and new cough. His cough has been mostly non-productive but he did have a few episodes of pink-tinged sputum. He also experienced severe bilateral pedal edema 2 days ago which is now resolved. \n\nIn the ED, In the ED initial vitals were: 7 98.9 ___ 20 100.  CXR revealed cardiomegaly; ECG showed a strain pattern.  Patient was given albuterol/ipratroprium nebs, aspirin 81mg x4, and azithromycin 500mg.  His shortness of breath slightly improved after the neb treatment.  A CXR was down which shows cardiomegaly and right lower lobe hazy opacity.\n\nROS: Negative for recent fevers, chills or rigors, dyspnea on exertion, paroxysmal nocturnal dyspnea, palpitations, syncope or presyncope.\n",
+    "input3": "+Hypertension\n+Asthma \n+Pneumothorax\n+ADD\n",
+    "input4": "There is no family history of premature coronary artery disease, diabetes or sudden death.  His mother has hypertension and his father died of prostate cancer.\n",
+    "input5": "VS: T: 98.1, BP: 139/100, P: 99, RR: 16, 92-100% on RA\nGen: WDWN middle aged male in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. \nNeck: Supple, no JVD.  \nCV: tachy, reg rhythm, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nChest: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, sparse expiratory wheezes\nAbd: Soft, NTND. No HSM or tenderness. \nExt: trace edema over bilateral , radial and DP pulses 2+ bilaterally\n",
+    "input6": "___ 06:50PM BLOOD HIV Ab-NEGATIVE\n___ 07:05AM BLOOD CRP-9.8*\n___ 07:20AM BLOOD ANCA-NEGATIVE B\n___ 05:00AM BLOOD TSH-1.7\n___ 07:20AM BLOOD %HbA1c-6.7* eAG-146*\n___ 07:20AM BLOOD calTIBC-351 Ferritn-17* TRF-270\n___ 07:20AM BLOOD Albumin-3.5 Calcium-8.8 Phos-4.4 Mg-2.1 Iron-36*\n___ 05:00AM BLOOD proBNP-6310*\n___ 05:00AM BLOOD cTropnT-<0.01\n___ 06:50PM BLOOD CK-MB-4 cTropnT-<0.01\n___ 07:20AM BLOOD ALT-36 AST-22 LD(LDH)-203 AlkPhos-72 TotBili-0.7\n___ 05:00AM BLOOD Glucose-144* UreaN-17 Creat-1.5* Na-139 K-3.7 Cl-104 HCO3-26 AnGap-13\n___ 07:05AM BLOOD Glucose-105* UreaN-13 Creat-1.4* Na-141 K-4.1 Cl-104 HCO3-30 AnGap-11\n___ 05:00AM BLOOD ___ PTT-26.5 ___\n___ 05:00AM BLOOD Neuts-62.7 ___ Monos-6.1 Eos-6.9* Baso-0.5\n___ 07:20AM BLOOD Neuts-58.3 ___ Monos-6.3 Eos-8.2* Baso-0.3\n___ 07:05AM BLOOD Neuts-56.3 ___ Monos-8.0 Eos-7.6* Baso-0.3\n___ 05:00AM BLOOD WBC-6.9 RBC-4.73 Hgb-11.8* Hct-37.6* MCV-80* MCH-25.0* MCHC-31.4 RDW-16.2* \n___ 07:05AM BLOOD WBC-5.8 RBC-4.55* Hgb-11.7* Hct-35.8* MCV-79* MCH-25.7* MCHC-32.6 RDW-16.0*\n\nCXR ___: \n1. Right lower lobe hazy opacity, could represent early pneumonia. \n2. Mild-to-moderate cardiomegaly. \n\nECG: ___: \nLeft ventricular hypertrophy with secondary repolarization abnormalities.  \n\nECHO ___:\nThe left atrium is moderately dilated. The right atrium is moderately dilated. The estimated right atrial pressure is ___ mmHg. There is mild symmetric left ventricular hypertrophy. The left ventricular cavity is moderately dilated.There is severe global left ventricular hypokinesis (LVEF = 20 %). Systolic function of apical segments is relatively preserved and there is no apical aneurysm. No masses or thrombi are seen in the left ventricle. Right ventricular chamber size is mildly incresaed with severe global free wall hypokinesis. The aortic root is moderately dilated at the sinus level. The ascending aorta is moderately dilated. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis. Trace aortic regurgitation is seen. The mitral valve leaflets are structurally normal. There is no mitral valve prolapse. Moderate (2+) mitral regurgitation is seen. There is at least mild pulmonary artery systolic hypertension. There is a trivial/physiologic pericardial effusion. \n\nIMPRESSION: Biventricular cavity enlargement and global hypokinesis c/w diffuse process (toxin, metabolic, etc. - cannot fully exclude multivessel CAD but appears to be less likely). Pulmonary artery systolic hypertension. Moderate mitral regurgitation. Dilated ascending aorta.\n"
+}

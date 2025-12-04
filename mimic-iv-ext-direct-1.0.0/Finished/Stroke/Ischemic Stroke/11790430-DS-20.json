@@ -1,0 +1,60 @@
+{
+    "Ischemic Stroke$Intermedia_3": {
+        "Global brain atrophy and small vessel ischemic lesions, which are one of the conditions for the diagnosis of ischemic stroke$Cause_1": {
+            "There is global atrophy and moderately extensive small vessel ischemic disease.$Input6": {}
+        },
+        "The patient suffered a subacute cerebral infarction$Cause_1": {
+            "Subacute infarct involving portions of right internal capsule and right inferior basal ganglia.$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "When a stroke affects the part of the brain that controls speech and mouth movements, it can cause patients to speak unclearly or slurred speech$Cause_1": {
+                "Slurred speech$Input1": {}
+            },
+            "Stroke may cause facial muscle weakness$Cause_1": {
+                "L facial droop$Input1": {}
+            },
+            "Stroke may cause loss of muscle control$Cause_1": {
+                "L arm weakness$Input1": {}
+            },
+            "Age is an important risk factor for stroke$Cause_1": {
+                "70 year old$Input2": {}
+            },
+            "High blood pressure and a history of Parkinson's disease increase stroke risk$Cause_1": {
+                "history of HTN and Parkinsonism$Input2": {}
+            },
+            "Trying to stand but being unable to do so on your own may indicate that your body's coordination or muscle control may be affected$Cause_1": {
+                "He also wanted to stand up, but could not do it on his own$Input2": {}
+            },
+            "The language is ambiguous. This is a warning sign of a stroke and indicates possible damage to the areas of the brain that control language function.$Cause_1": {
+                "developed slurred speech while sitting on the porch$Input2": {}
+            },
+            "The patient's speech function is affected, which is one of the common manifestations of stroke$Cause_1": {
+                "Speech was dysarthric and hypophonic.$Input5": {}
+            },
+            "Partial paralysis of facial muscles, a classic sign of a stroke$Cause_1": {
+                "Prominent left nasolabial fold flattening.$Input5": {}
+            },
+            "Patients have significant motor control impairment, which may be due to damage to certain parts of the brain, such as the basal ganglia.$Cause_1": {
+                "Increased tone in lower>upper extremities.  Cogwheeling with facilitation, L>R. Pronation and drift on left upper extremity.$Input5": {}
+            },
+            "Damage to areas of the brain that process sensory input$Cause_1": {
+                "Decreased sensation to pin prick distally in LEs to mid shin.$Input5": {}
+            },
+            "Atherosclerotic lesions are one of the major risk factors for stroke$Cause_1": {
+                "Atherosclerotic disease$Input6": {}
+            },
+            "Atrial enlargement, especially significant right atrial enlargement, increases the risk of cardioembolic stroke$Cause_1": {
+                "The right atrium is markedly dilated$Input6": {}
+            },
+            "The patient has diabetes, an important risk factor for stroke$Cause_1": {
+                "eAG-140$Input6": {}
+            }
+        }
+    },
+    "input1": "Slurred speech, L facial droop, L arm weakness\n",
+    "input2": "He is an 70 year old right handed man with history of HTN and Parkinsonism, who is transferred from OSH or further evaluation of dysarthria, left facial drop and left sided weakness.  Pt was in his usual state of health today.  At around 5pm, he developed slurred speech while sitting on the porch.  Denies any word finding difficulty, comprehension was intact.  He also wanted to stand up, but could not do it on his own, so he asked his wife to help him.  Pt denies any new onset focal weakness at that time. his wife was unable to help him stand up on her own, so she called a neighbor to help.  She also noticed that the left side of his face was droopy.  When the neighbor came over, they said that He should be immediately take to a hospital for an MRI.  So, wife and neighbor drove patient at the hospital.  Before leaving, she gave him Aspirin 325mg because she had heard in the past. There, a non contrast head CT was obtained which showed diffuse atrophy, white matter disease, but no hemorrhage or acute infarct.  He was transferred to hospital for further evaluation.  \n\ufeff\nPer wife, at baseline, He has gait instability and walks with a walker.  Wife is his primary caretaker.  She states that his left leg is always a little bit weaker than the right and he moves it less for her when she puts on his socks.  Pt is not seen by a neurologist  because he does not want to take the \"dopa medicine\" per his wife.  Apparently, pt's mother in law had terrible side effects from sinemet, so wife does not want He to have to experience that.\n\ufeff\nOn neuro ROS, the pt denies headache, loss of vision, blurred vision, diplopia, dysphagia, lightheadedness, vertigo, tinnitus or hearing difficulty. Denies difficulties comprehending speech. Denies focal weakness, numbness, parasthesiae. No bowel or bladder incontinence or retention. Denies difficulty with gait.\n \nOn general review of systems, the pt denies recent fever or chills.  No night sweats or recent weight loss or gain. Denies cough, shortness of breath.  Denies chest pain or tightness, palpitations.  Denies nausea, vomiting, diarrhea, constipation or abdominal pain.  No recent change in bowel or bladder habits. \nNo dysuria.  Denies arthralgias or myalgias. Denies rash.\n",
+    "input3": "+ HTN\n+ Parkinsonism, not on meds for PD\n+ GERD\n",
+    "input4": "No history of seizures\n",
+    "input5": "Physical Exam:\nVitals: T 98.2 BP 126/60 HR 56 RR 14 O2 96 RA\nGeneral: Awake, cooperative, NAD.\nHEENT: NC/AT, masked facies\nNeck: Supple, no carotid bruits appreciated. No nuchal rigidity\nPulmonary: CTABL\nCardiac: RRR, no murmurs\nAbdomen: soft, nontender, nondistended\nExtremities: no edema, pulses palpated\nSkin: no rashes or lesions noted.\n \nNeurologic:\n-Mental Status: Alert, oriented x 3.  Able to relate history somewhat, but with difficulty, does not know what meds he is not, not sure if he sees a neurologist.  Attentive, able to name backward without difficulty.  Language is fluent with intact repetition and comprehension.  Normal prosody.  There were no paraphasic errors.  Pt. was able to name both high and low frequency objects.  Speech was dysarthric and hypophonic. Able to follow both midline and appendicular commands. Pt. was able to register 3 objects and recall at 5 minutes when given options.  There was no evidence of apraxia.\n-Cranial Nerves:\nI: Olfaction not tested.\nII: PERRL 3 to 2mm and brisk.  VFF to confrontation. \nIII, IV, VI: EOMI (except mildly limited upgaze) without nystagmus.  Saccadic intrusions.\nV: Facial sensation intact to light touch.\nVII: Prominent left nasolabial fold flattening.\nVIII: Hearing intact to finger-rub bilaterally.\nIX, X: Palate elevates symmetrically.\nXI: strength in trapezii and SCM bilaterally.\nXII: Tongue protrudes in midline.\n-Motor: Normal bulk throughout. Increased tone in lower>upper extremities.  Cogwheeling with facilitation, L>R. Pronation and drift on left upper extremity.\nNo adventitious movements, such as tremor, noted. No asterixis noted.\n\ufeff\n-Sensory: No deficits to light touch, cold sensation.  Decreased vibratory sense at halluxes and ankles. Decreased sensation to pin prick distally in LEs to mid shin.  Extinction to DSS on left.\n-DTRs:\nBi Tri xx Pat Ach\nL  2  2    2    2   0\nR  2  2    2    2   0\nPlantar response was mute bilaterally.\n-Coordination: No intention tremor, no dysdiadochokinesia noted. \nNo dysmetria on FNF or HKS bilaterally.\n-Gait: Good initiation. Narrow-based, normal stride and arm swing.  Able to walk in tandem without difficulty. Romberg absent.\n",
+    "input6": "ADMISSION LABS\n09:15AM   CHOLEST-153\n09:15AM   %HbA1c-6.5* eAG-140*\n09:15AM   TRIGLYCER-49 HDL CHOL-42 CHOL/HDL-3.6 LDL(CALC)-101\n03:00AM URINE  COLOR-Yellow APPEAR-Clear \n03:00AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG\n11:26PM   GLUCOSE-203* UREA N-16 CREAT-0.9 SODIUM-140 POTASSIUM-4.0 CHLORIDE-102 TOTAL CO2-28 ANION GAP-14\n11:26PM   estGFR-Using this\n11:26PM   ALT(SGPT)-13 AST(SGOT)-18 ALK PHOS-67 TOT BILI-0.3\n11:26PM   LIPASE-27\n11:26PM   ALBUMIN-4.0\n11:26PM   WBC-11.5* RBC-4.73 HGB-14.8 HCT-41.9 MCV-89 MCH-31.2 MCHC-35.2* RDW-12.8\n11:26PM   NEUTS-79.4* LYMPHS-11.7* MONOS-6.0 EOS-2.2 BASOS-0.6\n11:26PM   PLT COUNT-265\n\ufeff\n09:15AM   %HbA1c-6.5* eAG-140*\n\ufeff\nNCHCT, CTA Head and Neck\n1.  No intracranial hemorrhage or mass effect.  There is global atrophy and moderately extensive small vessel ischemic disease. \n2.  No evidence for arterial dissection, occlusion or hemodynamically significant stenosis. Atherosclerotic disease.   \n\ufeff\nMRI - prelim\nSubacute infarct involving portions of right internal capsule and right inferior basal ganglia. No intracranial hemorrhage. Atrophy and small vessel ischemic disease. \n \nECHO: The left atrium is mildly dilated. The right atrium is markedly dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. There is a very small apical left ventricular aneurysm (vs pseudoaneurysm) without evidence of intracavity thrombus. Overall left ventricular systolic function is normal (LVEF 70%). The right ventricular free wall thickness is normal. Right ventricular chamber size is normal. with borderline normal free wall function. The aortic root is mildly dilated at the sinus level. The aortic valve leaflets are mildly thickened (?#). The aortic valve is not well seen. There is a minimally increased gradient consistent with minimal aortic valve stenosis. Mild (1+) aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion. No atrial septal defect seen on saline contrast injection with maneuvers.  \n\ufeff\n05:30AM BLOOD WBC-9.3 RBC-4.70 Hgb-14.5 Hct-42.4 MCV-90 \nMCH-30.9 MCHC-34.3 RDW-12.6\n"
+}

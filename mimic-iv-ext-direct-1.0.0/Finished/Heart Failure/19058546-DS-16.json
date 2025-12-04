@@ -1,0 +1,49 @@
+{
+    "HFpEF$Intermedia_5": {
+        "LVEF\u226550% is the critiera for HFpEF$Cause_1": {
+            "LVEF>55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strongly suspected heart failure.$Cause_1": {
+                    "proBNP-8013*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "fatigue is a common symptom of heart failure.$Cause_1": {
+                        "fatigue$Input1": {}
+                    },
+                    "Moderate pulmonary hypertension may cause heart failure.$Cause_1": {
+                        "Moderate pulmonary hypertension$Input3": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Common signs of lung congestion associated with heart failure.$Cause_1": {
+                        "CHEST: scattered wheezes, left-sided crackles to midlung, LLL rhonchi, right-sided crackles at base$Input5": {}
+                    },
+                    "pitting edema in lower extremities bilaterally is a common sign of systemic congestion in heart failure.$Cause_1": {
+                        "EXT: trace peripheral edema$Input5": {}
+                    },
+                    "Valvular heart disease is a common cause of heart failure.$Cause_1": {
+                        "Moderate aortic stenosis$Input3": {}
+                    },
+                    "Valvular heart disease is a common cause of heart failure.*$Cause_1": {
+                        "Moderate mitral regurgitation$Input3": {}
+                    },
+                    "The history of Chronic diastolic heart failure suggests that this admission is likely an acute exacerbation of chronic diastolic heart failure$Cause_1": {
+                        "EF >55% echo with normal wall motion$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "fatigue\n",
+    "input2": "She is a female with HTN, MR, AS, severe pulmonary HTN, hypothyroidism presenting with fatigue after recent PNA and CHF exacerbation c/b septic shock requiring intubation and pressors. The patient was discharged after treamtent for her PNA and CHF. Since her hospitalization, she has been living at home (a senior idependant-living residence) and working with physical therapy.  \n\ufeff\n.  \nShe is unable to provide much information in the way of specific symptoms or in terms of describing her fatigue. She simply states she is tired and has noticed that she is unable to complete regular tasks of daily living without extreme fatigue. She denies cough, shortness of breath, nausea, vomiting, abdominal pain. She reports ongoing constipation. She denies fevers or chills. She denies weight gain or weight loss. She denies DOE, orthopnea or PND. She denies chest pain or chest pressure.  The patient's sister is helping with her care and has expressed concern in relation to her sister's fatigue and especially her shortness of breath.  \n.  \nIn the ED, vitals were T 96.7, HR 67, BP 124/68, RR 24, 93% on RA. She had a tmax of 100.6 rectal. She was placed on 2LNC and her o2 sat was 99%. CXR showed LLL infiltrate and she was given Levaquin and Vanco. Abx were stopped by the admitting medicine nightfloat due to infiltrate likely representing resolving PNA from prior hospitalization.  \n\ufeff\n",
+    "input3": "+Thyroid CA s/p thyroidectomy\n+Moderate aortic stenosis\n+Moderate mitral regurgitation \n+Chronic diastolic dysfunction\n+EF >55% echo with normal wall motion\n+Moderate pulmonary hypertension\n+Osteoporosis\n+Hypertension\n+Cataracts\n",
+    "input4": "Non-contributory\n",
+    "input5": "Physical Exam:\nVS: T 95.7 (not hypothermic) 98/56 68 22 98% on 2L  \nGEN: pleasant, frail, moderately kyphotic elderly female lying in bed in NAD  \nHEENT: PERRL, EOMI, no scleral icterus, clear oropharynx  \nNECK: no LAD, JVD to ear, supple  \nCHEST: scattered wheezes, left-sided crackles to midlung, LLL rhonchi, right-sided crackles at base  \nCV: systolic murmur heard throught precordium with radiation to the carotids  \nABD: soft, NT, mildly distended, + bowel sounds  \nEXT: trace peripheral edema\n\nSKIN: intact, no jaundice or rashes  \nNEURO: AxOx3, CNs intact, strength in all 4 extremities, moving all extremities  \nPSYCH: minimal verbal response to interview questions, appropriate eye contact, but somewhat inappropriate affect with seeming inability to describe symptoms or thoughts  \n\ufeff\n",
+    "input6": "___ 06:20PM URINE  HOURS-RANDOM\n___ 06:20PM URINE  GR HOLD-HOLD\n___ 06:20PM URINE  COLOR-Yellow APPEAR-Clear\n___ 06:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-15 BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-NEG\n___ 04:35PM   LACTATE-1.7\n___ 04:25PM   GLUCOSE-116* UREA N-11 CREAT-0.6 SODIUM-132* POTASSIUM-4.3 CHLORIDE-98 TOTAL CO2-25 ANION GAP-13\n___ 04:25PM   estGFR-Using this\n___ 04:25PM   proBNP-8013*\n___ 04:25PM   WBC-7.8 RBC-4.50 HGB-12.4 HCT-39.1 MCV-87# MCH-27.6 MCHC-31.8 RDW-15.4\n___ 04:25PM   NEUTS-74.2* MONOS-5.1 EOS-1.1 BASOS-0.3\n___ 04:25PM   PLT COUNT-412\n\ufeff\nThe left atrium is moderately dilated. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%).\n"
+}

@@ -1,0 +1,47 @@
+{
+    "Bacterial Pneumonia$Intermedia_4": {
+        "The presence of MRSA and Klebsiella, both of which are known causative agents of pneumonia, suggests a possible bacterial infection.$Cause_1": {
+            "Sputum with MRSA bronch: sensitive to Clinda, Tetracycline, Bactrim, Vancomycin, (Resistant to Erythro, Oxacillin, Penicillin, Cefazolin).$Input6": {}
+        },
+        "Pneumonia$Intermedia_3": {
+            "There may be ongoing inflammation or infection in the left lower lobe.$Cause_1": {
+                "CXR showed stable LLL opacities.$Input2": {}
+            },
+            "Tubular opacities in the left lower lobe suggest bronchial tamponade, possibly related to infection$Cause_1": {
+                "Left lower lobe tubular opacities, suggestive of bronchial impaction.$Input6": {}
+            },
+            "Suspected Pneumonia$Intermedia_2": {
+                "SoB is the symptom of Pneumonia$Cause_1": {
+                    "Shortness of breath$Input1": {}
+                },
+                "Coughing without sputum production is one of the common symptoms of pneumonia$Cause_1": {
+                    "nonproductive cough$Input2": {}
+                },
+                "Systemic infection caused by pneumonia may cause patients to feel weak$Cause_1": {
+                    "felt very weak$Input2": {}
+                },
+                "Pleuritic pain is pain caused by inflammation of the lungs that may radiate to the abdomen and back.$Cause_1": {
+                    "pleuritic epigastric and back pain$Input2": {}
+                },
+                "Fever, chills are typical symptoms of infection$Cause_1": {
+                    "fevers, chills$Input2": {}
+                },
+                "A high fever is a common symptom of pneumonia and may indicate an infection.$Cause_1": {
+                    "102.5$Input2": {}
+                },
+                "A squeaking sound in the right lower lobe of the lung, which may be a sign of local airway inflammation or infection$Cause_1": {
+                    "squeaks in RLL$Input5": {}
+                },
+                "Scattered wheezing, which usually indicates increased airway secretions or airway obstruction, often with pneumonia$Cause_1": {
+                    "diffuse rhonchi$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "On ___, he developed a nonproductive cough, which was progressively worsened.  He denies any SOB.  He felt very weak on ___.  He was diagnosed with pneumonia in the ED yesterday, sent home on zpack.  He did not feel any better.  He developed pleuritic epigastric and back pain.  No chest pain, palpitations.  He reports fevers, chills.  He had a slight headache on and off.  He had his flu shot this year.  No sick contacts.\n\nIn the ED, initial VS were: 102.5 ___ 16 93%. Exam was notable for diffuse rhochi. Labs were notable for Cr 2.0. CXR showed stable LLL opacities.  The patient received CTX, nebulizers, tylenol. \n \nReview of Systems:  \n(+) Per HPI  \n(-) Denies fever, chills. Denies sinus tenderness, rhinorrhea or congestion. Denies chest pain or tightness, palpitations. Denies nausea, vomiting, diarrhea, constipation, or abdominal pain. No dysuria, urinary frequency. Denies arthralgias or myalgias. Denies rashes. All other review of systems negative.\n",
+    "input3": "1. DM2\n2. HTN\n3. Hyperlipidemia\n4. Rotator cuff repair\n",
+    "input4": "DM2 in mother, sister, and children.\n",
+    "input5": "VS:  96.0, 140/78, 93, 20, 96RA, ___ chest pain\nGen: NAD, AOX3  \nHEENT: PERRL, EOMI, MMM, sclera anicteric, not injected  \nNeck: no LAD, no JVD  \nCardiovascular: RRR normal s1, s2, no murmurs appreciated  \nRespiratory: diffuse rhonchi, squeaks in RLL\nAbd: normoactive bowel sounds, soft, non-tender, non distended\nExtremities: No edema, 2+ DP pulses  \nNEURO: PERRL, EOMI, face symmetric, no tongue deviation  \nIntegument: Warm, moist, no rash or ulceration  \nPsychiatric: appropriate, pleasant, not anxious\n",
+    "input6": "___ 10:20PM   WBC-5.0 RBC-4.07* HGB-11.6* HCT-33.5* MCV-82 \nMCH-28.5 MCHC-34.6 RDW-13.3\n___ 10:20PM   NEUTS-70.0 ___ MONOS-7.0 EOS-3.1 \nBASOS-0.5\n___ 10:20PM   PLT COUNT-189\n___ 10:20PM   GLUCOSE-78 UREA N-29* CREAT-2.0* SODIUM-137 \nPOTASSIUM-3.7 CHLORIDE-102 TOTAL CO2-26 ANION GAP-13\n___ 10:20PM   ___ PTT-26.5 ___\n___ 10:34PM   GLUCOSE-75 LACTATE-1.0\n___ 09:10AM BLOOD WBC-5.3 RBC-4.70 Hgb-13.1* Hct-40.5 \nMCV-86 MCH-27.8 MCHC-32.2 RDW-13.7 Plt ___\n___ 09:10AM BLOOD Glucose-85 UreaN-25* Creat-2.0* Na-140 \nK-3.9 Cl-103 HCO3-28 AnGap-13\n\nCHEST (PA & LAT) Study Date of ___  \nIMPRESSION: Left lower lobe tubular opacities, suggestive of bronchial impaction.\n\nCXR ___: TECHNIQUE: PA AND LATERAL CHEST RADIOGRAPH: \nCardiac, mediastinal and hilar contours are within normal limits. Retrocardiac opacification may represent atelectasis, however, underlying infectious process cannot be completely \nexcluded. No pleural effusions or pneumothorax. \n\nEKG:  LBBB.  No acute ischemic changes from prior.\n\nSputum with MRSA bronch: sensitive to Clinda, Tetracycline, Bactrim, Vancomycin, (Resistant to Erythro, Oxacillin, Penicillin, Cefazolin).\n\n"
+}

@@ -1,0 +1,30 @@
+{
+    "Paroxysmal Atrial Fibrillation$Intermedia_3": {
+        "The 4-hour ECG monitoring showed no acute events, but there were slight brief pauses (<3 seconds, about 6 times). This brief pause in the heartbeat may be a sign of atrial fibrillation, especially if the patient spontaneously returns to sinus rhythm after admission$Cause_1": {
+            "Telemetry: No acute events on 24 hour telemetry except for some mild <3 second pauses (approximately 6 episodes overnight). Patient spontaneously cardioverted to sinus rhythm the morning after admission.$Input6": {}
+        },
+        "Suspected Atrial Fibrillation$Intermedia_2": {
+            "Drinking alcohol, especially heavy drinking, may trigger atrial fibrillation$Cause_1": {
+                "night of drinking$Input2": {}
+            },
+            "Rapid heartbeat and irregular rhythm are classic symptoms of atrial fibrillation$Cause_1": {
+                "felt his carotid pulse, and noticed that his heart was beating extremely fast, and with an irregular rhythm$Input2": {}
+            },
+            "Drinking alcohol, especially heavy drinking, may trigger atrial fibrillation..$Cause_1": {
+                "had 4 vodkas last night with dinner$Input2": {}
+            },
+            "Significantly increased heart rate is an acute manifestation of atrial fibrillation$Cause_1": {
+                "HR was elevated to 160s$Input2": {}
+            },
+            "Antiarrhythmic drugs are commonly used to control heart rate in atrial fibrillation$Cause_1": {
+                "He was given a drug en route to the ED (unknown drug/dosage), after which his HR apparently decreased.$Input2": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Patient is a 65 man with h/o anxiety with panic attacks who got up to the bathroom yesterday morning at 5:30 am after a night of drinking, and felt lightheaded and nauseous while he was urinating. As he walked back to his bedroom, he slowly syncopized onto the floor, which was witnessed by his wife. He was down for seconds. When he awoke, he felt his carotid pulse, and noticed that his heart was beating extremely fast, and with an irregular rhythm. His heart has beated fast during his past panic attacks (the rhythm is always regular during these attacks. He became extremely anxious at this point, and EMT was called. His wife states she did not notice any dysarthria or facial droop after he awoke. He had no associated diaphoresis, no CP, and no SOB during this episode. Of note, patient had 4 vodkas last night with dinner, and has been under increased stress/anxiety recently with the birth of preterm son, currently in the NICU. Pt visited his son last night at 6PM before he went out for dinner/drinks.\n    \nOn EMT arrival, HR was elevated to 160s, bp was normal per pt report. He was given a drug en route to the ED (unknown drug/dosage), after which his HR apparently decreased. \n",
+    "input3": "+Anxiety with panic attacks\n+Various arthroscopy procedures.\n+Left inguinal hernia, asymptomatic and monitered by PCP.\n",
+    "input4": "Father had 4x-bypass, paternal uncle had heart attack, mother and 3 siblings in good health.\n",
+    "input5": "Vitals: 99.2, 112/70, HR 90, RR 16, 95% RA`\nGeneral: in NAD, sitting in bed with wife at side. Not \ncomplaining of palpitations or chest pain.\nHEENT: Nonicteric PERRL, OP clear. No palpable LAD.\nNeck: JVP not elevated. No carotid bruits. Thyroid elevation normal, with no physical exam findings suggestive of enlarged thyroid\nHeart: RRR, no m/r/g. PMI non-displaced.\nLungs: CTA bilaterally\nAbdomen: Soft, NTND. No hepatomegaly or splenomegaly. No \nascites.\nExtremities: Good ROM and full strength throughout. No \nperipheral edema.\nNeuro: CN II-XII tested and intact, however patient does have lateral gaze nystagmus in right eye.\n",
+    "input6": "___ 07:30AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG\n___ 07:30AM BLOOD Calcium-9.3 Phos-2.2* Mg-2.1\n___ 07:29AM BLOOD Calcium-9.3 Phos-3.7 Mg-2.3\n___ 07:30AM BLOOD cTropnT-<0.01\n___ 02:50PM BLOOD cTropnT-<0.01\n___ 09:30PM BLOOD CK-MB-NotDone cTropnT-<0.01\n___ 07:30AM BLOOD CK(CPK)-78\n___ 02:50PM BLOOD CK(CPK)-70\n___ 09:30PM BLOOD CK(CPK)-72\n___ 07:30AM BLOOD Glucose-116* UreaN-18 Creat-0.6 Na-141 K-3.2* Cl-105 HCO3-22 AnGap-17\n___ 07:29AM BLOOD Glucose-96 UreaN-15 Creat-0.9 Na-142 K-4.6 Cl-107 HCO3-26 AnGap-14\n___ 07:30AM BLOOD WBC-7.2 RBC-5.29 Hgb-15.6 Hct-43.9 MCV-83 MCH-29.5 MCHC-35.5* RDW-13.6 Plt ___\n___ 07:30AM BLOOD Neuts-77.0* Bands-0 Lymphs-16.1* Monos-3.9 Eos-1.9 Baso-1.1\n___ 07:29AM BLOOD WBC-7.5 RBC-5.29 Hgb-15.8 Hct-44.8 MCV-85 MCH-29.9 MCHC-35.3* RDW-13.7\n___ 07:29AM BLOOD TSH-PND\n.\nTelemetry: No acute events on 24 hour telemetry except for some mild <3 second pauses (approximately 6 episodes overnight). Patient spontaneously cardioverted to sinus rhythm the morning after admission.\n\nImaging studies:\n___ CXR: Cardiac silhouette is within normal limits. Mediastinal contour and lung parenchyma show no abnormalities. Extrathoracic soft tissues and osseous structures are unremarkable.\n"
+}

@@ -1,0 +1,38 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "The right heart has not been significantly affected, and submassive PE is ruled out.$Cause_1": {
+            "The main and right pulmonary arteries are normal in caliber, and there is no evidence of right heart strain.$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "The presence of abnormal material in the pulmonary artery system, which may be a blood clot. This is a typical symptom of pulmonary embolism$Cause_1": {
+                "Filling defects within the pulmonary arterial system are noted in all segmental arteries with the exception of the left upper lobe artery, compatible with widespread bilateral pulmonary emboli.$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "A common symptom of PE$Cause_1": {
+                    "Shortness of breath$Input1": {}
+                },
+                "If the INR value is not maintained within the therapeutic range, the risk of thrombosis may increase, which may in turn induce or aggravate pulmonary embolism.$Cause_1": {
+                    "problems maintaining his INR in the threperutic range throughout this time$Input2": {}
+                },
+                "Antiphospholipid syndrome is an autoimmune disease in which abnormal antibodies in the body increase the risk of blood clots.$Cause_1": {
+                    "dx with anti-phospholipid syndrome$Input2": {}
+                },
+                "Pleuritic pain usually manifests as sharp pain when breathing and is one of the typical symptoms of pulmonary embolism$Cause_1": {
+                    "continuous pleuritic pain with inhalation$Input2": {}
+                },
+                "A risk of PE$Cause_1": {
+                    "DVT$Input3": {}
+                },
+                "Family history of DVT increase the risk of PE$Cause_1": {
+                    "mother w/ DVT, CVA x2, grandmother w/ DVT$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "Pt has been on coumadin as outpatient, also dx with anti-phospholipid syndrome at that admission. Reports that there were problems maintaining his INR in the threperutic range throughout this time. INR was usual between 1.7 and 1.9 for much of the period. Reports that there was one instance when INR was at 2.7 and at that time he was instructed to reduce his coumadin dosage. Current coumadin dose is 10mg PO DAILY.  \n.  \nHe has adjusted to this by reducing his activity substantially. Pt also reports continuous pleuritic pain with inhalation  to present.\n",
+    "input3": "DVT\n",
+    "input4": "mother w/ DVT, CVA x2, grandmother w/ DVT\n",
+    "input5": "Physical Exam:\nafebrile, normotensive, satting well on room air \nGEN: NAD, awake, alert  \nHEENT: EOMI, PERRL, sclera anicteric, conjunctivae clear, OP moist and without lesion  \nNECK: Supple, no JVD  \nCV: Reg rate, normal S1, S2. No m/r/g.  \nCHEST: Resp were unlabored, no accessory muscle use. CTAB, no \ncrackles, wheezes or rhonchi.  \nABD: Soft, NT, ND, no HSM  \nEXT: No c/c/e  \nSKIN: No rash  \n\ufeff\n",
+    "input6": "CBC: \n___ 12:09AM BLOOD WBC-7.6 RBC-4.86 Hgb-14.7 Hct-41.3 MCV-85 MCH-30.2 MCHC-35.5* RDW-13.7\n___ 05:27AM BLOOD WBC-5.0 RBC-4.89 Hgb-14.6 Hct-41.2 MCV-84 MCH-29.8 MCHC-35.3* RDW-13.6\n\ufeff\nChemistry: \n___ 12:09AM BLOOD Glucose-100 UreaN-17 Creat-1.2 Na-139 K-4.0 Cl-102 HCO3-27 AnGap-14\n___ 05:27AM BLOOD Glucose-83 UreaN-19 Creat-1.1 Na-139 K-4.1 Cl-103 HCO3-26 AnGap-14\n___ 05:27AM BLOOD Calcium-9.5 Phos-4.6* Mg-2.1\n\ufeff\nECG:\nSinus rhythm. High QRS voltage. Inferolateral ST segment elevation is non-specific. Clinical correlation is suggested. T wave inversions in leads V1-V2 are also non-specific. Cannot exclude right ventricular  volume overload. No previous tracing available for comparison.\n\nFilling defects within the pulmonary arterial system are noted in all segmental arteries with the exception of the left upper lobe artery, compatible with widespread bilateral pulmonary emboli.\n\nThe main and right pulmonary arteries are normal in caliber, and there is no evidence of right heart strain.\n"
+}

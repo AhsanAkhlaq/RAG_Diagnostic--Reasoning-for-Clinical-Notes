@@ -1,0 +1,36 @@
+{
+    "Tuberculosis$Intermedia_3": {
+        "There are necrotic lymph nodes and soft tissue masses in the abdomen and pelvis. This indicates that the TB infection may have spread to other parts of the body, which is typical of disseminated TB.$Cause_1": {
+            "necrotic lymph nodes and soft tissue masses within the abdomen and pelvis$Input2": {}
+        },
+        "Spinal imaging shows osteomyelitis of the T3 to T11 vertebrae. Tuberculous osteomyelitis is an infection of the bones, especially the spine, by tuberculosis bacteria. It is a more serious form of tuberculosis.$Cause_1": {
+            "osteomyelitis from T3-T11 on spinal imaging$Input2": {}
+        },
+        "RIPE is a commonly used tuberculosis drug regimen$Cause_1": {
+            "biopsies from skin and lymph node grew pan-S MTB s/p initiation of RIPE$Input2": {}
+        },
+        "The patient's TB had spread to multiple sites, forming multiple abscesses. Systemic TB is a severe manifestation of active TB that involves multiple non-lung sites.$Cause_1": {
+            "Interval progression of disseminated TB with multiple abscess in several compartments including the left posterior pararenal space, bilateral psoas muscles, pelvis posterior to the rectum, left pelvic sidewall extending along the acetabulum deep to the gluteus maximus muscle.$Input6": {}
+        },
+        "Necrotic lymph nodes are often associated with tuberculosis infection, especially when they occur in multiple locations such as the retroperitoneum, pelvis, and groin.$Cause_1": {
+            "Multiple necrotic retroperitoneal, pelvic, and left inguinal lymph nodes as seen on prior and as described above.$Input6": {}
+        },
+        "Suspected Tuberculosis$Intermedia_2": {
+            "Pott's disease is a form of tuberculosis that affects the spine and is common in patients with active tuberculosis.$Cause_1": {
+                "Pott's disease$Input3": {}
+            },
+            "This is an inflammation of the lymphatic system caused by TB infection and indicates that the patient may have active TB disease$Cause_1": {
+                "TB Lymphangitis$Input3": {}
+            },
+            "Tuberculous dermatosis is usually associated with tuberculous infection of the subcutaneous lymph nodes, which is an outward manifestation of active tuberculosis.$Cause_1": {
+                "Scrofuloderma$Input3": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "The patient has a complex history that led to the diagnosis of disseminated TB. Please refer to ID note from ___ for all details. In summary, he presented to ___ ___ with ___ \nyears of painful, draining skin lesions of his chest, back, and bilateral axilla, previously attributed to hidradenitis suppurtiva. Extensive workup showed extensive areas of nodularity throughout the thorax, necrotic lymph nodes and soft tissue masses within the abdomen and pelvis, and osteomyelitis from T3-T11 on spinal imaging. biopsies from skin and lymph node grew pan-S MTB s/p initiation of RIPE on ___ with a plan for ___ months of therapy. He was subsequently discharged to ___.\n\nReview of Systems:  \n(+) per HPI  \n(-) fever, chills, night sweats, headache, vision changes, \nrhinorrhea, congestion, sore throat, shortness of breath, chest pain, abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, hematuria.\n",
+    "input3": "Pott's disease \nTB Lymphangitis  \nScrofuloderma \ns/p GSW to head ___\ns/p back surgery unspecified ___ years ago\nChronic HBV with low level viremia\n",
+    "input4": "None\n",
+    "input5": "Vitals-  98.7 PO 104 / 69 98 16 99 Ra \nGENERAL: AOx3, NAD\nHEENT: Normocephalic, atraumatic, PERRL, MMM, EOMI\nCARDIAC: RRR, no murmurs, rubs, gallops\nLUNGS: Bronchial breath sounds throughout, no crackles, wheezes, ronchi or rales \nABDOMEN: NABS, soft, non-tender, non-distended\nEXTREMITIES: warm and well perfused, no evidence of peripheral edema, clubbing, cyanosis\nSKIN: two 2-3cm skin ulcers with granulation tissue overlying L clavicle\nNEUROLOGIC: AAOx3, CN II-XII intact, strength ___ RUE, ___ LUE, \n___ RLE, ___ LLE\n",
+    "input6": "___ CT ABDOMEN AND PELVIS WITH CONTRAST:\n1. Interval progression of disseminated TB with multiple abscess in several compartments including the left posterior pararenal space, bilateral psoas muscles, pelvis posterior to the rectum, left pelvic sidewall extending along the acetabulum deep to the gluteus maximus muscle.  See finding section for more detailed description.\n2. Multiple necrotic retroperitoneal, pelvic, and left inguinal lymph nodes as seen on prior and as described above.\n3. Please see separate report performed on the same day for \ndetailed evaluation of the chest.\n\n\n___ CT GUIDED INTERVENTION PROCEDURE:\nPROCEDURE:  CT-guided aspiration of 2 retroperitoneal \ncollection.\n\n \nTECHNIQUE:  The risks, benefits, and alternatives of the \nprocedure were explained to the patient.  After a detailed discussion, informed written consent was obtained.  A pre-procedure timeout using three patient identifiers was performed per ___ protocol.\n \nThe patient was placed in a prone position on the CT scan table. Limited preprocedure CT scan was performed to localize the collections.  Based on the CT findings two appropriate skin entry sites for the aspiration was chosen. The sites were marked.  Local anesthesia was administered with 1% Lidocaine solution.\n \nUsing intermittent CT fluoroscopic guidance, ___ drainage catheter was advanced via trocar technique into a right \nretroperitoneal collection.  A sample of fluid was aspirated, confirming drain position within the collection.  The pigtail was deployed. The position of the pigtail was confirmed within the collection via CT fluoroscopy. Approximately 150 cc of yellowish fluid was aspirated with a sample sent for \nmicrobiology evaluation. The catheter was then removed.  Sterile dressing was applied.\n"
+}

@@ -1,0 +1,42 @@
+{
+    "Type II diabetes$Intermedia_3": {
+        "Related C-peptide peak is more common in patients with type II diabetes and is a sign of insulin resistance.$Cause_1": {
+            "C-peptide release test hints the peak relate, did not fall back to fasting values at 180min$Input6": {}
+        },
+        "Related insulin peak is more common in patients with type II diabetes.This indicator is often combined with C-peptide results for type II diabetes.$Cause_1": {
+            "Insulin release teat hints the peak relate,did not fall back to fasting values at 180min$Input6": {}
+        },
+        "Suspected Diabetes$Intermedia_2": {
+            "Polyuria is a classic symptom of diabetes.$Cause_1": {
+                "Polyuria$Input1": {}
+            },
+            "Polydipsia is a classic symptom of diabetes.$Cause_1": {
+                "Polydipsia$Input1": {}
+            },
+            "Loss weight rapidly is a claasic symptom of diabetes.$Cause_1": {
+                "15lb weight loss in the last month$Input2": {}
+            },
+            "Skin getting darker is a symptom of diabetes.$Cause_1": {
+                "his skin is getting darker$Input2": {}
+            },
+            "Family history is a big risk factor of diabetes.$Cause_1": {
+                "Aunt with diabetes$Input4": {}
+            },
+            "High GHbA1c level is a sign of diabetes.$Cause_1": {
+                "%HbA1c-10.8$Input6": {}
+            },
+            "Abnormal cholesterol level is a risk factor of diabetes.$Cause_1": {
+                "Triglyc-403$Input6": {}
+            },
+            "Abnormal random blood glucose is a diagnostic criteria of diabetes.$Cause_1": {
+                "Glucose-405$Input6": {}
+            }
+        }
+    },
+    "input1": "Polyuria and Polydipsia\n",
+    "input2": "w/ h/o Hep C, unknown how he contracted it, not tolerant of interferon therapy presents with 2wk h/o of increase thirst, polyuria (up to 10x/day, clear urine), and diziness exacerbated by standing, and anorexia.  Also endorses a 15lb weight loss in the last month.  The symptoms became increasingly worse when his mouth became extremely dry which made it difficult for him to talk, increase diziness, new onset of non-radiating epigastric pain, and distended abdomen. Patient denies having any symptoms like this in the past.  No family history of diabetes other than an aunt.  Patient denies any recent fevers, chills, nausea, vomiting, diarrhea, or sick contacts.  denies productive cough. Patient also notes that his skin is getting darker.\n\ufeff\nOn ROS, per above, with also dry cough which he says is chronic, and bright red blood spotting the toliet paper, not filling the bowl, which he attributes to his hemorrhoids.  Patient also endorses some audio hallucinations of cop sirens and \"voices speaking around him\" however says they are non-threatening and he is able to distinguis them from reality.  No visual hallucinations.  No suicidal ideation.  Otherwise, ROS neg.\n\ufeff\nIn the ED, the patient's admission vitals were 98.4 77 152/74 18 98% RA. The patient was given a bolus of 1L NS, and 10U of insulin.  The patient was then transfered to the floor.  Vitals on transfer was: 98.2 75 128/74 14 98%  \n\ufeff\n",
+    "input3": "Hepatitis C, unclear transmission, denies transfusion, IVDU\nHTN\nDepression\nAnxiety\nGERD\nBPH\n",
+    "input4": "Aunt with diabetes, otherwise no contributory\n",
+    "input5": "ADMISSION PHYSICAL EXAM:\nVS:97.5, 130/69, 18, 98% RA\nSupine BP: 130/69\nSitting BP: 125/73\nStanding BP: 129/72\nGeneral: Pleasant gentleman, looks younger than stated age, NAD\nHEENT: PERRL, MMM, EOM-I, no oral lesions   \nNeck: Supple, no lymphadenopathy   \nCV: RRR, S1 S2, no R/G/M  \nLungs: CTA-B, no wheezes, crackles\nAbdomen: abdomen distended, soft, tender to deep palpation epigastric and LLQ without radiation, no guarding, rebound tenderness\nGU: Uncircumcised, fully developed.  Testicles are soft bilaterally.\nExt: No cyanosis, rashes, pitting edema.  Peripheral pulses present and full bilaterally   \nNeuro: strength in upper/lower extremities, grossly normal, no focal deficits\n",
+    "input6": "ADMISSION LABS\nWBC-8.2 RBC-4.96 Hgb-15.4 Hct-43.2 MCV-87 MCH-31.0 MCHC-35.6* \nRDW-12.1\nNeuts-53.0 Monos-4.8 Eos-0.9 Baso-1.3PTT-32.8 \nGlucose-405* UreaN-21* Creat-1.2 Na-131* K-3.7 Cl-94* HCO3-26 AnGap-15\nAlbumin-4.0 Calcium-9.4 Phos-3.5 Mg-1.9\n\ufeff\nMISC LABS\n___ Lipase-399*\n___ Lipase-57\n___ calTIBC-403 Ferritn-1597* TRF-310\n___ %HbA1c-10.8* eAG-263*\n___ Triglyc-403*\n\ufeff\nC-PEPTIDE TEST\nC-P0     2.2ng/ml\nC-P30    2.83ng/ml\nC-P60    6.40ng/ml\nC-P120   11.3ng/ml\nC-P180   4.2ng/ml\n+ C-peptide release test hints the peak relate, did not fall back to fasting values at 180min.\n\nINSULIN TEST\nInsulin      25mlU/L\nInsulin30    90mlU/L\nInsulin60    218mlU/L\nInsulin120   256mlU/L\nInsulin180   102mlU/L\n+ Insulin release teat hints the peak relate,did not fall back to fasting values at 180min.\n\nCX\nIMPRESSION:  Low lung volumes, which accentuate the bronchovascular markings.  Otherwise, no acute cardiopulmonary process. \n\ufeff\n"
+}

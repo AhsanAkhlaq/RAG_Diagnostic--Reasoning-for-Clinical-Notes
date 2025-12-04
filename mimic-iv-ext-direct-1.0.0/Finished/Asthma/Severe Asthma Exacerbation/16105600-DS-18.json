@@ -1,0 +1,47 @@
+{
+    "Severe asthma$Intermedia_4": {
+        "It indicates that the symptom patient got has aggravated.$Cause_1": {
+            "cough with sputum production$Input2": {}
+        },
+        "Patient has severe asthma or bronchus disease that she need to use different kinds of medicine to maintain the present status.$Cause_1": {
+            "she manages at home with albuterol, montelukast, etirizine and advair$Input2": {}
+        },
+        "Asthma$Intermedia_3": {
+            "A typical symptom of asthma.$Cause_1": {
+                "dyspnea on exertion$Input2": {}
+            },
+            "Different kind of breath from normal indicates that patient may have chest or bronchus disease.$Cause_1": {
+                "Lungs: scattered wheezes bilateraly$Input5": {}
+            },
+            "Suspected asthma$Intermedia_2": {
+                "It indicates that patient may have chest or bronchus disease.$Cause_1": {
+                    "Cough$Input1": {}
+                },
+                "A common symptom of chest or bronchus disease.$Cause_1": {
+                    "Shortness of Breath$Input1": {}
+                },
+                "Patient with a history of asthma has higher probability to develop asthma than normal.$Cause_1": {
+                    "a history of asthma$Input2": {}
+                },
+                "A typical symptom of chest or bronchus disease.$Cause_1": {
+                    "shortness of breath$Input2": {}
+                },
+                "It indicates that patient may have chest or bronchus disease and has aggravated.$Cause_1": {
+                    "blood in her sputum$Input2": {}
+                },
+                "Patient who has history of asthma may have higher probability oto develop asthma than common people.$Cause_1": {
+                    "Asthma$Input3": {}
+                },
+                "It can be a trigger of asthma.$Cause_1": {
+                    "Seasonal Allergies$Input3": {}
+                }
+            }
+        }
+    },
+    "input1": "Cough and Shortness of Breath\n",
+    "input2": "She is a 47 year old woman with a history of asthma who presents with days of worsening shortness of breath on exertion and cough with sputum production. She reports that she has asthma that she manages at home with albuterol, montelukast, etirizine and advair. However, she noticed increasing dyspnea on exertion at home, also with worsening cough for days. Over the past two days, she has also noticed blood in her sputum. She denies fever, chills, chest pain, abdominal pain, nausea, vomiting or diarrhea. She has not traveled outside for years and has no known sick contacts at home. Of note, she presented to the ED at this institution with similar symptoms. She received azithromycin X 5 days, though it is unclear if she completed the course of this medication. \n\nInitial vital signs in the ED were as follows: 97.8 100 121/81 20 96%RA. She received three consecutive duonebs and one dose of Predisone 50mg. A CXR was unremarkable. She developed an increasing oxygen requirement while in the ED and vital signs at the time of transfer were 98.8 118/ 99/55 23 96% on 4L by NC.\n\nOn presentation to the FICU, she continues to complain of productive cough and shortness of breath. Her vitals initially were T 98.1 BP 103/76 HR 115 RR 29 and O2 SAT of 96% on 4L NC. She denies fever, chills, abdominal pain, nausea, vomiting or diarrhea.\n",
+    "input3": "Asthma\nSeasonal Allergies\n",
+    "input4": "None reported\n",
+    "input5": "Vitals: T 98.1 BP 103/76 HR 115 RR 29 and O2 SAT of 96% on 4L NC \nGeneral: coughing, sitting up in bed in no acute distress  \nHEENT: sclera anicteric, EOMI \nNeck: supple, no lymphadenopathy\nLungs: scattered wheezes bilateraly, no crackles, moderate air movement\nCV: regular tachycardic, no murmurs, rubs, gallops  \nAbdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding\nExt: warm, well perfused, 2+ pulses, no edema\n",
+    "input6": "___ 01:00PM   NEUTS-49.4* ___ MONOS-5.4 EOS-6.1* BASOS-0.5\n___ 01:00PM   PLT COUNT-345\n___ 01:00PM   ___ PTT-32.1 ___\n___ 01:00PM   estGFR-Using this\n___ 01:00PM   WBC-6.8 RBC-5.18 HGB-15.7 HCT-48.8* MCV-94 MCH-30.3 MCHC-32.2 RDW-13.2\n___ 09:37PM   D-DIMER-412\n___ 01:27PM   LACTATE-2.1*\n___ 10:10PM OTHER BODY FLUID  FluAPCR-NEGATIVE FluBPCR-NEGATIVE\n___ 10:00PM   K+-4.4\n"
+}

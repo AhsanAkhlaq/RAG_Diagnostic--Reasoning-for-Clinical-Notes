@@ -1,0 +1,51 @@
+{
+    "Ischemic Stroke$Intermedia_3": {
+        "Damage to the midbrain peduncles may affect the body's motor and sensory functions, which is one of the typical consequences of ischemic stroke.$Cause_1": {
+            "Evolution of a chronic infarct is re- demonstrated on the right middle cerebral peduncle.$Input6": {}
+        },
+        "When an ischemic stroke occurs, reduced blood flow to the brain results in a lack of oxygen and nutrients to the brain tissue, which may show up on imaging as slowed diffusion. Additionally, the report mentioned that there was no evidence of mass effect or hemorrhagic transformation, which could help rule out other conditions such as cerebral hemorrhage.$Cause_1": {
+            "New area of slow diffusion identified in the left thalamus as described above, suggestive of acute/subacute ischemic change, there is no evidence of  mass effect or hemorrhagic transformation$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "Sudden numbness or weakness on one side of the body, which is a symptom of stroke$Cause_1": {
+                "R sides numbness of face, arm, torso and leg.$Input1": {}
+            },
+            "Slurred speech and loss of balance are typical symptoms of stroke$Cause_1": {
+                "The patient was first admitted with slurred speech and imbalance.$Input2": {}
+            },
+            "Abnormalities may be due to damage to areas of the brain responsible for sensation$Cause_1": {
+                "patient woke with numbness on right outer leg, entire right foot, entire right arm, hand, neck and right face and scalp. +pins and needles.$Input2": {}
+            },
+            "Consider the possibility of CADASIL (a hereditary stroke syndrome), pseudoxanthoma elastomer, or COL4 A1 gene mutations. These conditions can increase the risk of stroke.$Cause_1": {
+                "MRI showed extensive white matter disease so on follow up visit with Dr. was consideration of CADASIL, pseudoxanthoma elasticum or COL4 A1 mutation.$Input2": {}
+            },
+            "History of cerebrovascular disease, which is an important risk factor for stroke.$Cause_1": {
+                "history of  lacunar infarct$Input2": {}
+            },
+            "a definite symptom of stroke$Cause_1": {
+                "Thalamic infarct$Input3": {}
+            },
+            "Long-term insomnia may indirectly increase the risk of stroke$Cause_1": {
+                "Insomnia$Input3": {}
+            },
+            "Depression linked to cardiovascular disease, may indirectly increase stroke risk$Cause_1": {
+                "Depression$Input3": {}
+            },
+            "This symptom may indicate a problem with an area of the brain that controls movement and is common in people who have had a stroke.$Cause_1": {
+                "Upgoing pronator drift\non right$Input5": {}
+            },
+            "Hypoesthesia is often associated with damage to sensory areas of the brain, which is common after a stroke.$Cause_1": {
+                "Decreased pin (85%) over right foot, right leg, entire right hand and arm, right shoulder and upper chest, neck$Input5": {}
+            },
+            "May be the result of a stroke that damaged part of the brain$Cause_1": {
+                "Facial sensation decreased on the right to light touch and pin$Input5": {}
+            }
+        }
+    },
+    "input1": "R sides numbness of face, arm, torso and leg.\n",
+    "input2": "This is a old right handed man with a history of  lacunar infarct and remote melanoma who presents with right sided numbness since waking this morning.\n\ufeff\nThe patient was first admitted with slurred speech and imbalance. He was found to have infarcts in the right thalamus and middle cerebellar peduncle. Vessel imaging, echo, LP and hypercoagulable work up was unrevealing. MRI showed extensive white matter disease so on follow up visit with Dr. was consideration of CADASIL, pseudoxanthoma elasticum or COL4 A1 mutation. He was placed on aspirin.  \n\ufeff\nHe has been having low back pain for the past week. Thinks that he pulled it but it is not getting better. Using oxycontin from PCP. NO urinary or bowel changes, no saddle anesthesia, no weakness.\n\ufeff\nThis morning the patient woke with numbness on right outer leg, entire right foot, entire right arm, hand, neck and right face and scalp. +pins and needles. Symptoms have persisted without change through the day. This has never happened before. No weakness, no vision changes, no balance problems, no gait changes. + hiccups for the past few days.\n \nOn neuro ROS, the pt denies headache, loss of vision, blurred vision, diplopia, dysarthria, dysphagia, lightheadedness, vertigo, tinnitus or hearing difficulty. Denies difficulties producing or comprehending speech. Denies focal weakness. No bowel or bladder incontinence or retention. Denies difficulty\nwith gait.  \n \nOn general review of systems, the pt denies recent fever or chills. No night sweats or recent weight loss or gain. Denies cough, shortness of breath. Denies chest pain or tightness, palpitations. Denies nausea, vomiting, diarrhea, constipation or abdominal pain. No recent change in bowel or bladder habits. No dysuria. Denies arthralgias or myalgias. Denies rash.\n",
+    "input3": "+ Insomnia  \n+ Depression  \n+ melanoma s/p resection\n+ Thalamic infarct\n",
+    "input4": "Brother with MI, dad with MI. Mom with CABG, DM.\n",
+    "input5": "Physical Exam:  \nGeneral: Awake, cooperative, NAD.  \nHEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in oropharynx  \nNeck: Supple, No nuchal rigidity  \nPulmonary: Lungs CTA bilaterally  \nCardiac: RRR, nl. S1S2  \nExtremities: No edema\nBack: tenderness over right lumbar paraspinals\n \nNeurologic:  \n-Mental Status: Alert, oriented x 3. Able to relate history without difficulty. Mildly inattentive, able to name backward with some difficulty. Language is fluent with intact repetition and comprehension. Normal prosody. There were no paraphasic errors. Pt. was able to name both high and low frequency \nobjects. Able to read without difficulty. Speech was not dysarthric. Able to follow both midline and appendicular commands. The pt. had good knowledge of current events. There was no evidence of neglect.  \n \n-Cranial Nerves:  \nII: PERRL 3 to 2mm and brisk. VFF to confrontation.   \nIII, IV, VI: EOMI without nystagmus. Normal saccades.  \nV: Facial sensation decreased on the right to light touch and pin. Reports decrease vibration on the right.\nVII: No facial droop, facial musculature symmetric.  \nVIII: Hearing intact to finger-rub bilaterally.  \nIX, X: Palate elevates symmetrically.  \nXI: strength in trapezii and SCM bilaterally.  \nXII: Tongue protrudes in midline with normal strength  \n \n-Motor: Normal bulk, tone throughout. Upgoing pronator drift\non right .  \nNo adventitious movements, such as tremor, noted. \n\ufeff\n \n-Sensory: Decreased pin (85%) over right foot, right leg, entire right hand and arm, right shoulder and upper chest, neck. JPS and vibration intact at the great toes.  Graphesthesia intact b/l.\n \n-DTRs:  \nPlantar response was flexor bilaterally.  \n \n-Coordination: No intention tremor, no dysdiadochokinesia noted.\nNo dysmetria on FNF or HKS bilaterally.  \n \n-Gait: Good initiation. Narrow-based, normal stride and arm swing. Able to walk in tandem without difficulty. Romberg absent.\n",
+    "input6": "06:35AM BLOOD Glucose-92 UreaN-14 Creat-0.9 Na-138 K-5.0 Cl-101 HCO3-29 AnGap-13\n06:35AM BLOOD %HbA1c-5.3 eAG-105\n06:35AM BLOOD Triglyc-66 HDL-51 CHOL/HD-2.3 LDLcalc-55\n03:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG\n\ufeff\nMRI Head, MRA Head and Neck: IMPRESSION:  1. New area of slow diffusion identified in the left thalamus as described above, suggestive of acute/subacute ischemic change, there is no evidence of  mass effect or hemorrhagic transformation. Evolution of a chronic infarct is re- demonstrated on the right middle cerebral peduncle. 2. Normal MRA of the head and neck, with no evidence of flow stenotic lesions or aneurysms. \n\ufeff\nMRI L Spine: IMPRESSION:  1. Multilevel multifactorial degenerative changes throughout the lumbar spine, more significant from L2/L3 through L5/S1 levels. 2. Annular tear is identified at L4/L5 with pattern of enhancement. \n\ufeff\nEchocardiogram: \nIMPRESSION: Suboptimal image quality. Normal biventricular chamber size and systolic function. While no cardiac source of embolism was identified, given the poor image quality on this study, a TEE or alternate imaging modality would be needed to more definitively exclude intracardiac mass or thrombus. \n\n"
+}

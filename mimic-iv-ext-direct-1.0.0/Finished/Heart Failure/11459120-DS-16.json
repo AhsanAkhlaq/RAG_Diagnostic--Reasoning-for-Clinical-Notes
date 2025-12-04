@@ -1,0 +1,43 @@
+{
+    "HFpEF$Intermedia_5": {
+        "LVEF\u226550% is the critiera for HFpEF$Cause_1": {
+            "LVEF>55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is moderately dilated$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "BNP \u2265 35 pg/mL is a strong value for heart failure$Cause_1": {
+                    "proBNP-5145$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Breathlessness is a symptom of heart failure$Cause_1": {
+                        "has oxygen for nighttime use at home, but felt that she was still dyspneic at rest even when on 2L$Input2": {}
+                    },
+                    "Fatigue is a typicalsymptoms of heart failure$Cause_1": {
+                        "feeling progressively more lethargic over the past two months$Input2": {}
+                    },
+                    "Pleural effusion is a sign of heart failure$Cause_1": {
+                        "CXR showed increased fluid in the lungs$Input2": {}
+                    },
+                    "Hypertension is a risk factor of heart failure$Cause_1": {
+                        "PMH of HTN$Input2": {}
+                    },
+                    "Dyslipidemia is a risk factor of heart failure$Cause_1": {
+                        "Dyslipidemia$Input3": {}
+                    },
+                    "Atrial fibrillation\nis a risk factor of heart failure$Cause_1": {
+                        "atrial fibrillation$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Shortness of Breath\n",
+    "input2": "71 year old female with PMH of HTN, b/l PE, Afib s/p pacemaker, asthma now presenting with SOB and general malaise.  Pt reports having been feeling progressively more lethargic over the past two months; states that her last time at her USOH was 2 months ago.  She reports having increased urinary frequency in the past month, and especially in the past week.  She had one episode of chills in her apartment but her temperature at that time was 99, per her report.  She has oxygen for nighttime use at home, but felt that she was still dyspneic at rest even when on 2L.\n\nShe called her NP yesterday and was diagnosed with a UTI and rx'd macrobid, of which she has taken two doses.  She called EMS this morning when she was lethargic and felt nauseous despite not having eaten anything.  On arrival to the ED, she was noted to be very pale.  Her initial vitals were 97.8 82 ___ 98%(2L).  Hemeoccult was negative.  Her crit was low at 29 and her INR was high at 4.1 while in the ED.  CXR showed increased fluid in the lungs, with some question of focal R opacities that could be infectious in nature.  She was given 40 mg IV lasix, had a catheter placed and was transferred to the floor for diuresis.  She reports having two pillow orthopnea at baseline and is not sure of her dry weight.  She does not weigh herself daily.\n",
+    "input3": "+Dyslipidemia\n+Hypertension  \n+atrial fibrillation, on coumadin  \n+hypothyroidism  \n+depression  \n+b/l TKRs  \n+left thumb CMC joint arthritis  \n+Tracheobronchomalacia w/ recurrent pneumonias and tracheal\nstent and stent removal\n+Paraesophageal hiatial hernia s/p repair ___  \n+GERD s/p fundoplication\n",
+    "input4": "Mother: HTN, CVA\nNo family hx of anemia.\n",
+    "input5": "VS- T=97.7 BP=154/79 HR=60 RR=20 O2 sat=96(2L)\nWeight: 110 kg  \nGENERAL- WDWN propped up in bed in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT- NCAT. EOMI. Conjunctiva were pale but no cyanosis of the oral mucosa.   \nNECK- No appreciable JVD at 60 degree angle  \nCARDIAC- PMI located in intercostal space, midclavicular line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nLUNGS- No chest wall deformities, scoliosis or kyphosis. Resp were labored but no accessory muscle use. Bibasilar crackles audible; deep breaths provoke coughing.  \nABDOMEN- Soft, NTND.   \nEXTREMITIES- Cool to touch.  Appear to be slightly edematous (2+ nonpitting edema)  \nSKIN- No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES-  Carotid 2+ DP 1+ Radial 2+\n",
+    "input6": "Admission:\n___ 02:40PM BLOOD Neuts-87.2* Lymphs-8.6* Monos-3.2 Eos-0.8 Baso-0.2\n___ 02:40PM BLOOD ___ PTT-32.3 ___\n___ 02:40PM BLOOD Glucose-104* UreaN-20 Creat-0.8 Na-140 K-4.6 Cl-107 HCO3-23 AnGap-15\n___ 02:40PM BLOOD cTropnT-<0.01 proBNP-5145*\n\nDischarge:\n___ 05:35AM BLOOD WBC-6.5 RBC-3.50* Hgb-9.8* Hct-31.3* MCV-89 MCH-27.9 MCHC-31.3 RDW-15.7* Plt ___\n___ 05:35AM BLOOD Glucose-93 UreaN-35* Creat-1.1 Na-138 K-4.6 Cl-97 HCO3-31 AnGap-15\n___ 05:35AM BLOOD Calcium-10.1 Phos-3.3 Mg-2.4\n\nStudies:\nCHEST (PA & LAT) ___ \"Mild asymmetric pulmonary edema.  Additional more peripheral opacities on the right could be concerning for an underlying infectious process.  Recommend follow up radiographs after diuresis.\"\n\nTTE (Complete) Done ___ \"Conclusions: The left atrium is moderately dilated. Left ventricular wall thickness, cavity size, and global systolic function are normal (LVEF>55%). Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. The estimated cardiac index is normal (>=2.5L/min/m2). Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. Moderate (2+) mitral regurgitation is seen. Moderate [2+] tricuspid regurgitation is seen. There is moderate pulmonary artery systolic hypertension. There is no pericardial effusion. \nIMPRESSION: Normal biventricular cavity sizes with preserved global biventricular systolic function. Moderate mitral regurgitation. Pulmonary artery hypertension. Moderate tricuspid regurgitation. Compared with the prior study (images reviewed), the severity of mitral regurgitation has increased.\"\n"
+}

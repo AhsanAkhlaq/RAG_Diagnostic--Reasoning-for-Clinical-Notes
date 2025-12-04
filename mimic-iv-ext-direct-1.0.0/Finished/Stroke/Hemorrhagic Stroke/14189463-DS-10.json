@@ -1,0 +1,42 @@
+{
+    "Hemorrhagic Stroke$Intermedia_3": {
+        "High density of blood is typical of hemorrhagic stroke events$Cause_1": {
+            "High-density areas of fresh bleeding. Density is 50-80 Hounsfield Units (HU).$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "Although patients have symptoms of dementia, acute changes in symptoms may indicate new effects on brain function, which are common in strokes.$Cause_1": {
+                "increased confusion and forgetfulness over the last several days$Input2": {}
+            },
+            "Acute left-sided weakness, slurred speech, and facial drooping are typical symptoms of stroke$Cause_1": {
+                "acute left sided weakness, slurred speech, facial droop around noon this morning$Input2": {}
+            },
+            "This rapidly progressive neurological decline is typical of stroke.$Cause_1": {
+                "mental status deteriorated significantly in transit, and was nonverbal with weak motor strength on the right side$Input2": {}
+            },
+            "High blood pressure is one of the major risk factors for stroke$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "Diabetes increases risk of stroke$Cause_1": {
+                "Diabetes$Input3": {}
+            },
+            "Deep vein thrombosis may increase the risk of stroke.$Cause_1": {
+                "h/o DVT$Input3": {}
+            },
+            "Atrial fibrillation is a common heart rhythm disorder that can cause stroke.$Cause_1": {
+                "Paroxysmal atrial fibrillation$Input3": {}
+            },
+            "Strokes can cause confusion, so this is a potential stroke symptom.$Cause_1": {
+                "minimally arousable with verbal stimuli$Input5": {}
+            },
+            "Patients have obvious abnormalities in neurological function, such as slow response to stimulation and lack of autonomous activity and reflexes. These are signs of severe neurological impairment that may result from a stroke$Cause_1": {
+                "Minimally arousable to verbal stimuli, did not assess strength or sensation, no spontaneous movements or reflexes$Input5": {}
+            }
+        }
+    },
+    "input1": "Confusion\n",
+    "input2": "a woman who was sent to hospital after increased confusion and forgetfulness over the last several days and acute left sided weakness, slurred speech, facial droop around noon this morning. At baseline, patient is alert and oriented, although with dementia. She was responsive to verbal stimuli  were labs were drawn (within normal limits). In discussions with the family, the patient was confirmed DNR/DNI and transferred to ICU for further evaluation by neurology/neurosurgery. The patient's mental status deteriorated significantly in transit, and was nonverbal with weak motor strength on the right side and responsiveness mainly to tactile stimuli by arrival to the ED. In discussions with the family, it was decided that the goals of medical care be comfort and the patient was admitted to Medicine for palliative care.  \n.  \nIn the ED initial VS were T97.9, BP127/89, HR78, 100% on 2L NC. \nShe received 1L NS at the OSH and a foley and PIV had been placed.\n",
+    "input3": "+ Dementia  \n+ Hypertension  \n+ GERD  \n+ Diabetes  \n+ h/o DVT  \n+ Paroxysmal atrial fibrillation  \n+ Hypokalemia  \n+ Hernia\n",
+    "input4": "Daughter lives in the area. currently here but will return home likely tomorrow.\n",
+    "input5": "VS: T96.9, BP130/70, HR90, RR16, 100% on 3.5L NC  \nGen: NAD, sleeping, minimally arousable with verbal stimuli  \nHEENT: MMM with increased secretions, PERRL but decreased  \nNeck: Soft, supple, no JVD/LAD  \nCV: RRR, no murmurs/rubs, ?gallops, normal S1/S2  \nPulm: Coarse breath sounds but CTAB, no wheezing/rhonchi/rales, +upper airway secretions/rhonchi  \nAbd: Soft, nontender, nondistended, normoactive bowel sounds  \nExt: No cyanosis, ecchymosis, 1+ edema of bilateral lower extremities, pulses 2+ bilaterally,  \nNeuro: Minimally arousable to verbal stimuli, did not assess strength or sensation, no spontaneous movements or reflexes\n",
+    "input6": "CT\nHigh-density areas of fresh bleeding. Density is 50-80 Hounsfield Units (HU).\n\n"
+}

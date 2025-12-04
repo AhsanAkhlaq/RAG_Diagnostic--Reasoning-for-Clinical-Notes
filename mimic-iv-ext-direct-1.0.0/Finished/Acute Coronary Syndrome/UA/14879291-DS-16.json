@@ -1,0 +1,96 @@
+{
+    "UA$Intermedia_5": {
+        "chest pressure at rest, SOB with minimal exertion are signs of acs-ua$Cause_1": {
+            "chest pressure at rest, SOB with minimal exertion$Input1": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "This is a male with a PMH significant for IDDM, HTN, CKD Stage III-IV (last admit eGFR 31), HLD, unstable angina, CAD s/p MI, and PCIs as outlined below.\nare risk facts of acs$Cause_1": {
+                "This is a male with a PMH significant for IDDM, HTN, CKD Stage III-IV (last admit eGFR 31), HLD, unstable angina, CAD s/p MI, and PCIs as outlined below.$Input2": {}
+            },
+            "CKD- stage IV (eGFR 31 last admit, now lower) is risk fact$Cause_1": {
+                "CKD- stage IV (eGFR 31 last admit, now lower)$Input3": {}
+            },
+            "HTN is risk fact$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "HLD is risk fact$Cause_1": {
+                "HLD$Input3": {}
+            },
+            "family history:Mother: CAD, CABG  is a risk fact$Cause_1": {
+                "Mother: CAD, CABG$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "slight cardiac structural abnormalities is a sign of acs$Cause_1": {
+                "There is moderate hypokinesis of the inferior wall and anterior septum with the apex severely hypokinetic.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "This is a male with a PMH significant for IDDM, HTN, CKD Stage III-IV (last admit eGFR 31), HLD, unstable angina, CAD s/p MI, and PCIs as outlined below.\nare risk facts of acs$Cause_1": {
+                    "This is a male with a PMH significant for IDDM, HTN, CKD Stage III-IV (last admit eGFR 31), HLD, unstable angina, CAD s/p MI, and PCIs as outlined below.$Input2": {}
+                },
+                "CKD- stage IV (eGFR 31 last admit, now lower) is risk fact$Cause_1": {
+                    "CKD- stage IV (eGFR 31 last admit, now lower)$Input3": {}
+                },
+                "HTN is risk fact$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "HLD is risk fact$Cause_1": {
+                    "HLD$Input3": {}
+                },
+                "family history:Mother: CAD, CABG  is a risk fact$Cause_1": {
+                    "Mother: CAD, CABG$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS.$Cause_1": {
+                "ECG:non-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "This is a male with a PMH significant for IDDM, HTN, CKD Stage III-IV (last admit eGFR 31), HLD, unstable angina, CAD s/p MI, and PCIs as outlined below.\nare risk facts of acs$Cause_1": {
+                    "This is a male with a PMH significant for IDDM, HTN, CKD Stage III-IV (last admit eGFR 31), HLD, unstable angina, CAD s/p MI, and PCIs as outlined below.$Input2": {}
+                },
+                "CKD- stage IV (eGFR 31 last admit, now lower) is risk fact$Cause_1": {
+                    "CKD- stage IV (eGFR 31 last admit, now lower)$Input3": {}
+                },
+                "HTN is risk fact$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "HLD is risk fact$Cause_1": {
+                    "HLD$Input3": {}
+                },
+                "family history:Mother: CAD, CABG  is a risk fact$Cause_1": {
+                    "Mother: CAD, CABG$Input4": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "slight cardiac structural abnormalities is a sign of acs$Cause_1": {
+                    "There is moderate hypokinesis of the inferior wall and anterior septum with the apex severely hypokinetic.$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "This is a male with a PMH significant for IDDM, HTN, CKD Stage III-IV (last admit eGFR 31), HLD, unstable angina, CAD s/p MI, and PCIs as outlined below.\nare risk facts of acs$Cause_1": {
+                        "This is a male with a PMH significant for IDDM, HTN, CKD Stage III-IV (last admit eGFR 31), HLD, unstable angina, CAD s/p MI, and PCIs as outlined below.$Input2": {}
+                    },
+                    "CKD- stage IV (eGFR 31 last admit, now lower) is risk fact$Cause_1": {
+                        "CKD- stage IV (eGFR 31 last admit, now lower)$Input3": {}
+                    },
+                    "HTN is risk fact$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "HLD is risk fact$Cause_1": {
+                        "HLD$Input3": {}
+                    },
+                    "family history:Mother: CAD, CABG  is a risk fact$Cause_1": {
+                        "Mother: CAD, CABG$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "chest pressure at rest, SOB with minimal exertion\n",
+    "input2": "This is a male with a PMH significant for IDDM, HTN, CKD Stage III-IV (last admit eGFR 31), HLD, unstable angina, CAD s/p MI, and PCIs as outlined below.\n Declined by surgery in past (x 2) presented to hospital with angina at very low workload (getting dressed). Pro BNP 5652, and at discharge his lungs clear with 1+ edema. Echo performed at shows reduced EF with diastolic dysfunctin.  There is moderate hypokinesis of the inferior wall and anterior septum with the apex severely hypokinetic.  There is no evidence of LV thrombus and is noted to have moderate MR and mil had a Renal consult yesterday and was started on mucomyst yesterday. No further diuresis since yesterday and his Lisinopril has been held.  Dr. is aware of his creatinine, no prehydration was ordered.\n",
+    "input3": "+ CX 2.5 x 12 Promus; POBA distal LAD \n+ CKD- stage IV (eGFR 31 last admit, now lower)\n+ IDDM\n+ HTN\n+ HLD\n+ GERD\n+ s/p surgical repair undescended testicle as a child \n+ Iron Deficiency anemia Anemia \n+ Surgical rpr. for undescended testicle as a child\n",
+    "input4": "Mother: CAD, CABG\n",
+    "input5": "Gen:  old  man in NAD. Denies SOB, dizziness, no further CP, has been ambulating \nNeuro:  Alert and oriented, no focal deficits or asymmetries noted\nNeck/JVP:  JVP approx. 6 cm above clavicle\nCV:  S1S2 regular, no MRG\nChest:  Decreased in bases but no crackles or wheezes b/l \nABD:  soft, non-tender, BS+\nExtr: Right femoral site is soft with no bleeding, hematoma or \nbruit. dopplerable b/l. No edema. Extremities are warm and well perfused. \nSkin:  No rashes or lesions\n",
+    "input6": "ADMISSION LABS:\n\ufeff\n06:55AM BLOOD PTT-36.9*\n06:55AM BLOOD Glucose-107* UreaN-45* Creat-2.8* Na-144 \nK-6.0* Cl-111* HCO3-16* AnGap-18\n06:55AM BLOOD CK(CPK)-110\n06:55AM BLOOD CK-MB-3 cTropnT-0.09*\n06:55AM BLOOD Mg-1.6\n\nECG:non-ST-elevation\n"
+}

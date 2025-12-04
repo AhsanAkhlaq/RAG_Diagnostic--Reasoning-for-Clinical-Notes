@@ -1,0 +1,72 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "CK-MB-31* cTropnT-0.25*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS.$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "old with DM,CAD, CABG, HTN, DM, PVD, are risk facts$Cause_1": {
+                "PMH: PVD, CAD s/p MI, HTN, hyperlipidemia, DM,$Input3": {}
+            },
+            "GERD,hypothyroidism are risk facts$Cause_1": {
+                "GERD,hypothyroidism$Input3": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                "CP/NSTEMI. He underwent diagnostic cath which showed occluded OM and diagonal vessels filling via collaterals and patent LIMA to LAD and SVG to PDA.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "old with DM,CAD, CABG, HTN, DM, PVD, are risk facts$Cause_1": {
+                    "PMH: PVD, CAD s/p MI, HTN, hyperlipidemia, DM,$Input3": {}
+                },
+                "GERD,hypothyroidism are risk facts$Cause_1": {
+                    "GERD,hypothyroidism$Input3": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "ECG:non-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "old with DM,CAD, CABG, HTN, DM, PVD, are risk facts$Cause_1": {
+                    "PMH: PVD, CAD s/p MI, HTN, hyperlipidemia, DM,$Input3": {}
+                },
+                "GERD,hypothyroidism are risk facts$Cause_1": {
+                    "GERD,hypothyroidism$Input3": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "CP/NSTEMI. He underwent diagnostic cath which showed occluded OM and diagonal vessels filling via collaterals and patent LIMA to LAD and SVG to PDA.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS.$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "old with DM,CAD, CABG, HTN, DM, PVD, are risk facts$Cause_1": {
+                        "PMH: PVD, CAD s/p MI, HTN, hyperlipidemia, DM,$Input3": {}
+                    },
+                    "GERD,hypothyroidism are risk facts$Cause_1": {
+                        "GERD,hypothyroidism$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain \n",
+    "input2": "old with DM,CAD, CABG, HTN, DM, PVD, cardiomyopathy with EF 30% and BiV ICD who was tx for a cath after NSTEMI/CP. He is s/p diagnostic cath. Left radial, which showed occluded OM and diagonal vessels filling via collaterals and patent LIMA to LAD and SVG to PDA (see cath report for details).\n",
+    "input3": "+ PMH: PVD, CAD s/p MI, HTN, hyperlipidemia, DM, \n+ GERD,hypothyroidism\n",
+    "input4": "Non-contributory\n",
+    "input5": "VS: temp 98.3 HR 59 RR 18 BP 120-61 O2 sat 96% on room air\nGen: alert, in no acute distress\nCV: RRR, S1S2, no murmurs\nLungs: CTAB\nAbd: NT, ND, soft\nExt: no edema\nNeuro: alert, oriented X3, no focal deficits\nTele: AS-VP\n",
+    "input6": "03:55PM   WBC-9.2 RBC-4.30* HGB-13.0* HCT-39.1* MCV-91 \nMCH-30.2 MCHC-33.2 RDW-13.6 RDWSD-45.4\n03:55PM   PLT COUNT-155\n03:47PM   UREA N-12 CREAT-0.7 SODIUM-137 POTASSIUM-4.1 \nCHLORIDE-104 TOTAL CO2-24 ANION GAP-13\n03:47PM   estGFR-Using this\n03:47PM   CK-MB-31* cTropnT-0.25*\n03:47PM   CALCIUM-8.8 PHOSPHATE-4.5 MAGNESIUM-1.male with DM, CAD, CM was admitted with \nCP/NSTEMI. He underwent diagnostic cath which showed occluded OM and diagonal vessels filling via collaterals and patent LIMA to LAD and SVG to PDA. He had no complications post procedure and was admitted to the telemetry floor for overnight monitoring. He had no further symptoms and is  being continued on all his home cardiac medications and started on isosorbide 30mg PO daily. His labs remained stable. He is being discharge to home today.\nECG:non-ST-elevation \n"
+}

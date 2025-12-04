@@ -1,0 +1,108 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "BLOOD CK-MB-23* cTropnT-0.52**$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "headache, HTNis a symptom of ACS.$Cause_1": {
+                "headache, HTN$Input1": {}
+            },
+            "a female with past medical history significant for hypertension, no longer on hypertensive medications comes in with elevated blood pressure, headache, chest pain.\n is risk fact and sign of acs$Cause_1": {
+                "a female with past medical history significant for hypertension, no longer on hypertensive medications comes in with elevated blood pressure, headache, chest pain.$Input2": {}
+            },
+            "Chest Pain is a symptom of ACS.$Cause_1": {
+                "The patient also reported some dull left-sided chest pressure that lasted several hours, however resolved prior to the time that she arrived. She no longer reports any headache. She only residual symptoms are left arm pain.$Input2": {}
+            },
+            "DM (diet controlled) is a risk factor$Cause_1": {
+                "DM (diet controlled)$Input3": {}
+            },
+            "chronic cough is a risk factor$Cause_1": {
+                "chronic cough$Input3": {}
+            },
+            "HTN (not on medical therapy) is a risk factor$Cause_1": {
+                "HTN (not on medical therapy)$Input3": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                "Suboptimal image quality. Moderate aortic stenosis. Mild symmetric left ventricular hypertrophy with preserved regional and global biventricular systolic function. Mild-moderate mitral regurgitation. Mild pulmonary artery systolic hypertension. Increased PCWP.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "headache, HTNis a symptom of ACS.$Cause_1": {
+                    "headache, HTN$Input1": {}
+                },
+                "a female with past medical history significant for hypertension, no longer on hypertensive medications comes in with elevated blood pressure, headache, chest pain.\n is risk fact and sign of acs$Cause_1": {
+                    "a female with past medical history significant for hypertension, no longer on hypertensive medications comes in with elevated blood pressure, headache, chest pain.$Input2": {}
+                },
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "The patient also reported some dull left-sided chest pressure that lasted several hours, however resolved prior to the time that she arrived. She no longer reports any headache. She only residual symptoms are left arm pain.$Input2": {}
+                },
+                "DM (diet controlled) is a risk factor$Cause_1": {
+                    "DM (diet controlled)$Input3": {}
+                },
+                "chronic cough is a risk factor$Cause_1": {
+                    "chronic cough$Input3": {}
+                },
+                "HTN (not on medical therapy) is a risk factor$Cause_1": {
+                    "HTN (not on medical therapy)$Input3": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "EKG: Sinus rhythm, 95, normal axis,, first degree heart block QTC 473 Imaging showed$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "headache, HTNis a symptom of ACS.$Cause_1": {
+                    "headache, HTN$Input1": {}
+                },
+                "a female with past medical history significant for hypertension, no longer on hypertensive medications comes in with elevated blood pressure, headache, chest pain.\n is risk fact and sign of acs$Cause_1": {
+                    "a female with past medical history significant for hypertension, no longer on hypertensive medications comes in with elevated blood pressure, headache, chest pain.$Input2": {}
+                },
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "The patient also reported some dull left-sided chest pressure that lasted several hours, however resolved prior to the time that she arrived. She no longer reports any headache. She only residual symptoms are left arm pain.$Input2": {}
+                },
+                "DM (diet controlled) is a risk factor$Cause_1": {
+                    "DM (diet controlled)$Input3": {}
+                },
+                "chronic cough is a risk factor$Cause_1": {
+                    "chronic cough$Input3": {}
+                },
+                "HTN (not on medical therapy) is a risk factor$Cause_1": {
+                    "HTN (not on medical therapy)$Input3": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "Suboptimal image quality. Moderate aortic stenosis. Mild symmetric left ventricular hypertrophy with preserved regional and global biventricular systolic function. Mild-moderate mitral regurgitation. Mild pulmonary artery systolic hypertension. Increased PCWP.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "headache, HTNis a symptom of ACS.$Cause_1": {
+                        "headache, HTN$Input1": {}
+                    },
+                    "a female with past medical history significant for hypertension, no longer on hypertensive medications comes in with elevated blood pressure, headache, chest pain.\n is risk fact and sign of acs$Cause_1": {
+                        "a female with past medical history significant for hypertension, no longer on hypertensive medications comes in with elevated blood pressure, headache, chest pain.$Input2": {}
+                    },
+                    "Chest Pain is a symptom of ACS.$Cause_1": {
+                        "The patient also reported some dull left-sided chest pressure that lasted several hours, however resolved prior to the time that she arrived. She no longer reports any headache. She only residual symptoms are left arm pain.$Input2": {}
+                    },
+                    "DM (diet controlled) is a risk factor$Cause_1": {
+                        "DM (diet controlled)$Input3": {}
+                    },
+                    "chronic cough is a risk factor$Cause_1": {
+                        "chronic cough$Input3": {}
+                    },
+                    "HTN (not on medical therapy) is a risk factor$Cause_1": {
+                        "HTN (not on medical therapy)$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "headache, HTN\n",
+    "input2": "a female with past medical history significant for hypertension, no longer on hypertensive medications comes in with elevated blood pressure, headache, chest pain. This afternoon, the patient 60 ibuprofen for left arm pain, after which time she began having a headache, and found her blood pressure to be elevated. The patient also reported some dull left-sided chest pressure that lasted several hours, however resolved prior to the time that she arrived. She no longer reports any headache. She only residual symptoms are left arm pain. The patient denies visual changes headache, chest pain, shortness of breath, abdominal pain.  In the ED  \n=============  \nInitial vitals: 99.0 90 194/81 16 97% RA  \nLabs were significant for  \nTrop-T: 0.04  \n140 100 15 AGap=19  \n-------------< 117  \n4.2 25 0.7  \n11.5 MCV= 82  \n9.2 >-----<276  \n38.0  \n \nUA negative.  \nEKG: Sinus rhythm, 95, normal axis,, first degree heart block QTC 473 Imaging showed  \nCXR: Low lung volumes with probable mild pulmonary vascular congestion but no overt pulmonary edema. Re-demonstration rightward tracheal deviation due to known multinodular thyroid goiter  \nThe patient received:  \n21:59 PO Aspirin 243 mg  \n22:10 IV Morphine Sulfate 4 mg  \n22:10 IV Heparin 3800 UNIT  \n22:10 IV Heparin  \nThe patient was shifted to the floor. On the floor, the patient feels that her health is not normal and feels tired. however, denies chest pain, SOB or palpitations. complains of mild OA pain in the left wrist.  \n \nROS:  \nNo fevers, chills, night sweats, or weight changes.  \nNo changes in vision or hearing, no changes in balance.  \nNo nausea or vomiting. No diarrhea or constipation.  \nNo dysuria or hematuria.  \nNo hematochezia, no melena.  \nNo numbness or weakness, no focal deficits.  \n\ufeff\nPatient with sons at bedside this AM. Report that patient was sitting at home, doing normal activities and stated she had L arm pain, headache and chest pain. The patient states the arm pain started prior to the chest pain. she states she asked her son for tylenol/motrin but it did not help. \n\ufeff\nPer her son, her BP was higher than usual (normally 110-160). Patient states she has never had this chest pain before and she denies associated nausea, vomiting, recent illness, or history of MI/stroke (though son is unsure if she may have had \"small heart attack\" in the past.\n",
+    "input3": "+ DM (diet controlled)\n+ chronic cough\n+ HTN (not on medical therapy)\n+ osteoporosis\n+ osteoarthritis\n+ goiter\n+ hearing loss\n+ spinal stenosis/chronic back pain\n",
+    "input4": "She does not know majority of her family history. There is no cancer as far as she knows.\n",
+    "input5": "PHYSICAL EXAM ON ADMISSION:  \n===============================================================  \n\ufeff\nVS: 98.0 188/76 90 22 96% wt 61.8kg  \nGEN: Alert, lying in bed, no acute distress  \nHEENT: Moist MM, anicteric sclerae, no conjunctival pallor. \nPERRLA, EOMI.  \nNECK: Supple without LAD . no JVP elevation.  \nPULM: full air entry bilaterally. crackles heard on the right base which cleared with cough. no wheeze. no rhonchi  \nHEART: RRR (+)S1/S2 no m/r/g  \nABD: Soft, non-distended, non-tender. No rebound/guarding. BS+  \n\ufeff\nEXTREM: Warm, well-perfused, no edema  \nNEURO: CN II-XII intact, SLIT\n",
+    "input6": "LABS ON ADMISSION\n==================\n08:00PM BLOOD WBC-9.2 RBC-4.64 Hgb-11.5 Hct-38.0 MCV-82 \nMCH-24.8* MCHC-30.3* RDW-15.9* RDWSD-47.2*\n08:00PM BLOOD Glucose-117* UreaN-15 Creat-0.7 Na-140 \nK-4.2 Cl-100 HCO3-25 AnGap-19\n04:25AM BLOOD Calcium-8.8 Phos-4.0 Mg-1.7\n\ufeff\nTROPONINS\n=========\n08:00PM BLOOD cTropnT-0.04*\n04:25AM BLOOD CK-MB-44* cTropnT-0.14*\n12:40PM BLOOD CK-MB-57* cTropnT-0.35*\n06:46PM BLOOD CK-MB-46* MB Indx-11.0* cTropnT-0.60*\n02:25AM BLOOD CK-MB-24* cTropnT-0.51*\n04:25AM BLOOD CK-MB-23* cTropnT-0.52**\n\ufeff\nIMAGING\n========\nIMPRESSION:  \n  \nLow lung volumes with probable mild pulmonary vascular congestion but no overt pulmonary edema.  Re-demonstration of rightward tracheal deviation due to known multinodular thyroid goiter. \n\ufeff\nECHO\nThe left atrium is elongated. The estimated right atrial pressure is xx mmHg. Mild symmetric left ventricular hypertrophy with normal cavity size, and regional/global systolic function (biplane LVEF = 64 %). The estimated cardiac index is normal (>=2.5L/min/m2). Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg). The aortic valve leaflets are mildly thickened (?#). There is mild aortic valve stenosis (valve area 1.2-1.9cm2). Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Mild to moderate mitral regurgitation is seen. [Due to acoustic shadowing, the severity of mitral regurgitation may be significantly UNDERestimated.] There is mild pulmonary artery systolic hypertension. There is no pericardial effusion. \n\ufeff\nIMPRESSION: Suboptimal image quality. Moderate aortic stenosis. Mild symmetric left ventricular hypertrophy with preserved regional and global biventricular systolic function. Mild-moderate mitral regurgitation. Mild pulmonary artery systolic hypertension. Increased PCWP. \n\ufeff\nCompared with the prior study (images reviewed), the findings are similar.\n"
+}

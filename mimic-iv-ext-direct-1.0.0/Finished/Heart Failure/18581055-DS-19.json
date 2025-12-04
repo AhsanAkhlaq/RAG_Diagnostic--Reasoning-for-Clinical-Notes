@@ -1,0 +1,55 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is elongated. The right atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "NT-proBNP or pro-BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strongly suspected heart failure.$Cause_1": {
+                    "proBNP-8317*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Shortness of breath is a common symptom of heart failure.$Cause_1": {
+                        "shortness of breath$Input1": {}
+                    },
+                    "bacteremia may induce heart failure.$Cause_1": {
+                        "bacteremia$Input1": {}
+                    },
+                    "Sick sinus syndrome is the cause and triggering factor of heart failure.$Cause_1": {
+                        "Sick sinus syndrome s/p pacemaker$Input3": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "Hyperlipidemia is a risk factor for heart failure.$Cause_1": {
+                        "HLD$Input3": {}
+                    },
+                    "Coronary artery disease (CAD) and coronary artery bypass grafting (CABG) are also risk factors for heart failure.$Cause_1": {
+                        "CAD s/p CABG$Input3": {}
+                    },
+                    "Chronic kidney disease (CKD) can induce heart failure.$Cause_1": {
+                        "CKD Stage III$Input3": {}
+                    },
+                    "A history of chronic heart failure (CHF) indicates that this admission is highly likely to be an acute exacerbation of CHF.$Cause_1": {
+                        "Diastolic CHF, chronic$Input3": {}
+                    },
+                    "Atrial fibrillation (afib) is the cause and triggering factor of heart failure.$Cause_1": {
+                        "afib on coumadin$Input3": {}
+                    },
+                    "Elevated jugular venous pulse (JVP) is a common sign of heart failure, indicating the state of fluid retention.$Cause_1": {
+                        "Neck: JVP$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "shortness of breath, bacteremia\n",
+    "input2": "This is a chronic afib on coumadin, sick sinus syndrome pacemaker, who presented with shortness of breath x2 days, initially treated for CHF exacerbation, and found to have bacteremia with a rising lactate.\n\ufeff\nFrom review of Cardiology records and notes, the patient has had worsening dyspnea and multiple fluctuations in his diuretics, and as the dose changed from 120mg to 80mg BID. His weight has varied from 165 - 172 and his BNP seems at baseline to be 220-250. On day prior to admission he weight was167 and BNP was 916. Cr was 1.5 from a baseline of 1.2-1.6.  He was reportedly sent to the ED given the rise in BNP and Cr.\n\ufeff\nIn the ED, initial vitals were 98.3 71 145/78 20 99% 4L. CXR showed showed congestive heart failure with moderate pulmonary edema and small bilateral effusions. proBNP was 8317. He was observed for aggressively diuresed and urine output monitoring. At Cardiology evaluated and recommended another 120 mg IV lasix w/ MeQ KCL x 1 now with a plan to be discharged on torsemide 40 mg (20 mg x 2) qam, and OFF lasix and have close follow-up. Urine output was ~2.25 L/20 hours and the patient reportedly was feeling better.\n\ufeff\nOn transfer to the floor, vitals were 98.1 62 160/70 18 99% RA. In the initial workup, however, blood cultures were drawn that returned successfully diuresed. However as part of initial workup, a set of blood cultures were drawn that grew GPC in clusters in both the aerobic and anaerobic bottles. A second set of blood cultures were drawn and are currently pending. His lactate also rose from 1.7 on initial draw prior to diuresis to 3.3 this afternoon.\n\ufeff\nReportedly, he denied any infectious symptoms. His urine was negative, and CXR without infiltrate. He received vancomycin 1g x1 and was admitted for IV antibiotics until blood culture speciation returns.\n\ufeff\nOn arrival to the floor, patient reports no pain\n",
+    "input3": "+ Sick sinus syndrome s/p pacemaker\n+ HTN\n+ HLD\n+ CAD s/p CABG\n+ inguinal hernia\n+ PVD\n+ Gastritis/duodenitis\n+ CKD Stage III\n+ Diastolic CHF, chronic\n+ lambda light chain disease\n+ BPH\n+ afib on coumadin\n+ depression\n",
+    "input4": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.\n",
+    "input5": "ADMISSION PHYSICAL EXAM:\nVS: 97.6 145/82 59 18 99\nGeneral: Well appearing gentleman who appears younger than his stated age\nHEENT: NCAT. Dry mucous membranes  \nNeck: JVP \nCV: Slightly bradycardic, soft systolic murmur\nLungs: slight inspiriatory crackles b/l bases \nAbdomen: Soft, non tender, non distended, normoactive bowel sounds\nExt:  Warm, 1+ edema.\nNeuro: Grossly intact. \nSKIN: right chest pacer without erythema/swelling/ulceration or tenderness, no rashes, no jaundice, no stigmata of septic emboli\n",
+    "input6": "ADMISSION LABS:\n\ufeff\n12:30PM BLOOD WBC-8.4 RBC-3.89* Hgb-11.2* Hct-36.4* MCV-94 MCH-28.7 MCHC-30.7* RDW-20.2*\n12:30PM BLOOD Neuts-75.2* Lymphs-16.7* Monos-5.3 Eos-2.3 Baso-0.5\n12:30PM BLOOD Glucose-118* UreaN-35* Creat-1.5* Na-141 K-4.7 Cl-108 HCO3-22 AnGap-16\n12:30PM BLOOD proBNP-8317*\n12:30PM BLOOD cTropnT-0.01\n07:25PM BLOOD cTropnT-0.01\n04:50AM BLOOD Albumin-3.8 Calcium-8.8 Phos-3.3 Mg-2.3\n12:35PM BLOOD Lactate-1.7\n\ufeff\nLACTATE TREND:\n12:35PM BLOOD Lactate-1.7\n03:17PM BLOOD Lactate-3.3*\n01:06AM BLOOD Lactate-2.1*\n02:01PM BLOOD Lactate-2.1*\n07:39AM BLOOD Lactate-2.9*\n09:42AM BLOOD Lactate-3.5*\n\nThe left atrium is elongated. The right atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %)\n"
+}

@@ -1,0 +1,38 @@
+{
+    "Mild COPD$Intermedia_4": {
+        "FEV1 \u2265 80% confirm Mild COPD$Cause_1": {
+            "FEV1 92%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC < 0.70.$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "SOB is the common symptom of COPD$Cause_1": {
+                    "Shortness of breath$Input1": {}
+                },
+                "Long-term smoking is one of the main risk factors for COPD$Cause_1": {
+                    "current smoker$Input2": {}
+                },
+                "Feeling short of breath is one of the classic symptoms of COPD.$Cause_1": {
+                    "short of breath$Input2": {}
+                },
+                "More than 40 years of smoking history (pack-years are a measure of smoking) reflects a high risk of COPD$Cause_1": {
+                    "40+-pack-year smoking history$Input2": {}
+                },
+                "Smoking may make shortness of breath worse$Cause_1": {
+                    "smoked a cigarette and then felt worse$Input2": {}
+                },
+                "Distinguish breathing problems caused by COPD from possible heart disease, emphasizing that symptoms are more likely to be related to COPD.$Cause_1": {
+                    "No prior cardiac history.$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "current smoker presenting after feeling short of breath while visiting his wife in the earlier today Patient states that he has a 40+-pack-year smoking history.\nHe does not recall any inciting event, but remembers being in his wife's room and feeling short of breath.He went outside and smoked a cigarette and then felt worse. He presented to the emergency department from there. No cough productive of mucus, no fevers or chills. No chest pain. No prior cardiac history.\n",
+    "input3": "+ HTN\n",
+    "input4": "Non contributory\n",
+    "input5": "General: Alert, oriented, no acute distress  \nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  \nLungs: Cmild wheezes, \nSkin: Warm, dry, no rashes or notable lesions.  \nNeuro: CNII-XII intact, strength upper/lower extremities, grossly normal sensation, 2+ reflexes bilaterally.\n",
+    "input6": "02:45AM BLOOD WBC-11.9* RBC-4.99 Hgb-16.6 Hct-48.0 \nMCV-96 MCH-33.3* MCHC-34.6 RDW-15.0 RDWSD-52.8*\n02:45AM BLOOD Glucose-86 UreaN-12 Creat-0.7 Na-145 \nK-4.1 Cl-108 HCO3-19* AnGap-18\n\nPost-bronchodilator FEV1/FVC < 0.70.\nFEV1 92%\n"
+}

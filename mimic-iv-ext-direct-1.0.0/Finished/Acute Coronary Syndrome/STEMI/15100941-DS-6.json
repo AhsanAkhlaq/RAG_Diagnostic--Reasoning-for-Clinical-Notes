@@ -1,0 +1,53 @@
+{
+    "NSTE-ACS$Intermedia_5": {
+        "a sigh of STEMI$Cause_1": {
+            "Grade I/VI systolic ejection murmur at LUSB$Input5": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "cTropnT-0.38*$Input6": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "cTropnT-0.33*$Input6": {}
+        },
+        "Strongly suspected ACS$Intermedia_4": {
+            "high hs-cTn is a strong value for ACS$Cause_1": {
+                "Labs were notable for a Trop-T of 0.33$Input2": {}
+            },
+            "Cardiac structural abnormalities is a sigh of ACS$Cause_1": {
+                "Cardiac catheterization demonstrated 80-90% blockage of the proximal RCA, occluded L circumflex, severe LAD disease.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Weakness is a symptom of ACS$Cause_1": {
+                    "Weakness$Input1": {}
+                },
+                "severe weakness is a symptom of ACS$Cause_1": {
+                    "The patient reports that she had a 45 minute to one hour episode of severe weakness earlier today with inability to rise from her chair and called.$Input2": {}
+                },
+                "family history of CHF is a risk factor$Cause_1": {
+                    "Father: deceased (CHF)$Input4": {}
+                },
+                "carotid endarterectomy is the risk fact for ACS$Cause_1": {
+                    "R carotid stenosis s/p carotid endarterectomy$Input3": {}
+                },
+                "CKD is the risk fact for ACS$Cause_1": {
+                    "CKD IV$Input3": {}
+                },
+                "HTN is the risk fact for ACS$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "CVA is the risk fact for ACS$Cause_1": {
+                    "CVA$Input3": {}
+                },
+                "family history of heart diseas is a risk factor$Cause_1": {
+                    "Mother: deceased (unspecified heart diseas)$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "Weakness\n",
+    "input2": "She was transfer from outside hospital with elevated troponin level for further evaluation. The patient reports that she had a 45 minute to one hour episode of severe weakness earlier today with inability to rise from her chair and called. She was brought to outside hospital where she had elevated troponins concerning for MI and was sent for cardiac catheterization. Patient was dyspneic in the ED, with coarse breath sounds. \n\nIn the ED, initial vitals were: T 97.1F P43 BP 187/85 RR18 O2 98%. Physical examination was unremarkable. Labs were notable for a Trop-T of 0.33, with CK 63 and MB 4. Chemistries were Na 142, K 5.3, Cl 109, HCO3 18, BUN 53, Cr 2.7, Gluc 97. WBC 8.6 (N 67.3%, L 17.8%), H/H of 11.4/38.2, PLT of 286. 11.2, PTT 136.1, INR 1.0. UA with large leuks, 104 WBC, moderate bacteria, no nitrite, no gluc, no ketones. She complained of L scapular pain, possibly anginal in origin, but denied chest pain and dyspnea. There were reports of dynamic changes on EKG during her symptoms of weakness. \n\nCardiac catheterization demonstrated 80-90% blockage of the proximal RCA, occluded L circumflex, severe LAD disease. Post-procedurally, she developed bleeding from her R femoral access site, pressure maintained for 45+ minutes in cath lab, and continued upon arrival to the floor. Initially surrounding tissue from access site firm, but with improvement after maintaining prolonged pressure.\n\nPatient was given:\n___ 09:10 IV Heparin   1000 units/hr \n___ 11:12 IVF 1000 mL NS  Started 250 mL/hr \n___ 11:12 IV Ciprofloxacin 400 mg  \n___ 11:17 PO Acetaminophen 1000 mg\n",
+    "input3": "+ R carotid stenosis s/p carotid endarterectomy\n+ CVA\n+ HLD\n+ HTN\n+ CKD IV\n+ vitamin D deficiency\n+ bleeding duodenal ulcer (H pylori normal)\n+ urinary incontinence\n+ psoriasis \n+ psoriatic arthritis\n+ tobacco use disorder\n+ essential tremor\n+ shingles\n",
+    "input4": "Father: deceased (CHF)\nMother: deceased (unspecified heart diseas)\n- 1 brother passed away from a fall\n- 1 living sister\n",
+    "input5": "ADMISSION EXAM:\n\nVitals: per metavision\nGen: Oriented to self, anxious, confused, asking repeatedly about her cigarettes and her housekeeper.\nHEENT: No conjunctival pallor. No scleral icterus. MMM. OP clear.  \nNECK: R IJ CVL in place, dressing C/D/I, Neck supple without LAD. JVP low. Normal carotid upstroak without bruits.  \nCV: Bradycardic, regular rhythm, Grade I/VI systolic ejection murmur at LUSB, normal S1 and S2, no rubs, clicks, or gallops\nLUNGS: Clear to anterior auscultation bilaterally, no wheezes, rhonchi, or rales.  \nABD: Hypoactive bowel sounds. Abdomen distended, nontender, no organomegaly. No appreciable abdominal bruits.  \nEXT: R Groin with Femostop in place, no appreciable superficial bleeding, mild tenderness to palpation over R groin and anterior thigh. Full distal pulses bilaterally. Wrist restraints in place bilaterally\nNEURO: Alert, oriented to self only, agitated and confused. Unable to cooperate with full neurologic examination, but does follow ___ setp commands. Gait assessment deferred\nLINES: Foley in place, R IJ CVL in place C/D/I\n",
+    "input6": "ADMISSION LABS:\n___ 08:08PM   GLUCOSE-128* UREA N-50* CREAT-2.5* SODIUM-142 POTASSIUM-5.3* CHLORIDE-114* TOTAL CO2-18* ANION GAP-15\n___ 08:08PM   CK(CPK)-43\n___ 08:08PM   CK-MB-4 cTropnT-0.39*\n___ 08:08PM   CALCIUM-8.4 PHOSPHATE-4.3 MAGNESIUM-1.9\n___ 08:08PM   WBC-14.1*# RBC-3.20* HGB-9.4* HCT-32.1* MCV-100* MCH-29.4 MCHC-29.3* RDW-14.8 RDWSD-55.0*\n___ 08:08PM   PLT COUNT-360\n___ 08:08PM   ___ PTT-28.8 ___\n___ 05:00PM   GLUCOSE-107* UREA N-50* CREAT-2.3* SODIUM-142 POTASSIUM-4.7 CHLORIDE-113* TOTAL CO2-18* ANION GAP-16\n___ 05:00PM   ALT(SGPT)-11 AST(SGOT)-16 ALK PHOS-65 TOT BILI-0.2\n___ 05:00PM   cTropnT-0.38*\n___ 05:00PM   ALBUMIN-3.5\n___ 05:00PM   WBC-8.2 RBC-3.50* HGB-10.1* HCT-33.9* MCV-97 MCH-28.9 MCHC-29.8* RDW-14.8 RDWSD-52.4*\n___ 05:00PM   NEUTS-63.0 ___ MONOS-8.5 EOS-6.5 BASOS-1.7* IM ___ AbsNeut-5.16 AbsLymp-1.61 AbsMono-0.70 AbsEos-0.53 AbsBaso-0.14*\n___ 05:00PM   PLT COUNT-270\n___ 05:00PM   ___\n___ 09:00AM   GLUCOSE-97 UREA N-53* CREAT-2.7*# SODIUM-142 POTASSIUM-5.3* CHLORIDE-109* TOTAL CO2-18* ANION GAP-20\n___ 09:00AM   estGFR-Using this\n___ 09:00AM   CK(CPK)-63\n___ 09:00AM   cTropnT-0.33*\n___ 09:00AM   CK-MB-4\n___ 09:00AM URINE  HOURS-RANDOM\n___ 09:00AM URINE  HOURS-RANDOM\n___ 09:00AM URINE  UHOLD-HOLD\n___ 09:00AM URINE  GR HOLD-HOLD\n___ 09:00AM   WBC-8.6 RBC-3.90 HGB-11.4 HCT-38.2# MCV-98# MCH-29.2 MCHC-29.8*# RDW-15.1 RDWSD-53.9*\n___ 09:00AM   NEUTS-67.3 LYMPHS-17.8* MONOS-7.6 EOS-5.6 BASOS-1.4* IM ___ AbsNeut-5.80 AbsLymp-1.54 AbsMono-0.66 AbsEos-0.48 AbsBaso-0.12*\n___ 09:00AM   PLT COUNT-286\n___ 09:00AM   ___ PTT-136.1* ___\n___ 09:00AM URINE  COLOR-Straw APPEAR-Hazy SP ___\n___ 09:00AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-100 GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-LG\n___ 09:00AM URINE  RBC-0 WBC-104* BACTERIA-MOD YEAST-NONE EPI-1\n___ 09:00AM URINE  MUCOUS-RARE\n\n\nIMAGING/STUDIES\nCHEST PORT. LINE PLACEM\nIMPRESSION:  \nIn comparison to radiograph, a right internal jugular central venous catheter is been placed, terminating in the lower superior vena cava, with no visible pneumothorax.  Slight widening of the mediastinum is likely due to accentation of a tortuous thoracic aorta by patient rotation and supine portable technique, but a repeat nonrotated radiograph would be helpful to confirm this impression when the patient's condition permits.  Lungs are clear except for minor atelectasis at the left lung base. \n\nCHEST (PORTABLE AP) \nIMPRESSION: \nAs compared to previous study of 1 day earlier, there has not been a substantial change in the appearance of the chest except for slight \nimprovement in minor left basilar atelectasis. \n\nFEMORAL VASCULAR US RIG\nIMPRESSION: \n1. No evidence of pseudoaneurysm or AV fistula and the right groin. \n2. Organized hematoma in the right groin measuring up to 7 cm. \n3. No drainable fluid collection. \n  \nCT ABD & PELVIS W/O CON\nIMPRESSION:  \n1.   Infrarenal fusiform abdominal aortic aneurysm measuring up to is 4.7 cm in maximum diameter without evidence of aneurysmal leak, impending or contained rupture.  Recommend follow-up CT at 6 month interval. \n2.   Status post LHC complicated by a right arterial groin bleed.  6.7 x 2.3 cm area of increased density in the anteromedial aspect of right thigh with extensive soft tissue stranding and edema, most consistent with a soft tissue hematoma.  No evidence of retroperitoneal hematoma. \n3.  Cholelithiasis without cholecystitis. \n4.  Focal consolidation of the apex of the left upper lobe, likely related to scarring from chronic parenchymal disease. \n\nCHEST (PORTABLE AP) \nFINDINGS:  \nCardiomegaly is a stable.  The patient is rotated, this accentuates the widened mediastinum and tortuous aorta.  Improving left lower lobe atelectasis, otherwise the lungs are clear.  There is no pneumothorax or pleural effusion.  Right IJ catheter tip is in the lower SVC\n"
+}

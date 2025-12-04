@@ -1,0 +1,21 @@
+{
+    "Hypertension$Intermedia_3": {
+        "an elevation of BP (SBP\u2265140mmHg or DBP\u226590mmHg) is a diagnostic cretiria of hypertension.$Cause_1": {
+            "She was G5P1 at 33w6d with HTN presents with elevated BP to 170/90-100s in the ATU today$Input2": {}
+        },
+        "an elevation of BP (SBP\u2265140mmHg or DBP\u226590mmHg) is a diagnostic cretiria of hypertension$Cause_1": {
+            "BP 153/91$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "headache is the synptom of HTN$Cause_1": {
+                "headache$Input1": {}
+            }
+        }
+    },
+    "input1": "headache\n",
+    "input2": "\nShe was G5P1 at 33w6d with HTN presents with elevated BP to 170/90-100s in the ATU today. Denies h/a, visual changes, RUQ pain. No VB/LOF/ctx. +AFM.\nDiagnosed with gHTN when admitted for a preeclampsia eval. 24 hr urine and labs were WNL at that time. Admitted to the antepartum service, where again preeclampsia eval with 24 hr urine was negative. Seen yesterday in OB Triage after being evaluated for a h/a and elevated BP. H/a resolved with Fiorcet and labs were WNL.\n",
+    "input3": "\nPRENATAL COURSE\n- ___ ___\n- O+/Ab-/CT-/GC-/HIV-\n- will obtain other pn from Quest\n- abnl GLT, nl GTT\n- conception on clomid\n- triplet pregnancy reduced to ___\n- prophylactic cerclage, cervical length stable, ___ cm\n- maintained on IM 17P\n- (___) EFW: 1829g (35%)\n",
+    "input4": "\n",
+    "input5": "\nVITALS: T 99.2, HR 97, BP 153/91\nGENERAL: NAD\nCV: RRR  \nRESP: CTAB\nABDOMEN: soft, gravid, no TTP\nEXTREMITIES: no edema or calf TTP, reflexes 2+ b/l\nBPP: ___ in the ATU\n",
+    "input6": "\n___ WBC-12.3 RBC-4.13 Hgb-12.3 Hct-36.5 MCV-88 Plt-221\n___ WBC-14.6 RBC-4.03 Hgb-12.1 Hct-35.7 MCV-89 Plt-201\n___ WBC-14.6 RBC-4.18 Hgb-12.4 Hct-36.9 MCV-88 Plt-207\n___ WBC-16.6 RBC-3.71 Hgb-11.0 Hct-33.9 MCV-91 Plt-196\n___ ___ PTT-30.1 ___ ___ Creat-0.6 ALT-16 UricAcd-4.2\n___ Creat-0.6 ALT-16 UricAcd-4.4\n___ Creat-0.6 ALT-10 UricAcd-5.0\n___ URINE 24Creat-1342 24Prot-154\n"
+}

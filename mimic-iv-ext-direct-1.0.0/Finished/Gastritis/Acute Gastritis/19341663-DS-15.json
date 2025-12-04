@@ -1,0 +1,21 @@
+{
+    "Acute gastritis$Intermedia_3": {
+        "Lesions of gastric antrum erosion and hemorrhage on endoscopy are the gold standard for the diagnosis of acute gastritis$Cause_1": {
+            "Endoscopy:Lesions of gastric antrum erosion and hemorrhage$Input6": {}
+        },
+        "suspected gastritis$Intermedia_2": {
+            "It is common in gastritis and is associated with the stomach pain mentioned above, indicating that the food may not be well digested.$Cause_1": {
+                "nausea and non-bloody emesis (vomited \"just food\")$Input2": {}
+            },
+            "This could be caused by food, such as the prosciutto and tomatoes you eat for lunch.$Cause_1": {
+                "epigastric pain \nfollowing lunch (prosciutto, tomato)$Input2": {}
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "The patient reports yesterday she developed epigastric pain \nfollowing lunch (prosciutto, tomato). Associated with this was nausea and non-bloody emesis (vomited \"just food\"). She denies diarrhea, last BM was this AM that the patient reports to be normal. Denies CP, SOB, palpations, hematuria, dysuria, melena, BRBPR. Donepezil started 10 days ago, no other recent med changes.\n",
+    "input3": "-CHOLECYSTECTOMY  \n-DIABETES TYPE II  \n-GASTROESOPHAGEAL REFLUX  \n-HYPERLIPIDEMIA  \n-HYPERTENSION  \n-OBESITY  \n-OSTEOARTHRITIS  \n-TOTAL ABDOMINAL HYSTERECTOMY\n",
+    "input4": "-mother and father passed away from \"old age\"\n",
+    "input5": "Vitals: T:98.1  B:159/65 HR:79  RR:18  O2: 96%RA\nGeneral: Alert, no acute distress  \nHEENT: Sclera anicteric, moist membranes\nNeck: no LAD  \nCV: Irregular rhythm, normal rate, S1 + S2, no murmurs\nLungs: Clear to auscultation bilaterally, no wheezes\nAbdomen: soft, non-tender, non-distended, bowel sounds present\nGU: no foley  \nExt: Warm, trace edema  \nNeuro: speech fluent, tongue midline\n",
+    "input6": "___ 05:40PM BLOOD Neuts-80.1* Lymphs-15.8* Monos-2.9 \nEos-0.6 Baso-0.6\n___ 05:40PM BLOOD WBC-12.9* RBC-4.46 Hgb-13.7 Hct-39.9 \nMCV-89# MCH-30.8 MCHC-34.4 RDW-13.7 Plt ___\n___ 05:40PM BLOOD Glucose-210* UreaN-23* Creat-0.9 Na-142 \nK-4.1 Cl-101 HCO3-27 AnGap-18\n___ 05:40PM BLOOD ALT-18 AST-20 AlkPhos-93 TotBili-0.6\n___ 05:40PM BLOOD Lipase-220*\n___ 05:40PM BLOOD Albumin-4.5\n___ 06:36PM BLOOD Lactate-1.4\n\nEndoscopy:Lesions of gastric antrum erosion and hemorrhage\n\n"
+}

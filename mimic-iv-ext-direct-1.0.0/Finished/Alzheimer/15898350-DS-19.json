@@ -1,0 +1,45 @@
+{
+    "Alzheimer$Intermedia_3": {
+        "Global brain volume loss, a common feature of Alzheimer's disease, was detected on head CT scans.$Cause_1": {
+            "Global volume loss.$Input6": {}
+        },
+        "Such deposits are one of the biomarkers for the diagnosis of Alzheimer's disease$Cause_1": {
+            "Amyloid PET: Detects amyloid-beta deposits in the brain.$Input6": {}
+        },
+        "Suspected Alzheimer$Intermedia_2": {
+            "Cognitive dysfunction is a common symptom of Alzheimer's disease$Cause_1": {
+                "Altered mental status$Input1": {}
+            },
+            "This is a sign of cognitive impairment in Alzheimer's disease, which manifests as a decrease in social interaction and responsiveness.$Cause_1": {
+                "sitting on the couch but not he was responding$Input2": {}
+            },
+            "Cognitive decline may be associated with other neurodegenerative symptoms as a symptom of Alzheimer's disease$Cause_1": {
+                "unable to move his extremities and would intermittently close his eyes$Input2": {}
+            },
+            "Indicates a decreased level of consciousness, which may be a feature of Alzheimer's disease$Cause_1": {
+                "non-verbal but arousable$Input2": {}
+            },
+            "Typical signs of cognitive decline, often seen in the early stages of Alzheimer's disease$Cause_1": {
+                "sometimes has trouble with word retrieval and occasionally looses train of thought$Input2": {}
+            },
+            "It feels like a dream. This altered perception of reality may be a manifestation of cognitive impairment in Alzheimer's disease$Cause_1": {
+                "remembered being unresponsive to his family members, like it was a dream$Input2": {}
+            },
+            "Hypertension is a known risk factor for cognitive decline and Alzheimer's disease$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "Feeling disoriented about place and time. This disorientation in time or space is a common symptom of Alzheimer's disease and may indicate cognitive decline.$Cause_1": {
+                "Oriented to person, not place, not time$Input5": {}
+            },
+            "Muscle weakness in the lower right side of the face. This may be caused by a neurological disorder, as is common in Alzheimer's disease.$Cause_1": {
+                "7: R lower face weakness$Input5": {}
+            }
+        }
+    },
+    "input1": "Altered mental status\n",
+    "input2": "___ w/ prior sigmoidectomy (sigmoid volvulus) ___, bipolar d/o. History per son in law, pt was OK last night (lives independently), this morning he went to check on the patient after he and his wife recieved a phone call from the visiting nurse who said the patient was not answering his door this morning.  He found the patient sitting on the couch but not he was responding. There were no signs of trauma. The patient was unable to move his extremities and would intermittently close his eyes.  He was non-verbal but arousable. His son called EMS who brought him to the ED.  Per the son, he did not notice the patient loose continence.  Per the family, the patient hadn't been feeling well for the past few weeks.  At baseline, patient patient recognizes and remembers family and important dates, sometimes has trouble with word retrieval and occasionally looses train of thought.  Patient lives on his own and has a visiting nurse, and exercises on a daily basis.  Patient has experienced diarrhea over the past months, per his family at the bedside.  The patient reports that he remembered being unresponsive to his family members, like it was a dream, and he remembers being transported to the emergency room by the EMTs.\n",
+    "input3": "1. Bipolar disease  \n2. Hypertension.  \n3. Chronic obstructive pulmonary disease.  \n4. History of alcoholism.  \n5. h/o PNA complicated by empyema requiring decortication.  \n6. Status post right humerus fracture.  \n7. Autonomic Dysfunction, followed by Dr. ___.  \n",
+    "input4": "Mother - deceased age ___, unknown cause\nFather - deceased age ___, history of MI and stroke\n",
+    "input5": "Vitals:  97.9  160/66  66  20  100%3L\n General: Oriented to person, not place, not time, no acute distress  \n HEENT: Sclerae anicteric, MMM, oropharynx clear  \n Neck: supple, JVP not elevated, no LAD  \n Lungs: CTAB anteriorly no wheezes, rales, rhonchi  \n CV: RRR, Nl S1, S2, No MRG  \n Abdomen: soft, NT/ND bowel sounds present, no rebound tenderness or guarding, no organomegaly  \n GU: Foley\n Ext: warm, well perfused, 2+ pulses  \n Neuro: CN3,4,6,9,10,11,12 intact.  1,2,8 not assessed.  7: R lower face weakness (but unchanged from prior photo on ___ left facial twitching with smile, UE strength equal bilateral, ___ strength equal\n",
+    "input6": "___ 09:45AM BLOOD Plt ___\n___ 09:45AM BLOOD ___ PTT-33.8 ___\n___ 09:45AM BLOOD ___ 09:45AM BLOOD UreaN-29* Creat-1.2\n___ 09:45AM BLOOD ALT-15 AST-28 AlkPhos-82 TotBili-0.4\n___ 09:45AM BLOOD Lipase-42\n___ 09:45AM BLOOD Albumin-4.0\n___ 09:45AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG\n___ 10:07AM BLOOD Glucose-94 Lactate-1.0 Na-135 K-4.3 Cl-99 calHCO3-23\n\nImaging at admission:\nHead CT scan ___:\nNo acute intracranial process. Global volume loss.\nCXR ___:\nNo acute cardiopulmonary process.\n\nMicro at Admission:\nUrine Cx: no growth\n\nAmyloid PET: Detects amyloid-beta deposits in the brain.\n"
+}

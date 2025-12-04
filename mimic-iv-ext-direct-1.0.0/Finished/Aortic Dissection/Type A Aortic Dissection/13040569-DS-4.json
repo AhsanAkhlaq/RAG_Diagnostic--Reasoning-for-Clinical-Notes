@@ -1,0 +1,27 @@
+{
+    "Type A Aortic Dissection$Intermedia_3": {
+        "Dissection affects the ascending aorta and may extend to the descending aorta Direct evidence of Type A Aortic Dissection$Cause_1": {
+            "CTA of the chest which demonstrated an ascending aortic dissection and descending thoracic dissection to the mid thorax$Input2": {}
+        },
+        "Suspected Aortic Dissection$Intermedia_2": {
+            "Chest pain is one of the common symptoms of aortic dissection$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "Chest pain is one of the common symptoms of aortic dissection.$Cause_1": {
+                "experience chest pain while exertion approximately two weeks ago$Input2": {}
+            },
+            "This indicates hemodynamic instability, possibly due to dissection$Cause_1": {
+                "dyspnea and increased pain with exertion$Input2": {}
+            },
+            "Typical symptoms of aortic dissection include sudden, severe chest pain that often radiates to the back$Cause_1": {
+                "persistent with radiation to his back$Input2": {}
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "He is a 67 year old man with no significant past medical history. He began to experience chest pain while exertion approximately two weeks ago. The pain became persistent with radiation to his back. He was evaluated at an outside hospital and discharged after observation. Since that time, he noted dyspnea and increased pain with exertion. He decreased his activity and followed up with his PCP who scheduled an \noutpatient echocardiogram. The results were suspicious for dissection and he underwent a CTA of the chest which demonstrated an ascending aortic dissection and descending thoracic dissection to the mid thorax. He was transferredfor further care.\n",
+    "input3": "None\n",
+    "input4": "Non contributory\n",
+    "input5": "HR: 78-101.  BP: 111/88.  RR: 17.  O2 sat: 98%.\n\nGeneral:\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: Irregularly irregular, distant heart sounds, no murmur \nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds + []\nExtremities: Warm [x], well-perfused [x]  Edema - none\nVaricosities: None [x]\nNeuro: Grossly intact [x]\nPulses:\nFemoral      Right: 2+  palpable  Left:2+  palpable \nDP           Right: 2+  palpable  Left:2+  palpable \nRadial       Right: 2+  palpable  Left:2+  palpable \n\nCarotid Bruit: None\nDischarge Vital exam:\nTemp 98 HR 85 SBP 117/79 resp 16 sats 98% RA\nwgt: 167.7kg\n",
+    "input6": "None\n"
+}

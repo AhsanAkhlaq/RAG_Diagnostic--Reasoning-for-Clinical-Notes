@@ -1,0 +1,39 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET: 9.2% > 6% is the gold standard for GERD diagnosis$Cause_1": {
+            "Ambulatory reflux monitor :total AET:9.2% on pH-impedance monitoring.$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Throat tightness is a common symptom of GERD, usually caused by reflux of stomach acid irritating the esophagus and throat.$Cause_1": {
+                "throat tightness$Input1": {}
+            },
+            "Tightness in the throat may be related to GERD$Cause_1": {
+                "vague sensation of \"tightness\" in her throat$Input2": {}
+            },
+            "Shortness of breath may be related to GERD$Cause_1": {
+                "shortness of breath$Input2": {}
+            },
+            "Chest pain that occurs when you lie on your back but disappears when you sit up may be a classic symptom of GERD because this position may make it easier for stomach acid to back up into the esophagus.$Cause_1": {
+                "dull mild anterior chest pain when lying down which went away when she sat up$Input2": {}
+            },
+            "This surgery is often used to treat severe GERD or hiatal hernias and indicates that the patient has a history of severe esophageal problems.$Cause_1": {
+                "h/o ___ Lap hiatal herniorrhaphy/Toupet \nfundoplication for a large paraesophageal hernia$Input2": {}
+            },
+            "Paraesophageal hernias may cause a disruption in the pressure mechanism in the lower esophagus, making it easier for stomach acid to reflux into the esophagus, thus triggering or worsening GERD.$Cause_1": {
+                "large paraesophageal hernia$Input3": {}
+            },
+            "Abdominal distension may be caused by increased stomach gas or indigestion, which may be an indirect symptom of GERD because acid reflux may cause or worsen indigestion.$Cause_1": {
+                "distended but soft$Input5": {}
+            },
+            "This is a sign of a hiatal hernia, a common cause of GERD in which the stomach structure moves abnormally into the chest, increasing pressure in the esophagus, which can cause or worsen gastroesophageal reflux.$Cause_1": {
+                "simple fluid collection in the left paraesophageal region$Input6": {}
+            }
+        }
+    },
+    "input1": "throat tightness\n",
+    "input2": "For the past week has had vague sensation of \"tightness\" in her throat, sometimes accompanied by some minimal shortness of breath and mild throat pain. Lats night she had some dull mild anterior chest pain when lying down which went away when she sat up. She is taking solids and fluids w/o any dysphagia. She denies any heartburn. She has known right thyroid nodule that was FNA's in ___ and found to be benign. Lately she had been feeling some tightness in the neck around the same area and wonders whether her throat tightness is related. She has no known cardiac history but endorses chronic ___ swelling, X2-3 pillow orthopnea and PND X1/week as well as dyspnea at two flights of stairs and two blocks. This DOE has been stable for at least a couple of years. She did feel like she had a cold last week with some nasal congestion and cough that have resolved. She had no recent febrile illness. No recent exposure to new meds or foods. She has been on lisinopril for a while with no h/o angiedema.  sob and feeling of something in her throat. ___ states she develop this over 1 wk ago while just sitting at home. \n.\nOf note patient has h/o ___ Lap hiatal herniorrhaphy/Toupet \nfundoplication for a large paraesophageal hernia. Recently seen for follow up by Dr. ___ who thought no further f/u was necessary. Esophagogram on ___ looked good. She does not think her current symptoms are related to her past esophgeal issues. \n\nIn the ED admission vitals were: 98.8 114 128/69 15 98%  Labs notable for leukocytosis to 14K PMN predominant, hyperglycemia to 201 and elevated d-dimer to 4283. Trop neg X1. ECG non acute. CTA no PE. Got 2L of NS + IV ativan, with resolution of tachcardia. \n. \nOn the floor, patient feels ok currently except for mild throat tightness which is ongoing. She otherwise has no SOB, chest pain or any other complaint.  \n \nReview of sytems:  \n(+) Per HPI  \n(-) Denies fever, chills, night sweats, recent weight loss or gain. Denies headache, sinus tenderness. Denies palpitations. Denies nausea, vomiting, diarrhea, constipation or abdominal pain. No recent change in bowel or bladder habits. No dysuria. Denies arthralgias or myalgias. Ten point review of systems is otherwise negative.\n",
+    "input3": "large paraesophageal hernia.\nDMII\nhypothyroidism\nhyperlipidemia\nHTN\nB TKR\nhysterectomy \nappendectomy\ncholecystectomy\n",
+    "input4": "Family History: MGM cloln Ca. PGM Breast Ca. Mother CHF.\n",
+    "input5": "Vitals: 98.9  138/84  92  20  98RA  \nGeneral:   confortable and appropriate, alert+Ox3\nHEENT: PERRLA, EOMI, no pallor or jaundice, no sinus tenderness, normal oral mucosa, normal pharynx with central uvula no tonsillar hypertrophy and no signs of edema.  \nNeck: Minimal right anterior lymphadenopathy, I could not \npaplpate any thyroid nodules, no thyroid or carotid bruits, no tenderness. \nLAD: none except as above  \nLungs: CTA \nCV:RRR/ no M/R/N  \nAbdomen: distended but soft, no HSM, normal BS \nExt: +___dema to knees \nSkin: no rash  \nNeuro: motor ___ throughout, grossly normal sensorium, no \ncranial nerve deficits\n",
+    "input6": "___ 12:40PM BLOOD WBC-14.3* RBC-4.53 Hgb-13.3 Hct-39.2 \nMCV-87 MCH-29.3 MCHC-33.8 RDW-13.8 Plt ___\n___ 12:40PM BLOOD Neuts-78.8* Lymphs-13.9* Monos-2.9 \nEos-4.0 Baso-0.5\n___ 12:40PM BLOOD Glucose-201* UreaN-20 Creat-1.0 Na-141 \nK-3.9 Cl-101 HCO3-27 AnGap-17\n___ 12:40PM BLOOD ALT-13 AST-17 AlkPhos-95 TotBili-0.3\n___ 12:40PM BLOOD Albumin-4.6\n___ 12:40PM BLOOD D-Dimer-4283*\n___ 12:40PM BLOOD TSH-1.5\n\nSTUDIES:  \n\nCTA: \n\n1. No pulmonary embolism or acute cardiopulmonary process. \n\n2. Enlarged and heterogeneous right thyroid lobe as seen on \npriorexamination, for which further evaluation can be performed with a thyroidultrasound on a nonemergent basis if clinically indicated. \n\n3. Mild intrahepatic biliary ductal dilation, at least involving the lefthepatic lobe, not fully imaged. Correlate with LFTs, if further evaluation is warranted ultrasound or MRCP can be considered.\n\n4. simple fluid collection in the left paraesophageal region \n\n \nEKG:  sinus tachy, left axis WNL, PRWP, non specific lateral T wave faltening. Not significantly changed from prior. \n\nThere is normal compression and augmentation of the comon \nfemoral vein, superficial femoral vein (proximal, mid and distal), popliteal vein, posterior tibial veins and peroneal veins in both lower extremities. There is normal phasicity of the common femoral veins bilaterally.\n\nAmbulatory reflux monitor :total AET:9.2% on pH-impedance monitoring.\n"
+}

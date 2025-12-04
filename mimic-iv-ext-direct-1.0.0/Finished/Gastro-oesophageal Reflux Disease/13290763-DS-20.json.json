@@ -1,0 +1,27 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "Esophagitis(garade B) is the gold standard for the diagnosis of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+            "the pathology revealed squamocolumnar junction mucosa with chronic esophagitis(garade B), no evidence of intestinal metaplasia.$Input2": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Heartburn is a typical synptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "heartburn$Input1": {}
+            },
+            "Cough is an atypical synptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "he has a persistent globus sensation as well as occasional cough.$Input2": {}
+            },
+            "Substernal acid pain is a typical synptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "he does have some complaints of substernal acid pain, which have been significantly improved with PPI medication.$Input2": {}
+            },
+            "Regurgitation is a typical synptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "he also complaints of regurgitation of solid food,$Input2": {}
+            }
+        }
+    },
+    "input1": "heartburn\n",
+    "input2": "The patient is a gentleman who is followed by Dr..  The patient saw Dr. with a chief complaint of excessive throat clearing and mucus production.  In addition, he has a persistent globus sensation as well as occasional cough. In regards to esophageal symptoms, he does complain of occasional dysphagia primarily for solid food.  In addition, he does have some complaints of substernal acid pain, which have been significantly improved with PPI medication.  Finally, he also complaints of regurgitation of solid food, which has not been improved by PPI medication. The patient underwent an upper endoscopy by Dr..  This showed short segments of columnar epithelium suggestive.  However, the pathology revealed squamocolumnar junction mucosa with chronic esophagitis\uff08grade B\uff09, no evidence of intestinal metaplasia. The patient also underwent esophageal function testing including a pH impedance and manometry.  His manometry showed that swallows were peristaltic with remaining five associated with either drops or ineffective peristalsis.  The mean amplitude of contraction was 48.  He also underwent a 24-hour pH study.  I should note that this was performed on PPI therapy.  The score for a 24-hour period was 2.8.  He also underwent impedance at the same time that was within normal limits.\n",
+    "input3": "+Bipolar DO\n+Depression\n+possible ADHD\n+Tonsillectomy\n",
+    "input4": "non contributory\n",
+    "input5": "VITAL SIGNS:  Blood pressure 131/84, temperature 98.2, weight\n165, height 6 feet, oxygen saturation 96%.\nGENERAL APPEARANCE:  No acute distress.\nCOMMUNICATION ABILITY:  Normal.\nEYES:  Extraocular muscles intact.\nFACE/HEAD:  Otherwise, normal.\nNEUROLOGIC:  Cranial nerves grossly intact.  Alert and oriented\nx3.\nPSYCHIATRIC:  Mood and affect normal.\n",
+    "input6": "Ba swallow\nNo leak\n"
+}

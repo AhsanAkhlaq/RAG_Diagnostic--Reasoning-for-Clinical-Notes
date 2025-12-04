@@ -1,0 +1,23 @@
+{
+    "Type I diabetes$Intermedia_4": {
+        "IA-2A antibodies are positive in most patients with type I diabetes.$Cause_1": {
+            "IA-2A (+)$Input6": {}
+        },
+        "Diabetes$Intermedia_3": {
+            "Abnormal random blood glucose is a diagnostic criteria of diabetes.$Cause_1": {
+                "GLUCOSE-1000$Input6": {}
+            },
+            "Suspected Diabetes$Intermedia_2": {
+                "Poor glycemic control is a risk factor of diabetes.$Cause_1": {
+                    "poor glycemic control$Input1": {}
+                }
+            }
+        }
+    },
+    "input1": "poor glycemic control\n",
+    "input2": "Her G2P0 at 5w5d by ultrasound inconsistent with LMP presents for admission for glucose control. Presented 2days ago for dysuria, found to have a UTI for which she was admitted for IV antibiotics per her report. She left AMA and presented today where she was found to have a glucose of 44 mg/dl with reduced consciousness requiring glucagon and juice. BGS up to 102-> 224mg/dl. In the last 2 weeks limited testing bgs 73-501 on meter.\n\ufeff\nShe reports having an ultrasound done 2 days ago which showed a gestational sac with yolk sac, no fetal pole. She denies any cramping or bleeding.\n\ufeff\nShe currently reports feeling weak. Reports occasional nausea in the morning but none currently. She denies vomiting, HA, fevers, chills, abdominal pain, diarrhea, constipation, dysuria, abnormal vaginal discharge.\n\ufeff\n",
+    "input3": "OBHx:\nG1 SAB\nG2 current\n\ufeff\nGYN Hx: denies history of abnormal paps, fibroids, cysts, STDs\n\ufeff\nPMH: hypothyroidism (TSH recently normal off meds),bipolar/PTSD\nPSH: denies\n\ufeff\n",
+    "input4": "Adopted, little known of her family history\n",
+    "input5": "Discharge physical exam:\nGen: NAD\nCv: RRR\nP: No respiratory distress on RA\nAbd: soft, nontender, nondistended\nExt: WWP\n",
+    "input6": "___ 03:49PM URINE  COLOR-Yellow APPEAR-Hazy\n___ 03:49PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-30 GLUCOSE-1000 KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-LG\n___ 03:49PM URINE  RBC-4* WBC-7* BACTERIA-FEW YEAST-RARE EPI-33 TRANS EPI-<1\n___ 03:49PM URINE  MUCOUS-FEW\n___ 02:28PM   ALT(SGPT)-17 AST(SGOT)-19\n___ 02:28PM   CALCIUM-9.2 PHOSPHATE-4.4 MAGNESIUM-2.2\n___ 02:28PM   %HbA1c-11.1* eAG-272*\n___ 02:28PM   TSH-2.3\n___ 02:28PM   WBC-7.2 RBC-4.24 HGB-12.9 HCT-38.8# MCV-92# MCH-30.4 MCHC-33.2 RDW-12.9 RDWSD-42.6\n___ 02:28PM   NEUTS-66.5 MONOS-5.7 EOS-0.7* BASOS-0.4 AbsNeut-4.79 AbsLymp-1.90 AbsMono-0.41 AbsEos-0.05 AbsBaso-0.03\n___ 02:28PM   PLT COUNT-293\n___ 02:28PM   IA-2A (+)\n\ufeff\n"
+}

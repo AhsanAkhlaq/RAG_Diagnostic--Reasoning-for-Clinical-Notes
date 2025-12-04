@@ -1,0 +1,39 @@
+{
+    "Primary Adrenal Insufficiency$Intermedia_3": {
+        "Failure to increase ACTcortisol after administration is direct evidence of primary adrenal insufficiency$Cause_1": {
+            "cortisol does not increase even when ACTH is given$Input6": {}
+        },
+        "Suspected Adrenal Insufficiency$Intermedia_2": {
+            "Two drugs commonly used to treat adrenal insufficiency suggest he may have the condition$Cause_1": {
+                "he did take his normal AM dose of fludrocortisone and hydrocortisone$Input2": {}
+            },
+            "Insomnia may also occur in adrenal insufficiency$Cause_1": {
+                "difficulty sleeping for three nights prior to admission$Input2": {}
+            },
+            "Loss of appetite is a common symptom of adrenal insufficiency$Cause_1": {
+                "decreased appetite$Input2": {}
+            },
+            "Abnormal weight loss is the symptom of adrenal insufficiency$Cause_1": {
+                "Abnormal weight loss$Input3": {}
+            },
+            "Low sodium is a classic biochemical manifestation of adrenal insufficiency$Cause_1": {
+                "Na-124$Input6": {}
+            },
+            "High potassium is a classic biochemical manifestation of adrenal insufficiency$Cause_1": {
+                "K-5.6$Input6": {}
+            },
+            "Hypochloride is classic biochemical manifestations of adrenal insufficiency$Cause_1": {
+                "Cl-93$Input6": {}
+            },
+            "hypocarbonate is classic biochemical manifestations of adrenal insufficiency$Cause_1": {
+                "HCO3-19$Input6": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "He is a 34 yo M with chest pain.  \n\nPer history obtained in the ED, pt abruptly developed L-sided chest pressure around noon on the day of presentation. The pain radiated to his L shoulder blade, and was worse on inspiration. The chest pain mostly resolved within 3 hours, but pt continued to endorse mild discomfort with deep inspiration. Pt denied trauma, recent travel, lower extremity swelling or pain, infectious symptoms. He never experienced chest pain like this before. \n\nOn arrival to the floor, patient endorsed the above history. Additionally, he noted having a decreased appetite the morning of admission. He did not eat anything the morning prior to arrival to the ED, but had been drinking water. Pt says that he did take his normal AM dose of fludrocortisone and hydrocortisone. He also notes that he had difficulty sleeping for three nights prior to admission. He denies recent stressors. He also denies diarrhea, vomiting, fever, chills, cough. Pt says he started feeling better once he was in the ED, and was able to eat a grilled cheese sandwich . \n\nREVIEW OF SYSTEMS:\n==================\nPer HPI, otherwise, 10-point review of systems was within normal limits.\n",
+    "input3": "Back pain\nAbnormal weight loss\n",
+    "input4": "Mother and maternal aunt with breast cancer. Father with DM and liver cancer. Denies family history of autoimmune disorders or anemia. \n",
+    "input5": "Temp: 96.2 HR: 90 BP: 100/62 Resp: 14 O2 Sat: 99\nGENERAL: Alert and interactive. In no acute distress.\nHEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.\nNECK: No cervical lymphadenopathy. \nCARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No\nmurmurs/rubs/gallops.\nLUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or rales. No increased work of breathing.\nABDOMEN: Normal bowels sounds, non distended, non-tender. No\norganomegaly.\nEXTREMITIES: No clubbing, cyanosis, or edema. \nSKIN: Warm. Cap refill <2s. Good skin turgor, no tenting. \nNEUROLOGIC: AOx3. Grossly intact.\n",
+    "input6": "INITIAL LABS: \n=================\n___ 04:19PM BLOOD WBC-9.7 RBC-5.70 Hgb-16.9 Hct-48.2 MCV-85 \nMCH-29.6 MCHC-35.1 RDW-11.9 RDWSD-35.8 Plt ___\n___ 04:19PM BLOOD Neuts-63.4 ___ Monos-11.2 Eos-0.5* Baso-0.3 Im ___ AbsNeut-6.15* AbsLymp-2.34 AbsMono-1.09* AbsEos-0.05 AbsBaso-0.03\n___ 04:19PM BLOOD Plt ___\n___ 04:19PM BLOOD Glucose-81 UreaN-23* Creat-0.8 Na-124* K-5.6* Cl-93* HCO3-19* AnGap-12\n___ 04:19PM BLOOD cTropnT-<0.01\n\n\ncortisol does not increase even when ACTH is given \n\n\nMICRO: \n=================\nUrine Dipstick: unremarkable, nitrites negative\n\nIMAGING\n=================\n\nEKG: sinus rhythm\n  \nTECHNIQUE:  Chest PA and lateral \nFINDINGS:  \nHeart size is normal.  The mediastinal and hilar contours are normal. The pulmonary vasculature is normal. Lungs are clear.  No pleural effusion or pneumothorax is seen. There are no acute osseous abnormalities.  \n"
+}

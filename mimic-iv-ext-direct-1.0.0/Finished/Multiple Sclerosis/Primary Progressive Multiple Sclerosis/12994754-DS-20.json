@@ -1,0 +1,38 @@
+{
+    "Primary Progressive Multiple Sclerosis$Intermedia_4": {
+        "Disease progression from onset without distinct relapses. Confirm  Primary Progressive Multiple Sclerosis$Cause_1": {
+            "She said that her condition had been getting worse for a year, and there had been no recurrences.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "Multiple enhancing lesions suggested active demyelination, and one also showed slowed diffusion, suggestive of an ongoing demyelinating process.$Cause_1": {
+                "There are multiple enhancing lesions indicating active demyelination, one of which also demonstrates slow diffusion.\ufeff$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Burning pain is a common symptom of multiple sclerosis and may be related to nervous system inflammation$Cause_1": {
+                    "a burning pain in her L arm$Input2": {}
+                },
+                "The extended pattern of pain may be due to central nervous system involvement, consistent with features of MS$Cause_1": {
+                    "On the first day, she noted patches of pain in her lower arm. Then today, she felt burning pain in her index finger and middle finger which extended around her arm and up to above the elbow \"like it wraps around\"$Input2": {}
+                },
+                "Heaviness and difficulty walking may be related to MS because MS affects nerve conduction, causing muscle weakness and movement problems.$Cause_1": {
+                    "\"heaviness\" of the L leg$Input2": {}
+                },
+                "Abnormal gait and difficulty walking may be due to lower limb weakness or coordination problems caused by MS.$Cause_1": {
+                    "hard to move the L leg, and that her gait has been affected, with difficulty supporting her weight$Input2": {}
+                },
+                "Interruptions in steroid treatment may lead to worsening of MS symptoms, as steroids are used to control inflammation and relieve symptoms.$Cause_1": {
+                    "missed her Q3month Steroid injection$Input2": {}
+                },
+                "Tysabri is a drug used for MS, and the fact that a patient is considering starting it indicates that she may have been diagnosed with MS or is highly suspected of having MS.$Cause_1": {
+                    "start tysabri$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "The pt is a right-handed woman. She states that she was in her USOH recently, but over the last 2 days, she has had a burning pain in her L arm. On the first day, she noted patches of pain in her lower arm. Then today, she felt burning pain in her index finger and middle finger which extended around her arm and up to above the elbow \"like it wraps around\". She did not note any pins and needles, numbness, weakness or clumsiness. \n\ufeff\nSimultaneously, she has had a feeling of \"heaviness\" of the L leg. She feels that it is hard to move the L leg, and that her gait has been affected, with difficulty supporting her weight. She denies falls. She also feels a dull ache down her leg, but does not feel pain. She denied any urinary symptoms or back pain.\n\ufeff\nShe recently missed her Q3month Steroid injection. She in possible preparation to start tysabri but has decided that she does not want to take this medication due to her concern for PML. She is scheduled to see Dr. tomorrow to further discuss her treatment options. She said that her condition had been getting worse for a year, and there had been no recurrences.\n \nROS: \nThe pt denied headache, loss of vision, blurred vision, diplopia, dysarthria, dysphagia, lightheadedness, vertigo, tinnitus or hearing difficulty. Denied difficulties producing or comprehending speech. No bowel or bladder incontinence or retention. The pt denied recent fever or chills.  No night sweats or recent weight loss or gain. Denied cough, shortness of breath. Denied chest pain or tightness, palpitations.  Denied nausea,vomiting, diarrhea, constipation or abdominal pain.  No recent change in bowel or bladder habits.  No dysuria.  Denied arthralgias or myalgias. Denied rash.\n",
+    "input3": "+ S/p R BKA after motor vehicle accident.  \n+ S/p cholecystecomy  \n+ Depression\n+ GERD\n",
+    "input4": "mother has crohn's dz.  no neuro d/o or sz.\n",
+    "input5": "Vitals: T: 98.9 P: 97 R: 16 BP: 124/78 SaO2: 98% RA\nGeneral: Awake, cooperative, NAD. \nHEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in oropharynx \nNeck: Supple, no carotid bruits appreciated. No nuchal rigidity \nPulmonary: Lungs CTA bilaterally without R/R/W \nCardiac: RRR, nl. S1S2, no M/R/G noted \nAbdomen: soft, NT/ND, normoactive bowel sounds, no masses or organomegaly noted. \nExtremities: No C/C/E bilaterally, 2+ radial, DP pulses bilaterally. \nSkin: no rashes or lesions noted.\n",
+    "input6": "05:47AM BLOOD WBC-8.2 RBC-4.46 Hgb-13.4 Hct-39.8 MCV-89 \nMCH-30.2 MCHC-33.8 RDW-13.7\n10:50PM BLOOD WBC-11.7* RBC-4.95 Hgb-14.7 Hct-43.4 \nMCV-88 MCH-29.6 MCHC-33.7 RDW-13.5\n10:50PM BLOOD Neuts-75.6* Monos-3.1 Eos-0.5 \nBaso-0.9\n05:47AM BLOOD Glucose-112* UreaN-10 Creat-0.7 Na-143 K-3.3 Cl-110* HCO3-19* AnGap-17\n10:50PM BLOOD Glucose-108* UreaN-16 Creat-0.8 Na-141 K-3.8 Cl-109* HCO3-18* AnGap-18\n10:01AM BLOOD ALT-32 AST-34 LD(LDH)-142 AlkPhos-63 \nTotBili-0.3\n10:01AM BLOOD Albumin-4.0\n05:47AM BLOOD Calcium-8.0* Phos-3.8 Mg-2.0\n10:50PM BLOOD Calcium-8.9 Phos-3.9 Mg-2.1\n10:50PM BLOOD HCG-<5\n10:01AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-6.3 \nBnzodzp-NEG Barbitr-NEG Tricycl-NEG\n10:56PM BLOOD Lactate-0.8\n\nThere are multiple enhancing lesions indicating active demyelination, one of which also demonstrates slow diffusion.\ufeff\n"
+}

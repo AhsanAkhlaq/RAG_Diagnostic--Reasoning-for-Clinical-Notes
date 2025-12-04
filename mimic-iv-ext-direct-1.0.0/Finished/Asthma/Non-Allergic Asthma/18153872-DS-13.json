@@ -1,0 +1,32 @@
+{
+    "Non-Allergic Asthma$Intermedia_4": {
+        "Poor asthma control and the need for daily albuterol use are direct evidence of worsening asthma symptoms.$Cause_1": {
+            "His asthma has been under a little worse control recently and he is needing to use albuterol pretty much every day.$Input2": {}
+        },
+        "Asthma$Intermedia_3": {
+            "Significant improvement in FEV1 is often used to assess asthma patients' response to treatment and to diagnose asthma.$Cause_1": {
+                "significant improvement in FEV1 of more than 16%$Input6": {}
+            },
+            "Suspected Asthma$Intermedia_2": {
+                "Chest pressure is a common symptom of asthma$Cause_1": {
+                    "Chest pressure$Input1": {}
+                },
+                "Patients feel a band-like pressure in the chest, which may be related to the dyspnea symptom of asthma.$Cause_1": {
+                    "Feels like a band-like pressure sensation$Input2": {}
+                },
+                "Recurring chest discomfort may indicate chronic or poorly controlled asthma.$Cause_1": {
+                    "episodes of chest discomfort have recurred$Input2": {}
+                },
+                "Hypertriglyceridemia may be associated with metabolic syndrome, which has been shown to be associated with the development and severity of asthma.$Cause_1": {
+                    "Hypertriglyceridemia$Input3": {}
+                }
+            }
+        }
+    },
+    "input1": "Chest pressure\n",
+    "input2": "He first noted the pain about 1 wk prior to admission.  It came on in the morning while the patient was at rest.  Feels like a band-like pressure sensation.  He has no accompanying SOB, nausea, lightheadedness. He always feels sweaty. No pleuritic or positional component to the pain. The episodes of chest discomfort have recurred about ___ times per day over the past week.\n\nHe initially ignored it and tried to work through the discomfort. He was well enough to go to the fitness center. In fact he was able to run on a treadmill - going 3.75 miles in 30 minutes. He also was able to do squats and pushups. His CP was actually better after that workout. He came to the ER today because the chest discomfort was persistent, and he was just generally feeling tired and weak.  \n.  \nIn the ED, initial vitals were 98.6 ___ 16 100%. He remained quite hypertensive up to 215/110. EKG showed SR no ischemia. He was given ASA 324mg, nitroglycerin x1, nitropaste ___ inch. No CP free. Last vitals 77 172/79 16 99on2L. Bedside echo seemed unremarkable to ER resident.  \n.  \nOn evaluation on the floor, he is pain free. Reports his BPs have been \"borderline high\" 140's/90's at PCP; previously on a diuretic but more recently on diet/exercise approach for his BP. Has a history of \"migraines\" with increased headaches this week but no blurred vision or other neurologic symptoms. His asthma has been under a little worse control recently and he is needing to use albuterol pretty much every day. Also reports high cholesterols, but can't recall recent labs. Not a smoker, denies drug use. His grandparents both have a history of CAD. Review of systems otherwise negative for recent illness, fevers, chills, or sweats, leg pain, swelling, bleeding\n",
+    "input3": "Hyperlipidemia  \nHypertriglyceridemia  \nHypertension  \nHypogonadism  \nErectile Dysfunction  \nDepression  \nHeadaches\n",
+    "input4": "grandfathers with MIs age ___; grandmother with ___ in her\n",
+    "input5": "Vitals 97.9 73 141/79 20 97% on RA  \nGeneral Overweight appears comfortable no distress  \nHEENT Sclera white, conjunctiva pink, MMM  \nNeck no JVD  \nPulm lungs clear bilaterally, no rales or wheezing  \nCV regular s1 s2 no m/r/g, chestwall nontender to palpation  \nAbd abd soft nontender +bowel sounds no bruits  \nExtrem warm no edema 2+ dp and pt  \nNeuro alert and interactive, ambulatory, moving all extremities\n",
+    "input6": "___ 09:10AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG \ncocaine-NEG amphetmn-NEG mthdone-NEG\n___ 09:10AM URINE  COLOR-Yellow APPEAR-Clear SP ___\n___ 09:10AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG \nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 \nLEUK-NEG\n___ 06:20AM   GLUCOSE-101 UREA N-15 CREAT-1.0 SODIUM-140 \nPOTASSIUM-4.1 CHLORIDE-104 TOTAL CO2-27 ANION GAP-13\n___ 06:20AM   CK(CPK)-1066*\n___ 06:20AM   CK-MB-8 cTropnT-<0.01\n___ 06:20AM   MAGNESIUM-2.2 CHOLEST-296*\n___ 06:20AM   TRIGLYCER-389* HDL CHOL-31 CHOL/HDL-9.5 \nLDL(CALC)-187*\n___ 06:20AM   WBC-7.2 RBC-4.71 HGB-13.4* HCT-37.9* MCV-80* \nMCH-28.4 MCHC-35.4* RDW-13.6\n___ 12:30AM   GLUCOSE-112* UREA N-17 CREAT-0.8 SODIUM-142 \nPOTASSIUM-4.6 CHLORIDE-105 TOTAL CO2-27 ANION GAP-15\n___ 12:30AM   CK(CPK)-1394*\n___ 12:30AM   cTropnT-<0.01\n\nsignificant improvement in FEV1 of more than 16%\n"
+}

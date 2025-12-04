@@ -1,0 +1,33 @@
+{
+    "Alzheimer$Intermedia_3": {
+        "The hippocampus is a key area of \u200b\u200bthe brain responsible for learning and memory, and its shrinkage is often direct evidence of Alzheimer's disease$Cause_1": {
+            "Atrophy of the hippocampus region.$Input6": {}
+        },
+        "Suspected Alzheimer$Intermedia_2": {
+            "Anxiety is a common symptom in people with Alzheimer's disease$Cause_1": {
+                "Agitation$Input1": {}
+            },
+            "Hypertension is a risk factor for dementia, including Alzheimer's disease$Cause_1": {
+                "hypertension$Input2": {}
+            },
+            "Dementia is one of the main symptoms of Alzheimer's disease$Cause_1": {
+                "unable to provide a history due to dementia$Input2": {}
+            },
+            "Hitting behavior is not a typical symptom of Alzheimer's disease, but it may occur at some point in the disease course.$Cause_1": {
+                "attacked another patient at the facility$Input2": {}
+            },
+            "Urinary tract infections are common among older adults and can cause a temporary decline in cognitive function, particularly in patients with cognitive impairment.$Cause_1": {
+                "being treated for a UTI$Input2": {}
+            },
+            "Patients experience memory impairment and disorientation, typical symptoms of Alzheimer's disease$Cause_1": {
+                "Alert, confused - at time forgetting the name of her daughter who is at bedside, oriented to self only$Input5": {}
+            }
+        }
+    },
+    "input1": "Agitation\n",
+    "input2": "Ms. ___ is a ___ year old with hypertension, who presents from ___ long term living facility with aggressive behavior. \n\nPatient is unable to provide a history due to dementia. Some history is obtained from her daughter ___, who is at bedside, but she also has limited knowledge of the event. Per ___ and review of records from ___, the patient attacked another patient at the facility \"throwing them against a wall.\" She also tried to choke an aid. This is very much out of character for her, as she is normally quite pleasant. She is currently being treated for a UTI with nitrofurantoin, and according to ___ was near the end of her course. Otherwise, ___ does not know of any other recent medication changes or complaints from the patient. Given this behavior, patient was brought to the ED, though of note received all of her care normally at ___. \n\n",
+    "input3": "None\n",
+    "input4": "Reviewed and found to be not relevant to this illness/reason for hospitalization.\n",
+    "input5": "VITALS: T 98.0, HR 84, BP 138/89, RR 18, 96% RA \nGENERAL: Alert and in no apparent distress\nEYES: Anicteric, pupils equally round\nENT: Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesion, erythema or exudate\nCV: Heart regular, no murmur, no S3, no S4.  No JVD.\nRESP: Lungs clear to auscultation with good air movement bilaterally.  Breathing is non-labored\nGI: Abdomen soft, non-distended, non-tender to palpation.  Bowel\nsounds present.  No HSM\nGU: No suprapubic fullness or tenderness to palpation\nMSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs\nSKIN: Some small scabbed over scars on right arm. Thickened toenails on first toes \nNEURO: Alert, confused - at time forgetting the name of her daughter who is at bedside, oriented to self only, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs, sensation to light touch grossly intact throughout\nPSYCH: pleasant, appropriate affect\n",
+    "input6": "___ 03:45PM BLOOD WBC-8.6 RBC-4.37 Hgb-14.1 Hct-43.1 \nMCV-99* MCH-32.3* MCHC-32.7 RDW-11.7 RDWSD-42.4 Plt ___\n___ 03:45PM BLOOD Glucose-95 UreaN-12 Creat-0.7 Na-141 \nK-4.3 Cl-106 HCO3-22 AnGap-13\n___ 03:45PM BLOOD ALT-12 AST-18 AlkPhos-82 TotBili-0.6\n___ 03:45PM BLOOD Lipase-62*\n___ 03:45PM BLOOD cTropnT-<0.01\n___ 05:30AM BLOOD Calcium-8.8 Phos-4.9* Mg-2.4\n___ 05:30AM BLOOD VitB12-742\n___ 05:30AM BLOOD TSH-3.8\n\nMRI: \nAtrophy of the hippocampus region.\n"
+}

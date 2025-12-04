@@ -1,0 +1,44 @@
+{
+    "Submassive PE$Intermedia_4": {
+        "Rule out Massive PE$Cause_1": {
+            "The patient is hemodynamically stable.$Input6": {}
+        },
+        "The increased right ventricular workload is due to the heart needing to pump more blood through the embolic lung vessels. This is one of the important indicators for assessing the severity of pulmonary embolism.$Cause_1": {
+            "evidence of right heart strain$Input2": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Large pulmonary emboli usually indicate blood clots in the major pulmonary arteries, which is a clear sign of pulmonary embolism.$Cause_1": {
+                "Large pulmonary embolism in the right main pulmonary artery$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Dyspnea on exertion is a feeling of labored breathing during physical activity and is a common symptom of pulmonary embolism.$Cause_1": {
+                    "Dyspnea on exertion$Input1": {}
+                },
+                "Sudden onset of dyspnea, a classic symptom of PE$Cause_1": {
+                    "acute shortness of breath$Input2": {}
+                },
+                "Chest tightness is a symptom of pulmonary embolism$Cause_1": {
+                    "chest pressure$Input2": {}
+                },
+                "The recurrence of symptoms increases the likelihood of PE and suggests that this may be an ongoing circulatory problem.$Cause_1": {
+                    "again developed dyspnea$Input2": {}
+                },
+                "Family inheritance is an important factor in PE$Cause_1": {
+                    "father dying in from a pulmonary embolism$Input4": {}
+                },
+                "Right ventricular dilatation and reduced free wall motion are often associated with pulmonary hypertension and increased cardiac workload after pulmonary embolism, which may be caused by a large pulmonary embolism.$Cause_1": {
+                    "right ventricular cavity is mildly dilated$Input6": {}
+                },
+                "Pulmonary hypertension may be caused by blood flow obstruction due to pulmonary embolism, which is a common complication of pulmonary embolism.$Cause_1": {
+                    "There is mild symmetric left ventricular hypertrophy$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea on exertion\n",
+    "input2": "He hx BPH who presents with acute onset of DOE yesterday while walking around work. Pt was in his USOH when he developed acute shortness of breath while walking up a hill at work. He states that he is usually able to do this hill multiple times in a day without any difficulty. However he noted that he was quite dyspneic, requiring him to rest. Had associated chest pressure located over midchest that self terminated after several minutes. Denied palpitations, cough, hemoptysis, fevers, chills, NS, changes in weight. When he went home, he again developed dyspnea while working on a project with associated chest pressure. He took 2 aspirin and his symptoms alleviated after an hour. He went to sleep asymptomatic however the next morning he again developed DOE and chest pressure which prompted him to go to ED for evaluation. \n\ufeff\nHe initially presented where he was found to have tropI of 0.32 with EKG with RBBB (unclear if new). He was plavix loaded and heparinized and transferred for cardiac catheterization. On day of cath he was found to have 50% LAD lesion but otherwise normal coronaries. He was then admitted for further work-up. While on the floor patient remained notably dyspneic.  CTA was completed showing evidence of right heart strain. \n\ufeff\n",
+    "input3": "BPH \nappendectomy\n\ufeff\n",
+    "input4": "father dying in from a pulmonary embolism, multiple other first degree relatives with DVTs\n",
+    "input5": "Physical Exam:\nPHYSICAL EXAMINATION:  \nVS: afebrile 132/92 115 20 94%RA\nGeneral: NAD\nHEENT: PERRL, EOMI\nNeck: no JVD  \nCV: RRR s1/s2 -mrg \nLungs: CTAB -wrr\nAbdomen: sNTND +BS\nExt: -cce, -calf tenderness\nNeuro: grossly intact\n",
+    "input6": "ADMISSION:\n___ 08:08PM   UREA N-14 CREAT-0.9 SODIUM-141 POTASSIUM-3.8 CHLORIDE-104 TOTAL CO2-27 ANION GAP-14\n___ 08:08PM   estGFR-Using this\n___ 08:08PM   CK(CPK)-55\n___ 08:08PM   CK-MB-4 cTropnT-0.05* proBNP-1576*\n___ 08:08PM   MAGNESIUM-2.1\n___ 08:08PM   08:08PM   WBC-9.3 RBC-4.81 HGB-14.7 HCT-43.3 MCV-90 MCH-30.5 MCHC-33.9 RDW-13.2\n___ 08:08PM   NEUTS-68.3 MONOS-5.5 EOS-0.9 BASOS-0.6\n___ 08:08PM   PLT COUNT-128*\n___ 08:08PM  PTT-27.0\n___ 08:08PM   PTT-27.0\n\ufeff\n\ufeff\nMICRO:\n5:27 am MRSA SCREEN\n**FINAL REPORT\nMRSA SCREEN (Final:    No MRSA isolated. \n\ufeff\nIMAGING:\nCardiac Catheterization Report\nCoronary angiography:  right dominant\nLMCA:  No angiographically apparent CAD\nLAD:  Mid vessel eccentric 50% \nLCX:  No angiographically apparent CAD\nRCA:  No angiographically apparent CAD\n\ufeff\nRadiology Report CTA CHEST W&W/O C&RECONS, NON-CORONARY Study \nIMPRESSION: \n1.  Large pulmonary embolism in the right main pulmonary artery extending into many of the lobar and segmental branches and beyond. \n2.  A smaller burden of segmental embolism in the left pulmonary arterial tree. \n3.  There is no specific CT evidence of right heart strain, although clinical correlation is recommended.  \n4. The patient is hemodynamically stable.\n\ufeff\nPortable TTE (Complete) Done at 3:12:17    \nFINAL Conclusions  \nThe left atrium is normal in size. There is mild symmetric left ventricular hypertrophy with normal cavity size. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Overall left ventricular systolic function is low normal (LVEF 50-55%). The right ventricular cavity is mildly dilated with mild global free wall hypokinesis. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion. \n\ufeff\nIMPRESSION: Suboptimal image quality. Mild symmetric left ventricular systolic hypertrophy with low normal global systolic function. Mild right ventricular dilatation and mild global systolic dysfunction. Mild pulmonary artery systolic hypertension.   \n\ufeff\n"
+}

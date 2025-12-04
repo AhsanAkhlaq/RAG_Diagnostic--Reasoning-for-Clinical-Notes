@@ -1,0 +1,21 @@
+{
+    "gastro-oesophageal reflux disease$Intermedia_3": {
+        "24-hour impedance-pH results is the gold standard in the diagnosis of gastroesophageal reflux disease.$Cause_1": {
+            "She had a 24-hour impedance-pH study performed OFF PPI therapy, which showed an elevated score of 17.2 (normal < 14.7).$Input2": {}
+        },
+        "suspected gastro-oesophageal reflux disease$Intermedia_2": {
+            "Heartburn is a typical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "She says the heartburn wakes her up at night. She cannot sleep laying flat, must be propped up w/ pillows.$Input2": {}
+            },
+            "The patient has a history of esophageal reflux.$Cause_1": {
+                "Esophageal reflux$Input3": {}
+            }
+        }
+    },
+    "input1": "Heartburn\n",
+    "input2": "A woman never smoker, with long hx of a disease managed with high dose ranitidine and restrictive diet. She has been on various PPI therapies and Carafate with limited success. Had an endoscopy and biopsies showed no evidence of helicobacter. There was evidence of chemical/reactive gastropathy. She had a 24-hour impedance-pH study performed OFF PPI therapy, which showed an elevated score of 17.2 (normal < 14.7). Esophageal manometry was normal. Referred for consideration of antireflux surgery.\nShe takes Zantac per day, which help, but the symptoms immediately return after the Zantac wears off. She says the heartburn wakes her up at night. She cannot sleep laying flat, must be propped up w/ pillows. Denies regurgitation. Has tried Nexium, which she did not find helpful. She coughs up phlegm in the AM. She notes that over the past months she has been spitting up some blood in the morning when she wakes up. Has a restrictive diet- avoids fruit, caffeine, alcohol, tomato sauce. Denies history of cardiac problems.\n",
+    "input3": "+Anxiety \n+Esophageal reflux \n+Gastritis \n+Colorectal polyps \n+Menopause \n+Migraine without aura and without status migrainosus, not\nintractable \n+Osteoporosis without current pathological fracture \n+Essential hypertension \n+Scoliosis\n+Left ovarian cyst\n+s/p tonsillectomy\n+s/p laparoscopy\n",
+    "input4": "Mother- sarcoidosis, high blood pressure, tinnitus\nFather- high blood pressure, prostate cancer\nSiblings\nOffspring\nOther- grandmother: bone and joint disorder\n",
+    "input5": "BP: 150/84. Heart Rate: 101. O2 Saturation%: 100. Weight: 113\n(With Shoes). Temperature: 98.3. Resp. Rate: 18. Pain Score: 0.\nGENERAL        \n[x] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:\n\nHEENT          \n[x] NC/AT   [] EOMI   [x] PERRL/A   [x] Anicteric\n[x] OP/NP mucosa normal     [x] Tongue midline\n[x] Palate symmetric  [x] Neck supple/NT/without mass\n[x] Trachea midline [] Thyroid nl size/contour\n[ ] Abnormal findings:\n\nRESPIRATORY    \n[x] CTA bilaterally    [] Excursion normal     [ ] No fremitus\n[] No egophony   [] No spine/CVAT\n[ ] Abnormal findings:\n\nCARDIOVASCULAR \n[x] RRR    [x] No m/r/g    [] No JVD   [] PMI nl  [x] No edema\n[] Peripheral pulses nl    [] No abd/carotid bruit\n[ ] Abnormal findings:\n\nGI             \n[x] Soft    [x] NT   [x] ND  [] No mass/HSM   [] No hernia\n[ ] Abnormal findings:\n\nGU             [x] Deferred  \n[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE\n[ ] Abnormal findings:\n\nNEURO          \n[] Strength intact/symmetric    [] Sensation intact/ symmetric\n[] Reflexes nl     [x] No facial asymmetry [x] Cognition intact\n[] Cranial nerves intact   [ ] Abnormal findings:\n\nMS            \n[] No clubbing   [] No cyanosis   [] No edema   [] Gait nl\n[] No tenderness  [] Tone/align/ROM nl   [] Palpation nl\n[] Nails nl   [ ] Abnormal findings:\n\nLYMPH NODES   \n[x] Cervical nl      [x] Supraclavicular nl     [] Axillary nl\n[] Inguinal nl   [ ] Abnormal findings:\n\nSKIN           \n[x] No rashes/lesions/ulcers on visible skin\n[] No induration/nodules/tightening     [ ] Abnormal findings:\n\nPSYCHIATRIC    \n[x] Nl judgment/insight    [x] Nl memory   [x] Nl mood/affect\n[ ] Abnormal findings:\n",
+    "input6": "WBC RBC   Hgb   Hct MCV MCH  MCHC  RDW RDWSD \nPlt Ct \n04:02    8.1 3.86* 11.4 36.3 94  29.5 31.4* 12.8 43.9 \n 163 \n    \n                 Glucose UreaN Creat Na  K   Cl HCO3 AnGap \n04:02    121*1 17    0.8 139 4.4 102 28    9*\n"
+}

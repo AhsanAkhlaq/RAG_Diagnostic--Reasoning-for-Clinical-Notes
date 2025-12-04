@@ -1,0 +1,30 @@
+{
+    "Congenital Adrenal Hyperplasia$Intermedia_3": {
+        "Genetic defects directly diagnose CAH$Cause_1": {
+            "Genetic test reveals 21-hydroxylase deficiency$Input6": {}
+        },
+        "Suspected adrenal insufficiency$Intermedia_2": {
+            "Adrenal medullary hyperplasia may indicate adrenal dysfunction$Cause_1": {
+                "adrenal medullary hyperplasia$Input2": {}
+            },
+            "MEN2A is a genetic disorder that often involves problems with the thyroid and adrenal glands$Cause_1": {
+                "MEN2A$Input2": {}
+            },
+            "This may be due to adrenal overactivity or an adrenal tumor, both of which may overlap with CAH.$Cause_1": {
+                "bilateral adrenalectomy$Input2": {}
+            },
+            "Patients with CAH may be accompanied by metabolic abnormalities, such as impaired glucose tolerance$Cause_1": {
+                "Glucose-133$Input6": {}
+            },
+            "Changes in serum potassium levels may be related to adrenocortical dysfunction, which is common in CAH$Cause_1": {
+                "K-3.5$Input6": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "She is a 22 yo female with MEN2A, h/othyroidectomy, and adrenal medullary hyperplasia who presents for bilateral adrenalectomy. The patient was diagnosed with MEN2A by a blood test (likely RET mutation analysis) due to the significant family history (see below). She had a prophylactic thyroidectomy shortly thereafter. \n",
+    "input3": "+MEN II (thyroid mass, s/p thyroidectomy)\n+Depression\n+Anxiety\n",
+    "input4": "majoring in biobiopsychology with minor statistics with plans for career in ___. Lives with 1 roommate in dorm.  Denies tobacco or illicit drug use; occasional EtOH. Sexually active with 1 partner, always uses condoms, no h/o STDs. \n",
+    "input5": "N/A\n",
+    "input6": "___ 06:00AM BLOOD WBC-9.9 RBC-3.61* Hgb-11.3* Hct-31.7* MCV-88 MCH-31.2 MCHC-35.6* RDW-12.9 Plt ___\n___ 06:50PM BLOOD WBC-8.4 RBC-3.41* Hgb-10.5* Hct-29.8* MCV-87 MCH-30.8 MCHC-35.2* RDW-12.3 Plt ___\n___ 06:00AM BLOOD Glucose-133* UreaN-4* Creat-0.6 Na-141 K-3.5 Cl-104 HCO3-28 AnGap-13\n\nGenetic test reveals 21-hydroxylase deficiency\n"
+}

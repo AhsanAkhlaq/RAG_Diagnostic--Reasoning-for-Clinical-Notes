@@ -1,0 +1,27 @@
+{
+    "Hypertension$Intermedia_3": {
+        "an elevation of BP (SBP\u2265140mmHg or DBP\u226590mmHg) confirmed is a diagnostic criteria of hypertension$Cause_1": {
+            "Physical Exam:\nVITALS: BP 163/104, HR 98, O2 98%RA$Input5": {}
+        },
+        "High blood pressure and headache are common symptoms and related factors of hypertension$Cause_1": {
+            "G5P1 at 32w3d with HTN presents with 1 day history of headache$Input2": {}
+        },
+        "an elevation of BP (SBP\u2265140mmHg or DBP\u226590mmHg) confirmed is a diagnostic criteria of hypertension\n.$Cause_1": {
+            "at home today 170/120.$Input2": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "headache is the symptom of HTN$Cause_1": {
+                "States the headache started this am at 3 am$Input2": {}
+            },
+            "Edema is also a symptom of high blood pressure$Cause_1": {
+                "swelling started 2 months ago$Input2": {}
+            }
+        }
+    },
+    "input1": "headache\n",
+    "input2": "History of Present Illness:\nShe was G5P1 at 32w3d with HTN presents with 1 day history of headache. States the headache started this am at 3 am. It resolved with Tylenol ___ mg x 1 but not the second time she took it. She does not get headaches outside of pregnancy. According to pt, this is the first time she has developed a HA in this pregnancy; however past notes say she has daily HA in am. Pt denies change in vision, UQ pain, ctx, LOF, VB. +FM.  + swelling started 2 months ago.\n\n24 hr urine and labs were nl at that time. Labs were rechecked ___ and were wnl. Pt started nifed CR 30 mg last night for ___ time. Started checking BP at home for first time, states BP at home today 170/120.\n",
+    "input3": "Past Medical History:\nPRENATAL COURSE\n- O+/Ab-,CT-,GC-,HIV-,RPRnr,RI,HbsAg-,CF-\n- hx infertility\n *)conception on clomid\n *)triplet pregnancy reduced to ___\n- hx preterm delivery\n *)prophylactic cerclage, CL stable, ___ cm\n *)maintained on IM 17P\n- gestational hypertension since 29wks\n *) s/p admission ___\n *) pre-eclampsia labs normal\n *) 24hr urine nl (170mg protein)\n- (___) EFW: 1415g Percentile: 35% ___\n- (___) BPP ___ nl fluid\n",
+    "input4": "\n",
+    "input5": "Physical Exam:\nVITALS: BP 163/104, HR 98, O2 98%RA\nGENERAL: Well-nourished, well-developed woman, NAD\nHEART: RRR, no murmurs, rubs or gallops \nLUNGS: CTAB bilat, no wheezes, crackles or rubs  \nABDOMEN: S=D, no masses appreciated, no pain, rebound or\nguarding. EFW 4# Leopolds \nEXTREMITIES: No skin changes and no edema\nFHT: 130, mod var, +accels, -decels\nTOCO: no ctx\nTAUS: vtx, BPP ___, AFI 14\n",
+    "input6": "Pertinent Results:\n___ WBC-10.9 RBC-4.63 Hgb-13.8 Hct-40.7 MCV-88 Plt-212\n___ WBC-16.1 RBC-3.82 Hgb-11.1 Hct-34.3 MCV-90 Plt-184\n___ Creat-0.6 ALT-13 UricAcd-3.2\n___ Creat-0.5 ALT-25 UricAcd-4.2\n___ URINE Hrs-RANDOM Cre-31 TotPr-6 Pr/Cr-0.2\n___ URINE pH-5 Hrs-24 ___ Cre-75 TProt-6 Pr/Cr-0.1\n___ URINE 24Creat-1463 24Prot-___ y/o G5P1 at 32w3d weeks with GHTN and HA, possible new preeclampsia.\n"
+}

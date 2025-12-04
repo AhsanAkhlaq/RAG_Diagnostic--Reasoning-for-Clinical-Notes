@@ -1,0 +1,44 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "This is the support for Low-risk PE$Cause_1": {
+            "The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "A tiny filling defect in a small branch of the right lower lobe pulmonary artery is a direct sign of pulmonary embolism.$Cause_1": {
+                "Tiny filling defect noted in the subsegmental branch of the posteriorsegment of the right lower lobe pulomary artery with a small right-sided pleural effusion.$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Chest pain is a common symptom of PE$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "Cancer patients have an increased risk of pulmonary embolism because tumor cells may increase blood coagulation.$Cause_1": {
+                    "history of endometrial cancer$Input2": {}
+                },
+                "One of the common symptoms of pulmonary embolism is chest pain, which is worse when you breathe deeply.$Cause_1": {
+                    "pain in her left lower chest$Input2": {}
+                },
+                "This is a typical pleural chest pain, which may be caused by obstruction of blood flow to the lungs.$Cause_1": {
+                    "worse with inspiration$Input2": {}
+                },
+                "High blood pressure is a major risk factor for cardiovascular disease and may increase the risk of blood clots$Cause_1": {
+                    "Hypertension.$Input3": {}
+                },
+                "Hyperlipidemia can lead to atherosclerosis and indirectly increase the possibility of thrombosis$Cause_1": {
+                    "Hyperlipidemia.$Input3": {}
+                },
+                "There is mild pressure edema in both lower limbs. This is an important symptom of PE.$Cause_1": {
+                    "1+ bilateral pitting edema$Input5": {}
+                },
+                "Treatment measures are directed toward the acute management of pulmonary embolism, indicating a high suspicion or diagnosis of PE$Cause_1": {
+                    "initially on a heparin drip$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "Female with a history of endometrial cancer who was transferred from an OSH. The patient states she started having pain in her left lower chest yesterday which progressively got worse overnight. It is worse with inspiration. She denies any shortness of breath, cough, or fever. She otherwise has been feeling well. She denies any history of any blood clots.\n\ufeff\nREVIEW OF SYSTEMS:\n- All reviewed and negative except as noted in the HPI.\n",
+    "input3": "\nPAST MEDICAL HISTORY:\n+Hypertension.\n+Hyperlipidemia.\n+Hypothyroidism.\n+Breast biopsy.\n+Lumbar back surgery.\n+Tonsillectomy.\n\ufeff\n",
+    "input4": "Mother: Died from CHF, history of asthma.\nFather: MI.\nSister: MI.\nSister: hypothyroidism.\n",
+    "input5": "Physical Exam:\nPHYSICAL EXAM:\nGeneral:  NAD\nVITAL SIGNS: 97.4   118/54    62    18    94%RA\nHEENT:  MMM, no OP lesions\nCV:  RR, NL S1S2\nPULM: clear bilaterally\nABD:  Soft, NTND\nLIMBS:  1+ bilateral pitting edema\nSKIN:  No rashes or skin breakdown\nNEURO: Alert and oriented, no focal deficits.\n",
+    "input6": "___ 08:26PM BLOOD WBC-4.6# RBC-2.65* Hgb-8.7* Hct-27.1* MCV-102* MCH-32.8* MCHC-32.1 RDW-16.5* RDWSD-62.6* \n___ 04:15PM BLOOD WBC-2.7* RBC-2.95* Hgb-9.8* Hct-29.8* MCV-101* MCH-33.2* MCHC-32.9 RDW-15.7* RDWSD-58.8* \n___ 08:26PM BLOOD PTT-81.6*\n___ 08:26PM BLOOD Glucose-97 UreaN-16 Creat-0.7 Na-138 K-3.9 Cl-102 HCO3-26 AnGap-14\n___ 07:40AM BLOOD Glucose-98 UreaN-15 Creat-0.8 Na-140 K-4.2 Cl-104 HCO3-27 AnGap-13\n___ 08:26PM BLOOD proBNP-48\n___ 08:26PM BLOOD cTropnT-<0. \nShe remained clinically stable throughout her course. Her only symptom was left lower chest pain particularly with deep breaths, which has resolved by the time of discharge. Note that EKG had no ischemic changes and troponin negative. Her oxygenation remained stable on room air. She was initially on a heparin drip at transfer and was started on Lovenox the morning after admission here. She was evaluated for clinical trial, Phase III edoxaban versus dalteparin for treatment of VTE in active cancer patients. She agreed to enroll and was randomized to dalteparin. She received the first dose evening and will continue with daily injections every evening. In total >30 minutes was spent in discharge planning.\n\ufeff\nTiny filling defect noted in the subsegmental branch of the posteriorsegment of the right lower lobe pulomary artery with a small right-sided pleural effusion.\n\nThe patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels\n\n\n"
+}

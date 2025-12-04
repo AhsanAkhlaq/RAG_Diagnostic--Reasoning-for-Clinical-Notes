@@ -1,0 +1,45 @@
+{
+    "Hemorrhagic Stroke$Intermedia_3": {
+        "An altered pupillary light reflex and an inability to turn the gaze to the left of the midline suggest possible cranial nerve dysfunction. This dysfunction may be due to compression or injury caused by a brain hemorrhage.$Cause_1": {
+            "CN: PERRL 3->2mm, unable to cross midline to L. No BTT on L. L NLFF, although obscured by facemask.$Input5": {}
+        },
+        "A large acute intracerebral hemorrhage in the center of the right parietal temporal lobe of the brain, accompanied by surrounding edema and local compression effect. This hemorrhage directly indicates the occurrence of hemorrhagic stroke, because hemorrhagic stroke is caused by the rupture of blood vessels in the brain, resulting in the accumulation of blood in the brain tissue.$Cause_1": {
+            "Large acute intraparenchymal hemorrhage centered in the right parietal temporal lobe with surrounding edema, local mass effect, effacement of the right lateral ventricle, and 7 mm of leftward midline shift$Input6": {}
+        },
+        "There is an aneurysm at the junction of the internal carotid artery and the middle cerebral artery. Although this aneurysm has not yet shown signs of rupture, the presence of an aneurysm is an important risk factor for hemorrhagic stroke because if an aneurysm ruptures, it may cause severe intracerebral bleeding.$Cause_1": {
+            "4 x 2 mm aneurysm at the junction of the right terminal ICA and right M1 segment$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "confusion is a common symptom of stroke$Cause_1": {
+                "confusion$Input1": {}
+            },
+            "Intracerebral hemorrhage is a direct manifestation of hemorrhagic stroke, in which a blood vessel ruptures causing bleeding within the brain tissue$Cause_1": {
+                "found to have a large IPH$Input2": {}
+            },
+            "Traffic accidents may cause or aggravate head injuries, leading to cerebral hemorrhage$Cause_1": {
+                "crash his car into another parked car at approximately 5 mph$Input2": {}
+            },
+            "These are typical stroke symptoms and may indicate that a part of the brain is damaged by bleeding.$Cause_1": {
+                "disoriented with a facial droop$Input2": {}
+            },
+            "Hypertension is a major risk factor for hemorrhagic stroke$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "Vomiting may be a symptom of increased intracranial pressure, which is associated with bleeding in the brain.$Cause_1": {
+                "vomiting$Input2": {}
+            },
+            "The patient showed anti-gravity ability in the right upper/lower limb, while the left upper limb had a reduced response to pain and the left lower limb had a touch response. This side-differential sensorimotor manifestation may be caused by asymmetric hemispheric function, which is common in stroke patients.$Cause_1": {
+                "Sensorimotor: Intact bulk and tone b/l. Antigravity in RUE/RLE. WD to noxious in LUE, TF in LLE$Input5": {}
+            },
+            "Mild multiple atherosclerosis of the blood vessels in the neck and brain. Atherosclerosis is the accumulation of fat and other substances in the inner wall of the arteries, causing blood vessels to harden and narrow, increasing the risk of blood vessels rupture and blockage, which may induce stroke$Cause_1": {
+                "Mild multifocal atherosclerosis throughout the cervical and intracranial vasculature$Input6": {}
+            }
+        }
+    },
+    "input1": "confusion\n",
+    "input2": "___ year old male was medflighted from ___ after he was found to have a large IPH. He was last seen well at 11am when his neighbor witnessed him crash his car into another parked car at approximately 5 mph. After neighbors checked on him and found his disoriented with a facial droop, EMS was called and he was brought to ___ at 1649. Following the ___, he was administered 10mg of Decadron and 1G Keppra prior to a medflight. His GCS prior to transport was 15. Prior to and during the flight, the patient was hypertensive and vomiting. He was administered Fentanyl.\n",
+    "input3": "HTN, Anxiety\n",
+    "input4": "Patient is currently an ___ for the ___, working for children who have been abused. He is married and has three children.\n",
+    "input5": "Vitals:  P: 68 RR: 19  BP: 120/51 SaO2: 98% ETT\n \nGeneral: Awake, briefly cooperative, in moderate distress.\nHEENT: NC/AT, no scleral icterus noted, facemask in place\nNeck: Supple, no carotid bruits appreciated. No nuchal rigidity\nPulmonary: Normal work of breathing\nCardiac: RRR, warm, well-perfused\nAbdomen: soft, non-distended\nExtremities: No ___ edema.\nSkin: no rashes or lesions noted.\n \nNeurologic:\nMS: Awake, alert. EO spontaneously. Regards and tracks examiner. Follows midline and appendicular commands. Shows some degree of fluency when facemask removed (\"the bucket!\"). Grimaces to noxious. R gaze preference.\n\nCN: PERRL 3->2mm, unable to cross midline to L. No BTT on L. L NLFF, although obscured by facemask. \n\nSensorimotor: Intact bulk and tone b/l. Antigravity in RUE/RLE. WD to noxious in LUE, TF in LLE. No adventitious movements or asterixis present.\n",
+    "input6": "========================\n___, CTA head and neck:\n========================\n1. Large acute intraparenchymal hemorrhage centered in the right parietal temporal lobe with surrounding edema, local mass effect, effacement of the right lateral ventricle, and 7 mm of leftward midline shift.  No CTA spot sign is visualized. \n2. 4 x 2 mm aneurysm at the junction of the right terminal ICA and right M1 segment.  No additional site of aneurysm is identified. \n3. Mild multifocal atherosclerosis throughout the cervical and intracranial vasculature, which otherwise remains patent. \n4. Partially imaged ETT/NGT, bilateral atelectasis, and a diffusely heterogeneous thyroid gland without dominant nodule measuring greater than 1.0 cm. \n"
+}

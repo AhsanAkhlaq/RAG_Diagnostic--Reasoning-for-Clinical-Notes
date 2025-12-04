@@ -1,0 +1,108 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "BLOOD cTropnT-0.60*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest Pain is a symptom of ACS.$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "Chest Pain is a symptom of ACS..$Cause_1": {
+                "Patient reports that she began having chest pain yesterday at rest. Previous chest pain is a sharp pain but this was a dull ache that started in her back and chest. Never had this type of pain before or pain that has lasted this long before. No radiation aside from into her back.$Input2": {}
+            },
+            "Coronary artery disease  \nHypercholesterolemia  are big risk factors$Cause_1": {
+                "Coronary artery disease  \nHypercholesterolemia  \n+DM + TYPE 2 UNCNTRLD$Input3": {}
+            },
+            "Hypertension  is a risk factor$Cause_1": {
+                "Fatty liver  \nHypertension goal BP (blood pressure) < 130/80  \n+Chronic pain$Input3": {}
+            },
+            "Morbid obesity is a risk factor$Cause_1": {
+                "Morbid obesity with BMI of 40.0-44.9, adult  \n+Type 2 diabetes, uncontrolled, with renal manifestation$Input3": {}
+            },
+            "Family history is a big risk factor$Cause_1": {
+                "Father with MI$Input4": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                "The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets appear structurally normal with good leaflet excursion. There is no aortic valve stenosis. No aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "Chest Pain is a symptom of ACS..$Cause_1": {
+                    "Patient reports that she began having chest pain yesterday at rest. Previous chest pain is a sharp pain but this was a dull ache that started in her back and chest. Never had this type of pain before or pain that has lasted this long before. No radiation aside from into her back.$Input2": {}
+                },
+                "Coronary artery disease  \nHypercholesterolemia  are big risk factors$Cause_1": {
+                    "Coronary artery disease  \nHypercholesterolemia  \n+DM + TYPE 2 UNCNTRLD$Input3": {}
+                },
+                "Hypertension  is a risk factor$Cause_1": {
+                    "Fatty liver  \nHypertension goal BP (blood pressure) < 130/80  \n+Chronic pain$Input3": {}
+                },
+                "Morbid obesity is a risk factor$Cause_1": {
+                    "Morbid obesity with BMI of 40.0-44.9, adult  \n+Type 2 diabetes, uncontrolled, with renal manifestation$Input3": {}
+                },
+                "Family history is a big risk factor$Cause_1": {
+                    "Father with MI$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation$Cause_1": {
+                "EKG: Sinus, rate 62, QTC 456, no new ischemic changes  \nExam notable for: Distant heart sounds, RRR no R/M/G, CTAB, soft, obese, non distended, no abdominal pain  non-ST-elevation$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "Chest Pain is a symptom of ACS..$Cause_1": {
+                    "Patient reports that she began having chest pain yesterday at rest. Previous chest pain is a sharp pain but this was a dull ache that started in her back and chest. Never had this type of pain before or pain that has lasted this long before. No radiation aside from into her back.$Input2": {}
+                },
+                "Coronary artery disease  \nHypercholesterolemia  are big risk factors$Cause_1": {
+                    "Coronary artery disease  \nHypercholesterolemia  \n+DM + TYPE 2 UNCNTRLD$Input3": {}
+                },
+                "Hypertension  is a risk factor$Cause_1": {
+                    "Fatty liver  \nHypertension goal BP (blood pressure) < 130/80  \n+Chronic pain$Input3": {}
+                },
+                "Morbid obesity is a risk factor$Cause_1": {
+                    "Morbid obesity with BMI of 40.0-44.9, adult  \n+Type 2 diabetes, uncontrolled, with renal manifestation$Input3": {}
+                },
+                "Family history is a big risk factor$Cause_1": {
+                    "Father with MI$Input4": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets appear structurally normal with good leaflet excursion. There is no aortic valve stenosis. No aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest Pain is a symptom of ACS.$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "Chest Pain is a symptom of ACS..$Cause_1": {
+                        "Patient reports that she began having chest pain yesterday at rest. Previous chest pain is a sharp pain but this was a dull ache that started in her back and chest. Never had this type of pain before or pain that has lasted this long before. No radiation aside from into her back.$Input2": {}
+                    },
+                    "Coronary artery disease  \nHypercholesterolemia  are big risk factors$Cause_1": {
+                        "Coronary artery disease  \nHypercholesterolemia  \n+DM + TYPE 2 UNCNTRLD$Input3": {}
+                    },
+                    "Hypertension  is a risk factor$Cause_1": {
+                        "Fatty liver  \nHypertension goal BP (blood pressure) < 130/80  \n+Chronic pain$Input3": {}
+                    },
+                    "Morbid obesity is a risk factor$Cause_1": {
+                        "Morbid obesity with BMI of 40.0-44.9, adult  \n+Type 2 diabetes, uncontrolled, with renal manifestation$Input3": {}
+                    },
+                    "Family history is a big risk factor$Cause_1": {
+                        "Father with MI$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "Patient reports that she began having chest pain yesterday at rest. Previous chest pain is a sharp pain but this was a dull ache that started in her back and chest. Never had this type of pain before or pain that has lasted this long before. No radiation aside from into her back. Some associated SOB that has been ongoing for several weeks. Chest pain not relieved with multiple SL nitro at home (but patient thinks these may have been expired). No fever, chills, nausea or vomiting. Her friend encouraged her to come to ED.  \n \nIn the ED initial vitals were: 98, 88, 186/71, 18, 98% RA  \nEKG: Sinus, rate 62, QTC 456, no new ischemic changes  \nExam notable for: Distant heart sounds, RRR no R/M/G, CTAB, soft, obese, non distended, no abdominal pain  non-ST-elevation\r\nLabs/studies notable for:  \n - CBC: 9.3/13.7/41.6/228  \n - CHem&: ___  \n - Trp 0.04  \n - Ddimer 251  \n CXR: No acute cardiopulmonary process  \n \nPatient was given:  \n ___ 00:48 IV Morphine Sulfate 2 mg  \n ___ 01:26 IV Morphine Sulfate 2 mg  \n ___ 01:29 IV Ondansetron 4 mg  \n ___ 02:20 IV Morphine Sulfate 4 mg  \n ___ 02:20 IV Heparin Started 800  \n \nVitals on transfer: 98.3, 63, 138/63, 16, 96% RA  \n \nOn the floor: patient reports feeling the best she has felt in 24 hours. Chest pain is resolved. feels small dull ache but nothing compared with past 24 hours per her report. she recently went to her cardiologist and was suppose to start Lasix 20mg for increased lower extremity edema but she has not filled this medication yet.\n",
+    "input3": "+Nephrolithiasis  \n+Hypothyroidism  \n+Asthma  \n+Low back pain  \n+Rhinitis, allergic  \n+Coronary artery disease  \n+Hypercholesterolemia  \n+DM + TYPE 2 UNCNTRLD  \n+Hemorrhoids  \n+Lichen sclerosus et atrophicus  \n+OSTEOARTHRITIS, LOCALIZED PRIMARY + KNEE  \n+History of total knee replacement  \n+Sleep apnea  \n+Fatty liver  \n+Hypertension goal BP (blood pressure) < 130/80  \n+Chronic pain  \n+Colonic adenoma  \n+Cervical high risk human papillomavirus (HPV) DNA test positive \n+S/P total knee arthroplasty  \n+Pain due to total right knee replacement  \n+Morbid obesity with BMI of 40.0-44.9, adult  \n+Type 2 diabetes, uncontrolled, with renal manifestation\n",
+    "input4": "Father with MI\n",
+    "input5": "Admission Physical\n\nVS:97.6, 124/62, 57, 18, 98% RA  \nFinger stick: 227  \nWeight: 107.3kg  \nGENERAL: NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.  \nNECK: Supple with no elevated JVD  \nCARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. No thrills, lifts.  \nLUNGS: CTAB. No crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness.  \nEXTREMITIES: 1+ pitting edema bilaterally, warm  \nNEURO: grossly non focal, moving all extremities.\n",
+    "input6": "Admission Labs\n===============\n___ 12:45AM BLOOD WBC-9.3 RBC-4.96 Hgb-13.7 Hct-41.6 MCV-84 MCH-27.6 MCHC-32.9 RDW-13.4 RDWSD-40.8 Plt ___\n___ 12:45AM BLOOD Neuts-56.6 ___ Monos-5.6 Eos-2.7 Baso-0.5 AbsNeut-5.25 AbsLymp-3.18 AbsMono-0.52 AbsEos-0.25 AbsBaso-0.05\n___ 12:45AM BLOOD PTT-33.0\n___ 12:45AM BLOOD Glucose-339* UreaN-15 Creat-0.7 Na-135 K-4.0 Cl-100 HCO3-24 AnGap-15\n___ 12:45AM BLOOD cTropnT-0.60*\n___ 06:55AM BLOOD Calcium-9.2 Phos-3.8 Mg-1.8\n\nImaging & Studies\n\nTTE ___\nThe left atrium and right atrium are normal in cavity size. There is mild symmetric left ventricular hypertrophy with normal cavity size and global systolic function (LVEF>55%). Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets appear structurally normal with good leaflet excursion. There is no aortic valve stenosis. No aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion.\n\nIMPRESSION: Suboptimal image quality. Mild symmetric left ventricular hypertrophy with preserved global biventricular systolic function. No valvular pathology or pathologic flow identified. \n\nCXR ___\nFINDINGS: \n \nThe lungs are well-expanded and clear.  The cardiomediastinal and hilar contours are unremarkable.  There is no pneumothorax, pleural \neffusion, or consolidation.\n \nIMPRESSION: \nNo acute cardiopulmonary process.\n"
+}

@@ -1,0 +1,24 @@
+{
+    "Gastric ulcers$Intermedia_3": {
+        "Gastric ulcer with bleeding onendoscopy is the gold standard of gastric ulcer.$Cause_1": {
+            "Endoscopy:Gastric ulcer with bleeding$Input6": {}
+        },
+        "suspected peptic ulcer disease$Cause_2": {
+            "Epigastric pain is a possible symptom of peptic ulcer.$Cause_1": {
+                "Epigastric pain$Input1": {}
+            },
+            "epigastric pain and two days of dark tarry stools are the possible symptoms of peptic ulcer.$Cause_1": {
+                "lap band in and lap roux en y gastric bypass in by Dr. returns with four days of epigastric pain and two days of dark tarry stools though patient does report taking pepto-bismol.$Input2": {}
+            },
+            "Family history of ulcer disease$Cause_1": {
+                "family history significant for ulcer disease in mother and sister$Input4": {}
+            }
+        }
+    },
+    "input1": "Epigastric pain\n",
+    "input2": "s/p lap band in and lap roux en y gastric bypass in by Dr. returns with four days of epigastric pain and two days of dark tarry stools though patient does report taking pepto-bismol. She denies diarrhea, BRBPR, but notes increased pain with eating resulting in poor PO intake over the past several days. Despite this, her urine output has been adequate and is not concentrated. She has been taking a PPI daily.\n",
+    "input3": "+Obstructive sleep apnea\n+Asthma\n+Dyslipidemia\n+Venous \n+stasis change\n+obesity\n+sciatica\n",
+    "input4": "FH: family history significant for ulcer disease in mother and sister\n",
+    "input5": "T: 98.2 P: 86 BP: 112/66 RR: 16 SpO2: 99 RA\nGeneral: awake, alert, moderately uncomfortable\nHEENT: NCAT, EOMI, anicteric\nHeart: Regular rate and rhythm\nLungs: CTAB, normal excursion, no respiratory distress\nBack: no vertebral tenderness, no CVAT\nAbdomen: soft, epigastric tenderness, no rebound\nExtremities: WWP, no CCE, no tenderness, 2+ B\n",
+    "input6": "05:15AM BLOOD WBC-8.5 RBC-3.99* Hgb-13.4 Hct-37.8 MCV-95 MCH-33.6* MCHC-35.4* RDW-14.0 Plt\n05:15AM BLOOD Glucose-87 UreaN-12 Creat-0.7 Na-141 K-4.2 Cl-107 HCO3-26 AnGap-12\nEndoscopy:Gastric ulcer with bleeding\n"
+}

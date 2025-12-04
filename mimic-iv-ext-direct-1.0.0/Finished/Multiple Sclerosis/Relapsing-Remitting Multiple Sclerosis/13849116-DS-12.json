@@ -1,0 +1,41 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "Relapsing-Remitting MS is characterized by obvious attacks (relapses) and remission periods.$Cause_1": {
+            "She has had similar symptom about 1 years ago.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "The bilateral subcortical and periventricular white matter, as well as the supratendentate white matter lesions in the corpus callosum spinal cord, showed evidence of myelin loss. The distribution and morphology of these lesions were suggestive of multiple sclerosis.$Cause_1": {
+                "Supratentorial white matter lesions within the bilateral subcortical and periventricular white matter and within the splenium of the corpus callosum, some demonstrating signs of myelin loss.  No postcontrast enhancement within the cortical lesions.$Input6": {}
+            },
+            "There is a wedge-shaped T2 hyperintensity in the left posterolateral spinal cord from C2 to C4, with the maximum at C3, with contrast enhancement on the side of the lesion. This may represent an inflammatory and demyelinating process.$Cause_1": {
+                "T2 hyperintensity in wedge-shaped pattern in left posterolateral cord from C2-C4, maximal at C3. Contrast enhancement on lateral aspect of this lesion.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "These symptoms may indicate impaired nerve function, which is typical of multiple sclerosis.$Cause_1": {
+                    "progressive weakness and sensory changes$Input2": {}
+                },
+                "People with MS may experience nerve pain, which may spread along the path of the nerves.$Cause_1": {
+                    "left hip, low back, and shoulder pain$Input2": {}
+                },
+                "Radiating pain may indicate lesions in the central nervous system, a hallmark of MS$Cause_1": {
+                    "pain radiates to the right and down her spine$Input2": {}
+                },
+                "Paresthesias are common symptoms of MS and are often related to demyelination of nerve fibers.$Cause_1": {
+                    "bl feet parasthsias L>R$Input2": {}
+                },
+                "Tingling sensation in the face and arms while reading. This is related to central nervous system disease and may be a symptom of MS.$Cause_1": {
+                    "tingling in her her face and bl arms when she was reading$Input2": {}
+                },
+                "Mild red desaturation in the left eye may be a symptom of multiple sclerosis. This phenomenon refers to the loss of the retina's ability to perceive color, especially red, which is more common in people with MS because MS can affect the visual pathways.$Cause_1": {
+                    "mild red-desaturation reported of the left eye.$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "She is a woman with minimal PMH who presents with 2 weeks of progressive weakness and sensory changes. The symptoms first started 2 weeks ago when her left knee \"buckled back\", which she describes as locking in an extended position. She saw her PCP who thought this was likely OA given her history of OA and she was given a knee brace which helped some. About 1 week later she developed left hip, low back, and shoulder pain. The shoulder pain radiates to the right and down her spine. She describes the pain as achy, tingling and very itchy. She then noticed bl feet parasthsias L>R. She had one event tingling in her her face and bl arms when she was reading. She reports the parasthesias seem worse when she is in the heat. She denies lhermitte's. She has never had any symptoms like this in the past. She has never had sudden loss of vision in one eye. She denies any recent illness.\n\nShe has had similar symptom about 1 years ago.\n\ufeff\n",
+    "input3": "+ ASTHMA\n+ DEPRESSIVE DISORDER\n+ Obesity\n+ chronic Constipation\n+ Hypertension\n",
+    "input4": "She does not know much detail about her family. her mother died as a complication of renal disease. her father died of cancer - unknown primary. no known history of MS or neurologic disease\n",
+    "input5": "Physical Exam:\nOn admission:\n\ufeff\nT: 97.2 HR: 64 BP: 142/63 RR: 18 Sat:100% on RA \n\ufeff\nGENERAL MEDICAL EXAMINATION:\nGeneral appearance: alert, in no apparent distress, conversing/interacting appropriately \nHEENT: Neck is supple, non-tender, Sclera are non-injected. Mucous membranes are moist. \nCV: Heart rate is regular\nLungs: breathing comfortably on RA  \nAbdomen: soft, non-tender\nExtremities: No evidence of deformities. No contractures. No Edema. \nSkin: No visible rashes. Warm and well perfused.\n\ufeff\nNEUROLOGICAL EXAMINATION:\nMental Status: Alert and oriented to person place and time. Able to relate history without difficulty. Attentive to conversation. Language is fluent and appropriate with intact comprehension, repetition and naming of both high and low frequency objects. Normal prosody. There were no paraphasic errors. Speech was not dysarthric. Able to follow both midline and appendicular commands. No neglect, left/right confusion or finger agnosia.  \n\ufeff\nCranial Nerves:\nI: not tested\nII: visual fields full to confrontation, fundi (could not visualize in the ED hallway).\nIII-IV-VI: pupils equally round, reactive to light. Normal conjugated, extra-ocular eye movements in all directions of  gaze.\nNo nystagmus or diplopia. no rAPD seen. mild red-desaturation reported of the left eye. \nV: Symmetric perception of LT in V1-3 \nVII: Face is symmetric at rest and with activation; symmetric speed and excursion with smile.\nVIII: Hearing intact to finger rub bl\nIX-X: Palate elevates symmetrically\nXI: Shoulder shrug and head rotation \nXII: No tongue deviation or fasciculations\n",
+    "input6": "08:15PM   HIV Ab-NEGATIVE\n08:15PM   TSH-2.0\n08:15PM   VIT B12-498\n08:15PM   ALT(SGPT)-14 AST(SGOT)-15 ALK PHOS-63 TOT BILI-0.3\n09:31AM BLOOD ANCA-NEGATIVE B\n09:31AM BLOOD C3-114 C4-35\n09:31AM BLOOD SED RATE-Test      \n04:22PM BLOOD NEUROMYELITIS OPTICA  (NMO)/AQUAPORIN-4-IGG CELL-BINDING ASSAY, SERUM-PND\n08:15PM BLOOD COPPER (SERUM)-Test\n08:15PM BLOOD METHYLMALONIC ACID-Test\n08:15PM BLOOD ANGIOTENSIN 1 - CONVERTING\n\ufeff\nMRI head:\n1. Supratentorial white matter lesions within the bilateral subcortical and periventricular white matter and within the splenium of the corpus callosum, some demonstrating signs of myelin loss.  No postcontrast enhancement within the cortical lesions.  The differential includes other demyelinating process.  No evidence of optic nerve involvement. \n2. Partially visualized enhancing lesion within left lateral aspect of the cervical cord, which is relatively unchanged. \n\ufeff\nMRI C spine:\nT2 hyperintensity in wedge-shaped pattern in left posterolateral cord from C2-C4, maximal at C3. Contrast enhancement on lateral aspect of this lesion.\n\ufeff\nMRI T/L spine:\n1. T2 cord signal hyperintensity extending from the T5-T6 to the T8 levels, without evidence of postcontrast enhancement.  There is mild associated cord expansion at the T7 level.  Finding is nonspecific and may be seen in setting of inflammatory and demyelinating processes.  Given the cervical and intracranial white matter lesions, this likely represents sequela of multiple sclerosis. \n  \n2. Multilevel degenerative changes of the lumbar spine, as described above, with areas of moderate to severe spinal canal and lateral recess stenosis which contacts the traversing nerve roots. \n\ufeff\nCT chest with contrast: \n1.  No evidence of hilar or mediastinal lymphadenopathy to suggest sarcoidosis   \n2.  Evidence of previous granulomatous exposure. \n3.  3 mm noncalcified right upper lobe nodule is statistically very likely benign.\n"
+}

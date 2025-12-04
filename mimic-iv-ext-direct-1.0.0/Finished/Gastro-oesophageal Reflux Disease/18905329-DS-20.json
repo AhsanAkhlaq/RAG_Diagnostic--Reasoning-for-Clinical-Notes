@@ -1,0 +1,36 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET: 6.5% > 6% is the gold standard for gastro-oesophageal reflux \rdisease diagnosis$Cause_1": {
+            "Ambulatory reflux monitor :total AET:6.5% on pH-impedance monitoring$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Acid reflux is a common symptom of GERD$Cause_1": {
+                "Acid reflux$Input1": {}
+            },
+            "These symptoms are typical of GERD, which is the backflow of stomach acid or food from the stomach into the esophagus and mouth.$Cause_1": {
+                "heartburn and regurgitation with an accompanying bitter taste in her mouth$Input2": {}
+            },
+            "Dysphagia is caused by long-term erosion of the esophagus by gastric acid, which may lead to changes in the structure or function of the esophagus.$Cause_1": {
+                "dysphagia when swallowing foods$Input2": {}
+            },
+            "Nausea and vomiting These symptoms may be caused by acid reflux irritating the stomach lining.$Cause_1": {
+                "nausea, vomiting$Input2": {}
+            },
+            "Stomach pain may be caused by gastritis or other stomach problems caused by stomach acid irritation$Cause_1": {
+                "stomach pain$Input2": {}
+            },
+            "These symptoms may be caused by stomach acid backing up into the throat or windpipe$Cause_1": {
+                "dry cough, and intermittent hoarseness$Input2": {}
+            },
+            "Omeprazole is essential for controlling symptoms, suggesting ongoing problems with gastric acid secretion$Cause_1": {
+                "symptoms are worse when she stops taking esomeprazole.$Input2": {}
+            }
+        }
+    },
+    "input1": "Acid reflux\n",
+    "input2": "Ms. ___ is a ___ year-old female with years of heartburn and regurgitation with an accompanying bitter taste in her mouth.  She also experiences dysphagia when swallowing foods such as broccoli, nausea, vomiting, stomach pain, dry cough, and intermittent hoarseness.  These symptoms have persisted despite years of esomeprazole therapy, avoidance of spicy foods, eating early in the evening before bed, and sleeping with her head elevated.  Her symptoms are worse when she stops taking esomeprazole.\n",
+    "input3": "- HTN\n- Metabolic syndrome\n- Bone spur left foot\n- Fibroid uterus\n- Plantar fasciitis\n- Greater trochanteric bursitis\n- Abnormalities of blood pressure\n- Kidney stones\n- Low back pain\n- Left foot and ankle pain\n",
+    "input4": "Father: Died of esophageal cancer\nMother: Died of a stroke\n",
+    "input5": "GEN: A&Ox3, NAD\nHEENT: No scleral icterus, mucus membranes moist\nCV: RRR, No M/G/R\nPULM: Clear to auscultation b/l, No W/R/R\nABD: Soft, nondistended, nontender, no rebound or guarding,\nnormoactive bowel sounds, no palpable masses\nExt: No ___ edema, ___ warm and well perfused\n",
+    "input6": "___ 06:52AM BLOOD WBC-9.7 RBC-3.93* Hgb-11.5* Hct-34.4* \nMCV-88 MCH-29.2 MCHC-33.3 RDW-14.4 Plt ___\n___ 06:52AM BLOOD Glucose-116* UreaN-7 Creat-0.7 Na-138 \nK-3.9 Cl-100 HCO3-28 AnGap-14\n___ 06:52AM BLOOD Calcium-8.8 Phos-3.4 Mg-1.8\n\nAmbulatory reflux monitor :total AET:6.5% on pH-impedance monitoring\n\n"
+}

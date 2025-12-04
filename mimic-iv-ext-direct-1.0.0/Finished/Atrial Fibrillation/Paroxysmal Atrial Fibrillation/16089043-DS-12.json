@@ -1,0 +1,33 @@
+{
+    "Paroxysmal Atrial Fibrillation$Intermedia_3": {
+        "A criteria of Paroxysmal Atrial Fibrillation$Cause_1": {
+            "EKG: Irregular R-R intervals disappered after one day.$Input6": {}
+        },
+        "Suspected Atrial Fibrillation$Intermedia_2": {
+            "Chest pain is one of the common clinical manifestations of AF$Cause_1": {
+                "Chest Pain$Input1": {}
+            },
+            "Symptoms of heart palpitations, accompanied by abnormal beating and rapid heartbeat. These are common symptoms of AF$Cause_1": {
+                "sensation of chest 'pressure,' which she clarifies as palpitations and not an actual pressure/tightness/pain associated with some skipped beats, and then later a fast heart beat.$Input2": {}
+            },
+            "A history of atrial fibrillation, which is an important factor in determining whether the current symptoms may be AF$Cause_1": {
+                "similar to her past episode of afib.$Input2": {}
+            },
+            "Echocardiography revealed mild pulmonary hypertension and diastolic dysfunction. These cardiac dysfunction may be related to the occurrence of AF.$Cause_1": {
+                "echo which suggested mild pulmonary hypertension, and diastolic dysfunction$Input2": {}
+            },
+            "Lung disease can affect heart function and is associated with increased risk of AF attacks$Cause_1": {
+                "a CTA which showed moderate centrilobular emphysema and mild pulmonary edema$Input2": {}
+            },
+            "Mitral valve prolapse may affect blood flow dynamics in the heart, and studies have shown a link between mitral valve prolapse and atrial fibrillation.$Cause_1": {
+                "Mitral valve prolapse$Input3": {}
+            }
+        }
+    },
+    "input1": "Chest Pain\n",
+    "input2": "63 y/oF with a bladder sling procedure last month now comes in with af with rvr to 160s.  At 2pm while washing her hair, she had the sensation of chest 'pressure,' which she clarifies as palpitations and not an actual pressure/tightness/pain associated with some skipped beats, and then later a fast heart beat. This felt similar to her past episode of afib. She denied chest pain, shortness of breath, nausea, or lightheadedness. At her assisted living facility, she called for attention. EMS administered 2.5mg of IV metoprolol in the ambulance.  She was recently admitted to the hospital for elective sacrocolpopexy (bladder sling) which was complicated by post operative an episode of hypoxia. She had an echo which suggested mild pulmonary hypertension, and diastolic dysfunction. She had a CTA which showed moderate centrilobular emphysema and mild pulmonary edema, and no evidence of pulmomary embolism.  \n\nIn the ED, vital signs were initially: 99.6 123 124/64 20 100. She was given 25mg of oral metoprolol and ECG prior to transfer was sinus with occasional atrial premature complexes.  Now BP is 114/67 HR is 99 RR 16 sat 100% on 2L NC.\n",
+    "input3": "+Mitral valve prolapse, per pt report\n+Severe depression\n+Diabetes insipidus  \n+Bladder retention- on an intermittent self-catheterization regimen  \n+Hypothyroidism- as a result of prior radioactive iodine treatment for hyperthyroidism  \n+\"fluid retention\"- for which her PCP gave her trial of HCTZ+Osteoporosis\n",
+    "input4": "NC\n",
+    "input5": "PHYSICAL EXAMINATION:  \nVS: 98.6 138/70 67 16 96% RA  \nGEN:The patient is in no distress and appears comfortable  \nSKIN:No rashes or skin changes noted  \nHEENT:No JVD, neck supple, No lymphadenopathy in cervical,  \nposterior, or supraclavicular chains noted.  \nCHEST:Lungs are clear without wheeze, rales, or rhonchi.  \nCARDIAC: Regular rhythm; no murmurs, rubs, or gallops.  \nABDOMEN: Soft, nt/nd. infraumbilical surgical incision c/d/i with steri strips.  \nEXTREMITIES:no peripheral edema, warm without cyanosis. B/l \npalpable DP pulses.  \nNEUROLOGIC: Alert and appropriate. CN II-XII grossly intact. Right sided foot drop.\n",
+    "input6": "___ 08:50PM BLOOD WBC-7.2 RBC-4.21# Hgb-13.0 Hct-39.5 MCV-94 MCH-30.8 MCHC-32.9 RDW-13.3 Plt ___\n___ 01:20PM BLOOD WBC-6.6 RBC-4.02* Hgb-12.2 Hct-38.1 MCV-95 MCH-30.3 MCHC-32.0 RDW-13.7 Plt ___\n___ 08:50PM BLOOD Neuts-50.2 ___ Monos-5.7 Eos-7.0* Baso-1.2\n___ 01:20PM BLOOD Neuts-55.3 ___ Monos-4.7 Eos-5.6* Baso-0.5\n___ 08:50PM BLOOD ___ PTT-29.4 ___\n___ 08:50PM BLOOD Plt ___\n___ 01:20PM BLOOD ___ PTT-27.7 ___\n___ 08:50PM BLOOD Glucose-94 UreaN-23* Creat-1.2* Na-144 K-4.4 Cl-110* HCO3-25 AnGap-13\n___ 01:20PM BLOOD Glucose-72 UreaN-23* Creat-1.3* Na-139 K-4.6 Cl-106 HCO3-25 AnGap-13\n___ 08:50PM BLOOD CK(CPK)-74\n___ 01:20PM BLOOD CK(CPK)-52\n___ 08:50PM BLOOD cTropnT-0.01\n___ 01:20PM BLOOD CK-MB-NotDone cTropnT-0.01\n___ 01:20PM BLOOD Calcium-9.5 Phos-3.0 Mg-2.___trial Fibrillation-  \n \n# Chest Pressure- EKG did not show any ischemic changes and cardiac enzymes were negative x 2.  Patient denied any chest pressure, jaw claudication, arm pain, loss of consciousness, dizziness or palpitations while in the hospital.  Her history is more suggestive of only palpitations being her cause of chest discomfort, rather than angina.  \n\n# Renal Insufficiency:  Patient's creatinine of 1.2 on admission is in her recent normal range of 0.9-1.4.  Patient tolerated PO's well.  \n \n# Hypokalemia: Patient requires a fair amount of daily K repletion.  On admission, potassium was 4.6.  She did not require any additional potassium while in the hospital.\n\nEKG: Irregular R-R intervals disappered after one day.\n\n"
+}

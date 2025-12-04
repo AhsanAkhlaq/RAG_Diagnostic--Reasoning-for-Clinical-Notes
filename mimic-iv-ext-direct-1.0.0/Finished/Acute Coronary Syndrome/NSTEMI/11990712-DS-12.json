@@ -1,0 +1,90 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "He was noted to have ECG with known LBBB with troponin 0.59 --> 1.45.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest Pain is a symptom of ACS$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "A history of heart disease is an important risk factor$Cause_1": {
+                "77 year old male with very significant past coronary history with multiple PCIs, CABG with LIMA-LAD, SVG-OM, SVG-DM with patient report of \"two of those grafts being down,\" HTN, and LBBB who presented to OSH.$Input2": {}
+            },
+            "Hypertension and else are risk factors$Cause_1": {
+                "+ Hypertension  \n+ CABG\n-LAD, SVG-OM, SVG-Diag\n+ PERCUTANEOUS CORONARY INTERVENTIONS: Multiple\n+ Vitamin D deficiency$Input3": {}
+            },
+            "Chest Pain is a symptom of ACS.$Cause_1": {
+                "Patient reports that around 830PM he began experiencing substernal chest pain that radiated to his right shoulder and neck. Of note, he had just completed a large meal and was doing some housework with his upper body and exerting himself. He has known stable angina and took his SLN x3 without significant relief of his symptoms.$Input2": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "Changes in heart structure is a diagnostic criteria of ACS.$Cause_1": {
+                "CONCLUSION:\nThe left atrium is elongated. The right atrium is mildly enlarged. There \nis mild symmetric left ventricular hypertrophy with a normal cavity size. There is egional left ventricular systolic dysfunction with very mild hypokinesis of the mid anteroseptum (see schematic) and preserved/normal contractility of the remaining segments. The visually estimated left ventricular ejection fraction is 55-60%. There is no resting left ventricular outflow tract gradient. Normal right ventricular cavity size with normal free wall motion. The aortic sinus diameter is normal for gender with normal ascending aorta diameter for gender. The aortic valve leaflets (?#) are mildly thickened. There is no aortic valve stenosis. There is trace aortic regurgitation. The mitral valve leaflets are mildly thickened with no mitral valve prolapse. There is trivial mitral regurgitation. The tricuspidvalve leaflets appear structurally normal. There is physiologic tricuspid regurgitation. The pulmonary artery systolic pressure could not be estimated. There is no pericardial effusion.\nIMPRESSION: Mild symmetric left ventricular hypertrophy with mild regional systolic dysfunction.$Input6": {}
+            },
+            "Abnormal electrocardiogram is a diagnostic criteria of ACS$Cause_1": {
+                "CARDIAC: RRR, normal S1, S2. II/VI systolic ejection murmur appreciated best at RUSB without radiation to carotids.$Input5": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "A history of heart disease is an important risk factor$Cause_1": {
+                    "77 year old male with very significant past coronary history with multiple PCIs, CABG with LIMA-LAD, SVG-OM, SVG-DM with patient report of \"two of those grafts being down,\" HTN, and LBBB who presented to OSH.$Input2": {}
+                },
+                "Hypertension and else are risk factors$Cause_1": {
+                    "+ Hypertension  \n+ CABG\n-LAD, SVG-OM, SVG-Diag\n+ PERCUTANEOUS CORONARY INTERVENTIONS: Multiple\n+ Vitamin D deficiency$Input3": {}
+                },
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Patient reports that around 830PM he began experiencing substernal chest pain that radiated to his right shoulder and neck. Of note, he had just completed a large meal and was doing some housework with his upper body and exerting himself. He has known stable angina and took his SLN x3 without significant relief of his symptoms.$Input2": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation\r is  a sign of NSTE-ACS$Cause_1": {
+                ".non-ST-elevation$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "A history of heart disease is an important risk factor$Cause_1": {
+                    "77 year old male with very significant past coronary history with multiple PCIs, CABG with LIMA-LAD, SVG-OM, SVG-DM with patient report of \"two of those grafts being down,\" HTN, and LBBB who presented to OSH.$Input2": {}
+                },
+                "Hypertension and else are risk factors$Cause_1": {
+                    "+ Hypertension  \n+ CABG\n-LAD, SVG-OM, SVG-Diag\n+ PERCUTANEOUS CORONARY INTERVENTIONS: Multiple\n+ Vitamin D deficiency$Input3": {}
+                },
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Patient reports that around 830PM he began experiencing substernal chest pain that radiated to his right shoulder and neck. Of note, he had just completed a large meal and was doing some housework with his upper body and exerting himself. He has known stable angina and took his SLN x3 without significant relief of his symptoms.$Input2": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "Changes in heart structure is a diagnostic criteria of ACS.$Cause_1": {
+                    "CONCLUSION:\nThe left atrium is elongated. The right atrium is mildly enlarged. There \nis mild symmetric left ventricular hypertrophy with a normal cavity size. There is egional left ventricular systolic dysfunction with very mild hypokinesis of the mid anteroseptum (see schematic) and preserved/normal contractility of the remaining segments. The visually estimated left ventricular ejection fraction is 55-60%. There is no resting left ventricular outflow tract gradient. Normal right ventricular cavity size with normal free wall motion. The aortic sinus diameter is normal for gender with normal ascending aorta diameter for gender. The aortic valve leaflets (?#) are mildly thickened. There is no aortic valve stenosis. There is trace aortic regurgitation. The mitral valve leaflets are mildly thickened with no mitral valve prolapse. There is trivial mitral regurgitation. The tricuspidvalve leaflets appear structurally normal. There is physiologic tricuspid regurgitation. The pulmonary artery systolic pressure could not be estimated. There is no pericardial effusion.\nIMPRESSION: Mild symmetric left ventricular hypertrophy with mild regional systolic dysfunction.$Input6": {}
+                },
+                "Abnormal electrocardiogram is a diagnostic criteria of ACS$Cause_1": {
+                    "CARDIAC: RRR, normal S1, S2. II/VI systolic ejection murmur appreciated best at RUSB without radiation to carotids.$Input5": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest Pain is a symptom of ACS$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "A history of heart disease is an important risk factor$Cause_1": {
+                        "77 year old male with very significant past coronary history with multiple PCIs, CABG with LIMA-LAD, SVG-OM, SVG-DM with patient report of \"two of those grafts being down,\" HTN, and LBBB who presented to OSH.$Input2": {}
+                    },
+                    "Hypertension and else are risk factors$Cause_1": {
+                        "+ Hypertension  \n+ CABG\n-LAD, SVG-OM, SVG-Diag\n+ PERCUTANEOUS CORONARY INTERVENTIONS: Multiple\n+ Vitamin D deficiency$Input3": {}
+                    },
+                    "Chest Pain is a symptom of ACS.$Cause_1": {
+                        "Patient reports that around 830PM he began experiencing substernal chest pain that radiated to his right shoulder and neck. Of note, he had just completed a large meal and was doing some housework with his upper body and exerting himself. He has known stable angina and took his SLN x3 without significant relief of his symptoms.$Input2": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "77 year old male with very significant past coronary history with multiple PCIs, CABG with LIMA-LAD, SVG-OM, SVG-DM with patient report of \"two of those grafts being down,\" HTN, and LBBB who presented to OSH.\n\nPatient reports that around 830PM he began experiencing substernal chest pain that radiated to his right shoulder and neck. Of note, he had just completed a large meal and was doing some housework with his upper body and exerting himself. He has known stable angina and took his SLN x3 without significant relief of his symptoms.\n\nHe was noted to have ECG with known LBBB with troponin 0.59 --> 1.45. He was given aspirin, Plavix, and lovenoxand transferred for further management and likely cath. Of note, his chest pain resolved sometime though patient could not specify exactly when.\n\nHis initial vitals were notable for BPs 170s/80-90s. An ECG confirmed known LBBB but was negative for Sgarbossa criteria. Labs notable for trop 0.06 --> 0.1 with MB 15. He received metoprolol succinate 50mg and Lisinopril 5mg. Heparin gtt was deferred as he had received Lovenox at around 2300 the night prior.non-ST-elevation\r\n\nOn the floor, the patient confirms the above. He is chest pain free and denies shortness of breath, nausea, vomiting, lightheadedness, and dizziness.\n",
+    "input3": "+ Hypertension  \n+ CABG\n-LAD, SVG-OM, SVG-Diag\n+ PERCUTANEOUS CORONARY INTERVENTIONS: Multiple\n+ Vitamin D deficiency\n",
+    "input4": "Father died of LM disease. Mother had breast cancer. Siblings and children do not have any known history of CAD, sudden death, or MIs.\n",
+    "input5": "ADMISSION PHYSICAL EXAMINATION:  \n================================  \nVITALS:  97.4  169/97  74  16  95%RA\nGENERAL: Well-developed, well-nourished. NAD. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  \nNECK: Supple with no JVD\nCARDIAC: RRR, normal S1, S2. II/VI systolic ejection murmur appreciated best at RUSB without radiation to carotids. \nLUNGS: Resp were unlabored, no accessory muscle use. No crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness.  \nEXTREMITIES: No c/c/e. No femoral bruits.  \nPULSES: Distal pulses palpable and symmetric\n",
+    "input6": "ADMISSION LABS\n==============\n___ 05:30AM BLOOD WBC-5.4 RBC-5.28 Hgb-15.5 Hct-47.1 MCV-89 MCH-29.4 MCHC-32.9 RDW-12.5 RDWSD-41.0 Plt ___\n___ 05:30AM BLOOD Neuts-56.1 ___ Monos-8.9 Eos-5.2 Baso-0.9 Im ___ AbsNeut-3.01 AbsLymp-1.53 AbsMono-0.48 AbsEos-0.28 AbsBaso-0.05\n___ 05:30AM BLOOD ___ PTT-41.6* ___\n___ 05:30AM BLOOD Glucose-129* UreaN-11 Creat-0.8 Na-138 K-4.2 Cl-101 HCO3-23 AnGap-14\n___ 05:30AM BLOOD CK(CPK)-174\n___ 05:30AM BLOOD CK-MB-15* MB Indx-8.6*\n___ 05:30AM BLOOD cTropnT-0.06*\n___ 05:30AM BLOOD Calcium-9.2 Phos-3.4 Mg-2.1\n\nSTUDIES\n=======\nTTE ___\nCONCLUSION:\nThe left atrium is elongated. The right atrium is mildly enlarged. There \nis mild symmetric left ventricular hypertrophy with a normal cavity size. There is egional left ventricular systolic dysfunction with very mild hypokinesis of the mid anteroseptum (see schematic) and preserved/normal contractility of the remaining segments. The visually estimated left ventricular ejection fraction is 55-60%. There is no resting left ventricular outflow tract gradient. Normal right ventricular cavity size with normal free wall motion. The aortic sinus diameter is normal for gender with normal ascending aorta diameter for gender. The aortic valve leaflets (?#) are mildly thickened. There is no aortic valve stenosis. There is trace aortic regurgitation. The mitral valve leaflets are mildly thickened with no mitral valve prolapse. There is trivial mitral regurgitation. The tricuspidvalve leaflets appear structurally normal. There is physiologic tricuspid regurgitation. The pulmonary artery systolic pressure could not be estimated. There is no pericardial effusion.\nIMPRESSION: Mild symmetric left ventricular hypertrophy with mild regional systolic dysfunction.\n\nCardiac Cath ___\nFindings\nThe left main is normal\nThe LAD has severe proximal and mid disease with mid occlusion. The distal vessel fills via the LIMA graft with diffuse iorregularities. The LCX has proximal occlusion; The distal OM fills via a patent SVG and has severe diffuse disease\nThe RCA has widely patent proximal and mid stents. The distal RCA, PDA and PL branches have severe diffuse disease\nThe LIMA-LAD is normal\nThe SVG-OM has diffuse mild disease with severe disease in distal native OM unchanged\nThe SVG-diagonal has diffuse severe disease with slow flow into very small diseased distal vessels\nLVEDEP is normal\n"
+}

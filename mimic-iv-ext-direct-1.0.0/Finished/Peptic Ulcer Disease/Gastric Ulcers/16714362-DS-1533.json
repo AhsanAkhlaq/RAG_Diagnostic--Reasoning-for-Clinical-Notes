@@ -1,0 +1,33 @@
+{
+    "Gastric Ulcers$Intermedia_3": {
+        "This phrase describes ulcers found in the stomach, which is direct evidence of Gastric Ulcers.$Cause_1": {
+            "Gastric ulcer with clean base$Input6": {}
+        },
+        "Suspected Peptic Ulcer Disease$Intermedia_2": {
+            "Very low blood pressure may be due to internal bleeding, which can occur in peptic ulcers, especially if the ulcer is perforated or bleeding severely.$Cause_1": {
+                "BP of 81/50$Input2": {}
+            },
+            "This is a common symptom of peptic ulcers, especially when the ulcer is located in the stomach or duodenum.$Cause_1": {
+                "severe nausea and vomiting$Input2": {}
+            },
+            "Positive occult blood indicates gastrointestinal bleeding, which is a typical symptom of perforated or bleeding peptic ulcer$Cause_1": {
+                "guaiac + stools$Input2": {}
+            },
+            "This suggests that the patient's duodenum may have become scarred or narrowed due to long-standing ulcerative lesions.$Cause_1": {
+                "upper endoscopy on ___ showed duodenal stenosis$Input2": {}
+            },
+            "Indicates infection or inflammation, common as a complication of ulcer disease.$Cause_1": {
+                "febrile and tachycardic$Input2": {}
+            },
+            "Slow gastric motility may be due to nerve or muscle dysfunction caused by gastric inflammation or ulcers and is associated with peptic ulcer disease.$Cause_1": {
+                "Gastroparesis$Input6": {}
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "On admission to OSH, noted to have BP of 81/50 and Cr of 6. Pt was volume resuscitated with IVF, with improvement in BP and Cr returned to baseline of less than 1. Pt continued to have severe nausea and vomiting, with guaiac + stools. Work up was done to r/o bowel obstruction (see reports below). Upper GI did not show any obstruction but upper endoscopy on ___ showed duodenal stenosis. NG tube suction was initiated and pt reported improvement in symptoms. The plan was to rescope pt with plan to perform balloon plasty on ___ if necessary. Pt desired to be transferred to ___ where her primary MD practices and wished to get a second opinion.\n.\nUpon arrival at ___, pt was febrile and tachycardic with \nlow-normal BP, however she denied any symptoms. Pt is feeling better than she ever has in a long time. No abdominal pain, n/v. Denies feelings of heart racing. No coughs.\n",
+    "input3": "Insomnia\nAnxiety\ns/p patella fracture\n?Diabetes\nHTN\nDepression since ___ after pt was laid off\n",
+    "input4": "Mom- HTN, ESRD. Grandmother - colon ca.\n",
+    "input5": "PE: pale, cachectic, temporal wasting. resting comfortably in bed. \nvitals: 101.7   ___  139    20   95% RA\nHEENT: PERRL, EOMI, dry MM, cracked lips, OP clear\nNeck: Supple, no JVD\nCV: Tachycardic, regular rhythm. No m/r/g\nLungs: CTAB \nAbdomen: +BS, NTND, soft, no guarding or rebound, no \norganomegaly\nExt: no edema, 1+ pulses DP\nNeuro: AAOx3, CN II-XII grossly intact\n",
+    "input6": "# Upper GI endoscopy ___\n-normal esophagus\n-Z-line regular, 40cm from the incisors\n-Excessive gastric fluid\n-Gastric ulcer with clean base\n.\n# Upper GI series ___\n- Gastroparesis\n- No outlet obstruction\n.\n# KUB ___\n- No e/o acute changes\n.\n# Renal function study ___\n- slight asymmetry in renal cortical activity, R>L. No focal \nlesion. No e/o renal ___\n.\n# CXR, PA and lat ___\n- no PNA or CHF\n.\n# Renal U/S ___\n- no e/o hydronephrosis\n- nonobstructing L renal calculus\n- probable cyst in R kidney\n.\n# CSR, portable ___\n- no acute cardiopulm abnormality\n.\n# CT head w/o contrast ___\n- normal, no change c/w prior\n.\nFrom OMR:\n.\n# Colonoscopy ___\n-Polyp in the rectum (polypectomy)\n-Polyp in the sigmoid colon (polypectomy)\n-Diverticulosis of the sigmoid colon\n-Otherwise normal colonoscopy to cecum\n\n"
+}

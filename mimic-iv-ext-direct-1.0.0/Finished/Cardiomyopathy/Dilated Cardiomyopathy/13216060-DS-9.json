@@ -1,0 +1,39 @@
+{
+    "Dilated Cardiomyopathy$Intermedia_3": {
+        "Specific values include increased Left Ventricular End-Diastolic Diameter (LVEDD) and a Left Ventricular Ejection Fraction (LVEF) below the normal range (<50%). is a sign of Dilated Cardiomyopathy$Cause_1": {
+            "Globally depression cardiac function with normal perfusion consistent with cardiomyopathy. LVEF 33%$Input6": {}
+        },
+        "ECG changes May reveal signs of abnormal rhythms or ventricular enlargement.$Cause_1": {
+            ":  NSR at 80bpm, normal axis, QTc minimally prolonged, TWI in III, aVR, <1cm ST depressions in III, III, aVF, <1cm ST elevations in I, aVL, V6$Input6": {}
+        },
+        "Suspected Cardiomyopathy$Intermedia_2": {
+            "Chest pain is a symptom of Cardiomyopath$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "Fatigue and weakness, Shortness of breath, Swelling of the legs and ankles, Arrhythmias, Chest pain, etc are symptoms of Cardiomyopath$Cause_1": {
+                "Pt reports vague history of developing diffuse dull chest pain while walking, which then became sharp at times and lasted 4 hours.  Symptoms were associated with shortness of breath, diaphoresis, mild nausea, radiation of pain to jaw and numbness of both hands.$Input2": {}
+            },
+            "history of a prior MI is a risk fact of Cardiomyopath$Cause_1": {
+                "and also gives a vague history of a prior MI,$Input2": {}
+            },
+            "occasional episodes is a sign of Cardiomyopath$Cause_1": {
+                "Patient also reports occasional episodes of feeling his heart racing, which occasionally causes him to become dizzy with diaphoresis, occasional chest pressure, and occasional loss of consciousness.$Input2": {}
+            },
+            "Hypertension is the risk fact for Cardiomyopath$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "history of coronary artery disease is the risk fact for Cardiomyopath$Cause_1": {
+                "history of coronary artery disease$Input3": {}
+            },
+            "history of traumatic head injury is the risk fact for Cardiomyopath$Cause_1": {
+                "history of traumatic head injury.$Input3": {}
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "She presented with chest pain of 1 days duration.  Pt reports vague history of developing diffuse dull chest pain while walking, which then became sharp at times and lasted 4 hours.  Symptoms were associated with shortness of breath, diaphoresis, mild nausea, radiation of pain to jaw and numbness of both hands.  However, in the ED patient denied shortness of breath.  Patient reports he typically takes SL nitro at home for this type of chest pain with resolution of pain, but did not have nitro with him during this episode.  He sat down, but pain was not relieved by rest.  Chest pain resolved when he was given Nitro in the ED.  \n\nPt reports occasional episodes of similar chest pain, and also gives a vague history of a prior MI, does not remember where he was seen for this.  He reports there was \"talk of a stent\" but this was ultimately not placed because \"there was no need.\"  He reports having two stress tests in the past, and believes they were normal but cannot remember where he had the stress tests.\n\nPatient also reports occasional episodes of feeling his heart racing, which occasionally causes him to become dizzy with diaphoresis, occasional chest pressure, and occasional loss of consciousness.  Denies incontinence with these episodes, denies confusion/disorientation upon waking, but does report he had \"seizures\" as a child.  Patient reports months ago, he fell while walking (from tripping in a pot hole) and hit his chest, causing pain in his sternum, which he attributes to a \"healing fracture or chip\".\n\nOf note, patient was very distracted during interview with poor attention.  He also fell asleep several times during the interview, and upon being awoken reported he has not slept for several days because he \"cannot fall asleep\" and attributes confusion to this.\n\nIn the ED, initial vs were: T98.4 HR 77 BP 112/80 R16 97% RA. Strange affect noted.  CT head negative, CXR unremarkable.  First set CEs negative, EKG showed TWIs as described below.  Patient was given ASA but refused this, refused KCl repletion. Felt not to be a good obs candidate and was admitted to medicine.\n\nOn the floor, patient reported continued chest pain but continued to give a vague, somewhat inconsistent history.\n\nReview of sytems:  \nDenies fever, chills, night sweats. Denied cough, recent palpitations. Denied vomiting, diarrhea, constipation or abdominal pain. No recent change in bowel or bladder habits. No dysuria. Denied arthralgias or myalgias other than his \"typical\" pain.\n",
+    "input3": "+Hypertension\n+history of traumatic head injury.\n+history of coronary artery disease\n+prior MI\n",
+    "input4": "Reports family members had lung cancer, uterine cancer, gallbladder cancer.\n",
+    "input5": "Vitals: T: 96.1    BP: 140/82    P: 80     R: 22    PO2: 96%RA\nGeneral: Alert, oriented, unkept in appearance, no acute distress  \nHEENT: PERRL at 1-1.5mm, sclera anicteric, MMM, oropharynx clear\nNeck: Supple, JVP not elevated, no LAD  \nCV: Regular rate and rhythm, normal S1/S2, no murmurs, rubs, gallops  \nLungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi  \nAbdomen: Soft, non-distended, bowel sounds present, minimally tender to palpation at LLQ without rebound or guarding, no organomegaly  \nExt: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  \nNeuro:  Strength in UE and sensation intact to light touch, CN II-XII intact though pt had difficulty following instructions.\nPsych:  Rapid pressured speech, tangential thinking but redirectable, poor attention, paranoid speech and behavior (drew shade of window because he felt the workers were spying on him, also reports a doctor had \"punched a hole\" in his ear in the past and was trying to intentionally harm him), denies visual or auditory hallucinations.  Reports not sleeping for the past several days, but vague when asked why - denies excessive spending, increased energy, periods of low energy and depressed mood.\n",
+    "input6": "___    11:03a   \nCK: 220  MB: 6  Trop-T: <0.01  \nCa: 9.0 Mg: 2.2 P: 3.4\nALT: 17 AP: 53 Tbili: 1.6 Alb:  \nAST: 16 LDH: 175 Dbili:  TProt:  \nTSH:Pnd \n___    04:05a   \nTrop-T: <0.01    CK: 266  MB: 8  \n145  109  16        AGap=15 \n------------- 100 \n3.2  24  0.8  \nSerum ASA, EtOH, Acetmnphn, Benzo, Barb, Tricyc Negative \n     12.9\n6.4 ------ 210 \n     38.5  \nN:56.4 L:35.3 M:5.3 E:1.9 Bas:1.1 \n\n\nImages/Studies:  \n\nStress ___ - No anginal symptoms or ischemic ST segment changes. Nuclear report sent separately. Globally depression cardiac function with normal perfusion consistent with cardiomyopathy. LVEF 33% \n\nCXR ___ - No acute cardiopulmonary process.\n\nCT head ___ - No acute intracranial process.  Hypodensity in the centrum semiovale measuring 5 mm may represent a prior lacunar infarct or a perivascular space. There is focal mucosal thickening of the left maxillary sinus. \n\nEKG:  NSR at 80bpm, normal axis, QTc minimally prolonged, TWI in III, aVR, <1cm ST depressions in III, III, aVF, <1cm ST elevations in I, aVL, V6.\n"
+}

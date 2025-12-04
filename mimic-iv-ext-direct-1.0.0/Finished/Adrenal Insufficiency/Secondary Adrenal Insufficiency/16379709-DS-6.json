@@ -1,0 +1,33 @@
+{
+    "Secondary Adrenal Insufficiency$Intermedia_3": {
+        "ACTH stimulation testing shows an increase in cortisol levels after administration of ACTH, which may indicate a possible problem at the level of the hypothalamic-pituitary-adrenal axis in the adrenal gland's response to ACTH.$Cause_1": {
+            "A stim test find that cortisol increases when ACTH is given.$Input6": {}
+        },
+        "Suspected Adrenal Insufficiency$Intermedia_2": {
+            "One of the common symptoms of adrenal insufficiency is persistent fatigue or loss of energy.$Cause_1": {
+                "feels like he never recovered his energy$Input2": {}
+            },
+            "Adrenal insufficiency may lead to energy depletion, making it difficult for the patient to breathe while performing daily activities.$Cause_1": {
+                "noticed DOE, particularly when walking to work,$Input2": {}
+            },
+            "These symptoms may be related to hypotension, a common finding in adrenal insufficiency.$Cause_1": {
+                "intermittent dizziness and lightheadedness with standing$Input2": {}
+            },
+            "Significant involuntary weight loss may be a manifestation of adrenal insufficiency because hormonal imbalances affect appetite and metabolism.$Cause_1": {
+                "20lbs unintentional weight loss$Input2": {}
+            },
+            "Hyponatremia and hyperkalemia, which is because adrenocortical hormone regulates electrolyte balance in the body.$Cause_1": {
+                "hyponatermia to 121, hyperkalemia to 5.8,$Input2": {}
+            },
+            "Cortisol is an important hormone that is normally secreted by the adrenal glands in response to stress. It affects or regulates many body functions, such as metabolism and immune system response.$Cause_1": {
+                "low pm cortisol of 0.7$Input2": {}
+            }
+        }
+    },
+    "input1": "abnormal labs\n",
+    "input2": "The patient reports that 1 month ago he had a viral URI that resolved, however he feels like he never recovered his energy. He noticed DOE, particularly when walking to work, which he was able to do with difficulty prior. He is at baseline very athletic. He also noticed intermittent dizziness and lightheadedness with standing, intermittent cramping abdominal pain and a 20lbs unintentional weight loss over the past 2 \nmonths. He reports his appetite is still at baseline but has been limited by his abdominal pain. He endorses  nausea at the time of his URI. Given these symptoms he saw his PCP. His PCP ran ___ series of lab notable for TSH 0.21, AlP 76, AST 48, K 5.3. He had a RAIU+S, which showed a homogenous gland with uptake at the upper limit of normal. He was then referred to endocrine for further evaluation.\n  \nHe was seen in ___ clinic the day of admission and was initally thought to have resolving thyroditis, and was sent to have several labs checked. Labs from clinic were notable for elevated TSH of 22, low T4 at 3.6 with normal T 3, hyponatermia to 121, hyperkalemia to 5.8, hyperphosphatemia to 5.6, low pm cortisol of 0.7. \n",
+    "input3": "none\n",
+    "input4": "Father and sister with Celiac  \nMother with ___  \n",
+    "input5": "Vitals - T 97.5 BP 97/50 P 70 RR 18 10% RA  \nHEENT: AT/NC, EOMI, PERRL, anicteric sclera. No proptosis or \nexopthalmos  \nNeck: neck supple, non tender, no thyromegally or nodules \nappreciated. No lymphadenopathy.  \nCARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  \nLUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably \nwithout use of accessory muscles  \nABDOMEN: nondistended, +BS, nontender in all quadrants, no \nrebound/guarding, no hepatosplenomegaly  \nEXTREMITIES: moving all extremities well, no cyanosis, clubbing \nor edema  \nPULSES: 2+ DP pulses bilaterally  \nNEURO: CN II-XII intact  \nSKIN: warm and well perfused, no excoriations or lesions, no \nrashes  \n",
+    "input6": "\"IMPRESSION: 24 hour uptake of radioiodine at the upper limits of normal. If TSH is suppressed, this finding suggests autonomy, such as with Graves disease.\"\n\nA stim test find that cortisol increases when ACTH is given.\n"
+}

@@ -1,0 +1,41 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "The condition has distinct attacks (relapses) and remission periods$Cause_1": {
+            "Steroids given again for double vision.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "Multiple enhancing lesions suggested active demyelination, and one also showed slowed diffusion, suggestive of an ongoing demyelinating process.$Cause_1": {
+                "There are multiple enhancing lesions indicating active demyelination, one of which also demonstrates slow diffusion.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Diplopia, or double vision, is a common symptom of multiple sclerosis, usually due to optic neuritis.$Cause_1": {
+                    "diplopia$Input2": {}
+                },
+                "Blurred vision may be related to inflammation of the optic nerve or other nerve damage, which is more common in people with multiple sclerosis.$Cause_1": {
+                    "blurring of her vision.$Input2": {}
+                },
+                "Methylprednisolone is a commonly used glucocorticoid for the treatment of acute attacks of multiple sclerosis, and its use indicates possible acute inflammation.$Cause_1": {
+                    "course of IV  methylprednisolone$Input2": {}
+                },
+                "Trigeminal neuralgia is a painful neurological symptom that people with multiple sclerosis may experience and is related to demyelination of nerve fibers in the brain.$Cause_1": {
+                    "developing trigeminal neuralgia$Input2": {}
+                },
+                "There is a slight downward torsional nystagmus in the left eye, which may occur in people with MS.$Cause_1": {
+                    "There is slight downward torsional nystagmus in the left eye$Input5": {}
+                },
+                "Patients report double vision in neutral vision and in all major visual fields, which may be a symptom of MS$Cause_1": {
+                    "She reports diplopia at neutral gaze and in all cardinal fields of gaze.$Input5": {}
+                },
+                "Patients report false images following them when tracking objects, which may be a visual symptom of MS.$Cause_1": {
+                    "a trailing of false images with pursuits$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "She is a woman who presents with diplopia. The patient was driving two days prior to admission and noted the gradual onset of diplopia. It was not more prominent in a particular position of gaze. The diplopia resolved completely if she closed one eye. Over the course of the day the diplopia became more severe and she noted transient blurring of her vision. She denies any visual field loss. The blurred vision seemed concordant with the onset of a constant, dull, bilateral retro-orbital headache. The headache improves if she closes her eyes. It is not positional, no worse with cough or valsalva. She denies any neck pain. The diplopia persists, and the pt now presents to the neurology floor for direct admission for further evaluation and treatment. At present she is tearful at times and visibly distressed by her symptoms. She denies any paresthesia, weakness, dysarthria, dysphagia. She denies any difficulty initiating or fully emptying her bladder. Denies dysuria or increased frequency. No diarrhea or constipation. She reports having a small pustular rash that is improving over her right shoulder. No pain from her port-a-cath site. She has chronic  skin breakdown over the stump on her right BKA, but no discharge or purulence.\n \nShe had a six- day course of IV  methylprednisolone, started Avonex. Stopped Avonex for depression. Steroid course for burning sensation in LUE and LLE later developing trigeminal neuralgia. Steroids given again for double vision. On standing steroid infusion q3 months in addition. \n",
+    "input3": "1) GERD\n2) S/p R BKA after motor vehicle accident.  \n3) S/p cholecystecomy  \n4) Depression\n",
+    "input4": "Mother has crohn's dz.  no neuro d/o or sz.\n",
+    "input5": "Physical Exam:\nVitals: T- 97.8 BP- 114/62 HR- 90 RR- 18 O2Sat- 97% on RA\nGen: Sitting up in bed, NAD\nHEENT: NC/AT, moist oral mucosa.  \nNeck: No Lhermitte's no carotid or vertebral bruit\nCV: RRR, Nl S1 and S2, no murmurs/gallops/rubs\nLung: Clear to auscultation bilaterally\nAbd: +BS soft, nontender\next: no edema, small, non fluctuant areas of excoriation on left\nBKA stump.\nSkin: few scattered healing follicles over R torso.\n\ufeff\nNeurologic examination:\nMental status: \nAwake and alert, cooperative with exam, normal affect.  Oriented to person, place. Attentive. Speech is fluent with normal comprehension and repetition. She relates her history without  any difficulty. No dysarthria.  No right left confusion. No evidence of apraxia or neglect.\n\ufeff\nCranial Nerves:\nPupils equally round and reactive to light, 5 to 3 mm bilaterally. Visual fields are full to confrontation. Pt would not allow funduscopic exam. No RAPD. Extraocular movements full bilaterally. There is slight downward torsional nystagmus in the left eye. The patient covers her eyes frequently during testing of EOM's due to discomfort. No definite INO. She reports diplopia at neutral gaze and in all cardinal fields of gaze. She reports a trailing of false images with pursuits. Facial sensation intact V1-V3.  Facial movement symmetric.  Hearing intact to finger rub bilaterally.  Palate elevation symmetrical.  Sternocleidomastoid and trapezius normal  bilaterally. Tongue protrudes at midline without fasciculation.\n\ufeff\nMotor:\nNormal bulk bilaterally. Tone normal. No observed myoclonus or tremor. No pronator drift\nDel Tri Bi  WF WE FE FF  IP  H  Q  DF PF TE TF\nR  5   5  -  -   -  -   (R BKA)\n\ufeff\nSensation: Intact to light touch, pinprick, vibration and\nproprioception throughout.  No extinction to DSS\n\ufeff\nReflexes: Slightly increased on left vs. right. Left bi, tri, brachioradialis 2+, right 2. left patellar 2+, ankle 2+. Right BKA.\n\ufeff\nToes downgoing on left, right not testable\n\ufeff\nCoordination: finger-nose-finger normal, RAMs normal.\n\ufeff\nGait- deferred as pt without prosthesis.\n\ufeff\n",
+    "input6": "___ 06:21PM URINE  COLOR-Yellow APPEAR-Hazy\n___ 06:21PM URINE  BLOOD-NEG NITRITE-POS PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-SM\n___ 06:21PM URINE BACTERIA-MOD YEAST-NONE \n___ 05:20PM   GLUCOSE-71 UREA N-9 CREAT-0.9 SODIUM-142 POTASSIUM-4.5 CHLORIDE-106 TOTAL CO2-27 ANION GAP-14\n___ 05:20PM   estGFR-Using this\n___ 05:20PM   CALCIUM-9.8 PHOSPHATE-4.2 MAGNESIUM-2.3\n___ 05:20PM   WBC-8.7 RBC-5.40 HGB-16.2* HCT-47.8 MCV-89 MCH-30.0 MCHC-33.9 RDW-13.0\n___ 05:20PM   NEUTS-70.4* MONOS-4.5 EOS-1.2 BASOS-0.5\n___ 05:20PM   PLT COUNT-375\n\ufeff\nThere are multiple enhancing lesions indicating active demyelination, one of which also demonstrates slow diffusion.\n"
+}

@@ -1,0 +1,21 @@
+{
+    "Pituitary Microadenomas$Intermedia_3": {
+        "Pituitary masses are direct manifestations of pituitary microadenomas$Cause_1": {
+            "known 0.8 cm pituitary mass$Input2": {}
+        },
+        "Suspected pituitary disease$Intermedia_2": {
+            "Pituitary microadenomas may affect the hormone secretion function of the pituitary gland, thereby affecting the menstrual cycle. Irregular menstruation is a common manifestation of pituitary dysfunction.$Cause_1": {
+                "irregular menses$Input2": {}
+            },
+            "Hypertension is a common chronic disease that may be associated with pituitary disease, especially when a pituitary tumor affects adrenal hormone secretion.$Cause_1": {
+                "HTN$Input3": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "She is a female with a known 0.8 cm pituitary mass, initially discovered on work-up for irregular menses.\n",
+    "input3": "+ SVT s/p ablation\n+ HTN\n",
+    "input4": "Mother with RA, borderline DM2\n",
+    "input5": "Opens Eyes: [x]Spontaneous [ ]To voice [ ]To noxious [ ]None\nOrientation: [x]Person [x]Place [x]Time\nFollows Commands: [ ]Simple [x]Complex [ ]None\nPupils: PERRL\nEOMs: [x]Full [ ]Restricted\nFace Symmetric: [x]Yes [ ]No\nTongue Midline: [x]Yes [ ]No\nDrift: [ ]Yes [x]No\nSpeech Fluent: [x]Yes [ ]No\nComprehension Intact: [x]Yes [ ]No\n\nMotor:\n\n        Trap   Deltoid   Biceps   Triceps   Grip\nRight   5      5         5        5         5\nLeft    5      5         5        5         5\n\n        IP   Quad   Ham   AT   ___   ___\nRight   5    5      5     5    5     5\nLeft    5    5      5     5    5     5\n\nSensation: Grossly intact to light touch.\n\nVisual fields are full to confrontation. \n",
+    "input6": "None\n"
+}

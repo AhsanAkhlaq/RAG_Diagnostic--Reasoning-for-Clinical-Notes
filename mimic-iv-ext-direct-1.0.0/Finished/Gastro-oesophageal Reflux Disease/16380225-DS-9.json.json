@@ -1,0 +1,21 @@
+{
+    "gastro-oesophageal reflux disease$Intermedia_3": {
+        "oesophagitis\uff08LA grades B\uff09 is the gold standard for the diagnosis of gastro-oesophageal reflux \rdisease.$Cause_1": {
+            "endoscopy\uff1aoesophagitis\uff08LA grades B\uff09 chronic gastritis$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux disease$Intermedia_2": {
+            "Nausea is an atypical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "Currently she reports improvement in dysphagia since her dilation but does have chronic nausea.$Input2": {}
+            },
+            "Cough is an atypical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "She has cough and SOB from asthma primarily.$Input2": {}
+            }
+        }
+    },
+    "input1": "ineffective esophageal motility\n",
+    "input2": "Ms who presented with dysphagia and wt loss. She has a history of upper endoscopy for gastroparesis. Esophagus was normal at the time. An upper endoscopy unremarkable but pt was dilated She underwent a timed barium swallow. She presents for surgical management. Currently she reports improvement in dysphagia since her dilation but does have chronic nausea. She has cough and SOB from asthma primarily. Otherwise the pt denies vomiting/regurg since dilation, wt loss, abd pain.\n",
+    "input3": "+asthma\n+anxiety\n+fibromyalgia\n+gastroparesis\n+tachycardia\n+migraines\n+panic disorder\n",
+    "input4": "Mother\nFather: COPD, oral cancer\nSiblings\nOffspring\nOther\n",
+    "input5": "Vitals: Temp 97.3 HR 96 BP 130/89 RR 18 O2 Sat 97%Ra \nGen: NAD, AAOx3\nNeck: no LAD\nChest: clear ausc\nCor: RRR no murmur\nAbd: soft, nondistended, mild, appropriate epigastric tenderness to palpation, incisions CDI\nExtremeties: no CCE\nPsych: mood overly anxious, more labile affect\n",
+    "input6": "endoscopy\uff1aoesophagitis\uff08LA grades B\uff09 chronic gastritis\r\n"
+}

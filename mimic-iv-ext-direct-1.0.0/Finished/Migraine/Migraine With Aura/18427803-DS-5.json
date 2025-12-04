@@ -1,0 +1,36 @@
+{
+    "Migraine With Aura$Intermedia_3": {
+        "Difficulty expressing language may be associated with migraine, especially when migraine is accompanied by neurological symptoms$Cause_1": {
+            "Difficulty producing speech$Input1": {}
+        },
+        "Persistent headaches and impaired speech may be signs of a worsening migraine.$Cause_1": {
+            "continued headache and altered quality of speech and could not express herself.$Input2": {}
+        },
+        "Reduced speech output may be associated with cognitive impairment during migraine$Cause_1": {
+            "Patient with not much speech output$Input5": {}
+        },
+        "Suspected Migraine$Intermedia_2": {
+            "Patients feel they may be experiencing a migraine, which is a subjective description of symptoms$Cause_1": {
+                "felt that she had a migraine$Input2": {}
+            },
+            "The patient reported symptoms of nausea and vomiting, which are common symptoms associated with migraine.$Cause_1": {
+                "endorses nausea and vomiting.$Input2": {}
+            },
+            "The patient's speech output improved only slightly, which may indicate that the migraine affected the patient's cognitive function.$Cause_1": {
+                "verbal output has improved only mildly since symptom onset$Input2": {}
+            },
+            "Abnormal blood lipids may affect blood vessel health and indirectly affect blood flow to the brain, which may induce migraines.$Cause_1": {
+                "HLD$Input3": {}
+            },
+            "A slightly increased heart rate may indicate that the patient is in distress or anxiety, which can be a characteristic of a migraine attack.$Cause_1": {
+                "Heart rate: 113$Input5": {}
+            }
+        }
+    },
+    "input1": "Difficulty producing speech \n",
+    "input2": "Patient woke up at about 0900 AM. Patient felt that she had a migraine. Patient took acetaminophen and went back to bed. Patient woke back up one hour later and had continued headache and altered quality of speech and could not express herself. \n\nPatient's husband called ___ and talked to nurse in primary \nphysicians office. Nurse told her to call ___ and ambulance. Patient was taken to ED at ___. Presenting BP 176/89. WBC 5.3. Glucose 127. Troponin negative. LFTs normal. Chem7 normal. NCHCT and CTA head and neck without evidence of bleed or large vessel occlusion. Patient also had MRA neck which was normal. Patient and husband requested transfer here. Patient before discharge recieved a headache cocktail with ondansetron, toradol, reglan, and benadryl. This helped with headache, but not aphasia. \n\nPatient's husband reports that verbal output has improved only mildly since symptom onset. Patient's voice softer, but not slurred compared to baseline. Patient's face, per him, looks normal. Patient denies weakness on side versus other side. Patient denies change in sensation. Patient's coordination normal. Patient endorses nausea and vomiting. \n\n",
+    "input3": "Hypothyroidism \nHLD \nHistory of breast CA \nLeft paramedian pontine stroke \n",
+    "input4": "Mother had heart disease in elderly age. Paternal grandmother had stroke in ___. \n",
+    "input5": "PHYSICAL EXAMINATION: \nPresentation vitals: \nTemperature: 98.5 \nHeart rate: 113 \nBlood pressure: 133/85 \nRespiratory rate: 15 \nOxygen saturation: 96% RA \n\nNeurologic:\nMental Status: \nPatient with not much speech output, correctly answers questionswith yes and no.  Speech fluent, no errors.  Patient knows name,location.  Patient when asked month says \"I know, but cannot say\".  Patient's naming intact to elbow, hand, but when asked knuckle she again says \"I know, but cannot say\".  Patient can repeat short phrase, but not longer phrases, patient starts correctly, but then just stops providing end of phrase.  Left right differentiation intact.  Calculations intact.  Patient can easily follow midline and appendicular commands.  No evidence of apraxia, waves hello to me and blows kiss to husband.\n\n___:\nNo blink to threat. PERRL. EOMI intact, no nystagmus.  No \nptosis. Facial sensation normal. Facial musculature symmetric.  Hearing intact.  Palate elevates symmetrically.  Shoulders sit symmetrically.  Tongue protrudes to midline with forceful lateral excursions.  \n\nMotor: \nBulk and tone normal.  No pronator drift.  No orbiting. Patient with full power throughout upper and lower extremities.   \n\nSensory:  \nPinprick first tested on forehead and patient reports that appreciation is same in fingers and toes.  Patient can appreciate large upward and downward of toes, but not small excursions. \n\nReflexes:\nPlantar reflex extensor on right and mute/flexor on left. Patient's reflexes symmetric and normal in upper extremities, \nbut diffusely hyporeflexia in lower extremities.   \n\nCoordination: \nPatient with no dysmetria with finger nose finger and heal to shin or heal to shin.  No rebound of outstretched hands. \n\nGait: \nDeferred. \n\n\n",
+    "input6": "___ 01:09PM BLOOD WBC-6.1 RBC-4.34 Hgb-12.1 Hct-37.6 MCV-87 \nMCH-27.9 MCHC-32.2 RDW-13.2 RDWSD-42.0 Plt ___\n___ 01:09PM BLOOD Neuts-58.6 ___ Monos-10.2 Eos-1.7 \nBaso-0.3 Im ___ AbsNeut-3.55 AbsLymp-1.76 AbsMono-0.62 \nAbsEos-0.10 AbsBaso-0.02\n___ 01:09PM BLOOD ___ PTT-26.7 ___\n___ 01:09PM BLOOD Glucose-103* UreaN-18 Creat-0.7 Na-141 \nK-4.3 Cl-101 HCO3-30 AnGap-10\n___ 01:09PM BLOOD ALT-15 AST-18 LD(LDH)-178 AlkPhos-56 \nTotBili-0.5\n___ 01:09PM BLOOD cTropnT-<0.01\n___ 01:09PM BLOOD Albumin-3.6 Calcium-9.2 Phos-3.4 Mg-2.0 \nCholest-PND\n___ 01:09PM BLOOD %HbA1c-PND\n___ 01:09PM BLOOD TSH-PND\n"
+}

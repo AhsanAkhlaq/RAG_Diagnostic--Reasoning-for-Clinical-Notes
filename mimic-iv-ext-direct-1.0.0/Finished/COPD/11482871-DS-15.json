@@ -1,0 +1,50 @@
+{
+    "Mild COPD$Intermedia_4": {
+        "FEV1 \u2265 80% confirm Mild COPD$Cause_1": {
+            "FEV1 82%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC < 0.70$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "An elevated heart rate and a drop in oxygen saturation to 83% may indicate shortness of breath or lung dysfunction, common symptoms of COPD.$Cause_1": {
+                    "tachypneic, with O2 sat of 83%$Input2": {}
+                },
+                "A chest X-ray shows cord-like density in the right lower lung, which may be caused by lung infection or other structural abnormalities, which are more common in patients with COPD.$Cause_1": {
+                    "CXR at clinic was notable for streaky densitites in the right lower base$Input2": {}
+                },
+                "Atelectasis may worsen COPD symptoms.$Cause_1": {
+                    "bibasilar opacities consistent with atelectasis$Input2": {}
+                },
+                "The oxygen saturation dropped to 85% on standing, suggesting possible postural changes in oxygen saturation, which may be more pronounced in patients with COPD.$Cause_1": {
+                    "desatted to 85% when standing$Input2": {}
+                },
+                "The patient arrived at the ward with labored breathing, a classic symptom of COPD.$Cause_1": {
+                    "labored breathing$Input2": {}
+                },
+                "The patient sometimes felt short of breath and used CPAP to assist her breathing, suggesting that she may have long-term breathing problems, a common symptom of COPD.$Cause_1": {
+                    "short of breath and had used her CPAP O2 at times$Input2": {}
+                },
+                "A significant decrease in oxygen saturation may indicate an underlying respiratory dysfunction, a common symptom of COPD.$Cause_1": {
+                    "94% RA, desats to 81% with ambulation$Input5": {}
+                },
+                "Obesity is a risk factor for COPD because it can increase pressure in the chest cavity and affect breathing function.$Cause_1": {
+                    "obese$Input5": {}
+                },
+                "This is a common type of COPD in which the center of the lungs is destroyed, affecting breathing function.$Cause_1": {
+                    "Moderate-to-severe centrilobular emphysema is seen in both lungs, predominant in the upper lobes$Input6": {}
+                },
+                "This suggests that airway inflammation, or damage, is a key factor in the development of COPD.$Cause_1": {
+                    "small airways wall thickening$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "asymptomatic hypoxia\n",
+    "input2": "She with Stage III colon cancer s/p 11 cycles of FOLFOX who initially presented to clinic the day of presentation to have her post de-accessed presented to clinic today to have her port de-accessed when she was found to be tachypneic, with O2 sat of 83%.  As per report, the patient was in mild distress but able to speak in full sensations. A CXR at clinic was notable for streaky densitites in the right lower base.  In the ED, vitals 97.7 74 143/83 20 96% on RA, however, desatted to 85% when standing. CXR prelim read as bibasilar opacities consistent with atelectasis cannot exclude infection. Blood cultures sent and pt treated with vanc and ceftriaxone. UA significant for moderate leukocyte exterase and 8 WBCs.  On arrival to the floor, pt does appear to have some labored breathing though she states that she feels well. She notes that several days ago she had been feeling short of breath and had used her CPAP O2 at times. She states that she had been feeling fine today, though without SOB. On ROS she does note that her legs felt a little weak today. She endorses headache. She states that her bowel movements and leg swelling are at baseline. The patient had been on lasix but the medication was discontinued when she began chemotherapy. Detailed ROS otherwise negative.\n",
+    "input3": "+ Diabetes Mellitus 2  \n+ Hypertension  \n+ Chronic Kidney Disease  \n+ OSA, uses CPAP at night  \n+ Hypothyroidism\n",
+    "input4": "NC\n",
+    "input5": "VS: 97.8 131/57 86 18 94% RA, desats to 81% with ambulation\nGeneral: Pleasant, well appearing woman, NAD\nHEENT: EOMI, PERRL, MMM, no thrush\nNeck: Supple, obese\nCV: RRR S1 S2, no murmurs/rubs/gallops\nLungs: CTAB, no crackles\nAbdomen: soft, nontender, nondistended, +BS, obese  \nExtremities: warm, well perfused, 2+ DP pulses, 1+ pitting edema bilaterally, symmetric, no calf tenderness appreciated \nSkin: No rashes\n",
+    "input6": "CXR: IMPRESSION:  Bibasilar opacities likely due to atelectasis; however, infection is not completely excluded.  Please correlate clinically. \n\ufeff\nCTA:  \nFINDINGS:  A right chest wall Port-A-Cath terminates in the cavo-atrial junction.  The pulmonary arteries are well opacified to subsegmental levels, without evidence of pulmonary embolism. Mild atherosclerotic calcification is seen in the thoracic aorta, without aneurysmal dilation or dissection.  Moderate mitral annular calcification is noted.  The heart size is normal.  There is no pericardial effusion.  Mild coronary arterial calcification is present.  Multiple small scattered reactive mediastinal lymph nodes are seen in the right paratracheal, prevascular, and subcarinal stations and hila, measuring up to 14 mm in the right hilum and 12 mm in the left hilum (3:37). \n  \nThe major airways are patent to subsegmental levels bilaterally. \n \nModerate-to-severe centrilobular emphysema is seen in both lungs, predominant in the upper lobes. A 4-mm right perissural upper lobe pulmonary nodule (2:29) is seen.   Mild small airways wall thickening is seen in both lower lobes, predominant in the right lower lobe.  An area of consolidation in the medial segment of the right middle lobe (3:53) likely represents atelectasis.  Linear subsegmental atelectasis is seen in both lower lobes.  There are no pleural or pericardial effusions.\n\nPost-bronchodilator FEV1/FVC < 0.70. FEV1 82%\n"
+}

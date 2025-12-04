@@ -1,0 +1,47 @@
+{
+    "Bacterial Pneumonia$Intermedia_4": {
+        "The presence of MRSA and Klebsiella, both of which are known causative agents of pneumonia, suggests a possible bacterial infection.$Cause_1": {
+            "Sputum with MRSA bronch: sensitive to Clinda, Tetracycline, Bactrim, Vancomycin, (Resistant to Erythro, Oxacillin, Penicillin, Cefazolin).$Input6": {}
+        },
+        "Abscess formation is a serious consequence of a bacterial infection and indicates that the infection has locally collected and formed pus$Cause_1": {
+            "Peripheral air and fluid collection adjacent to right middle lobe could potentially reflect a pleural versus lung abscess.$Input6": {}
+        },
+        "Pneumonia$Intermedia_3": {
+            "Infiltrate and pleural effusion on chest radiograph may indicate pulmonary infection or inflammation and are direct signs of pneumonia.$Cause_1": {
+                "CXR with small left lower lobe infiltrates and lateral parapneumonic effusion$Input2": {}
+            },
+            "The increased density of lung parenchyma, pleural effusion and hilar lymphadenopathy on chest CT further support the diagnosis of pneumonia.$Cause_1": {
+                "CT chest with contrast obtained revealed right middle/lower lobe consolidations, small right pleural effusion, and hilar lymphadenopathy$Input2": {}
+            },
+            "Difficulty breathing or insufficient oxygenation, which is common in people with pneumonia$Cause_1": {
+                "93% on 3L NC$Input5": {}
+            },
+            "Elevated lactate may be a sign of tissue hypoxia, is common in severe infections, and may indicate pneumonia.$Cause_1": {
+                "lactate of 2.1$Input5": {}
+            },
+            "Leukocytosis is common in infections, especially bacterial infections, and a high proportion of neutrophils indicates an acute bacterial infection, of which pneumonia is one of the common causes.$Cause_1": {
+                "Wbc of 38.6 (85% PMNs)$Input5": {}
+            },
+            "Suspected Pneumonia$Intermedia_2": {
+                "Fever and cough are symptoms of pneumonia$Cause_1": {
+                    "Fever, cough$Input1": {}
+                },
+                "COPD as a potential risk factor for pneumonia$Cause_1": {
+                    "history of COPD$Input2": {}
+                },
+                "Persistent high fever, chills, and productive cough are classic symptoms of pneumonia$Cause_1": {
+                    "fever to 102.5 and chills with productive cough$Input2": {}
+                },
+                "Consideration of ARDS and cardiogenic pulmonary edema indicates a serious pulmonary condition in the patient and possible complications from pneumonia.$Cause_1": {
+                    "concern for evolving ARDS versus cardiogenic pulmonary edema$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "Fever, cough\n",
+    "input2": "She is with history of COPD (uncertain severity) and breast cancer status post chemoradiation therapy and left mastectomy in who initially presented to an outside hospital with fever and cough. As patient is intubated and sedated, history is obtained from review of outside hospital documentation. She was reportedly in her usual state of health until approximately, when she developed fever to 102.5 and chills with productive cough, initially partially responsive to rest and supportive treatment. When low-grade fevers, productive cough, posttussive chest pain, and exertional dyspnea persisted, she presented for evaluation at her daughter's insistence.\n\nShe received 3L IV normal saline, as well as levofloxacin 750mg IV and ceftriaxone 1g IV for presumed community-acquired pneumonia in the setting of CXR with small left lower lobe infiltrates and lateral parapneumonic effusion. She was admitted to the MICU for close monitoring due to severe sepsis with \"brief period of hypotension\" to an uncertain degree. \n\nCT chest with contrast obtained revealed right middle/lower lobe consolidations, small right pleural effusion, and hilar lymphadenopathy. Vancomycin was discontinued in favor of linezolid due to perceived improved efficacy in the context of MRSA pneumonia. Following trial of noninvasive ventilation, she was intubated, given hypoxemic respiratory failure and concern for evolving ARDS versus cardiogenic pulmonary edema incompletely responsive to diuresis. She also received a methylprednisolone burst for possible COPD exacerbation. Although thoracentesis was not attempted due to an inadequate pocket, bronchoscopy with BAL was performed, with cytology negative for malignant cells and unclear culture data results. CT chest with contrast obtained that day demonstrated seemingly interval development of right lower lobe cavitation versus necrosis and worsening bilateral airspace opacities.\n",
+    "input3": "+Breast cancer status post chemoradiation therapy and left \n+mastectomy no recurrences\n+COPD (uncertain severity)\n+Acute HBV status post spontaneous clearance\n+Dental surgery in ___\n+Chronic back pain status post multiple operative interventions\n+Cold-induced urticaria\n+Status post removal of all teeth\n+Depression/anxiety\n+Schizophrenia\n",
+    "input4": "Mother with history of lung cancer. Father died in a motor \nvehicle collision.\n",
+    "input5": "The vital signs were as follows: 100.8, 126, 120/58, 24, 93% on 3L NC. Initial labs were notable for Wbc of 38.6 (85% PMNs), Hgb/Hct of 9.7/28.6, platelets of 412, Na of 130, and lactate of 2.1.\n",
+    "input6": "OSH MICRO:\nSputum with MRSA bronch: sensitive to Clinda, Tetracycline, Bactrim, Vancomycin, (Resistant to Erythro, Oxacillin, Penicillin, Cefazolin). \n\nSputum also grew Klebsiella from ___: Pan-susceptible except for Ampicillin (Suscept to Ceftazidime, Ceftriaxone, Gentamicin, Levo, Zosyn, Tobra, Bactrim, Tetracycline, Cefoxitin, Cefuroxime, Meropenem, Cipro, Cefazolin). \n\nOSH Images:  \nTTE (___):\nPosterior mitral valve leaflet calcified with limited mobility. \nTrace MR. ___ to moderate TR with elevated PA systolic pressure. Normal LV systolic/diastolic function; LVEF of 55-60%. Moderately enlarged RA. Moderately enlarged RV with mild global hypokinesis.\n\nCT chest :\nPeripheral air and fluid collection adjacent to right middle lobe could potentially reflect a pleural versus lung abscess.\n"
+}

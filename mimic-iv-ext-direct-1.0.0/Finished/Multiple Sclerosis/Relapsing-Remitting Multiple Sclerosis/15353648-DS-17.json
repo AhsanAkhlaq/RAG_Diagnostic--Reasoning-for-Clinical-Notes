@@ -1,0 +1,38 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "The patient had been experiencing imbalance, diplopia, and nystagmus following a severe flu attack, which resolved after a round of Solumedrol IV treatment. These symptoms are also common in multiple sclerosis. This relapse at this hospital admission is evidence of Relapsing-Remitting Multiple Sclerosis$Cause_1": {
+            "treated with a course of solumedrol IV which was successful in resolving her symptoms of disequilibrium, diplopia, and nystagmus following a severe flu (3 in hospital and 2 as outpatient IV).$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "MRI shows new inactive lesions, suggesting active multiple sclerosis$Cause_1": {
+                "MRI showed new inactive lesions since prior$Input2": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Facial weakness is the common symptom of MS$Cause_1": {
+                    "Right facial weakness$Input1": {}
+                },
+                "The patient has a history of multiple sclerosis$Cause_1": {
+                    "She is a right handed woman with past history of multiple sclerosis diagnosed who presents today.$Input2": {}
+                },
+                "The patient noted decreased movement in the right side of his mouth and saw drooping in the mirror. This facial weakness may also be a manifestation of multiple sclerosis.$Cause_1": {
+                    "decreased activation of the right mouth which was drooped$Input2": {}
+                },
+                "The right pupil is unresponsive to light, which may indicate central nervous system damage$Cause_1": {
+                    "R pupil 4mm and nonreactive (baseline). L pupil is briskly reactive 3mm->2mm$Input5": {}
+                },
+                "There was weakness in both the upper and lower right sides of the face, suggesting facial nerve damage, which is common in patients with multiple sclerosis.$Cause_1": {
+                    "right upper and lower facial weakness, with weakness of eyebrow raising, eyelid closure, and smile$Input5": {}
+                },
+                "Loss of taste on the tongue, possibly due to damage to the facial nerve$Cause_1": {
+                    "Taste is somewhat diminished$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Right facial weakness\n",
+    "input2": "She is a right handed woman with past history of multiple sclerosis diagnosed who presents today.  The patient was recently with MRI showed new inactive lesions since prior. She was treated with a course of solumedrol IV which was successful in resolving her symptoms of disequilibrium, diplopia, and nystagmus following a severe flu (3 in hospital and 2 as outpatient IV).  She returns today after waking up  with noted decreased activation of the right mouth which was drooped per the patient on looking in the mirror.  As the patient is quite savvy regarding symptoms she has experienced in the past, she performed a rudimentary examination and noted no decrease in sharp sensation, temperature or touch in the face or body.  She also noted no other peripheral weakness.  After contacting, MD PhD, she was advised to present to the ED for evaluation and further management.\n\ufeff\nShe notes no recent illness or trauma, and no other symptoms since steroid IV management of her deficits.  She did note significant stressors from her three children, as well as her work.  \n \nOn neuro ROS, the pt denies headache, loss of vision, blurred vision, diplopia, dysarthria, dysphagia, lightheadedness, vertigo, tinnitus or hearing difficulty. Denies difficulties producing or comprehending speech.  In the body she denies focal weakness, numbness, parasthesiae. No bowel or bladder incontinence or retention. Denies difficulty with gait.\n \nOn general review of systems, the pt denies recent fever orchills.  No night sweats or recent weight loss or gain. Denies cough, shortness of breath.  Denies chest pain or tightness, palpitations.  Denies nausea, vomiting, diarrhea, constipation or abdominal pain.  No recent change in bowel or bladder habits.  No dysuria.  Denies arthralgias or myalgias. Denies rash.\n\ufeff\n",
+    "input3": "+ Depression\n+ Anxiety\n+ Migraine\n",
+    "input4": "- No seizures, developmental disability, learning disorders, migraine headaches, strokes less than 50, neuromuscular disorders, or movement disorders.\n",
+    "input5": "Physical Exam:\nGeneral: Awake and alert, pleasant and cooperative, NAD\nMental status: Alert and oriented x 3. Language fluent without dysarthria. Follows commands without difficulty.\nCranial nerves: R pupil 4mm and nonreactive (baseline). L pupil is briskly reactive 3mm->2mm. Extraocular movements are intact but there is coarse horizontal nystagmus on right lateral gaze, more prominent in the right eye than the left. There is right upper and lower facial weakness, with weakness of eyebrow raising, eyelid closure, and smile. Taste is somewhat diminished over the right side of her tongue.\nMotor: Normal bulk and tone. No pronator drift. Strength throughout in all muscle groups of the upper and lower extremities.\nSensation: Intact to light touch throughout.\nReflexes: 2+ and symmetric, toes downgoing.\nCoordination: Intact FNF b/l without dysmetria.\nGait: Deferred\n\ufeff\n",
+    "input6": "___ 06:55AM BLOOD WBC-5.0 RBC-3.99* Hgb-12.9 Hct-37.8 MCV-95 MCH-32.3* MCHC-34.1 RDW-12.6\n___ 04:41PM BLOOD WBC-5.5 RBC-4.38 Hgb-13.9 Hct-41.6 MCV-95 MCH-31.7 MCHC-33.4 RDW-12.5\n___ 04:41PM BLOOD Neuts-59.6 Monos-5.8 Eos-0.2 Baso-1.6\n___ 06:55AM BLOOD PTT-31.8\n___ 06:55AM BLOOD Glucose-85 UreaN-11 Creat-0.8 Na-144 K-3.9 Cl-110* HCO3-26 AnGap-12\n___ 04:41PM BLOOD Glucose-83 UreaN-13 Creat-0.8 Na-137 K-6.5* Cl-103 HCO3-21* AnGap-20\n___ 04:41PM BLOOD ALT-36 AST-70* AlkPhos-41 TotBili-0.3\n___ 06:55AM BLOOD Calcium-9.1 Phos-3.7 Mg-2.2\n___ 04:41PM BLOOD Albumin-4.5\n___ 04:41PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG\n___ 05:55PM BLOOD K-4.0\n___ 04:41PM BLOOD Lactate-1.5\n\ufeff\n"
+}

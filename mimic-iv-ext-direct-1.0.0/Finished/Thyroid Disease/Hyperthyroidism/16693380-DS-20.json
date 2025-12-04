@@ -1,0 +1,51 @@
+{
+    "Hyperthyroidism$Intermedia_3": {
+        "Low level of TSH is the diagnostic criteria for hyperthyroidism$Cause_1": {
+            "TSH< 0.03 (at OSH)$Input6": {}
+        },
+        "Suspected Thyroid disease$Intermedia_2": {
+            "Weakness is often seen with hyperthyroidism$Cause_1": {
+                "weakness$Input1": {}
+            },
+            "Weight loss is often seen with hyperthyroidism$Cause_1": {
+                "weightloss$Input1": {}
+            },
+            "Propylthiouracil (PTU) is a drug used to treat hyperthyroidism$Cause_1": {
+                "she was started on PTU$Input2": {}
+            },
+            "Propranolol is a beta-blocker commonly used to control rapid heart rate caused by hyperthyroidism$Cause_1": {
+                "she has been taking propranolol$Input2": {}
+            },
+            "Using iodine drops may be linked to thyroid disease$Cause_1": {
+                "she was on iodine drops$Input2": {}
+            },
+            "Nausea is one of the possible symptoms of hyperthyroidism$Cause_1": {
+                "She also feels nauseated all the time$Input2": {}
+            },
+            "Eye swelling and increased tearing may indicate thyroid-related eye disease$Cause_1": {
+                "She states her eyes are swollen and always teary$Input2": {}
+            },
+            "Palpitations and rapid heartbeat are common symptoms of hyperthyroidism$Cause_1": {
+                "She reports palpitations, heart \"pounding\"$Input2": {}
+            },
+            "Frequently feeling high body temperature is one of the characteristics of hyperthyroidism$Cause_1": {
+                "she feels warm all the time$Input2": {}
+            },
+            "Increased sweating may also be associated with hyperthyroidism$Cause_1": {
+                "She also has diaphoresis as well$Input2": {}
+            },
+            "An enlarged thyroid gland is the symptom for hyperthyroidism$Cause_1": {
+                "thyroid enlarged$Input5": {}
+            },
+            "Anxious is the symptom for hyperthyroidism$Cause_1": {
+                "anxious$Input5": {}
+            }
+        }
+    },
+    "input1": "weakness, weightloss\n",
+    "input2": "She yo female who presents with symptoms of vomiting.  She's not sure initially what she was placed on, but states at one point she was on iodine drops.  Also, a few weeks ago, while she was hospitalized for similar symptoms, she'd been placed on prednisone with significant improvement of her symptoms and weight gain.  She has been off all these medications because she lost her insurance (she's not sure why- her health insurance is ___ health insurance). About 3 weeks ago, she was started on PTU, and she has been taking propranolol as well.  Her shakiness has improved, but the weightloss continues.  She also feels nauseated all the time as well.  She states her eyes are swollen and always teary.  Also,she states that her PCP and another doctor told her she has some liver damage and repeated test for hepatitis, but she does not know the results of these tests.  She reports palpitations, heart \"pounding\", rare diarrhea, headache.  She denies fevers.  She states she feels warm all the time.  Her tremor has improved.  She denies chest pains.  She also has diaphoresis as well.  \n\ufeff\nInitial vitals 98.8, 143/70, 77, 16, 99%.  She was given IVFs and cipro in the ED for presumed UTI.  Vitals prior to transfer were 94.8, 69, 147/75, 18, 99% RA.  \n\ufeff\nCurrently, she complains of headache.  She states she just overall doesn't feel well.  She presented to the OSH ED earlier today due to symptoms of vomiting.  \n\ufeff\n10 system review of systems is as above or otherwise negative. \n\ufeff\n",
+    "input3": "N/A\n",
+    "input4": "No family history of thyroid disease\n",
+    "input5": "Physical Exam:\nVitals:  96.8  149/79  72  18  99% RA\nGen: thin female, anxious\nHEENT: swollen eyelids. mild exopthalmos.  thyroid enlarged, no nodules appreciated. JVP flat. no adenopathy\nCV: RRR, no MRG\nLungs: CTA bilaterally, no wheezes or rhonci\nAbdomen: soft, NT, normal BS.  no hepatoslenomegaly\nExt: no edema\nNeuro: CN grossly intact.  mild tremor.  motor strength\nPsych: A/O x 3\nSkin: no rash\n",
+    "input6": "Trop-T: <0.01  \n\ufeff\n141  109  15  \n------------< 96 \n3.6  23  0.5  \n\ufeff\nCK: 39  MB: 1  \n\ufeff\nALT: 21 AP: 195 Tbili: 0.4  \nAST: 23 LDH: 173  \n  \nTSH:Pnd Free-T4:Pnd \n\ufeff\n13.4\n6.8 >-----<  241 \n39.4  \nN:44.0 L:41.1 M:6.5 E:6.9 Bas:1.5 \n\ufeff\nTSH< 0.03 (at OSH)\nT4: 4.6\n\ufeff\nSpecGr 1.020  \npH 5.0  \nUrobil Neg  \nBili Neg  \nLeuk Neg  \nBld Neg  \nNitr Pos  \nProt 25  \nGlu Neg  \nKet 15  \nBact Many  \nYeast None  \n\ufeff\nUCG- negative\n\ufeff\nECG: NSR rate 70.  1 mm STD in V5.  no acute ischemic changes. \n\ufeff\n"
+}

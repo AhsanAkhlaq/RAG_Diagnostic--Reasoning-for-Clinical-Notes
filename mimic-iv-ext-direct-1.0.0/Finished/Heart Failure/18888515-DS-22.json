@@ -1,0 +1,49 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is elongated. The right atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "NT-proBNP or pro-BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strongly suspected heart failure.$Cause_1": {
+                    "proBNP-3317*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Shortness of breath is a common symptom of heart failure.$Cause_1": {
+                        "SOB on exertion$Input1": {}
+                    },
+                    "Ventricular tachycardia (VT) is a serious arrhythmia that often leads to the development of heart failure.$Cause_1": {
+                        "ICD implantation , h/o VT$Input3": {}
+                    },
+                    "Chronic kidney disease can induce heart failure.$Cause_1": {
+                        "CKD$Input3": {}
+                    },
+                    "Coronary artery disease (CAD) and are also risk factors for heart failure.$Cause_1": {
+                        "CAD, h/o IMI late, cath - RCA 90% proximal, totally occ distally, akinetic inferoposterior segment$Input3": {}
+                    },
+                    "S3 gallop is a common sign of acute heart failure$Cause_1": {
+                        "CARDIAC: RRR, S3 gallop$Input5": {}
+                    },
+                    "Bibasilar crackles half way to scapulas is a common sign of pulmonary edema associated with heart failure.$Cause_1": {
+                        "LUNGS: Bibasilar crackles half way to scapulas$Input5": {}
+                    },
+                    "Possible sign of heart failure$Cause_1": {
+                        "EXTREMITIES: bil tibial edema +3$Input5": {}
+                    },
+                    "gained in weight and edema are common symptoms of heart failure.$Cause_1": {
+                        "He has also gained in weight over the past couple of days and noticed increasing ankle edema.$Input2": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "SOB on exertion\n",
+    "input2": "He is a male (ICD with last shock years ago, Chronic Myelogenous Leukemia and CKD (Cr 1.8-2.3) who presents with shortness of breath on minimal exertion like putting clothes on this morning. He has also gained in weight over the past couple of days and noticed increasing ankle edema. He was recently admitted for a CHF exacerbation , he was treated with lassix drip and was diuresed 6 liters (from 83 to 78 kg) and was discharged on Turosemide 100mg QD. He was feeling relatively well since and was able to  walk upto 4 minutes without stopping. He denies PND or orthopnea. He denies any chest pain. He has been having a nonproductive cough over the past few months and is being worked up for a Right lower lobe lesion on CT scan by Doctor in Pulmonology.  Denies any fevers, chills, nausea or diaphoresis.  \n.  \nIn the ED, initial vitals were 98.6, 135/54, 80, 18, 95%RA. He recieved aspirin 325mg and IV lasix 40mg.  \n.  \nOn the floor, he is breathing comfortably at rest and has no complaints.  \n..  \nOn review of systems, he denies any prior deep venous  thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, hemoptysis, black stools or red  stools. He denies recent fevers, chills or rigors. He denies  exertional buttock or calf pain. All of the other review of  systems were negative.  \n.  \nCardiac review of systems is notable for absence of chest pain,  paroxysmal nocturnal dyspnea, palpitations, syncope  or presyncope.\n",
+    "input3": "+chronic myelogenous leukemia on Gleevec\n+s/p ICD implantation , h/o VT, EF 25% (echo\n+CKD - baseline Cr 1.1\n+CAD, h/o IMI late, cath - RCA 90% proximal, totally occ distally, akinetic inferoposterior segment, EF\n+Bilateral hearing aides\n+Lumbar disc disease\n+Depression\n+CVA d/t LV thrombus - no residual deficits\n+CHF, TTE - LVEF 25%, severe global LV hypokinesis, 4+ MR, 3+TR, mild pulmonary hypertension\n+ being worked up as outpatient for pulmonary nodule\n\ufeff\n",
+    "input4": "(-) FHx CAD  no leukemia/lymphoma\n",
+    "input5": "Physical Exam:\nADMISSION PHYSICAL EXAM\nVS: T=98.1...BP=136/69...HR=81...RR=18...O2 sat= 97% RA  \nGENERAL: Oriented x3. Mood, affect appropriate. NAD  \nHEENT: Sclera anicteric. PERRL, EOMI. Mild pallor, no cyanosis  \nNECK: Supple, no JVD  \nCARDIAC: RRR, S3 gallop . No m/r.  \nLUNGS: Bibasilar crackles half way to scapulas, good air movment w/o wheezing  \nABDOMEN: Soft, non distended, no acites, no HSM, non tender \nEXTREMITIES: WWP, bil tibial edema +3, no signs of DVT.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES: pulses +1 bilateral DP, radial. +2 bil femoral + carotid \n\ufeff\n",
+    "input6": "BLOOD proBNP-3317*\n\nChest X-Ray: Left-sided pacemaker/AICD device is noted with leads terminating in the right atrium and right ventricle, unchanged. The heart remains enlarged, but similar to prior. Aortic knob is calcified, and the mediastinal and hilar contours are unchanged. There is continued prominence of the right hilum, which may again represent enlargement of the pulmonary artery. Pulmonary vascularity is not congested. There are hazy ill-defined opacities in both lung bases, which could represent atelectasis. Small right pleural effusion is unchanged. Compression deformity within the mid thoracic spine is similar to prior. No pneumothorax is identified. \n  \nThe left atrium is elongated. The right atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %)\n\ufeff\n"
+}

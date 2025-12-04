@@ -1,0 +1,38 @@
+{
+    "Severe COPD$Intermedia_4": {
+        "30% \u2264 FEV1 < 50% confirm Severe COPD$Cause_1": {
+            "FEV1 32%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "FEV1/FVC < 0.70 confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC = 0.38.$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "Shortness of breath is one of the classic symptoms of COPD and indicates that the patient may have impaired lung function.$Cause_1": {
+                    "short of breath$Input2": {}
+                },
+                "The need to use BiPAP indicates that the patient may have severe dyspnea, which is a common treatment for acute exacerbations of COPD.$Cause_1": {
+                    "requiring non-invasive ventilation.$Input2": {}
+                },
+                "The use of steroids and antibiotics indicates that the patient may have an infectious exacerbation or inflammatory response, which is common in the management of COPD.$Cause_1": {
+                    "steroids, antibiotics$Input2": {}
+                },
+                "Decreased breath sounds bilaterally and mild wheezing at the end of expiration. These are classic symptoms of COPD and indicate airflow limitation.$Cause_1": {
+                    "Decreased breath sounds bilaterally slight end-expiratory wheezes$Input5": {}
+                },
+                "Rales are often related to fluid accumulation or partial airway occlusion, which may occur in patients with COPD.$Cause_1": {
+                    "slight bibasilar crackes also noted$Input5": {}
+                },
+                "The patient required assisted ventilation and high concentrations of oxygen to maintain normal oxygenation levels. This indicates that the patient may have severe respiratory insufficiency, a serious stage in the progression of COPD.$Cause_1": {
+                    "O2: 100% on 50% BiPAP$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "One week prior to admit she thought she had a sinusitis.  She made an appointment to see her PCP but started feeling more short of breath and so went to the hospital. She denies fevers, chills, chest pain except for intermittent axillary sharp pain that goes beneath both axilla.\n.\nShe presented to , where initial ABG notable for ABG CTA negative for PE, troponin negative x1. She received steroids, antibiotics and BiPAP placement and sent to because there were no more ICU beds at their facility. \n.\ninitial vitals were: 96.3, 97, 132/67 30 97% on BiPAP. Patient appeared comfortable on BiPAP. Repeat ABG noted to be 7.3/234/47.  CXR showed no focal consolidation, flattened diaphragm.  She was admitted to the ICU as she was requiring non-invasive ventilation. \n.\nIn the ICU, transfer vitals were: 97, 101, 130/74, 21, 99% \nBiPAP.  She was uncomfortable on the BiPAP mask.  \n.\nReview of systems: \n(+) Per HPI\n(-) Denies fever, chills, night sweats, recent weight loss or gain. Denies chest pain, chest pressure, palpitations, or \nweakness. Denies nausea, vomiting, diarrhea, constipation, \nabdominal pain. Denies dysuria, frequency, or urgency. Denies arthralgias or myalgias. Denies rashes or skin changes. She does complain of some constipation.\n",
+    "input3": "+ h/o intubation in ICU\n",
+    "input4": "Non-contributory\n",
+    "input5": "Vitals: T: 95.6 BP: 119/65 P: 95 R: 17 O2: 100% on 50% BiPAP\nGeneral: Frail appearing\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: Supple, JVP not elevated, no LAD\nLungs: Decreased breath sounds bilaterally slight end-expiratory wheezes, slight bibasilar crackes also noted, no rhonchi\nCV: RRR no murmurs\nAbdomen:  Soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly\nExt: No clubbing, cyanosis; 1+ radial pulses; moves all 4 \nextremities\n",
+    "input6": "Labs on Admission: \n139  | 90  | 9  \n------------------< 146 \n4.3  | 40  | 0.3 \n\nCa: 9.8 Mg: 1.7 P: 3.3\n\nCBC: 10.5 > 13.1/40.6 <  208\n\nPost-bronchodilator FEV1/FVC = 0.38.\nFEV1 32%\n"
+}

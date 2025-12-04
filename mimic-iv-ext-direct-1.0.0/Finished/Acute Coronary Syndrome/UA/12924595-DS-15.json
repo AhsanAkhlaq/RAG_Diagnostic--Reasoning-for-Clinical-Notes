@@ -1,0 +1,60 @@
+{
+    "UA$Intermedia_5": {
+        "in-stent stenosis of RCA is a sign of acs$Cause_1": {
+            "Significant in-stent stenosis of RCA but good collaterals Left circumflex with 80% lesions;$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain and pressure is a sign of acs$Cause_1": {
+                "Chest pain and pressure$Input1": {}
+            },
+            "vessel disease and DM are risk facts$Cause_1": {
+                "Female with h/o known 1 vessel disease; s/p DES to RCA x 2, -TnI <0.01 x 3), poorly controlled diabetes$Input2": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "Severe chest pain is symbol of ACS-UA$Cause_1": {
+                "she reports she woke up with. Describes pain as \"pulling sensation\" on L side of chest, lasts a few seconds, does not radiate and in intensity. Reports feels similar to initial presenting cardiac sxs but not as intense. She reports nausea, palpitations, dizziness, chills, dyspnea on exertion, and presyncope.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain and pressure is a sign of acs$Cause_1": {
+                    "Chest pain and pressure$Input1": {}
+                },
+                "vessel disease and DM are risk facts$Cause_1": {
+                    "Female with h/o known 1 vessel disease; s/p DES to RCA x 2, -TnI <0.01 x 3), poorly controlled diabetes$Input2": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "ECG:non-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain and pressure is a sign of acs$Cause_1": {
+                    "Chest pain and pressure$Input1": {}
+                },
+                "vessel disease and DM are risk facts$Cause_1": {
+                    "Female with h/o known 1 vessel disease; s/p DES to RCA x 2, -TnI <0.01 x 3), poorly controlled diabetes$Input2": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "Severe chest pain is symbol of ACS-UA$Cause_1": {
+                    "she reports she woke up with. Describes pain as \"pulling sensation\" on L side of chest, lasts a few seconds, does not radiate and in intensity. Reports feels similar to initial presenting cardiac sxs but not as intense. She reports nausea, palpitations, dizziness, chills, dyspnea on exertion, and presyncope.$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain and pressure is a sign of acs$Cause_1": {
+                        "Chest pain and pressure$Input1": {}
+                    },
+                    "vessel disease and DM are risk facts$Cause_1": {
+                        "Female with h/o known 1 vessel disease; s/p DES to RCA x 2, -TnI <0.01 x 3), poorly controlled diabetes$Input2": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain and pressure\n",
+    "input2": "Female with h/o known 1 vessel disease; s/p DES to RCA x 2, -TnI <0.01 x 3), poorly controlled diabetes p/w intermittent chest pain since 6 am, which she reports she woke up with. Describes pain as \"pulling sensation\" on L side of chest, lasts a few seconds, does not radiate and in intensity. Reports feels similar to initial presenting cardiac sxs but not as intense. She reports nausea, palpitations, dizziness, chills, dyspnea on exertion, and presyncope. Denies vomiting, SOB, F, sick contact, cough symptoms, acid reflux, trauma.  However, she has been nauseaus and feeling fatigued for the past few days and a bit short of breath yesterday.  \n\nShe was admitted to where she has had her cardiac care. She was admitted for atypical chest pain at that time - ruled out for MI with serial enzymes. ETT was also negative for ischemia.\n",
+    "input3": "+Type 1 Diabetes\n+1 vessel disease; s/p DES to RCA x 2 ___ -TnI <0.01 x 3)\n",
+    "input4": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.\n",
+    "input5": "Admission Exam:\n\nVS: Wt= 62.3 T= 98.4 BP=115/71 HR= 81 RR= 18 O2 sat= 99%\nGeneral:  NAD\nHEENT:  PERRL, EOMI\nNeck:  No JVD, no LAD\nCV:  RRR, no m/r/g appreciated\nLungs:  CTAB\nAbdomen:  Diffuse tenderness, no guarding; no hepatosplenomegaly \nappreciated; NABS\nExt:  No edema/cyanosis/clubbing\nNeuro:  Grossly intact\nSkin:  No rashes, lesions appreciated\nPULSES:  2+ DP\n",
+    "input6": "___ 09:33PM   cTropnT-<0.01\n___ 04:30PM URINE  HOURS-RANDOM\n___ 04:30PM URINE  UHOLD-HOLD\n___ 04:30PM URINE  COLOR-Yellow APPEAR-Clear SP ___\n___ 04:30PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-1000 KETONE-40 BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 LEUK-NEG\n___ 03:16PM   GLUCOSE-76 UREA N-7 CREAT-0.7 SODIUM-139 POTASSIUM-4.7 CHLORIDE-101 TOTAL CO2-27 ANION GAP-16\n___ 03:16PM   estGFR-Using this\n___ 03:16PM   cTropnT-<0.01\n___ 03:16PM   WBC-10.4 RBC-5.02 HGB-15.0 HCT-44.5 MCV-89 MCH-30.0 MCHC-33.8 RDW-12.8\n___ 03:16PM   NEUTS-52 BANDS-0 ___ MONOS-5 EOS-1 BASOS-1 ___ MYELOS-0\n___ 03:16PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL\n___ 03:16PM   PLT SMR-NORMAL PLT COUNT-312\n___ 09:10AM BLOOD WBC-6.2 RBC-4.37 Hgb-13.0 Hct-37.9 MCV-87 MCH-29.9 MCHC-34.4 RDW-12.8 Plt ___\n___ 09:10AM BLOOD Plt ___\n___ 09:10AM BLOOD Glucose-214* UreaN-8 Creat-0.6 Na-137 K-4.2 Cl-101 HCO3-28 AnGap-12\n___ 12:45PM BLOOD cTropnT-<0.01\n___ 05:55AM BLOOD cTropnT-<0.01\n___ 12:30AM BLOOD cTropnT-<0.01\n___ 06:35PM BLOOD cTropnT-<0.01\n___ 03:55AM BLOOD cTropnT-<0.01\n___ 09:15AM BLOOD cTropnT-<0.01\n___ 09:33PM BLOOD cTropnT-<0.01\n___ 09:10AM BLOOD Calcium-8.8 Phos-2.8 Mg-1.5*\n___ 09:20AM BLOOD %HbA1c-9.0* eAG-212*\n___ 04:50AM BLOOD Triglyc-103 HDL-56 CHOL/HD-2.8 LDLcalc-78 LDLmeas-83\n\nStudies:\n\nSignificant in-stent stenosis of RCA but good collaterals Left circumflex with 80% lesions; s/p 1 DES to mid-circumflexGiven 600mg plavix TR band at radial and angioseal at right groin Will need chronic aspirin and plavix for year. \n\n\n___ CXR: \nThe heart is normal in size.  The mediastinal and hilar contours appear within normal limits.  There is no pleural effusion or pneumothorax.  The lungs appear clear.  Bony structures appear within normal limits. \n \n___ ECHO:\n\nFindings   \nLEFT ATRIUM: Normal LA and RA cavity sizes. \n\nLEFT VENTRICLE: Normal LV wall thickness, cavity size, and regional/global systolic function (biplane LVEF>55%). Estimated cardiac index is normal (>=2.5L/min/m2). Transmitral Doppler E>A and TDI E/e' <8 suggesting normal diastolic function, and normal LV filling pressure (PCWP<12mmHg). \n\nRIGHT VENTRICLE: Normal RV chamber size and free wall motion. \n\nAORTA: Normal diameter of aorta at the sinus, ascending and arch levels. \n\nAORTIC VALVE: Normal aortic valve leaflets (3). No AS. No AR. \n\nMITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP.  Normal mitral valve supporting structures.\n\n___ VALVE: Normal tricuspid valve leaflets with trivial \nTR. Normal PA systolic pressure. \n\nPERICARDIUM: No pericardial effusion.   \nConclusions   \n The left atrium and right atrium are normal in cavity size. Normal left ventricular wall thickness, cavity size, and regional/global systolic function (biplane LVEF = 60 %). The estimated cardiac index is normal (>=2.5L/min/m2). Transmitral and tissue Doppler imaging suggests normal diastolic function, and a normal left ventricular filling pressure (PCWP<12mmHg). Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion. \n\nIMPRESSION: Normal biventricular regional/global systolic \nfunction. Normal left ventricular diastolic function with normal \nleft ventricular enddiastolic pressure.\n\nECG:non-ST-elevation\n"
+}

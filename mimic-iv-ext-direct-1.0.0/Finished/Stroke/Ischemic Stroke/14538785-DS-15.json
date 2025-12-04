@@ -1,0 +1,69 @@
+{
+    "Ischemic Stroke$Intermedia_3": {
+        "Evidence of multiple acute cerebral infarctions was shown, indicating that ischemic damage had occurred to the brain tissue.$Cause_1": {
+            "tiny acute infarcts in the right hemisphere and cerebellum and on the left MCA territory$Input2": {}
+        },
+        "Multiple acute/subacute infarcts, possibly due to embolism. These infarcts are better visualized by previous brain MRI and there is no evidence of hemorrhage. These acute or subacute infarcts are direct evidence of ischemic stroke.$Cause_1": {
+            "Multiple scattered supra and infratentorial foci of acute/subacute infarcts, which are likely embolic in etiology, are better appreciated on prior MRI of the brain. No evidence of hemorrhage$Input6": {}
+        },
+        "Nonspecific supratentorial white matter may represent chronic small vessel ischemic disease, which is an important factor leading to ischemic stroke.$Cause_1": {
+            "Nonspecific supratentorial white matter, which likely represents chronic small vessel ischemic disease$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "Left-sided weakness is a common symptom of stroke, which is caused by insufficient blood supply to the brain, leading to neurological dysfunction.$Cause_1": {
+                "L sided weakness$Input2": {}
+            },
+            "Atrial fibrillation is a significant risk factor for ischemic stroke because it can cause blood clots to form in the heart, which can break off and cause embolism in the brain.$Cause_1": {
+                "Afib on Coumadin$Input2": {}
+            },
+            "Intermittent worsening of symptoms may indicate unstable cerebral blood flow or microembolic events$Cause_1": {
+                "intermittent worsening of his left sided weakness$Input2": {}
+            },
+            "Anxiety and confusion may be signs of impaired brain function, common in stroke patients$Cause_1": {
+                "increasingly agitated and confused$Input2": {}
+            },
+            "CVA indicates a history of cerebrovascular accident, a significant risk factor for ischemic stroke$Cause_1": {
+                "acute embolic CVA$Input2": {}
+            },
+            "Hyperlipidemia means high levels of cholesterol or other fats in the blood, which can lead to fatty deposits in the arteries and increase the risk of stroke.$Cause_1": {
+                "HLD$Input3": {}
+            },
+            "High blood pressure is a major risk factor for stroke$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "A family history of heart disease may increase an individual's risk of developing heart disease, which is a significant risk factor for ischemic stroke.$Cause_1": {
+                "heart disease runs in the family$Input4": {}
+            },
+            "Neglect of the left side of the visual field may indicate damage to the right hemisphere of the brain, a common symptom of stroke.$Cause_1": {
+                "Appears to neglect left side of visual field, sensory neglect appears to fluctuate$Input5": {}
+            },
+            "Left-right confusion indicates that the patient may have cognitive impairment, which may be caused by damage to some part of the brain and is common in stroke patients.$Cause_1": {
+                "Mild left-right confusion.$Input5": {}
+            },
+            "Increased muscle tone in the left shoulder, elbow, knee, and ankle, and inability to fully extend the elbow, which may be caused by damage to the area of \u200b\u200bthe brain that controls muscles, as is common in stroke$Cause_1": {
+                "There is increased tone at left shoulder, elbow, knee, ankle, unable to extend fully at the elbow$Input5": {}
+            },
+            "Sustained clonus at the left ankle indicates neurological dysfunction, which is common after a stroke.$Cause_1": {
+                "Reflexes: sustained clonus at left ankle$Input5": {}
+            },
+            "Loss of proprioception of fine movements in the feet may indicate damage to neural pathways, a common consequence of stroke$Cause_1": {
+                "Proprioceptive loss to fine movements at both feet$Input5": {}
+            },
+            "The loss of sensation to simultaneous stimulation fluctuates, suggesting that sensory pathways may be affected intermittently, a common consequence of stroke$Cause_1": {
+                "Fluctuating extinction to DSS at arms/legs of left side.$Input5": {}
+            },
+            "Old supratentorial lacunar infarcts, a small vessel lesion, are common in patients with ischemic stroke.$Cause_1": {
+                "Old supra tentorial lacunar infarct as described above$Input6": {}
+            },
+            "Approximately 54% stenosis at the origin of the right internal carotid artery, caused by calcified and predominantly non-calcified atherosclerotic plaques. Carotid artery stenosis is a high risk factor for ischemic stroke because it may lead to reduced blood flow to the brain or thrombosis.$Cause_1": {
+                "Approximately 54% stenosis by NASCET criteria at the origin of the right internal carotid artery secondary to calcified and predominantly noncalcified atherosclerotic plaques.$Input6": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Mr. ___ is a ___ white male with multiple medical problems including CVA ___, L sided weakness, uses walker, antigravity in arm at baseline), Afib on Coumadin, and chronic UTIs ___ to indwelling Foley catheter for neurogenic bladder, who is a transfer from ___ who initially presented with left sided weakness and agitation and was found to have an acute embolic CVA in the setting of metabolic encephalopathy from UTI.\n\nHistory is gathered from the patient as well as the chart. The patient reports that he was in his usual state of health until 2 days prior to presentation. He reported intermittent worsening of his left sided weakness for 2 days prior to presentation to ED, lasting briefly on the order of seconds and improving between episodes. He told his wife this but did not present for further evaluation at that time. He then became increasingly agitated and confused. The evening before presentation, the patient was restless and intermittently yelling. On presentation to ___, the patient denied any focal symptoms other than a slight cough and a headache (frontal, ___ pain, improved with Tylenol). He was found to have an UTI growing enterococcus, for which he was started on ceftriaxone. The initial NCHCT ___ negative for acute processes; however, brain MRI ___ showed multiple tiny acute infarcts in the right hemisphere and cerebellum and on the left MCA territory. \n",
+    "input3": " HTN  \n DMII  \n Depression  \n HLD  \n Memory Loss  \n BPH  \n Neurogenic bladder  \n Osteoarthritis  \n GOUT  \n",
+    "input4": "heart disease runs in the family\n",
+    "input5": "Vitals:  T: 98.3  HR: 68  BP: 133/77  RR: 18  SaO2: 96% RA\nGeneral:  NAD\nHEENT: NCAT,  no oropharyngeal lesions, neck supple\n___: RRR, no M/R/G\nPulmonary: CTAB, no crackles or wheezes\nAbdomen: Soft, NT, ND, +BS, no guarding\nExtremities: Warm, no edema\n\nNeurologic Examination:\n- Mental status: Awake, alert, oriented to person, place, month/year but not date. Knew it was inauguration yesterday. Able to relate history without difficulty. Difficulty naming ___ backward, was able to perform DOWB with some encouragement. Speech is fluent with full sentences, intact repetition, and intact verbal comprehension, though with occasional stutter. Naming intact to items on stroke card. Able to describe cookie jar picture. No dysarthria. Mildly decreased prosody. Able to register 3 objects and recall ___ at 5 minutes with confabulation, ___ with categorical cues and ___ with multiple choice. No apraxia. Appears to neglect left side of visual field, sensory neglect appears to fluctuate. Mild left-right confusion. Able to follow both midline and appendicular commands.\n\n- Cranial Nerves: Right pupil 3->2mm, left 4->4. VF full to number counting. EOMI, with saccadic intrusions. V1-V3 without deficits to light touch bilaterally. Subtle left facial droop with symmetric activation. Hearing intact to finger rub bilaterally.  Palate elevation symmetric. SCM/Trapezius strength ___ bilaterally. Tongue midline.\n\n- Motor:  There is increased tone at left shoulder, elbow, knee, ankle, unable to extend fully at the elbow. There is pronation of right arm, left arm unable to sustain antigravity.\n  [___]\nL   2     2    3    3    ___-   4-    3   4-   4-   4+\nR   5     5    5    5    ___    5     5   5    5    5  \n \n- Reflexes: sustained clonus at left ankle. Toes upgoing bilaterally\n   [Bic] [Tri] [___] [Quad] [Gastroc]\n L  3+    3+     3+      3+       4\n R  2+    2+     2+      2+       1  \n\n- Sensory: No deficits to light touch, pin. Proprioceptive loss to fine movements at both feet. Fluctuating extinction to DSS at arms/legs of left side. Graphesthesia at both hands.\n\n- Coordination: No dysmetria with right hand, but with mild intention tremor. Left arm unable to perform.\n\n- Gait: Deferred\nDischarge Exam:\nVitals:  T: 98.3  HR: 68  BP: 133/77  RR: 18  SaO2: 96% RA\nGeneral:  NAD\nHEENT: NCAT,  no oropharyngeal lesions, neck supple\n___: RRR, no M/R/G\nPulmonary: CTAB, no crackles or wheezes\nAbdomen: Soft, NT, ND, +BS, no guarding\nExtremities: Warm, no edema\n\n\n",
+    "input6": "1. No evidence of malignancy in the abdomen or pelvis.\n2. Probable 5 mm long narrow stone, less likely excreted \ncontrast, in the proximal left ureter with mild proximal ureteral fullness, urothelial inflammation but no frank hydronephrosis.\n3. 1.3 cm stone in the urinary bladder.\n4. Enlarged lobulated prostate measures 5.6 x 5.3 cm.\n\nCT chest  ___\nIMPRESSION: \n \nThere is 2.3 cm extrapleural smoothly marginated mass abutting seventh rib,stable since ___.  Findings may represent neurogenic tumor.  Solitary fibrous tumor is less likely given size.  Given stability, malignancy is unlikely. Follow-up CT chest in ___ year recommended tissue stability.Few small lung parenchymal nodules are stable and benign.Suggestion of pulmonary artery hypertension.\n\n\nCTA head and neck ___\nIMPRESSION: \n  \n1. Multiple scattered supra and infratentorial foci of acute/subacute infarcts, which are likely embolic in etiology, are better appreciated on prior MRI of the brain. No evidence of hemorrhage. \n2. Old supra tentorial lacunar infarct as described above. \n3. Nonspecific supratentorial white matter, which likely represents chronic small vessel ischemic disease. \n4. Approximately 54% stenosis by NASCET criteria at the origin of the right internal carotid artery secondary to calcified and predominantly noncalcified atherosclerotic plaques. \n5. Sinus disease as described above. \n6. Partial opacification of the bilateral mastoid air cells, left greater than right. \n7. 1.7 cm thyroid nodule. Thyroid ultrasound is recommended for further evaluation. \n\n"
+}

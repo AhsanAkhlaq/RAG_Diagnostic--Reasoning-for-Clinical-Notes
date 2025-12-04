@@ -1,0 +1,21 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET: 9.2% > 6% is the gold standard for GERD diagnosis$Cause_1": {
+            "Ambulatory reflux monitor :total AET:9.2% on pH-impedance monitoring.$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "She had reflux-related symptoms.$Cause_1": {
+                "A famale patient with longstanding symptoms, some of which are consistent with reflux.$Input2": {}
+            },
+            "The esophageal motility of patients was observed.The weak motility may be related to reflux.$Cause_1": {
+                "In the interim, she has had a motility study, which showed ineffective esophageal motility with 50% failed contractions.$Input2": {}
+            }
+        }
+    },
+    "input1": "Reflex\n",
+    "input2": "A famale patient with longstanding symptoms, some of which are consistent with reflux.  She was seen by Dr., at which time she did have some symptoms, which were consistent with reflux, but others which were a bit concerning, especially those, which were not responsive to PPIs. She has continued to have the symptoms and does have some relief from Mylanta or Maalox.  In the interim, she has had a motility study, which showed ineffective esophageal motility with 50% failed contractions. Those contractions, which were present, were of normal amplitude. She underwent a laparoscopic surgery and was admitted to the surgical service for routine monitoring.\n",
+    "input3": "+Arthritis\n+hypothyroidism\n+laparoscopic cholecystectomy\n+hysterectomy\n",
+    "input4": "Family history is notable for stomach cancer in an aunt, lung cancer in a grandfather, and breast cancer in multiple members of her family.\n",
+    "input5": "VS: 98.8 98.3 68 115/77 18 100ra\nGen: NAD, A/Ox3\nCards: RRR, NL S1/S2\nLungs: CTA bil, no resp distress\nAbd: soft, nt, nd, no rebound/guarding\nWound: C/D/I with dressing in place, no erythema/induration\nExt: no CCE\n",
+    "input6": "06:33AM BLOOD WBC-7.8 RBC-4.01* Hgb-12.5 Hct-35.3* MCV-88# MCH-31.1 MCHC-35.3* RDW-12.5 Plt\n06:33AM BLOOD Glucose-103* UreaN-11 Creat-0.6 Na-138 K-4.5 Cl-101 HCO AnGap-13\n06:33AM BLOOD Calcium-9.0 Phos-4.7* Mg-1.7\nAmbulatory reflux monitor :total AET:9.2% on pH-impedance monitoring.\n"
+}

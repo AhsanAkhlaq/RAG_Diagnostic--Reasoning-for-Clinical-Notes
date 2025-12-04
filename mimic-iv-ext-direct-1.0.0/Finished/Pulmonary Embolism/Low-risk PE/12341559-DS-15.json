@@ -1,0 +1,53 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "This is the support for Low-risk PE$Cause_1": {
+            "The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "D-dimer is a biochemical marker of thrombosis and is often used to assess the possibility of pulmonary embolism.$Cause_1": {
+                "D-dimer at the time was +$Input2": {}
+            },
+            "A filling defect in the right lower lobe may directly indicate pulmonary embolism$Cause_1": {
+                "small RLL filling defect$Input2": {}
+            },
+            "A significant increase in dimers indicates possible thrombosis in the body.$Cause_1": {
+                "D-Dimer-863$Input6": {}
+            },
+            "A tiny filling defect in a small branch of the right lower lobe pulmonary artery is a direct sign of pulmonary embolism.$Cause_1": {
+                "Tiny filling defect noted in the subsegmental branch of the posteriorsegment of the right lower lobe pulomary artery with a small right-sided pleural effusion.$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Abdominal pain may be related to other disorders in the abdomen or may be reflex pain, as is sometimes seen with pulmonary embolism$Cause_1": {
+                    "RUQ \"gassy\" abdominal pain$Input2": {}
+                },
+                "Increasing pain when breathing is a warning sign of pulmonary embolism, which may be caused by a blockage of blood flow to the lungs.$Cause_1": {
+                    "pain is worse when taking a deep breath$Input2": {}
+                },
+                "Dyspnea is also a common symptom of pulmonary embolism.$Cause_1": {
+                    "difficult to take a deep breath$Input2": {}
+                },
+                "Fever can be a nonspecific manifestation of pulmonary embolism$Cause_1": {
+                    "fever to 101$Input2": {}
+                },
+                "A rapid heart rate ay be a physiological response to hemodynamic changes and is a common symptom of pulmonary embolism.$Cause_1": {
+                    "tachycardia to the 130's.$Input2": {}
+                },
+                "A small amount of right pleural effusion may be an inflammatory reaction caused by pulmonary embolism$Cause_1": {
+                    "small R.sided pleural effusion$Input2": {}
+                },
+                "Pulmonary embolism may cause difficulty breathing, especially when taking a deep breath. This may be because the embolus blocks blood flow to the lungs and affects the normal ventilation function of the lungs.$Cause_1": {
+                    "CTA B, good air movement biaterally, but poor inspiratory effort.$Input5": {}
+                },
+                "Pulmonary embolism may cause chest and abdominal pain, especially deep embolism, which may increase the right heart load and indirectly affect the abdominal organs.$Cause_1": {
+                    "NABS. TTP RUQ, epigastric area and LUQ to palp. +voluntary guarding. +BS,$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Pt is a male with PMH of costochondritis who presented to the ED today with RUQ \"gassy\" abdominal pain. Pt reports that he originally developed this pain a few months ago. He reports that the pain is worse when taking a deep breath and it is difficult to take a deep breath the pain. He however denies, n/v/d/c/melena/brbpr/CP/SOB/palp. He originally presented a few months ago where a CT scan was performed and reportedly negative. Pt reports pain had been intermittent over the last few months and had subsided until yesterday when he reported the same time of pain a fever to 101. He had to leave work and then presented ED where he initially triggered for tachycardia to the 130's. Pt underwent a CT of the torso that originally wet read stated small R.sided pleural effusion. D-dimer at the time was +. Pt was sent home with NSAIDS a z-pack and a PPI. However, final read returned with a small RLL filling defect and pt was called to return to the ED.Pt denies recent travel via plane or car, smoking, family h.o of blood clots, recent immobility. also denied any h.o leg/calf swelling.\n.\nIn the emergency department, initial vitals:\nTime Pain Temp HR BP RR Pox 104 142/83 18 99%RA HR 97, BP 129/55, RR 24, 02 94% on Ra. Pt was guaiac negative and started on a heparin gtt in the ED.\n",
+    "input3": "costochondritis\n",
+    "input4": "Denies h.o blood clots\n",
+    "input5": "Physical Exam:\nVS:T. 98.4, BP 126/76, HR 86, RR 18 sat 99% on RA\nGENERAL: NAD, sitting upright in bed, speaking in full sentences.\nHEENT: No scleral icterus. PERRLA/EOMI. MMM. OP clear. Neck Supple, No LAD.\nCARDIAC: RR. Normal S1, S2. No m/r/g.\nLUNGS: CTA B, good air movement biaterally, but poor inspiratory effort.\nABDOMEN: NABS. TTP RUQ, epigastric area and LUQ to palp. +voluntary guarding. +BS,\nEXTREMITIES: No c/c/e, 2+ dorsalis pedis/ posterior tibial pulses. Calves non-tender, no cords or erythema.\nNEURO: A&Ox3. Appropriate. CN grossly intact\n",
+    "input6": "Labs on Admission:\n___ 04:30PM BLOOD WBC-12.7* RBC-4.86 Hgb-14.3# Hct-41.9 MCV-86 MCH-29.5 MCHC-34.2 RDW-12.6\n___ 10:24PM BLOOD PTT-29.3\n___ 04:30PM BLOOD Glucose-115* UreaN-15 Creat-0.8 Na-139 K-3.8 Cl-101 HCO3-27 AnGap-15\n___ 04:30PM BLOOD ALT-29 AST-17 AlkPhos-91 TotBili-1.1\n___ 04:30PM BLOOD Lipase-22\n___ 04:30PM BLOOD proBNP-9\n___ 04:30PM BLOOD Calcium-9.0 Phos-2.6* Mg-1.8\n___ 04:30PM BLOOD D-Dimer-863*\n.\nImaging:\nCTA CHEST W&W/O C&RECONS, NON-CORONARY ___\n1. Tiny filling defect noted in the subsegmental branch of the posteriorsegment of the right lower lobe pulomary artery with a small right-sided pleural effusion.\n2. Normal appendix, normal pancreas, no evidence of perforation.\n3. Enlarged spleen.\n\ufeff4.The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels\n\n"
+}

@@ -1,0 +1,47 @@
+{
+    "Severe COPD$Intermedia_4": {
+        "30% \u2264 FEV1 < 50% confirm Severe COPD$Cause_1": {
+            "FEV1 45%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "FEV1/FVC < 0.70 confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC = 0.43.$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "Dyspnea is a common symptom of COPD$Cause_1": {
+                    "Dyspnea$Input1": {}
+                },
+                "Shortness of breath that worsens with activity is one of the classic symptoms of COPD.$Cause_1": {
+                    "worsening dyspnea with exertion$Input2": {}
+                },
+                "Chronic cough with white sputum is a common symptom of COPD$Cause_1": {
+                    "chronic cough productive of white phlegm$Input2": {}
+                },
+                "A short-acting bronchodilator (albuterol) was used but was ineffective, suggesting that persistent airway obstruction may exist.$Cause_1": {
+                    "uses albuterol infrequently (once per week), which he does not feel improves his symptoms.$Input2": {}
+                },
+                "Roflumilast is a drug used to treat COPD. Symptoms worsened after discontinuation of the drug, suggesting the possibility of a diagnosis of COPD.$Cause_1": {
+                    "stopped  six weeks later$Input2": {}
+                },
+                "Prolonged expiratory phase and poor airflow are common symptoms of COPD. People with COPD often have difficulty breathing, especially when they exhale.$Cause_1": {
+                    "prolonged expiratory phase, poor air movement$Input5": {}
+                },
+                "Oxygen saturation was low (90% on 2 L nasal cannula oxygen; 81% on room air). This indicates that the patient's blood oxygen level was significantly lower than normal without oxygen assistance, probably due to poor oxygenation caused by COPD.$Cause_1": {
+                    "90%2L NC  (81%RA)$Input5": {}
+                },
+                "Extremely severe centrilobular emphysema, a classic feature of COPD, indicates alveolar destruction and airflow limitation.$Cause_1": {
+                    "extremely severe centrilobular emphysema$Input6": {}
+                },
+                "There is secretion in the middle part of the trachea, which may be caused by increased airway secretions or poor discharge in COPD patients.$Cause_1": {
+                    "Secretions within the mid trachea$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea\n",
+    "input2": "He reports that over the past several months he has had worsening dyspnea with exertion. He denies symptoms at rest. He is able to walk a little less than a grocery store aisle before having to stop. He has a chronic cough productive of white phlegm that has not increased or changed consistency. He uses albuterol infrequently (once per week), which he does not feel improves his symptoms. He denies fever, chills, night sweats although does endorse a 15 pound weight loss over that time. He attributes his symptoms to the roflumilast he was startd on but stopped  six weeks later due to fatigue. \n\nHe also reports increased urinary frequency, dribbling for \nseveral months. Has been on Flomax in past but this stopped \naround same time symptoms started. On exam with PCP earlier in he was found to have abdominal distension. Had abdominal \nU/S had bladder distension extending to the level of the \numbilicus w/ 700cc post-void. He was referred to urology and was seen in clinic today where he reported  dysuria, frequency, and incomplete emptying of bladder. He was bladder scanned and found to have 900cc urine. He was referred to ED given dyspnea. \n\n",
+    "input3": "+ CAD, MI\n+ BPH\n+ Urinary retention\n+ Hypertension\n+ Hyperlididemia\n+ GERD\n+ OA\n",
+    "input4": "Mother: Died AMI\nFather: Died , unsure of cause\nBrother: Died AMI\nBrother: schizophrenia\nSister: Died, unsure of cause\n",
+    "input5": "VS - 96.9  170/99  50  20  90%2L NC  (81%RA) \nGENERAL - Caucasiane male, speaking in full sentences \nHEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM\nNECK - supple, no JVD\nLUNGS - unlabored respiration, prolonged expiratory phase, poor air movement, no wheezes \nHEART - S1, S2 regular rhythm, normal rate S4\nABDOMEN - NABS, soft/NT/ND, no masses or HSM, no rebound/guarding  \nEXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) \n \nSKIN - no rashes or lesions  \nNEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength throughout, sensation grossly intact throughout, steady gait\n",
+    "input6": "TTE: \nThe left atrium is normal in size. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. There is mild regional left ventricular systolic dysfunction with basal inferior/inferoseptal hypokinesis. Overall left ventricular systolic function is normal (LVEF>55%). \nThe right ventricular cavity is mildly dilated with borderline normal free wall function. The aortic valve leaflets (3) are mildly thickened. There is no aortic valve stenosis. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Physiologic mitral regurgitation is seen (within normal limits). The tricuspid valve leaflets are mildly thickened. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion.  Compared with the report of the prior study (images unavailable for review) of, findings are similar. \n.\nCTA CHEST: \n1. No pulmonary embolism or acute aortic syndrome.\n2. No pneumonia, though findings of acute bronchitis in the \nbilateral lowerlobes.\n3. Slightly increased mediastinal adenopathy, likely secondary tosuperimposed acute infection.\n4. Stable coronary atherosclerotic calcifications.\n5. Secretions within the mid trachea. Previously described \nasymmetric superior tracheal thickening is no longer apparent.\n6. Unchanged extremely severe centrilobular emphysema.\n\nPost-bronchodilator FEV1/FVC = 0.43.\nFEV1 45%\n"
+}

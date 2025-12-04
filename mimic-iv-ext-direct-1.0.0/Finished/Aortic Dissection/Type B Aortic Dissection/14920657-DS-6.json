@@ -1,0 +1,42 @@
+{
+    "Type B Aortic Dissection$Intermedia_3": {
+        "CT angiography showed aortic dissection from the distal thoracic aorta to the origin of the subclavian artery, extending downward to the right iliac artery, and was confirmed to be Type B aortic dissection (not extend to the ascending aorta).$Cause_1": {
+            "CTA abd/pelvis which showed a descending aortic dissection originating distal to the takeoff of the subclavian artery extending down just past the iliac bifurcation to R common iliac artery$Input2": {}
+        },
+        "CTA showed descending aortic dissection, which started from the distal subclavian artery, extended to the common iliac artery, and affected the superior mesenteric artery and renal artery, indicating a typical Type B Aortic Dissection.$Cause_1": {
+            "descending aortic dissection originating distal to the takeoff of the subclavian artery extending down just past the iliacbifurcation to R common iliac artery with the celiac actery, SMA and renal arteries perfused by the true lumen and by the false lumen.$Input6": {}
+        },
+        "Suspected Aortic Dissection$Intermedia_2": {
+            "back pain is a common symptom of Aortic Dissection$Cause_1": {
+                "back pain$Input1": {}
+            },
+            "Back pain radiating to the abdomen is a classic symptom of aortic dissection$Cause_1": {
+                "4 hours of back pain radiating to the abdomen$Input2": {}
+            },
+            "Acute onset of severe back pain starting in the upper back and radiating to the abdomen, right leg, and right shoulder suggests widespread pain that may involve different parts of the aorta.$Cause_1": {
+                "acute onset of severe back pain that started at her upper back and radiated around her abdomen and at one point even down to her right leg and to the right shoulder$Input2": {}
+            },
+            "Pain accompanied by marked abdominal distension and mild nausea may be caused by restricted visceral blood flow, a manifestation of inadequate blood flow to the abdominal organs that may result from aortic dissection.$Cause_1": {
+                "significant bloating with the pain, mild nausea$Input2": {}
+            },
+            "A risk factor of aortic dissection$Cause_1": {
+                "obese$Input5": {}
+            },
+            "Abdominal pain, especially epigastric tenderness, may be related to aortic dissection because the dissection can extend into the abdomen and cause pain$Cause_1": {
+                "focally tender in epigastrium$Input5": {}
+            },
+            "Echocardiography showed mobile density within the descending aorta, consistent with intimal flap/aortic dissection, further confirming the presence of aortic dissection.$Cause_1": {
+                "A mobile density is seen in the descending aorta consistent with an intimal flap/aortic dissection.$Input6": {}
+            },
+            "Mild dilatation and simple atherosclerosis of the ascending aorta may indicate weakness of the aortic wall, increasing the risk of aortic dissection.$Cause_1": {
+                "The ascending aorta is mildly dilated. There are simple atheroma in the ascending aorta$Input6": {}
+            }
+        }
+    },
+    "input1": "back pain\n",
+    "input2": "She is with no significant medical history with 4 hours of back pain radiating to the abdomen transfers. Patient reports she has been feeling her usual state of health until around 4pm, had acute onset of severe back pain that started at her upper back and radiated around her abdomen and at one point even down to her right leg and to the right shoulder. She also had significant bloating with the pain, mild nausea and tried to pass flatus and bowel movement without success. Her pain continued to be migratory around the abdomen and she presented to where she had normal vitals, SBP 120s and labs notable for WBC of 14.7 (LFTs, lipase normal, trop neg). She underwent CTA abd/pelvis which showed a descending aortic dissection originating distal to the takeoff of the subclavian artery extending down just past the iliac bifurcation to R common iliac artery with the celiac actery, SMA and renal arteries perfused by the true lumen and by the false lumen. She was given pain medication and transferred for further management. Upon transfer, patient's SBPs were in 110-120s, labs notable for WBC 22.4. She reports that her pain is currently much improved however focal in her upper back and her bloating has subsided.\n",
+    "input3": "+bronchitis\n+open cholecystectomy\n+TAH\n",
+    "input4": "diabetes in sister\n",
+    "input5": "VITALS:97.6 74  118/56 18 95% 2L NC\nGEN: NAD, comfortable, obese\nCV: RRR, no murmurs\nPULM: CTAB, no wheezing\nABD: obese, nondistended, focally tender in epigastrium, RUQ, to deep palpation no rebound or guarding. well healed subcostal incisional scar. \nEXT: WWP. feet are cool bilaterally , has palpable pulses\n   Rad  Fem  Pop  DP  ___\nR   P    P    P   P   P \nL   P    P    P   P   P\n",
+    "input6": "Admission Labs\n___ 07:20PM BLOOD WBC-22.4* RBC-4.56 Hgb-14.3 Hct-42.8 MCV-94 MCH-31.4 MCHC-33.4 RDW-13.2 RDWSD-45.1 Plt ___\n___ 07:20PM BLOOD ___ PTT-29.0 ___\n___ 07:20PM BLOOD Glucose-144* UreaN-14 Creat-0.7 Na-142 K-3.3 Cl-105 HCO3-26 AnGap-14\n___ 02:44AM BLOOD ALT-61* AlkPhos-86 Amylase-39 TotBili-0.6\n___ 02:44AM BLOOD Albumin-3.7 Calcium-8.9 Phos-3.7 Mg-2.0\n\nImaging:\nCTA abd/pelvis, WETREAD ONLY):\ndescending aortic dissection originating distal to the takeoff of the subclavian artery extending down just past the iliacbifurcation to R common iliac artery with the celiac actery, SMA and renal arteries perfused by the true lumen and by the false lumen.\n\nECHO ___\nPRE-BYPASS: The left atrium is mildly dilated. No spontaneous echo contrast or thrombus is seen in the body of the left atrium/left atrial appendage or the body of the right atrium/right atrial appendage. No atrial septal defect is seen by 2D or color Doppler. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal for the patient's body size. Right ventricular chamber size and free wall motion are normal. The ascending aorta is mildly dilated. There are simple atheroma in the ascending aorta. There are focal calcifications in the aortic arch. A mobile density is seen in the descending aorta consistent with an intimal flap/aortic dissection. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Trivial mitral regurgitation is seen. There is no pericardial effusion.\n"
+}

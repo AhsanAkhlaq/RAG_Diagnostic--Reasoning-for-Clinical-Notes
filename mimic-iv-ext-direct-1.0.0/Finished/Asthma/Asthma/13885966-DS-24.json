@@ -1,0 +1,45 @@
+{
+    "Asthma$Intermedia_3": {
+        "Giving medicine of steroids is a way of asthma treatment.$Cause_1": {
+            "Each time steroids resolve his symptoms.$Input2": {}
+        },
+        "Asthma may asociated with emphysema.$Cause_1": {
+            "CT chest showed mild emphysema.$Input2": {}
+        },
+        "Suspected asthma$Intermedia_2": {
+            "It symbolizes patient may have chest or bronchus disease.$Cause_1": {
+                "short of breath$Input1": {}
+            },
+            "Chest or bronchus diseases may associate hypertension.$Cause_1": {
+                "PMHx of HTN$Input2": {}
+            },
+            "Chest pain indicates that patient may has respiratory system disease or heart disease.$Cause_1": {
+                "He also developed a constant, left-sided, substernal chest ache$Input2": {}
+            },
+            "Patient may have respiratory system disease.$Cause_1": {
+                "Chest ache worse with inspiration and coughing$Input2": {}
+            },
+            "Cough and short of breathe indicate that patient may have chest or bronchus disease.$Cause_1": {
+                "cough, SOB and CP x5 days$Input2": {}
+            },
+            "When patient have chest or bronchus disease, sitting up may help them better.$Cause_1": {
+                "Sitting up in bed with bed raised at near 90 degrees.$Input5": {}
+            },
+            "Patient has difficult in breathe, indicates patient may has repiratory system disease.$Cause_1": {
+                "Severe coughing intermittently with prolonged expiratory phase.$Input5": {}
+            },
+            "Different sound of breath indicates patient may have chest or bronchus disease.$Cause_1": {
+                "Diffuse wheezing with good air movement.$Input5": {}
+            },
+            "Different sound of breathe than normal indicates patient may have respiratory system disease.$Cause_1": {
+                "Crackles at the bases bilaterally.$Input5": {}
+            }
+        }
+    },
+    "input1": "short of breath\n",
+    "input2": "Male with PMHx of HTN, dilated now resolved with EF %55% and renal insufficiency with baseline Cr 1.1-1.6 who presents with cough, SOB and CP x5 days. About 6 days ago he began experiencing SOB a/w a non-productive cough and new bilateral edema to the knees that reminds him. He endorses orthopnea, and denies PND. His abdomen seems distended to him and is uncomfortable. At that time he also developed a constant, left-sided, substernal chest ache that traveled down his left arm, worse with inspiration and coughing, not exacerbated on exertion. He denies N/V diaphoresis.\n\nOf note, the patient reports that he has experienced a similar cough and SOB every 3 months, though this cough seems worse and wetter than previous episodes. Each time steroids resolve his symptoms. In between episodes he does not have any symptoms. He was admitted  for similar symptoms and was found to be hypoxic. At that time he had a TTE with bubble study which showed no PFO and no evidence of pulmonary HTN. CT at that time was negative for PE and PNA. Inpatient PFT's showed a mild gas exchange defect and a mild obstructive ventilatory defect, he was treated with steroids for presumed viral bronchiolitis and improved within 2 days. F/u PFT's one month later were WNL. CT chest showed mild emphysema.\n",
+    "input3": "+GERD\n+Renal Insufficiency: baseline Cr 1.1-1.6. \n+Rectal Prolapse\n+S/p cholycystectomy\n",
+    "input4": "Mother: deceased from Alzheimer's  \nFather: deceased from CHF; had an MI\n2 Brothers: one deceased from melanoma  \n1 Sister: in good health  \n2 Paternal uncles: both died from MI\n",
+    "input5": "Vitals: 97.6 138/87 88 18 95%RA  \nGeneral: Alert and interactive. Looks mildly uncomfortable but NAD. Mildly tachypneic but not using accessory muscles. Sitting up in bed with bed raised at near 90 degrees. Severe coughing intermittently with prolonged expiratory phase.   \nHEENT: PERRL, EOMI, OP clear  \nNeck: No JVD appreciated \nLungs: Diffuse wheezing with good air movement. Crackles at the bases bilaterally.  \nCV: RRR, normal s1/s2, no m/r/g  \nAbdomen: soft, +BS, bulging flanks. Diffusely tender to palpation without rebound or guarding. No appreciable organomegaly. \nExt: 1+ lower ankle edema b/l with trace edema to the knees bilaterally\n",
+    "input6": "___ 04:20PM BLOOD WBC-7.7 RBC-4.43* Hgb-14.1 Hct-39.6* MCV-90 MCH-31.9 MCHC-35.7* RDW-13.3 Plt ___\n___ 04:20PM BLOOD Neuts-65.5 ___ Monos-5.8 Eos-7.0* Baso-0.7\n___ 04:20PM BLOOD ___ PTT-30.7 ___\n___ 04:20PM BLOOD Glucose-105* UreaN-13 Creat-1.3* Na-136 K-3.3 Cl-96 HCO3-27 AnGap-16\n___ 06:10AM BLOOD ALT-13 AST-15 AlkPhos-58 TotBili-0.4\n___ 06:20AM BLOOD Calcium-9.6 Phos-3.0 Mg-2.0\n___ 04:28PM BLOOD D-Dimer-451\n\nStudies\n___ CXR: No acute cardiopulmonary process.\n\n___ TTE: The left atrium is normal in size. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). Right ventricular chamber size and free wall motion are normal. The aortic root is mildly dilated at the sinus level. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion. IMPRESSION: Normal global and regional biventricular systolic function.\n"
+}

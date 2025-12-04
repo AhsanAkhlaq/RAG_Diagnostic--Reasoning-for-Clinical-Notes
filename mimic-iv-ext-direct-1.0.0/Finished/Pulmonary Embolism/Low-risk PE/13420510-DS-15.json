@@ -1,0 +1,53 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "The right heart has not been significantly affected, and submassive PE is ruled out.$Cause_1": {
+            "The main and right pulmonary arteries are normal in caliber, and there is no evidence of right heart strain.$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Elevated D-dimer levels (>500 ng/mL) are a common laboratory finding of pulmonary embolism.$Cause_1": {
+                "D-DIMER-1698$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "SOB is a common symptom of PE$Cause_1": {
+                    "Shortness of breath$Input1": {}
+                },
+                "Chronic obstructive pulmonary disease may worsen symptoms of pulmonary embolism$Cause_1": {
+                    "chronic obstructive pulmonary disease$Input2": {}
+                },
+                "Blocked blood flow causes ischemia of some lung tissue, which may manifest as hypoxemia, a manifestation of PE$Cause_1": {
+                    "hypoxia related to volume overload$Input2": {}
+                },
+                "Dyspnea is a common symptom of pulmonary embolism.$Cause_1": {
+                    "became dyspnic$Input2": {}
+                },
+                "Pulmonary embolism may cause chest pain$Cause_1": {
+                    "lower chest pain$Input2": {}
+                },
+                "Patients with coronary artery disease may have an increased risk of thrombosis due to arteriosclerosis, which impedes blood flow.$Cause_1": {
+                    "CAD$Input3": {}
+                },
+                "Diabetic patients have increased blood viscosity, which may lead to decreased blood flow and increase the risk of thrombosis$Cause_1": {
+                    "DMII$Input3": {}
+                },
+                "Hyperlipidemia increases the risk of thrombosis by affecting blood viscosity and blood vessel health.$Cause_1": {
+                    "hyperlipidemia$Input3": {}
+                },
+                "High blood pressure may cause damage to blood vessels, thus promoting the formation of blood clots$Cause_1": {
+                    "hypertension$Input3": {}
+                },
+                "Smoking is a known factor in vascular inflammation and altered blood flow, and long-term smoking increases the risk of blood clots and pulmonary embolism.$Cause_1": {
+                    "tobacco use$Input3": {}
+                },
+                "Decreased breath sounds throughout the lungs and bibasilar rales may indicate pathological changes in the lungs, which is related to pulmonary embolism$Cause_1": {
+                    "Lungs breath sounds diminished throughout, bibasilar crackles$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "Her history is also significant for chronic obstructive pulmonary disease. Her postoperative course was complicated by hypoxia related to volume overload and she required aggressive diuresis. Her symptoms imroved and diuretics were decreased. She remained on room air ambulating without shortness of breath.  She was discharged to home on postoperative day nine. She reported reported that she had not ambulated much secondary to fatigue. On the day of admission, she tried to use her incentive spirometer and became dyspnic. She presented with lower chest pain and dyspnea. Her chest pain resolved spontaneously. \n",
+    "input3": "+CAD\n+NSTEMI\n+DMII\n+COPD\n+hyperlipidemia\n+hypertension\n+tobacco use\n+h/o cocaine use \n+arthritis \n+carpal tunnel\n+depression\n+GERD\n\ufeff\n",
+    "input4": "non-contributory\n",
+    "input5": "Physical Exam:\nPulse:81   Resp:16  O2 sat:97% on RA  B/P:110/63 \nHeight:  61\"   Weight: 157lb (preop)\n\ufeff\n:\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] \nNeck:  Supple [x] Full ROM [x]\nChest: Lungs breath sounds diminished throughout, bibasilar crackles [x]\nHeart: RRR [x]  Irregular [] No Murmur [x] grade\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds \n+[x]\nExtremities: Warm [x], well-perfused [x]  No Edema, fingers with clubbing\nVaricosities: None [x]\nNeuro: Grossly intact [x]\nPulses:\nDP           Right:1+   Left:1+\nRight:1+   Left:1+\nRadial       Right:2+   Left:2+\n\ufeff\n",
+    "input6": "___ 07:10AM BLOOD WBC-8.1 RBC-3.79* Hgb-10.5* Hct-35.0* MCV-92 MCH-27.8 MCHC-30.1* RDW-14.7\n___ 09:23PM BLOOD WBC-11.3* RBC-4.08* Hgb-11.2* Hct-37.4 MCV-92 MCH-27.5 MCHC-30.0* RDW-14.2\n___ 06:45AM BLOOD PTT-107.9*\n___ 09:23PM BLOOD PTT-38.2*\n___ 07:10AM BLOOD Glucose-169* UreaN-13 Na-140 K-4.1 Cl-104 HCO3-26 AnGap-14\n___ 09:23PM BLOOD Glucose-116* UreaN-10 Creat-0.6 Na-140 K-4.1 Cl-103 HCO3-28 AnGap-13 D-DIMER-1698\n\nThe main and right pulmonary arteries are normal in caliber, and there is no evidence of right heart strain.\n\n"
+}

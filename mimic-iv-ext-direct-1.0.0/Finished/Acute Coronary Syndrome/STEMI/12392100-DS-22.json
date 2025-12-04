@@ -1,0 +1,79 @@
+{
+    "NSTE-ACS$Intermedia_4": {
+        "ST-elevations is a symotom of acs-stemi$Cause_1": {
+            "On arrival, there is observed to be anterior ST elevations.$Input2": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "repeat troponin at 8:20AM day of transfer, 0.25.$Input2": {}
+        },
+        "Cardiac structural abnormalities is a sigh of ACS.$Cause_1": {
+            "Dilated right ventricular cavity with mild global free wall hypokinesis. The aortic sinus is mildly dilated with normal ascending aorta diameter for gender. The aortic valve leaflets (3) are mildly thickened. There is no aortic valve stenosis. There is no aortic regurgitation. The mitral valve leaflets appear structurally normal with no mitral valve prolapse. There is trivial mitral regurgitation.$Input6": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09 .$Cause_1": {
+            "CK-MB-3 cTropnT-0.10*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Cardiac ArrestChest Pain$Input1": {}
+            },
+            "alcohol use and heavy smoking are risk factors$Cause_1": {
+                "He is a 58 year old gentleman with a history of significant alcohol use and heavy smoking$Input2": {}
+            },
+            "Hypertension is the risk fact for ACS$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "Hyperlipidemia is the risk fact for ACS$Cause_1": {
+                "Hyperlipidemia$Input3": {}
+            },
+            "Chronic low back pain is the risk fact for ACS$Cause_1": {
+                "Chronic low back pain$Input3": {}
+            },
+            "Anxiety is the risk fact for ACS$Cause_1": {
+                "Anxiety$Input3": {}
+            },
+            "family history of coronary artery disease is a risk factor$Cause_1": {
+                "Strong family history of coronary artery disease in several first degree relatives on his mother's side of family.$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "Changes in the nervous system can be a sigh$Cause_1": {
+                "He's also had erratic behavior including spending all his time naked, being incontinent of urine and sometimes stool, shouting sporadically and playing loud music, and other behavior that is very atypical for him.$Input2": {}
+            },
+            "More severe clinical presentations of acs$Cause_1": {
+                "She found him to have jerking movements of his extremities and not responding to her.$Input2": {}
+            },
+            "Coronary stenosis is a sigh of acs$Cause_1": {
+                "Angiography showed 95% LM ostial stenosis, 90% LAD extending to mid-LAD and 90% stenosis at large diagonal. the circumflex has 80% mid stenosis.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Cardiac ArrestChest Pain$Input1": {}
+                },
+                "alcohol use and heavy smoking are risk factors$Cause_1": {
+                    "He is a 58 year old gentleman with a history of significant alcohol use and heavy smoking$Input2": {}
+                },
+                "Hypertension is the risk fact for ACS$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Hyperlipidemia is the risk fact for ACS$Cause_1": {
+                    "Hyperlipidemia$Input3": {}
+                },
+                "Chronic low back pain is the risk fact for ACS$Cause_1": {
+                    "Chronic low back pain$Input3": {}
+                },
+                "Anxiety is the risk fact for ACS$Cause_1": {
+                    "Anxiety$Input3": {}
+                },
+                "family history of coronary artery disease is a risk factor$Cause_1": {
+                    "Strong family history of coronary artery disease in several first degree relatives on his mother's side of family.$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "Cardiac ArrestChest Pain\n",
+    "input2": "He is a 58 year old gentleman with a history of significant alcohol use and heavy smoking with a recent neurologic decline who presents to the CCU after witnessed cardiac arrest. \n\nHe has had a steep neurologic decline over the past two months. He has been a lifelong heavy drinker and smoker, but he's been drinking far more than usual and at atypical times of day. He's also had erratic behavior including spending all his time naked, being incontinent of urine and sometimes stool, shouting sporadically and playing loud music, and other behavior that is very atypical for him. He was recently hospitalized for a rectal foreign body that was removed successfully. Due to concern for behavioral changes and rapidly progressive dementia, neurology was consulted. They suggested an extensive neurologic workup but the patient left AMA. He has since established with neurology but has also declined a workup there. \n\nHe was having a typical day, and drinking heavily during the day. His wife made him a sandwich and left the room briefly and returned when she heard gurgling sounds. She found him to have jerking movements of his extremities and not responding to her. She called EMS who arrived within minutes and found him to be pulseless VF and delivered a shock, regaining a pulse. He was intubated in the field. He received an amiodarone bolus. He was given 600mg aspirin PR. \n\nOn arrival, there is observed to be anterior ST elevations. Angiography showed 95% LM ostial stenosis, 90% LAD extending to mid-LAD and 90% stenosis at large diagonal. the circumflex has 80% mid stenosis. The RCA had minimal disease. An intra-aortic balloon pump was placed using R femoral access. \n\nOn arrival for to the ICU, he was found to not be following commands and post-arrest was consulted who recommended targeted-temperature management and EEG.He is a gentleman with CAD (known occluded RCA with collaterals s/p PCI's (PTCA and stenting of ostial LCx and PTCA ostial RI c/b instent restenosis at ostium of LCx and restenosis of ramus branch s/p PTCA of LCx ostium and ramus ostium, HTN, HL, chronic low back pain and anxiety who presented to OSH with chest pain. He was found to have an NSTEMI and was transferred to for catheterization.\n  \nAt the time of presentation, patient's pain was in severity. Troponins initially .06, repeat troponin at 8:20AM day of transfer, 0.25. VS on transfer: 136/59, HR 69 SR, 16, 97% 2 liters, afebrile.  Patient arrived and underwent uncomplicated cardiac cath with right femoral access. During procedure DES was placed in the ostial LCx with residual 40-50% distal left main to LAD. Plan per interventional is ASA, plavix, IVF overnight with plan for TTE, consult in the AM. Of note patient received ample versed and Fentanyl  \n\nOn arrival to the floor, patient without complaint. Denies chest pain, shortness of breath, palpitations. Tolerating PO without nausea, vomiting. Chronic back pain is at its baseline. Last BM yesterday.\n",
+    "input3": "+Arthritis (several joints) \n+Erectile dysfunction \n+Rapid onset dementia currently being worked up+CAD s/p MI and multiple PCI's  \n+Hypertension  \n+Hyperlipidemia  \n+Chronic low back pain\n+s/p cholecystectomy  \n+h/o osteomyelitis  \n+Depression  \n+Anxiety  \n+Umbilical hernia\n",
+    "input4": "Sister with lung CA \nFather died of liver disease with no history of alcohol useStrong family history of coronary artery disease in several first degree relatives on his mother's side of family. Thinks his family members have hypercholesterolemia, diabetes, hypertension. + early cardiac death.\n",
+    "input5": "ADMISSION PHYSICAL EXAMINATION:\n\nVS: T98.4, HR 90, BP 132/74, RR 21, O2 100% on 60% FiO2\nGENERAL: Intubated, no apparent distress\nHEENT: Pupils equal and briskly reactive, ETT tube, small abrasion on nasal bridge, no scleral icterus, moist mucous membranes\nNECK: JVP not elevated\nCARDIAC: S1/S2 regular, balloon pump auscultated, no other obvious murmurs\nLUNGS: Rhonchorous bilaterally\nABDOMEN: Soft, non-distended\nEXTREMITIES: No lower extremity edema, hair loss at the lower shins and distally. Balloon pump in R groin with no hematoma. Palpable R pedal pulses.  \nNEURO: Moving both extremities and gagging on tube after arrival, then much less activity subsequently. Not following any commands. Some movement of eyes and eyelids spontaneouslyADMISSION EXAM\nVS T 97.8 102/60 72 14 96%RA  \nGen: Obese M in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \nNeck: Supple with no JVD noted (difficult to assess).  \nCV: RR, normal S1, S2. No m/r/g. No S3 or S4. Distant heart \nsounds.  \nChest: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nAbd: NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits. Morphine pump can be felt on the RLQ under the skin.  \nExt: no c/c/e. Right femoral cath site c/d/i under tegaderm.  \nSkin: No stasis dermatitis, ulcers, scars, xanthomas. + tattoos noted  \nRight: 2+ DPs  \nLeft: 2+ DP and radial\n",
+    "input6": "ADMISSION LABS:\n\n___ 07:20PM BLOOD WBC-13.2* RBC-3.80* Hgb-13.1* Hct-39.9* MCV-105* MCH-34.5* MCHC-32.8 RDW-12.0 RDWSD-46.7* Plt ___\n___ 07:20PM BLOOD Neuts-60.9 ___ Monos-10.0 Eos-3.4 Baso-0.6 Im ___ AbsNeut-8.01* AbsLymp-3.00 AbsMono-1.32* AbsEos-0.45 AbsBaso-0.08\n___ 07:20PM BLOOD ___ PTT-27.7 ___\n___ 07:20PM BLOOD Glucose-143* UreaN-10 Creat-0.8 Na-132* K-4.1 Cl-98 HCO3-13* AnGap-21*\n___ 07:20PM BLOOD ALT-33 AST-60* AlkPhos-90 TotBili-0.3\n___ 07:20PM BLOOD Lipase-49\n___ 07:20PM BLOOD cTropnT-<0.01\n___ 07:20PM BLOOD Albumin-3.7 Calcium-8.2* Phos-4.9* Mg-2.3\n___ 07:20PM BLOOD ASA-NEG Ethanol-36* Acetmnp-NEG Tricycl-NEG\n___ 07:46PM BLOOD ___ pO2-42* pCO2-46* pH-7.21* calTCO2-19* Base XS--9 Comment-PERIPHERAL\n\nMICRO:\n___ BLOOD CULTURE x2 - no growth\n___ URINE CULTURE - no growth\n\n\nIMAGING/STUDIES:\n___ EEG\nThis was an abnormal continuous ICU EEG monitoring study due to severe diffuse encephalopathy as demonstrated by diffuse slowing and disorganization. There were no electrographic seizures or epileptiform discharges. \n\n___ CXR\nThe ET tube projects approximately 4 cm from the carina. The NG tube projects to the stomach and is coiled up within the stomach. The aortic balloon pump tip projects over the aortic arch. Lungs are low volume with bibasilar atelectasis. No evidence of pneumonia edema or pneumothorax. No effusions. Old healed fracture involving the right clavicle. \n\n___ CORONARY ANGIOGRAM\nThe left main coronary artery. There is a 95% stenosis calcified ostial stenosis. The left anterior descending coronary artery. There is a 90% stenosis proximal LAD extending to the mid LAD. There was a 90% stenosis of the diagonal branch which was a large vessel. The mid and distal LAD had minor lumen irregularities. The circumflex coronary artery. There was a 50% stenosis in the proximal LAD. There is a 80% stenosis in the mid LCx. The distal LCx supplied the left PDA and PL branches. There was a 90% stenosis of a large bifurcating OMB. The right coronary artery. There is a 20% stenosis. IABP placed for high risk anatomy.\n\n___ EEG\nThis was an abnormal continuous ICU EEG monitoring study due to severe diffuse encephalopathy as demonstrated by diffuse slowing and disorganization. There were no electrographic seizures or epileptiform discharges.  \n\n___ CXR\nET and NG tube is unchanged. The intra aortic balloon pump is also unchanged. Lungs are low volume with worsening pulmonary vascular congestion. Cardiomediastinal silhouette is stable. There is no pleural effusion. No pneumothorax. \n\n___ TTE\nThe left atrium is normal in size. The inferior vena cava is dilated (>2.5 cm). There is mild symmetric left ventricular hypertrophy with a normal cavity size. There is moderate regional left ventricular systolic dysfunction with distal septal, anterior and septal hypokinesis as well as inferior wall and basal to mid inferolateral (see schematic) and preserved/normal contractility of the remaining segments. The visually estimated left ventricular ejection fraction is 35-45%. There is no resting left ventricular outflow tract gradient. Dilated right ventricular cavity with mild global free wall hypokinesis. The aortic sinus is mildly dilated with normal ascending aorta diameter for gender. The aortic valve leaflets (3) are mildly thickened. There is no aortic valve stenosis. There is no aortic regurgitation. The mitral valve leaflets appear structurally normal with no mitral valve prolapse. There is trivial mitral regurgitation. The pulmonic valve leaflets are normal. The tricuspid valve leaflets are mildly thickened. There is physiologic tricuspid regurgitation. The pulmonary artery systolic pressure could not be estimated. There is no pericardial effusion.\n\n___ CXR\nModerate pulmonary edema has increased and change distributions. Heart size normal. No appreciable pleural effusion or pneumothorax.  Normal mediastinal and hilar contours.ADMISSION LABS\n--------------------\n___ 02:34AM BLOOD Plt ___\n___ 02:34AM BLOOD UreaN-15 Creat-1.1 Na-140 K-4.8 Cl-104\n___ 02:34AM BLOOD CK(CPK)-78\n___ 02:34AM BLOOD CK-MB-3 cTropnT-0.10*\n"
+}

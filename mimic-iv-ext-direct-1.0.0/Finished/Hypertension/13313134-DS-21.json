@@ -1,0 +1,24 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "Took BP at home and it was 180/102$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "BP here was 150-160/90's$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Labetabol is a type of hypotensive drug,indicates that the patient may have Hypertension,which is a risk factor.$Cause_1": {
+                "Was on labetalol 200 mgs$Input2": {}
+            },
+            "Headache is a classic symptoms of Hypertension.$Cause_1": {
+                "+Headache$Input3": {}
+            }
+        }
+    },
+    "input1": "elevated blood pressure postpartum\n",
+    "input2": "66 yo G3 s/o LTCS for twins and severe preeclampsia on . Was on labetalol 200 mgs tid on discharge. Took BP at home and it was 180/102.\n",
+    "input3": "+Chicken pox    \n\u0095+Anemia HCT 38.2    \n+Infertility, female    \n\u0095+Headache(784.0)\n",
+    "input4": "noncontributory\n",
+    "input5": "BP here was 150-160/90's Decision made to add nifedipine 30 mgs CR and observe overnight for response.\n",
+    "input6": "___ 10:13PM   UREA N-12 CREAT-0.5\n___ 10:13PM   ALT(SGPT)-14 AST(SGOT)-24\n___ 10:13PM   URIC ACID-4.3\n___ 10:13PM   PLT COUNT-311\n___ 10:13PM   WBC-5.9 RBC-3.68* HGB-11.5 HCT-33.8* MCV-92 MCH-31.3 MCHC-34.0 RDW-13.1 RDWSD-42. Ps improved to 127/76, 129/83, 125/73 with activity.\n"
+}

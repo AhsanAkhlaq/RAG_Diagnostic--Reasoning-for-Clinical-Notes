@@ -1,0 +1,30 @@
+{
+    "Arrhythmogenic Right Ventricular Cardiomyopathy$Intermedia_3": {
+        "sustained VT is a symptom of Arrhythmogenic Right Ventricular Cardiomyopathy$Cause_1": {
+            "She underwent VT ablation but subsequently VT recurred. She had two hospital visits for sustained VT$Input2": {}
+        },
+        "CMR changes can be a sign of  Arrhythmogenic Right Ventricular Cardiomyopathy \u3002$Cause_1": {
+            "mildly increased RV cavity size with moderate systolic dysfunction and severe HK of the mid, distal and apical free  wall.$Input3": {}
+        },
+        "ECG change like May reveal signs of abnormal rhythms or ventricular enlargement can be sigh of Arrhythmogenic Right Ventricular Cardiomyopathy \u3002$Intermedia_1": {
+            "ECG: \n left ventricular enlargement.$Input6": {}
+        },
+        "Echocardiogram changes can be sign of Arrhythmogenic Right Ventricular Cardiomyopathy$Cause_1": {
+            "Echocardiogram: Demonstrates enlargement of the left ventricle or both ventricles and reduced contractile function.$Input6": {}
+        },
+        "Suspected  Cardiomyopathy$Intermedia_2": {
+            "palpitations is a symptom of Cardiomyopath$Cause_1": {
+                "palpitations$Input1": {}
+            },
+            "palpitations is a symptom of Cardiomyopath.$Cause_1": {
+                "Today, she was sitting in a friend's room when she noted palpitations. This persisted for approximately 2 hrs, prompting her to present to the ED. She converted in the ED waiting room.$Input2": {}
+            }
+        }
+    },
+    "input1": "palpitations\n",
+    "input2": "She is on sotalol, who presents with episdoes of palpitations:  She underwent VT ablation but subsequently VT recurred. She had two hospital visits for sustained VT. She reports that the first episode was in early. She had an episode of VT lasting 2 hrs which was hemodynamically tolerated. She was given lidocaine IV and then converted. She was started on sotalol 120mg BID. The second episode was one week later, lasting about 1 hr, then self-terminated. Her sotalol was increased to 160mg po BID and she had no further episodes.  Today, she was sitting in a friend's room when she noted palpitations. This persisted for approximately 2 hrs, prompting her to present to the ED. She converted in the ED waiting room. She denies chest pain, shortness of breath, and lightheadedness with the rhythm.  \n \nIn the ED, initial vitals were: 98.0 140 141/87 16 100% RA  \n-Labs were notable for: normal labs, K 3.9, Mg 1.8  \n-Pt was given: 1L IVF, potassium 40meq, mg 2g  \n-She was evaluted by cardiology in the ED. Plan is for sotalol washout and then transition to amiodarone.  Vitals prior to transfer: 98.1 125 139/82 15 99% RA  She again went into VT at 21:37. Upon arrival to the floor, she is still in VT at a rate of 130s-140s. She endorses continued palpitations but no other symptoms.\n",
+    "input3": "+sustained VT  \n+CMR: mildly increased RV cavity size with moderate systolic dysfunction and severe HK of the mid, distal and apical free  wall. There was prominent trabeculation of these segments. The LV  size and systolic function were normal  Genetic testing: positive for PKP2 gene mutation (also  present in father, aunt, uncle and cousin)\n",
+    "input4": "None\n",
+    "input5": "ADMISSION\nVitals: 98.8 119/58 136 16 97% on RA  \nTelemetry: sustained VT  \nGeneral: pleasant young woman, smiling, in no distress  \nHEENT: MMM, EOMI, oropharynx normal  \nNeck: hyperdynamic circulation with pulsations visible at clavicle. JVP is not elevated.  \nChest: left chest with ICD in place, no surrounding tenderness or erythema  \nCV: tachycardic, regular, no murmurs  \nLungs: ctab  \nAbdomen: soft, nontender, nondistended  \nGU: no foley  \nExtr: warm, well perfused, no peripheral edema or cyanosis  \nNeuro: CN2-12 intact, normal gait, ___ strength throughout, no focal deficits, A&Ox3  \nSkin: no rash\n",
+    "input6": "ADMISSION\n___ 07:45PM BLOOD WBC-7.3 RBC-4.89 Hgb-14.1 Hct-41.9 MCV-86 MCH-28.8 MCHC-33.7 RDW-12.8 RDWSD-39.7 Plt ___\n___ 07:45PM BLOOD Neuts-54.8 ___ Monos-8.9 Eos-2.7 Baso-0.4 Im ___ AbsNeut-4.01 AbsLymp-2.42 AbsMono-0.65 AbsEos-0.20AbsBaso-0.03\n___ 07:45PM BLOOD ___ PTT-32.7 ___\n___ 07:45PM BLOOD Glucose-118* UreaN-12 Creat-0.9 Na-140 K-3.9 Cl-103 HCO3-25 AnGap-16\n___ 07:45PM BLOOD ALT-18 AST-27 AlkPhos-57 TotBili-0.8\n___ 07:45PM BLOOD Calcium-9.8 Phos-3.0 Mg-1.8\n___ 07:45PM BLOOD TSH-2.6\n___ 07:45PM BLOOD Lactate-1.2\n___ 09:00PM URINE Color-Straw Appear-Clear Sp ___\n___ 09:00PM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG\n___ 09:00PM URINE UCG-NEG\n\nECG: \n left ventricular enlargement.\n\nEchocardiogram: Demonstrates enlargement of the left ventricle or both ventricles and reduced contractile function.\n"
+}

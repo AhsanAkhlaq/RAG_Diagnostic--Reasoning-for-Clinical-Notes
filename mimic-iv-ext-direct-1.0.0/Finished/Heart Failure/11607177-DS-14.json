@@ -1,0 +1,52 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226430% is the critiera for HFrEF$Cause_1": {
+            "LVEF 30%$Input2": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "cardiomegaly$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "proBNP \u2265 125 pg/mL is a strong value for heart failure$Cause_1": {
+                    "proBNP-3938$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Breathlessness is a symptom of heart failure$Cause_1": {
+                        "shortness of breath$Input1": {}
+                    },
+                    "weight gain is a sign of heart failure$Cause_1": {
+                        "weight gain$Input1": {}
+                    },
+                    "Fatigue is a typicalsymptom of heart failure$Cause_1": {
+                        "fatigue$Input2": {}
+                    },
+                    "atrial fibrillation\nis a risk factor of heart failure$Cause_1": {
+                        "atrial fibrillation$Input2": {}
+                    },
+                    "cough is a symptom of heart failure$Cause_1": {
+                        "cough$Input2": {}
+                    },
+                    "hypertension is a risk factor of heart failure$Cause_1": {
+                        "hypertension$Input3": {}
+                    },
+                    "hyperlipidemia is a risk factor of heart failure$Cause_1": {
+                        "hyperlipidemia$Input3": {}
+                    },
+                    "metabolic syndrome\nis a risk factor of heart failure$Cause_1": {
+                        "metabolic syndrome$Input3": {}
+                    },
+                    "coronary artery disease is a risk factor of heart failure$Cause_1": {
+                        "coronary artery disease$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "shortness of breath and weight gain\n",
+    "input2": "71 yo male with PMH significant for ischemic cardiomyopathy (EF 30%), HTN, CVA, CAD and recent onset afib who presented to his PCP today with worsening shortness of breath and 5 lb weight gain over 5 days.  Pt reports last feeling well when he noticed increasing SOB and fatigue.  He was later admitted for acute on chronic systolic CHF and new onset atrial fibrillation for which cardioversion could not be achieved.  He was discharged with a number of changes to his medication regimen which included increasing Metoprolol from 25 to 100 XL and Furosemide from 20 to 40mg daily.  Although he had scripts for these two medication changes, he was not able to take the increased dose because of difficulty with insurance approval.  In the last week the patient has reported worsening shortness of breath and dyspnea with little exertion. He hasn't been able to sleep for the last 3 nights because of PND and need to sit upright. He reports drinking his normal intake of water but reports infrequent urination with small volumes. Additionally, he reports having a diet with high salt content. Reports non-productive cough for several weeks. Denies fevers, chills, abdominal pain, nausea or vomiting.  After gaining 5lbs today, he saw his PCP who recommended he come to the ED.  \n\nIn the ED, initial vitals were 95.1 106 132/98 24 100% ra. CXR demonstrated mild-to-moderate pulmonary edema. Labs notable for elevated BNP to 4000, subtherapeutic 1.6. He was given 20mg IV lasix. EKG demonstrated prior anterior infarct. \n\nOn review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. S/he denies recent fevers, chills or rigors. S/he denies exertional buttock or calf pain. All of the other review of systems were negative.  \n\nCardiac review of systems is notable for absence of chest pain, syncope or presyncope.\n",
+    "input3": "+hypertension  \n+hyperlipidemia  \n+gout  \n+metabolic syndrome  \n+sleep apnea\n+esophagitis\n+coronary artery disease, s/p silent MI in the past  \n+systolic CHF: last TTE showing EF 30%  \n+total knee replacement (left)\n",
+    "input4": "Mother: diabetes\n",
+    "input5": "VS: T=97.9 BP= 103/90 HR=83 RR=18 O2 sat= 98 RA  \nGENERAL: WDWN morbidly obese male in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. PERRL, EOMI.MMM\nNECK: Supple, unable to assess JVP because of body habitus. \nCARDIAC: Irregularly irregular. Distant heart sounds. normal S1, S2. No m/r/g. No S3 or S4.  \nLUNGS: Resp were unlabored, no accessory muscle use. Bibasilar crackles.  No rhonchi or wheezing.\nABDOMEN: Obese, soft, +BS.  \nEXTREMITIES: Trace L>R. No femoral bruits.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nRight: Carotid 2+ Femoral 2+  DP 2+\nLeft: Carotid 2+ Femoral 2+  DP 2+\n",
+    "input6": "___ 12:45PM BLOOD Neuts-70.2* ___ Monos-4.5 Eos-2.5 Baso-0.7\n___ 12:45PM BLOOD ___ PTT-47.5* ___\n___ 12:45PM BLOOD Glucose-136* UreaN-21* Creat-1.1 Na-137 K-4.4 Cl-100 HCO3-26 AnGap-15\n___ 12:45PM BLOOD proBNP-3938*\n___ 12:45PM BLOOD cTropnT-0.01\n___ 06:20AM BLOOD CK-MB-2 cTropnT-0.02*\n\nDischarge Labs:\n___ 06:45AM BLOOD WBC-8.7 RBC-4.56* Hgb-12.6* Hct-39.7* MCV-87 MCH-27.6 MCHC-31.7 RDW-13.8 Plt ___\n___ 06:45AM BLOOD Glucose-141* Creat-1.2 Na-136 K-4.4 Cl-100 HCO3-28 AnGap-12\n\n\nECG Study \nAtrial fibrillation with a controlled ventricular response. Possible remoteposterolateral myocardial infarction. Diffuse non-specific ST-T \nwave abnormalities. Compared to the previous tracing there is a slight decrease in ventricular response rate. Left axis deviation\n\n\nCXR: AP, lateral \n\nFINDINGS:  Moderate cardiomegaly is similar.  The cardiac and mediastinal contours appear unchanged.  There is again hazy upper zone re-distribution of pulmonary vascularity with a mild to moderate appearance of perihilar fullness and interstitial changes in the mid and lower lungs, most consistent with mild-to-moderate congestion.  There is no pleural effusion or pneumothorax.\n"
+}

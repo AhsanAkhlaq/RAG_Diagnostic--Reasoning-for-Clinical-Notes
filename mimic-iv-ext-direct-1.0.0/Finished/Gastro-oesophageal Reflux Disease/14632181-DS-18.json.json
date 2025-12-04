@@ -1,0 +1,21 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "pH impedance:  score 51.4(+) is the gold standard for the diagnosis of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+            "pH impedance:  score 51.4.$Input2": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Heartburn is a typical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "heartburn$Input1": {}
+            },
+            "Acid regurgitation and substernal chest pain are the typical symptom of gastro-oesophageal reflux \rdisease\r.Belching is an atypical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "Symptoms are acid regurgitation (mostly at night), substernal chest pain (day & night & also occurs completely unrelated to eating), and belching.$Input2": {}
+            }
+        }
+    },
+    "input1": "heartburn\n",
+    "input2": "A patient w h/o gastroparesis who is interested in LINX placement. Seen in clinic, at which time Dr. pt to see Dr. given risk of worsening pt's gastroparesis surgery. \nSince that visit:\nSaw Dr. were to re-eval. gastroparesis and confirm w pH impedance ON PPI. \npH impedance:  score 51.4. \nSaw Dr. were weight loss (enrolled in Awaken 180 weight loss program), check gastrin off PPI, switched from prilosec to nexium. \nLetter from Dr. gastrin was normal. \n\nSubjectively, since last visit, pt has lost 16 lb. on the Awaken 180 program (in 3 weeks). His reflux is improved in both intensity & frequency but still taking protonix for \n\"breakthrough symptoms\" almost every day. Symptoms are acid regurgitation (mostly at night), substernal chest pain (day & night & also occurs completely unrelated to eating), and belching. States his symptoms are better but \"not enough to satisfy me.\" Pt has been otherwise well. ROS only notable for stable chronic diarrhea.\n",
+    "input3": "+Diverticulitis\n+Osteoporosis\n+High cholesterol\n+s/p subtotal colectomy\n+s/p cholecystectomy\n+s/p neck surgery\n+s/p bilateral rotator cuff surgeries\n+s/p ACL repair (L)\n",
+    "input4": "Mother- breast cancer\nFather- MI\n",
+    "input5": "BP: 124/88. Heart Rate: 72. O2 Saturation%: 100. Weight: 173.1.\nHeight: 64.5. BMI: 29.3. Temperature: 97.1. Resp. Rate: 16. Pain\nScore: 0. Distress Score: 0.\n\nGen: NAD, A&O, well appearing\nNeck: soft, no appreciable adenopathy\nChest: breathing comfortably on RA, CTAB\nCor: RRR\nAbd: soft, NT, ND\nExt: wwp x4, no edema\n",
+    "input6": "WBC  RBC Hgb  Hct MCV MCH  MCHC RDW  RDWSD \nPlt Ct \n05:42    8.1 4.84 14.3 44.2 91 29.5 32.4 13.2 44.8 \n166 \n\n                Glucose UreaN Creat Na   K  Cl HCO3 AnGap \n05:42    140 3.8 98 26   16\n"
+}

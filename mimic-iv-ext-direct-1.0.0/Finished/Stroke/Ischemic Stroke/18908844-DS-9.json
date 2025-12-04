@@ -1,0 +1,51 @@
+{
+    "Ischemic Stroke$Intermedia_3": {
+        "Occlusion of the middle cerebral artery is the direct cause of ischemia in a part of the brain, which is the typical pathological manifestation of stroke.$Cause_1": {
+            "CTA demonstrate a right M1 occlusion$Input2": {}
+        },
+        "It was clearly pointed out that there were multiple acute infarct areas in the right middle cerebral artery territory, which was a direct manifestation of ischemic stroke.$Cause_1": {
+            "Multiple areas of evolving right MCA territory acute infarction.$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "High blood pressure is a major risk factor for stroke$Cause_1": {
+                "history notable for hypertension$Input2": {}
+            },
+            "Sudden weakness on one side of the body is a classic symptom of a stroke and suggests that part of the brain may be damaged.$Cause_1": {
+                "left-sided weakness$Input2": {}
+            },
+            "Falls and sudden weakness can be caused by loss of muscle control and balance problems caused by a stroke.$Cause_1": {
+                "fallen in the restroom at approximately 04:00, at which time she reported feeling weak and unwell$Input2": {}
+            },
+            "Stroke can affect the brain's cognitive function, exacerbating existing cognitive decline symptoms$Cause_1": {
+                "more confused than usual$Input2": {}
+            },
+            "Family history of stroke improve the risk.$Cause_1": {
+                "Strokes noted in several family members$Input4": {}
+            },
+            "The patient is conscious but unresponsive, disoriented, and speaks fluently but with slight slurring. These can be signs of impaired brain function caused by a stroke.$Cause_1": {
+                "Alert, responsive though with some latency. Not oriented to time. Speech is reportedly fluent with some dysarthria$Input5": {}
+            },
+            "Neglect is a lack of normal attention to one side of the body or space. It is usually associated with damage to the right hemisphere of the brain, often in stroke.$Cause_1": {
+                "Left hemineglect$Input5": {}
+            },
+            "This asymmetric muscle control problem often suggests that a specific area of \u200b\u200bthe brain may be damaged.$Cause_1": {
+                "No movement in LUE or LLE to command. Able to maintain RUE against gravity, RLE drifts to bed.$Input5": {}
+            },
+            "Temperature and pressure sensation are lost on the left side, probably due to damage to the contralateral sensory pathways of the brain.$Cause_1": {
+                "Absent sensation to LT or PP on left$Input5": {}
+            },
+            "Long-standing microvascular disease is associated with an increased risk of ischemic stroke.$Cause_1": {
+                "Chronic findings include age-appropriate global involutional changes and mild changes of chronic white matter microangiopathy.$Input6": {}
+            },
+            "Significant left atrium enlargement may increase the risk of atrial fibrillation, a major risk factor for stroke$Cause_1": {
+                "The left atrial volume index is SEVERELY increased$Input6": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Ms. ___ is a ___ woman with history notable for hypertension, essential tremor, unspecified cognitive decline, and anxiety presenting with acute-onset left-sided weakness.\n\nPer Ms. ___ son-in-law, she was last seen well by her family yesterday at noon after returning home from a primary care provider appointment, where she was prescribed amoxicillin-clavulanate for a UTI. They subsequently spoke with her over the phone at 17:55, at which time she did not report any complaints and was not noted to have appreciable speech disturbance. Subsequently, the family received a call at 05:55 this morning in which Ms. ___ reported having fallen in the restroom at approximately 04:00, at which time she reported feeling weak and unwell. On seeing her at approximately 06:00, her family found that she was also more confused than usual. EMS was activated and transported Ms. ___ to ___, where CTA demonstrate a right M1 occlusion, prompting transfer to ___ for consideration of EVT.\n\nUnable to obtain ROS, though per son-in-law, no recent neurologic, infectious, or pain-related symptoms had been reported.\n",
+    "input3": "Essential tremor\nUnspecified cognitive decline\nAnxiety \nOsteoporosis\nOA\n",
+    "input4": "Strokes noted in several family members, unclear details.\n",
+    "input5": "General: NAD\nHEENT: NCAT, neck supple\n___: warm, well-perfused\nPulmonary: no tachypnea or increased WOB\nAbdomen: soft, ND\nExtremities: symmetric\n\nNeurologic Examination:\n- Mental status: Alert, responsive though with some latency. Not oriented to time. Speech is reportedly fluent with some dysarthria in ___. Able to follow both midline and right-sided appendicular commands. Left hemineglect.\n\n\n- Motor: No movement in LUE or LLE to command. Able to maintain RUE against gravity, RLE drifts to bed.\n \n- Reflexes: 1+ throughout.\n\n- Sensory: Absent sensation to LT or PP on left.\n\n- Coordination: No dysmetria on right on FTN, with mild action tremor.\n\n- Gait: Deferred.\n\n",
+    "input6": "___ 08:35AM BLOOD WBC-12.6* RBC-3.60* Hgb-10.0* Hct-30.9* MCV-86 MCH-27.8 MCHC-32.4 RDW-13.6 RDWSD-42.7 Plt ___\n___ 01:36AM BLOOD WBC-7.3 RBC-3.22* Hgb-9.1* Hct-27.8* MCV-86 MCH-28.3 MCHC-32.7 RDW-13.8 RDWSD-43.5 Plt ___\n___ 06:15AM BLOOD Glucose-129* UreaN-25* Creat-0.7 Na-148* \nK-4.2 Cl-106 HCO3-29 AnGap-13\n___ 05:40AM BLOOD Glucose-141* UreaN-14 Creat-0.9 Na-142 \nK-4.7 Cl-108 HCO3-18* AnGap-16\n___ 01:01PM BLOOD Glucose-106* UreaN-15 Creat-0.8 Na-135 \nK-4.9 Cl-100 HCO3-23 AnGap-12\n___ 08:35AM BLOOD Glucose-119* UreaN-17 Na-132* K-5.8* \nCl-99 HCO3-21* AnGap-12\n___ 01:36AM BLOOD cTropnT-<0.01\n___ 01:01PM BLOOD cTropnT-0.02*\n___ 06:15AM BLOOD Calcium-9.4 Phos-3.7 Mg-2.0\n___ 08:35AM BLOOD Albumin-3.9\n___ 05:40AM BLOOD %HbA1c-5.7 eAG-117\n___ 05:40AM BLOOD Triglyc-192* HDL-36* CHOL/HD-4.5 \nLDLcalc-89\n___ 08:35AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG \nTricycl-NEG\n\nMRI ___\nIMPRESSION:   \n1. Multiple areas of evolving right MCA territory acute infarction. \n2. Areas of petechial hemorrhage within the infarcted right putamen and caudate head.  No large area of frank hemorrhagic transformation. \n3. Chronic findings include age-appropriate global involutional changes and mild changes of chronic white matter microangiopathy. \n4. Fluid in the right mastoid air cells is noted.  Correlate clinically with signs of otomastoiditis. \n\nTTE ___\nCONCLUSION:\nThe left atrial volume index is SEVERELY increased. No thrombus/mass is seen in the body of the left atrium. The left atrial appendage is not visualized. The right atrium is mildly enlarged. The estimated right atrial pressure is ___ mmHg. There is normal left ventricular wall thickness with a normal cavity size. There is normal regional left ventricular systolic function. No thrombus or mass is seen in the left ventricle. Overall left ventricular systolic function is low normal. The visually estimated left ventricular ejection fraction is 50-55%. Left ventricular cardiac index is low normal (2.0-2.5 L/min/m2). There is no resting left ventricular outflow tract gradient. No ventricular septal defect is seen. Mildly dilated right ventricular cavity with normal free wall motion. The aortic sinus diameter is normal for gender with\nnormal ascending aorta diameter for gender. The aortic arch diameter is normal. There is no evidence for an aortic arch coarctation. The aortic valve leaflets (3) are mildly thickened. No masses or vegetations are seen on the aortic valve. There is no aortic valve stenosis. There is no aortic regurgitation. The mitral valve leaflets appear structurally normal with no mitral valve prolapse. No masses or vegetations are seen on the mitral valve. There is mild [1+] mitral regurgitation. There is significant pulmonic regurgitation. The tricuspid valve leaflets appear structurally normal. No mass/vegetation are seen on the tricuspid valve. There is mild to moderate [___] tricuspid regurgitation. There is moderate pulmonary artery systolic hypertension. The end-diastolic PR velocity is elevated suggesting pulmonary artery diastolic hypertension. There is no pericardial effusion. There is a prominent anterior fat pad.\n"
+}

@@ -1,0 +1,56 @@
+{
+    "Viral Pneumonia$Intermedia_4": {
+        "This is direct evidence of viral pneumonia$Cause_1": {
+            "Culture screening find the existing of Adenovirus$Input6": {}
+        },
+        "Pneumonia$Intermedia_3": {
+            "High white blood cell counts and elevated lactate often indicate the presence of infection and/or inflammation, which are common biochemical features of pneumonia$Cause_1": {
+                "WBC was 17.6 with 84% neutrophils, and lactate was elevated at 3.2$Input2": {}
+            },
+            "White blood cells above the normal range, usually the body's response to infection, common in pneumonia$Cause_1": {
+                "WBC-17.6$Input6": {}
+            },
+            "The proportion of neutrophils is significantly increased, pointing to pneumonia$Cause_1": {
+                "Neuts-69.1$Input6": {}
+            },
+            "Often associated with lung infection$Cause_1": {
+                "perihilar haze and mild peribronchial$Input6": {}
+            },
+            "The proportion of neutrophils is significantly increased, pointing to pneumonia .$Cause_1": {
+                "NEUTS-84.1$Input6": {}
+            },
+            "Small bilateral pleural effusion is a common sign of pneumonia$Cause_1": {
+                "small bilateral pleural effusions$Input6": {}
+            },
+            "Basal atelectasis is a common sign of pneumonia$Cause_1": {
+                "bibasilar atelectasis$Input6": {}
+            },
+            "It may represent multiple small nodules in the lungs, which may be a sign of chronic or recurring infection.$Cause_1": {
+                "multiple punctate areas of high density throughout both lungs representative of multiple granulomas$Input6": {}
+            },
+            "Suspected Pneumonia$Intermedia_2": {
+                "Difficulty breathing is a classic symptom of pneumonia$Cause_1": {
+                    "Shortness of breath$Input1": {}
+                },
+                "A cough accompanied by the production of yellow phlegm is often a sign of a lung infection$Cause_1": {
+                    "complains of cough for two days with the production of yellow sputum$Input2": {}
+                },
+                "Chills are the body's response to infection and are common in many types of infections, including pneumonia$Cause_1": {
+                    "complains of chills for two days$Input2": {}
+                },
+                "Short inhalation and exhalation times, coughing during deep breathing, and rales heard at the base of the right side are classic signs of lung infection. Rhales are common especially in pneumonia.$Cause_1": {
+                    "Short inhalation and exhalation times, coughing on deep breaths, crackles ausculatated at right base,$Input5": {}
+                },
+                "A slightly higher body temperature may be a sign of infection. Fever is common in patients with pneumonia.$Cause_1": {
+                    "T 99.7$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "She is an 64 year-old with a history of CHF s/p CABG who complains of cough for two days with the production of yellow sputum.  She also complains of chills for two days.  She denies bloody sputum, increased fatigue from baseline, and increased diarrhea from baseline.  She currently denies shortness of breath, chest pain, and abdominal pain.  She only complains of feeling cold.  She sleeps on two pillows due to orthopnea.\n\nShe says that shortly after receiving a flu vaccination two weeks ago, she began to have a runny nose and sneezing.  She denies developing any fevers or sore throat.  Otherwise she was at her typical baseline until she developed a cough two days ago.  She describes her baseline as shortness of breath with exertion being unable climb a flight of stairs without stopping. She also complains of occasional angina at rest, decreased appetite, diarrhea that is worse on the days she takes colchicine, and mild stress incontinence with coughing.\n\nOn arrival to the ED, her WBC was 17.6 with 84% neutrophils, and lactate was elevated at 3.2\n",
+    "input3": "+CAD s/p CABG\n+VTach and VF s/p ICD\n+Junctional brady s/p PPM  \n+Temporal Arteritis  \n+HTN  \n+Recurrent TIAs\n+Dyslipidemia \n+GERD  \n+Gout  \n+DVT/PE s/p IVC filter  \n+Atrial Fibrillation \n+CHF EF 25% \n+PVD  \n+Low back pain and herniated disc s/p multiple back surgeries and right-sided sciatica, s/p lumbar epidural steroid injection \n+Basal cell carcinoma on the right shin and skin infection on the forehead secondary to basal cell carcinoma\n+s/p CCY  \n+Cystitis\n",
+    "input4": "Non-contributory\n",
+    "input5": "VITAL SIGNS:  T 99.7  BP 140/58  HR 60  RR 20  O2 98% 1.5L  \nGENERAL APPEARANCE:  Fatigued, laying in bed with blankets up to face.\nHEENT:  Normocelphalic/atraumatic, extraocular movements intact, mucous membranes moist, oropharynx no exudates, sores, or erythema\nNeck:  No lymphadenopathy\nHEART:  Normal S1 and S2, regular rate and rhythm, III/VI systolic murmur at right upper sternal border, JVD < 5cm\nLUNGS:  Short inhalation and exhalation times, coughing on deep breaths, crackles ausculatated at right base, otherwise clear to auscultation bilaterally\nABDOMEN:  Non-distended, non-tender, + bowel sounds in four quadrants, soft, no masses, no hepatosplenomegaly\nBACK:  No costovertebral angle tenderness, spine tender to palpation throughout\nEXTREMITIES:  Warm and well perfused, radial pulse paplated on right but not left, dorsal pedal pulses palpated bilaterally, \nSKIN:  No rashes, sores, ulcers noted\nNEUROLOGICAL:  Alert, awake, and attentive, cranial nerves II-XII intact, could not report her past medical history or medication list\nPSYCHOLOGICAL:  Normal affect\n",
+    "input6": "___ 03:00AM   WBC-17.6*# RBC-3.85* HGB-11.7* HCT-35.7* MCV-93 MCH-30.2 MCHC-32.7 RDW-15.5\n___ 03:00AM   NEUTS-84.1* LYMPHS-9.2* MONOS-3.6 EOS-2.8 BASOS-0.3\n___ 05:50AM BLOOD WBC-6.7 RBC-3.01* Hgb-9.2* Hct-27.8* MCV-92 MCH-30.7 MCHC-33.2 RDW-15.5 Plt ___\n___ 05:50AM BLOOD Neuts-69.1 Lymphs-13.8* Monos-6.1 Eos-10.5* Baso-0.6\n\nCARDIAC ENZYMES\n___ 03:00AM BLOOD CK(CPK)-39\n___ 04:45PM BLOOD CK(CPK)-34\n___ 05:02AM BLOOD CK(CPK)-33\n___ 03:00AM BLOOD cTropnT-<0.01\n___ 04:45PM BLOOD CK-MB-NotDone cTropnT-<0.01\n___ 05:02AM BLOOD CK-MB-NotDone cTropnT-<0.01\n\nURINE\nURINALYSIS\n___ 09:47AM URINE  COLOR-Yellow APPEAR-Clear SP ___\n___ 09:47AM URINE  BLOOD-NEG NITRITE-POS PROTEIN-TR GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-MOD\n___ 09:47AM URINE  RBC-0 ___ BACTERIA-FEW YEAST-NONE \n___ 04:07AM URINE Color-Yellow Appear-Hazy Sp ___\n___ 04:07AM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-LG\n___ 04:07AM URINE RBC-17* WBC-44* Bacteri-FEW Yeast-NONE Epi-15 TransE-1\n\nVIRAL CULTURE (Final ___: \nCulture screening find the existing of Adenovirus, Influenza A & B, Parainfluenza type1,2 & 3, and Respiratory Syncytial Virus\n\nIMAGING \n\n___  CHEST XR (AP&LAT) \nFINDINGS: There is a pacer device overlying the left hemithorax with unchanged in appropriate position of pacer leads. Patient is status post median sternotomy with unchanged appropriate appearance of cerclage wires.\n  \nThere is mild cardiomegaly, unchanged. There is calcification of the aortic arch and mild tortuosity of the aorta, also unchanged. There is mild prominence of the pulmonary vasculature representing mild failure. There is perihilar haze and mild peribronchial cuffing also associated with mild degree of failure. There are small bilateral pleural effusions and bibasilar atelectasis. There are multiple punctate areas of high density throughout both lungs representative of multiple granulomas. There is no pneumothorax.\n"
+}

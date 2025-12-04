@@ -1,0 +1,27 @@
+{
+    "Acute Gastritis$Intermedia_3": {
+        "Acute gastritis may cause diarrhea, but it is usually not bloody.$Cause_1": {
+            "No blood in the stool$Input2": {}
+        },
+        "Suspected Gastritis$Intermedia_2": {
+            "abdominal pain is the common symptom of gastritis$Cause_1": {
+                "abdominal pain$Input1": {}
+            },
+            "Patients experience symptoms similar to those of previous C. difficile infections, which often cause diarrhea and abdominal discomfort that may overlap with symptoms of gastritis.$Cause_1": {
+                "feels like previouscdiff episode$Input2": {}
+            },
+            "Abdominal discomfort and mild diarrhea. These symptoms may be common manifestations of gastritis, which often causes abdominal pain and indigestion.$Cause_1": {
+                "abdominal discomfort,some slightly loose stools$Input2": {}
+            },
+            "These may indicate infection; acute gastritis may be accompanied by fever.$Cause_1": {
+                "102.7 felt chilled and sweats$Input2": {}
+            }
+        }
+    },
+    "input1": "abdominal pain\n",
+    "input2": "Pt states feels like previouscdiff episode.\n\nShe traveled to ___ last week, felt great for several days. \nThen about 4 days ago she again had some abdominal discomfort,some slightly loose stools. She arrived home on ___. Then\nyesterday had a fever of 102.7 felt chilled and sweats. She alsohas some diarrhea.  No blood in the stool.  She had some period of times times where she did not have a stool than will have several times in an hour.  \n\nWhile in ___, she stayed in a ___.  The only time she left the resort was to go to the restaurant called ___.  Did not eat or drink any food or water or ice from anywhere outside of the ___ or ___.  Traveled with her husband, he is not experiencing any infectious or other symptoms.\n\nOn ROS, she denies headache, neck pain, rhinorrhea, sore throat, chest pain, palpitations, shortness of breath, cough, dysuria, lightheadedness, lower extremity edema.\n",
+    "input3": "-tobacco: denies \n -EtOH: social  \n -occupation: ___\n -living situation: Lives w husband.\n",
+    "input4": "The patient reports that her father passed away in ___ from ___  body dementia.\n",
+    "input5": "VITALS: Reviewed in POE\nGENERAL: well developed, well nourished in NAD, appears tired\nHEENT: sclera anicteric, MMM\nCARDIAC: regular rate and rhythm, no murmurs, rubs, or gallops\nLUNGS: CTABL, no wheezes, rales, or rhonchi, normal WOB on room\nair\nABDOMEN: soft, diffusely TTP w guarding, +hyperactive bowel\nsounds, no rebound\nGU: No foley\nEXTREMITIES: warm, well perfused, no cyanosis or edema\nSKIN: warm, dry, no rashes or notable lesions\nNEURO: AOx3, face symmetric, moving all extremities\n",
+    "input6": "___ 03:20PM BLOOD WBC-14.3* RBC-4.22 Hgb-12.1 Hct-37.2 \nMCV-88 MCH-28.7 MCHC-32.5 RDW-13.0 RDWSD-41.3 Plt ___\n___ 03:20PM BLOOD Neuts-84.7* Lymphs-9.9* Monos-4.6* \nEos-0.1* Baso-0.2 Im ___ AbsNeut-12.09* AbsLymp-1.41 \nAbsMono-0.66 AbsEos-0.01* AbsBaso-0.03\n___ 09:26AM BLOOD ___ PTT-27.0 ___\n___ 03:20PM BLOOD Glucose-104* UreaN-13 Creat-0.9 Na-138 \nK-3.4* Cl-98 HCO3-26 AnGap-14\n___ 03:20PM BLOOD ALT-24 AST-22 AlkPhos-85 TotBili-0.6\n___ 03:20PM BLOOD Albumin-4.9 Calcium-9.7 Phos-4.0 Mg-2.0\n\n___ CT abdomen and pelvis w/ contrast\n  \nIMPRESSION: \n  \n1. Mild, circumferential wall thickening of the descending and sigmoid colons, with mild mucosal hyperemia and trace adjacent fat stranding, which could reflect colitis. \n2. Small volume pelvic free fluid.\n"
+}

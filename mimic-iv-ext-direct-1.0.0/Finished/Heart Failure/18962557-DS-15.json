@@ -1,0 +1,63 @@
+{
+    "HFpEF$Intermedia_5": {
+        "Overall left ventricular systolic function is normal (LVEF>55%). Tissue Doppler imaging suggests an increased left  ventricular filling pressure (PCWP>18mmHg). These findings indicate ejection fraction preserving heart failure.$Cause_1": {
+            "Overall left ventricular systolic function is normal (LVEF>55%). Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg).$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is mildly dilated.$Input6": {}
+            },
+            "Suspected heart failure$Intermedia_2": {
+                "Shortness of breath is a common symptom of heart failure.$Cause_1": {
+                    "Shortness of breath.$Input1": {}
+                },
+                "Diabetes is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                    "DM Type 2$Input3": {}
+                },
+                "Hypertension is known risk factor for heart failure.$Cause_1": {
+                    "Hypertension (HTN)$Input3": {}
+                },
+                "Dyslipidemia is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                    "Dyslipidemia$Input3": {}
+                },
+                "Obesity is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                    "Obesity$Input3": {}
+                },
+                "With the exception of myocardial infarction, elevated troponin is indicative of heart failure-related myocardial damage.$Cause_1": {
+                    "cTropnT-0.11*$Input6": {}
+                }
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates acute heart failure.$Cause_1": {
+                    "proBNP-1694*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Shortness of breath is a common symptom of heart failure.$Cause_1": {
+                        "Shortness of breath.$Input1": {}
+                    },
+                    "Diabetes is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "DM Type 2$Input3": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "Hypertension (HTN)$Input3": {}
+                    },
+                    "Dyslipidemia is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "Dyslipidemia$Input3": {}
+                    },
+                    "Obesity is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "Obesity$Input3": {}
+                    },
+                    "With the exception of myocardial infarction, elevated troponin is indicative of heart failure-related myocardial damage.$Cause_1": {
+                        "cTropnT-0.11*$Input6": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath.\n",
+    "input2": "This is a woman with a history of diabetes mellitus type II (DM2), hypertension (HTN), hyperlipidemia (HL), anxiety, peripheral vascular disease (PVD) who presented with progressive shortness of breath (SOB) for 2 days. Three days prior to admission, the patient experienced nasal congestion and sore throat. Two days prior to admission, she started having difficulty taking deep breaths. For the previous 24 hours she had experienced more dyspnea at rest, exacerbated with movements. She had never experienced this before. No chest pain, no ankle swelling, no calf tenderness. She did report nonproductive coughs.\n\ufeff\nBesides nitro and oxygen, EMS gave the patient Furosemide 40 mg IV x 1 with relief of symptoms. On presentation to ED, T 99.8, HR 102, BP 175/104, RR 22, 99% on room air. EKG showed ST depressions in I, II, V4-V6. Trop 0.11 K. BNP 1600s. Guaiac negative. She was given ASA 325 mg PO x 1. Cardiology fellow was aware. She was admitted for further management.\n\ufeff\n",
+    "input3": "+DM Type 2  \n+Hypertension (HTN)\n+Dyslipidemia  \n+Anxiety  \n+Depression  \n+Hypothyroidism  \n+PVD\n+Chronic low back pain  \n+Osteoarthritis of left knee\n+Diverticulosis with admissions for diverticulitis  \n+Obesity\n",
+    "input4": "Noncontributory.\n",
+    "input5": "Physical Exam:\nVITALS: T 98.6, BP 123/73, HR 75, RR 20, 90% on room air, 94-97% on 2LTm 101.4, 100.5, 123-156/63-96, 75-99, 20  \nGEN: NAD, awake, alert  \nHEENT: EOMI, PERRL, sclera anicteric, conjunctivae clear, OP clear  \nNECK: Supple, no JVD  \nCV: Regular, normal S1, S2. No murmurs, rubs, or gallops.  \nCHEST: Respirations were unlabored, no accessory muscle use. Faint bibasilar crackles. Decreased BS at both bases.  \nABD: Soft, non-tender, non-distended  \nEXT: No clubbing, cyanosis, or edema  \nSKIN: No rash\n\ufeff\n",
+    "input6": "Labs on admission:\n___ 12:02AM BLOOD WBC-14.1* RBC-4.53 Hgb-13.5 Hct-39.8 MCV-88 MCH-29.8 MCHC-34.0 RDW-13.8\n___ 12:02AM BLOOD Neuts-86.4* Lymphs-9.9* Monos-2.4 Eos-1.0 Baso-0.3\n___ 12:02AM BLOOD PTT-26.5\n___ 12:02AM BLOOD D-Dimer-1318*\n___ 12:02AM BLOOD Glucose-417* UreaN-13 Creat-1.0 Na-135 K-4.0 Cl-97 HCO3-28 AnGap-14\n___ 12:02AM BLOOD CK(CPK)-82\n___ 12:02AM BLOOD cTropnT-0.11*\n___ 12:02AM BLOOD CK-MB-NotDone proBNP-1694*\n___ 10:15AM BLOOD Calcium-8.8 Phos-3.0 Mg-1.9\n___ 10:15AM BLOOD TSH-0.47\n\ufeff\nChest x-ray : Findings consistenet with asymmetric pulmonary edema. Developing or superimposed pneumonia cannot competely be excluded.\n\ufeff\nECHO: \nThe left atrium is mildly dilated. There is mild symmetric left ventricular hypertrophy with normal cavity size. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Overall left ventricular systolic function is normal (LVEF>55%). Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion. \n\ufeff\nIMPRESSION: Suboptimal image quality. Mild symmetric left ventricular hypertrophy with preserved global biventricular systolic function. Mild pulmonary hypertension. Increased left ventricular filling pressures. Mild mitral regurgitation. \n\ufeff\nCompared with the prior report (images not available for review) , estimated pulmonary artery pressures are now elevated (previously not measured). Mild ventricular hypertrophy is present.\n"
+}

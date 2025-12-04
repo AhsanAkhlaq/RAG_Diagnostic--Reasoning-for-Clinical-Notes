@@ -1,0 +1,53 @@
+{
+    "Submassive PE$Intermedia_4": {
+        "Rule out Massive PE$Cause_1": {
+            "The patient is hemodynamically stable.$Input6": {}
+        },
+        "Right ventricular pressure overload, common in severe pulmonary embolism$Cause_1": {
+            "right ventricular pressure overload$Input6": {}
+        },
+        "There is a certain degree of myocardial damage associated with PE$Cause_1": {
+            "cTropnT-0.13$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Pulmonary embolism forms multiple obstructions, direct evidence of PE$Cause_1": {
+                "CTA showed multiple PEs$Input2": {}
+            },
+            "These findings are direct evidence of pulmonary embolism.$Cause_1": {
+                "evidence for extensive pulmonary embolic disease withthrombus in the left upper lobe and left lower lobe right lower lobe right upper lobe and right middle lobe.$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Dyspnea is one of the common symptoms of pulmonary embolism.$Cause_1": {
+                    "Dyspnea$Input1": {}
+                },
+                "Chest pain is common in pulmonary embolism$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "Right-sided chest pain and shortness of breath are common symptoms of pulmonary embolism, which may be caused by obstruction of blood flow to the lungs.$Cause_1": {
+                    "R chest pain and SOB$Input2": {}
+                },
+                "Pleuritic chest pain is a classic symptom of pulmonary embolism$Cause_1": {
+                    "complained of right sided thoracic back pain and pleuritic chest pain$Input2": {}
+                },
+                "Low oxygen saturation indicates impaired oxygen exchange, a sign of limited lung function, often seen in patients with pulmonary embolism$Cause_1": {
+                    "O2 sat 88% RA.$Input2": {}
+                },
+                "Hypertension is associated with thrombosis$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "Dyspnea is one of the typical symptoms of pulmonary embolism.$Cause_1": {
+                    "slight conversational dyspnea$Input5": {}
+                },
+                "The lungs may have fluid buildup or partial collapse, which is common in cases of pulmonary embolism$Cause_1": {
+                    "decreased at bilateral bases, dullness to percussion at right$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea, Chest Pain\n",
+    "input2": "She is a female with a history of colon cancer (s/p resection, chemotherapy , HTN, GERD, depression, and HLD who presents as a transfer for pulmonary embolism.  One week ago, the patient developed R chest pain and SOB. She saw NP associated with her PCP's office where she complained of right sided thoracic back pain and pleuritic chest pain. She recommended a CTA chest, CXR and was also given Augmentin 875mg BID for possible infection, and analgesia with ibuprofen and tylenol #3. Chest x-ray was also done which showed dense right lung base opacity with associated effusion. Prior authorization was obtained and the patient obtained CTA chest 3 days later. The CTA showed multiple PEs with a possible area of necrosis, so she was referred for further management. There she was found to have O2 sat 88% RA. A bedside ultrasound showed no ultrasound evidence of pericardial effusion, and normal cardiac activity. Troponin was 0.156. Of note, LFTs were performed and notable for new transaminitis (AST 47 ALT 74) and elevated alk phos 267.\n\n",
+    "input3": "Colon Adenocarcinoma: Stage 3 T3, N1, MO s/p Low \nAnterior Sigmoidectomy. \nS/p adjuvant, leucovorin., recent colnoscopy showed polyp in the proximal ascending colon but otherwise WNL Depression  \nHTN  \nGERD  \nOsteopenia\n\n",
+    "input4": "Mother - living with DMII, HTN, Alzheimer's Disease  \nFather - deceased due to myocardial infarction. 2 brother(s)- one is hypertensive and 1 pseudogout . \n1  son(s) , 1 daughter(s) - healthy\n\n",
+    "input5": "Physical Exam:\nADMISSION PHYSICAL EXAM:\n=========================\nVS - T 98.8, BP 150/72, HR 92, RR 20, SpO2 99% 2L NC.  \nGENERAL: no acute distress, slight conversational dyspnea with moderately audible upper airway wheezing  \nHEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, \nMMM, good dentition  \nNECK: nontender supple neck, no LAD, no JVD elevation  \nCARDIAC: RRR, normal S1/S2, no murmurs, gallops, or rubs  \nLUNG: decreased at bilateral bases, dullness to percussion at right base with crackles in mid-lung fields on the right, no egophony, breathing comfortably without use of accessory muscles \n \nABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly  \nEXTREMITIES: no cyanosis, clubbing or edema, lower extremities are symmetric, negative sign bilaterally  \nNEURO: CN II-XII intact, moving all 4 extremities with purpose  \n\ufeff\nSKIN: warm and well perfused, no excoriations or lesions, no rashes  \n\ufeff\n\n",
+    "input6": "ADMISSION LAB VALUES: \n=====================\n___ 07:30PM   GLUCOSE-168* UREA N-55* CREAT-1.4* SODIUM-131* POTASSIUM-6.5* CHLORIDE-97 TOTAL CO2-21* ANION GAP-20\n___ 07:30PM   estGFR-Using this\n___ 07:30PM   ALT(SGPT)-84* AST(SGOT)-86* LD(LDH)-657* ALK PHOS-287* TOT BILI-0.3\n___ 07:30PM   GGT-165*\n___ 07:30PM   cTropnT-0.13*\n___ 07:30PM   ALBUMIN-3.0* IRON-37\n___ 07:30PM   calTIBC-176* FERRITIN-670* TRF-135*\n___ 07:30PM   ACETMNPHN-NEG\n___ 07:30PM   COMMENTS-GREEN TOP\n___ 07:30PM   K+-5.1\n___ 07:30PM   WBC-8.8# RBC-3.34* HGB-9.8* HCT-30.1* MCV-90 MCH-29.3 MCHC-32.6 RDW-15.2 RDWSD-49.2*\n___ 07:30PM   NEUTS-80.0* LYMPHS-5.8* MONOS-11.1 EOS-2.2 BASOS-0.2 IM AbsNeut-7.03* AbsLymp-0.51* AbsMono-0.98* AbsEos-0.19 AbsBaso-0.02\n___ 07:30PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL\n___ 07:30PM   PLT COUNT-258\n___ 07:30PM   PTT-41.3*\n___ 07:30PM   RET AUT-1.3 ABS RET-0.04\n\ufeff\nPERTINENT IMAGING/STUDIES: \n==========================\nCT-A FROM:\nFINDINGS:  CHEST:\n      \nLungs:\nIn the right hemidiaphragm is elevated which could be due todiaphragmatic paralysis or hepatomegaly.  There is right pleural disease subtle which is loculated.  There is also a right lower lobeconsolidation or atelectasis atelectasis and hazy density in theright upper lobe.  Left lung is clear.  The heart is enlarged.\n      \nVessels:\nThere is evidence for extensive pulmonary embolic disease withthrombus in the left upper lobe and left lower lobe right lower lobe right upper lobe and right middle lobe.\n  \n      \nRight pleural disease\n      \nExtensive right-sided pulmonary parenchymal disease.  How much ofthis represents inflammatory disease or the result of pulmonary infarct is difficult to determine.\n  \nCardiovascular ECHO \nConclusions   \nThe patient is hemodynamically stable. The left atrial volume index is normal. Normal left ventricular wall thickness, cavity size, and regional/global systolic function (biplane LVEF = 67%). The right ventricular cavity is mildly dilated with mild global free wall hypokinesis. There is abnormal systolic septal motion/position consistent with right ventricular pressure overload. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve appears structurally normal with trivial mitral regurgitation. Moderate [2+] tricuspid regurgitation is seen. There is moderate pulmonary artery systolic hypertension. There is no pericardial effusion.\n\n"
+}

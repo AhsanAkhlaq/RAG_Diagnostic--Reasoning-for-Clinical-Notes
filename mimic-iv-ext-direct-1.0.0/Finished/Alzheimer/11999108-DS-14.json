@@ -1,0 +1,54 @@
+{
+    "Alzheimer$Intermedia_3": {
+        "Amyloid deposition detected in frontal and temporal regions, one of the key pathological features of Alzheimer's disease and associated with cognitive deterioration$Cause_1": {
+            "Amyloid deposition was detected in areas of the frontal and temporal lobes of the brain.$Input6": {}
+        },
+        "The hippocampus and frontal lobes were significantly atrophied. Atrophy in these areas is typical of Alzheimer's disease and is closely associated with loss of memory and cognitive function.$Cause_1": {
+            "Significant atrophy of hippocampus and frontal lobes$Input6": {}
+        },
+        "Suspected Alzheimer$Intermedia_2": {
+            "In Alzheimer's disease, this is due to changes in neurotransmitters due to damage and death of nerve cells in the brain.$Cause_1": {
+                "altered mental status$Input1": {}
+            },
+            "This can manifest as verbal or physical aggression, mood swings, or threats to others. In people with Alzheimer's disease, aggressive behavior may be linked to damage to areas of the brain that regulate emotion.$Cause_1": {
+                "aggressive behavior$Input1": {}
+            },
+            "These symptoms may indicate impaired cognitive and emotional control, a common finding in Alzheimer's disease.$Cause_1": {
+                "He now returns for reports of aggressive behavior, screaming and worsening mental status.$Input2": {}
+            },
+            "Behavioral problems and resistant behaviors may be related to the cognitive decline and impaired understanding that are typical symptoms of Alzheimer's disease.$Cause_1": {
+                "becoming increasingly difficult to care for over the past week, refusing meds and requiring increased sedatives.$Input2": {}
+            },
+            "These findings help rule out other possible causes of cognitive and behavioral symptoms, such as structural brain abnormalities or infections, making symptoms more likely to be related to Alzheimer's disease or other cognitive disorders.$Cause_1": {
+                "head CT neg, CXR showed no signs of infection, and EKG unchanged.$Input2": {}
+            },
+            "This is one of the known risk factors for Alzheimer's disease because long-term high blood pressure can damage blood vessels in the brain.$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "This may indicate a widespread cognitive decline that may be a precursor to Alzheimer's disease.$Cause_1": {
+                "Cognitive disorder not otherwise specified$Input3": {}
+            },
+            "Falls and subsequent head injuries may be associated with cognitive decline, which may be a marker of the development of Alzheimer's disease.$Cause_1": {
+                "Recent SDH after fall$Input3": {}
+            },
+            "Changes in sleep patterns. People with Alzheimer's disease may experience changes in their sleep cycles, such as circadian reversal or sleep disturbances.$Cause_1": {
+                "sleeping comfortably, arouses$Input5": {}
+            },
+            "Degree of cognitive orientation. This information suggests that the patient is cognitively oriented at least part of the time, which is important in assessing his or her cognitive status because a major symptom of Alzheimer's disease is cognitive decline.$Cause_1": {
+                "oriented to person$Input5": {}
+            },
+            "Anemia is associated with an increased risk of Alzheimer's disease because it can affect the blood supply and oxygen supply to the brain.$Cause_1": {
+                "RBC-3.26* Hgb-9.7* Hct-30.7*$Input6": {}
+            },
+            "Anemia associated with an increased risk of Alzheimer's disease because it can affect the blood supply and oxygen supply to the brain.$Cause_1": {
+                "RBC-3.80* Hgb-11.8* Hct-35.9*$Input6": {}
+            }
+        }
+    },
+    "input1": "altered mental status/aggressive behavior \n",
+    "input2": "This is an 65 yo with aortic valve replacement, HTN, afib not on anticoagulation, and 3 recent admissions over the past month, most recently for pneumonia, c. diff, and delirium. He now returns for reports of aggressive behavior, screaming and worsening mental status. he was becoming increasingly difficult to care for over the past week, refusing meds and requiring increased sedatives.   \n\nIn ED, 97.6, 73 142/86, 18 100%RA. head CT neg, CXR showed no signs of infection, and EKG unchanged. he received haldol 0.5 mg IV X1. Psychiatry was consulted in ED.  \n  \nOn arrival to the floor, patient not able to provide history. He denies pain.  \n",
+    "input3": "1. Recent SDH after fall ___  \n2. Aortic valve replacement - porcine  \n3. Atrial flutter  \n4. Hypertension  \n5. Hypercholesterolemia  \n6. Right focal carcinoma in situ status post hemicolectomy in \n7. Inguinal hernia repair  \n8. BPH  \n9. Right upper extremity amputation due to trauma  \n10. Cognitive disorder not otherwise specified  \n11. Oppositional defiant disorder  \n12. Multilevel DJD in the lower thoracic and lumbar spine  \n13. L5-S1 disc herniation with left lumbosacral radiculopathy \n",
+    "input4": "Non-contributory.\n",
+    "input5": "PE: 98.4 121/86 103 18 96%RA O2 Sats  \nGen: sleeping comfortably, arouses  \nHEENT: Clear OP, MM dry  \nNECK: Supple, No LAD, No JVD  \nCV: RR, NL rate. NL S1, S2. ___ systolic murmur  \nLUNGS: CTA ant and laterally  \nABD: Soft, NT, ND. NL BS. No HSM  \nEXT: No edema  \nSKIN: tatoos, R arm amputation  \nNEURO: moves 3 extremities. s/p right arm amputation. oriented to person.  \n",
+    "input6": "___ 07:20AM BLOOD WBC-6.1 RBC-3.26* Hgb-9.7* Hct-30.7* MCV-94 MCH-29.8 MCHC-31.6 RDW-13.4 Plt ___\n___ 05:00PM BLOOD WBC-7.9 RBC-3.80* Hgb-11.8* Hct-35.9* MCV-94 MCH-31.0 MCHC-32.9 RDW-14.0 Plt ___\n___ 05:00PM BLOOD ___ PTT-25.4 ___\n___ 07:20AM BLOOD Glucose-94 UreaN-26* Creat-1.0 Na-143 K-3.9 Cl-107 HCO3-29 AnGap-11\n___ 07:35AM BLOOD Calcium-8.8 Phos-3.1 Mg-2.2\n___ 05:00PM BLOOD Digoxin-1.3\n___ 05:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG\n___ 06:12PM URINE Color-Yellow Appear-Clear Sp ___\n___ 06:12PM URINE Blood-NEG Nitrite-NEG Protein-TR Glucose-TR Ketone-TR Bilirub-NEG Urobiln-NEG pH-5.0 Leuks-NEG\n___ 06:12PM URINE ___ WBC->50 Bacteri-FEW Yeast-FEW \n\nMICROBIOLOGY:\n___ 5:00 pm BLOOD CULTURE      #2. \n   Blood Culture, Routine (Final ___:    NO GROWTH.\n\n___ 5:49 pm URINE      Source: ___. \n   URINE CULTURE (Final ___: \n      YEAST.    10,000-100,000 ORGANISMS/ML..\n\n___ 2:15 pm URINE      Source: ___. \n\n                       \nIMAGING:\n___ CT HEAD:\nIMPRESSION:\nNo evidence of intracranial hemorrhage. No change compared to \n___.\n\n___ CXR:\nIMPRESSION:\nNo pneumonia or CHF.\n\n___ ECG:\nAtrial fibrillation with moderate ventricular response. Left axis deviation consistent with left anterior hemiblock. Non-specific ST-T wave abnormalities. Compared to the previous tracing of ___ atrial fibrillation has replaced atrial \nflutter. \n\n___ CXR:\nIMPRESSION: No evidence of acute cardiopulmonary process.\n\n___ MRI:\nSignificant atrophy of hippocampus and frontal lobes\n\n___ PET:\nAmyloid deposition was detected in areas of the frontal and temporal lobes of the brain.\n\n"
+}

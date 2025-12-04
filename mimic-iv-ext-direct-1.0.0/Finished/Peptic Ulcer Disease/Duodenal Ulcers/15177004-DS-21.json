@@ -1,0 +1,33 @@
+{
+    "Duodenal ulcers$Intermedia_3": {
+        "Duodenal ulcer with bleeding on endoscopy is the gold standard of peptic ulcer.$Cause_1": {
+            "Endoscopy:duodenal ulcer with bleeding$Input6": {}
+        },
+        "suspected peptic ulcer disease$Intermedia_2": {
+            "dark stools are the manifestations of peptic ulcer with bleeding.$Cause_1": {
+                "dark stools.There, she was noted to have Guaiac+ stools and anemia and was admitted to the ICU for transfusion.$Input1": {}
+            },
+            "H. pylori infection is the risk factor of peptic ulcer.$Cause_1": {
+                "Per EGD report at , she was found to have H. pylori infection.$Input2": {}
+            },
+            "melena as well as abdominal cramping and nausea are the possible symptom of peptic ulcer.$Cause_1": {
+                "The morning of admission, she was still having melena as well as abdominal cramping and nausea.$Input2": {}
+            },
+            "History of peptic ulcer disease.anemia$Cause_1": {
+                "+Peptic ulcer disease\n+H. pylori infection$Input3": {}
+            },
+            "Family history of peptic ulcer disease.$Cause_1": {
+                "Father with PUD$Input4": {}
+            },
+            "Anemia is the manifestation of peptic ulcer with bleeding.$Cause_1": {
+                "RBC-2.74* HGB-7.9* HCT-24.0*$Input6": {}
+            }
+        }
+    },
+    "input1": "dark stools\n",
+    "input2": "A female with recent GIB from PUD who presents with 2 day h/o 'dark stools.' She was previously healthy until when she noted dark stools and presented to . There, she was noted to have Guaiac+ stools and anemia and was admitted to the ICU for transfusion. She was subsequently transferred to for further management. She was in the ICU there for anemia requiring blood transfusion. She did not have a repeat EGD at that time as her stool was guaiac negative. Per EGD report at , she was found to have H. pylori infection. As such, she was started on clarithromycin, amoxicillin, and pantoprazole triple therapy on . She was transferred out of the ICU and remained on the general floor. She was doing well at home with regular BM, no melena or hematochezia, until , when she noted melena. The morning of admission, she was still having melena as well as abdominal cramping and nausea. She presented to her PCP who sent her to for further management. Currently, she complains of abdominal cramping and black stools. She denies nausea, hematemesis, fevers, chills, dizziness, lower extremity edema, CP, or SOB.\n\nShe denies significant NSAID use. She has never had a GIB before.\n\nIn the ED, initial VS were T 98.4 HR 81 BP 135/89 RR 18 100% RA Exam notable for GUAIC POSITIVE Labs showed: H/H of 8.9/27.3. (last h/h 12.6/37.7 in ) Chem 7 unremarkable. : 10.5 PTT: 26.5 INR: 1.0 UA unremarkable Blood and urine cultures sent Received 40mg IV pantoprazole and started on IVF 100CC/HR NS\n\nTransfer VS: 98.1 70 100% RA\n\nGI was consulted and decision was made to admit to medicine for further management.\n\nOn arrival to the floor, patient reports that her nausea has improved but that she is still experiencing abdominal cramping\n",
+    "input3": "+Peptic ulcer disease\n+H. pylori infection\n",
+    "input4": "Father with PUD and h/o GIB  \nMother with HTN\n",
+    "input5": "VS -  T 98.2 HR 70 BP 114/74 RR 18 100% RA\nGENERAL: NAD, AAOx3\nHEENT: AT/NC, EOMI, PERRL, anicteric sclera, pale conjunctiva, MMM, good dentition, \nNECK: nontender supple neck, no LAD, no JVD  \nCARDIAC: RRR, Loud S1, normal S2, no murmurs, gallops, or rubs  \nLUNG: CTAB, no wheezes, rales, rhonchi\nABDOMEN: nondistended, hypoactive BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly  \nEXTREMITIES: no cyanosis, clubbing or edema\nPULSES: 2+ DP pulses bilaterally  \nNEURO: CN II-XII intact  \nSKIN: warm and well perfused, no excoriations or lesions, no rashes\n",
+    "input6": "11:50AM   PTT-26.5\n11:50AM   WBC-7.7 RBC-3.11*# HGB-8.9*# HCT-27.3*# MCV-88 MCH-28.6 MCHC-32.6 RDW-13.5 RDWSD-43.0\n11:50AM   NEUTS-54.9 MONOS-6.9 EOS-3.5 BASOS-0.5 IM AbsNeut-4.21 AbsLymp-2.59 AbsMono-0.53 \nAbsEos-0.27 AbsBaso-0.04\n12:33PM   LACTATE-1.3\n01:26PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-NEG\n01:26PM URINE  UCG-NEGATIVE\n06:50PM   WBC-8.7 RBC-2.99* HGB-8.5* HCT-26.3* MCV-88 MCH-28.4 MCHC-32.3 RDW-13.5 RDWSD-42.6\n11:59PM   WBC-8.6 RBC-2.74* HGB-7.9* HCT-24.0* MCV-88 MCH-28.8 MCHC-32.9 RDW-13.6 RDWSD-42.5\nEndoscopy:Gastric ulcer, duodenal ulcer with bleeding\n"
+}

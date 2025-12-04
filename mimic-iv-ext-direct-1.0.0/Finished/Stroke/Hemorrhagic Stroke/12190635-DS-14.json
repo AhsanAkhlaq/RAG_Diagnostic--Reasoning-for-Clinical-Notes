@@ -1,0 +1,69 @@
+{
+    "Hemorrhagic Stroke$Intermedia_3": {
+        "Thalamus hematoma is a common diagnostic criterion for hemorrhagic stroke$Cause_1": {
+            "A 2.2 x 1.9 cm left thalamic hematoma appears stable when compared to prior CT$Input6": {}
+        },
+        "Intraventricular hemorrhage is the presence of blood in the ventricular system of the brain, often associated with hemorrhagic stroke$Cause_1": {
+            "There is an increased amount of layering hemorrhage in the left occipital horn of the left lateral ventricle.$Input6": {}
+        },
+        "Cerebral edema is a buildup of fluid around brain tissue that often occurs after a hemorrhagic stroke$Cause_1": {
+            "There is surrounding edema, appears stable from prior CT.$Input6": {}
+        },
+        "Hemorrhage in the basal ganglia is also an important manifestation of hemorrhagic stroke.$Cause_1": {
+            "Stable left thalamic hemorrhage with slight increase in intraventricular hemorrhage in the left lateral ventricle$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "The right side of the body is weakened. This is a common symptom of stroke$Cause_1": {
+                "Right weakness$Input1": {}
+            },
+            "Aphasia common in post-stroke patients$Cause_1": {
+                "aphasia$Input1": {}
+            },
+            "History of hypertension (HTN) and dyslipidemia. These are known risk factors for stroke$Cause_1": {
+                "PMH of HTN, lipids$Input2": {}
+            },
+            "Carotid artery stenosis is an important cause of insufficient blood flow to the brain and is associated with an increased risk of stroke$Cause_1": {
+                "he had episodes of amaurosis fugax in right eye few days ago which on evaluation shows significant (more than 80 percent) carotid stenosis.$Input2": {}
+            },
+            "The patient's blood pressure was extremely high, although his heart rhythm remained normal. High blood pressure is an important trigger for stroke$Cause_1": {
+                "At OSH, he was in sinus rhythm with a blood pressure of 195/81$Input2": {}
+            },
+            "The right arm was weak and he quickly developed difficulty speaking. These symptoms point to a stroke.$Cause_1": {
+                "This am after waking up he noted weakness on right hand, arm followed quickly and difficulty speaking.$Input2": {}
+            },
+            "The patient had significant speech difficulties and moderate weakness on the right side of the body. These are also typical symptoms of stroke$Cause_1": {
+                "noted to have \"Moderate difficulty with  speech, and moderate right sided weakness.\"$Input2": {}
+            },
+            "High blood pressure is a major risk factor for stroke$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "Coronary artery disease is also a risk factor for stroke$Cause_1": {
+                "CAD s/p ACS$Input3": {}
+            },
+            "In patients with heart failure, the reduced ability of the heart to pump blood may lead to poor blood circulation and increase the risk of stroke.$Cause_1": {
+                "CHF$Input3": {}
+            },
+            "Hyperlipidemia is a risk factor for stroke.$Cause_1": {
+                "HLD$Input3": {}
+            },
+            "Obvious impairment in speech expression, which is a common symptom of stroke$Cause_1": {
+                "Doesnt verbalise. Can say few words like \"Yes, Hmm\"$Input5": {}
+            },
+            "The patient is unable to move the right limb. This is due to possible damage to the left hemisphere (controlling the right side of the body), which is common in strokes.$Cause_1": {
+                "Right hemiplegia, no movement veven on painful stimulus.$Input5": {}
+            },
+            "The patient has impaired facial nerve function, which may be caused by damage to part of the brain, commonly seen in strokes$Cause_1": {
+                "Right UMN facial weakness.$Input5": {}
+            },
+            "Supradigital reflex is a classic neurological sign of stroke$Cause_1": {
+                "Toes were downgoing on left and upgoing on right.$Input5": {}
+            }
+        }
+    },
+    "input1": "Right weakness and aphasia\n",
+    "input2": "RHM with PMH of HTN, lipids, CAD was transfered from OSH for neuro eval. Next, Neurology was called.\n\ufeff\nHe underwent right carotid endarterectomy and per notes, it was uneventful. This was done as a elective procedure after he had episodes of amaurosis fugax in right eye few days ago which on evaluation shows significant (more than 80 percent) carotid stenosis. \n\ufeff\nHe was noted to be in usual health till last night. This am after waking up he noted weakness on right hand, arm followed quickly and difficulty speaking. He was taken to OSH. At OSH, he was in sinus rhythm with a blood pressure of 195/81, and 100% on nasal cannula. He was noted to have \"Moderate difficulty with  speech, and moderate right sided weakness.\" Labs shows : CBC : 5.3-13.7/41-222, Chem 7 showed : Na 143, K 3.9, Cl 106, Co2 35, BUN 19, cr 1, glucose 109.  LFTs were normal. EKG did not show anything acute. He was sent to ED for neuro eval.\n",
+    "input3": "+ HTN\n+ CAD s/p ACS\n+ CHF\n+ COPD on home O2 1L seemingly due to med non-compliance - PCP does not have record of this\n+ HLD\n+ Diverticulosis\n+ BPH\n",
+    "input4": "Unclear\n",
+    "input5": "Admission Exam: \n98.39 81 150/90 20 100% 2L nc \nGen: Lying in bed, NAD\nHEENT: NC/AT, moist oral mucosa   \nNeck: No tenderness to palpation, normal ROM, supple, no carotid or vertebral bruit\nBack: No point tenderness or erythema\nCV: RRR, Nl S1 and S2, no murmurs/gallops/rubs \nLung: Clear to auscultation bilaterally \naBd: +BS soft, nontender \next: no edema\n\ufeff\nNeurologic examination: \nMental status: Awake, alert, Doesnt verbalise. Can say few words like \"Yes, Hmm\" . Comprehension relatively spared, can answer with head nodding to yes and No type questions. Can follow mildine and few one step appendicular commands on the left side. Other MS exam not possible.\n\ufeff\nCranial Nerves:  \nPupils equally round and reactive to light, 3 to 2 mm bilaterally, post surgical. Visual fields- grossly intact. Fundus- no papilledema. Extraocular movements intact bilaterally, no nystagmus. Right UMN facial weakness.  Palate elevation symmetrical.  Tongue midline, movements intact\n \nMotor: Right hemiplegia, no movement veven on painful stimulus.\nNormal power on left.\n\ufeff\nSensation: Intact to touch and pain on left, difficult to assess right side.\n \nReflexes: 2 plus on both sides, ankles absent.\n \nToes were downgoing on left and upgoing on right. \n\ufeff\nCoordination: difficult to assess.\n\ufeff\nGait/Romberg: Defd.\n\ufeff\n",
+    "input6": "Admission labs:\n12:17PM BLOOD WBC-5.4 RBC-4.28* Hgb-13.8* Hct-41.3 MCV-97 MCH-32.3* MCHC-33.4 RDW-13.2.\n12:17PM BLOOD Neuts-69.1 Monos-7.0 Eos-2.9 Baso-0.6\n12:17PM BLOOD Glucose-104* UreaN-18 Creat-0.8 Na-141 K-5.4* Cl-103 HCO3-30 AnGap-13\n12:17PM BLOOD ALT-15 AST-32 CK(CPK)-73 AlkPhos-43 TotBili-0.4\n12:17PM BLOOD Albumin-3.7\n05:30PM BLOOD Phos-2.7 Mg-1.8\n03:02AM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG\n\ufeff\nCEs:\n12:17PM BLOOD CK-MB-2 cTropnT-<0.01\n03:02AM BLOOD CK-MB-2 cTropnT-<0.01\n\ufeff\nUrine:\n02:10PM URINE Color-Yellow Appear-Clear\n02:10PM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG\n\ufeff\n\ufeff\nMicrobiology:\n2:10 pm URINE     Site: CATHETER\n\ufeff\n**FINAL REPORT\n\ufeff\nURINE CULTURE (Final:    NO GROWTH. \n.\n\ufeff\nRadiology:\nCT HEAD W/O CONTRAST Study Date  FINDINGS: A 2.2 x 1.9 cm left thalamic hematoma appears stable when compared to prior CT from outside hospital imaged approximately four hours ago. There is an increased amount of layering hemorrhage in the left occipital horn of the left lateral ventricle. A small amount of intraventricular blood is noted in the right occipital horn of the right lateral ventricle, unchanged. There is surrounding edema, appears stable from prior CT. Also noted is a hypodense area in the left frontal lobe that appears unchanged and likely represents encephalomalacia from a prior infarct. There is no shift of midline structures. There is no new area of hemorrhage identified. \n  \nIMPRESSION: \n1. Stable left thalamic hemorrhage with slight increase in intraventricular hemorrhage in the left lateral ventricle. \n2. No new areas of hemorrhage identified. \n\ufeff\nCHEST (PORTABLE AP) Study Date\nIMPRESSION: No acute cardiopulmonary process.\n\ufeff\nMR-HEAD:\nFINDINGS: Limited MRI study secondary to patient motion. Only sagittal T1, axial T1, and axial FLAIR sequences were obtained, which were also markedly degraded by patient motion. Within these limitations, left thalamic hematoma is redemonstrated, with surrounding FLAIR signal abnormality. There is no hydrocephalus or midline shift. Size of the hematoma appears similar to that \nseen on the previous CT. \n  \nIMPRESSION: Suboptimal MRI study secondary to patient motion. Left thalamic hematoma is redemonstrated. A repeat MRI study may be obtained after adequately sedating the patient. \n\ufeff\nCT_HEAD\nPreliminary Report  \n1. Stable left basal ganglia hemorrhage with partial resorption of intraventricular blood in the lateral ventricles. \n2. No new areas of hemorrhage.\n"
+}

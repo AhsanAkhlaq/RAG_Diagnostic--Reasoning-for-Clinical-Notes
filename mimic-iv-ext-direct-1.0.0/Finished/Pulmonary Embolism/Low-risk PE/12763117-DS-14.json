@@ -1,0 +1,38 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "The right heart has not been significantly affected, and submassive PE is ruled out.$Cause_1": {
+            "The main and right pulmonary arteries are normal in caliber, and there is no evidence of right heart strain.\n\ufeff$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Segmental and subsegmental pulmonary embolism in the right lower lobe is direct evidence for the diagnosis of PE$Cause_1": {
+                "Right lower lobe segmental and subsegmental emboli$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Metastatic lung cancer is a risk factor for PE because malignancy increases the tendency of the blood to clot, thereby increasing the risk of thrombosis.$Cause_1": {
+                    "Patient with h/o metastatic SCLC to theliver and brain$Input2": {}
+                },
+                "Doctors may suspect that a person is at risk for thrombosis or that a thrombosis already exists; anticoagulation is a common approach to preventing and treating PE.$Cause_1": {
+                    "admission for anticoagulation management$Input2": {}
+                },
+                "A history of DVT is a very important direct precursor to pulmonary embolism$Cause_1": {
+                    "DVT perisurgically years ago$Input3": {}
+                },
+                "COPD may lead to changes in pulmonary hemodynamics, which, combined with chronic inflammatory states, can increase the risk of pulmonary embolism.$Cause_1": {
+                    "COPD$Input3": {}
+                },
+                "Sinus bradycardia may indicate limited cardiac output and is associated with increased cardiac workload associated with PE$Cause_1": {
+                    "reg brady$Input5": {}
+                },
+                "Prolonged clotting time may be related to risk factors for PE such as anticoagulant therapy or coagulopathy$Cause_1": {
+                    "PTT-67.3$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Patient with h/o metastatic SCLC to theliver and brain (most recently C2D1 carboplatin AUC 5 + etoposide) on outpatient CT for progression evaluation. Referred in for admission for anticoagulation management. Patient has no complaints, including no CP, SOB,dizziness, cough. No pain w/ deep inspiration or calf pain/tenderness. Pt did not wish to be hospitalized. \n\ufeff\n",
+    "input3": "PMH/PSH:\n- Stroke years ago with mild left residual weakness,\nalthough he is able to ambulate without assistant with a cane. \n- DVT perisurgically years ago, \n- MUGA (per med records: patient and his family is not aware)\n- COPD (per med records: patient and his family is not aware)\n\ufeff\n\n",
+    "input4": "Mother passed away a few months ago. Father deceased from complications of acute appendicitis. The rest of the family history is unknown. He denied any known diagnosis of cancer in the family.\n\ufeff\n",
+    "input5": "Physical Exam:\nPhysical Examination:\nVS: 98.3   132/66   48   18   96%RA\nGEN: Alert, no acute signs of distress.\nHEENT: NCAT, Pupils equal and reactive, sclerae non-icteric, MMM.\nNeck: Supple\nCV: S1S2, reg brady, no murmurs, rubs or gallops.\nRESP: clear bilaterally\nABD: Soft, non-tender, non-distended, no hepatosplenomegaly\nEXTR: No lower leg edema\nDERM: No active rash. several tattoos\nNeuro: muscle strength grossly full and symmetric in all major muscle groups\nPSYCH: Appropriate and calm.\n\ufeff\n",
+    "input6": "___ 07:06AM BLOOD WBC-2.7*# RBC-3.97* Hgb-11.2* Hct-35.0* MCV-88 MCH-28.2 MCHC-32.0 RDW-15.0\n___ 09:00AM BLOOD WBC-1.0* RBC-4.03* Hgb-11.7* Hct-36.6* MCV-91 MCH-29.0 MCHC-31.9 RDW-15.1\n___ 08:00PM BLOOD WBC-0.8*# RBC-4.15* Hgb-12.2* Hct-37.4* MCV-90 MCH-29.5 MCHC-32.8 RDW-14.9\n___ 09:30AM BLOOD WBC-1.7*# RBC-3.85* Hgb-11.0* Hct-34.7* MCV-90 MCH-28.5 MCHC-31.7 RDW-14.8\n___ 07:06AM BLOOD Neuts-32* Bands-1 Lymphs-47* Monos-9 Eos-1 Baso-1 Atyps-4* Metas-1* Myelos-4*\n___ 08:00PM BLOOD Neuts-22* Bands-0 Lymphs-64* Monos-12* Eos-2 Baso-0 Myelos-0\n___ 07:06AM BLOOD PTT-67.3*\n___ 07:06AM BLOOD Glucose-95 UreaN-18 Creat-1.1 Na-139 K-3.9 Cl-105 HCO3-27 AnGap-11\n___ 07:06AM BLOOD ALT-8 AST-10 AlkPhos-67 TotBili-0.3\n___ 09:00AM BLOOD CK-MB-1 cTropnT-<0.01 proBNP-406\n___ 07:06AM BLOOD Calcium-8.8 Phos-3.8 Mg-1.9\n___ 08:09PM BLOOD Glucose-108* Lactate-2.3* Na-139 K-4.7 Cl-104 calHCO3-23\n___ 08:09PM BLOOD Hgb-12.7* calcHCT-38\n\ufeff\nb/l LENIs:\nIMPRESSION:  No  lower  extremity  DVT.  \n\ufeff\nabd/pelvic CT:\n1. Marked decrease in metastatic disease. Multiple \nmetastatic lesions scattered throughout the liver  have  decreased in size.  Segment II lesion has decreased from 2.1 cm to 1.4 cm. Previous soft tissue metastasis adjacent to the bilateral kidneys and near the aortic bifurcation are not seen on this exam.    Pancreatic and gallbladder masses are not seen.  Left adrenal gland nodule has decreased from 1.7 cm to 0.9 cm.\n2. Right adrenal gland nodule measuring 1.2 cm, stable .\n\ufeff\nchest CT with contrast:\nIMPRESSION:\n1. Substantial interval improvement of extensive left upper lobe mass, obstruction of the segmental bronchi of the left  upper lobe  and mediastinal lymphadenopathy as described.\n2. Right lower lobe segmental and subsegmental emboli.  No evidence of the right heart strain.\n3. Stable pulmonary nodules as well as pulmonary emphysema, mild asdescribed.\n\ufeff\nhead MRI:\nIMPRESSION: The previously metastatic lesions have decreased  in size and are less appreciated. No definite new lesions are seen.   \nOtherwise, the examination is stable since the previous MRI.\n\nThe main and right pulmonary arteries are normal in caliber, and there is no evidence of right heart strain.\n\ufeff\n"
+}

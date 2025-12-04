@@ -1,0 +1,29 @@
+{
+    "Chronic atrophic gastritis$Intermedia_4": {
+        "Endoscopy is the gold standard for the examination of gastritis$Cause_1": {
+            "Stomach:  chronic atrophic gastritis\r  \nDuodenum: Normal duodenum. \nOther findings: Mild duodenitis in the bulb\nOther findings: Mild duodenitis in the bulb$Input6": {}
+        },
+        "chronic gastritis$Intermedia_3": {
+            "Taking NSAIDS  as a risk factor for chronic gastritis$Cause_1": {
+                "Intermittently taking NSAIDS ___ tablets per day) and tylenol at home for headache.$Input2": {}
+            },
+            "suspected gastritis$Intermedia_2": {
+                "Nausea and vomiting are symptoms that may occur in patients with gastritis.$Cause_1": {
+                    "She states that she has had approximately 1 week of intermittent nausea and vomiting.$Input2": {}
+                },
+                "Epigastric abdominal pain is a symptom that may occur in patients with gastritis.$Cause_1": {
+                    "She also developed epigastric abdominal pain following this prolonged emesis.$Input2": {}
+                },
+                "!Nausea and vomiting are symptoms that may occur in patients with gastritis.$Cause_1": {
+                    "She is a ___ y/o female with depression/dysthymia, lumbar \nradiculopathy, morbid obesity, and endometriosis who presents with nausea and vomiting and a syncopal episode.$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "nausea/vomiting\n",
+    "input2": "She is a ___ y/o female with depression/dysthymia, lumbar \nradiculopathy, morbid obesity, and endometriosis who presents with nausea and vomiting and a syncopal episode. She states that she has had approximately 1 week of intermittent nausea and vomiting.  She underwent right S1 nerve root injection for radiculopathy and following this developed  worsening of n/v as well as new headache. Intermittently taking NSAIDS ___ tablets per day) and tylenol at home for headache. She was seen in the ED by neurology for headache, started on medrol dose pack (currently taking 16mg). She presented to ED on for severe nausea and vomitting with inability to tolerate PO. She also developed epigastric abdominal pain following this prolonged emesis. She also noted blood tinged emesis.  She denies loose stool, melana, hematochezia.  \n\nIn the ED, initial VS were AF, 59, 100/59, 16, 99%. After arriving to the ___ ED, she went to the bathroom in triage. She called for her husband who found her sitting on the floor. She denies any preceding symptoms but believes she vomited just prior to the episode. She was unable to recall if she lost conciousness. For evaluation of her nausea and vomiting with hematemesis: An NG lavage revealed a small amount of clot but cleared after less than 60 cc of normal saline. Her CBC was remarkable for a leukocytosis of 12.5 with a normal diff. Electrolytes were within normal limits. AST, ALT, TB, AP, albumin and lipase were all noted to be within normal limits. UA was notable for hematuria but this was believed to be after a foley placement. A quantitative serum hCG was < 5 and urine hCG was negative. She was also noted to be guaiac negative on exam. A CT abdomen and pelvis revealed no acute process. For evaluation of her syncope: an EKG revealed SR @ 71 with normal axis and no ischemic changes or underlying arrhythmia. She received Zofran total 8 mg IV and Dilaudid 1 mg IV. Vital signs at transfer were Temp: 98.3 \u00b0F (36.8 \u00b0C), Pulse: 83, RR: 18, BP: 120/59, O2Sat: 100, O2Flow: ra.\n",
+    "input3": "- Dysthymic disorder  \n- Arthralgias  \n- Hypercholesterolemia  \n- Endometriosis  \n- Ovarian Cyst  \n- Asthma  \n- Anxiety  \n- Lumbar radiculopathy\n",
+    "input4": "not obtained\n",
+    "input5": "VS:  99.4  99.4  126/76  HR:67  RR:18  O2: 92%RA\nGENERAL: female in NAD, asleep but arousable to voice\nHEENT: Sclera anicteric. MMM.   \nCARDIAC: RRR with no excess sounds appreciated \nLUNGS: CTA b/l with no wheezing, rales, or rhonchi.\nABDOMEN: soft, epigastric tenderness to palpation, no guarding \nEXTREMITIES:  Warm and well perfused, no clubbing or cyanosis. \nNEUROLOGY: face symmetric, tongue midline, EOMI, strength grossly intact bilaterally, asterixis\n",
+    "input6": "ADMISSION LABS\n___ 10:50PM BLOOD WBC-12.5* RBC-4.75 Hgb-14.4 Hct-41.7 MCV-88 MCH-30.2 MCHC-34.5 RDW-13.4 Plt ___\n___ 10:50PM BLOOD Neuts-68.7 ___ Monos-6.1 Eos-1.1 Baso-0.6\n___ 01:02AM BLOOD ___ PTT-29.2 ___\n___ 10:50PM BLOOD Glucose-108* UreaN-9 Creat-0.7 Na-135 K-3.4 Cl-95* HCO3-32 AnGap-11\n___ 10:50PM BLOOD ALT-16 AST-18 AlkPhos-39 TotBili-0.4\n___ 10:50PM BLOOD Lipase-21\n___ 10:50PM BLOOD cTropnT-<0.01\n___ 05:45AM BLOOD Calcium-8.5 Phos-3.1 Mg-1.8\n___ 10:56PM BLOOD Lactate-1.1\n\nMICRO\nBlood cx ___ no growth\nHELICOBACTER PYLORI ANTIBODY TEST (Final ___: NEGATIVE BY EIA.\n\nIMAGING\n-CT Abd/Pelvis No acute abdominal process\n-CT Head No acute intracranial process.\n-EGD Esophagus:  Other Erosive esophagitis of the distal third and GE junction. Small hiatal hernia. \nStomach:  chronic atrophic gastritis\r  \nDuodenum: Normal duodenum. \nOther findings: Mild duodenitis in the bulb\n"
+}

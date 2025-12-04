@@ -1,0 +1,50 @@
+{
+    "Submassive PE$Intermedia_4": {
+        "Despite the presence of pulmonary embolism, the heart's ability to pump blood has not been seriously affected. Excludes massive PE$Cause_1": {
+            "but otherwise hemodynamically stable$Input2": {}
+        },
+        "Right ventricular dilation and decreased function are the physiological responses of the right ventricle to pulmonary hypertension, which is a typical manifestation of PE.$Cause_1": {
+            "mild RV dilation, with main pulmonary artery dilated 3.6 cm.$Input2": {}
+        },
+        "Pressure or volume overload of the right ventricle, common in PE$Cause_1": {
+            "Mild right ventricular cavity dilation$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Directly shows the presence of pulmonary embolism. The location and severity of pulmonary embolism are related to the diagnosis of PE.$Cause_1": {
+                "moderate bilateral pulmonary emboli$Input2": {}
+            },
+            "This is a key indicator of PE, indicating increased pressure in the pulmonary circulation$Cause_1": {
+                "At least moderate pulmonary artery systolic hypertension$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Varicose veins increase the risk of venous thrombosis, particularly in the lower extremities, which may lead to pulmonary embolism$Cause_1": {
+                    "noticing \"phlebitis\" of the left lower leg$Input2": {}
+                },
+                "Dyspnea is one of the typical symptoms of pulmonary embolism.$Cause_1": {
+                    "worsening dyspnea$Input2": {}
+                },
+                "High blood pressure increases risk of pulmonary embolism$Cause_1": {
+                    "hypertension$Input3": {}
+                },
+                "Intermittent atrial tachycardia can cause irregular contractions of the atria, increasing the likelihood of blood clotting and clot formation, leading to pulmonary embolism$Cause_1": {
+                    "paroxysmal atrial tachycardia$Input3": {}
+                },
+                "Arrhythmia, a common symptom of PE$Cause_1": {
+                    "Irregular rhythm$Input5": {}
+                },
+                "Increased jugular venous pressure may be a sign of impaired right ventricular function, and PE can cause excessive pressure on the right ventricle, leading to jugular venous filling.$Cause_1": {
+                    "JVP ~8 cm at 45 deg$Input5": {}
+                },
+                "Abnormalities of the coagulation system, which in PE may result in increased consumption of clotting factors due to thrombus formation$Cause_1": {
+                    "PTT-150$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "She initially presented to her PCP early last week after noticing \"phlebitis\" of the left lower leg. This was thought to be related to her h/o varicose veins and so was advised to continue monitoring. At that time also had increased frequency of palpitations (with known history of paroxysmal a-tach) and so metoprolol was doubled and received Holter monitor. Later that week developed worsening dyspnea to the point that she was unable to walk across a parking lot without losing her breath. This was very unusual for her, as at baseline she is very active and had even completed a hiking trip. \n\ufeff\nHer PCP referred her where she was found to have be hypoxic but otherwise hemodynamically stable. Labs revealed D-dimer elevation 7.2, troponin-I elevation to 0.815, NT proBNP elevated at 2374. EKG showed normal sinus rhythm with anterior lateral TWI (V2-V6). CT chest showed moderate bilateral pulmonary emboli with the largest being in the right lower lobe, mild RV dilation, with main pulmonary artery dilated 3.6 cm.  Echocardiogram was obtained prior to transfer which was significant for positive sign, moderately dilated right ventricle, with moderately reduced RV function. LV function was normal.\n\ufeff\nShe was subsequently transferred where hospital course was notable for multiple episodes of SVT with rates into the 160s. Repeat troponin-T was reassuring at 0.02. ICU team was consulted for consideration thrombolytics which were felt to be unnecessary. Per family request, she was subsequently transferred for further evaluation.\n\ufeff\nUpon arrival to the ICU, she reports feeling overall well but continues to be mildly dyspneic. Did have mild episode of vague chest pain earlier last week but that has since resolved. No other new symptoms at this time. She thinks she is up to date onroutine cancer screening, including colonoscopy, Pap, and mammogram, though exact details are somewhat unclear and with further questioning is not entirely confident. No recent operations or significant immobilization. No family history of clotting disorders. No personal history of intracranial or other significant bleeding disorders.\n\ufeff\n10-point review of systems was negative except as detailed above.\n\ufeff\n",
+    "input3": "PAST MEDICAL HISTORY\n1. CARDIAC RISK FACTORS  \n+ hypertension\n\n2. CARDIAC HISTORY  \n+ paroxysmal atrial tachycardia\n\n3. OTHER PAST MEDICAL HISTORY \n+ remote history of L face melanoma s/p excision\n+ migraines\n+ varicose veins\n",
+    "input4": "No known family history of clotting or bleeding disorders.\n",
+    "input5": "Physical Exam:\nADMISSION PHYSICAL EXAM\nGENERAL: Well appearing woman in no acute distress. Comfortable.\nNEURO: AAOx3. Moving all four extremities with purpose.\nHEENT: NCAT. EOMI. MMM.\nCARDIAC: Irregular rhythm, normal rate. Normal S1/S2. No murmurs, rubs, or gallops. JVP ~8 cm at 45 deg.\nPULMONARY: Clear to auscultation bilaterally. Breathing comfortably on room air.\nABDOMEN: Soft, non-tender, non-distended.\nEXTREMITIES: Warm, well perfused, non-edematous. \nSKIN: No significant rashes.\n\ufeff\nGeneral: NAD, alert and interactive\nHEENT: Normocephalic, atraumatic. Sclera anicteric and without injection. \nNeck: Supple.\nLungs: CTAB, normal work of breathing.\nCV: Regular rhythm, normal rate. Audible S1 and S2. No murmurs/rubs/gallops.\nGI: Soft, non-tender, non-distended. Normal bowel sounds. No rebound or guarding.\nExt: Warm and well perfused. No peripheral edema. \nNeuro: AOx3\n\ufeff\n",
+    "input6": "Admission Labs:\n___ 09:00AM BLOOD WBC-11.1* RBC-4.83 Hgb-15.2 Hct-44.0 MCV-91 MCH-31.5 MCHC-34.5 RDW-13.3 RDWSD-44.7\n___ 09:00AM BLOOD Neuts-65.5 Monos-6.6 Eos-1.6 Baso-0.5 AbsNeut-7.28* AbsLymp-2.82 AbsMono-0.74 AbsEos-0.18 AbsBaso-0.06\n___ 09:00AM BLOOD PTT-150*\n___ 09:00AM BLOOD Glucose-100 UreaN-7 Creat-0.7 Na-141 K-3.4* Cl-103 HCO3-22 AnGap-16\n___ 09:00AM BLOOD CK-MB-4 cTropnT-<0.01\n___ 09:00AM BLOOD ALT-40 AST-37 LD(LDH)-360* AlkPhos-71 TotBili-1.1\n___ 09:00AM BLOOD Albumin-4.2 Calcium-9.2 Phos-2.2* Mg-2.\n\ufeff\nImaging:\nThoracic ECHO :\nThe patient is hemodynamically stable\nIMPRESSION: Mild right ventricular cavity dilation with basal hypokinesis and relative preservation of apical motion sign) and septal flattening during systole/diastole due to right ventricular pressure/volume overload. Normal left ventricular wall thickness, cavity size, and regional/global systolic function. Increased PCWP. Mild aortic regurgitation. Mild mitral regurgitation. Mild to moderate tricuspid regurgitation. At least moderate pulmonary artery systolic hypertension.\n\ufeff\nLower Extremity Doppler U/S:\nIMPRESSION:  \nNo evidence of deep venous thrombosis in the right or left lower extremity veins. \n\ufeff\nCXR on admission:\nLungs are hyperinflated but clear.  Heart size top-normal. No pleural abnormality. \n\ufeff\n"
+}

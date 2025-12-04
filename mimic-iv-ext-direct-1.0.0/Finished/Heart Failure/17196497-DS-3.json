@@ -1,0 +1,67 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Chest X-ray showed cardiomegaly and central vascular congestion, which are typical radiological manifestations of heart failure and reflect severe abnormalities of cardiac structure and function.$Cause_1": {
+                "CXR as OSH showed cardiomegaly with central vessel engorgement.$Input2": {}
+            },
+            "These eating habits may increase the workload on the heart and cause or aggravate heart failure.$Cause_1": {
+                "admit to eating fried foods, pizza, and other salty foods$Input2": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strong suspected heart failure.$Cause_1": {
+                    "proBNP-1191*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "SOB is the symptom of HF$Cause_1": {
+                        "Shortness of breath$Input1": {}
+                    },
+                    "Shortness of breath after even mild activity is a common symptom of heart failure and indicates that the heart's pumping ability may be impaired.$Cause_1": {
+                        "shortness of breath with light activity$Input2": {}
+                    },
+                    "A feeling of chest pressure that lasts from a few seconds to a few minutes and is often associated with heart disease, especially during physical activity$Cause_1": {
+                        "Associated with chest pressure, lasting anywhere from seconds to  minutes$Input2": {}
+                    },
+                    "The electrocardiogram showed ventricular pacing, which indicates that the patient may have abnormal cardiac electrophysiological function, which is more common in patients with heart failure.$Cause_1": {
+                        "ECG showed Vpaced with rate of 64$Input2": {}
+                    },
+                    "Long-term high blood lipids can increase the burden on the heart, promote the formation of atherosclerosis, and increase the risk of heart failure$Cause_1": {
+                        "Dyslipidemia$Input3": {}
+                    },
+                    "Hypertension causes the heart to be subjected to continuous high pressure, leading to myocardial thickening and dysfunction. It is one of the common causes of heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Mitral regurgitation causes blood to flow backward, increases the load on the left ventricle, and may cause or aggravate heart failure.$Cause_1": {
+                        "mitral regurgitation$Input3": {}
+                    },
+                    "Atrial fibrillation increases the risk of heart failure by reducing the heart's pumping efficiency and causing structural changes in the heart.$Cause_1": {
+                        "atrial fibrillation$Input3": {}
+                    },
+                    "Hypoxemia and nocturnal oxygen desaturation in OSA can increase cardiac workload and indirectly cause or worsen heart failure.$Cause_1": {
+                        "OSA$Input3": {}
+                    },
+                    "This may indicate that the heart is not pumping as well as it should, a classic sign of heart failure.$Cause_1": {
+                        "distant heart sounds$Input5": {}
+                    },
+                    "Heart murmurs are often associated with structural abnormalities in the heart, which may be a sign of heart valve disease, a common cause of heart failure.$Cause_1": {
+                        "III/ VI systolic murmur at the apex$Input5": {}
+                    },
+                    "This auscultatory finding usually indicates fluid accumulation in the lungs and is a sign of pulmonary congestion due to heart failure.$Cause_1": {
+                        "Bibasilar crackles$Input5": {}
+                    },
+                    "Lower limb edema is one of the symptoms of heart failure caused by insufficient heart pumping function and obstruction of fluid return.$Cause_1": {
+                        "1+ lower extremity edema bilaterally.$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "Pt presented due to having shortness of breath with light activity. At baseline patient says that he can walk up half a flight of stairs, however, the SOB has been going on for months and is now progressively worse. He has SOB with little exertion. \nAssociated with chest pressure, lasting anywhere from seconds to  minutes. Pressure is substernal but does not radiate. It is not associated with nausea or diaphoresis and does not feel like his prior MIs. Episodes of chest pressure are typically brought on with exertion although can happen at rest. They are releived with sitting down. When it occurs at rest it improves with burping or a glass of water. He does not take nitro. He does not measure his weight regularly and does not know his dry weight. He denies any increase in swelling, orthopnea. He denies any change in furosemide. He does admit to eating fried foods, pizza, and other salty foods.  He had an episode when walking from fishing with a friend to the car mile) and was very short of breath. His friend was concerned and told his wife. His symptoms on evening prior to presentation prompting him to go to OSH. OSH, pt received ASA 324mg. Trop 0.045. CXR as OSH showed cardiomegaly with central vessel engorgement.  Initial vitals were 97.4 60 128/90 18 97% 2L. ECG showed Vpaced with rate of 64. Labs significant for troponin of 0.05, Cr 1.3, INR 2.3. The spoke with atrius cardiology who recommended admit to cards. He received his home dose of 25 mg of metoprolol and was sent to the floor for further evaluation.\n",
+    "input3": "+ Dyslipidemia, \n+ Hypertension  \n+ mitral regurgitation  \n+ atrial fibrillation  \n+ OSA  \n+ colonic adenoma  \n+ generalized anxiety disorder  \n+ CKD, stage 3  \n+ glucose intolerance\n",
+    "input4": "Daughter Cancer\nMother CAD/PVD  \nSister CAD/PVD; Cancer - Breast\n",
+    "input5": "Physical Exam:\nAdmission exam:\n \nVS: 98.5 110-140/60-70 20 95% RA  \nGeneral: comfortable in NAD\nHEENT: sclera anicteric, MMM\nNeck: supple. JVP difficult to interpret given body habitus\nCV: RRR. distant heart sounds. III/ VI systolic murmur at the apex\nLungs: Bibasilar crackles\nAbdomen: +BS, soft, nontender, nondistended\nGU: no foley\nExt: 1+ lower extremity edema bilaterally.\nNeuro: A&Ox3. CN II-XII grossly intact. strenth in upper and lower extremities\n",
+    "input6": "Admission labs:\n\n06:52PM BLOOD WBC-7.9 RBC-4.90 Hgb-16.5 Hct-47.9 MCV-98 \nMCH-33.6* MCHC-34.4 RDW-15.0\n06:52PM BLOOD Glucose-150* UreaN-32* Creat-1.3* Na-144 \nK-4.7 Cl-101 HCO3-31 AnGap-17\n06:35AM BLOOD CK-MB-4 cTropnT-0.05* proBNP-1191*\n06:35AM BLOOD Calcium-9.7 Phos-3.0 Mg-2.2\n\nOverall left ventricular systolic function is probably moderately depressed (LVEF= 30 %) with global hypokinesis and regional inferior/infero-lateral,\n"
+}

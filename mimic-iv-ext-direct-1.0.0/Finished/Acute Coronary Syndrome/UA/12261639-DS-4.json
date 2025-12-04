@@ -1,0 +1,40 @@
+{
+    "UA$Intermedia_5": {
+        "Severe chest pain is symbol of ACS-UA.$Cause_1": {
+            "Patient reports 2 weeks of chest pressure, non-radiating, worsened by exertion and relieved by rest. It has progressed to the point where she has the chest discomfort with minimal exertion such as folding laundry. She reports some chest pressure at rest.$Input2": {}
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "ECG:non-ST-elevation$Input6": {}
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "ECG changes can be a sign of acs$Cause_1": {
+                    "An office EKG was done and showed new T wave inversion in V2(new from prior EKG.$Input2": {}
+                },
+                "slight cardiac structural abnormalities is a sign of acs$Cause_1": {
+                    "There is mild regional left ventricular systolic dysfunction with focal apical hypokinesis (clip 2). The remaining segments contract normally (LVEF >= 60 %).$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Severe chest pain is symbol of ACS$Cause_1": {
+                        "She reports substernal pressure brought on by exertion and relieved by rest that is occurring even with minimal exertion. It is associated with SOB.$Input2": {}
+                    },
+                    "Chest pain is a symptom of ACS$Cause_1": {
+                        "chest pain$Input1": {}
+                    },
+                    "CAD,DM AD are risk facts$Cause_1": {
+                        "Female w/ h/o CAD (IMI s/p x 2 BMS and s/p DES the proximal RCA), type I DM, and Addison's disease$Input2": {}
+                    },
+                    "family history is a risk fact$Cause_1": {
+                        "Father- MI$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "Female w/ h/o CAD (IMI s/p x 2 BMS and s/p DES the proximal RCA), type I DM, and Addison's disease presented to the ED 2 weeks of worsening chest pressure similar in quality to her prior angina pain. She reports substernal pressure brought on by exertion and relieved by rest that is occurring even with minimal exertion. It is associated with SOB. No radiation, no pleuritic or positional features. She presented to her endocrinologist Dr. on the AM. She told Dr. her exertional chest pain and she felt like she was experiencing chest pressure in the waiting room. An office EKG was done and showed new T wave inversion in V2(new from prior EKG. She took a SL nitro which relieved the pain. She was referred to the ED for further management. \n\nIn the ED initial vitals were: T97.8 64 135/62 16 100% RA  \nEKG: Sinus brady, new TWI in V1 and V2 \nLabs/studies notable for: Cr .9, BG 258, negative troponins x 1\nPatient was given: hep ggt, nitro ggt, ASA 325 mg and chest pain improved.\nVitals on transfer: HR 53 BP 119/57 15 98% \n \nOn the floor patient is comfortable and chest pain free on nitro drip. Patient reports 2 weeks of chest pressure, non-radiating, worsened by exertion and relieved by rest. It has progressed to the point where she has the chest discomfort with minimal exertion such as folding laundry. She reports some chest pressure at rest. The pressure is associated with SOB, lightheadedness. She denies diaphoresis, N/V. Patient reports recent weight gain of 15 lbs. She reports calf pain that occurs with walking more than 10 min which is relived by rest. She denies orthopnea, PND, ankle edema.\n\nREVIEW OF SYSTEMS:  \nCardiac review of systems is notable for absence paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope, or presyncope.  \n\nOn further review of systems, denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. Denies recent fevers, chills or rigors. All of the other review of systems were negative.\n",
+    "input3": "+Adrenal insufficiency\n+Gastroparesis \n+Appendectomy\n+Hernia surgery\n+Hypothyroidism\n",
+    "input4": "Father- MI\nBrother- \"does not go to the doctor\"\n",
+    "input5": "ADMISSION PHYSICAL EXAM: \n=======================\nVS:  T98 BP 143/66 HR 60 RR 14 100% RA  \nGENERAL: WDWN female in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  \n\nNECK: Supple with no JVD \nCARDIAC: PMI located intercostal space, midclavicular line. RR, normal S1, S2. No murmurs/rubs/gallops. No thrills, lifts. No chest wall ttp.\nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. No crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness.  \nEXTREMITIES: No c/c/e. No femoral bruits.  \nSKIN: well healing scab on left knee.  \nPULSES: 1+ DP pulses.\n",
+    "input6": "ADMISSION LABS: \n==============\n___ 05:00PM   GLUCOSE-258* UREA N-13 CREAT-0.9 SODIUM-136 POTASSIUM-4.3 CHLORIDE-100 TOTAL CO2-23 ANION GAP-17\n___ 05:00PM   estGFR-Using this\n___ 05:00PM   cTropnT-<0.01\n___ 05:00PM   CALCIUM-9.2 PHOSPHATE-3.8 MAGNESIUM-2.0\n___ 05:00PM   WBC-7.2 RBC-4.03 HGB-12.4 HCT-38.3 MCV-95 MCH-30.8 MCHC-32.4 RDW-13.1 RDWSD-45.8\n___ 05:00PM   NEUTS-66.0 MONOS-9.1 EOS-1.4 BASOS-1.0 AbsNeut-4.78 AbsLymp-1.61 AbsMono-0.66 AbsEos-0.10 AbsBaso-0.07\n___ 05:00PM   PLT COUNT-298\n___ 05:00PM   PTT-36.2\n\nIMAGING/STUDIES: \n================\n# CXR ___\nLungs are clear without focal consolidation.  No pleural effusion or pneumothorax is seen.  Cardiac and mediastinal silhouettes are stable.  The mediastinum is not widened.\n\n# CORONARY ANGIOGRAM ___:\nCoronary Anatomy\nDominance: Right\nThe LMCA had no angiographically apparent CAD. The LAD had mild luminal irregularities unchanged from prior. The Cx had no significant disease. The RCA had no significant stenosis with widely patent stents.\n\n# TTE ___:\nThe left atrium is normal in size. No atrial septal defect is seen by 2D or color Doppler. The estimated right atrial pressure is ___ mmHg. The left ventricular cavity size is normal. There is mild regional left ventricular systolic dysfunction with focal apical hypokinesis (clip 2). The remaining segments contract normally (LVEF >= 60 %). There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion.\n\nECG:non-ST-elevation\n"
+}

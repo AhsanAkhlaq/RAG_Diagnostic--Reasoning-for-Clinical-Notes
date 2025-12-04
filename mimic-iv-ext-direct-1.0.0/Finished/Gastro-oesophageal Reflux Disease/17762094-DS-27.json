@@ -1,0 +1,18 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET: 6.5% > 6% is the gold standard for gastro-oesophageal reflux \rdisease diagnosis$Cause_1": {
+            "Ambulatory reflux monitor :total AET:6.5% on pH-impedance monitoring$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Reflux is a typical symptom of gastro-oesophageal reflux \rdisease$Cause_1": {
+                "She notes that she frequently is experiencing reflux despite continuing to take her omeprazole.$Input2": {}
+            }
+        }
+    },
+    "input1": "Hiatal Hernia\n",
+    "input2": "s/p left robotic assisted thoracoscopic thymectomy and LUL wedge resection for a type AB thymoma with non malignant lung pathology. She has recently completed her maintenance chemotherapy for invasive T1 bladder cancer (h/o cystectomy with ileal conduit) and she also is now s/p laparoscopic parastomal hernia repair w/ mesh with Dr. . She is being followed for a LLL nodule which on CT chest showed stable 7 mm LLL nodule which is again unchanged on recent repeat T Chest and abdomen pelvis notes large hiatal hernia which has previously been remarked. Today in clinic patient denies any respiratory complaints with no recent coughs. She notes that she frequently is experiencing reflux despite continuing to take her omeprazole.\n",
+    "input3": "+Carotid stenosis \n+HLD\n+HTN\n+CAD/Stable angina\n+PNA (aspiration post-op\n+Thymoma\n+Arthritis\n+Gastritis/bleeding ulcers\n+Hiatal Hernia\n+CKD\n+depression  \n+anxiety  \n+Robotic-assisted thoracoscopic thymectomy and left upper lobe wedge resection for 13.2 cm type AB thymoma, completely encapsulated with focal invasion into capsule but not through it, modified Masaoka stage 1 with negative margins. The LUL wedge resection returned as lung parenchyma with emphysematous changes and focal smooth muscle metaplasia. \n+Small segmental nonocclusive PE after above procedure\n",
+    "input4": "Family history is negative for kidney cancer, bladder cancer.\n",
+    "input5": "Vitals: 97.7 115/41 53 18 94RA\nExam:\nGENERAL: Well appearing, NAD, \nHEENT: EOMI, MMM, no scleral icterus\nCV: RRR\nPULM: nonlabored breathing on RA\nABD: soft, NT/ND, lap incisions cdi \nNEURO: AOx3\nPSCYH: appropriate mood and affect\n",
+    "input6": "04:20AM BLOOD WBC-7.3 RBC-3.97 Hgb-11.1* Hct-35.5 MCV-89 MCH-28.0 MCHC-31.3* RDW-13.6 RDWSD-44.6 Plt\n04:20AM BLOOD Glucose-89 UreaN-25* Creat-1.4* Na-145 K-4.2 Cl-104 HCO3-25 AnGap-16\n04:20AM BLOOD Calcium-8.8 Phos-3.4 Mg-1.5*\nAmbulatory reflux monitor :total AET:6.5% on pH-impedance monitoring\n"
+}

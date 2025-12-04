@@ -1,0 +1,53 @@
+{
+    "Bacterial Pneumonia$Intermedia_4": {
+        "Identification of Gram-positive cocci for diagnosis of bacterial pneumonia$Cause_1": {
+            "GRAM POSITIVE COCCI$Input6": {}
+        },
+        "Pneumonia$Intermedia_3": {
+            "There are vague shadows in the base and left upper lobe, which may be a sign of pneumonia$Cause_1": {
+                "Bibasilar opacities as well as a left upper lobe opacity \nconcerning for pneumonia.$Input6": {}
+            },
+            "Suspected Pneumonia$Intermedia_2": {
+                "SoB is a common symptom of Pneumonia$Cause_1": {
+                    "shortness of breath$Input1": {}
+                },
+                "Headache, muscle/joint pain, runny nose, etc. may be early signs of infection$Cause_1": {
+                    "mild headache, myalgia/arthalgia, and runny nose w/ clear nasal discharge$Input2": {}
+                },
+                "The transition from a dry cough to a productive cough is a common symptom of pneumonia, indicating the possible presence of a lower respiratory tract infection.$Cause_1": {
+                    "developed some cough, which was initially non-productive but transitioned into productive cough w/ grayish and thick sputum$Input2": {}
+                },
+                "Acute dyspnea indicates that lung function may be severely compromised, which is common in pneumonia$Cause_1": {
+                    "acute SOB w/ walking for <10ft$Input2": {}
+                },
+                "Repeated fever and chills are signs of active infection in the body, often with severe infections such as pneumonia$Cause_1": {
+                    "subjective fever x3-4, chills$Input2": {}
+                },
+                "Her history of repeated pneumonia and intensive care admissions suggests she may be at higher risk for recurrence$Cause_1": {
+                    "been hosptialized for ___ ___ the past for pneumonia$Input2": {}
+                },
+                "IVIG is often used to treat immunodeficiency disorders, which may suggest that her immune system is weakened, increasing her risk of pneumonia.$Cause_1": {
+                    "currently on IVIG infusion every 3wks$Input2": {}
+                },
+                "People with COPD and asthma often have reduced lung function, making them more susceptible to infections, which may increase their risk of pneumonia.$Cause_1": {
+                    "Asthma/COPD$Input3": {}
+                },
+                "In pneumonia, these rales often indicate fluid accumulation in the lungs, a common sign of infection.$Cause_1": {
+                    "ilateral crackles appreciated at the bases$Input5": {}
+                },
+                "An increase in neutrophils may be an indicator of bacterial infection.$Cause_1": {
+                    "NEUTS-83.1$Input6": {}
+                },
+                "An elevated white blood cell count often indicates an infection.$Cause_1": {
+                    "WBC-14.5$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "shortness of breath\n",
+    "input2": "Her symptoms started about 10days ago w/ mild headache, myalgia/arthalgia, and runny nose w/ clear nasal discharge.  Her symptoms improved briefly for a day w/ tylenol, but over the next few days, she had increased fatigue, mild nausea w/o \nvomiting, and decreased appatite and po intake.  She also developed some cough, which was initially non-productive but transitioned into productive cough w/ grayish and thick sputum, no hemoptysis. One day PTA, she developed acute SOB w/ walking for <10ft, accompanied by some epigastric pain that radiates to her back, palpatations that lasted for several minutes, and significant wheezes which didn't resolve w/ nebs. She had subjective fever x3-4, chills, but no night sweats, chest pain, dysuria, hematuria, diarria, and constipation. She had no recent sick contacts, traveling outside of the ___.  She had two dogs and carpets at home but denied any allergies ___ the past. She had received her flu shot this year. \n \nOf note, patient had been hosptialized for ___ ___ the past for pneumonia, had been ___ the ICU 3x, and was septic for ___, but was never intubated.  Her last hospitalization was ___ ago for PNA.  She had no prior hx of MRSA. She is currently on IVIG infusion every 3wks, the next one is on ___.  She endorsed feeling weaker and getting sick more easily as she approaches the due date for the IVIG infusion, was considering switching to weekly infusion.\n",
+    "input3": "2) Asthma/COPD (FEV1 1.31, FVC 1.81; ___: never intubated  \n3) Recurrent bronchitis and sinusitis:  \n4) Diabetes Mellitus I (last HbA1c 11%): no known neuropathy, nephropathy.  \n5) Hypertension  \n6) Hypercholesterolemia  \n7) Anxiety  \n8) hypogammaglobulinemia: on IVIG (last ___  \n9) OSA on CPAP 8\n",
+    "input4": "Significant for HTN ___ mother and father, CAD, liver disease (grandparents)\n",
+    "input5": "Vitals: T98.2 P78 BP167/85 R18 O2sat 97%RA  \nGeneral: Alert, orientedx3, no acute distress  \nHEENT: Sclera anicteric, MMM, EOMI, PERRL, oropharynx clear  Neck: supple, JVP not elevated, no LAD  \nLungs: bilateral crackles appreciated at the bases (lower ___.  no egophany. no wheezes or rhonchi  \nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  \nAbdomen: soft w/o masses, non-tender, non-distended, + bowel sounds over all 4 quadrants, no rebound tenderness or guarding, no organomegaly  \nGU: no foley. no CVA tenderness.\nExt: Warm, well perfused, 2+ radial and ___ pulses, no clubbing, cyanosis or edema  \nSkin: no rash  \nNeuro: CN II-XII grossly intact.  speech fluent and moving all extremties.\n",
+    "input6": "___ 12:21PM   PLT COUNT-358\n___ 12:21PM   NEUTS-83.1* LYMPHS-10.9* MONOS-3.6 EOS-2.1 \nBASOS-0.3\n___ 12:21PM   WBC-14.5*# RBC-3.72* HGB-10.1* HCT-32.8* \nMCV-88 MCH-27.2 MCHC-30.8* RDW-14.1\n___ 12:21PM   UREA N-19 CREAT-1.0 SODIUM-137 POTASSIUM-5.3* \nCHLORIDE-99 TOTAL CO2-28 ANION GAP-15\n\nIMAGING STUDIES\n___ CHEST (PA & LAT)\nIMPRESSION: \nBibasilar opacities as well as a left upper lobe opacity \nconcerning for pneumonia. \n\nMICROBIOLOGY:\n___ SPUTUM (Expectorated) \n   GRAM STAIN (Final ___: \n      >25 PMNs and <10 epithelial cells/100X field. \n      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI. \n                                    ___ PAIRS AND CLUSTERS. \n      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S). \n\n   RESPIRATORY CULTURE (Preliminary): \n      SPARSE GROWTH Commensal Respiratory Flora. \n\n___ Respiratory Viral Antigen Screen (Final ___: \n      Less than 60 columnar epithelial cells;. \n      Specimen inadequate for detecting respiratory viral \ninfection by ___ testing.\n"
+}

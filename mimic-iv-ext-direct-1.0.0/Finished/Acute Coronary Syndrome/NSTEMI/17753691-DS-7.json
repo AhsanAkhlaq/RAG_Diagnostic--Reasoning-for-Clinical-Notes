@@ -1,0 +1,126 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "labs showed a 0.87 trop-i, w/ 0.9 Cr,$Input2": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L$Cause_1": {
+            "BLOOD CK-MB-7 cTropnT-0.23*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Epigastric pain is a symptom of ACS.$Cause_1": {
+                "Epigastric pain$Input1": {}
+            },
+            "DM is a risk fact of acs$Cause_1": {
+                "a Man w/ hx of DM on insulin w/ neuropathy- on lantus, HTN hx of non-compliance who presents w/ several weeks of epigastric pain that is sharp much worse since the yesterday.$Input2": {}
+            },
+            "presents w/ several weeks of epigastric pain that is sharp much worse since the yesterday. Patient reports pain has been present for the past several weeks worse with activit,\n are sign of acs$Cause_1": {
+                "presents w/ several weeks of epigastric pain that is sharp much worse since the yesterday. Patient reports pain has been present for the past several weeks worse with activit,$Input2": {}
+            },
+            "DMII is risk fact$Cause_1": {
+                "DMII$Input3": {}
+            },
+            "VITAMIN D DEFICIENC is risk fact$Cause_1": {
+                "VITAMIN D DEFICIENCY$Input3": {}
+            },
+            "HYPERLIPIDEMIA is risk fact$Cause_1": {
+                "HYPERLIPIDEMIA$Input3": {}
+            },
+            "family history\uff1aFather passed away from an MI is risk fact$Cause_1": {
+                "Father passed away from an MI$Input4": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The heart structure is abnormalwhich is a strongly sign of acs.$Cause_1": {
+                "2.Successful PTCA and stenting of totally occluded LAD with Resolute Integrtity drug-eluting stent (3.0x18 mm)$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Epigastric pain is a symptom of ACS.$Cause_1": {
+                    "Epigastric pain$Input1": {}
+                },
+                "DM is a risk fact of acs$Cause_1": {
+                    "a Man w/ hx of DM on insulin w/ neuropathy- on lantus, HTN hx of non-compliance who presents w/ several weeks of epigastric pain that is sharp much worse since the yesterday.$Input2": {}
+                },
+                "presents w/ several weeks of epigastric pain that is sharp much worse since the yesterday. Patient reports pain has been present for the past several weeks worse with activit,\n are sign of acs$Cause_1": {
+                    "presents w/ several weeks of epigastric pain that is sharp much worse since the yesterday. Patient reports pain has been present for the past several weeks worse with activit,$Input2": {}
+                },
+                "DMII is risk fact$Cause_1": {
+                    "DMII$Input3": {}
+                },
+                "VITAMIN D DEFICIENC is risk fact$Cause_1": {
+                    "VITAMIN D DEFICIENCY$Input3": {}
+                },
+                "HYPERLIPIDEMIA is risk fact$Cause_1": {
+                    "HYPERLIPIDEMIA$Input3": {}
+                },
+                "family history\uff1aFather passed away from an MI is risk fact$Cause_1": {
+                    "Father passed away from an MI$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "ekg showed inf t wave changes,$Input2": {}
+            },
+            "non-ST-elevation is a sign of NSTE-ACS.$Cause_1": {
+                "EKG demonstrated sinus at 87 Q in III, avf and lateral t-wave flattening similar to prior. The patient was continued on a heparin gtt.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Epigastric pain is a symptom of ACS.$Cause_1": {
+                    "Epigastric pain$Input1": {}
+                },
+                "DM is a risk fact of acs$Cause_1": {
+                    "a Man w/ hx of DM on insulin w/ neuropathy- on lantus, HTN hx of non-compliance who presents w/ several weeks of epigastric pain that is sharp much worse since the yesterday.$Input2": {}
+                },
+                "presents w/ several weeks of epigastric pain that is sharp much worse since the yesterday. Patient reports pain has been present for the past several weeks worse with activit,\n are sign of acs$Cause_1": {
+                    "presents w/ several weeks of epigastric pain that is sharp much worse since the yesterday. Patient reports pain has been present for the past several weeks worse with activit,$Input2": {}
+                },
+                "DMII is risk fact$Cause_1": {
+                    "DMII$Input3": {}
+                },
+                "VITAMIN D DEFICIENC is risk fact$Cause_1": {
+                    "VITAMIN D DEFICIENCY$Input3": {}
+                },
+                "HYPERLIPIDEMIA is risk fact$Cause_1": {
+                    "HYPERLIPIDEMIA$Input3": {}
+                },
+                "family history\uff1aFather passed away from an MI is risk fact$Cause_1": {
+                    "Father passed away from an MI$Input4": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs.$Cause_1": {
+                    "2.Successful PTCA and stenting of totally occluded LAD with Resolute Integrtity drug-eluting stent (3.0x18 mm)$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Epigastric pain is a symptom of ACS.$Cause_1": {
+                        "Epigastric pain$Input1": {}
+                    },
+                    "DM is a risk fact of acs$Cause_1": {
+                        "a Man w/ hx of DM on insulin w/ neuropathy- on lantus, HTN hx of non-compliance who presents w/ several weeks of epigastric pain that is sharp much worse since the yesterday.$Input2": {}
+                    },
+                    "presents w/ several weeks of epigastric pain that is sharp much worse since the yesterday. Patient reports pain has been present for the past several weeks worse with activit,\n are sign of acs$Cause_1": {
+                        "presents w/ several weeks of epigastric pain that is sharp much worse since the yesterday. Patient reports pain has been present for the past several weeks worse with activit,$Input2": {}
+                    },
+                    "DMII is risk fact$Cause_1": {
+                        "DMII$Input3": {}
+                    },
+                    "VITAMIN D DEFICIENC is risk fact$Cause_1": {
+                        "VITAMIN D DEFICIENCY$Input3": {}
+                    },
+                    "HYPERLIPIDEMIA is risk fact$Cause_1": {
+                        "HYPERLIPIDEMIA$Input3": {}
+                    },
+                    "family history\uff1aFather passed away from an MI is risk fact$Cause_1": {
+                        "Father passed away from an MI$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Epigastric pain\n",
+    "input2": "a Man w/ hx of DM on insulin w/ neuropathy- on lantus, HTN hx of non-compliance who presents w/ several weeks of epigastric pain that is sharp much worse since the yesterday. Patient reports pain has been present for the past several weeks worse with activit, improved with rest and increasing in frequency. Pain has been constant over the past week. He has also subsequently developed associated diaphoresis, dizziness and nausea without vomiting over the past weeks. He had new back pain also several weeks ago that starts in the back and goes  down toward his groin- it feel like muscle spasms to him but is now resolved. No chest pain during any of these episodes. He denies being sob. Denies leg pain or swelling. He went into hospital because he thought he was having ulcers and was expected some \"tums\" and being d/ced. However labs showed a 0.87 trop-i, w/ 0.9 Cr, and ekg showed inf t wave changes, abd labs were unremarkable, glu 279. he was given asa, heparin and nitro drips for hypertension. Transfer was attmpted to hospital where the pt has his pcp, but transfer was not possible.\n \nIn the ED, initial vitals were 94 122/83 13 99%. Labs were notable for a WBC of 14, trop of 0.1 with a normal CK-MB and INR of 1.2. EKG demonstrated sinus at 87 Q in III, avf and lateral t-wave flattening similar to prior. The patient was continued on a heparin gtt. Given metoprolol 25 mg and taken to the cath lab. \nThere he was given a plavix load, ASA, and bival. In the cath lab he was noted to have an extremely tight LAD (near complete occlusion) without evidence of collaterals. He underwent placement of a DES to the LAD with good restoration of flow. The procedure was complicated by a vagal event for which the patient recieved 1 mg of atropine and L fluid with improvement in blood pressure and heart rate.\n",
+    "input3": "+ DMII\n+ VITAMIN D DEFICIENCY  \n+ HYPERLIPIDEMIA  \n+ HYPERTENSION NOS\n",
+    "input4": "Father passed away from an MI\n",
+    "input5": "PHYSICAL EXAMINATION:  \nVS: T= 97.5 BP= 134/81 HR= 91 RR= 18 O2 sat= 99% RA  \nGENERAL: WDWN male in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were  pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  \n\ufeff\nNECK: Supple with JVP difficult to assess  \nCARDIAC: midclavicular line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nLUNGS:CTA ant  \nABDOMEN: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominal bruits.  \nEXTREMITIES: No c/c/e.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES:  \nRight: R TR band in place, 2+ DP  \nLeft: DP 2+ Radial 2+\n",
+    "input6": "ADMISSION:\n04:15PM BLOOD WBC-14.3* RBC-5.61 Hgb-16.7 Hct-47.8 \nMCV-85 MCH-29.7 MCHC-34.9 RDW-13.7\n04:15PM BLOOD Glucose-246* UreaN-12 Creat-0.7 Na-138 \nK-3.6 Cl-101 HCO3-27 AnGap-14\n\ufeff\nCARDIAC:\n0.87 tropI at OSH\n04:15PM BLOOD cTropnT-0.10*\n08:18AM BLOOD CK-MB-7 cTropnT-0.23*\n08:45AM BLOOD CK-MB-7 cTropnT-0.18*\n\ufeff\nCARDIAC:\nAssessment & Recommendations\n1.One vessel CAD\n2.Successful PTCA and stenting of totally occluded LAD with Resolute Integrtity drug-eluting stent (3.0x18 mm) \n\ufeff\nwith excellent result\n3.Successful removal of R radail sheath and placement of Terumo band\n4.Prasugrel 60 mg po given post procedure x mg daily for 12 months (option to switch to Clopidogrel in 3 months)\n5.ASA 325 mg po daily x minimum 3 months then 162 mg daily indefinitely\n\ufeff\n7.Cardiac rehab after submaximal ETT (to be arranged by PCP/cardiologist).\n\ufeff\nECG ON ADMISSION: sinus at 87 Q in III, avf and lateral t-wave flattening similar to prior.\n"
+}

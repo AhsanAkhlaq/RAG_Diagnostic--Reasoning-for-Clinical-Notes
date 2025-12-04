@@ -1,0 +1,54 @@
+{
+    "Hemorrhagic Stroke$Intermedia_3": {
+        "Computed tomography scan showed internal hemorrhage (ICH) near the right ventricle, direct evidence of intracerebral hemorrhage type stroke$Cause_1": {
+            "Stat CT had showed right ICH near lateral ventricle.$Input2": {}
+        },
+        "Acute bleeding is one of the typical symptoms of hemorrhagic stroke$Cause_1": {
+            "Acute hemorrhage involving the deep white matter abutting the right lateral ventricle measuring up to 1.8 cm with ventricular breakthrough and a small amount of acute hemorrhage layering dependently within the occipital horn of the right lateral ventricle.$Input6": {}
+        },
+        "Persistent or recurrent bleeding is a common clinical manifestation in patients with hemorrhagic stroke.$Cause_1": {
+            "Persistent acute hemorrhage$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "Left-sided weakness is one of the common symptoms of stroke$Cause_1": {
+                "left sided weakness$Input1": {}
+            },
+            "Facial droop, slurred speech, and mild aphasia are typical symptoms of stroke$Cause_1": {
+                "left facial droop, mild dysarthria, mild aphasia$Input2": {}
+            },
+            "Inability to lift both lower limbs is a common symptom of stroke$Cause_1": {
+                "inability to lift her bilateral lower extremities for 10 seconds$Input2": {}
+            },
+            "Extremely high blood pressure, especially systolic blood pressure above 170, which is a risk factor for stroke$Cause_1": {
+                "SBP was in the 170's$Input2": {}
+            },
+            "High blood pressure is a very important risk factor for stroke$Cause_1": {
+                "HYPERTENSION$Input3": {}
+            },
+            "Family history of stroke is an important factor$Cause_1": {
+                "STROKE$Input4": {}
+            },
+            "The patient is oriented only toward people, which may indicate a decreased level of cognition or consciousness, a potential sign of stroke$Cause_1": {
+                "She is alert and oriented to person only, does follow simple commands, naming of high-frequency objects intact.$Input5": {}
+            },
+            "Slurred speech is a common symptom of stroke$Cause_1": {
+                "she also sounds mildly dysarthric$Input5": {}
+            },
+            "Facial sagging is a classic symptom of stroke$Cause_1": {
+                "left facial droop$Input5": {}
+            },
+            "Loss of strength on one side of the body, especially when compared to the other side, is a common sign of stroke$Cause_1": {
+                "does appear slightly weak on the left when compared to the right$Input5": {}
+            },
+            "Vasculitis is a risk factor for stroke$Cause_1": {
+                "VASCULITIS$Input3": {}
+            }
+        }
+    },
+    "input1": "left sided weakness\n",
+    "input2": "She is a woman with a history of traumatic left subdural hematoma, left medial cerebellar hemorrhage. She most likely also has vascular dementia, Alzheimer's disease and mild parkinsonism who presents today with left sided weakness. Briefly, she was in her usual state of health until 50 years old when her husband helped her showering and noticed that she had left-sided weakness.  She called his daughter who came over and decision was made to brought her to hospital.\nAt ED her SBP was in the 170's. He had a NIHSS of 10 for left facial droop, mild dysarthria, mild aphasia, inability to lift her bilateral lower extremities for 10 seconds.  Stat CT had showed right ICH near lateral ventricle. \n\ufeff\nOn neuro ROS, the pt denies headache, loss of vision, blurred vision, diplopia, lightheadedness, vertigo, tinnitus or hearing difficulty.\n",
+    "input3": "+ LIVIDO RITICULARIS\n+ VASCULITIS\n+ HYPERTENSION\n+ OSTEOPOROSIS\n+ Dementia\n",
+    "input4": "Mother\nDIABETES MELLITUS\nHYPERTENSION\nPSORIASIS\nSTROKE\n\ufeff\nFather\nCORONARY ARTERY\nDISEASE of MI\n\ufeff\nComments: No family history of bleeding or clotting disorders or miscarriages.\n",
+    "input5": "Physical Exam:\n- General: Awake, cooperative, NAD.\n- HEENT: NC/AT\n- Neck: Supple\n- Pulmonary: no increased WOB\n- Cardiac: well perfused \n- Abdomen: soft, nontender, nondistended\n- Extremities: no edema, pulses palpated\n- Skin: no rashes or lesions noted.\n\ufeff\nNeurologic:\nMS: She is alert and oriented to person only, does follow simple commands, naming of high-frequency objects intact.  She speaks only a couple words per daughter his baseline, per daughter she also sounds mildly dysarthric.\n\ufeff\nCN: PERRL, EOMI, left facial droop,  sensation intact in V1 V2 V3, tongue protrudes midline\n\ufeff\nSensorimotor: Moves all extremities antigravity, does not participate in confrontational testing but does appear slightly weak on the left when compared to the right.  Withdraws briskly in all fours\n\ufeff\n",
+    "input6": "05:30AM BLOOD WBC-8.1 RBC-4.72 Hgb-14.0 Hct-43.3 MCV-92 MCH-29.7 MCHC-32.3 RDW-13.5 RDWSD-45.7\n05:30AM BLOOD Glucose-127* UreaN-22* Creat-0.6 Na-145 K-3.7 Cl-107 HCO3-22 AnGap-16\n06:57PM BLOOD ALT-<5 AST-18 AlkPhos-48 TotBili-0.2\n05:30AM BLOOD Calcium-9.3 Phos-2.1* Mg-2.3\n06:57PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG\n\ufeff\nCT head\nAcute hemorrhage involving the deep white matter abutting the right lateral ventricle measuring up to 1.8 cm with ventricular breakthrough and a small amount of acute hemorrhage layering dependently within the occipital horn of the right lateral ventricle.  Given the location this may be hypertensive in etiology. \n\ufeff\nCT Head\n1. Persistent acute hemorrhage involving the deep white matter abutting the right lateral ventricle, that appears relatively stable compared to prior CT head performed 1 day prior.  No evidence of shift of midline structures. \n2. Small amount of hemorrhage layering in occipital horn of the left lateral ventricle, without evidence of infarction, edema or new hemorrhage. \"\n"
+}

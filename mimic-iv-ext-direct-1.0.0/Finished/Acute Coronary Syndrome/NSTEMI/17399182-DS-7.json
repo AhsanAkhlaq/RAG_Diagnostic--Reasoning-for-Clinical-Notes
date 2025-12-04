@@ -1,0 +1,111 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "Seen at and was reportedly found to have a troponin of 4.55 (could have been trop I?).$Input2": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L$Cause_1": {
+            "BLOOD cTropnT-0.33*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest Pain is a symptom of ACS.$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "1 week of exertional angina and dyspnea. is a sign of acs$Cause_1": {
+                "man presents emergency room today with 1 week of exertional angina and dyspnea.$Input2": {}
+            },
+            "fistula (rectal) repair is a risk factor$Cause_1": {
+                "fistula (rectal) repair$Input3": {}
+            },
+            "hemorrhoids is a risk factor$Cause_1": {
+                "hemorrhoids$Input3": {}
+            },
+            "Family history:Mother with stroke and MI is a big risk factor$Cause_1": {
+                "Mother with stroke and MI$Input4": {}
+            },
+            "Family history:Sister with MI  is a big risk factor$Cause_1": {
+                "Sister with DM$Input4": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                "Mild to moderate aortic regurgitation is seen. The mitral valve leaflets are structurally normal. Moderate (2+) mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is a trivial/physiologic pericardial effusion.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "1 week of exertional angina and dyspnea. is a sign of acs$Cause_1": {
+                    "man presents emergency room today with 1 week of exertional angina and dyspnea.$Input2": {}
+                },
+                "fistula (rectal) repair is a risk factor$Cause_1": {
+                    "fistula (rectal) repair$Input3": {}
+                },
+                "hemorrhoids is a risk factor$Cause_1": {
+                    "hemorrhoids$Input3": {}
+                },
+                "Family history:Mother with stroke and MI is a big risk factor$Cause_1": {
+                    "Mother with stroke and MI$Input4": {}
+                },
+                "Family history:Sister with MI  is a big risk factor$Cause_1": {
+                    "Sister with DM$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "ECG:non-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "1 week of exertional angina and dyspnea. is a sign of acs$Cause_1": {
+                    "man presents emergency room today with 1 week of exertional angina and dyspnea.$Input2": {}
+                },
+                "fistula (rectal) repair is a risk factor$Cause_1": {
+                    "fistula (rectal) repair$Input3": {}
+                },
+                "hemorrhoids is a risk factor$Cause_1": {
+                    "hemorrhoids$Input3": {}
+                },
+                "Family history:Mother with stroke and MI is a big risk factor$Cause_1": {
+                    "Mother with stroke and MI$Input4": {}
+                },
+                "Family history:Sister with MI  is a big risk factor$Cause_1": {
+                    "Sister with DM$Input4": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "Mild to moderate aortic regurgitation is seen. The mitral valve leaflets are structurally normal. Moderate (2+) mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is a trivial/physiologic pericardial effusion.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest Pain is a symptom of ACS.$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "1 week of exertional angina and dyspnea. is a sign of acs$Cause_1": {
+                        "man presents emergency room today with 1 week of exertional angina and dyspnea.$Input2": {}
+                    },
+                    "fistula (rectal) repair is a risk factor$Cause_1": {
+                        "fistula (rectal) repair$Input3": {}
+                    },
+                    "hemorrhoids is a risk factor$Cause_1": {
+                        "hemorrhoids$Input3": {}
+                    },
+                    "Family history:Mother with stroke and MI is a big risk factor$Cause_1": {
+                        "Mother with stroke and MI$Input4": {}
+                    },
+                    "Family history:Sister with MI  is a big risk factor$Cause_1": {
+                        "Sister with DM$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "This is an otherwise healthy man presents emergency room today with 1 week of exertional angina and dyspnea. Seen at and was reportedly found to have a troponin of 4.55 (could have been trop I?). Started on heparin and given aspirin at OS, then transferred for higher level of care. \n\ufeff\nThe pt is accompanied by his son and daughter, whom are both college students. He is currently in the visiting his children and is in for 17 more days.  The son provided translation. The pt started having substernal chest pain 1 week ago, only with walking.  He has never had the pain at rest.  He denies accompanying symptoms, including diaphoresis, nausea, arm/jaw pain.\n",
+    "input3": "+ fistula (rectal) repair\n+ hemorrhoids\n",
+    "input4": "Mother with stroke and MI\nSister with DM\n",
+    "input5": "ADMISSION PHYSICAL EXAM:\n\ufeff\nVS:  1547 98.2 135/85 60 18 95 Ra \nGENERAL: WDWN. Pleasant. Accompanied by daughter and son. In NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  \n\ufeff\nNECK: Supple with no JVD. \nCARDIAC: PMI located in intercostal space, midclavicular \nline. RRR, normal S1, S2. No murmurs/rubs/gallops. No thrills, lifts.  \nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. No crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness.  \nEXTREMITIES: No c/c/e. No femoral bruits.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES: 2+ peripheral pulses\n",
+    "input6": "ADMISSION LABS:\n=====================\n01:45PM BLOOD WBC-7.2 RBC-5.59 Hgb-15.8 Hct-47.5 MCV-85 MCH-28.3 MCHC-33.3 RDW-12.6 RDWSD-39.2\n01:45PM BLOOD Neuts-73.5* Monos-5.7 \nEos-0.4* Baso-0.1 AbsNeut-5.29 AbsLymp-1.44 AbsMono-0.41 AbsEos-0.03* AbsBaso-0.01\n01:45PM BLOOD Glucose-102* UreaN-12 Creat-1.0 Na-139 K-4.2 Cl-101 HCO3-26 AnGap-16\n01:45PM BLOOD cTropnT-0.33*\n\ufeff\nCardiovascular ECHO:\nThe left atrial volume index is normal. No atrial septal defect is seen by 2D or color Doppler. Normal left ventricular wall thickness, cavity size, and global systolic function (3D LVEF = 55 %). Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis. Mild to moderate aortic regurgitation is seen. The mitral valve leaflets are structurally normal. Moderate (2+) mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is a trivial/physiologic pericardial effusion. \n\ufeff\nIMPRESSION: Normal biventricular cavity sizes with preserved regional and global biventricular systolic function. Mild-moderate aortic regurgitation. Moderate mitral regurgitation. Mild pulmonary artery systolic hypertension.\n\nECG:non-ST-elevation \n"
+}

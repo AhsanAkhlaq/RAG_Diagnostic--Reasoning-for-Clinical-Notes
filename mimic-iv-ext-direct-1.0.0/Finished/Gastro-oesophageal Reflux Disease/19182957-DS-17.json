@@ -1,0 +1,30 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET: 6.5% > 6% is the gold standard for gastro-oesophageal reflux \rdisease diagnosis$Cause_1": {
+            "Ambulatory reflux monitor :total AET:6.5% on pH-impedance monitoring$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Epigastric pain and back pain are typical and atypical symptoms of gastro-oesophageal reflux \rdisease.$Cause_1": {
+                "Her pain was constant, crampy, radiating to back, relievedare typical and atypical symptoms of gastro-oesophageal reflux \rdisease by 2 Tums.$Input2": {}
+            },
+            "Epigastric pain and nausea are typical and atypical symptoms of gastro-oesophageal reflux \rdisease.$Cause_1": {
+                "In the morning, the patient continued to have epigastric pain and also developed nausea.$Input2": {}
+            },
+            "Heratburn is a typical symptom of gastro-oesophageal reflux \rdisease.$Cause_1": {
+                "The patient was alert, awake, complaining of burning sensation.$Input2": {}
+            },
+            "!Epigastric abdominal pain is an atypical symptom of gastro-oesophageal reflux \rdisease.$Cause_1": {
+                "Epigastric abdominal pain$Input1": {}
+            },
+            "!Epigastric pain is an atypical symptom of gastro-oesophageal reflux \rdisease.$Cause_1": {
+                "A woman presents with complaints of epigastric pain$Input2": {}
+            }
+        }
+    },
+    "input1": "Epigastric abdominal pain\n",
+    "input2": "A woman presents with complaints of epigastric pain, and an episode of dizziness. Per patient, she developed pain in mid-epigastric region at 2am this morning when she went to sleep about 2 hours after she ate. Her pain was constant, crampy, radiating to back, relieved by 2 Tums. She also reported some difficulty in swallowing saliva. She states that this pain is exactly the same as during her prior frequent episodes of indigestion. She states that she had some chocolate ice cream prior to going to sleep, and that this may have precipitated the episode. The patient denies shortness of breath, subjective fevers, chills, nightsweats, melena, hematochezia. In the morning, the patient continued to have epigastric pain and also developed nausea. The patient stood up to go to the bathroom and got lightheaded, diaphoretic, saw 'black dots', felt the room spin. She denies LOC, falling. After urinating, the patient felt like she was going to pass out, could not get off the commode. She called her daughter, who called. The daughter assisted the patient to bed. EMS found her sitting up with BP 80/60. In the ED, initial vitals 97.9 84 86/62 16 98% RA. The patient was alert, awake, complaining of burning sensation. Blood pressure increased to with observation. On exam, there was no CVA tenderness, no edema, no focal neurological deficits. Guaiac was negative. Labs were unremarkable, first set of CEs negative. CXR was unremarkable. The patient received donnatol, lidocaine, simethacone with some relief of her abdominal pain. She also received 2L of IVF. After hydration, VS were 106/70, HR 80, RR10, O2 100% RA. EKG unremarkable, she was admitted for and rehydration. ROS was otherwise essentially negative.\n",
+    "input3": "+DM\n+Dyslipidemia\n+HTN \n+Atypical chest pain\n+slip cervical disk\n+migraine headache\n- EGD notable for chronic inflammation of esophagus. \n+No Barretts\n",
+    "input4": "Sister died from MI. No history of arrhythmia, cardiomyopathies. History of ovarian ca in a niece. Otherwise non-contributory.\n",
+    "input5": "Vitals: T: 97.2 BP: 112/75 P: 71 R: 18 SaO2: 100% RA  \nGENERAL: Pleasant, well appearing F in NAD  \nHEENT: Normocephalic, atraumatic. No conjunctival pallor. No \nscleral icterus. PERRLA/EOMI. MMM. OP clear. Neck Supple, No \nLAD, No thyromegaly.  \nCARDIAC: Regular rhythm, normal rate. Normal S1, S2. No murmurs, \nrubs. No JVD.  \nLUNGS: CTAB, good air movement biaterally. No reproducible tenderness to chest palpation  \nABDOMEN: NABS. Soft, NT, ND. No HSM  \nEXTREMITIES: No edema or calf pain, 2+ dorsalis pedis/ posterior \ntibial pulses.  \nSKIN: No rashes/lesions, ecchymoses.  \nNEURO: A&Ox3. Appropriate. CN grossly intact. Preserved sensation throughout. Strength throughout. reflexes, equal. Normal coordination. Gait assessment deferred  \nPSYCH: Listens and responds to questions appropriately, pleasant\n",
+    "input6": "11:20AM BLOOD WBC-6.4 RBC-4.41 Hgb-12.5 Hct-39.5 MCV-90 MCH-28.3 MCHC-31.7 RDW-12.6 Plt\n11:20AM BLOOD  PTT-26.2\n11:20AM BLOOD Glucose-105 UreaN-10 Creat-1.0 Na-139 K-5.5* Cl-105 HCO3-26 AnGap-14\n11:20AM BLOOD ALT-12 AST-36 CK(CPK)-114 AlkPhos-49 TotBili-0.4\n11:20AM BLOOD Lipase-32\n06:50AM BLOOD Calcium-8.9 Phos-3.8 Mg-2.2\n11:20AM BLOOD Albumin-4.1\n\nCardiac Enzymes:\n\n11:20AM BLOOD CK-MB-2 cTropnT-<0.01\n09:10PM BLOOD CK-MB-NotDone cTropnT-<0.01\n06:50AM BLOOD CK-MB-NotDone cTropnT-<0.01\n11:20AM BLOOD CK(CPK)-114 \n09:10PM BLOOD CK(CPK)-75\n06:50AM BLOOD CK(CPK)-66\n\nCXR : No acute cardiopulmonary abnormality.\nAmbulatory reflux monitor :total AET:6.5% on pH-impedance monitoring\n"
+}

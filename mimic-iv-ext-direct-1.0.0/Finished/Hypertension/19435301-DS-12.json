@@ -1,0 +1,24 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "BP there was elevated, 140/100.$Input1": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "BP was elevated for the first time (150/100 per pt)$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.**$Cause_1": {
+            "BPs 160/111, 155/96, 141/100, 148/97, 131/98, 126/87$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Headache is a classic symptoms of Hypertension.$Cause_1": {
+                "Headache$Input1": {}
+            }
+        }
+    },
+    "input1": "Headache\uff0cBP there was elevated, 140/100.\n",
+    "input2": "On arrival to triage, pt reports a HA which started when she\narrived to Dr ___. Prior to this, she denies any recent HA. She denies visual changes. Reports some right sided abd pain which she's had for a couple months. c/o intermittent nausea, no recent vomiting. Pt states she was seen by her midwife\nin ___ yesterday and her BP was elevated for the first time (150/100 per pt). Labs and urine were sent and pt was told\nthey were normal.\n",
+    "input3": "LR Panorama\nFFS post placenta\nISSUES:\n",
+    "input4": "+ for MI in maternal grandfather.  MGM with hypothyroidism and elevated cholesterol\n",
+    "input5": "Gen: well-appearing, NAD\nVS: T 98.1, HR 85, RR 18\nBPs 160/111, 155/96, 141/100, 148/97, 131/98, 126/87\nLungs: CTAB\nHeart: RRR\nAbd: soft, gravid, NT; no RUQ tend\nExt: no edema, 3+ DTRs\n___: 140s, mod var, +accels, no decels\nTOCO: no ctxs\n\nU/S (at ___):\ncephalic, partial post previa, BPP ___, EFW 1833g(61%)\n",
+    "input6": "___ 02:56PM URINE  HOURS-RANDOM\n___ 02:56PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG \ncocaine-NEG amphetmn-NEG mthdone-NEG\n___ 12:51PM   CREAT-0.6\n___ 12:51PM URINE  HOURS-RANDOM CREAT-18 TOT PROT-<6\n___ 12:51PM   WBC-7.8 RBC-3.63* HGB-11.3* HCT-32.3* MCV-89 \nMCH-31.2 MCHC-35.1* RDW-14.7\n"
+}

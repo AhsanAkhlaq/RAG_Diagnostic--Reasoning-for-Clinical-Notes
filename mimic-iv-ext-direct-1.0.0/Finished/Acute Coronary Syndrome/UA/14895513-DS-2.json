@@ -1,0 +1,96 @@
+{
+    "UA$Intermedia_5": {
+        "a worsening pressure like sensation on the left side of his chest with assocated left jaw numbess and left arm pressure.\n is sign of acs-ua$Cause_1": {
+            "Pt states that he's developed a worsening pressure like sensation on the left side of his chest with assocated left jaw numbess and left arm pressure.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "PMH of HTN/HLD presented to ED w/ chest pain are risk fact of acs$Cause_1": {
+                "w/ PMH of HTN/HLD presented to ED w/ chest pain,$Input2": {}
+            },
+            "HTN is risk fact$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "HLD is risk fact$Cause_1": {
+                "HLD$Input3": {}
+            },
+            "family history:CAD multiple members on maternal side can be a risk fact$Cause_1": {
+                "CAD multiple members on maternal side$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "slight cardiac structural abnormalities:The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen.  is a sign of acs$Cause_1": {
+                "The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "PMH of HTN/HLD presented to ED w/ chest pain are risk fact of acs$Cause_1": {
+                    "w/ PMH of HTN/HLD presented to ED w/ chest pain,$Input2": {}
+                },
+                "HTN is risk fact$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "HLD is risk fact$Cause_1": {
+                    "HLD$Input3": {}
+                },
+                "family history:CAD multiple members on maternal side can be a risk fact$Cause_1": {
+                    "CAD multiple members on maternal side$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS.$Cause_1": {
+                "EKG was without ischemic changes.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "PMH of HTN/HLD presented to ED w/ chest pain are risk fact of acs$Cause_1": {
+                    "w/ PMH of HTN/HLD presented to ED w/ chest pain,$Input2": {}
+                },
+                "HTN is risk fact$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "HLD is risk fact$Cause_1": {
+                    "HLD$Input3": {}
+                },
+                "family history:CAD multiple members on maternal side can be a risk fact$Cause_1": {
+                    "CAD multiple members on maternal side$Input4": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "slight cardiac structural abnormalities:The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen.  is a sign of acs$Cause_1": {
+                    "The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "PMH of HTN/HLD presented to ED w/ chest pain are risk fact of acs$Cause_1": {
+                        "w/ PMH of HTN/HLD presented to ED w/ chest pain,$Input2": {}
+                    },
+                    "HTN is risk fact$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "HLD is risk fact$Cause_1": {
+                        "HLD$Input3": {}
+                    },
+                    "family history:CAD multiple members on maternal side can be a risk fact$Cause_1": {
+                        "CAD multiple members on maternal side$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "w/ PMH of HTN/HLD presented to ED w/ chest pain, ruled out for ACS, but had positive stress test so was admitted to for cardiac catheterization. \n\ufeff\nPt states that he's developed a worsening pressure like sensation on the left side of his chest with assocated left jaw numbess and left arm pressure. No palpitations, N&V, ABD pain, diaphoresis, recent illness, fevers/chills. Pt states he's had similar chest pains for the last two years but its frequency/intensity has increased in the past few weeks and was especially bothersome night of admission.\n\ufeff\nPt states he gets winded when walking up incline but had difficulty quantifying ET. He did noted that he only ever has the pain at rest, never while exercising (he does calisthenics). There is a mild positional component wherein it is worse lying down and he sits up for some relief. Though not any association w/ prodromal URI, SOB, dyspnea. Never smoker. Alcohol socially. Of note, patient had a negative stress test , completing 7:00 of protocol. \n\ufeff\nIn the ED, initial VS were: 97.4 72 132/88 18 97% RA. EKG was without ischemic changes. Labs were significant for CBC (within normal limits), CHEM wnl, troponin negative x2. UA negative for infection. CXR showed mild pulmonary vascular congestion and bibasilar atelectasis in the setting of low lung volumes. \n\ufeff\nAspirin 324 given. Patient stayed for ETT which was terminated for chest discomfort at min 4.5 with 0.5 mm horizontal STD V4-V6 and drop in BP with total METs. CP resolved with rest. Given high risk stress test findings of chest discomfort and drop in BP at a low workload, admitted to hospital for urgent cath tomorrow. On arrival to the floor, patient was stable. He conversed easilly and confirmed the above history. He denies currently having any chest pain.\n",
+    "input3": "+ HTN\n+ HLD\n+ GERD\n+ COPD\n",
+    "input4": "CAD multiple members on maternal side\n",
+    "input5": "Admission Exam:\nVitals:98.0 68 122/72 18 95%RA\nGeneral: Elderly male in no acute distress, sitting in bed comfortably, pleasant\nNEURO: PERRL, AAOx3, moving all extremities\nHEENT: NCAT, MMM, no lymphadenopathy, no JVD\nCV: RRR without MRG, S1 and S2 normal\nLUNGS: CTAB without increased WOB, no tachypnea\nABD: NTND, BS+, soft\nEXT: WWP, trace edema below knees bilaterally\n",
+    "input6": "Admission Labs:\n05:53PM BLOOD WBC-7.3 RBC-4.71 Hgb-14.2 Hct-41.2 MCV-88 MCH-30.1 MCHC-34.5 RDW-13.0 RDWSD-41.4\n05:53PM BLOOD Neuts-60.8 Monos-9.5 Eos-1.5 \nBaso-0.5 Im AbsNeut-4.43 AbsLymp-2.00 AbsMono-0.69 AbsEos-0.11 AbsBaso-0.04\n05:53PM BLOOD Glucose-105* UreaN-21* Creat-1.0 Na-143 K-4.2 Cl-105 HCO3-25 AnGap-17\n05:53PM BLOOD cTropnT-<0.01\n07:40AM BLOOD Calcium-9.3 Phos-3.0 Mg-2.0\n\ufeff\nImaging:\nTTE\nThe left atrium is elongated. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion. IMPRESSION: Normal global and regional biventricular systolic \nfunction. \n\ufeff\nCXR showed mild pulmonary vascular congestion and bibasilar atelectasis in the setting of low lung volumes. \n\ufeff\nETT stress\nTerminated for chest discomfort at min 4.5 with 0.5 mm horizontal STD V4-V6 and drop in BP with total METs. CP resolved with rest\n\ufeff\nCardiac Catheterization\nLMCA was patent, LAD had mild plaquing proximally to 20% after S1. diagnoal branch had slow flow. Mid LAD had 40% stenosis just after D1, followed by a tapering (likely recanalized) total occlusion with TIMI 1 flow into the lesion and essentially TIMI 0 flow w/ faint contrast retention beyone from competitive flow from right to left collaterals. Ramus intermedius had mild plaquing and slightly delayed pulsatile flow. LCx was patent, RCA not imaged. LAD had drug eluting stent placed.\n"
+}

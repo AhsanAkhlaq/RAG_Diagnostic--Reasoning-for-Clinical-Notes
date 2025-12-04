@@ -1,0 +1,38 @@
+{
+    "chronic non-atrophic gastritis$Intermedia_4": {
+        "Linear erythema in the gastric antrum, consistent with mild gastritis$Cause_1": {
+            "Linear erythema in the antrum compatible with mild gastritis$Input6": {}
+        },
+        "chronic gastritis$Intermedia_3": {
+            "Abdominal discomfort after meals that persists for many months and is accompanied by unintentional weight loss. These symptoms may be a sign of chronic gastritis, which can cause problems with food digestion and absorption, which can lead to weight loss.$Cause_1": {
+                "many months of post-prandial abdominal discomfort and some unintentional weight loss$Input2": {}
+            },
+            "suspected gastritis$Intermedia_2": {
+                "Abdominal pain may be a symptom of gastritis$Cause_1": {
+                    "abdominal pain$Input1": {}
+                },
+                "General malaise, constipation, nausea, vomiting, anorexia, and chills. These symptoms indicate that the patient may have gastric dysfunction, which is consistent with the clinical manifestations of chronic gastritis.$Cause_1": {
+                    "malaise, constipation, nausea, vomitting, anorexia, and chills$Input2": {}
+                },
+                "Patients are unable to eat due to anorexia. Anorexia is a common symptom of chronic gastritis and may be caused by inflammation and discomfort in the stomach.$Cause_1": {
+                    "unable to eat frequent meals due to anorexia$Input2": {}
+                },
+                "The patient still has significant malaise and anorexia. These persistent symptoms further support the possibility of chronic gastritis.$Cause_1": {
+                    "Currently she notes a significant amount of malaise and anorexia$Input2": {}
+                },
+                "The stool occult blood test is positive. Positive occult blood may be due to microbleeding caused by chronic inflammation or erosion of the gastric mucosa.$Cause_1": {
+                    "guaiac positive stool$Input2": {}
+                },
+                "There are clear tender points, mainly concentrated near the ribs. Pain in the left upper abdominal area is one of the common symptoms of chronic gastritis because this area is close to the stomach.$Cause_1": {
+                    "tenderness in the LUQ, mostly around ribs and on ribs.$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "abdominal pain\n",
+    "input2": "She reports many months of post-prandial abdominal discomfort and some unintentional weight loss. Approximately 9 days prior to admission (the ___ before ___ she developed malaise, constipation, nausea, vomitting, anorexia, and chills. She was unable to eat frequent meals due to anorexia and was seen by her PCP. A KUB suggested no obstruciton and she was encouraged to take laxatives and suppositories. She was then able to move her bowels and had ___ blood bowel movements 2 days prior to admission. \n\nShe re-presented to her PCP and was noted to be orthostatic and had guaiac positive stool on exam. She was then referred to the ___ ED.\n\nCurrently she notes a significant amount of malaise and anorexia. She had no more vomitting and has had no bowel movements for 48 hours. \n\nVital signs on arrival to ___ ED: T 99.0, P 70, BP 121/87, 99% on arrival to ___ ED. Her evaluation in the ED was notable for guaiac positive stool. In the ED she received 8mg of morphie.\n\nReview of Systems: Pain assessment on arrival to the floor: ___ (LUQ pain). She recently had \"scarlet fever\" and was on \nantibiotics for this. No SOB, cough, or chest pain. No urinary symptoms. No vaginal symptoms. No skin changes. No arthralgias or joint swelling. Other systems reviewed in detail and all otherwise negative.\n",
+    "input3": "Celiac disease\nvitiligo\nanxiety and depression\npossible diagnosis of endometriosis\nvitamin D deficiency\n",
+    "input4": "Not relevant to the current admission.\n",
+    "input5": "Gen: Well-appearing in NAD.  \nHEENT: Oropharynx clear w/out lesions.  \nNeck: Supple.  \nChest: Normal respirations and breathing comfortably on room \nair. Lungs clear to auscultation bilaterally.  \nCV: PMI normal size and not displaced. Regular rhythm. Normal \nS1, S2. No murmurs or gallops. JVP <5 cm.  \nAbdomen: Normal bowel sounds. She has point tenderness in the LUQ, mostly around ribs and on ribs. No lower quadrant \ntenderness. No peritoneal signs.  \n\nPelvic: No external lesions. No discharge. Bimanual exam \ncompletely without pain.  \nExtremities: No ankle edema.  \nMSK: Joints with no redness, swelling, warmth, tenderness. \nNormal ROM in all major joints.  \nSkin: No lesions, bruises, rashes.  \nNeuro: Alert, oriented x3. Good fund of knowledge. Able to \ndiscuss current events and memory is intact. CN ___ intact. \nSpeech and language are normal.  \nPsych: Appearance, behavior, and affect all normal.\n",
+    "input6": "___ 05:00PM   GLUCOSE-87 UREA N-13 CREAT-0.7 SODIUM-140 \nPOTASSIUM-4.1 CHLORIDE-102 TOTAL CO2-27 ANION GAP-15 \nALT(SGPT)-17 AST(SGOT)-21 ALK PHOS-52 TOT BILI-0.8 LIPASE-35 \nALBUMIN-4.6\n___ 05:00PM   WBC-8.6 (NEUTS-76.5* LYMPHS-14.8* MONOS-3.8 \nEOS-3.9 BASOS-1.0) RBC-4.40 HGB-13.7 HCT-38.5 MCV-87 MCH-31.1 \nMCHC-35.5* RDW-12.3 PLT COUNT-171\n___ 08:45PM URINE  UCG-NEGATIVE\n___ 08:45PM URINE  COLOR-Yellow APPEAR-Clear SP ___ \nBLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-40 \nBILIRUBIN-NEG UROBILNGN-0.2 PH-5.5 LEUK-TR RBC-1 WBC-1 \nBACTERIA-MOD YEAST-NONE EPI-3 MUCOUS-OCC\n.\nMRI (___): IMPRESSION:  \n1. No focal abnormality identified on MR to account for \n___  \nsymptomatology.  \n2. Stable prominence of the mesenteric veins draining the \njejunum in the left upper quadrant. No thrombus or new \ncollaterals are seen. No mesenteric venous thrombosis. The SMA \nand celiac axis remain patent.  \n3. Visualized bowel loops in the upper abdomen are non-dilated but without apparent abnormality.  \n.  \nEGD (___):  \nLinear erythema in the antrum compatible with mild gastritis \n(biopsy)  \nDuodenum appeared normal. (biopsy)  \nOtherwise normal EGD to third part of the duodenum\n"
+}

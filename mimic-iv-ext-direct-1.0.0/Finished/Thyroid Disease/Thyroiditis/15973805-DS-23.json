@@ -1,0 +1,27 @@
+{
+    "Thyroiditis$Intermedia_3": {
+        "High levels of TPOAb is a classic sign of thyroid autoimmune disease$Cause_1": {
+            "Thyroid antibody test shows high levels of TPOAb.$Input6": {}
+        },
+        "Ultrasound examination revealed enlargement of the thyroid gland with heterogeneous internal structure and multiple hypoechoic areas, which are also typical ultrasonic features of thyroiditis.$Cause_1": {
+            "The internal echo of the thyroid tissue is uneven and there are multiple hypoechoic areas.$Input6": {}
+        },
+        "Suspected Thyroid disease$Intermedia_2": {
+            "Enlargement of the thyroid gland, a common symptom of thyroiditis$Cause_1": {
+                "presented with a goiter$Input2": {}
+            },
+            "Compression symptoms may be caused by enlargement of the thyroid gland causing compression of surrounding tissues or structures$Cause_1": {
+                "she was having compressive symptoms$Input2": {}
+            },
+            "TTP may be a symptom of thyroiditis$Cause_1": {
+                "TTP on right aspect of neck$Input5": {}
+            }
+        }
+    },
+    "input1": "Goiter causing compressive symptoms.\n",
+    "input2": "This young woman with a history of pulmonary emboli presented with a goiter and she was having compressive symptoms.  Preoperatively, she was cautioned that removal of this goiter might not in fact alleviate her pressure symptoms completely, but nevertheless, she felt obliged to undergo the operation.  Her Coumadin was tapered down so that her INR yesterday was 2.1, and I gave her smaller dose than normal, but today, when she showed up, her INR was 1.2.  we therefore gave her mini heparin and the boots and will give her loading dose of Coumadin again this evening.\n",
+    "input3": "+ PMH: PSA, PE on Coumadin, Mood Disorder, GAD, Somatoform Disorder, Facticitious Disorder, Opiate, Benzo and EtOH abuse, Borderlin PD, moderate aortic stenosis\n\ufeff\n+ PSH: Rotator Cuff Repair c/b infection, Left Brachiocephalic Vein Stenosis s/p stent\n",
+    "input4": "Per doctor note and updated with patient:\nson with bipolar (not on medications)\ndaughter with bipolar (on meds) \nson with depression\n",
+    "input5": "Physical Exam:\nGEN: A&O, NAD\nHEENT: No scleral icterus, mucus membranes moist, incision site c/d/i, TTP on right aspect of neck, no surrounding erythema or swelling\nCV: RRR, No M/G/R\nPULM: Clear to auscultation b/l, No W/R/R\nABD: soft, nondistended, nontender, no rebound or guarding\n",
+    "input6": "___ 07:11AM BLOOD\n___ 11:15AM BLOOD\n___ 07:11AM BLOOD\n___ 11:15AM BLOOD\n___ 07:11AM BLOOD Calcium-7.9*\n\nThyroid antibody test shows high levels of TPOAb.\n\nUltrasound: The internal echo of the thyroid tissue is uneven and there are multiple hypoechoic areas.\n"
+}

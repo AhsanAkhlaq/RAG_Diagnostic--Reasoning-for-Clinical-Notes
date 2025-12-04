@@ -1,0 +1,36 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "SBP 200$Input1": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "initial vitals were BP 262/75$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.**$Cause_1": {
+            "VS: BP=148/99$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Elderly age is an important risk factor for Hypertension,and female have a higher risk.$Cause_1": {
+                "52 y/o lady$Input2": {}
+            },
+            "Family history is a big risk factor of Hypertension.$Cause_1": {
+                "+Diabetes$Input3": {}
+            },
+            "Headache is a classic symptoms of Hypertension.$Cause_1": {
+                "headache$Input2": {}
+            },
+            "Clonidine is a type of hypotensive drug,indicates that the patient may have Hypertension,which is a risk factor.$Cause_1": {
+                "received clonidine 0.1 mg oral$Input2": {}
+            },
+            "Family history of cardiovascular disease is a big risk factor of Hypertension.$Cause_1": {
+                "Father and Brother died of MI.$Input4": {}
+            }
+        }
+    },
+    "input1": "SBP 200\n",
+    "input2": "52 y/o lady with CAD s/p CABG, DM2, dyslipidemia, and PVD went to her dermatology out patient appointment today.  She was found to have elevated SBP to 200s.  She was sent to the ED.  \n\nPatient denies any chest pain, SOB, palpiations, PND, orthopnea, nausea, vomitting, abd pain, diarrhea, constipation, fever, chills, nightsweats, cough, cold or dysuria.  Patient had mild headache this AM which worsened with nitro drip in ED and resolved with tylenol.  She denies any new change in vision, hearing, dizziness, lightheadedness, weakness, or change in sensation.  Her functional status is limited by chronic back pain.\n\nIn the ED, initial vitals were  T 97.9  BP 262/75  RR 18 96% in RA.  Patient was intially placed on nitro paste which was quickly switched to nitro gtt.  Patient also received clonidine 0.1 mg oral, ASA 325 mg.\n",
+    "input3": "+Diabetes\n+Dyslipidemia\n+PVD\n+glaucoma, cataracts\n+herniated disc\n+eczema\n+GERD\n+diverticulitis\n+varicose veins\n",
+    "input4": "Father died of MI. Brother died of MI.\n",
+    "input5": "VS: T=98.3 BP=148/99 HR=51 RR=18 O2 sat=95% RA  \nGENERAL: Pleasant lady in NAD. Mood, affect appropriate.  Following commands\nHEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \nNECK: JVP not elevated\nCARDIAC: normal S1, S2. No m/r/g.   \nLUNGS: Bibasilar crackles \nABDOMEN: Soft, NTND. \nEXTREMITIES: WWP, trace edema  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nNEURO: CN II-XII grossly intact, sensation is intact, strength b/l\n",
+    "input6": "CXR PA/Lat ___:\nCardiomegaly with eventration of the posterior aspect of the left hemidiaphragm. No acute pulmonary process. \n\nNSR, rate ___, nl axis, IVCD, prolonged PR, LVH, left atrial abnormality.\n"
+}

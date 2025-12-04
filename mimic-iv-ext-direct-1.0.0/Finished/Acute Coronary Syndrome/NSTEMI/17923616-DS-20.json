@@ -1,0 +1,93 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "BLOOD CK-MB-14* MB Indx-7.0* cTropnT-0.65*$Input6": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "BLOOD CK-MB-33* MB Indx-9.3* cTropnT-0.59*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest Pain is a symptom of ACS.$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "hyperlipidemia is arisk fact and Chest Pain is a symptom of ACS.$Cause_1": {
+                "He is a gentleman with hyperlipidemia who presented to the ED with chest pain while walking to work yesterday evening.$Input2": {}
+            },
+            "The pain radiated down his left arm and was associated with diaphoresis. The pain improved with rest but came back at work a few more times. is a symptom of ACS.$Cause_1": {
+                "The pain radiated down his left arm and was associated with diaphoresis. The pain improved with rest but came back at work a few more times.$Input2": {}
+            },
+            "Hyperlipidemia is a risk factor$Cause_1": {
+                "+ Hyperlipidemia$Input3": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "high hs-cTn is a strong value for ACS$Cause_1": {
+                "In the ED, the patient was found to have elevated troponin with TWI in V2-V6.$Input2": {}
+            },
+            "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                "he was found to have a 90% LAD lesion and 90% ramus lesion, for which he received DES to each. He had a 60% distal RCA lesion that was not intervened on.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "hyperlipidemia is arisk fact and Chest Pain is a symptom of ACS.$Cause_1": {
+                    "He is a gentleman with hyperlipidemia who presented to the ED with chest pain while walking to work yesterday evening.$Input2": {}
+                },
+                "The pain radiated down his left arm and was associated with diaphoresis. The pain improved with rest but came back at work a few more times. is a symptom of ACS.$Cause_1": {
+                    "The pain radiated down his left arm and was associated with diaphoresis. The pain improved with rest but came back at work a few more times.$Input2": {}
+                },
+                "Hyperlipidemia is a risk factor$Cause_1": {
+                    "+ Hyperlipidemia$Input3": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "ECG:non-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "hyperlipidemia is arisk fact and Chest Pain is a symptom of ACS.$Cause_1": {
+                    "He is a gentleman with hyperlipidemia who presented to the ED with chest pain while walking to work yesterday evening.$Input2": {}
+                },
+                "The pain radiated down his left arm and was associated with diaphoresis. The pain improved with rest but came back at work a few more times. is a symptom of ACS.$Cause_1": {
+                    "The pain radiated down his left arm and was associated with diaphoresis. The pain improved with rest but came back at work a few more times.$Input2": {}
+                },
+                "Hyperlipidemia is a risk factor$Cause_1": {
+                    "+ Hyperlipidemia$Input3": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "high hs-cTn is a strong value for ACS$Cause_1": {
+                    "In the ED, the patient was found to have elevated troponin with TWI in V2-V6.$Input2": {}
+                },
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "he was found to have a 90% LAD lesion and 90% ramus lesion, for which he received DES to each. He had a 60% distal RCA lesion that was not intervened on.$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest Pain is a symptom of ACS.$Cause_1": {
+                        "chest pain$Input1": {}
+                    },
+                    "hyperlipidemia is arisk fact and Chest Pain is a symptom of ACS.$Cause_1": {
+                        "He is a gentleman with hyperlipidemia who presented to the ED with chest pain while walking to work yesterday evening.$Input2": {}
+                    },
+                    "The pain radiated down his left arm and was associated with diaphoresis. The pain improved with rest but came back at work a few more times. is a symptom of ACS.$Cause_1": {
+                        "The pain radiated down his left arm and was associated with diaphoresis. The pain improved with rest but came back at work a few more times.$Input2": {}
+                    },
+                    "Hyperlipidemia is a risk factor$Cause_1": {
+                        "+ Hyperlipidemia$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "He is a gentleman with hyperlipidemia who presented to the ED with chest pain while walking to work yesterday evening. The pain radiated down his left arm and was associated with diaphoresis. The pain improved with rest but came back at work a few more times. He reported no shortness of breath, nausea, or vomiting.\n\ufeff\nIn the ED, the patient was found to have elevated troponin with TWI in V2-V6. He was given aspirin and atorvastatin 80 mg and started on heparin drip. He was taken to the cath lab where he was found to have a 90% LAD lesion and 90% ramus lesion, for which he received DES to each. He had a 60% distal RCA lesion that was not intervened on. He received a ticagrelor load in the lab.\n\ufeff\nOn the floor, patient recounts story as above. States he's doing well without chest pain.  \n\ufeff\nREVIEW OF SYSTEMS: On review of systems, denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. Denies recent fevers, chills or rigors. Denies exertional buttock or calf pain. All of the other review of systems were negative.  \n\ufeff\nCardiac review of systems is notable for absence of dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.\n",
+    "input3": "+ Hyperlipidemia\n",
+    "input4": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.\n",
+    "input5": "ADMISSION PHYSICAL\nVS: 97.8 18 97%RA\nGENERAL: WDWN M in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  \n\ufeff\nNECK: Supple without JVD \nCARDIAC: PMI located in intercostal space, midclavicular line. RR, normal S1, S2. No murmurs/rubs/gallops. No thrills, lifts. \nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. No crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness.  \nEXTREMITIES: No c/c/e. No femoral bruits.  R wrist dressed, without hematoma + pulses\nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES:  Distal pulses palpable and symmetric\n",
+    "input6": "ADMISSION LABS\n03:05AM BLOOD WBC-5.4 RBC-4.54* Hgb-14.3 Hct-42.2 MCV-93 MCH-31.5 MCHC-33.9 RDW-12.8 RDWSD-43.8\n03:05AM BLOOD Neuts-72.0* Lymphs-14.8* Monos-10.0 Eos-2.4 Baso-0.6 AbsNeut-3.90 AbsLymp-0.80* \nAbsMono-0.54 AbsEos-0.13 AbsBaso-0.03\n03:05AM BLOOD Glucose-106* UreaN-37* Creat-1.3* Na-139 \nK-4.4 Cl-106 HCO3-17* AnGap-20\n03:05AM BLOOD CK(CPK)-179\n07:35AM BLOOD Calcium-9.4 Phos-3.0 Mg-2.1\n\ufeff\nCARDIAC ENZYME TREND \n03:05AM BLOOD CK-MB-6\n03:05AM BLOOD cTropnT-0.04*\n08:50AM BLOOD CK-MB-10 MB Indx-5.9 cTropnT-0.21*\n05:15PM BLOOD cTropnT-0.33*\n12:04AM BLOOD CK-MB-45* MB Indx-12.6* cTropnT-0.47*\n07:35AM BLOOD CK-MB-64* MB Indx-13.6* cTropnT-0.61*\n01:15PM BLOOD CK-MB-50* MB Indx-11.2* cTropnT-0.63*\n07:38PM BLOOD CK-MB-33* MB Indx-9.3* cTropnT-0.59*\n07:40AM BLOOD CK-MB-14* MB Indx-7.0* cTropnT-0.65*\n\nECG:non-ST-elevation\n"
+}

@@ -1,0 +1,55 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Suggestive of cardiac enlargement and pulmonary congestion associated with heart failure.$Cause_1": {
+                "The cardiac silhouette has substantially increased in size sincethe prior study. Mildly increased interstitial markings bilaterally suggestsmild interstitial edema.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates acute heart failure.$Cause_1": {
+                    "proBNP-7723*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Shortness of breath is a common symptom of heart failure.$Cause_1": {
+                        "Shortness of breath$Input1": {}
+                    },
+                    "Anemia is a common cause of heart failure.$Cause_1": {
+                        "Anemia$Input3": {}
+                    },
+                    "Obesity is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "Obesity$Input3": {}
+                    },
+                    "Drugs such as Adriamycin, Cylophosphamide, paclitaxil, can cause heart failure.$Cause_1": {
+                        "Adriamycin, Cylophosphamide, paclitaxil$Input3": {}
+                    },
+                    "dyspneic with speaking is a common sign of heart failure.$Cause_1": {
+                        "dyspneic with speaking$Input5": {}
+                    },
+                    "Elevated jugular venous pulse (JVP) is a common sign of heart failure, indicating the state of fluid retention.$Cause_1": {
+                        "JVP elevated to earlobe$Input5": {}
+                    },
+                    "A family history of cardiovascular disease*$Cause_1": {
+                        "Hypertension Mother$Input4": {}
+                    },
+                    "A family history of cardiovascular disease**$Cause_1": {
+                        "Stroke Mother deceased$Input4": {}
+                    },
+                    "A family history of cardiovascular disease$Cause_1": {
+                        "CAD/PVD Sister$Input4": {}
+                    },
+                    "SOB and panic attack are common symptom of HF$Cause_1": {
+                        "shortness of breath and panic attacks$Input2": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "She is female with a history of breast CA s/p radiation and chemotherapy, gastric carcinoid, hypothyroidism, recent surgery for appendix/ovary removal, presents with dyspnea on exertion and weakness for the past 3 weeks.\n\ufeff\nShe reports being tired walking short distances, shortness of breath and panic attacks at night when lying flat, weakness and loss of appetite the past few weeks. She also developed dysnpea with talking. Denies edema or weight gain; in fact, she has lost weight the past few months. She was seen by her PCP  for these sypmtoms, and was undergoing an outpatient workup. Today, she presented for outpt echo, and was seen to have LVEF with restrictive filling pattern, mild to moderate MR, and small pericardial effusion.  Given recent symptoms and newly abnormal echo, she was sent to the ED and admitted for further workup.  \n\ufeff\n\n",
+    "input3": "+ Depressive disorder 311 \n+ NEUROPATHY - GENERALIZED 355.9 \n+ Anemia, pernicious 281.0 \n+ Former smoker V15.82 \n+ Obesity 278.00 \n+ Anemia, iron deficiency 280.9 \n+ Carcinoid tumor of stomach 209.63 \n+ Multiple thyroid nodules 241.1 \n+ bhn 296.30 \n+ Endometrial polyp 621.0 \n+ Invasive ductal carcinoma of breast 174.9\n+  Adriamycin, Cylophosphamide, paclitaxil\n+ Colon adenoma\n+ Hypothyroidism 244.9 \n+ Ovarian mass s/p appendectomy and b/l BSO \n(path without evidence of cancer)\n\ufeff\n",
+    "input4": "Cancer Father  died of prostate ca \nHypertension Mother   \nDiabetes-Adult Onset Paternal Grandmother  ? IDDM \nStroke Mother deceased \nDiabetes - Type II Sister deceased  \nCancer - Breast Maternal Aunt  diagnosed\nCAD/PVD Sister\n\ufeff\n",
+    "input5": "Physical Exam:\nADMISSION PHYSICAL EXAM:\nPHYSICAL EXAMINATION:  \nVS: 97.6 129/91 107 24 100% RA wt 82.9 \nGeneral: NAD, dyspneic with speaking, no accessory muscle use\nHEENT: NCAT, PERRL, EOMI\nNeck: supple, JVP elevated to earlobe\nCV: Tachycardic, no m/r/g\nLungs: CTAB\nAbdomen: soft, NT/ND, BS+, reducible ventral hernia present\nExt: No edema, +2 pulses\nNeuro: moving all extremities grossly\n",
+    "input6": "ADMISSION LABS:\n___ 04:15PM BLOOD WBC-5.6# RBC-5.04# Hgb-14.1# Hct-44.7# MCV-89 MCH-27.9 MCHC-31.5 RDW-15.9* \n___ 04:15PM BLOOD PTT-30.5\n___ 04:15PM BLOOD Glucose-118* UreaN-18 Creat-0.9 Na-133 K-5.1 Cl-102 HCO3-22 AnGap-14\n___ 04:15PM BLOOD proBNP-7723*\n___ 04:15PM BLOOD cTropnT-<0.01\n___ 06:50AM BLOOD CK-MB-4 cTropnT-<0.01\n___ 06:50AM BLOOD Calcium-9.1 Phos-3.8 Mg-2.5 Iron-39\n___ 06:50AM BLOOD TSH-8.2*\n___ 06:50AM BLOOD calTIBC-407 Ferritn-43 TRF-313\n\ufeff\nSTUDIES:\n\ufeff\nCXR:\nFINDINGS:  Frontal and lateral views of the chest were obtained. There may betrace pleural effusions.  The cardiac silhouette is moderately enlarged. There is slight increase in interstitial markings bilaterally suggesting mildinterstitial edema.  No pneumothorax is seen.\nIMPRESSION:  The cardiac silhouette has substantially increased in size sincethe prior study.  Mildly increased interstitial markings bilaterally suggestsmild interstitial edema. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %)\n\ufeff\n"
+}

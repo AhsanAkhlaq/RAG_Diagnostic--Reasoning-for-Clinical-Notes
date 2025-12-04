@@ -1,0 +1,47 @@
+{
+    "Moderate COPD$Intermedia_4": {
+        "50% \u2264 FEV1 < 80% confirm Moderate COPD$Cause_1": {
+            "FEV1 62%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "Sinus bradycardia and T wave flattening may indicate cardiac stress, which in patients with COPD may be caused by hypoxemia.$Cause_1": {
+                "Sinus bradycardia at 59 bpm, normal axis, TW flattening in III$Input6": {}
+            },
+            "confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC < 0.70.$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "Bronchodilators are commonly used to treat COPD, which is a sign that the patient may have COPD.$Cause_1": {
+                    "Symptoms during that time visit improved with bronchodilators$Input2": {}
+                },
+                "Prednisone is an anti-inflammatory drug that is often used to treat acute exacerbations of COPD, which means that the patient may be in an acute exacerbation state at this time.$Cause_1": {
+                    "discharged on prednisone burst (20mg daily X 4$Input2": {}
+                },
+                "DOE is a classic symptom of COPD and refers to shortness of breath during physical activity.$Cause_1": {
+                    "improvement in SOB but DOE with exertion$Input2": {}
+                },
+                "Reduced exercise tolerance may be related to the decline in lung function caused by COPD.$Cause_1": {
+                    "stress echo was notable for limited exercise tolerance$Input2": {}
+                },
+                "Blood oxygen saturation is lower than normal, indicating that the patient may have respiratory insufficiency, which is common in COPD patients$Cause_1": {
+                    "Ambulatory SaO2 at office was 87% on RA$Input2": {}
+                },
+                "The patient has occasional end-expiratory wheezing, more on the right side than on the left. Common symptoms in patients with COPD include wheezing, especially during expiratory efforts, because air flow is restricted by partial airway obstruction.$Cause_1": {
+                    "rare end \nexpiratory wheeze R>L$Input5": {}
+                },
+                "There is mild indentation edema on both sides. In COPD patients, right heart failure may occur due to increased cardiac load, which can cause lower limb edema. This is a common complication in the late stage of COPD.$Cause_1": {
+                    "1+ pitting edema bilaterally$Input5": {}
+                },
+                "Poor exercise tolerance may be a manifestation of COPD because decreased lung function affects oxygen intake and exercise ability.$Cause_1": {
+                    "Poor exercise tolerance without inducible ischemia at low workload.$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "with hx of cauda equina syndrome L 2 herniated disc. He notes onset of symptoms after stress echo he believes that he suffered an undiagnosed MI during his stress test. Reports that progress of his symptoms has been slow but steady.\n\ufeff\nSymptoms during that time visit improved with bronchodilators and patient was subsequently discharged on prednisone burst (20mg daily X 4  At PCP, pt reported improvement in SOB but DOE with exertion, most notable. Prior to stress test , he could walk around all day without difficulty. No change in baseline sputum production. Recent stress echo was notable for limited exercise tolerance, no inducible ischemia at low workload. Ambulatory SaO2 at office was 87% on RA. Pt was sent by PCP for further evaluation of persistent DOE and ambulatory hypoxia.\n",
+    "input3": "+ Cauda equina syndrome s/p decompression surgery\n+ C3-C6 anterior/posterior c-spine fusion\n+ Restless leg syndrome  \n+ Hypothyroidism: Graves' disease status post ablation; followed by endocrinologist  \n+ Mechanical fall with Type 2 Dens fx managed conservatively  \n+ Left hip cyst s/p excision  \n+ MRSA sputum positive  \n+ Swab-positive influenza\n+ History of upper GI bleed due to duodenal stress ulcers.\n\ufeff\n",
+    "input4": "Sister died from lung and breast cancer. Denies hx of CAD, lung disease.\n",
+    "input5": "Admission Physical Exam:\nVS: 97.9, 130/76, 70, 96% RA\nGen: Very pleasant elderly male, sitting up in bed, NAD\nHEENT: PERRL, EOMI, clear oropharynx, anicteric sclera\nNeck: supple, no cervical or supraclavicular adenopathy\nCV: RRR, no m/r/g\nLungs: good air movement throughout, no crackles, rare end \nexpiratory wheeze R>L\nAbd: soft, nontender, nondistended, no rebound or guarding, +BS, no hepatomegaly\nGU: No foley\nExt: WWP, 1+ pitting edema bilaterally\nNeuro: L foot drop, alert and interactive, stands with cane,\ngrossly intact\n",
+    "input6": "07:07PM   D-DIMER-345\n05:15PM   GLUCOSE-124* UREA N-18 CREAT-0.7 SODIUM-137 \nPOTASSIUM-4.4 CHLORIDE-102 TOTAL CO2-26 ANION GAP-13\n05:15PM   cTropnT-<0.01\n05:15PM   proBNP-124\n05:15PM   WBC-7.1 RBC-5.39 HGB-15.4 HCT-47.0 MCV-87 \nMCH-28.6 MCHC-32.8 RDW-15.4 RDWSD-48.2*\n05:15PM   NEUTS-77.0* LYMPHS-17.8* MONOS-4.7* EOS-0.0* \nBASOS-0.1 AbsNeut-5.46# AbsLymp-1.26 AbsMono-0.33 \nAbsEos-0.00* AbsBaso-0.01\n05:15PM   PLT COUNT-190\n\nEKG: Sinus bradycardia at 59 bpm, normal axis, TW flattening in III, no ST segment changes, no Q waves\n\nStress echo: Poor exercise tolerance without inducible ischemia at low workload. Abnormal hemodynamic response to physiologic stress. Normal PA systolic pressure.\n\nCXR: \"Again, there is chronic elevation of the left hemidiaphragm with basilar atelectasis.  Bibasilar atelectasis is seen.  No large pleural effusion is seen.  There is no definite new focal consolidation.  Cardiac and mediastinal silhouettes are grossly stable.\n\n\nPost-bronchodilator FEV1/FVC < 0.70.\nFEV1 62%\n"
+}

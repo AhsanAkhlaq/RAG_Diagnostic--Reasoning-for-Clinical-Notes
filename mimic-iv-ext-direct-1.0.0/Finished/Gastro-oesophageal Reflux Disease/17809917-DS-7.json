@@ -1,0 +1,24 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET: 9.2% > 6% is the gold standard for GERD diagnosis$Cause_1": {
+            "Ambulatory reflux monitor :total AET:9.2% on pH-impedance monitoring.$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "The patient is unable to tolerate pH testing while off antireflux medication, which may indicate that he is highly dependent on the medication.$Cause_1": {
+                "unable to tolerate coming off his antireflux medication for a pH study$Input2": {}
+            },
+            "Heartburn is a classic symptom of GERD, usually caused by stomach acid backing up into the esophagus.$Cause_1": {
+                "classic symptoms of heartburn$Input2": {}
+            },
+            "Slow gastric emptying is a common complication of GERD$Cause_1": {
+                "Delayed gastric emptying with opacification of the duodenum seen 30 minutes after filling of the stomach.$Input6": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "His manometry was normal.  He was unable to tolerate coming off his antireflux medication for a pH study.  However, we discussed that he has classic symptoms of heartburn, and the patient was willing to move ahead with surgery without objective documentation of abnormal reflux by pH study.\n",
+    "input3": "Significant only for an open appendectomy\n",
+    "input4": "Negative for esophageal cancer.\n",
+    "input5": "VS: T: 98.5  HR: ___ SR BP: 115-134/80 Sats: 99% RA\nGeneral: ___ year-old male in no apparent distress\nHEENT: normocephalic, mucus membranes moist\nNeck: supple no lymphadenopathy\nCard: RRR normal S1,S2\nResp: clear breath sounds\nGI: hypoactive bowel sounds, abdomen soft\nIncision: abdominal clean dry intact\nNeuro: non-focal\n",
+    "input6": "___ WBC-16.3* RBC-4.85 Hgb-14.9 Hct-41.3 MCV-85 MCH-30.7 \nMCHC-36.0* RDW-12.9 Plt ___\n___ Hct-42.3\n___ Glucose-98 UreaN-14 Creat-0.7 Na-138 K-4.1 Cl-103 \nHCO3-28 \n___ Na-139 K-3.5 Cl-105\n___ Calcium-8.8 Phos-3.3 Mg-2.0\n___ Calcium-9.2 Mg-1.6\n\nBarium Swallow:\nDelayed gastric emptying with opacification of the duodenum seen 30 minutes after filling of the stomach.\n\nAmbulatory reflux monitor :total AET:9.2% on pH-impedance monitoring.\n\n"
+}

@@ -1,0 +1,90 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "Troponins initially .06, repeat troponin at 8:20AM day of transfer, 0.25.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest Pain is a symptom of ACS.$Cause_1": {
+                "Chest Pain$Input1": {}
+            },
+            "+Hypertension  \n+Hyperlipidemia\nis a risk factor of ACS$Cause_1": {
+                "+Hypertension  \n+Hyperlipidemia$Input3": {}
+            },
+            "Chest Pain is a symptom of ACS$Cause_1": {
+                "At the time of presentation, patient's pain was in severity.$Input2": {}
+            },
+            "Family history is a big risk factor$Cause_1": {
+                "Strong family history of coronary artery disease in several first degree relatives on his mother's side of family. Thinks his family members have hypercholesterolemia, diabetes, hypertension. + early cardiac death.$Input4": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "Cardiac structural abnormalities is a diagnostic criteria of ACS$Cause_1": {
+                "He is a gentleman with CAD (known occluded RCA with collaterals s/p PCI's (PTCA and stenting of ostial LCx and PTCA ostial RI c/b instent restenosis at ostium of LCx and restenosis of ramus branch s/p PTCA of LCx ostium and ramus ostium, HTN, HL, chronic low back pain and anxiety who presented to OSH with chest pain.$Input2": {}
+            },
+            "Abnormal electrocardiogram is a diagnostic criteria of ACS$Cause_1": {
+                "CV: RR, normal S1, S2. No m/r/g. No S3 or S4. Distant heart \nsounds.$Input5": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "+Hypertension  \n+Hyperlipidemia\nis a risk factor of ACS$Cause_1": {
+                    "+Hypertension  \n+Hyperlipidemia$Input3": {}
+                },
+                "Chest Pain is a symptom of ACS$Cause_1": {
+                    "At the time of presentation, patient's pain was in severity.$Input2": {}
+                },
+                "Family history is a big risk factor$Cause_1": {
+                    "Strong family history of coronary artery disease in several first degree relatives on his mother's side of family. Thinks his family members have hypercholesterolemia, diabetes, hypertension. + early cardiac death.$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation\r is  a sign of NSTE-ACS$Cause_1": {
+                "ECG\uff1a\nnon-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "+Hypertension  \n+Hyperlipidemia\nis a risk factor of ACS$Cause_1": {
+                    "+Hypertension  \n+Hyperlipidemia$Input3": {}
+                },
+                "Chest Pain is a symptom of ACS$Cause_1": {
+                    "At the time of presentation, patient's pain was in severity.$Input2": {}
+                },
+                "Family history is a big risk factor$Cause_1": {
+                    "Strong family history of coronary artery disease in several first degree relatives on his mother's side of family. Thinks his family members have hypercholesterolemia, diabetes, hypertension. + early cardiac death.$Input4": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "Cardiac structural abnormalities is a diagnostic criteria of ACS$Cause_1": {
+                    "He is a gentleman with CAD (known occluded RCA with collaterals s/p PCI's (PTCA and stenting of ostial LCx and PTCA ostial RI c/b instent restenosis at ostium of LCx and restenosis of ramus branch s/p PTCA of LCx ostium and ramus ostium, HTN, HL, chronic low back pain and anxiety who presented to OSH with chest pain.$Input2": {}
+                },
+                "Abnormal electrocardiogram is a diagnostic criteria of ACS$Cause_1": {
+                    "CV: RR, normal S1, S2. No m/r/g. No S3 or S4. Distant heart \nsounds.$Input5": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest Pain is a symptom of ACS.$Cause_1": {
+                        "Chest Pain$Input1": {}
+                    },
+                    "+Hypertension  \n+Hyperlipidemia\nis a risk factor of ACS$Cause_1": {
+                        "+Hypertension  \n+Hyperlipidemia$Input3": {}
+                    },
+                    "Chest Pain is a symptom of ACS$Cause_1": {
+                        "At the time of presentation, patient's pain was in severity.$Input2": {}
+                    },
+                    "Family history is a big risk factor$Cause_1": {
+                        "Strong family history of coronary artery disease in several first degree relatives on his mother's side of family. Thinks his family members have hypercholesterolemia, diabetes, hypertension. + early cardiac death.$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest Pain\n",
+    "input2": "He is a gentleman with CAD (known occluded RCA with collaterals s/p PCI's (PTCA and stenting of ostial LCx and PTCA ostial RI c/b instent restenosis at ostium of LCx and restenosis of ramus branch s/p PTCA of LCx ostium and ramus ostium, HTN, HL, chronic low back pain and anxiety who presented to OSH with chest pain. He was found to have an NSTEMI and was transferred to for catheterization.\n  \nAt the time of presentation, patient's pain was in severity. Troponins initially .06, repeat troponin at 8:20AM day of transfer, 0.25. VS on transfer: 136/59, HR 69 SR, 16, 97% 2 liters, afebrile.  Patient arrived and underwent uncomplicated cardiac cath with right femoral access. During procedure DES was placed in the ostial LCx with residual 40-50% distal left main to LAD. Plan per interventional is ASA, plavix, IVF overnight with plan for TTE, consult in the AM. Of note patient received ample versed and Fentanyl  \n\nOn arrival to the floor, patient without complaint. Denies chest pain, shortness of breath, palpitations. Tolerating PO without nausea, vomiting. Chronic back pain is at its baseline. Last BM yesterday.\n",
+    "input3": "+CAD s/p MI and multiple PCI's  \n+Hypertension  \n+Hyperlipidemia  \n+Chronic low back pain\n+s/p cholecystectomy  \n+h/o osteomyelitis  \n+Depression  \n+Anxiety  \n+Umbilical hernia\n",
+    "input4": "Strong family history of coronary artery disease in several first degree relatives on his mother's side of family. Thinks his family members have hypercholesterolemia, diabetes, hypertension. + early cardiac death.\n",
+    "input5": "ADMISSION EXAM\nVS T 97.8 102/60 72 14 96%RA  \nGen: Obese M in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \nNeck: Supple with no JVD noted (difficult to assess).  \nCV: RR, normal S1, S2. No m/r/g. No S3 or S4. Distant heart \nsounds.  \nChest: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nAbd: NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits. Morphine pump can be felt on the RLQ under the skin.  \nExt: no c/c/e. Right femoral cath site c/d/i under tegaderm.  \nSkin: No stasis dermatitis, ulcers, scars, xanthomas. + tattoos noted  \nRight: 2+ DPs  \nLeft: 2+ DP and radial\n",
+    "input6": "ADMISSION LABS\n--------------------\n___ 02:34AM BLOOD Plt ___\n___ 02:34AM BLOOD UreaN-15 Creat-1.1 Na-140 K-4.8 Cl-104\n___ 02:34AM BLOOD CK(CPK)-78\n___ 02:34AM BLOOD CK-MB-3 cTropnT-0.10*\n\nECG\uff1a\nnon-ST-elevation\n"
+}

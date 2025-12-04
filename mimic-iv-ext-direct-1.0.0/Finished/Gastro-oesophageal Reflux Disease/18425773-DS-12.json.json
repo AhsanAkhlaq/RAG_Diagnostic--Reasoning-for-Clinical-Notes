@@ -1,0 +1,21 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "endoscopy\uff1aoesophagitis\uff08LA grades B\uff09is the gold standard for the diagnosis of gastro-oesophageal reflux \rdisease.$Cause_1": {
+            "endoscopy\uff1aoesophagitis\uff08LA grades B\uff09$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Heartburn is a typical symptom of gastro-oesophageal reflux \rdisease.$Cause_1": {
+                "Patient is a very pleasant lady who has come with the chief complaints of progressively worsening difficulty in swallowing and heartburn for the past few months.$Input2": {}
+            },
+            "Burning pain in the chest is a typical symptom of gastro-oesophageal reflux \rdisease.$Cause_1": {
+                "she has noticed  a progressive worsening of swallowing and burning pain in the chest after eating food.$Input2": {}
+            }
+        }
+    },
+    "input1": "dysphagia\n",
+    "input2": "Patient is a very pleasant lady who has come with the chief complaints of progressively worsening difficulty in swallowing and heartburn for the past few months. She was apparently normal, when she noticed a change in her voice. Barium swallow done at the time revealed some \"weakening in the proximal esophagus\". She improved with voice therapy and was asymptomatic. She started having difficulty swallowing and frequent exacerbations of asthma.  An upper GI endoscopy and biopsy revealed that she had  esophagus.She has been on Nexium ever since then. Over the past few months , she has noticed  a progressive worsening of swallowing and burning pain in the chest after eating food.\n",
+    "input3": "+Asthma x Endometriosis (7 surgeries);\n+Appendectomy\n+Laparotomy (twice- for endometriosis of the colon and lysis of adhesions); \n+septoplasty(for DNS)\n+umbilical hernia repair\n+hysterectomy\n",
+    "input4": "Mother-none\nesophagus and esophageal cancer\nSiblings- Brothers have gastroesophageal reflux\nOffspring\nOther: Uncle had colon cancer\n",
+    "input5": "VS: 98.1, 60, 106/65, 18, 100% RA\n\nPE: \nGen: AAOx3, NAD\nCV: RRR\nPulm: CTAB\nAbd: Soft, appropriately tender, nondistended, inc c/d/i\nExt: No edema\n",
+    "input6": "endoscopy\uff1aoesophagitis\uff08LA grades B\uff09 chronic gastritis\r\n"
+}

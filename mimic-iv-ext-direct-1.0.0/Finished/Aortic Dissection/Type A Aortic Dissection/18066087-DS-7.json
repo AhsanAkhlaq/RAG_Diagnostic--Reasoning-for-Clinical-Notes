@@ -1,0 +1,33 @@
+{
+    "Type A Aortic Dissection$Intermedia_3": {
+        "Confirmed aortic dissection, particularly involving the ascending aorta, which is the typical location of Type A aortic dissection$Cause_1": {
+            "received CT scan which showed dissection affecting the ascending aorta.$Input2": {}
+        },
+        "The dissected valve extends into the aortic arch and descending aorta. This is direct evidence of aortic dissection, indicating that the dissection has affected multiple parts of the aorta.$Cause_1": {
+            "The dissection flap extends into the arch and descending aorta.$Input6": {}
+        },
+        "Suspected Aortic Dissection$Intermedia_2": {
+            "Back pain and chest pain are typical symptoms of aortic dissection, which are common in the early stages of a tear in the aortic wall.$Cause_1": {
+                "presented to osh this am with back and chest pain$Input2": {}
+            },
+            "The patient's blood pressure was slightly high. Hypertension is an important risk factor for aortic dissection.$Cause_1": {
+                "BP 140/70$Input5": {}
+            },
+            "This condition is usually associated with abnormalities of the aortic valve and nearby structures, possibly due to aortic dissection that impairs aortic valve function.$Cause_1": {
+                "Moderate to severe (3+) aortic regurgitation is seen$Input6": {}
+            },
+            "A bicuspid aortic valve is a risk factor for aortic dissection because it may alter the hemodynamics of the aortic root.$Cause_1": {
+                "The aortic valve is bicuspid$Input6": {}
+            },
+            "This is a common presentation of aortic dissection, as structural abnormalities in the aortic wall predispose to aortic dilation, which may lead to dissection.$Cause_1": {
+                "The ascending aorta is severely dilated$Input6": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "___ no previous medical history presented to osh this am with back and chest pain and taken for emergent repair with cardiac surgery. Upon brief interview in ED prior to OR patient reports pain started around 7am this am in back. He went to work but when chest pain started he went to ED and received CT scan which showed dissection affecting the ascending aorta.\n",
+    "input3": "s/p appendectomy\ns/p biceps tendon surgery\n",
+    "input4": "Reports no hx of aneurysm, vasculitis, connective tissue \ndisorder\n",
+    "input5": "P/E: Alert oriented x3 \nBP 140/70,75 NSR, sats 98%\nlungs clear\n___: S1 S2 NSR\nabdomen soft\nextremities: palpable femoral pulses bilaterally\nneurology: intact\n",
+    "input6": "___ Echo: Prebypass: Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). Right ventricular chamber size and free wall motion are normal. The ascending aorta is severely dilated. The aortic valve is bicuspid. Moderate to severe (3+) aortic regurgitation is seen. Mild (1+) mitral regurgitation is seen. There is no pericardial effusion. The dissection flap extends into the arch and descending aorta.The ascending aorta is severely dilated .The arch and desceding thoracic aorta I normal in diameter.The sinotubular junction is effaced. Post bypass- This study was performed by Dr. ___. Patient is A paced on Epinephrine and Phenylephrine. Biventriculat systolic function is unchanged. Mechanical valve seen in the aortic position. Peak gradient is 13 mm Hg. Rest of examination is unchanged.\n\n___ 06:55AM BLOOD WBC-12.8* RBC-3.24* Hgb-10.5* Hct-32.5* \nMCV-100* MCH-32.4* MCHC-32.3 RDW-14.0 RDWSD-50.9* Plt ___\n___ 12:12PM BLOOD WBC-8.3 RBC-4.58* Hgb-15.3 Hct-44.8 \nMCV-98 MCH-33.4* MCHC-34.2 RDW-12.5 RDWSD-44.6 Plt ___\n___ 06:55AM BLOOD ___\n___ 06:19PM BLOOD ___ PTT-37.0* ___\n___ 06:55AM BLOOD UreaN-23* Creat-1.1 Na-138 K-4.2 Cl-100\n___ 12:12PM BLOOD Glucose-137* UreaN-15 Creat-1.2 Na-140 \nK-4.6 Cl-107 HCO3-20* AnGap-18\n"
+}

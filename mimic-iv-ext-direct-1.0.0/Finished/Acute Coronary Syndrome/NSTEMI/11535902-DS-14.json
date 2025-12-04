@@ -1,0 +1,69 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "hs-cTn is a strong value for ACS$Cause_1": {
+            "Trop-T:0.55$Input2": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "cTropnT-0.55*\ncTropnT-0.66*\ncTropnT-0.38*\ncTropnT-0.38*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest Pain is a symptom of ACS.$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "HTN, hypothyroidism are risk factors of ACS$Cause_1": {
+                "F presents with history of HTN, hypothyroidism,$Input2": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "symptom of ACS.$Cause_1": {
+                "Patient endorses right sided chest pain for the last 2 days which worsened today, at which point she started having nausea and vomiting.$Input2": {}
+            },
+            "risk factors of ACS$Cause_1": {
+                "+ \"Irregular heart rhythm, for a long time\" per pt for which she takes Toprol XL\n+ Hyperlipidemia$Input3": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "HTN, hypothyroidism are risk factors of ACS$Cause_1": {
+                    "F presents with history of HTN, hypothyroidism,$Input2": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "Abnormal electrocardiogram is a diagnostic criteria of ACS$Cause_1": {
+                "ST depressions in V2-V4$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "HTN, hypothyroidism are risk factors of ACS$Cause_1": {
+                    "F presents with history of HTN, hypothyroidism,$Input2": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "symptom of ACS.$Cause_1": {
+                    "Patient endorses right sided chest pain for the last 2 days which worsened today, at which point she started having nausea and vomiting.$Input2": {}
+                },
+                "risk factors of ACS$Cause_1": {
+                    "+ \"Irregular heart rhythm, for a long time\" per pt for which she takes Toprol XL\n+ Hyperlipidemia$Input3": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest Pain is a symptom of ACS.$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "HTN, hypothyroidism are risk factors of ACS$Cause_1": {
+                        "F presents with history of HTN, hypothyroidism,$Input2": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "F presents with history of HTN, hypothyroidism, no priorcardiac hx who presented to ED with chest pain.\n\nPatient endorses right sided chest pain for the last 2 days which worsened today, at which point she started having nausea and vomiting. Chest pain both at rest and on exertion. At baseline she walks with a walker throughout her house. No shortness of breath or leg swelling. Denies any anginal symptoms, pre-syncope, or syncope. \n\nShe had 2 falls and was treated at outside hospitals. Per patient, injured her pelvis and R leg but unsure of specifics. Hospital course c/b aspiration PNA. Otherwise no recent falls or hospitalizations. \n\nNo family history of cardiac disease known to patient. Her granddaughter passed away yesterday from breast cancer.\n\nIn the ED initial vitals were: 96.7 70 163/78 18 97% RA weight: 88lb height: 5ft   \nEKG: ST depressions in V2-V4  \nLabs/studies notable for: Trop-T: 0.55, lactate 2.9, K 6.0, WC 11.5   \nPatient was given: ASA 300, metop tartrate 12.5, nitro SL, atorva 80, Lasix 20, insulin 10u+ 25 gm dextrose 50%, hep gtt   \nVitals on transfer:  65 120/61 21 99% RA \n  \nOn the floor, denies any current CP, dyspnea, N/V. Feels at her baseline overall.\n\nREVIEW OF SYSTEMS:  \n10 point ROS otherwise negative.\n",
+    "input3": "+ \"Irregular heart rhythm, for a long time\" per pt for which she takes Toprol XL\n+ Hyperlipidemia\n+ H/o Cdiff per recent OMR notes\n+ Esophageal strictures s/p several dilations in the past\n+ Temporal arteritis --> she states she's been taking Prednisone \n+ Hypothyroidism\n+ History of lower GI bleed\n+ DJD\n+ Lumbar stenosis, lumbar radiculopathy, hip pain\n+ Osteoporosis\n\n+ Admitted with n/v/d/rectal bleeding, found to have a portal vein thrombosis, which was felt to be likely due to ascending thrombophlebitis from a UTI. Abdominal pelvic CT scan with contrast which shows a persistent thrombosis in her superior right portal vein with evidence of partial degradation of clot; there is no longer filling defect with the right main portal vein as was seen on prior study. \n+ Large hiatal hernia\n+ She denies any AMI's/CABG/caths, CVA's, DM, HTN, or other heart/lung/kidney/liver/GI major diseases\n+admission for pan sensitive Ecoli urosepsis treated with IV Ceftriaxone, d/c'd home with 2wk course of PO Cipro. Bladder defects again seen on CT scan, but repeat bladder u/s normal.\n",
+    "input4": "None\n",
+    "input5": "Admission Physical Exam:\n\nVS: 97.5PO 127 / 70 56 18 99 ra  \nGENERAL: NAD Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. Conjunctiva were pink, no pallor\nor cyanosis of the oral mucosa. No xanthelasma.  \nNECK: Supple with JVP 12\nCARDIAC: PMI located in intercostal space, midclavicularline. RRR, normal S1, S2. soft systolic cresc/decresc murmur. No thrills, lifts.  \nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. No crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness.  \nEXTREMITIES: No c/c/e\nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES: Distal pulses palpable and symmetric\n",
+    "input6": "Admission Labs:\n\n___ 03:30PM BLOOD WBC-11.5* RBC-3.91 Hgb-11.6 Hct-36.2 MCV-93 MCH-29.7 MCHC-32.0 RDW-15.2 RDWSD-51.2* Plt ___\n___ 03:30PM BLOOD Neuts-66.3 ___ Monos-10.1 Eos-1.4 Baso-0.7 Im ___ AbsNeut-7.62* AbsLymp-2.41 AbsMono-1.16* AbsEos-0.16 AbsBaso-0.08\n___ 03:30PM BLOOD ___ PTT-22.3* ___\n___ 03:30PM BLOOD Glucose-124* UreaN-14 Creat-0.5 Na-137 K-6.0* Cl-99 HCO3-17* AnGap-21*\n___ 03:30PM BLOOD ALT-15 AST-40 AlkPhos-39 TotBili-0.8\n___ 03:30PM BLOOD cTropnT-0.09*\n___ 09:55PM BLOOD CK-MB-25* cTropnT-0.55*\n___ 07:25AM BLOOD CK-MB-19* cTropnT-0.66*\n___ 02:20AM BLOOD CK-MB-8 cTropnT-0.38*\n___ 06:20AM BLOOD cTropnT-0.38*\n___ 03:38PM BLOOD Lactate-2.9*\n\nImaging:\nChest Xray ___\nIMPRESSION:  \nModerate to large hiatal hernia with mild bibasilar atelectasis. No subdiaphragmatic free air or cardiomegaly. \n\nECHO ___\nIMPRESSION: Normal left ventricular cavity size with mild regional systolic dysfunction. Mild-moderate mitral regurgitation. Moderate tricuspoid regurgitation. Increased PCWP. Compared with the prior study (images reviewed), very mild regional LV dysfunction is now seen and the severity of mitral regurgitation is increased.\n"
+}

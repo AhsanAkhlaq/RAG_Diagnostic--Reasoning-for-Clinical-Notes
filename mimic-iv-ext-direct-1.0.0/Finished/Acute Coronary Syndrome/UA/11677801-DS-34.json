@@ -1,0 +1,58 @@
+{
+    "UA$Intermedia_4": {
+        "Severe chest pain is symbol of ACS-UA$Cause_1": {
+            "Patient reports exertional chest pain and shortness of breath over the last few days.$Input2": {}
+        },
+        "Severe chest pain is symbol of ACS-UA.$Cause_1": {
+            "Chest pain described as midsternal chest pain with radiation to the left arm that feels similar to his previous cardiac chest pain. He experienced left jaw pain for the first time.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "CAD is risk fact of acs$Cause_1": {
+                "He is with h/o CAD s/p CABG and BM$Input2": {}
+            },
+            "CAD of family history can be risk fact$Cause_1": {
+                "Mother CAD, CHF, Tremor$Input4": {}
+            },
+            "CAD of family history can be risk fact.$Cause_1": {
+                "Father CAD$Input4": {}
+            },
+            "CAD of family history can be risk fact..$Cause_1": {
+                "Brother CAD,$Input4": {}
+            }
+        },
+        "NSTE-ACS$Intermedia_3": {
+            "Severe chest pain is symbol of ACS-UA..$Cause_1": {
+                "Patient notes chest pain has been worse with walking for a distance more than yards. Had difficulty walking from parking lot to hospital the other day when visiting a friend.$Input2": {}
+            },
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "EKG - sinus, NANI, no STEMI non-ST-elevation$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "CAD is risk fact of acs$Cause_1": {
+                    "He is with h/o CAD s/p CABG and BM$Input2": {}
+                },
+                "CAD of family history can be risk fact$Cause_1": {
+                    "Mother CAD, CHF, Tremor$Input4": {}
+                },
+                "CAD of family history can be risk fact.$Cause_1": {
+                    "Father CAD$Input4": {}
+                },
+                "CAD of family history can be risk fact..$Cause_1": {
+                    "Brother CAD,$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "He is with h/o CAD s/p CABG and BM, DES in SVG-PDA with restenosis, muscle invasive urothelial bladder ca s/p cystectomy and neobladder, intraductal papillary mucinous neoplasm s/p Whipple procedure, who presents with chest pain. Patient reports exertional chest pain and shortness of breath over the last few days. Chest pain described as midsternal chest pain with radiation to the left arm that feels similar to his previous cardiac chest pain. He experienced left jaw pain for the first time. Patient notes chest pain has been worse with walking for a distance more than yards. Had difficulty walking from parking lot to hospital the other day when visiting a friend. Reports increased chest discomfort and SOB when walking up slight inclines. Pain and dyspnea only associated with exertion. Improved with couple mintues of rest and deep breathing. Denies any symptoms at rest. Notes associated lightheadedness. \n\nPatient was concerned and presented to the ED. In the ED, initial vitals were 98.2 63 141/88 18 94% 2L. Denies any active chest pain or SOB. Exam notable for : mild crackle to right lung\n\nChest Xray- No acute cardiopulmonary process.\nEKG - sinus, NANI, no STEMI non-ST-elevation\n\nOn arrival to the floor patient is stable. Denies any active chest pain or SOB. Currently asymptomatic.  \n\nREVIEW OF SYSTEMS: + as per HPI. Denies nausea, vomiting. \nDiarrhea for past 7 days but reports this is common due to his Whipple. No associated fevers or chills. \n\nCardiac review of systems is notable for chest pain, dyspnea on exertion, negative for paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.\n",
+    "input3": "+muscle invasive urothelial bladder ca s/p cystectomy and creating of neobladder \n+intraductal papillary mucinous neoplasm s/p Whipple procedure \n+ventral hernia s/p repair\n+Ulcer s/p cautery \n+pulmonary embolus (was on coumadin for 6 mo)\n",
+    "input4": "Mother CAD, CHF, Tremor\nFather CAD\nBrother CAD, EtOH abuse\nBrother Living 72 TREMOR, CAD   \nAunt LUNG CANCER\n",
+    "input5": "ADMISSION PHYSICAL EXAMINATION:\nVitals: 98.0 123/80 70 18 98%RA\nGeneral: well-appearing man in NAD \nHEENT:  EOMI, anicteric sclera, mucus membranes moist\nNeck: supple, level of clavicle sitting upright\nCV:  regular rate and rhythm, no murmurs, rubs, or gallops\nLungs:  breathing comfortably on room air, CTAB\nAbdomen:  +BS, soft, nontender, nondistended, multiple well healed scars.\nGU: No foley\nExt:  warm and well perfused, no edema. Peripheral pulses \nintact.\nNeuro:  A&Ox3, CN2-12 intact, moving all extremities\nSkin:  no rashes\n",
+    "input6": "ADMISSION LABS\n==================\n___ 07:10AM BLOOD WBC-6.1 RBC-4.52* Hgb-13.9 Hct-43.5 MCV-96 MCH-30.8 MCHC-32.0 RDW-13.6 RDWSD-48.6* Plt\n___ 07:10AM BLOOD Neuts-64.4 Monos-10.2 Eos-2.5 Baso-0.7 AbsNeut-3.94 AbsLymp-1.34 AbsMono-0.62 AbsEos-0.15 AbsBaso-0.04\n___ 07:10AM BLOOD\n___ 07:10AM BLOOD Glucose-117* UreaN-17 Creat-1.4* Na-142 K-4.6 Cl-109* HCO3-21* AnGap-17\n___ 07:10AM BLOOD CK-MB-1 cTropnT-<0.01\n___ 01:12PM BLOOD CK-MB-1 cTropnT-<0.01\n___ 07:10AM BLOOD Calcium-9.2 Phos-3.1 Mg-2.0\n\nIMAGING\n==================\nCHEST (PA & LAT)\nThere are slightly low lung volumes, which results in bronchovascular crowding.  The cardiomediastinal and hilar contours are unchanged.  The aorta is tortuous.  The patient is status post CABG.  There is no pneumothorax, pleural effusion, or consolidation. \n  \nIMPRESSION: No acute cardiopulmonary process.\n"
+}

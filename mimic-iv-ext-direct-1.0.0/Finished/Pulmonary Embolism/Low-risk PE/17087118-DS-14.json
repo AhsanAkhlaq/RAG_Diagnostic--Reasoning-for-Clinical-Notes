@@ -1,0 +1,41 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "This is the support for Low-risk PE$Cause_1": {
+            "The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "This shows a focal abnormality in the lungs, a typical radiological finding of pulmonary embolism.*$Cause_1": {
+                "See retrocardiac opacification consistent with volume loss, effusions, and the patient's likely infarct given known pulmonary embolus.$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Chest pain is the common symptom of PE$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "Low blood pressure may be a symptom of pulmonary embolism. Pulmonary embolism can reduce the amount of blood your heart can produce, which can cause your blood pressure to drop.$Cause_1": {
+                    "developed hypotension$Input2": {}
+                },
+                "Persistent hypotension further increases the possibility of pulmonary embolism, as it may be a manifestation of right ventricular overload and reduced cardiac output.$Cause_1": {
+                    "hypotensive this morning with SBP 70mmHg$Input2": {}
+                },
+                "Chest pain, especially on the left side, may be a symptom of pulmonary embolism$Cause_1": {
+                    "pain over the left side of his chest$Input2": {}
+                },
+                "Long-term hypertension may lead to damage to the cardiovascular system, which may increase the risk of thrombosis$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Coronary artery disease means that the patient's blood vessels may have problems such as atherosclerosis, which may lead to obstruction of blood flow and increase the possibility of blood clots.$Cause_1": {
+                    "Coronary Artery Disease$Input3": {}
+                },
+                "Peripheral vascular disease usually involves reduced blood flow to the extremities, predisposing to the formation of blood clots, which, if broken off and released into the bloodstream, may cause pulmonary embolism.$Cause_1": {
+                    "Peripheral Vascular Disease$Input3": {}
+                }
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "He s/p CABG times two.  His post-op course was notable for pericarditis for which he is treated with Ibuprofen. He was discharged home on POD 4.  He has developed hypotension over the previous week and Lasix and Lopressor have been discontinued.  He continued to be hypotensive this morning with SBP 70mmHg.  He also reports pain over the left side of his chest which developed about 2 days ago.  He did not increase his pain regimen.  He presents to the ED for further evaluation.\n",
+    "input3": "Hypertension\nCoronary Artery Disease s/p IMI and LCx stent\nPeripheral Vascular Disease\nHepatitis C\nHIV diagnosed\nErectile Dysfunction\nMajor Depressive Disorder\nLumbar Disc Disease\n",
+    "input4": "Non-contributory\n",
+    "input5": "Physical Exam:\nGeneral: NAD\nSkin: Dry [x] intact [x]\nSternotomy healing well without erythema or drainage\nSternum stable\nHEENT: PERRLA [] EOMI []\nNeck:  Supple [] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur [] grade\nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds\n+ [x]\nExtremities: Warm [x], well-perfused [x]  Edema [] _2+ pedal\nedema\nRight EVH site c/d/i\nVaricosities: None []\nNeuro: Grossly intact [x]\nPulses:\nFemoral      Right:   Left:\nDP           Right: 1+  Left:1+\nRight: 1+  Left:1+\n\ufeff\n",
+    "input6": "___ 10:20PM BLOOD PTT-80.9*\n___ 04:35AM BLOOD Glucose-107* UreaN-16 Creat-1.5* Na-136 K-4.3 Cl-100 HCO3-25 AnGap-15\n\ufeff\nSee retrocardiac opacification consistent with volume loss, effusions, and the patient's likely infarct given known pulmonary embolus.\n\nThe patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels\n\n"
+}

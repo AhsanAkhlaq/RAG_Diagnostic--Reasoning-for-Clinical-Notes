@@ -1,0 +1,42 @@
+{
+    "Gastric Ulcers$Intermedia_3": {
+        "rule out Duodenal Ulcers$Cause_1": {
+            "Duodenum: Normal duodenum.$Input6": {}
+        },
+        "This is the description most directly associated with Gastric Ulcers. The text describes a single depressed, 4 cm ulcer with raised margins on the lesser curvature of the antrum toward the notch. This is a typical presentation of Gastric Ulcers.$Cause_1": {
+            "A single cratered clean based 4 cm ulcer with heaped up borders was found in the antrum on the lesser curvature towards the incisura.$Input6": {}
+        },
+        "Suspected Peptic Ulcer Disease$Intermedia_2": {
+            "Abdominal pain is a common symptom of gastric ulcer disease$Cause_1": {
+                "abdominal pain$Input1": {}
+            },
+            "Nausea and vomiting are common symptoms of peptic ulcer$Cause_1": {
+                "nausea/vomiting$Input2": {}
+            },
+            "Stomach pain that gets worse when you lie on your right side or try to eat is a common symptom of a stomach ulcer because these movements may increase pressure or irritation in the stomach, which can make the pain worse.$Cause_1": {
+                "pain is worse with lying on her R side and with attempts to ea$Input2": {}
+            },
+            "This indicates impaired gastric function and may be associated with gastric ulcers.$Cause_1": {
+                "unable to hold down food or any of her usual meds$Input2": {}
+            },
+            "The current symptoms are similar to those of previous gastric ulcer attacks, directly indicating that she has a history of gastric ulcer disease, which is an important clue for the diagnosis of gastric ulcer.$Cause_1": {
+                "similar to sx at the time of her gastric ulcer$Input2": {}
+            },
+            "The follow-up endoscopy showed that the gastric ulcer had healed, but there was still residual erythema, which indicated that although the ulcer tissue had been repaired, there was still slight inflammation in the stomach wall.$Cause_1": {
+                "stomach the submucosal abnormality still present, ulcer healed, residual erythemma$Input2": {}
+            },
+            "The biopsy showed chronic gastritis, a common precursor to the development of gastric ulcers, which may be caused by long-term gastric acid irritation or Helicobacter pylori infection.$Cause_1": {
+                "Bxs showed chronic gastritis.$Input2": {}
+            },
+            "Tenderness in the upper abdomen (stomach area) is one of the most typical symptoms of peptic ulcer disease. Pain in the upper abdomen is often related to excess stomach acid in peptic ulcer disease.$Cause_1": {
+                "tenderness to palp diffusely but most prominent in$Input5": {}
+            }
+        }
+    },
+    "input1": "abdominal pain\n",
+    "input2": "She initially presented to ___, and was treated with 2L NS and Zofran 4 mg IV, but had minimal improvement in nausea/vomiting. The pain is worse with lying on her R side and with attempts to eat. She has been unable to hold down food or any of her usual meds, which include lansoprazole and also Percocet, for chronic back and knee pain.   She is passing urine, less frequently than usual.  She had a small, brown, formed BM today.  No hematemesis, BRBPR, or melena. She feels hot and cold at times, without chills or sweats; she has not checked her temp:it was 99.2 at ___.  All of this is similar to sx at the time of her gastric ulcer.  SHe has no hx GB dis, pancreatitis, or of abd or pelvic surgery.  Repeat endoscopy on ___ showed \"Int he stomach the submucosal abnormality still present, ulcer healed, residual erythemma present, area firm to bx Ont he opposite wall mild erythema bxd. Junction of body /fundus slightly edematous, bxd\"  Bxs showed chronic gastritis.  She was prescribed sucralfate, but has not taken as didn't understand the instructions for it. Has been taking her PPI though.\n\n\nROS: Ten point ROS otherwise negative except as per HPI.\n",
+    "input3": "HYPERTENSION - ESSENTIAL \nMorbid obesity with BMI of 40.0-44.9, adult \nHYPERCHOLESTEROLEMIA \nHistory of melanoma \nChronic pain\nPrimary osteoarthritis of right knee \nAsthma \nSpinal stenosis, lumbar region, with neurogenic claudication \nIron deficiency anemia\n",
+    "input4": "Brother ___ \nFather ___ \nMother ___ CAD/PVD - Early (___); Gout; Hypertension\n",
+    "input5": "VS: 99, 175/70, 63, 20, 97%RA\nGen: Appears uncomfortable\nHEENT: MM dry\nCV: RRR no m/g/r\nPulm: CTAB no w/r/r\nAbd: Soft, tenderness to palp diffusely but most prominent in \nthe epigastrium, BS+\nExtrem: warm, no edema\nSkin: no rashes\nNeuro: A+Ox3, pleasant, speech fluent\nGU: no foley\nAccess: PIV\n",
+    "input6": "___ 08:05PM BLOOD WBC-6.6 RBC-3.85*# Hgb-11.2# Hct-34.6# \nMCV-90 MCH-29.1# MCHC-32.4 RDW-11.9 RDWSD-38.2 Plt ___\n___ 08:05PM BLOOD Neuts-70.8 ___ Monos-4.6* \nEos-0.0* Baso-0.8 Im ___ AbsNeut-4.67 AbsLymp-1.53 \nAbsMono-0.30 AbsEos-0.00* AbsBaso-0.05\n___ 08:05PM BLOOD Plt ___\n___ 08:05PM BLOOD Glucose-92 UreaN-11 Creat-0.7 Na-141 \nK-3.0* Cl-103 HCO3-24 AnGap-17\n___ 08:05PM BLOOD ALT-15 AST-23 AlkPhos-57 TotBili-0.4\n___ 08:05PM BLOOD Albumin-4.1 Calcium-8.7 Phos-3.1 Mg-1.8\n___ 10:35PM URINE Color-Straw Appear-Clear Sp ___\n___ 10:35PM URINE Blood-NEG Nitrite-NEG Protein-TR \nGlucose-NEG Ketone-40 Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG\n___ 10:35PM URINE RBC-1 WBC-<1 Bacteri-NONE Yeast-NONE \nEpi-<1\n___ 10:35PM URINE Mucous-RARE\n\nImaging\n___\n20:04   Liver Or Gallbladder Us (Single Organ) [45] -- \nPreliminary Report viewable in WebOMR\n\n1. No evidence of cholelithiasis or sonographic evidence of \nacutecholecystitis.\n2. Lobulated right renal cyst measuring 4.3 x 2.9 x 2.9 cm, \ncontaining a single thin septation. \n \n \nChest xray\nFINDINGS:  \n \n No focal consolidation is seen. There is no pleural effusion or pneumothorax. The aorta is tortuous. The cardiac silhouette is borderline in size. No pulmonary edema is seen. Chronic appearing deformity at the posterior medial right fourth rib is seen. No evidence of free air is seen beneath the diaphragms. \n \n IMPRESSION:  \n \n No evidence of free air beneath the diaphragms. Cardiac \nsilhouette size is borderline. \n\nEGD ___\nFindings: \nEsophagus: Normal esophagus. \n\nStomach:  \n\n Excavated Lesions A single cratered clean based 4 cm ulcer with heaped up borders was found in the antrum on the lesser curvature towards the incisura. Cold forceps biopsies were performed for histology.  \n\nDuodenum: Normal duodenum. \n\nImpression: Ulcer in the antrum (biopsy)\nOtherwise normal EGD to third part of the duodenum\n"
+}

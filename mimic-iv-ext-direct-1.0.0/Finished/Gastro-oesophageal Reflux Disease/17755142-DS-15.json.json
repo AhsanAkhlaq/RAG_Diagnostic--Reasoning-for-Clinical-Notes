@@ -1,0 +1,21 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "oesophagitis\uff08LA grade B\uff09$Cause_1": {
+            "He underwent an upper esophagoscopy which revealed oesophagitis\uff08LA grade B\uff09 (no dysplasia).$Input2": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Cough is an atypical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "He is at the point where he must sleep upright in a chair due to persistent cough and acid taste in the back of his mouth while lying flat.$Input2": {}
+            },
+            "cough and hoarseness are the atypical symptom of gastro-oesophageal reflux \rdis\rease\r.$Cause_1": {
+                "He has not had any recent episodes of pneumonia, but has developed a dry cough over the last few months, along with hoarseness.$Input2": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Mr is with long standing disease who presents for counselling on surgical options. He has been on PPI therapy (omeprazole 40mg BID) without resolution of symptoms.  While omeprazole does provide some relief, it does not completely alleviate the problem.  He is at the point where he must sleep upright in a chair due to persistent cough and acid taste in the back of his mouth while lying flat.  He has not had any recent episodes of pneumonia, but has developed a dry cough over the last few months, along with hoarseness.  He has not had any weight loss, fevers, chills, or vomiting.  He underwent an upper esophagoscopy which revealed oesophagitis\uff08LA grade B\uff09 (no dysplasia).\n",
+    "input3": "+CAD, MI, diastolic dysfxn (EF 70%), s/p stent x 2\n+HepC s/p interferon\n+hypercholesterolemia\n+HTN\n+arthritis\n+gout\n+back surgery (L5 compression fx)\n+hiatal hernia\n+L ileopsolias abscess drained ___\n+s/p appy\n+s/p mediastinoscopy\n",
+    "input4": "no cancer history\n",
+    "input5": "VS: T 97.7, HR 90 reg, BP 130/80, RR 20, O2 sats 98% RA\nPhysical Exam:\nGen: pleasant in NAD\nLung: wheezes t/o\nCV: RRR, S1, S2, no MRG or JVD\nABD: soft, incisions healing w/o redness, purulence, or \ndrainage.\nExt: warm, without edema.\n",
+    "input6": "06:09PM BLOOD WBC-12.6*# RBC-4.22* Hgb-12.6* Hct-38.2* \nMCV-91 MCH-29.9 MCHC-33.0 RDW-13.7 Plt\n06:09PM BLOOD Mg-2.1\n"
+}

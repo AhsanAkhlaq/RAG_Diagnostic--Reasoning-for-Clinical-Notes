@@ -1,0 +1,123 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L.$Cause_1": {
+            "CK-MB-12* MB Indx-3.8 cTropnT-0.33*$Input6": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L$Cause_1": {
+            "CK-MB-5 cTropnT-0.45*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest Pain is a symptom of ACS.$Cause_1": {
+                "Chest Pain$Input1": {}
+            },
+            "HTN and yperlipidemia who presents with weeks of exterional chest pain.\n is a risk fact$Cause_1": {
+                "He is a gentleman with with HTN and yperlipidemia who presents with weeks of exterional chest pain.$Input2": {}
+            },
+            "he has noticed chest tightness in his sternum when walking blocks or climbing the stairs in his home.\n is a sign of acs$Cause_1": {
+                "atient reports that for the last two weeks he has noticed chest tightness in his sternum when walking blocks or climbing the stairs in his home.$Input2": {}
+            },
+            "Dyslipidemia, Hypertension is a risk factor$Cause_1": {
+                "CARDIAC RISK FACTORS: Dyslipidemia, Hypertension$Input3": {}
+            },
+            "BPH, depression is a risk factor$Cause_1": {
+                "OTHER PAST MEDICAL HISTORY: BPH, depression$Input3": {}
+            },
+            "Family history:Brother with MI  is a big risk factor$Cause_1": {
+                "Brother with MI$Input4": {}
+            },
+            "Family history:Father with MI  is a big risk factor$Cause_1": {
+                "Father with MI$Input4": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                "Cardiac silhouette size is normal.  Mediastinal and hilar contours are unremarkable. No pulmonary vascular congestion is present.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "HTN and yperlipidemia who presents with weeks of exterional chest pain.\n is a risk fact$Cause_1": {
+                    "He is a gentleman with with HTN and yperlipidemia who presents with weeks of exterional chest pain.$Input2": {}
+                },
+                "he has noticed chest tightness in his sternum when walking blocks or climbing the stairs in his home.\n is a sign of acs$Cause_1": {
+                    "atient reports that for the last two weeks he has noticed chest tightness in his sternum when walking blocks or climbing the stairs in his home.$Input2": {}
+                },
+                "Dyslipidemia, Hypertension is a risk factor$Cause_1": {
+                    "CARDIAC RISK FACTORS: Dyslipidemia, Hypertension$Input3": {}
+                },
+                "BPH, depression is a risk factor$Cause_1": {
+                    "OTHER PAST MEDICAL HISTORY: BPH, depression$Input3": {}
+                },
+                "Family history:Brother with MI  is a big risk factor$Cause_1": {
+                    "Brother with MI$Input4": {}
+                },
+                "Family history:Father with MI  is a big risk factor$Cause_1": {
+                    "Father with MI$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "EKG (resident read): \nNSR 80, NA/NI, ST depressions in III, aVF, V2-3$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "HTN and yperlipidemia who presents with weeks of exterional chest pain.\n is a risk fact$Cause_1": {
+                    "He is a gentleman with with HTN and yperlipidemia who presents with weeks of exterional chest pain.$Input2": {}
+                },
+                "he has noticed chest tightness in his sternum when walking blocks or climbing the stairs in his home.\n is a sign of acs$Cause_1": {
+                    "atient reports that for the last two weeks he has noticed chest tightness in his sternum when walking blocks or climbing the stairs in his home.$Input2": {}
+                },
+                "Dyslipidemia, Hypertension is a risk factor$Cause_1": {
+                    "CARDIAC RISK FACTORS: Dyslipidemia, Hypertension$Input3": {}
+                },
+                "BPH, depression is a risk factor$Cause_1": {
+                    "OTHER PAST MEDICAL HISTORY: BPH, depression$Input3": {}
+                },
+                "Family history:Brother with MI  is a big risk factor$Cause_1": {
+                    "Brother with MI$Input4": {}
+                },
+                "Family history:Father with MI  is a big risk factor$Cause_1": {
+                    "Father with MI$Input4": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "Cardiac silhouette size is normal.  Mediastinal and hilar contours are unremarkable. No pulmonary vascular congestion is present.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest Pain is a symptom of ACS.$Cause_1": {
+                        "Chest Pain$Input1": {}
+                    },
+                    "HTN and yperlipidemia who presents with weeks of exterional chest pain.\n is a risk fact$Cause_1": {
+                        "He is a gentleman with with HTN and yperlipidemia who presents with weeks of exterional chest pain.$Input2": {}
+                    },
+                    "he has noticed chest tightness in his sternum when walking blocks or climbing the stairs in his home.\n is a sign of acs$Cause_1": {
+                        "atient reports that for the last two weeks he has noticed chest tightness in his sternum when walking blocks or climbing the stairs in his home.$Input2": {}
+                    },
+                    "Dyslipidemia, Hypertension is a risk factor$Cause_1": {
+                        "CARDIAC RISK FACTORS: Dyslipidemia, Hypertension$Input3": {}
+                    },
+                    "BPH, depression is a risk factor$Cause_1": {
+                        "OTHER PAST MEDICAL HISTORY: BPH, depression$Input3": {}
+                    },
+                    "Family history:Brother with MI  is a big risk factor$Cause_1": {
+                        "Brother with MI$Input4": {}
+                    },
+                    "Family history:Father with MI  is a big risk factor$Cause_1": {
+                        "Father with MI$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest Pain\n",
+    "input2": "He is a gentleman with with HTN and yperlipidemia who presents with weeks of exterional chest pain. \n\ufeff\nPatient reports that for the last two weeks he has noticed chest tightness in his sternum when walking blocks or climbing the stairs in his home. He tried to continue activities despite the discomfort, which would resolve spontaneously. He has not had previous episodes of chest pain and has never needed cardiac evaluation, though he does have a strong family history of CAD. He was driving from house to company and awoke yesterday with the same chest pain; however, unlike previous episodes it did not resolve completely. This morning, he awoke with the same pain, now radiating to his back and right shoulder. He denies lightheadedness, nausea, lightheadedness, diaphoresis, SOB with these episodes of chest pain. He has had left calf pain for several years when standing for prolonged periods of time; this has not changed.\n",
+    "input3": "1. CARDIAC RISK FACTORS: Dyslipidemia, Hypertension  \n2. CARDIAC HISTORY: None  \n3. OTHER PAST MEDICAL HISTORY: BPH, depression\n",
+    "input4": "Brother with MI\nFather with MI\n",
+    "input5": "ADMISSION EXAM\nVS: 98.6 129/94 72 18 96%RA  \nGENERAL: WDWN male in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  \n\ufeff\nNECK: Supple, no JVD  \nCARDIAC: PMI located in ___ intercostal space, midclavicular line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness.  \nEXTREMITIES: No c/c/e.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES:  \nNEURO: A & O x 3, no focal neuro deficits\n",
+    "input6": "ADMISSION LABS\n08:40PM BLOOD WBC-10.7 RBC-4.54* Hgb-14.1 Hct-40.7 MCV-90 MCH-31.0 MCHC-34.6 RDW-12.8\n08:40PM BLOOD Glucose-110* UreaN-12 Creat-0.9 Na-137 \nK-4.3 Cl-98 HCO3-25 AnGap-18\n08:40PM BLOOD CK(CPK)-344*\n05:40AM BLOOD Calcium-9.6 Phos-3.5 Mg-2.2 Cholest-358*\n08:40PM BLOOD D-Dimer-655*\n05:40AM BLOOD Triglyc-296* HDL-44 CHOL/HD-8.1 \nLDLcalc-255*\n\ufeff\nENZYMES\n08:40PM BLOOD CK-MB-15* MB Indx-4.4\n08:40PM BLOOD cTropnT-0.17*\n05:40AM BLOOD CK-MB-12* MB Indx-3.8 cTropnT-0.33*\n04:50PM BLOOD CK-MB-7 cTropnT-0.45*\n06:45AM BLOOD CK-MB-5 cTropnT-0.45*\n08:40PM BLOOD CK(CPK)-344*\n05:40AM BLOOD ALT-37 AST-53* CK(CPK)-317\n04:50PM BLOOD CK(CPK)-255\n\ufeff\nSTUDIES\nCTA\n1. No pulmonary embolus. \n2. Esophageal thickening which may represent reflux \n\ufeff\nCXR\nCardiac silhouette size is normal.  Mediastinal and hilar contours are unremarkable. No pulmonary vascular congestion is present. Aside from mild bibasilar atelectasis, the lungs are clear.  No focal consolidation, pleural effusion or pneumothorax is seen.  There are multilevel degenerative changes in the thoracic spine. IMPRESSION: No acute cardiopulmonary abnormality.  \n\ufeff\nEKG (resident read): \nNSR 80, NA/NI, ST depressions in III, aVF, V2-3\n\ufeff\nCardiac Catheterization:\nFINAL REPORT PENDING\nPLEASE SEE DISC AND PRELIM REPORT (disc and hardcopies provided to patient)\n"
+}

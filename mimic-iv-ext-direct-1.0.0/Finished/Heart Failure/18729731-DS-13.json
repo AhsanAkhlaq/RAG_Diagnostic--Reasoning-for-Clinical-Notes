@@ -1,0 +1,55 @@
+{
+    "HFpEF$Intermedia_5": {
+        "LVEF>50% is the critiera for HFpEF$Cause_1": {
+            "LVEF>55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is mildly dilated.$Input6": {}
+            },
+            "Strongly Suspected Heart Failure$Intermedia_3": {
+                "NT-proBNP or pro-BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates Strongly suspected heart failure.$Cause_1": {
+                    "proBNP-7962*$Input6": {}
+                },
+                "Suspected Heart Failure$Intermedia_2": {
+                    "Shortness of breath is a common symptom of heart failure.$Cause_1": {
+                        "Shortness of Breath$Input1": {}
+                    },
+                    "Valve disease, including aortic valve replacement, is an important cause of heart failure.$Cause_1": {
+                        "male with past medical history of aortic valve replacement on warfarin, Afib, chronic kidney disease, diabetes presents today with SOB.$Input2": {}
+                    },
+                    "Atrial fibrillation (Afib) is the cause and triggering factor of heart failure.$Cause_1": {
+                        "Afib s/p cardioversion. On coumadin, INRs with Dr.$Input3": {}
+                    },
+                    "Diabetes is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "DMII-on Insulin$Input3": {}
+                    },
+                    "This is a typical manifestation of respiratory distress related to heart failure. Gradually worsening from exertional dyspnea to orthopnoea. Unable to sleep in a completely supine position at night. Finally, acute pulmonary edema may even occur.$Cause_1": {
+                        "The patient states that a little over a week prior to presentation, he developed acute onset shortness of breath while sitting. It has progressively worsened since then. It was worse with lying flat or w/ exertion.\nHe reports sleeping with two pillows at night.$Input2": {}
+                    },
+                    "Psychological and mental stress are also common triggers of heart failure.$Cause_1": {
+                        "Significant recent stress, patient's daughter died 8 weeks ago.$Input2": {}
+                    },
+                    "Valve disease, including aortic valve replacement (AVR), is an important cause of heart failure.$Cause_1": {
+                        "S/P AVR$Input3": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "A family history of cardiovascular disease$Cause_1": {
+                        "His mother had a stroke.$Input4": {}
+                    },
+                    "Elevated jugular venous pulse (JVP) is a common sign of heart failure, indicating the state of fluid retention.$Cause_1": {
+                        "NECK: elevated JVP$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Shortness of Breath\n",
+    "input2": "male with past medical history of aortic valve replacement on warfarin presents today with SOB. The patient states that a little over a week prior to presentation, he developed acute onset shortness of breath while sitting. It has progressively worsened since then. It was worse with lying flat or w/ exertion.\nHe reports sleeping with two pillows at night. No associated chest pain, nausea or vomiting. Denies any fevers, chills, URI type symptoms, abdominal pain, urinary or bowel symptoms. Denies any hemoptysis, leg swelling, recent travels or surgeries. Significant recent stress, patient's daughter died 8 weeks ago.\n",
+    "input3": "+ DMII-on Insulin\n+ S/P AVR\n+ Afib s/p cardioversion. On coumadin, INRs with Dr.\n+ HL  \n+ HTN  \n+ PVD  \n+ Gastric erosions in 1980s  \n+ S1 radiculopathy from lumbar disc disease \n+ Ascending aortic aneurysm\n",
+    "input4": "Family History: His mother had a stroke. There is no other known history of stroke, seizures, movement disorders, demyelinating disease, rheumatologic disease, heart attacks, or other neurologic or systemic disease.\n",
+    "input5": "ADMISSION:\nVITALS:  Temp: 97.7 PO BP: 176/86 HR: 58 RR: 22 O2\nsat: 94% O2 delivery: ra Dyspnea: 2 RASS: 0\nGENERAL: Well-developed, well-nourished. NAD. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  \nNECK: elevated JVP \nCARDIAC: PMI located in intercostal space, midclavicular line. RRR, normal S1, S2. No murmurs/rubs/gallops. No thrills, lifts.  \nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. Rare crackles bases.\nABDOMEN: Soft, NTND. No HSM or tenderness.  \nEXTREMITIES:  Warm and without edema\nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.\n",
+    "input6": "12:45AM   WBC-5.9 RBC-3.96* HGB-11.0* HCT-35.4* MCV-89 MCH-27.8 MCHC-31.1* RDW-16.4* RDWSD-53.0*\n12:45AM   CK-MB-4 proBNP-7962*\n12:45AM   cTropnT-0.02*\n07:03AM   TSH-4.8*\n07:03AM   cTropnT-0.02*\n02:52PM   GLUCOSE-202* UREA N-36* CREAT-1.9* SODIUM-145 \nPOTASSIUM-4.0 CHLORIDE-103 TOTAL CO2-23 ANION GAP-19*\n02:52PM   CALCIUM-8.8 PHOSPHATE-3.7 MAGNESIUM-2.0\n\nECHO:\nThe left atrium is mildly dilated. No atrial septal defect is seen by 2D or color Doppler. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%).\n"
+}

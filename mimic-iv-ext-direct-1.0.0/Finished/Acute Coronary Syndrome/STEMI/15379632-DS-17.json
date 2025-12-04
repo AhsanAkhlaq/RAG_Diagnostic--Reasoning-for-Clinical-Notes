@@ -1,0 +1,38 @@
+{
+    "STEMI-ACS$Intermedia_4": {
+        "Electrocardiogram showing ST segment depression and ST segment elevation is a key indicator for diagnosing STEMI. This change indicates possible myocardial ischemia or damage.$Cause_1": {
+            "Second EKG: rate 84, NSR, left axis deviation, worsened STD in V2-V3. Third EKG: rate 86, NSR, LAD STD in AVR, V1, V2 with mild ST elevation in V4-V6.$Input2": {}
+        },
+        "Elevated cardiac troponin is a marker of myocardial injury and supports the diagnosis of STEMI$Cause_1": {
+            "Labs were notable for troponin 0.36$Input2": {}
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "This description refers to the characteristic feeling of angina, which is a pressure or heaviness centered in the chest.$Cause_1": {
+                "pain as feeling like someone was pushing their forearm against his mid-chest$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a common symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "Acute chest pain is one of the typical symptoms of ACS. Its short duration and sudden onset are key diagnostic clues.$Cause_1": {
+                    "<1 day of acute chest pain$Input2": {}
+                },
+                "Night sweats with chest pain are due to an exaggerated sympathetic response, often seen in severe cardiac events.$Cause_1": {
+                    "pain was associated with diaphoresis and a mild headache$Input2": {}
+                },
+                "Hyperlipidemia is a significant risk factor for coronary artery disease$Cause_1": {
+                    "HLD$Input3": {}
+                },
+                "Tachycardia may be caused by the heart trying to compensate for insufficient blood flow to the coronary arteries and is a common symptom of heart disease.$Cause_1": {
+                    "HR102$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "He is a man with HLD, who presents with <1 day of acute chest pain.  \nThe chest pain woke him from sleep at 4 AM the day of presentation, and lasted one hour. He describes the pain as feeling like someone was pushing their forearm against his mid-chest. The pain was associated with diaphoresis and a mild headache. The pain is worse with lying flat, improved sitting up. There was no dyspnea, nausea, vomiting, abdominal pain, or radiation, and he has had no recent illnesses or URI symptoms. He took a Zantac and Advil, which improved his symptoms but they did not completely resolve. The chest pain continued throughout the day. He shares that the day before he had lifted weights and had a heavy dinner, and did not have chest pain during either. He has never had chest pain or pressure before. He occasionally has heart burn after eating certain foods, but never has had heart burn with exertion, and his symptoms this time were very distinct.  \nIn the ED initial vitals were: T 97.1 HR 89 BP 138/79 Resp 19 98% RA. Cr 1, Hb 16.2, Platelet 176, INR 1.1, PTT 30.7. Initial EKG: Initial: rate 83, NSR left axis deviation, no ischemic changes. Second EKG: rate 84, NSR, left axis deviation, worsened STD in V2-V3. Third EKG: rate 86, NSR, LAD STD in AVR, V1, V2 with mild ST elevation in V4-V6. CXR showed no acute cardiopulmonary process. He was given a full dose aspirin, SL nitroglycerin, and IV heparin. \nCardiology was consulted and he was taken to the cath lab. A DES was placed in the proximal LCX. He was loaded with Plavix.  \nUpon arrival to the floor, the patient gives the above history. He is currently chest pain free. He reiterates that he has never had symptoms like this before. He exercises a few times per week and always feels well. He has no history of presyncope/syncope,orthopnea, PND, or leg swelling.  \nREVIEW OF SYSTEMS:  \nOn further review of systems, denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. Denies exertional buttock or calf pain. Denies recent fevers, chills or rigors. All of the other review of systems were negative.\n",
+    "input3": "+ HLD  \n+ CABG: None  \n+ PERCUTANEOUS CORONARY INTERVENTIONS: None  \n+ PACING/ICD: None  \n+ Cataracts\n",
+    "input4": "Father: Cancer  \nMother: HTN  \nBrother: potentially had a cardiac condition a few years ago, unsure of details.\n",
+    "input5": "Admission physical exam:\n========================\nVS: T98.5 BP130/80 HR102 RR16 O2 SAT 98 RA  \nGENERAL: Pleasant and well appearing gentleman, NAD.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  \n\ufeff\nNECK: No JVD. No carotid bruits.  \nCARDIAC: RR, normal S1, S2. No murmurs/rubs/gallops. No thrills, lifts.  \nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. No crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness.  \nEXTREMITIES: No c/c/e. Warm. TR band in place on RUE.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES: Distal pulses palpable and symmetric  \nNEURO: CN intact, BUE and BLE, AOX3.\n",
+    "input6": "Admission labs:\n===============\n10:02AM BLOOD WBC-7.7 RBC-5.19 Hgb-16.2 Hct-47.1 MCV-91 MCH-31.2 MCHC-34.4 RDW-12.3 RDWSD-40.7\n10:02AM BLOOD Neuts-80.9* Lymphs-12.5* Monos-5.5 Eos-0.4* Baso-0.4 AbsNeut-6.24* AbsLymp-0.96* \nAbsMono-0.42 AbsEos-0.03* AbsBaso-0.03\n10:02AM BLOOD Glucose-104* UreaN-19 Creat-1.0 Na-140 K-4.1 Cl-103 HCO3-22 AnGap-19\n07:05AM BLOOD Calcium-8.6 Phos-2.8 Mg-2.3 Cholest-175\n07:05AM BLOOD %HbA1c-5.3 eAG-105\n"
+}

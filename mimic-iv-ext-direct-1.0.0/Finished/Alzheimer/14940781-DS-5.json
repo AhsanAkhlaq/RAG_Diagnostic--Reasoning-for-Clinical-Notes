@@ -1,0 +1,45 @@
+{
+    "Alzheimer$Intermedia_3": {
+        "The patient's Alzheimer's disease was moderate$Cause_1": {
+            "moderate Alzheimer's dementia$Input2": {}
+        },
+        "Suspected Alzheimer$Intermedia_2": {
+            "Decline in cognitive function, a key feature of Alzheimer's disease$Cause_1": {
+                "acute on chronic mental status change$Input1": {}
+            },
+            "Delirium is an acute cognitive disorder that is sometimes observed in patients with Alzheimer's disease.$Cause_1": {
+                "delirium$Input1": {}
+            },
+            "Increased agitation and confusion, common acute symptoms of Alzheimer's disease$Cause_1": {
+                "agitation episodes, worsening confusion$Input2": {}
+            },
+            "These behavioral problems may be caused by cognitive decline and difficulty regulating emotions caused by the condition.$Cause_1": {
+                "\"physically threatening to wife\" (picked up a piece of cement and threatened to hurt her). In addition, he doesn't recognize sons, is threatening others$Input2": {}
+            },
+            "Reflects the fluctuating nature of Alzheimer's symptoms$Cause_1": {
+                "good days and bad days$Input2": {}
+            },
+            "Antipsychotics to control agitation. This suggests that doctors are trying to manage his behavioral problems$Cause_1": {
+                "seroquel 25 mg$Input2": {}
+            },
+            "Hypertension is a common comorbidity in patients with Alzheimer's disease$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "The person has unusual behavior or changes in mental status, which are common symptoms of Alzheimer's disease$Cause_1": {
+                "acutely agitated man$Input5": {}
+            },
+            "This indicates significant cognitive impairment, a classic symptom of Alzheimer's disease.$Cause_1": {
+                "Awake, A&Ox1, unsure of location or year$Input5": {}
+            },
+            "Delirium may be related to multiple factors, including the neurodegenerative process of Alzheimer's disease$Cause_1": {
+                "not allowing me to examine due to severe agitation and delerium$Input5": {}
+            }
+        }
+    },
+    "input1": "acute on chronic mental status change, delirium  \n",
+    "input2": "___ y/o male with moderate Alzheimer's dementia, brought in for further evaluation for agitation episodes, worsening confusion.  \n\nThese episodes have been ongoing x 1 month, and patient has now been \"physically threatening to wife\" (picked up a piece of cement and threatened to hurt her). In addition, he doesn't recognize sons, is threatening others. He apparently has \"good days and bad days.\" Brought in by son for further evaluation, and family is scared.  \n\nOf note, he was recently started on seroquel 25 mg bid for these episodes of agitation.  \n",
+    "input3": "- HTN\n- h/o stroke/TIA  \n- hx of hearing loss  \n- hx of benign positioanl vertigo  \n- hx of cataract s/p surgery  \n- internal hemorrhoids  \n- carpal tunnel  \n- spinal stenosis  \n- hx of postherpetic neuralgia  \n- hx of aspiration pneumonia  \n- hx of weight loss  \n",
+    "input4": "NC\n",
+    "input5": "VS: 97.7, 58, 138/78, 17, 100 RA  \nGENERAL: acutely agitated man, with security at bedside  \nHEENT: NC/AT, sclerae anicteric, MMM  \nNECK: Supple, no thyromegaly  \nHEART/LUGNS/ABDOMEN: not allowing me to examine.  \nLUNGS: not allowing me to examine.  \nABDOMEN: not allowing me to examine.  \nEXTREMITIES: WWP, no c/c/e, 2+ peripheral pulses.  \nSKIN: No rashes or lesions, tattoos present.  \nNEURO: Awake, A&Ox1, unsure of location or year, not allowing me to examine due to severe agitation and delerium, no dysarthria, normal gait.\n",
+    "input6": "___ 07:00PM BLOOD WBC-7.0 RBC-4.01* Hgb-12.6* Hct-38.4* \nMCV-96 MCH-31.4 MCHC-32.7 RDW-13.8 Plt ___\n___ 07:00PM BLOOD Neuts-69.8 Lymphs-17.9* Monos-5.0 \nEos-6.3* Baso-1.0\n___ 07:00PM BLOOD Glucose-98 UreaN-21* Creat-1.3* Na-145 \nK-4.2 Cl-107 HCO3-29 AnGap-13\n___ 07:00PM BLOOD Calcium-9.2 Phos-3.7 Mg-2.0\n___ 07:00PM BLOOD VitB12-465 Folate-12.2\n___ 07:00PM BLOOD TSH-1.0\n___ 07:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG \nBnzodzp-NEG Barbitr-NEG Tricycl-NEG\n___ 07:17PM BLOOD Lactate-1.4\n.\nImaging:\n.\nPresenting CXR:\nStable blunting of the left costophrenic angle with left base opacity may be due to a trace left effusion with overlying atelectasis.  Otherwise, no significant interval change. \n.\n___ Nightfloat CXR:\nA new large area of consolidation in the right upper and smaller in the right lower lung is due to pneumonia. Left lung is grossly clear. Heart size normal. Dr. ___ was paged.    No pneumothorax. Small pleural effusion is not excluded. \n"
+}

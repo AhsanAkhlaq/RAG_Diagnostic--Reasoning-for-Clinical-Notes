@@ -1,0 +1,35 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "This is the support for Low-risk PE$Cause_1": {
+            "TWI in III which is \nchronic, no R heart strain$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "A tiny filling defect in a small branch of the right lower lobe pulmonary artery is a direct sign of pulmonary embolism.$Cause_1": {
+                "Tiny filling defect noted in the subsegmental branch of the posteriorsegment of the right lower lobe pulomary artery with a small right-sided pleural effusion.$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Chest pain is a common symptom of PE$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "Common symptoms of pulmonary embolism include sudden chest pain, especially pain related to the pleura, which may be caused by irritation of the pleura due to the obstruction of blood flow to the lungs by the embolus.$Cause_1": {
+                    "sudden onset of pleuritic L$Input2": {}
+                },
+                "Pulmonary embolism may cause decreased lung function, which can lead to shortness of breath$Cause_1": {
+                    "Associated with SOB and appears to be extertional as he was unable to work$Input2": {}
+                },
+                "Knee surgery may increase risk of deep vein thrombosis, a significant risk factor for pulmonary embolism$Cause_1": {
+                    "L Knee Surgery$Input3": {}
+                },
+                "Hyperlipidemia refers to high levels of fat in the blood, which increases the risk of pulmonary embolism.$Cause_1": {
+                    "HLD$Input3": {}
+                }
+            }
+        }
+    },
+    "input1": "Chest Pain\n",
+    "input2": "He w/ h/o migraines who presented to ED with sudden onset of pleuritic L sided CP that woke him from sleep at 2am this morning. Associated with SOB and appears to be extertional as he was unable to work. He was able to go to work this AM but then decided to come to the ED. SOB is positional in nature, no PND. No hx of similar episodes in the past. No travel. No fever/cough. No hx of cancer, or clots. No fam history of clot. No leg swelling. Noc ough or hemoptysis.\n\ufeff\n\ufeff\nOn arrival to the floor, pt reports improved pleuritic pain, confirms on the L but all ED notes report R sided pleuritic CP. Developed a HA in the ED. Recent MVC with whiplash.\n",
+    "input3": "+Erectile dysfunction\n+Hemorrhoids\n+Hx of Acne-Keloid\n+Migraines\n+L Knee Surgery\n+HLD\n",
+    "input4": "Father and Mother are alive and healthy without medical problems.\nNo family hx of clots. 2 uncles with lung cancer but were both smokers.\n",
+    "input5": "\n",
+    "input6": "Labs:\n___ 08:10AM BLOOD WBC-7.1 RBC-5.00 Hgb-14.7 Hct-39.4* MCV-79* MCH-29.4 MCHC-37.3* RDW-13.8\n___ 08:40PM BLOOD Neuts-75.2* Lymphs-16.9* Monos-6.3 Eos-1.1 Baso-0.5\n___ 08:40PM BLOOD PTT-29.2\n___ 08:10AM BLOOD Glucose-98 UreaN-13 Creat-1.3* Na-138 K-3.8 Cl-101 HCO3-27 AnGap-14\n___ 08:40PM BLOOD ALT-18 AST-25 LD(LDH)-194 TotBili-0.4\n___ 08:10AM BLOOD proBNP-14\n___ 03:10AM BLOOD cTropnT-<0.01\n___ 08:40PM BLOOD cTropnT-<0.01\n___ 08:40PM BLOOD calTIBC-265 Ferritn-184 TRF-204\n___ 12:04AM URINE Blood-NEG Nitrite-NEG Protein-NEG \nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG\n\ufeff\nImaging:\nTiny filling defect noted in the subsegmental branch of the posteriorsegment of the right lower lobe pulomary artery with a small right-sided pleural effusion.\n\ufeff\nEKG: NSR LAD, ?STD III (poor baseline), TWI in III which is \nchronic, no R heart strain\n\ufeff\n"
+}

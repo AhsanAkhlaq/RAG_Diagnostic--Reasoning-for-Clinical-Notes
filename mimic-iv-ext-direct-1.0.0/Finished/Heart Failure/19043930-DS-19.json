@@ -1,0 +1,49 @@
+{
+    "HFpEF$Intermedia_5": {
+        "LVEF\u226550% is the critiera for HFpEF$Cause_1": {
+            "LVEF>55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Chest X-ray (CXR) find that Interval development of mild to moderate bilateral pulmonary edema is with a small to moderate bilateral pleural effusions which is common manifestation of heart failure.$Cause_1": {
+                "CXR: \nFINDINGS: Interval development of mild to moderate bilateral pulmonary edema is with a small to moderate bilateral pleural effusions and adjacent atelectasis.$Input6": {}
+            },
+            "The echocardiogram showed that the heart function was better than before. This suggests an improvement in heart failur.$Cause_1": {
+                "Mild symmetric left ventricular hypertrophy with preserved global and regional biventricular systolic function. Mildly dilated thoracic aorta. Mild aortic regurgitation. Mild mitral regurgitation. Mild pulmonary hypertension.Compared with the prior study (images reviewed), left ventricular function appears more vigorous and regional dysfunction is not seen.$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates acute heart failure.$Cause_1": {
+                    "proBNP-8603*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "The history of Chronic systolic heart failure (sCHF) suggests that this admission is likely an acute exacerbation of chronic diastolic heart failure.$Cause_1": {
+                        "sCHF (EF 40%)$Input3": {}
+                    },
+                    "Dyspnea is a common symptom of heart failure.$Cause_1": {
+                        "Dyspnea$Input1": {}
+                    },
+                    "Tachy-Brady syndrome can cause heart failure.$Cause_1": {
+                        "Tachy-Brady syndrome c/b syncope s/p PPM$Input3": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "Hyperlipidemia is a risk factor for heart failure.$Cause_1": {
+                        "HLD$Input3": {}
+                    },
+                    "Diabetes is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "T2DM (last HgA1c 6.3)$Input3": {}
+                    },
+                    "With the exception of myocardial infarction, elevated troponin is indicative of heart failure-related myocardial damage.$Cause_1": {
+                        "cTropnT-0.03*$Input6": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea\n",
+    "input2": "He with a PMH significant for T2DM (HgA1c 6.3, Prostate Ca s/p TURP, HTN, HLD, remote h/o DVT, and likely MDS 2 positive), sCHF (EF 40%, s/p PPM Sensia placed, generator exchange for complete heart block and tachy/brady syndrome.\n\nOf note, his PPM was last interrogated and was a-sensed, v-paced 85% of the time. \n\ufeff\nHe received 325 aspirin and SL Nitro x2 with improvement in his symptoms in the ambulance. \n\ufeff\nED Course (labs, imaging, interventions, consults): \n- Initial Vitals/Trigger: T 98.5, HR 84 BP 188/78 RR 16 100% on 2L\n- EKG: Unchanged from priors. A-sensed, V-paced at 61 with appropriate left axis deviation. No ST segment changes. \n- CXR: pending\n- Trops: 0.03 (9AM), CK-MB 3, BNP 8603\n\ufeff\nOn arrival to floor, patient was without cp or SOB, resting comfortably in bed.  Initial vitals were T=98.7 BP= 170/85 HR= 65 RR= 20 O2 sat=93% RA\n\ufeff\n",
+    "input3": "+ sCHF (EF 40%\n+ Tachy-Brady syndrome c/b syncope s/p PPM\n+ HTN\n+ HLD\n+ T2DM (last HgA1c 6.3)\n+ MDS with ___ 2 Mutation\n+ Bilateral knee replacements\n",
+    "input4": "No known family history\n",
+    "input5": "Physical Exam:\nADMISSION PHYSICAL EXAM:\nVS: Wt=83.92 kgs T=98.7 BP= 170/85 HR= 65 RR= 20 O2 sat=93% RA  \nGeneral: Laying in bed in NAD\nHEENT:  NC/AT, EOMI, sclera anicteric \nNeck: Trachea midline, JVP 5cm above sternal notch\nCV: RRR, no r/m/g appreciated \nLungs: bibasilar crackles\nAbdomen: Soft, nd, nttp, +BS\nGU: Deferred\nExt:  2+ radial and DP pulses, no c/c/e\nNeuro: Speech fluent, moving all extremities\nSkin: no rashes noted\n\ufeff\n",
+    "input6": "ADMISSION LABS:\n___ 09:00AM BLOOD WBC-20.0* RBC-4.20* Hgb-11.0* Hct-34.8* MCV-83# MCH-26.2* MCHC-31.6# RDW-17.0*\n___ 09:00AM BLOOD Neuts-69 Bands-1 Lymphs-5* Monos-19* Eos-1 Baso-3* Myelos-2*\n___ 09:00AM BLOOD Glucose-92 UreaN-22* Creat-1.0 Na-138 K-3.8 Cl-99 HCO3-28 AnGap-15\n___ 03:20PM BLOOD CK(CPK)-95\n___ 09:00AM BLOOD CK-MB-3 proBNP-8603*\n___ 09:00AM BLOOD cTropnT-0.03*\n___ 03:20PM BLOOD CK-MB-3\n___ 03:20PM BLOOD cTropnT-0.03*\n___ 09:00AM BLOOD Calcium-9.0 Phos-3.6 Mg-2.0\n\ufeff\nIMAGING/STUDIES:\nECG: Sinus rhythm with ventricular pacing. Compared to the previous tracing no significant change.\n\ufeff\nCXR: \nFINDINGS: Interval development of mild to moderate bilateral pulmonary edema is with a small to moderate bilateral pleural effusions and adjacent atelectasis.  There is no evidence of focal consolidation suspicious for pneumonia.  No pneumothorax is identified. The heart size is top normal.  Redemonstrated is a left pectoral pacemaker with two continuous leads seen extending to the right atrium and right ventricle, respectively. \n \nIMPRESSION: Mild to moderate pulmonary edema with bilateral pleural effusions and adjacent atelectasis.\n\ufeff\nECHO:\nThe left atrium is elongated. The estimated right atrial pressure is at least 15 mmHg. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%). The estimated cardiac index is normal (>=2.5L/min/m2). No mid-cavitary gradient is identified. There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. The aortic root is mildly dilated at the sinus level. The ascending aorta is mildly dilated. The aortic valve leaflets (3) are mildly thickened. There is no aortic valve stenosis. Mild (1+) aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Mild (1+) mitral regurgitation is seen. The left ventricular inflow pattern suggests impaired relaxation. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion. \nIMPRESSION: Mild symmetric left ventricular hypertrophy with preserved global and regional biventricular systolic function. Mildly dilated thoracic aorta. Mild aortic regurgitation. Mild mitral regurgitation. Mild pulmonary hypertension.Compared with the prior study (images reviewed), left ventricular function appears more vigorous and regional dysfunction is not seen.\n\ufeff\n"
+}

@@ -1,0 +1,30 @@
+{
+    "Type B Aortic Dissection$Intermedia_3": {
+        "The CTA examination results confirmed the dissection of the descending aorta, but did not extend to the ascending aorta. This is the key basis for diagnosing Type B Aortic Dissection.$Cause_1": {
+            "dissection of descending thoracic aorta from just beyond origin of left subclavian artery extending to the aortic hiatus.$Input6": {}
+        },
+        "Suspected Aortic Dissection$Intermedia_2": {
+            "chest and back pain are common symptom of Aortic Dissection$Cause_1": {
+                "chest and back pain$Input1": {}
+            },
+            "A history of thoracic aortic aneurysm increases the risk of aortic dissection$Cause_1": {
+                "history of thoracic aortic aneurysm$Input2": {}
+            },
+            "Tearing chest pain is a typical symptom of aortic dissection, especially if the pain radiates to the back.$Cause_1": {
+                "3 hour history of a tearing chest pain that radiated to his back$Input2": {}
+            },
+            "The sudden onset of pain and its persistence are consistent with the pain characteristics of aortic dissection.$Cause_1": {
+                "the pain began during the day, however was a lower grade pain and around 11PM the pain became sharp, severe and constant$Input2": {}
+            },
+            "Bradycardia, possibly due to circulatory problems, suggests underlying aortic problems$Cause_1": {
+                "HR 56$Input5": {}
+            }
+        }
+    },
+    "input1": "chest and back pain\n",
+    "input2": "He is with a history of thoracic aortic aneurysm presents to the ER with a 3 hour history of a tearing chest pain that radiated to his back. He states the pain began during the day, however was a lower grade pain and around 11PM the pain became sharp, severe and constant. The pain intensity did not subside therefore he decided to be evaluated in the ER. He also reports he had a similar episode 2 weeks ago where he was evaluated and was told he had a thoracic aneurysm. He was evaluated by a surgeon who suggestive operative repair, however the patient was unable to go to his follow up appointments.\n",
+    "input3": "+Bentall with mechanical AVR\n+L THR x 3\n+removal of hardware\n",
+    "input4": "denies hx of aortic aneurysms, dissections or valvular disease\n",
+    "input5": "bp 106/62 HR 56 reg RR 12\n\nGen: lying in bed in NAD. Alert and oriented\nCV: RRR, audible click from mechanical aortic valve\nLungs: CTA bilat\nAbd: Soft no m/t/o\nExtremities: Warm, well perfused, palpable lower extremity pulses bilat\nWound: groin puncture c/d/i\n",
+    "input6": "___ 03:19AM BLOOD WBC-4.0 RBC-3.84* Hgb-12.2* Hct-35.9* MCV-93 MCH-31.7 MCHC-33.9 RDW-13.6 Plt ___\n\n___ 03:19AM BLOOD ___ PTT-27.2 ___\n___ 07:23AM BLOOD Glucose-98 UreaN-11 Creat-0.8 Na-139 K-4.0 Cl-108 HCO3-23 AnGap-12\n___ 07:23AM BLOOD ALT-22 AST-29 CK(CPK)-55 AlkPhos-73 TotBili-0.8\n___ 03:19AM BLOOD Lipase-17\n___ 07:23AM BLOOD CK-MB-1 cTropnT-<0.01\n___ 07:23AM BLOOD Albumin-3.7 Calcium-8.4 Phos-3.4 Mg-1.6\n\nCTA chest was obtained, which showed dissection of descending thoracic aorta from just beyond origin of left subclavian artery extending to the aortic hiatus.\n\n"
+}

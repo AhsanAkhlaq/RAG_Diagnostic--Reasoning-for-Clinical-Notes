@@ -1,0 +1,32 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "This is the support for Low-risk PE$Cause_1": {
+            "The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "A tiny filling defect in a small branch of the right lower lobe pulmonary artery is a direct sign of pulmonary embolism.$Cause_1": {
+                "Tiny filling defect noted in the subsegmental branch of the posteriorsegment of the right lower lobe pulomary artery with a small right-sided pleural effusion.$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Chest pain is a common symptom for PE$Cause_1": {
+                    "Right sided chest pain$Input1": {}
+                },
+                "The patient presented with acute onset of right-sided pleuritic chest pain. Pleuritic chest pain and shortness of breath are typical symptoms of pulmonary embolism.$Cause_1": {
+                    "acute onset of right sided pleuritic chest pain$Input2": {}
+                },
+                "Prolonged hospitalization and a recent history of surgery are important risk factors for pulmonary embolism because these conditions increase the likelihood of blood clots forming.$Cause_1": {
+                    "a prolonged hospitalization for perforated appendicitis$Input2": {}
+                },
+                "Increased heart rate. Pulmonary embolism may cause the heart to work harder, which may increase the heart rate$Cause_1": {
+                    "HR 105$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Right sided chest pain\n",
+    "input2": "He recently discharged after a prolonged hospitalization for perforated appendicitis now presenting with right sided chest pain. Patient was admitted and was initially managed conservatively with iv antibiotics and a percutaneous RLQ drain. He failed treatment and was complicated by small bowel obstruction. He was discharged 2 days ago, feeling well and tolerating a regular diet. He now presents with acute onset of right sided pleuritic chest pain since yesterday morning, associated with some shortness of breath that got significantly worse by 10. Denies any retrosternal chest pain. He was somewhat diaphoretic, but denies any objective fevers or chills. Has been feeling well otherwise, having normal bowel movements and passing flatus.\n\ufeff\n",
+    "input3": "PMHx: prior ruptured eardrum as a child without sequelae\nPSHx: prior bilateral tympanostomy tubes\n",
+    "input4": "nc\n",
+    "input5": "Physical Exam:\nVitals: T 98.1 HR 105 BP 107/61 RR 18 SO2 98% \nGEN: A&O, NAD\nHEENT: No scleral icterus, mucus membranes moist\nCV: RRR, No M/G/R\nPULM: Clear to auscultation b/l, No W/R/R\nABD: Soft, nondistended, appropriately tender to palpation around the prior incision. No rebound or guarding, normoactive bowel sounds, no palpable masses. Wound healing well. Staples still in place. Minimal serous drainage from the umbilical portion of the wound. No erythema.\nExt: No edema, warm and well perfused\n\ufeff\n",
+    "input6": "___ 04:26PM   PTT-27.4\n___ 09:15AM   PTT-29.0\n___ 05:33AM   PTT-55.5*\n___ 02:10AM   WBC-14.0*# RBC-3.47* HGB-11.0* HCT-31.3*  MCV-90 MCH-31.6 MCHC-35.0 RDW-13.2\n___ 02:10AM   PLT COUNT-380#\n___ 02:10AM   PTT-26.7\n___ 12:53AM   COMMENTS-GREEN TOP\n___ 12:53AM   GLUCOSE-127* NA+-138 K+-3.9 CL--100 TCO2-23\n___ 12:45AM   cTropnT-<0.01\n___ 12:45AM   TSH-3.8\n___ 12:45AM   FREE T4-1.7\n\ufeff\nTiny filling defect noted in the subsegmental branch of the posteriorsegment of the right lower lobe pulomary artery with a small right-sided pleural effusion.\n\nThe patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels\n\n"
+}

@@ -1,0 +1,27 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "initial vitals was 160/96$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "BP in AM was found to be 170/103$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.**$Cause_1": {
+            "VS: 159/100$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Chest pain is a symptoms of Hypertension.$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "Diabetes is a srisk factor of Hypertension.$Cause_1": {
+                "Diabetes$Input3": {}
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "On the day prior to admission, patient called his cardiologist's office and complained of feeling unwell for several weeks w/ URI and SOB sx. He had seen his PCP recently who had been actively working up his symptoms and had requested EKG, chest and leg CTA, and PFTs done at ___ which were all normal. He continues to feel malaise and fatigue and recently noticed intermittent left sided chest tightness that does not seem to be particularly exertional, is sometimes associated with shortness of breath. It occasionally occurs at rest. He denies lightheadedness, dizziness or palpitations. His cardiologist's office reccommended taking ASA 325 and to present to the ED if symptoms worsened or persisted. \n\nIn the ED, initial vitals were 0 97 85 160/96 18 97%RA. An EKG showed NSR at 74, no sig change from prior, no ischemic changes. Trops were negative x3 and CBC, Chem10 unremarkable. The plan was to complete a simple stress test on ___ AM and discharge from ED if negative, however, BP in AM was found to be 170/103 and his stress test was cancelled. He was admitted to the floor for blood pressure control and stress test ___ AM.\n \nOn review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. He denies recent fevers, chills or rigors. He denies exertional buttock or calf pain. All of the other review of systems were negative.\n",
+    "input3": "Diabetes, \n+Dyslipidemia,\n",
+    "input4": "Mother deceased at age ___ of an MI, and maternal grandfather also deceased at age ___ of an MI.\n",
+    "input5": "VS: 97.7, 159/100, 82, 20, 99RA  \nGeneral: WDWN M in NAD, resting in bed, appears anxious, fast speech at baseline\nHEENT: dilated pupils (at baseline per patient), OP clear, MMM   \n\nNeck: supple, no JVD   \nCV: RRR, no m/r/g\nLungs: CTAB, no increased work of breathing, no wheezes, rales, rhonchi\nAbdomen: soft, NTND \nGU: no foley\nExt: No peripheral edema, warm, well perfused, 2+ bilateral \nradial, ___\nNeuro: moves all extremities, ___ strength in bilateral upper and lower extremities\nSkin: c/d/i, no rashes\n",
+    "input6": "___ 01:00PM BLOOD WBC-7.2 RBC-4.31* Hgb-15.0 Hct-42.5 \nMCV-99* MCH-34.8* MCHC-35.2* RDW-12.9 Plt ___\n___ 01:00PM BLOOD Neuts-73.7* ___ Monos-5.0 Eos-1.7 \nBaso-1.5\n___ 01:00PM BLOOD Glucose-99 UreaN-9 Creat-1.0 Na-142 K-4.3 \nCl-104 HCO3-27 AnGap-15\n\nTREND LABS:\n\n___ 01:00PM BLOOD cTropnT-<0.01\n___ 05:42PM BLOOD cTropnT-<0.01\n___ 11:45PM BLOOD cTropnT-<0.01\n"
+}

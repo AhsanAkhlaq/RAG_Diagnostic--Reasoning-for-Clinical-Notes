@@ -1,0 +1,33 @@
+{
+    "Primary Adrenal Insufficiency$Intermedia_3": {
+        "This is the standard for diagnosing Primary Adrenal Insufficiency$Cause_1": {
+            "cortisol does not increase even when ACTH is given because the adrenal glands are damaged$Input6": {}
+        },
+        "Suspected Adrenal Insufficiency$Intermedia_2": {
+            "Persistent fatigue, which may be caused by insufficient secretion of adrenocortical hormones$Cause_1": {
+                "he feels like he never recovered his energy$Input2": {}
+            },
+            "Decreased physical strength, which may be caused by insufficient secretion of adrenocortical hormones$Cause_1": {
+                "particularly when walking to work, which he was able to do with difficulty prior$Input2": {}
+            },
+            "These symptoms may be related to low blood pressure, and adrenal insufficiency affects electrolyte balance and blood pressure regulation in the body.$Cause_1": {
+                "intermittent dizziness and lightheadedness with standing$Input2": {}
+            },
+            "Adrenal insufficiency can cause gastrointestinal symptoms such as abdominal pain, as well as weight loss due to decreased appetite and changes in metabolism$Cause_1": {
+                "intermittent cramping abdominal pain and a 20lbs unintentional weight loss over the past 2 months$Input2": {}
+            },
+            "Electrolyte abnormalities are a typical biochemical feature of primary adrenal insufficiency$Cause_1": {
+                "hyponatermia to 121, hyperkalemia to 5.8$Input2": {}
+            },
+            "Adrenocortisol is the main hormone secreted by the adrenal cortex, and abnormally low levels usually indicate adrenal insufficiency.$Cause_1": {
+                "low pm cortisol of 0.7$Input2": {}
+            }
+        }
+    },
+    "input1": "abnormal labs\n",
+    "input2": "This is a 33 year male referred to ED by his endocrinology for abnormal labs. \n\nThe patient reports that 1 month ago he had a viral URI that resolved, however he feels like he never recovered his energy. He noticed DOE, particularly when walking to work, which he was able to do with difficulty prior. He is at baseline very athletic. He also noticed intermittent dizziness and lightheadedness with standing, intermittent cramping abdominal pain and a 20lbs unintentional weight loss over the past 2 months. He reports his appetite is still at baseline but has been limited by his abdominal pain. He endorses  nausea at the time of his URI. Given these symptoms he saw his PCP. His PCP ran series of lab notable for TSH 0.21, AlP 76, AST 48, K 5.3. He had a RAIU+S, which showed a homogenous gland with uptake at the upper limit of normal. He was then referred to endocrine for further evaluation.\n  \nHe was seen in clinic the day of admission and was initally thought to have resolving thyroditis, and was sent to have several labs checked. Labs from clinic were notable for elevated TSH of 22, low T4 at 3.6 with normal T 3,hyponatermia to 121, hyperkalemia to 5.8, hyperphosphatemia to 5.6, low pm cortisol of 0.7. Given these finding he was recommended to come to the ED for eval for concern for adrenal insufficiency.  \n\n\n",
+    "input3": "none\n",
+    "input4": "Father and sister with Celiac  \n",
+    "input5": "ADMISSION EXAM:\nVitals - T 97.5 BP 97/50 P 70 RR 18 10% RA  \nHEENT: AT/NC, EOMI, PERRL, anicteric sclera. No proptosis or exopthalmos  \nNeck: neck supple, non tender, no thyromegally or nodules appreciated. No lymphadenopathy.  \nCARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  \nLUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles  \nABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly  \nEXTREMITIES: moving all extremities well, no cyanosis, clubbing or edema  \nPULSES: 2+ DP pulses bilaterally  \nNEURO: CN II-XII intact  \nSKIN: warm and well perfused, no excoriations or lesions, no rashes  \n",
+    "input6": "ADMISSION LABS:\n\nBLOOD:\n___ 12:47PM BLOOD WBC-7.2 RBC-5.47 Hgb-14.9 Hct-45.0MCV-82 MCH-27.1 MCHC-33.0 RDW-12.1 Plt ___\n___ 11:05PM BLOOD Neuts-38.2* Lymphs-51.9* Monos-6.0 Eos-3.1 Baso-0.7\n___ 12:47PM BLOOD UreaN-25* Creat-1.1 Na-121* K-5.8* Cl-87* HCO3-23 AnGap-17\n___ 12:47PM BLOOD ALT-62* AST-48* AlkPhos-78 TotBili-0.7\n___ 12:47PM BLOOD GGT-9\n___ 12:47PM BLOOD CK-MB-11* MB Indx-3.2\n___ 12:47PM BLOOD Albumin-4.4 Calcium-10.4* Phos-5.6* Mg-1.9\n___ 11:05PM BLOOD Osmolal-260*\n___ 12:47PM BLOOD Prolact-19* TSH-22*\n___ 12:47PM BLOOD T4-3.6* T3-101 Free T4-0.64*\n___ 11:05PM BLOOD Cortsol-0.7*\n___ 12:47PM BLOOD 25VitD-14*\n\n\ncortisol does not increase even when ACTH is given because the adrenal glands are damaged\n\nIMAGING: ___ Thyroid scan with uptake \n\"IMPRESSION: 24 hour uptake of radioiodine at the upper limits of normal. If TSH is suppressed, this finding suggest sautonomy, such as with Graves disease.\"\n"
+}

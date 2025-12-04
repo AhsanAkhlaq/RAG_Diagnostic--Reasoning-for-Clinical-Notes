@@ -1,0 +1,24 @@
+{
+    "Gastric ulcers$Intermedia_3": {
+        "Gastric ulcer on endoscopy is the gold standard of gastric ulcer.$Cause_1": {
+            "Endoscopy:Gastric ulcer$Input6": {}
+        },
+        "suspected peptic ulcer disease$Cause_2": {
+            "past medical history significant for appendectomy, H. pylori gastritis and hyperglycemia (HgbA1C 7.0) who presents with acute onset abdominal pain, which are the possible symptom and risk factor of peptic ulcer.$Cause_1": {
+                "A man with past medical history significant for appendectomy, H. pylori gastritis and hyperglycemia (HgbA1C 7.0) who presents with acute onset abdominal pain$Input2": {}
+            },
+            "abdominal pain is the manifestation of peptic ulcer.$Cause_1": {
+                "He states that his abdominal pain is usually diffuse, bloating patient in all four quadrants, although somewhat more painful in the epigastrium.$Input2": {}
+            },
+            "History of gastric disease.$Cause_1": {
+                "+H. pylori gastritis - biopsy in positive, also showed Antral mucosa with chronic active gastritis.$Input3": {}
+            }
+        }
+    },
+    "input1": "Abdominal pain\n",
+    "input2": "A man with past medical history significant for appendectomy, H. pylori gastritis and hyperglycemia (HgbA1C 7.0) who presents with acute onset abdominal pain. Patient states, in , that he has had long-standing, diffuse abdominal pain. As early as , he underwent a barium swallow for epigastric pain which showed no pathology. He states that his abdominal pain is usually diffuse, bloating patient in all four quadrants, although somewhat more painful in the epigastrium. Patient's abdominal pain typically improves after ~30 minutes with or without Prilosec, but this current episode persisted until he arrived on the floor. Patient's abdominal pain started last night ~11 pm. He had had chicken for dinner and had a normal bowel movement around pm. Patient woke up at around midnight with persistent abdominal pain. Of note, patient also notes some early satiety with his recent bouts of abdominal pain. One month ago, his primary care provider gave him prescription for two week course of Clarithromycin 500mg daily, Amoxicillin 500mg daily; patient kept forgetting to take his medications and so the two week course was drawn out into 4 weeks. Patient just completed his antibiotic course 3 days prior to admission. Patient and wife state he has not had an EGD or colonoscopy for at least years. Patient also denies melena, hematochezia, rashes or lesions, diarrhea or constipation. He also denies taking excessive NSAIDS, aspirin, caffeine. In the ED, VS were 99.9, 128/74, 108, 16, 99% RA. He was given 1L NS, ASA 325 and omeprazole 40 mgPO. KUB showed no free air or other acute pathology. He had two sets of negative CE with TWI in V4-6 (seen on priors); he was admitted for a stress test. He was guaiac negative.\n",
+    "input3": "+Appendectomy\n+H. pylori gastritis - biopsy in positive, also showed Antral mucosa with chronic active gastritis.\n+Hyperglycemia with HgbA1c 7.0\n",
+    "input4": "Denies family history of diabetes, hypertension, high cholesterol or malignancies\n",
+    "input5": "Vitals: T 98.2 R 18  118/62  96% on RA   BM X1 \nGen: Alert and oriented, no acute distress. \nHEENT: EOMI. MMM. Normal oro/nasopharynx, conjunctiva well pigmented/not pale. \nNeck: Soft, supple. No LAD. \nChest: Good inspiratory effort, no wheezing/rhonchi/rales. \nCV: Regular rate and rhythm, normal S1/S2, no murmurs/gallops/rubs\nAbdomen: Soft, non-tender but uncomfortable with palpation, non-distended. +BS, no HSM or fluid waves/shifting dullness. \nSlightly increased discomfort to palpation in the epigastrum. \nExtremity: Warm, well-perfused. No cyanosis/ecchymosis/edema. No venous stasis changes. Dry skin.\nNeuro: Alert and oriented. Cranial nerves grossly intact. Motor strength and sensation grossly intact.  \nAccess: PIV.\n",
+    "input6": "freeCa:1.04\nLactate:0.7\npH:7.43\n\nChem 10\n138   AGap=12 \n3.5  23  0.6  \nCa: 7.6 Mg: 2.0 P: 2.5\n\nCK: 38  MB: Notdone  Trop-T: <0.01  \n\n74 Lip: 29     \n\nCBC \n6.2 > 13.8 < 188 \n      39.4  \n\nKUB: No evidence of bowel obstruction or free air. Small air-fluid levels in the descending colon. \n\nCXR: No acute cardiopulmonary processes. \n\nInitial EKG: NSR at 96, nml axis, good RWP, no Q wave, TWI or ST changes. No priors for comparison  \nRepeat EKG: Resolved T wave inversions in V4-V6\nEndoscopy:Gastric ulcer\n"
+}

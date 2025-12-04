@@ -1,0 +1,26 @@
+{
+    "chronic non-atrophic gastritis$Intermedia_4": {
+        "Linear erythema,  rough mucosa and bleeding spots are the gold standard for the diagnosis of chronic non-atrophic gastritis\r.$Cause_1": {
+            "EGD :  \nLinear erythema,  rough mucosa, bleeding spots \nDuodenum appeared normal. (biopsy)  \nOtherwise normal EGD to third part of the duodenum$Input6": {}
+        },
+        "chronic gastritis$Intermedia_3": {
+            "Long-term alcohol abuse is is a risk factor for chronic gastritis$Cause_1": {
+                "She takes no NSAIDs for pain but long-term alcohol abuse$Input2": {}
+            },
+            "suspected gastritis$Intermedia_2": {
+                "Symptoms such as abdominal discomfort are possible signs of gastritis.$Cause_1": {
+                    "She reports many months of post-prandial abdominal discomfort and some unintentional weight loss. Approximately 9 days prior to admission she developed malaise, constipation, nausea, vomitting, anorexia, and chills.$Input2": {}
+                },
+                "Abdominal pain is a possible symptom of gastritis.$Cause_1": {
+                    "abdominal pain$Input1": {}
+                }
+            }
+        }
+    },
+    "input1": "abdominal pain\n",
+    "input2": "She is a ___ F with a medical history notable for Celiac disease. She reports many months of post-prandial abdominal discomfort and some unintentional weight loss. Approximately 9 days prior to admission she developed malaise, constipation, nausea, vomitting, anorexia, and chills. She was unable to eat frequent meals due to anorexia and was seen by her PCP. A KUB suggested no obstruciton and she was encouraged to take laxatives and suppositories. She was then able to move her bowels and had blood bowel movements 2 days prior to admission. \n\nShe re-presented to her PCP and was noted to be orthostatic and had guaiac positive stool on exam. \n\nCurrently she notes a significant amount of malaise and anorexia. She had no more vomitting and has had no bowel movements for 48 hours. She has a ___ LUQ pain-constant in nature and worse with cough or eating. She takes no NSAIDs for pain but long-term alcohol abuse\n\nVital signs on arrival to ED: T 99.0, P 70, BP 121/87, 99% on arrival to ED. Her evaluation in the ED was notable for guaiac positive stool. In the ED she received 8mg of morphine.\n\nReview of Systems: Pain assessment on arrival to the floor:(LUQ pain). She recently had \"scarlet fever\" and was on antibiotics for this. No SOB, cough, or chest pain. No urinary symptoms. No vaginal symptoms. No skin changes. No arthralgias or joint swelling. Other systems reviewed in detail and all otherwise negative.\n",
+    "input3": "Celiac disease\nanxiety and depression\npossible diagnosis of endometriosis\nvitamin D deficiency\n",
+    "input4": "Not relevant to the current admission\n",
+    "input5": "Vital Signs: T 98.3, P 66, BP 126/80, 98% on RA.\n\nGen: Well-appearing in NAD.  \nHEENT: Oropharynx clear w/out lesions.  \nNeck: Supple.  \nChest: Normal respirations and breathing comfortably on room air. Lungs clear to auscultation bilaterally.  \nCV: PMI normal size and not displaced. Regular rhythm. Normal S1, S2.No murmurs or gallops. JVP <5 cm.  \nAbdomen: Normal bowel sounds. She has point tenderness in the LUQ, mostly around ribs and on ribs. No lower quadrant tenderness. No peritoneal signs.  \nRectal: No external lesions. Trace guaiac positive with brown stool. No hemorrhoids on exam.  \nPelvic: No external lesions. No discharge. Bimanual exam completely without pain.  \nExtremities: No ankle edema.  \nMSK: Joints with no redness, swelling, warmth, tenderness. Normal ROM in all major joints.  \nSkin: No lesions, bruises, rashes.  \nNeuro: Alert, oriented x3. Good fund of knowledge. Able to discuss current events and memory is intact. CN ___ intact. Speech and language are normal.  \nPsych: Appearance, behavior, and affect all normal.\n",
+    "input6": "Admission Laboratory Studies:\n___ 05:00PM   GLUCOSE-87 UREA N-13 CREAT-0.7 SODIUM-140 POTASSIUM-4.1 CHLORIDE-102 TOTAL CO2-27 ANION GAP-15 ALT(SGPT)-17 AST(SGOT)-21 ALK PHOS-52 TOT BILI-0.8 LIPASE-35 ALBUMIN-4.6\n___ 05:00PM   WBC-8.6 (NEUTS-76.5* LYMPHS-14.8* MONOS-3.8 EOS-3.9 BASOS-1.0) RBC-4.40 HGB-13.7 HCT-38.5 MCV-87 MCH-31.1 MCHC-35.5* RDW-12.3 PLT COUNT-171\n___ 08:45PM URINE  UCG-NEGATIVE\n___ 08:45PM URINE  COLOR-Yellow APPEAR-Clear SP ___ BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-40 BILIRUBIN-NEG UROBILNGN-0.2 PH-5.5 LEUK-TR RBC-1 WBC-1 BACTERIA-MOD YEAST-NONE EPI-3 MUCOUS-OCC\n\nMRI (___): IMPRESSION:  \n1. No focal abnormality identified on MR to account for symptomatology.  \n2. Stable prominence of the mesenteric veins draining the jejunum in the left upper quadrant. No thrombus or new collaterals are seen. No mesenteric venous thrombosis. The SMA and celiac axis remain patent.  \n3. Visualized bowel loops in the upper abdomen are non-dilated but without apparent abnormality.  \n\nEGD (___):  \nLinear erythema,  rough mucosa, bleeding spots\nDuodenum appeared normal. (biopsy)  \nOtherwise normal EGD to third part of the duodenum\n"
+}

@@ -1,0 +1,44 @@
+{
+    "STEMI-ACS$Intermedia_4": {
+        "Electrocardiogram shows inferior ST segment elevation, which is direct evidence for the diagnosis of inferior STEMI$Cause_1": {
+            "Subsequent EKG showed ST elevations$Input2": {}
+        },
+        "The blood report showed that cardiac troponin was 0.14, which is marked as abnormal. Cardiac troponin is a marker of myocardial damage. Its increase may indicate myocardial damage, which is common in myocardial infarction.$Cause_1": {
+            "cTropnT-0.14$Input6": {}
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The patient describes recurrent chest discomfort over the past 3 days, which feels like a heavy weight on the chest. This description is common in angina pectoris.$Cause_1": {
+                "For the last 3 days, patient states she was having waxing and waning chest discomfort. She says it \"felt like a car was on my chest\".$Input2": {}
+            },
+            "The presence of moderate calcification and obtuse marginal branch stenosis, which are signs of coronary artery disease$Cause_1": {
+                "alcified with sluggish flow distally$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "chest discomfort is the symptom of ACS$Cause_1": {
+                    "chest discomfort$Input1": {}
+                },
+                "Pain radiating to the jaw and back bilaterally is a typical path of cardiac pain, which increases the possibility of cardiac problems.$Cause_1": {
+                    "radiation to the jaw on both sides, as well as radiation to the back$Input2": {}
+                },
+                "The persistence and non-exertional nature of chest pain suggest possible coronary artery disease$Cause_1": {
+                    "This discomfort was waxing and waning and was not associated with exertion, but became persistent the night prior to presentation$Input2": {}
+                },
+                "Mild shortness of breath, which may indicate that the heart is not pumping enough, a common symptom of heart disease$Cause_1": {
+                    "endorse mild shortness of breath$Input2": {}
+                },
+                "High blood pressure is one of the main risk factors for coronary artery disease$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Family history of heart disease improve the risk$Cause_1": {
+                    "Father with angina\nMother with CHF, lived to her\nBrother with CABG in his$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "chest discomfort\n",
+    "input2": "\nFor the last 3 days, patient states she was having waxing and waning chest discomfort. She says it \"felt like a car was on my chest\". She also described radiation to the jaw on both sides, as well as radiation to the back. This discomfort was waxing and waning and was not associated with exertion, but became persistent the night prior to presentation. It was not associated with any nausea, vomiting, diaphoresis. She does endorse mild shortness of breath, and states that last week when she was on vacation she was also feeling short of \nbreath after ambulating long distances. All of the symptoms are totally new for her.\n\ufeff\nGiven the fact that her discomfort became persistent, she decided to present to the emergency room. Labs were notable for a troponin T of 0.14, normal CBC, initial EKG with nonspecific ST changes. She was given sublingual nitro with help with her chest discomfort, as well as full dose aspirin and ticagrelor 180. Subsequent EKG showed ST elevations \n\ufeff\nHer chest pain had improved. Per verbal sign out, in the Cath Lab, she initially underwent right radial approach and had findings consistent with RCA with a subtotal occlusion that appeared chronic and calcified with sluggish flow distally. Her left-sided circulation showed a 60% stenosis of her obtuse marginal, and an LAD with no significant disease but moderate calcifications. Her access had to be switched to right groin because of a short and tortuous aorta. The operator was unable to wire the RCA lesion successfully because of likely chronic nature and calcifications. Given that she was chest pain-free and her EKG had improved, no further intervention was pursued. She was brought to the CCU with a plan to potentially return to the Cath Lab later this morning for CTO procedure.\n\ufeff\nOn arrival to the CCU, She is comfortable, cheerful, and chest pain-free. Her husband is at bedside.\n\ufeff\nROS: Positive per HPI. Remaining 10 point ROS reviewed and negative.\n",
+    "input3": "+ Hypertension\n+ Osteoporosis on Reclast\n+ Meniscus surgery\n+ Hysterectomy\n+ Hypercalcemia status post workup negative for multiple myeloma including bone biopsy\n",
+    "input4": "Father with angina\nMother with CHF, lived to her\nBrother with CABG in his\n",
+    "input5": "ADMISSION PHYSICAL EXAMINATION:  \n===============================\nVS: Reviewed in metavision\nGENERAL: Well developed, well nourished in NAD. Oriented x3.\nMood, affect appropriate.  Appears younger than stated age. \nTanned skin.\nHEENT: Normocephalic, atraumatic. Sclera anicteric. PERRL. EOMI. \n\ufeff\n\ufeff\nCARDIAC: Normal rate, regular rhythm. No murmurs, rubs, or gallops.  \nLUNGS: No chest wall deformities or tenderness. Respiration is unlabored with no accessory muscle use. No adventitious breath sounds.  \nABDOMEN: Soft, non-tender, non-distended. No palpable hepatomegaly or splenomegaly.  \nEXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or peripheral edema.  Right groin with pressure dressing in place, no bruit.  Right wrist with TR band in place, warm hand\nSKIN: No significant lesions or rashes.  \nPULSES: Distal pulses palpable and symmetric.  \nNEURO: ANO x3, moving all extremities, grossly nonfocal\n",
+    "input6": "ADMISSION LABS: \n===============\n12:09AM BLOOD WBC-8.8 RBC-4.17 Hgb-11.0* Hct-35.0 \nMCV-84 MCH-26.4 MCHC-31.4* RDW-16.7* RDWSD-50.7*\n12:09AM BLOOD Neuts-57.0 Monos-9.1 Eos-2.0 \nBaso-0.6 AbsNeut-5.02 AbsLymp-2.70 AbsMono-0.80 \nAbsEos-0.18 AbsBaso-0.05\n12:09AM BLOOD Glucose-154* UreaN-20 Creat-0.7 Na-142 K-4.0 Cl-105 HCO3-23 AnGap-14\n12:09AM BLOOD cTropnT-0.14*\n12:09AM BLOOD Calcium-10.9* Phos-2.9 Mg-1.8 Cholest-167\n05:03AM BLOOD %HbA1c-5.3 eAG-105\n12:09AM BLOOD Triglyc-95 HDL-52 CHOL/HD-3.2 LDLcalc-96\n\n"
+}

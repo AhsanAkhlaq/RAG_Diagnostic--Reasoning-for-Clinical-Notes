@@ -1,0 +1,30 @@
+{
+    "Secondary Adrenal Insufficiency$Intermedia_3": {
+        "This indicates that cortisol levels are abnormally low (0.5) in the morning, which is typically below the normal range. ACTH stimulation testing shows an increase in cortisol levels after administration of ACTH, which may indicate a possible problem at the level of the hypothalamic-pituitary-adrenal axis in the adrenal gland's response to ACTH.$Cause_1": {
+            "An AM cortisol returned at 0.5. A stim test find that cortisol increases when ACTH is given.$Input6": {}
+        },
+        "Suspected Adrenal Insufficiency$Intermedia_2": {
+            "This is one of the common clinical manifestations of adrenaline deficiency. Adrenaline hormones regulate blood pressure, and a lack of these hormones can lead to a drop in blood pressure$Cause_1": {
+                "Hypotension$Input1": {}
+            },
+            "Orthostatic hypotension is a common finding in adrenal insufficiency because insufficient adrenocortical hormones may cause an imbalance in the body's water and electrolyte balance.$Cause_1": {
+                "have orthostatic hypotension with supine BP of 110/50 and standing of 60/20.$Input2": {}
+            },
+            "Darkening of vision can be the result of low blood pressure and reduced blood flow to the brain, which can occur in adrenal insufficiency.$Cause_1": {
+                "had some blackening of his vision during these events$Input2": {}
+            },
+            "Nausea, abdominal bloating, shortness of breath, and anxiety are nonspecific symptoms that may occur in adrenal insufficiency. These symptoms can occur due to an insufficient overall physiological stress response caused by low cortisol levels.$Cause_1": {
+                "he reports feeling some nausea, abdominal bloating, shortness of breath and anxiety$Input2": {}
+            },
+            "Facial erythema and desquamation between eyebrows may be related to abnormal hormone levels. Especially in the case of cortisol deficiency, various abnormal skin manifestations may occur.$Cause_1": {
+                "Facial erythema with some scaling across eyebrows$Input5": {}
+            }
+        }
+    },
+    "input1": "Hypotension\n",
+    "input2": "He is a 31 M with complicated history of undiagnosed myopathy who has been recently evaluated for numerous falls. He was seen by his PCP today for routine and noted to have orthostatic hypotension with supine BP of 110/50 and standing of 60/20. Patient was sent to the ER.  \n\nOf note, he had 3 \"falls\" in which he says his legs dropped out from under him and he fell. He had some blackening of his vision during these events but no associated chest pain, palpitations or shortness of breath. After one of the episodes, he says his girlfriend found him down on the ground and was \"out\" for a minute. He was seen in the ER for this and evaluated by neurology at that time. He had a thorough examination, including CT head, abdomen, and pelvis, and CXR which were all fine. Patient was initially hypotensive at arrival which later resolved. He was sent home.  \n\nIn the ED today, initial vitals were 97.3, 146/81, 64, 16, 100%2L NC. His orthostatics were lying: 55, 148/83; sitting: 61, 162/81 with mild dizziness; standing: 70, 144/83 w/ increased dizziness/no cp/sob. EKG was unremarkable. Patient was admitted to medicine for syncope workup.  \n\nOn the medical floor, he reports feeling some nausea, abdominal bloating, shortness of breath and anxiety. He currently denies feeling dizzy, lightheaded or palpitations.  \n",
+    "input3": "+ETOH pancreatitis\n+hypomagnesemia\n+Hyperhomocysteinemia--has IVC filter, on coumadin\n+anemia\n+DVT, Pulmonary Embolism\n+HTN\n+hypercholesterolemia\n",
+    "input4": "None\n",
+    "input5": "Vital signs: T 98.7, HR 62, BP 160/77, RR 18, O2 Sat 99% RA  \nGen: Well developed, nervous appearing male in NAD  \nHEENT: NC/AT. Anicteric sclerae. Moist mucous membranes. OP clear.  \nNeck: Supple, no carotid bruits.  \nResp: Normal respiratory effort. CTAB.  \nCV: RRR. Normal s1 and s2. No M/G/R.  \nAbd: +BS. Soft. RUQ and LUQ tenderness without rebound or guarding. No hepatosplenomegaly.  \nExt: Warm and ___. DP pulses 2+ bilaterally.  \nSkin: Facial erythema with some scaling across eyebrows  \nNeuro: A+Ox3.\n",
+    "input6": "ECHO:\nThe left atrium and right atrium are normal in cavity size. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). The estimated cardiac index is normal (>=2.5L/min/m2). Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg). There is no left ventricular outflow obstruction at rest or with Valsalva. Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. There is no mitral valve prolapse. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion. \n\nHEAD CT\nThere is no acute intracranial hemorrhage, major vascular territory infarction, mass effect, or edema. The matter differentiation is well preserved. The ventricles and sulci are normal in size and appearance. The globes and lenses are intact. The visualized paranasal sinuses and mastoid air cells are well aerated. There is no fracture identified. \n  \nIMPRESSION: \n1. No acute intracranial abnormality. \n\n\nAn AM cortisol returned at 0.5. A stim test find that cortisol increases when ACTH is given.\n\n"
+}

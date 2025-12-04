@@ -1,0 +1,47 @@
+{
+    "Allergic asthma$Intermedia_4": {
+        "If the patient could not identify any specific triggers, then the truggers might be the normal things in daily life, for example dust, pollen.$Cause_1": {
+            "The patient could not identify any specific triggers$Input2": {}
+        },
+        "Asthma$Intermedia_3": {
+            "Monitoring over time can show variability in lung function,$Cause_1": {
+                "Cough occured at the end of third peak flow trial$Input5": {}
+            },
+            "Elevated levels indicate eosinophilic inflammation$Cause_1": {
+                "Fractional Exhaled Nitric Oxide (FeNO): Elevated levels$Input6": {}
+            },
+            "Suspected asthma$Intermedia_2": {
+                "Allergic rhinitis might cause asthma after sports or cause infection lead to asthma.$Cause_1": {
+                    "allergic rhinitis$Input3": {}
+                },
+                "Anxiety occurs easily during acute asthma attacks.$Cause_1": {
+                    "anxiety$Input3": {}
+                },
+                "Shortness of breath at night or early morning$Cause_1": {
+                    "acute onset of shortness of breath at 9 am$Input2": {}
+                },
+                "Hypertension might occurs during asthma attacts$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Different breath sound from normal may lead to a lung or bronchus disease.$Cause_1": {
+                    "Decreased breath sounds at the bases.$Input5": {}
+                },
+                "Suspect medical change in lung or bronchus.$Cause_1": {
+                    "cough$Input1": {}
+                },
+                "Patient has a feeling of hardly breathe may lead to a lung or bronchus disease.$Cause_1": {
+                    "\"heavy breathing\"$Input1": {}
+                },
+                "A patient who has medical history of asthma or has been treated for asthma has a big probability of occuring asthma.$Cause_1": {
+                    "Presumably treated for asthma$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "\"heavy breathing\" and cough\n",
+    "input2": "This is a 45 male with who presented with acute onset of shortness of breath at 9 am.  The patient could not identify any specific triggers although the interview was limited and through a phone interpreter.  He does not have a history of asthma.  However about 1 month ago he became acutely short of breath and was seen at an outside hospital and was givnen an albuteral inhailor and presumably treated for asthma.  Unclear if he required steroids or even an admission at that time.  He reports that with the inhailor he returned to his usual state of health until 9am on the day of admit.  He does not note any fevers or recent uri symptoms.  He does not note any sick contacts.  He does not own pets.  No chest pain.  \n\nIn the ED he trigger for resp distress.   His initial vitals were 106 125/77 28 100%.  Labs were notable for WBC 15.9 (He was given steroids 2 hours prior to lab draw), hct of 36.2 (MCV 80). A CXR was without acute pulm process.  He was given Duonebs x3, methylpred 125 IV x1 and magnesium 2g.  On transfer vitals were 110, 101/58, 20, 100% nebs.  Per ED report he was initially 98% on RA, then desatted to 94% on RA.\n",
+    "input3": "Allergic rhinitis\nAnxiety\nHypertension\n",
+    "input4": "Non-contributory.\n",
+    "input5": "Admission Physical Exam:\nVitals: 98.4, 105/66, 104, 98% ra\nPF: cough occured at the end of third peak flow trial\nGeneral:  No acute distress, occasional coughing\nHEENT:  MMM, Sclera anicteric, conjunctiva pink\nNeck:  Supple, No LAD, JVP not elevated\nHeart:  Tachycardic, No murmurs\nLungs:  No wheezes heard, decreased breath sounds at the bases. \nAbdomen:  Non tender, Non distended, soft, +BS\nExtremities:  No edema\nNeurological:  grossly intact\n",
+    "input6": "___ 11:45PM   GLUCOSE-142* UREA N-11 CREAT-0.9 SODIUM-138 POTASSIUM-3.3 CHLORIDE-99 TOTAL CO2-26 ANION GAP-16\n___ 11:45PM   estGFR-Using this\n___ 11:45PM   WBC-15.9* RBC-4.51* HGB-12.9* HCT-36.2* MCV-80* MCH-28.7 MCHC-35.7* RDW-12.8\n___ 11:45PM   NEUTS-81.5* LYMPHS-10.4* MONOS-1.8* EOS-6.0* BASOS-0.2\n___ 11:45PM   PLT COUNT-259\n\nCXR ___: No acute cardiopulmonary process. \n\nElectrocardiogram ___:  sinus rhythm, normal axis, rate: 95, normal intervals, no evidence of enlargment/hypertrophy, TW changes V3-6.  No old for comparison.\n\nFractional Exhaled Nitric Oxide (FeNO): Elevated levels\n"
+}

@@ -1,0 +1,27 @@
+{
+    "Primary Adrenal Insufficiency$Intermedia_3": {
+        "This is the standard for diagnosing Primary Adrenal Insufficiency$Cause_1": {
+            "cortisol does not increase even when ACTH is given because the adrenal glands are damaged$Input6": {}
+        },
+        "Cosyntropin is a medication used to diagnose adrenal insufficiency. Test results show that cortisol levels fail to reach the expected response range after stimulation, supporting the diagnosis of adrenal insufficiency.$Cause_1": {
+            "BLOOD Cortsol-1.4* DHEA-SO-61*  (30 min into \nstim)$Input6": {}
+        },
+        "Suspected Adrenal Insufficiency$Intermedia_2": {
+            "Fatigue and muscle cramps are classic symptoms of adrenal insufficiency.$Cause_1": {
+                "fatigue, muscle cramping$Input2": {}
+            },
+            "The persistence and pervasiveness of fatigue and muscle cramping highlight the severity of symptoms and the impact on patients' daily activities.$Cause_1": {
+                "generalized weakness and fatigue, along with muscle cramping, over the past several days$Input2": {}
+            },
+            "Hypothyroidism can affect the body's response to other hormones, including adrenocortical hormones.$Cause_1": {
+                "HYPOTHYROIDISM$Input3": {}
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "A female patient presents with fatigue, muscle cramping, and abnormal lab results. She has experienced generalized weakness and muscle cramping for several days. Recently, she had a urinary tract infection (UTI) and was treated in the emergency department with a one-week course of cefpodoxime, completed yesterday. The urine culture indicated pan-sensitive E. coli.\n",
+    "input3": "HYPOTHYROIDISM \nIRON DEFICIENCY ANEMIA \nOSTEOPENIA \nSPINAL STENOSIS \nLACTOSE INTOLERANCE \nRHEUMATOID ARTHRITIS \nH/o COLLAGENOUS COLITIS\n",
+    "input4": "N/A\n",
+    "input5": "ADMISSION PHYSICAL EXAM\nVitals: 97.9 130/83 88 20 96% RA\nGeneral: well appearing, nontoxic, NAD\nHEENT: MM dry, EOMI, PERRL, no nystagmus\nNeck: supple\nLungs: CTAB, no w/r/r\nCV: normal rate, reg rhythm, no m/r/g\nAbdomen: Soft, NABS, very mild tenderness over all of abdomen (pt states \"it feels like I need to have a bowel movement\")\nExt: wwp, no c/c/e\nNeuro: no nystagmus. CN II-XII intact grossly.  ___ strength UE \nand ___ b/l.\n",
+    "input6": "___ 05:53AM BLOOD WBC-8.6 RBC-4.70 Hgb-14.5 Hct-40.3 MCV-86 \nMCH-30.9 MCHC-36.0 RDW-12.2 RDWSD-38.3 Plt ___\n___ 06:30PM BLOOD Glucose-336* UreaN-12 Creat-0.8 Na-134* \nK-5.0 Cl-94* HCO3-24 AnGap-16\n___ 06:30PM BLOOD ALT-12 AST-23 AlkPhos-53 TotBili-0.8\n___ 06:30PM BLOOD Lipase-48\n___ 05:53AM BLOOD %HbA1c-8.3* eAG-192*\n___ 05:53AM BLOOD TSH-2.4\n___ 06:53AM BLOOD Free T4-1.8*\n___ 05:10PM BLOOD Cortsol-1.4* DHEA-SO-61*  (30 min into \nstim)\n\ncortisol does not increase even when ACTH is given because the adrenal glands are damaged\n"
+}

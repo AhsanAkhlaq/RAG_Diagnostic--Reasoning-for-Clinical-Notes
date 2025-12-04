@@ -1,0 +1,58 @@
+{
+    "HFpEF$Intermedia_5": {
+        "LVEF\u226550% is the critiera for HFpEF$Cause_1": {
+            "LVEF>55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "proBNP \u2265 125 pg/mL is a strong value for heart failure$Cause_1": {
+                    "proBNP: 1242$Input2": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Dyspnea is a common symptom of HF$Cause_1": {
+                        "Dyspnea$Input1": {}
+                    },
+                    "Dyspnea is a common clinical manifestation of heart failure, which may be caused by insufficient heart pumping function, resulting in blockage of blood return to the lungs.$Cause_1": {
+                        "brought in by  ambulance for dyspnea$Input2": {}
+                    },
+                    "Sudden shortness of breath at night is one of the classic symptoms of heart failure$Cause_1": {
+                        "wakes up in the middle of the night with SOB$Input2": {}
+                    },
+                    "This symptom means that the patient feels shortness of breath when lying flat, which may be postural dyspnea in heart failure$Cause_1": {
+                        "sleeps on 2 pillows and does feel she gets short of breath if she lies flat$Input2": {}
+                    },
+                    "Coronary artery disease is a major risk factor for heart failure because it can lead to insufficient blood flow to the heart, which in the long term can cause decreased heart function.$Cause_1": {
+                        "CORONARY ARTERY DISEASE$Input3": {}
+                    },
+                    "Diabetes can lead to metabolic abnormalities, increase the burden on the heart, and may directly affect heart function through diabetic cardiomyopathy$Cause_1": {
+                        "DIABETES TYPE II$Input3": {}
+                    },
+                    "High cholesterol is a risk factor for atherosclerosis, the main cause of coronary artery disease, which indirectly increases the risk of heart failure$Cause_1": {
+                        "HYPERCHOLESTEROLEMIA$Input3": {}
+                    },
+                    "Long-term hypertension increases the workload of the heart, may lead to cardiac hypertrophy and heart failure, and is a common cause of heart failure.$Cause_1": {
+                        "HYPERTENSION$Input3": {}
+                    },
+                    "Obesity is closely related to a variety of cardiovascular diseases and can indirectly lead to heart failure by increasing cardiac workload and promoting the development of metabolic syndrome.$Cause_1": {
+                        "OBESITY$Input3": {}
+                    },
+                    "Hypertension is an important risk factor for heart failure, which can increase the workload on the heart and may lead to impaired heart function in the long term.$Cause_1": {
+                        "BP=185/78$Input5": {}
+                    },
+                    "A systolic murmur is detected on auscultation. Heart murmurs are often associated with heart valve disease, which can affect the heart's ability to pump blood and may lead to heart failure.$Cause_1": {
+                        "systolic murmur best heard$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea\n",
+    "input2": "She is a female with history of TAVR with multiple stents, DM, and PPM brought in by  ambulance for dyspnea and anxiety. Patient has had dyspnea and  anxiety for months including prior to her PCI and TAVR. She states that she wakes up in the middle of the night with SOB and \"thinking I'm going to die.\" She sleeps on 2 pillows and does feel she gets short of breath if she lies flat. No chest pain. Patient was just seen in UrgentCare for similar symptoms. It was recommended that she transfer to the hospital for further work up but pt declined.  In the ED initial vitals were: 98.4 74 199/70 18 100% RA  \nEKG: Sinus rhythm. LBBB. CWP.  \nLabs/studies notable for:  \nTrop-T: 0.03; \nproBNP: 1242; \nWBC 11.1; Cr 0.9; \nCO2 20  \nCXR: IMPRESSION: No acute cardiopulmonary abnormality.  On the floor, she is comfortable appearing.  \nROS: Denies CP, dyspnea on exertion, edema, blood clot in \nlegs or lungs, abdominal swelling.\n",
+    "input3": "CORONARY ARTERY DISEASE s/p stent x2 +\nDIABETES TYPE II +\nEXTERNAL HEMORRHOIDS +\nHYPERCHOLESTEROLEMIA (per record, pt denies) +\nHYPERTENSION +\nOBESITY +\nPACEMAKER for symptomatic bradycardia +\nGOUT +\n",
+    "input4": "Non-contributory\n",
+    "input5": "ADMISSION PHYSICAL EXAM:\n=========================\nVS: T=97.8, BP=185/78, HR=88, RR=20, O2 sat 96% on RA  \nWEIGHT: 76.6  \nGENERAL: Well appearing in NAD. Appears younger than stated age.  \nHEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.  \nNECK: No appreciable JVD.  \nCARDIAC: Regular rate and rhythm, S1/S2, systolic murmur best heard.\nLUNGS: Clear to auscultation bilaterally, no crackles, non-labored, symmetric chest expansion.\nABDOMEN: Soft, NTND. No HSM or tenderness.  \nEXTREMITIES: No c/c/e. Warm and well perfused.\n",
+    "input6": "ADMISSION LABS:\n================\n08:50PM BLOOD WBC-11.1* RBC-4.84 Hgb-13.1 Hct-40.4 \nMCV-84 MCH-27.1 MCHC-32.4 RDW-14.6 RDWSD-44.2\n08:50PM BLOOD Neuts-59.8 Monos-7.5 Eos-0.9* \nBaso-0.3 Im AbsNeut-6.65* AbsLymp-3.44 AbsMono-0.83* \nAbsEos-0.10 AbsBaso-0.03\n08:50PM BLOOD Glucose-131* UreaN-22* Creat-0.9 Na-136 \nK-4.6 Cl-100 HCO3-20* AnGap-21*\n08:50PM BLOOD CK-MB-7 cTropnT-0.03*\n08:50PM BLOOD Calcium-9.9 Phos-2.8 Mg-1.8\n\nTTE (Complete) Done ___ \"Conclusions: The left atrium is moderately dilated. Left ventricular wall thickness, cavity size, and global systolic function are normal (LVEF>55%). \n"
+}

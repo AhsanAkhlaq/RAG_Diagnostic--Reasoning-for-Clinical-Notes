@@ -1,0 +1,58 @@
+{
+    "HFpEF$Intermedia_5": {
+        "Left ventricular ejection fractions (LVEF) is >55% suggests that the left ventricular systolic function is normal .$Cause_1": {
+            "LVEF>55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Chest X Ray (CXR) shows common signs with bilateral pleural effusion and pulmonary vascular congestion. They are phenomenons of pulmonary congestion in heart failure.$Cause_1": {
+                "CXR: Small bilateral pleural effusions and probable mild pulmonary vascular congestion.$Input6": {}
+            },
+            "Mildly dilated left atrium shows a potential sign of diastolic heart failure.$Cause_1": {
+                "ECHO: The left atrium is mildly dilated.$Input6": {}
+            },
+            "Increased left ventricular filling pressure (PCWP>18mmHg by Tissue Doppler imaging) shows a heart failure.$Cause_1": {
+                "left ventricular filling pressure (PCWP>18mmHg)$Input6": {}
+            },
+            "Strongly Suspected Heart Failure$Intermedia_3": {
+                "NT-proBNP or pro-BNP > 125 pg/mL is common biomarkers of strongly suspected heart$Cause_1": {
+                    "BLOOD proBNP-690*$Input6": {}
+                },
+                "Suspected Heart Failure$Intermedia_2": {
+                    "Shortness of breath, especially activity related, is a common symptom of heart failure.$Cause_1": {
+                        "shortness of breath$Input1": {}
+                    },
+                    "Elder is known risk factor for heart failure.$Cause_1": {
+                        "80 years old$Input2": {}
+                    },
+                    "lisinopril and HCTZ are drugs for hypertension. In patient who self discontinue drugs has high risk for heart failure. It's also a common cause of heart failure.$Cause_1": {
+                        "for which he formerly took lisinopril and HCTZ; he self discontinued the lisinopril because it made have caused a dry cough, and he self discontinued HCTZ recently as well.$Input2": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Hyperlipidemia is a risk factor for heart failure.$Cause_1": {
+                        "HLD$Input3": {}
+                    },
+                    "crackles at the bases in lungs is a common signs of pulmonary congestion in heart failure.$Cause_1": {
+                        "LUNGS: crackles at the bases$Input5": {}
+                    },
+                    "Distended in abdomen is a common sign of ascites in heart failure.$Cause_1": {
+                        "ABDOMEN: distended$Input5": {}
+                    },
+                    "Right bundle branch block (RBBB), ventricular ectopy that has left bundle branch block (LBBB) morphology, and T wave inversions are common electrocardiogram phenomenon in EKG or ECG of cardiac injury in heart failure.$Cause_1": {
+                        "EKG: RBBB, sinus rhythm, a lot of ventricular ectopy that has LBBB morphology. T wave inversions in V1-V4.$Input6": {}
+                    },
+                    "A history of hypertension is known risk factor for heart failure.$Cause_1": {
+                        "Patient reports a history of hypertension$Input2": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "shortness of breath\n",
+    "input2": "He is a 80 year old M w/ PMH HTN who presents with progressive SOB over the past week.\nNo fever or chills, no chest pain. No leg swelling; no pain with breathing.\nPatient reports a history of hypertension for which he formerly took lisinopril and HCTZ; he self discontinued the lisinopril because it made have caused a dry cough, and he self discontinued HCTZ recently as well.\n",
+    "input3": "+ Hypertension\n+ HLD\n+ agoraphobia\n",
+    "input4": "CAD in mom, brothers. Son with lupus and diabetes. No history of heart failure, stroke.\n",
+    "input5": "ADMISSION PHYSICAL EXAM:  \nVS:  97.8 156 / 62 60 18 99 2LNC \nGENERAL: NAD  \nHEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,\nMMM\nNECK: supple, no LAD, no JVD  \nHEART: RRR, S1/S2, no murmurs, gallops, or rubs  \nLUNGS: crackles at the bases, no wheezes, rhonchi, breathing comfortably without use of accessory muscles  \nABDOMEN: distended, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly  \nEXTREMITIES: no cyanosis, clubbing, or edema\nPULSES: 2+ DP pulses bilaterally  \nNEURO: A&Ox3, moving all 4 extremities with purpose  \nSKIN: warm and well perfused, no excoriations or lesions, no rashes\n",
+    "input6": "ADMISSION LABS:\n\ufeff\nEKG: RBBB, sinus rhythm, a lot of ventricular ectopy that has LBBB morphology. T wave inversions in V1-V4.\n02:15PM BLOOD WBC-4.2 RBC-4.53* Hgb-15.4 Hct-45.6 \nMCV-101* MCH-34.0* MCHC-33.8 RDW-13.9 RDWSD-51.6*\n02:15PM BLOOD Neuts-70.2 Monos-5.5 Eos-0.0* \nBaso-0.5 Im AbsNeut-2.95 AbsLymp-0.99* AbsMono-0.23 \nAbsEos-0.00* AbsBaso-0.02\n02:15PM BLOOD Glucose-107* UreaN-13 Creat-0.9 Na-142 \nK-3.8 Cl-105 HCO3-23 AnGap-14\n02:15PM f\n06:15AM BLOOD Calcium-8.8 Phos-2.9 Mg-1.7\n\ufeff\nLactate-1.8\nTropT<.01 x2\n\ufeff\nCXR:\nLow lung volumes with patchy bibasilar airspace opacities, possibly atelectasis, though infection or aspiration is not excluded.  Small bilateral pleural effusions and probable mild pulmonary vascular congestion.\n\ufeff\nECHO:\nThe left atrium is mildly dilated. No atrial septal defect is seen by 2D or color Doppler. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%). Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg). There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion.\n"
+}

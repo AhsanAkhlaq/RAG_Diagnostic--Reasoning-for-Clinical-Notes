@@ -1,0 +1,18 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "Barretts oesophagus is gold standard for the diagnosis of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+            "Path returned as Barretts oesophagus only.$Input2": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Heartburn is a typical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "heartburn$Input1": {}
+            }
+        }
+    },
+    "input1": "heartburn\n",
+    "input2": "Mr is a w/ long segment and focal LGD, s/p HALO RFA ablation with some improvement. He then failed to respond to HALO and was monitored yearly with EGDs when with low grade dysplasia and indefinite dysplasia was seen. EGD for Cryo. His last EGD showed persistent ulcer measuring 34cms. Path returned as Barretts oesophagus only.\n",
+    "input3": "+Esophagus with multifocal LGD \n+afib/flutter\n+hypertension\n+hyperlipidemia\n",
+    "input4": "Father died of MI.\nBrother - atrial fibrillation.\n",
+    "input5": "[Temp 98  BP  140/70  HR 76  RR 16  RA sat 97%\n\nx] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:\n\nHEENT          \n[x] NC/AT   [x] EOMI   [x] PERRL/A   [x] Anicteric\n[x] OP/NP mucosa normal     [x] Tongue midline\n[x] Palate symmetric  [x] Neck supple/NT/without mass\n[x] Trachea midline [x] Thyroid nl size/contour\n[ ] Abnormal findings:\n\nRESPIRATORY    \n[x] CTA/P     [x] Excursion normal     [x] No fremitus\n[x] No egophony    [x] No spine/CVAT\n[ ] Abnormal findings:\n\nCARDIOVASCULAR \n[x] RRR    [x] No m/r/g    [x] No JVD   [x] PMI nl  [x] No edema\n[x] Peripheral pulses nl    [x] No abd/carotid bruit\n[ ] Abnormal findings:\n\nGI             \n[x] Soft    [x] NT   [x] ND  [x] No mass/HSM   [x] No hernia\n[ ] Abnormal findings:\n\nGU             [x] Deferred  \n[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE\n[ ] Abnormal findings:\n\nNEURO          \n[x] Strength intact/symmetric    [x] Sensation intact/ symmetric\n[x] Reflexes nl     [x] No facial asymmetry [x] Cognition intact\n[x] Cranial nerves intact   [ ] Abnormal findings:\n\nMS     \n\n        \n[x] No clubbing   [x] No cyanosis   [x] No edema   [x] Gait nl\n[x] No tenderness  [x] Tone/align/ROM nl   [x] Palpation nl\n[x] Nails nl   [ ] Abnormal findings:\n\nLYMPH NODES   \n[x] Cervical nl      [x] Supraclavicular nl     [x] Axillary nl\n[x] Inguinal nl   [ ] Abnormal findings:\n\nSKIN           \n[x] No rashes/lesions/ulcers\n[x] No induration/nodules/tightening     [ ] Abnormal findings:\n\nPSYCHIATRIC    \n[x] Nl judgment/insight    [x] Nl memory   [x] Nl mood/affect\n[ ] Abnormal findings:\n",
+    "input6": "None\n"
+}

@@ -1,0 +1,96 @@
+{
+    "UA$Intermedia_5": {
+        "diffuse, pressure, across his chest, radiating to both arms and neck, and associated with diaphoresis are sign of acs-ua$Cause_1": {
+            "His pain began around 10pm yesterday after eating fish for dinner and was diffuse, pressure, across his chest, radiating to both arms and neck, and associated with diaphoresis.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "a history of diabetes, hypertension, CAD with CABG, and known occlusion of SVGs as part of CTA research study presents with chest pain. can be a sign of acs$Cause_1": {
+                "a history of diabetes, hypertension, CAD with CABG, and known occlusion of SVGs as part of CTA research study presents with chest pain.$Input2": {}
+            },
+            "Hypertension is risk fact$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "Dyslipidemia is risk fact$Cause_1": {
+                "Dyslipidemia$Input3": {}
+            },
+            "Diabetes mellitus, type 2 is risk fact$Cause_1": {
+                "Diabetes mellitus, type 2$Input3": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "slight cardiac structural abnormalities: The LAD was occluded at the ostium with distal vessels filled on significant disease. The LCx was subtotally occluded at its ostiim. The\nRCA had 80% mid-vessel disease.\n is a sign of acs$Cause_1": {
+                "The LAD was occluded at the ostium with distal vessels filled on significant disease. The LCx was subtotally occluded at its ostiim. The\nRCA had 80% mid-vessel disease.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "a history of diabetes, hypertension, CAD with CABG, and known occlusion of SVGs as part of CTA research study presents with chest pain. can be a sign of acs$Cause_1": {
+                    "a history of diabetes, hypertension, CAD with CABG, and known occlusion of SVGs as part of CTA research study presents with chest pain.$Input2": {}
+                },
+                "Hypertension is risk fact$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Dyslipidemia is risk fact$Cause_1": {
+                    "Dyslipidemia$Input3": {}
+                },
+                "Diabetes mellitus, type 2 is risk fact$Cause_1": {
+                    "Diabetes mellitus, type 2$Input3": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS.$Cause_1": {
+                "ECG showed sinus rhythm without STTW changes.  CXR showed no acute process.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "a history of diabetes, hypertension, CAD with CABG, and known occlusion of SVGs as part of CTA research study presents with chest pain. can be a sign of acs$Cause_1": {
+                    "a history of diabetes, hypertension, CAD with CABG, and known occlusion of SVGs as part of CTA research study presents with chest pain.$Input2": {}
+                },
+                "Hypertension is risk fact$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Dyslipidemia is risk fact$Cause_1": {
+                    "Dyslipidemia$Input3": {}
+                },
+                "Diabetes mellitus, type 2 is risk fact$Cause_1": {
+                    "Diabetes mellitus, type 2$Input3": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "slight cardiac structural abnormalities: The LAD was occluded at the ostium with distal vessels filled on significant disease. The LCx was subtotally occluded at its ostiim. The\nRCA had 80% mid-vessel disease.\n is a sign of acs$Cause_1": {
+                    "The LAD was occluded at the ostium with distal vessels filled on significant disease. The LCx was subtotally occluded at its ostiim. The\nRCA had 80% mid-vessel disease.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "a history of diabetes, hypertension, CAD with CABG, and known occlusion of SVGs as part of CTA research study presents with chest pain. can be a sign of acs$Cause_1": {
+                        "a history of diabetes, hypertension, CAD with CABG, and known occlusion of SVGs as part of CTA research study presents with chest pain.$Input2": {}
+                    },
+                    "Hypertension is risk fact$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Dyslipidemia is risk fact$Cause_1": {
+                        "Dyslipidemia$Input3": {}
+                    },
+                    "Diabetes mellitus, type 2 is risk fact$Cause_1": {
+                        "Diabetes mellitus, type 2$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "with a history of diabetes, hypertension, CAD with CABG, and known occlusion of SVGs as part of CTA research study presents with chest pain.  Of note, he was scheduled for elective catheterization today.\n\ufeff\nHis pain began around 10pm yesterday after eating fish for dinner and was diffuse, pressure, across his chest, radiating to both arms and neck, and associated with diaphoresis.  There was no SOB, N/V.  He took 1 NTG and called EMS.  After his second NTG his pain improved significantly. He was also given an aspirin. He is currently pain free.  \n\ufeff\nHe does not generally experience exertional chest pain but beginning about two weeks ago he began to experience chest pain while on his treadmill and improving with rest.  He had not required any NTGs.\n\ufeff\nPer documentation, he had onset of pressure across his anterior chest occurring at rest and was taken by EMS. Apparently, his chest symptoms resolved after having been given additional aspirin in about one hour. He has no recall having  been given nitroglycerin. In the ED, ECG was reported as normal  and troponin slightly elevated to 0.133 (top normal at 0.045).  \nD-dimer was negative. Renal function was normal. Because of the elevated troponin, he was advised to have immediate cardiac catheterization, but signed out against advice and came to see \nDr. at his regularly scheduled appointment.\n \nIn the ED, initial vitals were 76 128/65 16 100% RA. Labs notable for chem 7 wnl, Hgb 13.1, plt 149, trop <0.01. ECG showed sinus rhythm without STTW changes.  CXR showed no acute process.  \n\ufeff\nSeen by cardiology who recommended admission and cardiac cath in the AM.\n\ufeff\nCurrently, he reports feeling well and denies chest pain.  He has no complaints.\n\ufeff\nROS positive for 3 pillow orthopnea which has been stable \"for years\"\n\ufeff\nOn review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, cough, hemoptysis, black stools or red stools. He denies recent fevers, chills or rigors. He denies exertional extremity pain. All of the other review of systems were negative.  \n \nCardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.\n",
+    "input3": "+ Hypertension\n+ Dyslipidemia\n+ Diabetes mellitus, type 2\n+ Diabetic neuropathy\n+ BPH\n+ Hemorrhoids\n+ Colon cancer s/p resection and chemotherapy\n+ Cataracts s/p excision\n",
+    "input4": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.\n",
+    "input5": "VS: T 97.8 BP 115/67 HR 62 RR 12 SaO2 99% on RA\nGENERAL: Well appearing man speaking on the phone but also fluent.\nHEENT: EOMI, MMM\nNECK: JVP ~7cm H2O\nCARDIAC: RRR, no m/r/g\nLUNGS: CTAB\nABDOMEN: Soft, nontender, healed surgical scar.\nEXTREMITIES: Nonedematous, warm, well perfused\nSKIN: No rashes\nPULSES:  \nRight: 2+ DP  \nLeft: 2+ DP\n",
+    "input6": "01:15AM BLOOD WBC-5.3 RBC-4.29* Hgb-13.1* Hct-37.3* MCV-87 MCH-30.5 MCHC-35.1* RDW-13.5\n06:20AM BLOOD WBC-8.4# RBC-4.35* Hgb-12.7* Hct-37.8* MCV-87 MCH-29.2 MCHC-33.6 RDW-13.5\n06:20AM BLOOD Glucose-83 UreaN-15 Creat-0.8 Na-141 K-4.3 Cl-103 HCO3-29 AnGap-13\n01:15AM BLOOD cTropnT-<0.01\n11:00AM BLOOD cTropnT-<0.01\n07:55PM BLOOD cTropnT-<0.01\n06:20AM BLOOD cTropnT-0.03*\n\ufeff\nCARDIAC CATH\n1. Selective coronary angiography of this right dominant system demonstrated a LMCA with a common ostium for the LAD and LCx. \nThe LAD was occluded at the ostium with distal vessels filled on significant disease. The LCx was subtotally occluded at its ostiim. The\nRCA had 80% mid-vessel disease.\n2. Arterial conduit angiography demonstrated patent LIMA to LAD.\n3. Venous conduit angiogrpahy was not performed due to known occluded saphenous venous grafts.\n4. Limited resting hemodynamics revealed normal central aortic blood pressures.\n5. Successful PCI of mid RCA with Resolute 2.25 X 22mm DES with reduction in stenosis from 80% to 0%.\n6. Successful PCI of LM/proximal LCX with 3 overlapping DESs with reduction in stenosis from 99% to 0%.\n7. Adequate hemostasis was obtained at the right femoral arteriotomy\nsite.\n"
+}

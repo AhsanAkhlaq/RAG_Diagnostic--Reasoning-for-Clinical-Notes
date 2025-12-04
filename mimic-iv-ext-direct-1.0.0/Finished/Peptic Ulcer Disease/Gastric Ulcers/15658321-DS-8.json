@@ -1,0 +1,27 @@
+{
+    "Gastric ulcers$Intermedia_3": {
+        "Gastric ulcer with bleeding on endoscopyis the gold standard of gastric ulcer.$Cause_1": {
+            "Endoscopy:Gastric ulcer with bleeding$Input6": {}
+        },
+        "suspected peptic ulcer disease$Cause_2": {
+            "Reflux and melena are the symptoms of a peptic ulcer and suspected peptic bleeding,respectively.$Cause_1": {
+                "Mr. is an with a history of esophagus and GERD presenting with melena for the last 5 days$Input2": {}
+            },
+            "The presence of blood in the stool was the manifestation of gastric ulcer with bleeding.$Cause_1": {
+                "Patient was referred by his PCP today after being found to have guaiac positive stools in the office.$Input2": {}
+            },
+            "Decreased hb is the manifestation of gastric ulcer with bleeding.$Cause_1": {
+                "Labs were notable for Hb 12.5 down from 14.5 on last check one year ago$Input2": {}
+            },
+            "Family history of cancer$Cause_1": {
+                "mother died of unknown cancer.$Input4": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Mr. is an with a history of esophagus and GERD presenting with melena for the last 5 days. Patient was referred by his PCP today after being found to have guaiac positive stools in the office. Patient also reports tenesmus and constipation. Last BM was this morning, but patient reports a small amount of black, tarry stools. He has been taking iron supplements for a while, but stools have never been this black. Denies abdominal pain, nausea, vomiting, hematochezia, lightheadedness, dizziness. In the ED, initial vitals were: 97.8, 70, 97%. He was typed and screened. Labs were notable for Hb 12.5 down from 14.5 on last check one year ago. On the floor without new complaints.\n",
+    "input3": "+Left Inguinal Hernia and Orchiectomy\n+cystoscopy; electrohydrolic lithotripsy bladder stones \n+cholecystectomy\n+spinal stenosis esophagus\n+History of pneumonia\n+Coronary artery disease\n+BPH\n+GERD   \n+HYPERTENSION   \n+HYPERCHOLESTEROLEMIA   \n+ANEMIA   \n+RENAL CALCULI   \n+ATHEROSCLEROSIS, CORONERY, +NATIVE ARTERY   \n+HIATAL HERNIA WITH REFLUX   \nMELANOMA, MALIG, BENDESTON   \n+HYPERLIPIDEMIA   \n+ALLERGIC RHINITIS   \n+ASTHMA   \n+BRONCHIECTASIS   \n+RENAL FAILURE, CHRONIC, MILD   \n+SPINDLE CELL LIPOMA NECK\n",
+    "input4": "Cousin died of MI, uncles on father side have HT and \"cardiac disease\". Father died of lung ca and mother died of unknown cancer.\n",
+    "input5": "Vitals: 98.1, 64, 154/94, 19, 100% RA  \nGeneral: Alert, oriented, no acute distress  \nHEENT: Pink conjunctiva. Sclera anicteric, MMM, oropharynx clear \n \nNeck: Supple, JVP not elevated, no LAD  \nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  \nLungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi  \nAbdomen: Soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding.  \nGU: No foley  \nExt: Warm, well perfused, no clubbing, cyanosis or edema  \nNeuro: A&Ox3, moving all extremities.  \nRectal: trace brown stool in vault. guaiac positive.\n",
+    "input6": "08:10AM BLOOD WBC-4.1 RBC-3.97* Hgb-12.4* Hct-36.9* MCV-93 MCH-31.3 MCHC-33.6 RDW-13.6 Plt\n04:45PM BLOOD Neuts-67.0Monos-8.7 Eos-2.0 \nBaso-0.8\n08:10AM BLOOD Glucose-112* UreaN-19 Creat-1.3* Na-141 K-4.6 Cl-107 HCO AnGap-12\nEndoscopy:Gastric ulcer with bleeding\n"
+}

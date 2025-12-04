@@ -1,0 +1,35 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "Temporary remissions and return to a stable state, as well as recurrent episodes of symptoms, are common clinical manifestations of multiple sclerosis. Periodic fluctuations in symptoms and periods of stability are one of the characteristics of the disease.$Cause_1": {
+            "In the ED he said his symptoms had subsided and his condition had returned to a stable state. He said similar situations had happened before.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "Oligoclonal bands in cerebrospinal fluid are a common indicator of multiple sclerosis. The patient also experienced neck and back pain, symptoms that may also be associated with multiple sclerosis.$Cause_1": {
+                "RHF with PMH sig dx with CSF oligoclonal bands pres with neck and back pain x 2days$Input2": {}
+            },
+            "This describes multiple bilateral round and oval T2/FLAIR hyperintense white matter lesions located in the subcortical and periventricular white matter as well as in the posterior fossa and brainstem, which are most likely manifestations of a demyelinating process.$Cause_1": {
+                "Multiple T2/STIR hyperintense lesions within the cervical and thoracic spinal cord, compatible with a demyelinating process.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "The patient has recurring neck pain, which may indicate an underlying neurological problem.$Cause_1": {
+                    "Neck pain similar to another episode$Input2": {}
+                },
+                "The patient continued to use copaxone, which directly indicated that she might be treating multiple sclerosis.$Cause_1": {
+                    "compliant with her copaxone, hctz and timolol$Input2": {}
+                },
+                "Patients experience muscle weakness or movement dysfunction, which is one of the classic symptoms of multiple sclerosis and is manifested by decreased muscle control.$Cause_1": {
+                    "still and barely able to lift her arm to shake my hand$Input5": {}
+                },
+                "Patients have limited mobility, possibly due to fatigue or muscle weakness, which are also common symptoms of multiple sclerosis.$Cause_1": {
+                    "did not move much$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "RHF with PMH sig dx with CSF oligoclonal bands pres with neck and back pain x 2days. Neck pain similar to another episode. Pt not cooperative with HPI/interview. Pt states that she stopped baclofen, vicodin and tramadol due to no effect. Pt has been compliant with her copaxone, hctz and timolol. \n\ufeff\nIn the ED he said his symptoms had subsided and his condition had returned to a stable state. He said similar situations had happened before.\n\ufeff\n",
+    "input3": "+Gluacoma in the left eye.  \n+Supercervical hysterectomy for 20 pound fibroid.  \n+Hypercholesterolemia\n",
+    "input4": "Father passed away form lung CA.  No history of the mother's medical history or family history of neurological diseases was elicited.\n",
+    "input5": "SHE WOULD NOT ALLOW ME TO EXAM HER. Initially she still and barely able to lift her arm to shake my hand. She also did not move much. Yet later I found her fluidly moving all extremities without any noted deficits. RN a steady gait. Patient admits to going outside for the hospital twice to smoke.\n",
+    "input6": "Multiple T2/STIR hyperintense lesions within the cervical and thoracic spinal cord, compatible with a demyelinating process.\n"
+}

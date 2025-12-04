@@ -1,0 +1,30 @@
+{
+    "Acute gastritis$Intermedia_3": {
+        "Superficial erosion of the antrum is the gold standard for the diagnosis of acute gastritis.$Cause_1": {
+            "Endoscopy:Superficial erosion of the antrum$Input6": {}
+        },
+        "suspected gastritis$Intermedia_2": {
+            "Vomiting is a symptom that may occur in patients with gastritis$Cause_1": {
+                "presents with 1 day of ongoing vomiting.$Input2": {}
+            },
+            "NSAIDS are a common cause in patients with gastritis.$Cause_1": {
+                "She received an aspirin.$Input2": {}
+            },
+            "Nausea and vomiting are symptoms that may occur in patients with gastritis.$Cause_1": {
+                "nausea/vomiting$Input1": {}
+            },
+            "!Vomiting is a symptom that may occur in patients with gastritis$Cause_1": {
+                "female with extensive PMHx including GERD, DM2, dCHF (EF 60-70%), CRI, iron deficiency anemia and hypothyroidism who presents with 1 day of ongoing vomiting.$Input2": {}
+            },
+            "Abdominal pain is a symptom that may occur in patients with gastritis$Cause_1": {
+                "Endorses associated abdominal pain, weakness and chest soreness reproducible to palpation.$Input2": {}
+            }
+        }
+    },
+    "input1": "nausea/vomiting\n",
+    "input2": "__ female with extensive PMHx including GERD, DM2, dCHF (EF 60-70%), CRI, iron deficiency anemia and hypothyroidism who presents with 1 day of ongoing vomiting. Patient states that the morning of admission she awoke and began vomiting. She has not been able to tolerate any PO (including her medications or fluids) since the day prior to admission. Endorses associated abdominal pain, weakness and chest soreness reproducible to palpation. Denies any fevers, chills or shortness of breath. Patient states that she has noticed epigastric abdominal pain since she was switched from omeprazole to ranitidine (she was having difficulty getting omeprazole from her pharmacy). States that she has had decreased appetite since then and \"not felt right\".  \n  \nIn ED intial VS were 97.2 85 194/69 18 100%RA. Rectal temp 99.6, EKG was AV-paced, and on rectal exam, patient had black, guaiac negative stool. She received an aspirin. Labs were notable for stable anemia and renal insufficiency as well as elevated LDH (374) and troponin 0.09 (MB 3). UA was positive for UTI. No focal infiltrate on preliminary read of chest xray.  \n \nPatient was admitted to medicine for ongoing vomiting & inability to tolerate PO. Vital signs on transfer were 98.5, 70, 177/55, 11, 99% RA. \n\nThis morning she is not complaining of any abdominal pain or chest pain.\n",
+    "input3": "1. Type 2 diabetes \n2. Hypertension  \n3. Hypercholesterolemia  \n4. Diastolic congestive heart failure LVEF\uff0860-70%)  \n5. S/p pacemaker placement for AV block after an SVT ablation \n6. Gastroesophageal reflux disease  \n7. Osteopenia  \n8. Falls  \n9. Iron deficiency anemia  \n10. Chronic kidney disease\n11. Hypothyroidism  \n12. Status post dog bite with right distal ulnar fracture\n13. Decreased hearing  \n14. Urinary urgency  \n15. GI bleed - ___ Unclear etiology.\n",
+    "input4": "Mother died age ___ ? CAD\nGrandmother - CVA\n",
+    "input5": "Physical Exam on Admission:\nVS: 98.2, 186/50, 70, 18, 99%RA  \nGEN: A+Ox3, NAD  \nHEENT: NCAT. EOMI. PERRL. MMM. no LAD. no JVD. neck supple. Hard-of-hearing.  \nCV: RRR, normal S1/S2, no murmurs/gallops/rubs.  \nLUNG: CTAB, no wheezes, rales or rhonchi  \nABD: soft, epigastrum tender to palpation, ND, hypoactive BS. no rebound or guarding. neg HSM.  \nEXT: W/WP, trace ankle edema, no C/C. 2+ ___ pulses bilaterally.  \nSKIN: W/D/I  \nNEURO: CNs II-XII intact. ___ strength in U/L extremities. \nsensation intact to LT.  \nPSYCH: flat affect\n",
+    "input6": "Labs on admission:\n\n___ WBC-10.1# RBC-3.16* Hgb-9.3* Hct-27.2* MCV-86 MCH-29.5 MCHC-34.4 RDW-13.9 Plt ___\n___ Glucose-184* UreaN-45* Creat-2.1* Na-144 K-4.3 Cl-106 HCO3-24 AnGap-18\n___ ALT-14 AST-23 LD(LDH)-374* AlkPhos-84 TotBili-0.5\n___ cTropnT-0.09*\n___ Albumin-4.2 Calcium-9.1 Phos-3.4 Mg-2.0\n___  TSH-6.3*\n___  Free T4-1.1\n\n___  SEROLOGY/BLOOD\n**FINAL REPORT ___\nHELICOBACTER PYLORI ANTIBODY TEST (Final ___: \nNEGATIVE BY EIA. \n(Reference Range-Negative). \n\n___ 7:45 pm URINE  Site: CATHETER\n**FINAL REPORT ___\n\nURINE CULTURE (Final ___: \nESCHERICHIA COLI. >100,000 ORGANISMS/ML. OF TWO COLONIAL MORPHOLOGIES. \nPRESUMPTIVE IDENTIFICATION. Piperacillin/tazobactam sensitivity testing available on request. \n\nSENSITIVITIES: MIC expressed in MCG/ML\n\nESCHERICHIA COLI\n                         \nAMPICILLIN------------  =>32 R\nAMPICILLIN/SULBACTAM--     8 S\nCEFAZOLIN-------------   <=4 S\nCEFEPIME--------------   <=1 S\nCEFTAZIDIME-----------   <=1 S\nCEFTRIAXONE-----------   <=1 S\nCIPROFLOXACIN---------   =>4 R\nGENTAMICIN------------   <=1 S\nMEROPENEM-------------<=0.25 S\nNITROFURANTOIN--------  <=16 S\nTOBRAMYCIN------------   <=1 S\nTRIMETHOPRIM/SULFA----   <=1 S\nEndoscopy:Superficial erosion of the antrum\n"
+}

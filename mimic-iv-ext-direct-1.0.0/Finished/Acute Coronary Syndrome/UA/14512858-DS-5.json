@@ -1,0 +1,132 @@
+{
+    "UA$Intermedia_5": {
+        "At baseline she is able to climb flights of stair before getting short of breath however for the past 2 days she has been having chest discomfort at rest which is new and minimal shortness of breath at rest or with minimal exertion.\n can be a sign of acs-ua$Cause_1": {
+            "At baseline she is able to climb flights of stair before getting short of breath however for the past 2 days she has been having chest discomfort at rest which is new and minimal shortness of breath at rest or with minimal exertion.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain\uff0c shortness of breath  is a symptom of ACS$Cause_1": {
+                "chest pain, shortness of breath$Input1": {}
+            },
+            "Family fistory:Sister is a woman with history of hypertension, CAD who was sent from Dr. for cardiac cath for worsening anginal symptoms.\n can be a risk fact of acs$Cause_1": {
+                "Sister is a woman with history of hypertension, CAD who was sent from Dr. for cardiac cath for worsening anginal symptoms.$Input2": {}
+            },
+            "istory of stable angina and had stress test which showed likely inferior ischemia on stress TTE.\n is a risk fact of acs$Cause_1": {
+                "Patient has history of stable angina and had stress test which showed likely inferior ischemia on stress TTE.$Input2": {}
+            },
+            "Diabetes is risk fact$Cause_1": {
+                "Diabetes$Input3": {}
+            },
+            "Dyslipidemia  is risk fact$Cause_1": {
+                "Dyslipidemia$Input3": {}
+            },
+            "Hypertension is risk fact$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "CORONARY ARTERY DISEASE  is risk fact$Cause_1": {
+                "CORONARY ARTERY DISEASE$Input3": {}
+            },
+            "Family fistory:CAD in both parents can be a risk fact of acs$Cause_1": {
+                "CAD in both parents$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "slight cardiac structural abnormalities:is a sign of acs$Cause_1": {
+                "Change for  6 XB LAD 3.0; The lesion was crossed with Prowater wire and predilated with 2.5 x 15 balloon at ATM. A 2.5 x 28 mm Promus Element drug-eluting was deployed to cover the mid lesion at 12 ATM and was post-dilated with 3.0 x 15 NC ballon at ATM and then 3.25 x 9 NC balloon at ATM.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain\uff0c shortness of breath  is a symptom of ACS$Cause_1": {
+                    "chest pain, shortness of breath$Input1": {}
+                },
+                "Family fistory:Sister is a woman with history of hypertension, CAD who was sent from Dr. for cardiac cath for worsening anginal symptoms.\n can be a risk fact of acs$Cause_1": {
+                    "Sister is a woman with history of hypertension, CAD who was sent from Dr. for cardiac cath for worsening anginal symptoms.$Input2": {}
+                },
+                "istory of stable angina and had stress test which showed likely inferior ischemia on stress TTE.\n is a risk fact of acs$Cause_1": {
+                    "Patient has history of stable angina and had stress test which showed likely inferior ischemia on stress TTE.$Input2": {}
+                },
+                "Diabetes is risk fact$Cause_1": {
+                    "Diabetes$Input3": {}
+                },
+                "Dyslipidemia  is risk fact$Cause_1": {
+                    "Dyslipidemia$Input3": {}
+                },
+                "Hypertension is risk fact$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "CORONARY ARTERY DISEASE  is risk fact$Cause_1": {
+                    "CORONARY ARTERY DISEASE$Input3": {}
+                },
+                "Family fistory:CAD in both parents can be a risk fact of acs$Cause_1": {
+                    "CAD in both parents$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS.$Cause_1": {
+                "ECG:non-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain\uff0c shortness of breath  is a symptom of ACS$Cause_1": {
+                    "chest pain, shortness of breath$Input1": {}
+                },
+                "Family fistory:Sister is a woman with history of hypertension, CAD who was sent from Dr. for cardiac cath for worsening anginal symptoms.\n can be a risk fact of acs$Cause_1": {
+                    "Sister is a woman with history of hypertension, CAD who was sent from Dr. for cardiac cath for worsening anginal symptoms.$Input2": {}
+                },
+                "istory of stable angina and had stress test which showed likely inferior ischemia on stress TTE.\n is a risk fact of acs$Cause_1": {
+                    "Patient has history of stable angina and had stress test which showed likely inferior ischemia on stress TTE.$Input2": {}
+                },
+                "Diabetes is risk fact$Cause_1": {
+                    "Diabetes$Input3": {}
+                },
+                "Dyslipidemia  is risk fact$Cause_1": {
+                    "Dyslipidemia$Input3": {}
+                },
+                "Hypertension is risk fact$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "CORONARY ARTERY DISEASE  is risk fact$Cause_1": {
+                    "CORONARY ARTERY DISEASE$Input3": {}
+                },
+                "Family fistory:CAD in both parents can be a risk fact of acs$Cause_1": {
+                    "CAD in both parents$Input4": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "slight cardiac structural abnormalities:is a sign of acs$Cause_1": {
+                    "Change for  6 XB LAD 3.0; The lesion was crossed with Prowater wire and predilated with 2.5 x 15 balloon at ATM. A 2.5 x 28 mm Promus Element drug-eluting was deployed to cover the mid lesion at 12 ATM and was post-dilated with 3.0 x 15 NC ballon at ATM and then 3.25 x 9 NC balloon at ATM.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain\uff0c shortness of breath  is a symptom of ACS$Cause_1": {
+                        "chest pain, shortness of breath$Input1": {}
+                    },
+                    "Family fistory:Sister is a woman with history of hypertension, CAD who was sent from Dr. for cardiac cath for worsening anginal symptoms.\n can be a risk fact of acs$Cause_1": {
+                        "Sister is a woman with history of hypertension, CAD who was sent from Dr. for cardiac cath for worsening anginal symptoms.$Input2": {}
+                    },
+                    "istory of stable angina and had stress test which showed likely inferior ischemia on stress TTE.\n is a risk fact of acs$Cause_1": {
+                        "Patient has history of stable angina and had stress test which showed likely inferior ischemia on stress TTE.$Input2": {}
+                    },
+                    "Diabetes is risk fact$Cause_1": {
+                        "Diabetes$Input3": {}
+                    },
+                    "Dyslipidemia  is risk fact$Cause_1": {
+                        "Dyslipidemia$Input3": {}
+                    },
+                    "Hypertension is risk fact$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "CORONARY ARTERY DISEASE  is risk fact$Cause_1": {
+                        "CORONARY ARTERY DISEASE$Input3": {}
+                    },
+                    "Family fistory:CAD in both parents can be a risk fact of acs$Cause_1": {
+                        "CAD in both parents$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "chest pain, shortness of breath\n",
+    "input2": "Sister is a woman with history of hypertension, CAD who was sent from Dr. for cardiac cath for worsening anginal symptoms.  Patient has history of stable angina and had stress test which showed likely inferior ischemia on stress TTE.  Patient opted out for minimal medical management.  At baseline she is able to climb flights of stair before getting short of breath however for the past 2 days she has been having chest discomfort at rest which is new and minimal shortness of breath at rest or with minimal exertion.  She declines any nausea, vomiting, diaphoresis, lightheadedness, palpitations.  She also denies any orthopnea, PND or peripheral edema. \n\ufeff\nShe was urgently seen by Dr. transfered patient to center department for cath to evalaute her right RCA lesion.\n",
+    "input3": "+ Diabetes\n+ Dyslipidemia\n+ Hypertension  \n+ CORONARY ARTERY DISEASE   \n+ Osteoarthritis  \n+ Hx of Cararacts\n",
+    "input4": "CAD in both parents\n",
+    "input5": "VS: 97.7  160/77  61  99%RA  \nGENERAL: Well appearing Oriented x3 \nHEENT: Sclera anicteric. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa.   \nNECK: Supple with flat JVD\nCARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nLUNGS: Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nABDOMEN: Soft, NTND. No HSM or tenderness\nEXTREMITIES: No c/c/e. Warm and well pefused.\n",
+    "input6": "Pertinent Labs:\n02:45PM BLOOD WBC-5.1 RBC-4.42 Hgb-14.1 Hct-43.0 MCV-97 MCH-31.8 MCHC-32.7 RDW-13.1\n02:45PM BLOOD UreaN-16 Creat-0.9 Na-141 K-3.5 Cl-102\n02:45PM BLOOD CK-MB-4 cTropnT-<0.01\n08:00PM BLOOD cTropnT-<0.01\n05:50AM BLOOD cTropnT-<0.01\n\ufeff\nCardiac Catheterization & Endovascular Procedure Report Interventional details\nChange for  6 XB LAD 3.0; The lesion was crossed with Prowater wire and predilated with 2.5 x 15 balloon at ATM. A 2.5 x 28 mm Promus Element drug-eluting was deployed to cover the mid lesion at 12 ATM and was post-dilated with 3.0 x 15 NC ballon at ATM and then 3.25 x 9 NC balloon at ATM.\nThe proximal lesion was directly stented with 3.0 x 12 Promus Element drug-eluting, leaving a 6-8 mm gap of unstented normal appearing vessel.  This was post-dilated with the 3.25 x 9 NC balloon at 14 ATM. Final angiography showed 10% residual in proximal segment of mid, no dissection and TIMI 3 flow.\n\ufeff\nPotential for Radiation Injury\nThis patient underwent a procedure performed under fluoroscopic (X-ray) guidance. Procedures involving lengthy exposures to X-rays may cause damage to the skin and/or hair. These adverse effects may be increased if one has had previous (especially recent) radiation exposure to the same skin area. Radiation injury to the skin can take many forms, including an area of redness, blistering, hair loss, or ulceration. These effects may appear after a few weeks or even after several months. If an of these occur on the side and back of the torso (or elsewhere), please contact the Interventional Cardiology Section to arrange further evaluation.\n\nECG:non-ST-elevation\n"
+}

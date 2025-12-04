@@ -1,0 +1,57 @@
+{
+    "Paroxysmal Atrial Fibrillation$Intermedia_3": {
+        "This shows instability in the heart's electrical activity and is a confirmatory indicator of an episode of atrial fibrillation.$Cause_1": {
+            "The rhythm was sinus with two runs of PSVT (one 3 beat during infusion and the second ___ beat run in recovery), two PACs and single atrial couplet.$Input6": {}
+        },
+        "Suspected Atrial Fibrillation$Intermedia_2": {
+            "Palpitations are one of the common symptoms of AF$Cause_1": {
+                "Palpitations$Input1": {}
+            },
+            "Atrial fibrillation causes the heart to beat irregularly and rapidly, causing palpitations$Cause_1": {
+                "presents with 2 days of palpitations$Input2": {}
+            },
+            "Insufficient blood flow to the heart may cause a feeling of pressure in the chest$Cause_1": {
+                "chest pressure$Input2": {}
+            },
+            "Atrial fibrillation may affect the heart's ability to pump blood, causing difficulty breathing$Cause_1": {
+                "dyspnea$Input2": {}
+            },
+            "Insufficient blood flow to the heart may cause chest pain during physical activity$Cause_1": {
+                "noticed substernal chest pain on walking down the stairs$Input2": {}
+            },
+            "Diabetes is a known risk factor for atrial fibrillation$Cause_1": {
+                "Diabetes$Input3": {}
+            },
+            "Dyslipidemia increases the risk of cardiovascular disease and indirectly increases the probability of atrial fibrillation.$Cause_1": {
+                "Dyslipidemia$Input3": {}
+            },
+            "High blood pressure is a common cause of atrial fibrillation$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "Diastolic dysfunction associated with atrial fibrillation$Cause_1": {
+                "Diastolic heart failure: intermittent lasix, spironolactoneuse.$Input3": {}
+            },
+            "Low heart rates are common in patients with atrial fibrillation$Cause_1": {
+                "VS: 55$Input5": {}
+            },
+            "A systolic ejection murmur may indicate heart valve problems or other structural abnormalities, which are potential risk factors for atrial fibrillation.$Cause_1": {
+                "systolic ejection murmur$Input5": {}
+            },
+            "This may be an adaptive response of the heart to compensate for the hemodynamic changes caused by atrial fibrillation.$Cause_1": {
+                "Left ventricular systolic function is hyperdynamic (EF>75%)$Input6": {}
+            },
+            "Mild dilation of the left atrium, which is one of the common physiological changes of atrial fibrillation$Cause_1": {
+                "The left atrium is mildly dilated$Input6": {}
+            },
+            "Mild symmetrical left ventricular hypertrophy, which affects the electrophysiological properties of the heart and is related to the occurrence of atrial fibrillation$Cause_1": {
+                "mild symmetric left ventricular hypertrophy$Input6": {}
+            }
+        }
+    },
+    "input1": "Palpitations\n",
+    "input2": "She is presents with 2 days of palpitations, chest pressure, and dyspnea.  She was in her usual state of health until when she first noticed palpitations while lying in bed.  She has had a history of occasional Afib, roughly once a year for a brief period, but she is familiar with the feeling.  On this occasion her partner felt her pulse and noticed it was both rapid and irregular.  Her symptoms rapidly improved, as they have in the past.  She was not concerned until they recurred several times and accompanied by a feeling of weakness.  She also noticed substernal chest pain on walking down the stairs that lasted for roughly an hour.  This was not associated with dyspnea, N/V/D, or diaphoresis.  The chest pain was similar to that she experienced prior to her CABG.  Given the more frequent palpitations, the association of weakness with her palpitations, and this episode of chest pain, she presented to her PCP's office for evaluation.\n\nIn the PCP's office, she was noted to be in Afib.  She was referred to the ED for evaluation.  Per EMS, her rate varied from 70-140 during transport, but she was in the 60-80s in the ED.  In the ED, initial vitals were 98.0 64 155/79 16 100%RA.  EKG showed no changes, troponin negative x2.  Cardiology was consulted who recommended a pMIBI.  The initial result was not clearly normal, therefore a second day of testing was recommended.  In the afternoon, the patient had a period of Afib with RVR, with her rate up to the 140s.  She was provided metoprolol 5mg IV x1 and 25mg PO x1 with good control.\n \nOn review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. She denies recent fevers, chills or rigors. All of the other review of systems were negative.  \n \nCardiac review of systems is notable for absence of paroxysmal nocturnal dyspnea, orthopnea, ankle edema, syncope or presyncope.\n",
+    "input3": "+Diabetes\n+Dyslipidemia \n+Hypertension  \n+Diastolic heart failure: intermittent lasix, spironolactoneuse.\n+h/o paroxysmal atrial fibrillation, previously on amio/coumadin, now d/c\n",
+    "input4": "mother - deceased at young age of hodgkins\nfather - deceased of cad\nno breast, ovarian, uterine, colon cancer\nNo family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.\n",
+    "input5": "ADMISSION PHYSICAL EXAMINATION: \nWeight: 116.1 kg  \nVS: 97.9  133/65  55  20  99% RA\nGENERAL: NAD. Alert and oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. Right eye surgically non-reactive, left reactive to light, EOMI.   \nNECK: Supple with no JVD.  \nCARDIAC:  RRR, normal S1, S2. ___ systolic ejection murmur. No S3 or S4.  \nLUNGS: Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nABDOMEN: Soft, non-tender, non-distended.  \nEXTREMITIES: No cyanosis, clubbing, edema. No femoral bruits.  DP and ___ 2+ b/l\n",
+    "input6": "___ 06:40PM BLOOD WBC-6.8 RBC-4.37 Hgb-13.0 Hct-39.7 MCV-91 MCH-29.7 MCHC-32.7 RDW-13.4 Plt ___\n___ 06:40PM BLOOD Neuts-67.5 ___ Monos-4.7 Eos-0.5 Baso-0.7\n___ 06:40PM BLOOD ___ PTT-31.5 ___\n___ 06:40PM BLOOD Glucose-111* UreaN-26* Creat-1.3* Na-139 K-4.7 Cl-103 HCO3-23 AnGap-18\n___ 06:40PM BLOOD Calcium-9.1 Phos-4.4# Mg-2.1\n___ 07:10AM BLOOD WBC-6.2 RBC-4.00* Hgb-11.7* Hct-36.2 MCV-91 MCH-29.4 MCHC-32.4 RDW-13.5 Plt ___\n___ 07:10AM BLOOD Glucose-139* UreaN-27* Creat-1.3* Na-139 K-4.4 Cl-104 HCO3-28 AnGap-11\n___ 07:10AM BLOOD Calcium-8.8 Phos-4.0 Mg-2.1\n___ 06:40PM BLOOD cTropnT-<0.01\n___ 01:05AM BLOOD cTropnT-<0.01\n___ 07:10AM BLOOD CK-MB-2 cTropnT-<0.01\n___ 07:10AM BLOOD CK(CPK)-79\n\nCXR ___:\nThe patient is status post median sternotomy and CABG.  The cardiac and mediastinal silhouettes are stable.  No focal consolidation, pleural effusion, or evidence of pneumothorax is seen.  There is no overt pulmonary edema.\n\nStress ___:\nINTERPRETATION: DMII referred from the Emergency Department after two negative sets of cardiac biomarkers for evaluation of episodes of chest pain associated with shortness of breath and palpitations. The patient was infused 0.142 mg/kg/min of dipyridamole over 4 mins. No arm, chest, neck or back discomfort noted during the study. There were no ST segment changes during the infusion or during recovery. The rhythm was sinus with two runs of PSVT (one 3 beat during infusion and the second ___ beat run in recovery), two PACs and single atrial couplet. Appropriate hemodynamic response to infusion and recovery. The dipyridamole was reversed with 125 mg IV aminophylline.\n\nTTE ___:\nThe left atrium is mildly dilated. There is mild symmetric left ventricular hypertrophy with normal cavity size. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. Left ventricular systolic function is hyperdynamic (EF>75%). Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. A bioprosthetic aortic valve prosthesis is present. The aortic valve leaflets are not well visualized. The transaortic gradient is higher than expected for this type of prosthesis. No aortic regurgitation is seen. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion. \n\nIMPRESSION: Mild symmetric left ventricular hypertrophy with hyperdynamic systolic function. Well seated aortic valve bioprosthesisleft with increased transaortic gradients, likely secondary to incrased flow from high output versus patient/prosthesis mismatch (similar mean gradient reported on post-op TEE. True prosthesis stenosis is less likely given the early peaking contour of the transaortic jet velocity (AT < 100 ms), although cannot completely exclude.\n"
+}

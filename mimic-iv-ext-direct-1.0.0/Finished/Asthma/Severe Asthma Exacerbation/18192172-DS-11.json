@@ -1,0 +1,41 @@
+{
+    "Severe Asthma$Intermedia_4": {
+        "Confirm the type of severe asthma$Cause_1": {
+            "He doesn't respond well to conventional treatments.$Input2": {}
+        },
+        "Asthma$Intermedia_3": {
+            "Significant improvement in FEV1 is often used to assess asthma patients' response to treatment and to diagnose asthma.$Cause_1": {
+                "significant improvement in FEV1 of more than 16%$Input6": {}
+            },
+            "Suspected Asthma$Intermedia_2": {
+                "Dyspnea is a common symptom of asthma$Cause_1": {
+                    "Dyspnea$Input1": {}
+                },
+                "Vomiting may be associated with exacerbated respiratory symptoms, especially during an asthma attack, and severe coughing may induce gastric discomfort.$Cause_1": {
+                    "one episode of vomiting$Input2": {}
+                },
+                "Stomach pain may be due to increased abdominal pressure when coughing, which is more common in people with asthma$Cause_1": {
+                    "\"stomach hurts\" when she coughs.$Input2": {}
+                },
+                "Sleeping with multiple pillows may be an attempt to relieve breathing difficulties and is a common coping mechanism among people with asthma.$Cause_1": {
+                    "sleeping restlessly with 3 pillows$Input2": {}
+                },
+                "An inconclusive history of PND may suggest nighttime breathlessness, a warning sign of an asthma exacerbation$Cause_1": {
+                    "uncertain history of PND$Input2": {}
+                },
+                "The patient has mild dyspnea, which indicates possible respiratory abnormalities, a common symptom of asthma$Cause_1": {
+                    "mild respiratory distress$Input5": {}
+                },
+                "Sporadic wheezing and prolonged exhalation are typical symptoms of asthma and indicate airway obstruction and inflammation.$Cause_1": {
+                    "Diffuse wheezing and prolonged expiratory phase$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea\n",
+    "input2": "Had one episode of vomiting on the first night after her respiratory symptoms had already started.  Denies associated chest pain, notes that her \"stomach hurts\" when she coughs.  Has been sleeping restlessly with 3 pillows, uncertain history of PND, no peripheral edema.  No calf tenderness or leg injury.  No known sick contacts.  No new medications.  Initially attributed symptoms to \"pollen\", but has never had such severe symptoms with seasonal allergies in the past.  Seen by her PCP at ___ ___ flow there measured 230.  There, treated with solumedrol and nebulizer treatments with some relief.  CXR without acute infiltrate.  BNP not elevated.  Currently feels much improved since earlier in the day, though still dyspneic at rest. He doesn't respond well to conventional treatments.\n",
+    "input3": "Essential hypertension\nGout\nHyperlipidemia\n(?)prior history of asthma (though patient denies), has been \nprescribed albuterol inhaler in past but she does not use. \nPrior echo with LVH, preserved systolic function, mild aortic \nstenosis.\n",
+    "input4": "No family history of heart disease or lung disease.  Daughter passed away from pancreatic cancer.\n",
+    "input5": "VS: afebrile, BP 162/72, HR ___, O2 sat 98% on 3.5L by NC.  RR ___.\nGEN: Pleasant, talkative in partial sentences, in mild respiratory distress.  No accessory muscle use at rest.\nHEENT: Anicteric sclerae, OP clear with moist mucous membranes\nNECK: JVP approximately 7-8 cm, no palpable cervical adenopathy or thyromegaly\nCHEST: Diffuse wheezing and prolonged expiratory phase.  No \nrales.\nCOR: S1 S2 with II/VI systolic murmur at base.\nABD: Soft, non-tender, non-distended, without palpable organomegaly.\nEXTREM: No clubbing, cyanosis, or edema.  No calf tenderness.\nNEURO: Alert and oriented, fluent historian.  Attentive, names ___ without difficulty.  No asterixis.  No pronator drift.  CN \nII-XII intact.  Strength ___ in upper and lower extremities \nbilaterally.  Sensation to LT grossly intact.  Gait not tested.\n",
+    "input6": "___ 02:30PM   GLUCOSE-124* UREA N-22* CREAT-0.9 SODIUM-141 \nPOTASSIUM-3.7 CHLORIDE-101 TOTAL CO2-27 ANION GAP-17\n___ 02:30PM   proBNP-98\n___ 02:30PM   WBC-7.4 RBC-4.46 HGB-13.2 HCT-39.4 MCV-88 \nMCH-29.5 MCHC-33.5 RDW-16.0*\n___ 02:30PM   PLT COUNT-230\n\nCXR: In comparison with study of earlier in this date, there is little change. Continued enlargement of the cardiac silhouette with mild fullness of pulmonary vessels consistent with elevated pulmonary venous pressure. No acute focal pneumonia. \n\nEKG: Sinus bradycardia 56, LAD, nl intervals.  Non-significant Q-waves in I, avL.  0.5mm upsloping ST segment elevations in V2-V3.\n\nsignificant improvement in FEV1 of more than 16%\n\n"
+}

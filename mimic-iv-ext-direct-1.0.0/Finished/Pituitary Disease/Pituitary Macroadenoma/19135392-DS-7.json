@@ -1,0 +1,21 @@
+{
+    "Pituitary Macroadenomas$Intermedia_3": {
+        "There is a stable deformity in the left anterior horn of the lateral ventricle and the left anterior part of the third ventricle. This may be due to tumor compression or structural changes caused by surgery.$Cause_1": {
+            "Stable distortion of the frontal horn of the left lateral ventricle and anterior left aspect of the third ventricle.$Input6": {}
+        },
+        "Suspected pituitary disease$Intermedia_2": {
+            "Pituitary macroadenomas may affect visual function and cause diplopia by compressing the optic nerve or its surrounding structures.$Cause_1": {
+                "occasional double vision$Input1": {}
+            },
+            "Because of its location near the optic chiasm, giant pituitary tumors may compress the optic nerves, causing vision problems. This is a common symptom associated with giant pituitary tumors.$Cause_1": {
+                "visual related symptoms$Input2": {}
+            }
+        }
+    },
+    "input1": "occasional double vision\n",
+    "input2": "F who was referred for visual related symptoms\n",
+    "input3": "PMH: Anemia due to heavy periods \nPSH:  L toe nail surgery\n",
+    "input4": "NC\n",
+    "input5": "Physical Exam:\nN/A\n",
+    "input6": "Non contrast Head CT\nS/p sellar/suprasellar mass resection with blood products and fluid in the sella and suprasellar cistern, as well as fluid anterior to the left thalamus, at the site of the left superior component of the resected mass. Stable distortion of the frontal horn of the left lateral ventricle and anterior left aspect of the third ventricle.  No hydrocephalus.  Small amount of blood in the lateral ventricles. No evidence for hemorrhage or edema in the brain parenchyma. \n\ufeff\nBrain MRI w/&w/o\nS/p sellar/suprasellar mass resection with enhancing hemorrhagic material in the sella and suprasellar cistern, compatible with postsurgical change. follow up Imaging is needed to exclude residual tumor. Please note that follow up would be best performed with a combination of complete brain MRI and dedicated pituitary MRI sequences. Small amount of blood in the occipital horns of the lateral ventricles. Stable configuration of the ventricles with slight distortion of the left frontal horn and left anterior third ventricle. No hydrocephalus. \n\ufeff\nCortisol level 12.5\n\ufeff\n"
+}

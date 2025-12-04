@@ -1,0 +1,96 @@
+{
+    "UA$Intermedia_5": {
+        "Severe chest pain is symbol of ACS-UA$Cause_1": {
+            "tient noted chest pain more frequent and extended episodes. The pain occurs every night for the past week, lasts up to 2 hours. She uses two tablets of NTG without good resolution of pain.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "DOE is a symptom of ACS$Cause_1": {
+                "DOE$Input1": {}
+            },
+            "Diaphoresis is a symptom of ACS$Cause_1": {
+                "Diaphoresis$Input1": {}
+            },
+            "CAD HTN, DM2, HLD,are risk facts$Cause_1": {
+                "She is an female with history of CAD (3 vessel disease, previous cath stent to LCX), HTN, DM2, HLD,$Input2": {}
+            },
+            "family history is a risk fact$Cause_1": {
+                "1 brother alive without CAD. 1 sister with CAD$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "slight cardiac structural abnormalities is a sign of acs$Cause_1": {
+                "Normal global and regional biventricular systolic function. Mild mitral regurgitation.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "DOE is a symptom of ACS$Cause_1": {
+                    "DOE$Input1": {}
+                },
+                "Diaphoresis is a symptom of ACS$Cause_1": {
+                    "Diaphoresis$Input1": {}
+                },
+                "CAD HTN, DM2, HLD,are risk facts$Cause_1": {
+                    "She is an female with history of CAD (3 vessel disease, previous cath stent to LCX), HTN, DM2, HLD,$Input2": {}
+                },
+                "family history is a risk fact$Cause_1": {
+                    "1 brother alive without CAD. 1 sister with CAD$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "ECG:non-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "DOE is a symptom of ACS$Cause_1": {
+                    "DOE$Input1": {}
+                },
+                "Diaphoresis is a symptom of ACS$Cause_1": {
+                    "Diaphoresis$Input1": {}
+                },
+                "CAD HTN, DM2, HLD,are risk facts$Cause_1": {
+                    "She is an female with history of CAD (3 vessel disease, previous cath stent to LCX), HTN, DM2, HLD,$Input2": {}
+                },
+                "family history is a risk fact$Cause_1": {
+                    "1 brother alive without CAD. 1 sister with CAD$Input4": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "slight cardiac structural abnormalities is a sign of acs$Cause_1": {
+                    "Normal global and regional biventricular systolic function. Mild mitral regurgitation.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "DOE is a symptom of ACS$Cause_1": {
+                        "DOE$Input1": {}
+                    },
+                    "Diaphoresis is a symptom of ACS$Cause_1": {
+                        "Diaphoresis$Input1": {}
+                    },
+                    "CAD HTN, DM2, HLD,are risk facts$Cause_1": {
+                        "She is an female with history of CAD (3 vessel disease, previous cath stent to LCX), HTN, DM2, HLD,$Input2": {}
+                    },
+                    "family history is a risk fact$Cause_1": {
+                        "1 brother alive without CAD. 1 sister with CAD$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain, DOE, Diaphoresis\n",
+    "input2": "She is an female with history of CAD (3 vessel disease, previous cath stent to LCX), HTN, DM2, HLD, presents with unstable angina, dyspnea on exertion, and diaphoresis x 3 weeks. She cannot have a CABG as she refuses transfusions. Since her stent to Lcx, she had been pain free for a while on maximum anginal therapy up until one month ago, but now her symptoms are returning. Patient saw her PCP. And per PCP's note during that visit patient noted chest pain more frequent and extended episodes. The pain occurs every night for the past week, lasts up to 2 hours. She uses two tablets of NTG without good resolution of pain. Pt was advised to come to the ED for further evaluation, given CT surgery here.\n",
+    "input3": "+Diabetes \n+Dyslipidemia\n+Hypertension \n+Iron deficiency anemia\n+Vitamin B deficiency\n+Osteoarthritis\n+Asthma\n+Right carotid artery stenosis\n+Chronic open angle glaucoma\n+Cataract left eye\n",
+    "input4": "Father and mother deceased - unknown cause. 1 brother alive without CAD. 1 sister with CAD. Multiple siblings deceased.\n",
+    "input5": "ADMISSION:\nVS:  T=97.4 BP=131/47 HR=57 RR=16 O2 sat=98%RA  \nGeneral: A&O x 3, NAD\nHEENT: NCAT, EOMi   \nNeck: No JVD  \nCV: RRR, normal S1, S2, no murmurs\nLungs: CTAB\nAbdomen: Soft, NTND\nExt: No lower extremity edema  \nNeuro: CN grossly intact, moves all extremities \nPULSES: 2+ DP pulses\n",
+    "input6": "ADMISSION LABS:\n___ 01:05PM BLOOD WBC-4.9 RBC-3.62* Hgb-11.9* Hct-37.5 MCV-104* MCH-33.0* MCHC-31.9 RDW-12.4 Plt ___\n___ 01:05PM BLOOD Neuts-62.1 ___ Monos-8.4 Eos-2.1 Baso-0.7\n___ 01:05PM BLOOD ___ PTT-32.0 ___\n___ 01:05PM BLOOD Glucose-173* UreaN-16 Creat-0.8 Na-137 K-5.3* Cl-101 HCO3-29 AnGap-12\n___ 01:05PM BLOOD Calcium-9.5 Phos-3.7 Mg-2.2\n___ 01:05PM BLOOD cTropnT-<0.01\n\nIMAGING:\n\nECHO ___:\nThe left atrium is mildly dilated. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. The left ventricular inflow pattern suggests impaired relaxation. There is borderline pulmonary artery systolic hypertension. There is no pericardial effusion. \n\nIMPRESSION: Normal global and regional biventricular systolic function. Mild mitral regurgitation.\n\nECG:non-ST-elevation\n"
+}

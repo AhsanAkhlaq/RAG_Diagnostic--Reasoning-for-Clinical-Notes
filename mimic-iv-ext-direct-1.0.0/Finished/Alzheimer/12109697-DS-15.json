@@ -1,0 +1,54 @@
+{
+    "Alzheimer$Intermedia_3": {
+        "Failure to return to baseline after an altered mental status may indicate ongoing deterioration in cognitive function, a key feature of Alzheimer's disease.$Cause_1": {
+            "recent admission for AMS she has never returned to her baseline$Input2": {}
+        },
+        "Chronic microvascular lesions are common in various cardiovascular and cerebrovascular diseases, which are strongly associated with cognitive decline and Alzheimer's disease.$Cause_1": {
+            "Persistent changes secondary to chronic microvascular \ndisease.$Input6": {}
+        },
+        "Suspected Alzheimer$Intermedia_2": {
+            "Fatigue may be an early symptom of Alzheimer's$Cause_1": {
+                "Fatigue$Input1": {}
+            },
+            "Weakness refers to decreased muscle strength, which is common in people with Alzheimer's disease$Cause_1": {
+                "weakness$Input1": {}
+            },
+            "Neurological instability, a common symptom of Alzheimer's disease$Cause_1": {
+                "altered mental status$Input2": {}
+            },
+            "Increasing weakness may be linked to decreased muscle strength in Alzheimer's disease$Cause_1": {
+                "gradually worsening weakness$Input2": {}
+            },
+            "Decreased strength and difficulty moving may be associated with impaired motor function in Alzheimer's disease$Cause_1": {
+                "unable to move the walker forward$Input2": {}
+            },
+            "Blurred vision or perception problems may be a sign of cognitive impairment in Alzheimer's disease$Cause_1": {
+                "everything seemed kind of cloudy$Input2": {}
+            },
+            "Symptoms of vertigo may indicate a decline in the brain's ability to process information, which could be linked to early symptoms of Alzheimer's disease$Cause_1": {
+                "vertiginous symptoms$Input2": {}
+            },
+            "The decline in the ability to function independently may be due to the continued decline in cognition and function that is common in patients with Alzheimer's disease.$Cause_1": {
+                "no longer appropriate for an independent living facility$Input2": {}
+            },
+            "Diabetes has a known link to Alzheimer's disease$Cause_1": {
+                "DM type 2$Input3": {}
+            },
+            "Hypertension is a risk factor associated with cognitive decline$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "Hypertension is a risk factor associated with cognitive decline.$Cause_1": {
+                "BP:144/84$Input5": {}
+            },
+            "High blood sugar levels may point to prediabetes or diabetes, a known risk factor for Alzheimer's disease$Cause_1": {
+                "Glucose-125*$Input6": {}
+            }
+        }
+    },
+    "input1": "Fatigue, weakness\n",
+    "input2": "Patient is an ___ year old female with a history of HTN, DM type II and a recent admission for altered mental status that resolved on its own, who presents with subjective, gradually worsening weakness for the past day.  Prior to presentation to the ER, this morning she was walking down the hall in her independent living facility and became weak, she was found by the staff hunched over her walker unable to move the walker forward.  At that time she says that everything seemed kind of cloudy.  She says that overall she just feels tired.  She has had some vertiginous symptoms, but not particularly associated with her generalized weakness/fatigue.  Her neice feels that since her recent admission for AMS she has never returned to her baseline.  The niece does say that the staff where her aunt lives feels that she is no longer appropriate for an independent living facility. Patient says she has been eating and drinking well, no cp, shortness of breath, fevers, chills, n/v/d.\n\n",
+    "input3": "Hx of falls with fractures of her wrists, hip and pelvis  \nDM type 2  \nHTN  \nhx of breast ca  \nosteoperosis  \nanxiety  \n",
+    "input4": "N/C\n",
+    "input5": "Vitals: T:96.3  BP:144/84  P:74  R:18  SaO2:96% on RA  \nGENERAL: Pleasant, well appearing elderly caucasian female in NAD  \nHEENT: No conjunctival pallor. No scleral icterus. EOMI. MMM. OP clear. Neck Supple, No LAD, No thyromegaly.  \nCARDIAC: Regular rhythm, normal rate. Normal S1, S2. No murmurs, \nrubs or ___. \nLUNGS: CTAB, good air movement biaterally, khyphotic spine  \nABDOMEN: NABS. Soft, NT, ND. No HSM  \nEXTREMITIES: trace bilateral edema\nSKIN: scattered SK's on back and abdomen  \nNEURO: A&Ox3. Appropriate. CN ___ grossly intact. Preserved sensation throughout. ___ strength throughout. \nPSYCH: Listens and responds to questions appropriately, pleasant\n",
+    "input6": "___ 01:00PM BLOOD WBC-9.2 RBC-4.17* Hgb-11.6* Hct-37.0 MCV-89 MCH-27.8 MCHC-31.3 RDW-13.1 Plt ___\n___ 01:00PM BLOOD Glucose-125* UreaN-24* Creat-1.0 Na-139 K-4.3 Cl-101 HCO3-25 AnGap-17\n___ 01:00PM BLOOD cTropnT-<0.01\n___ 01:00AM BLOOD CK-MB-NotDone cTropnT-0.01\n___ 07:30AM BLOOD Calcium-9.1 Phos-3.7 Mg-1.8\n\nCT Head: \nIMPRESSION: \n1. No intracranial hemorrhage. No midline shift. \n2. Persistent changes secondary to chronic microvascular \ndisease. \n\nChest X-ray: IMPRESSION: \n1. Elevated left hemidiaphragm. No focal consolidation or pleural effusion seen. \n2. Diffuse osteopenia. Suggestion of vertebral body height loss \nin the mid thoracic region. \n"
+}

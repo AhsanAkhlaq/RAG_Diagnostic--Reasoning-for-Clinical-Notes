@@ -1,0 +1,21 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "Oesophagitis\uff08LA grades B\uff09 is the gold standard for the diagnosis of gastro-oesophageal reflux \rdisease.$Cause_1": {
+            "endoscopy\uff1aoesophagitis\uff08LA grades B\uff09 chronic gastritis$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Cough is an atypical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "Ms who presented of progressive SOB worse with leaning forward or exertion and non-productive cough.$Input2": {}
+            },
+            "Heartburn is a typical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "she reports, heartburn, constipation, DOE.$Input2": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Ms who presented of progressive SOB worse with leaning forward or exertion and non-productive cough. She underwent ENT eval with Dr noted possible laryngospasm, possible LPR but no clear etiology of the dyspnea and we referred to Dr TBM. His CT trachea noted TBM trachea and bilat main stem bronchi. A flex bronch noted  diffuse severe tracheobronchomalacia and possible LPR. Her pH/manometry testing returned with score of 21.5 and normal manometry. At baseline she reports, heartburn, constipation, DOE. Otherwise she denies abd pain, dysphagia or other related sx.\n",
+    "input3": "+Hyperlipidemia\n+OSA on CPAP\n+Exercise-induced asthma\n+Osteitis pubus\n+PTSD\n+Depression \n+ETOH abuse- sober x many years with AA\n+Several suicide attempts (including one with cardiac arrest)\n+s/p Hysterectomy \n+s/p Ureteral reimplantation and bladder neck reconstruction\n",
+    "input4": "Mother: cancer\nFather: cancer, CAD/CABG\n",
+    "input5": "Vitals: 98.5  84  151 / 80  16  95 RA\nGen: NAD, AAOx3\nCV: RRR\nPulm: nonlabored breathing on room air\nGI: soft, NT/ND, incisions CDI\nExtremities: warm and well perfused\nPsych: mood and affect appropriate\n",
+    "input6": "04:35AM BLOOD WBC-11.8* RBC-3.95 Hgb-12.6 Hct-37.1 \nMCV-94 MCH-31.9 MCHC-34.0 RDW-11.9 RDWSD-41.1 Plt\n04:35AM BLOOD Glucose-110* UreaN-15 Creat-0.7 Na-139 \nK-4.6 Cl-99 HCO3-26 AnGap-14\n04:35AM BLOOD Calcium-9.0 Phos-3.9 Mg-1.9\nendoscopy\uff1aoesophagitis\uff08LA grades B\uff09 chronic gastritis\r\n"
+}

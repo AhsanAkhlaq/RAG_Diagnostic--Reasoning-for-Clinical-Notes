@@ -1,0 +1,32 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "The condition has distinct attacks (relapses) and remission periods$Cause_1": {
+            "In the ED she said his symptoms had subsided and her condition had returned to a stable state. She said similar situations had happened before.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "Multiple enhancing lesions suggested active demyelination, and one also showed slowed diffusion, suggestive of an ongoing demyelinating process.$Cause_1": {
+                "There are multiple enhancing lesions indicating active demyelination, one of which also demonstrates slow diffusion.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Abnormal sensations and symptoms that come and go in the hands and feet may be signs of MS activity. These symptoms are related to nerve damage and are common in MS.$Cause_1": {
+                    "one day of right foot parasthesias as well as waxing and waning symptoms in her left foot and hands$Input2": {}
+                },
+                "This tingling and \"frostbite-like\" feeling may be related to neuropathy, which is common in MS.$Cause_1": {
+                    "tingling in both feet which felt \"like frostbite,\" which were worst in the right foot$Input2": {}
+                },
+                "Dysphagia can also be a symptom of MS and involves impaired nerve control of muscle function.$Cause_1": {
+                    "difficulty swallowing$Input2": {}
+                },
+                "She had tingling sensations in both hands that came and went. Nerve problems are a sign of MS$Cause_1": {
+                    "She has had waxing and waning tingling in her hands bilaterally.$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "She is a woman who presents with one day of right foot parasthesias as well as waxing and waning symptoms in her left foot and hands. \n\ufeff\nShe was in her normal state of health two days ago when she went to sleep. Yesterday morning she woke from sleep with tingling in both feet which felt \"like frostbite,\" which were worst in the right foot. She attributed this to stress and went about her  day. She noticed some difficulty swallowing when eating peas and rice. The symptoms remained constant in her feet and spread to her hands as well. They were present in her hands and feet when she went to bed. At 3 AM she woke from sleep with more severe pain in her feet, right more than left, and a feeling of shortness of breath, tongue heaviness and difficulty breathing, as well as sweating and tremulousness of the hands. For this reason she presented to the emergency department. She has had waxing and waning tingling in her hands bilaterally.  Prior to my seeing her she received toradol with improvement in her hands and left foot but not in her feet. Her breathing has improved.\n\ufeff\nHer menses started yesterday and she has a history of catameial migraine but she denies any headache. In addition, the symptoms she awoke with this morning are similar to her past panic attacks, which reportedly feel \"like death.\" She does endorse several stressful events recently, including multiple funerals, recent diagnosis of bartholin gland cyst with drainage, and urinary tract infection for which she has completed treatment. These problems have not relapsed. She has not been sleeping well for several weeks. She is also thinking about changing Neurologists. She is upset that Dr her to return to clinic before renewing her lorazepam and she feels that he just wants to give her more medications, not make her better.\n\ufeff\nIn the ED she said his symptoms had subsided and her condition had returned to a stable state. She said similar situations had happened before.\n",
+    "input3": "1) Migraines - correlating with menses\n2) Sickle cell trait\n3) Anxiety/depression\n",
+    "input4": "None\n",
+    "input5": "Physical Exam:\nGeneral Physical Examination:\nGen: Lying in bed, wrapped tightly in blankets, shivers when uncovered.\nHEENT: NC/AT. No scleral icterus or injection.\nNeck: Able to touch chin to chest.\nPulmonary: Normal work of breathing. Vesicular breath sounds bilaterally, no wheezes or crackles appreciated.\nCardiac: S1/S2 appreciated, RRR, no M/R/G.\nAbdomen: Obese, soft, nondistended, palpation elicits nausea but not tender.\nExtremities: No lower extremity edema\nMSK: Joints without erythema, warmth or effusion.\nSkin: No rashes or lesions noted. Variation in pigmentation over skin.\n \nNeurologic Examination:\n-Mental Status: alert, oriented fully, attentive, follows commands. Language is fluent, comprehension intact, naming intact to high and low frequency objects.\n\ufeff\n-Cranial Nerves:\nI: Olfaction not tested.\nII: PERRL 5 to 4mm, bilaterally. VFF to confrontation with finger wiggling.\nIII, IV, VI: EOMI without nystagmus.  Normal saccades.\nV: Facial sensation intact to light touch in all distributions.\nVII: No facial droop, facial musculature symmetric and strength in upper and lower distributions, bilaterally \nVIII: Hearing not tested.\nIX, X: Palate elevates symmetrically.\nXI: Strength in trapezii bilaterally, turns head right to left briskly.\nXII: Tongue protrudes in midline.\n \n-Motor: normal bulk and tone. Strength testing to confrontation in all motor groups. No fasciculations.\n\ufeff\n-DTRs: 2+ symmetrically. Toes downgoing bilaterally.\n\ufeff\n-Sensory: intact bilaterally to light touch and temperature.\n\ufeff\n-Coordination: No dysmetria on FNF or HKS bilaterally. Finger tapping rapid and accurate.\n\ufeff\n-Gait: steady, narrow-based gait.\n\ufeff\n",
+    "input6": "___ 05:20AM BLOOD WBC-14.5* RBC-3.52* Hgb-10.2* Hct-31.4* MCV-89 MCH-29.0 MCHC-32.5 RDW-14.9 RDWSD-48.0*\n___ 05:20AM BLOOD Neuts-52 Bands-0 Monos-4* Eos-6 Baso-0 Myelos-0 NRBC-1* AbsNeut-7.54* AbsLymp-5.51* AbsMono-0.58 AbsEos-0.87* AbsBaso-0.00*\n___ 05:20AM BLOOD Glucose-92 UreaN-6 Creat-0.7 Na-137 K-3.9 Cl-104 HCO3-27 AnGap-10\n\ufeff\nThere are multiple enhancing lesions indicating active demyelination, one of which also demonstrates slow diffusion.\n"
+}

@@ -1,0 +1,48 @@
+{
+    "Hemorrhagic Stroke$Intermedia_3": {
+        "Intraparenchymal hemorrhage directly indicates possible hemorrhagic stroke$Cause_1": {
+            "Intraparenchymal Hemorrhage$Input1": {}
+        },
+        "The head CT results showed obvious high-density lesions in the right parietal lobe, further confirming intraparenchymal hemorrhage. This is key imaging evidence in diagnosing stroke.$Cause_1": {
+            "head CT which showed a 1.8 x 2.2 cm hyperdense lesion in the right parietal lobe concerning for intraparenchymal hemorrhage$Input2": {}
+        },
+        "Obvious symptoms of bleeding within the head are diagnostic criteria for hemorrhagic stroke$Cause_1": {
+            "Stable appearance of a 2.0 x 1.9 x 3.3 cm intraparenchymal hematoma centered within the right parietal lobe.$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "Seizure may be a sign of stroke$Cause_1": {
+                "Seizure$Input1": {}
+            },
+            "Loss of consciousness is one of the common symptoms of stroke$Cause_1": {
+                "he lost consciousness$Input2": {}
+            },
+            "This attack may be triggered by a stroke.$Cause_1": {
+                "There is concern for possible seizure when EMS arrived due to the fact that he was minimally responsive and had lost his urine in the car as well as had a tongue bite.$Input2": {}
+            },
+            "This suggests that patients may be at increased risk for brain events during the vulnerable period after alcohol withdrawal.$Cause_1": {
+                "he stopped drinking approximately at midnight the night prior, which is 24 hours prior to the event.  He did feel shaky, tremulous and like he was going through withdrawal while driving.$Input2": {}
+            },
+            "Atrial fibrillation increases risk of stroke$Cause_1": {
+                "A. fib on Coumadin$Input3": {}
+            },
+            "Long-term drinking or binge drinking may increase the chance of stroke$Cause_1": {
+                "alcohol abuse$Input3": {}
+            },
+            "Side tongue bite can be a sign of stroke$Cause_1": {
+                "evidence of a lateral tongue bite$Input5": {}
+            },
+            "Postural tremor may be a symptom after stroke$Cause_1": {
+                "There is a fine postural tremor$Input5": {}
+            },
+            "A positive Romberg test indicates that the patient is unsteady when standing with eyes closed, which may indicate a stroke$Cause_1": {
+                "Romberg positive$Input5": {}
+            }
+        }
+    },
+    "input1": "Seizure, Intraparenchymal Hemorrhage\n",
+    "input2": "Patient was in his usual state of health this afternoon when he was backing his car out of the driveway and bumped into a tree at low impact.  He does not recall the small accident because he lost consciousness.  There is concern for possible seizure when EMS arrived due to the fact that he was minimally responsive and had lost his urine in the car as well as had a tongue bite.  He was taken to hospital where he was given 1 mg of Ativan and Keppra.  He underwent head CT which showed a 1.8 x 2.2 cm hyperdense lesion in the right parietal lobe concerning for intraparenchymal hemorrhage.  There was surrounding edema and mild mass-effect but no midline shift.  The decision was made to transfer to ICU for further management.\n\ufeff\nOf note, patient has a history of 2 lifetime seizures prior to this episode, both of which were in the context of alcohol withdrawal.  Patient reports that he stopped drinking approximately at midnight the night prior, which is 24 hours prior to the event.  He did feel shaky, tremulous and like he was going through withdrawal while driving.  He has never had a seizure in between episodes of alcohol withdrawal. \n\ufeff\nHe denied any history of significant head trauma, febrile seizures, meningitis, encephalitis.\n",
+    "input3": "+ ICD\n+ mitral and tricuspid valve repair\n+ A. fib on Coumadin\n+ alcohol abuse\n+ history of withdrawal seizures\n",
+    "input4": "No family history of seizure\n",
+    "input5": "EXAM ON ADMISSION:\nPhysical Exam:\nVitals: T: 98.4 P: 83  R: 16  BP: 134/89 SaO2: 95% RA\nGeneral: Awake, cooperative, NAD.\nHEENT: NC/AT, no scleral icterus noted, MMM, evidence of a lateral tongue bite\nPulmonary: Normal work of breathing\nCardiac: RRR, warm, well-perfused\nAbdomen: soft, non-distended\nExtremities: No edema.\nSkin: no rashes or lesions noted.\n\ufeff\nNeurologic:\n\ufeff\n-Mental Status: Alert, oriented x 3. Able to relate history without difficulty. Attentive, able to name backward without difficulty. Language is fluent with intact repetition and comprehension. Normal prosody. There were no paraphasic errors. Pt was able to name both high and low frequency objects.  Able to read without difficulty. Speech was not dysarthric. Able to follow both midline and appendicular commands. There was no evidence of apraxia or neglect.\n\ufeff\n-Cranial Nerves:\nII, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without nystagmus. VFF to confrontation. \nV: Facial sensation intact to light touch.\nVII: No facial droop, facial musculature symmetric.\nVIII: Hearing intact to finger-rub bilaterally.\nIX, X: Palate elevates symmetrically.\nXI: strength in trapezii bilaterally.\nXII: Tongue protrudes in midline with good excursions. \n\ufeff\n-Motor: Normal bulk, tone throughout. No pronator drift bilaterally.\nThere is a fine postural tremor. No asterixis noted.\n\ufeff\n-Sensory: No deficits to light touch, pinprick, proprioception throughout. No extinction to DSS. Romberg positive. \n\ufeff\n-DTRs:\nBi Tri xx Pat Ach\nL  2  2    2    0   0\nR  2  2    2    0   0\nPlantar response was mute bilaterally.\n\ufeff\n-Coordination: No dysmetria on FNF or HKS bilaterally.\n\ufeff\n-Gait: Good initiation. Wide-based, normal stride and arm swing. \n\ufeff\nAble to walk in tandem without difficulty.\n",
+    "input6": "04:45AM BLOOD WBC-4.6 RBC-3.92* Hgb-12.7* Hct-39.3* MCV-100* MCH-32.4* MCHC-32.3 RDW-15.7* RDWSD-57.8* Plt Ct-93*\n04:45AM BLOOD ALT-48* AST-59* AlkPhos-91\n04:45AM BLOOD Calcium-8.8 Phos-4.0 Mg-1.7 Iron-85\n12:03AM BLOOD TSH-4.4*\n\ufeff\nIMAGING:\n\ufeff\nCT HEAD:\n. Stable appearance of a 2.0 x 1.9 x 3.3 cm intraparenchymal hematoma centered within the right parietal lobe.  No additional sites of intraparenchymal hemorrhage are identified. 2. Unremarkable CTA examination of the head.\n\ufeff\nCT HEAD:\nIMPRESSION: \nStable right parietal intraparenchymal hemorrhage with mild unchanged surrounding edema.      No new or worsening intracranial  hemorrhage.\n\ufeff\nCT Chest/Abd/Pelvis:\n\ufeff\nIMPRESSION\n\ufeff\n1. The liver demonstrates low attenuation compatible with hepatic steatosis. \nMore severe forms of chronic liver disease including NASH are not excluded.\n2. Prominent mesenteric lymph nodes in the porta hepatis measuring up to 1.5\ncm are nonspecific but could be reactive to chronic liver disease.\n3. Please refer to dedicated CT chest report on same day for intrathoracic findings.\n"
+}

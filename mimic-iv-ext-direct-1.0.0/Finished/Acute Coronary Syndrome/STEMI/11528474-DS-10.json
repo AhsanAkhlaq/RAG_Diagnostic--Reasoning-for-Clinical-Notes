@@ -1,0 +1,44 @@
+{
+    "NSTE-ACS$Intermedia_4": {
+        "ST-elevations is a symotom of acs-stemi$Cause_1": {
+            "His EKG showed worsening ST elevations$Input2": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "BLOOD cTropnT-5.18*$Input6": {}
+        },
+        "Cardiac structural abnormalities is a sigh of ACS.$Cause_1": {
+            "There is a 95% stenosis in the proximal segment.$Input6": {}
+        },
+        "Cardiac structural abnormalities is a sigh of ACS$Cause_1": {
+            "There is a 70% stenosis in the mid and distal segments.$Input6": {}
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "More severe clinical presentations of acs$Cause_1": {
+                "he developed sudden onset dizziness, sweating, and chest pain that he described as \"knifelike\". He became so uncomfortable that he \"could not speak\"$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain to OSH$Input1": {}
+                },
+                "Kidney stones can be a risk factor$Cause_1": {
+                    "Kidney stones$Input3": {}
+                },
+                "anxiety can be a risk factor$Cause_1": {
+                    "Anxiety$Input3": {}
+                },
+                "family history of CABG is a risk factor$Cause_1": {
+                    "Mom with CABG.$Input4": {}
+                },
+                "family history of CAD is a risk factor$Cause_1": {
+                    "Brother with CAD with stents.$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "Chest pain to OSH\n",
+    "input2": "Patient was in his usual state of health today, but did note some discomfort in his left shoulder while he was at the gym. He says his discomfort has been going on for a few weeks, and he has been attributing it to a musculoskeletal injury from working out. The pain subsided after working out at the gym, and he subsequently went to work. At some point later in the morning at work, he developed sudden onset dizziness, sweating, and chest pain that he described as \"knifelike\". He became so uncomfortable that he \"could not speak\". His wife, who works in the same office as him, called ___. He also had one episode of vomiting.\n\nHe was brought to cath lab where he had total occlusion of LAD. 3 DES (2.5mmx15mm, 3mmx15mm, 3.5mmx15mm) placed in LAD. There was no reflow which minimally responded to intracoronary agents. Given ongoing angina and poor flow in LAD, he was started on an IABP in addition to IV eptifibitide and IV heparin. Given 180 mcg of 325 mg, and 4000U heparin. Subsequently transferred here for further workup and management.\n\nVitals prior to transfer 138/77 w O2 sats 99% on 4L NC.\n\nOn arrival to the CCU, patient was having persistent chest pain and nausea. He was started on a nitro drip with little relief. His EKG showed worsening ST elevations, and the decision was made to bring him to the cath lab. In our Cath Lab his balloon pump was removed and replaced with an Impella via the right groin. His LVEDP went from ___ after balloon placement. Per verbal sign out from the Cath Lab, the stents placed earlier in the day appeared patent but there was residual disease distal to them. Ultimately 2 additional stents were placed in the LAD. Angiography of the LAD revealed TIMI III flow, 0% residual, occluded diagnoal branch likely due to pre-existing dissection, but no dissection in the LAD proper. \n\nHe also had another stent placed in his OM1 which was 95% occluded. Final angiography of the OM revealed TIMI III flow, 0% residual, and no dissection. He received about 1 L of IV fluid in the Cath Lab, as well as 210 cc of contrast.\n\nUpon return to the CCU, his Impella was noted to be properly placed on bedside ultrasound, and his chest pain had improved.\n\nLABS NOTABLE FOR: WBC 10.9 HGB 15.4 PLT GLC 126\n\nROS: Positive per HPI. Remaining 10 point ROS reviewed and negative.\n",
+    "input3": "+Kidney stones\n+Anxiety\n+Hypospadias surgery in childhood\n",
+    "input4": "Mom with CABG.\nBrother with CAD with stents.\n",
+    "input5": "ADMISSION EXAM\n\nHEENT: Normocephalic, atraumatic. Sclera anicteric. PERRL. EOMI. \nCARDIAC: Normal rate, regular rhythm. No murmurs, rubs, or gallops.  \nLUNGS: No chest wall deformities or tenderness. Respiration is unlabored with no accessory muscle use. No adventitious breath sounds.  \nABDOMEN: Soft, non-tender, non-distended. No palpable hepatomegaly or splenomegaly.  \nEXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or peripheral edema.  Right wrist with TR band in place.  Right groin with Impala in place, some blood under dressing but no surrounding erythema\nSKIN: No significant lesions or rashes.  \nPULSES: Distal pulses palpable and symmetric.  \nNEURO: AAO x3\n",
+    "input6": "ADMISSION LABS\n\n___ 02:45PM BLOOD WBC-15.4* RBC-4.68 Hgb-14.3 Hct-41.0 MCV-88 MCH-30.6 MCHC-34.9 RDW-11.7 RDWSD-37.5 Plt ___\n___ 02:45PM BLOOD WBC-15.4* RBC-4.68 Hgb-14.3 Hct-41.0 MCV-88 MCH-30.6 MCHC-34.9 RDW-11.7 RDWSD-37.5 Plt ___\n___ 02:45PM BLOOD Neuts-91.3* Lymphs-5.2* Monos-2.9* Eos-0.0* Baso-0.1 Im ___ AbsNeut-14.07* AbsLymp-0.80*  AbsMono-0.44 AbsEos-0.00* AbsBaso-0.02\n___ 05:45PM BLOOD ___ PTT-31.3 ___\n___ 02:45PM BLOOD Glucose-108* UreaN-19 Creat-1.1 Na-138 K-4.7 Cl-103 HCO3-20* AnGap-15\n___ 02:45PM BLOOD ALT-33 AST-187* ___ AlkPhos-57 TotBili-0.7\n___ 02:45PM BLOOD CK-MB-124* MB Indx-6.5* cTropnT-3.32*\n___ 06:02AM BLOOD CK-MB-252* cTropnT-6.42*\n___ 01:49PM BLOOD cTropnT-5.18*\n___ 02:45PM BLOOD Calcium-9.1 Phos-3.0 Mg-2.1 Cholest-206*\n___ 02:45PM BLOOD Triglyc-141 HDL-46 CHOL/HD-4.5 LDLcalc-132*\n___ 02:45PM BLOOD %HbA1c-5.3 eAG-105\n\n\nIMAGING\n=======\nCXR ___No previous images.  The tip of the IABP is approximately 3 cm above the carina.  No evidence of vascular congestion, pleural effusion, or acute focal pneumonia. \n \nSTUDIES\n======\nCARDIAC CATH ___\nLM: The Left Main, arising from the left cusp, is a large caliber vessel. This vessel bifurcates into the Left Anterior Descending and Left Circumflex systems.\n \nLAD: The Left Anterior Descending artery, which arises from the LM, is a large caliber vessel. There is a stent in the proximal segment. There is a stent in the proximal segment. There is a 90% ulcerated plaque/dissction in the mid segment of the LAD after the bend of stents. The Septal Perforator, arising from the proximal segment, is a small caliber vessel. The Diagonal, arising from the proximal segment, is a medium caliber vessel. There is a 100% stenosis in the ostium.\n \nLeft Circumflex: The Circumflex artery, which arises from the LM, is a large caliber vessel. The Obtuse Marginal, arising from the proximal segment, is a large caliber vessel. There is a 95% stenosis in the proximal segment. The Superior lateral of the 1stOM, arising from the distal segment, is a medium caliber vessel. The Obtuse Marginal, arising from the proximal segment, is a medium caliber vessel. The Atrioventricular Circumflex, arising from the mid segment, is a medium caliber vessel. There is a 70% stenosis in the mid and distal segments. The Left Posterior Descending Artery, arising from the distal segment, is a medium caliber vessel. One injection show a small degree of air into the distal LCx but this resolved with 100% oxygen.\n\nRCA: The Right Coronary Artery, arising from the right cusp, is a small caliber \n\nTTE\nEF 35%. Moderate regional left ventricular systolic dysfunction, c/w CAD. Well-positioned Impella CP device.\n"
+}

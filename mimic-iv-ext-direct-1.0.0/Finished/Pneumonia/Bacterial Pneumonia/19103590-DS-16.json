@@ -1,0 +1,32 @@
+{
+    "Bacterial Pneumonia$Intermedia_4": {
+        "The presence of MRSA and Klebsiella, both of which are known causative agents of pneumonia, suggests a possible bacterial infection.$Cause_1": {
+            "Sputum with MRSA bronch: sensitive to Clinda, Tetracycline, Bactrim, Vancomycin, (Resistant to Erythro, Oxacillin, Penicillin, Cefazolin).$Input6": {}
+        },
+        "Pneumonia$Intermedia_3": {
+            "Infiltrate and pleural effusion on chest radiograph may indicate pulmonary infection or inflammation and are direct signs of pneumonia.$Cause_1": {
+                "CT chest with contrast obtained revealed right middle/lower lobe consolidations, small right pleural effusion, and hilar lymphadenopathy$Input6": {}
+            },
+            "Suspected Pneumonia$Intermedia_2": {
+                "The patient has a cough that produces thick yellow sputum, which is one of the common symptoms of pneumonia and indicates a possible infection.$Cause_1": {
+                    "cough is productive of thick yellow sputum$Input2": {}
+                },
+                "The presence of fever and cough at the same time increases the likelihood of a lung infection, especially when other symptoms such as sputum production are present.$Cause_1": {
+                    "develop fevers associated with the cough$Input2": {}
+                },
+                "A high fever accompanied by chest pain may indicate increasing severity of pneumonia, and the chest pain may be related to lung inflammation.$Cause_1": {
+                    "subsequently developed associated chest pain associated with the high fevers$Input2": {}
+                },
+                "If multiple people in a family experience similar symptoms, this may indicate that the condition is contagious, increasing the likelihood that the pneumonia is caused by a viral or bacterial infection.$Cause_1": {
+                    "several people in their household, including his wife, his daughter, and his grandchildren have been sick with a similar syndrome$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "The cough is productive of thick yellow sputum, no associated rhinorrhea, sore throat, or post-nasal drip. One week ago, he went to see his PCP, was diagnosed with a viral syndrome, and given guaifenicin/cepacol/loratidine for symptomatic management. His symptoms continued, and, five days ago, he began to develop fevers associated with the cough. He then went to the ___ ED on ___, had a negative chest xray, and was discharged home on levofloxacin. At home, he continued to have fevers to 103, and subsequently developed associated chest pain associated with the high fevers, so represented to the ED for further evaluation. His chest pain is substernal in nature, only occurs during ___ febrile episodes, and is approximately ___ in intensity when it does come on. No associated arm pain, no numbness or tingling. \n\nNot typical of his usual anginal pain. In the ED, he was afebrile, non-toxic, and saturating well on room air. He was then admitted to the general medicine service for further management.\n\nHe reports some nausea with his high fevers, no emesis or diarrhea. No myalgias, but does have some back pain. No rashes. \n\n+Intermittent headache with the fever. No sneezing, rhinorrhea, sore throat, or adenopathy. \n\nOf note, the patient and his daughter report that several people in their household, including his wife, his daughter, and his grandchildren have been sick with a similar syndrome. \n\nROS: All systems negative except as noted in the HPI\n",
+    "input3": "Hypertension\nHyperlipidemia\nPossible CAD (abnormal stress, declined further intervention)\nDiverticulitis\n",
+    "input4": "Father with a history of bladder cancer.6 siblings with hypertension.\n",
+    "input5": "VS 101.4 146/82 80 20 95 percent on room air\nGen Awake, alert, NAD\nHEENT PERRL, EOEMI, anicteric sclerae\nOP MMM, no ulcers, lesions, or thrush\nNeck Supple, no LAD\nCV RRR, normal S1, S2, no m/g/r\nResp Clear lungs bilaterally, no WRR\nAbd Soft, non-tender, non-distended +BS\nBack No focal spine tenderness, no CVAT\nSkin No rashes, no jaundice\nExt Warm and well perfused, no edema\nNeuro Awake, alert, oriented x 3\n",
+    "input6": "___ 03:04PM   LACTATE-2.0\n___ 03:00PM   GLUCOSE-161* UREA N-13 CREAT-1.0 SODIUM-131* \nPOTASSIUM-3.6 CHLORIDE-98 TOTAL CO2-24 ANION GAP-13\n___ 03:00PM   WBC-7.2 RBC-4.40* HGB-14.6 HCT-41.0 MCV-93 \nMCH-33.1* MCHC-35.6* RDW-12.9\n___ 03:00PM   NEUTS-78.8* LYMPHS-16.6* MONOS-4.2 EOS-0.2 \nBASOS-0.3\n___ 03:00PM   PLT COUNT-187\n___ 11:39PM   LACTATE-1.1\n___ 11:30PM   GLUCOSE-113* UREA N-14 CREAT-1.0 SODIUM-133 \nPOTASSIUM-3.7 CHLORIDE-100 TOTAL CO2-26 ANION GAP-11\n___ 11:30PM   estGFR-Using this\n___ 11:30PM   WBC-7.6 RBC-4.30* HGB-14.7 HCT-40.6 MCV-94 \nMCH-34.1* MCHC-36.2* RDW-12.8\n___ 11:30PM   NEUTS-76.2* LYMPHS-16.9* MONOS-4.6 EOS-1.7 \nBASOS-0.7\n___ 11:30PM   PLT COUNT-206\n\nCT chest with contrast obtained revealed right middle/lower lobe consolidations, small right pleural effusion, and hilar lymphadenopathy\n\nSputum with MRSA bronch: sensitive to Clinda, Tetracycline, Bactrim, Vancomycin, (Resistant to Erythro, Oxacillin, Penicillin, Cefazolin).\n\n"
+}

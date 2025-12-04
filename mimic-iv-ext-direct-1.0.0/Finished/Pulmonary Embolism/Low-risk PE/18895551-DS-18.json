@@ -1,0 +1,38 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "The patient's heart shape and function are normal, and there are no hemodynamic problems. Support low-risk PE$Cause_1": {
+            "The thyroid is unremarkable, and there is no supraclavicular lymph node enlargement. The airways are patent to the subsegmental level. There is no mediastinal, hilar or axillary lymph node enlargement by CT size criteria. The heart, pericardium, and great vessels are within normal limits. No hiatal hernia or any other esophageal abnormality is present.$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "A significant increase in D-dimer is one of the important diagnostic indicators of pulmonary embolism, indicating that thrombosis may occur in the body.$Cause_1": {
+                "D-Dimer-1298$Input6": {}
+            },
+            "Abnormal blockage within a blood vessel, visible on CT angiography, is a direct sign of pulmonary embolism and indicates the presence of a blood clot$Cause_1": {
+                "There is a filling defect within the right lower anterior segmental pulmonary artery with extension into the subsegmental branches$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "One of the common symptoms of pulmonary embolism is sudden chest pain.$Cause_1": {
+                    "acute onset chest pain$Input2": {}
+                },
+                "Pulmonary embolism may cause localized chest pain$Cause_1": {
+                    "sudden left sided chest pain$Input2": {}
+                },
+                "Chest pain related to breathing may be caused by obstruction of blood flow to the lungs$Cause_1": {
+                    "worsened with breathing$Input2": {}
+                },
+                "Dyspnea is a classic symptom of pulmonary embolism$Cause_1": {
+                    "experience sob/dyspnea$Input2": {}
+                },
+                "Hormonal contraceptives have the potential to increase the risk of blood clots and may cause or worsen the risk of pulmonary embolism.$Cause_1": {
+                    "using Nexplanon implantable contraception$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "female with RA and major depressive disorder who presented to the ED with acute onset chest pain. Pt reports being in usual state of health and was watching TV at rest yesterday when she experienced sudden left sided chest pain. Chest pain is described as originating under L breast and radiating around her left back. It felt heavy at first but sharp and worsened with breathing. Pt initially ignored the pain thinking it was her rheumatoid pain, but became concerned when she began to experience sob/dyspnea. She sought ED attention this morning when symptoms persisted. She has been using Nexplanon implantable contraception for ___ years. Pt denies any prolonged immobility, recent surgeries, or flights. She denies any personal or family hx of blood clots. She has had 3 pregnancies (1 live birth, 1 miscarriage, 1 elective abortion). She denies any leg pain or swelling. ROS otherwise negative.\n\n",
+    "input3": "None\n",
+    "input4": "Grandmother had a hx of heart disease, diabetes, HTN. No family hx of blood clots or recurrent miscarriages.\n",
+    "input5": "Vitals: 97.5 98 133/68 18 99%RA\nGEN: NAD, AAOx3, breathing comfortably on RA\nCV: RRR, no m/r/g\nLUNGS: CTAB, no w/r/r\nCHEST: No bruises or visible injuries over chest wall. Tenderness to palpation over left chest wall under left breast.\nABD: Soft, nondistended, nontender to palpation\n___: no swelling/edema in bilateral lower extremities. No calf tenderness to palpation bilaterally.\n",
+    "input6": "___ 09:00AM BLOOD WBC-8.7# RBC-4.04* Hgb-12.5 Hct-36.5 \nMCV-91# MCH-30.9 MCHC-34.2 RDW-16.8* Plt ___\n___ 09:00AM BLOOD Neuts-86.3* Lymphs-8.8* Monos-3.7 Eos-1.1 \nBaso-0.1\n___ 09:00AM BLOOD ___ PTT-27.0 ___\n___ 09:00AM BLOOD Glucose-92 UreaN-14 Creat-0.7 Na-135 \nK-5.2* Cl-104 HCO3-23 AnGap-13\n___ 09:00AM BLOOD ALT-37 AST-35 CK(CPK)-152 AlkPhos-65 \nTotBili-0.3\n___ 09:00AM BLOOD Lipase-12\n___ 09:00AM BLOOD CK-MB-<1 cTropnT-<0.01\n___ 09:00AM BLOOD Albumin-3.9 Calcium-9.1 Phos-2.4* Mg-1.9\n___ 09:00AM BLOOD D-Dimer-1298*\n___ 08:00AM BLOOD ASA-NEG Ethanol-NEG Bnzodzp-NEG \nBarbitr-NEG Tricycl-NEG\n\n___ CTA CHEST:\nThe thyroid is unremarkable, and there is no supraclavicular lymph node enlargement. The airways are patent to the subsegmental level. There is no mediastinal, hilar or axillary lymph node enlargement by CT size criteria. The heart, pericardium, and great vessels are within normal limits. No hiatal hernia or any other esophageal abnormality is present. \n  \nGround-glass opacity within the left lingula is likely secondary to atelectasis/collapse (2:76). There is also a trace left pleural effusion with associated atelectasis. \n  \nCTA: The aorta and main thoracic vessels are well opacified. The aorta demonstrates normal caliber throughout the thorax without intramural hematoma or dissection.  There is a filling defect within the right lower anterior segmental pulmonary artery with extension into the subsegmental branches.  \n"
+}

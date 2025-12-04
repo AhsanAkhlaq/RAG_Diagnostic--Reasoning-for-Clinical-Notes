@@ -1,0 +1,27 @@
+{
+    "Gastric Ulcers$Intermedia_3": {
+        "This is the description most directly associated with Gastric Ulcers. The text describes a single depressed, 4 cm ulcer with raised margins on the lesser curvature of the antrum toward the notch. This is a typical presentation of Gastric Ulcers.$Cause_1": {
+            "A single cratered clean based 4 cm ulcer with heaped up borders was found in the antrum on the lesser curvature towards the incisura.$Input6": {}
+        },
+        "Suspected Peptic Ulcer Disease$Intermedia_2": {
+            "Common symptoms of peptic ulcers include upper abdominal pain that can sometimes radiate to the back. In addition, the relief provided by the GI cocktail suggests that the symptoms may be related to acid or stomach problems.$Cause_1": {
+                "nausea and epigastric pain radiating to the back, which was relieved with GI cocktail$Input2": {}
+            },
+            "People with peptic ulcer disease often experience increased pain when eating, as well as nausea and vomiting, without the presence of blood or bile in the vomitus. This may be due to the effect of the ulcer on the stomach lining or to food irritating the ulcer and causing increased pain.$Cause_1": {
+                "ongoing nausea and nonbloody nonbilious emesis associated with epigastric pain every time she attempts to eat or drink$Input2": {}
+            },
+            "Symptoms typically associated with peptic ulcer disease, in which pain is often directly related to eating behavior and pain may be temporarily relieved when food is not consumed.$Cause_1": {
+                "pain is not present aside from eating$Input2": {}
+            },
+            "Tenderness in the upper abdomen is one of the common symptoms of peptic ulcer.$Cause_1": {
+                "mildly tender over epigastric and RUQ areas$Input5": {}
+            }
+        }
+    },
+    "input1": "None.\n",
+    "input2": "She initially did well postoperatively but then represented to the ED on ___ with fevers, chills, and abdominal distension.  During that ED visit she developed nausea and epigastric pain radiating to the back, which was relieved with GI cocktail. She tolerated a PO challenge; thus was discharged home with scheduled CRS followup.  Her notable labs at that visit were WBC 10.3, ALT 214 AST 202 AlkPhos 241 TotBili:\n0.8, lipase 6.  \n\nShe represents today to the ED with ongoing nausea and nonbloody nonbilious emesis associated with epigastric pain every time she attempts to eat or drink.  She states that the pain is not present aside from eating.  She continues to pass flatus and is having no issues with her surgical sites/incisions, but has not had a bowel movement since ___.  Today her vital signs are also within normal limits aside from tachycardia to 106.  EKG and troponins are negative.  Her LFTs are downtrending and her lipase remains normal at 11. She denied chest pain, shortness of breath, dysuria, bloody stools.\n",
+    "input3": "PMH: \nHTN\nReactive airway disease\n",
+    "input4": "N/A\n",
+    "input5": "Gen: NAD, AxOx3\nCard: RRR, no m/r/g\nPulm: CTAB, no respiratory distress\nAbd: Soft, mildly tender over epigastric and RUQ areas,\nnon-distended, no rebound or guarding.  \nWounds: c/d/i\nExt: No edema, warm well-perfused\n",
+    "input6": "___ 11:05AM BLOOD WBC-9.6 RBC-4.90 Hgb-13.4 Hct-42.5 MCV-87 \nMCH-27.3 MCHC-31.5* RDW-14.5 RDWSD-45.8 Plt ___\n___ 07:18AM BLOOD WBC-13.8* RBC-5.47* Hgb-14.9 Hct-46.4* \nMCV-85 MCH-27.2 MCHC-32.1 RDW-14.4 RDWSD-44.3 Plt ___\n___ 07:18AM BLOOD Neuts-69.8 ___ Monos-6.3 Eos-0.7* \nBaso-0.4 Im ___ AbsNeut-9.65* AbsLymp-3.07 AbsMono-0.87* \nAbsEos-0.09 AbsBaso-0.06\n___ 11:05AM BLOOD Plt ___\n___ 07:18AM BLOOD ___ PTT-31.3 ___\n___ 11:05AM BLOOD Glucose-86 UreaN-17 Creat-0.7 Na-145 \nK-4.5 Cl-101 HCO3-25 AnGap-19*\n___ 07:18AM BLOOD Glucose-111* UreaN-19 Creat-0.7 Na-137 \nK-4.4 Cl-94* HCO3-20* AnGap-23*\n___ 11:05AM BLOOD ALT-92* AST-35 AlkPhos-156* TotBili-0.6\n___ 07:18AM BLOOD ALT-159* AST-82* AlkPhos-212* TotBili-0.7\n___ 07:18AM BLOOD Lipase-11\n___ 07:18AM BLOOD cTropnT-<0.01\n___ 11:05AM BLOOD Calcium-9.1 Phos-3.6 Mg-1.7\n___ 07:18AM BLOOD Albumin-4.6 Calcium-9.7 Phos-3.9 Mg-1.9\n___ 09:21AM BLOOD Lactate-1.5\n\nA single cratered clean based 4 cm ulcer with heaped up borders was found in the antrum on the lesser curvature towards the incisura.\n"
+}

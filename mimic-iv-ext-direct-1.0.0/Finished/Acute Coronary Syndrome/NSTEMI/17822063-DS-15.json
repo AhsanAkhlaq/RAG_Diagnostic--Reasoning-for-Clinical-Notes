@@ -1,0 +1,52 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "Labs were significant for an elevated troponin of 0.41$Input2": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "BLOOD cTropnT-0.41*$Input6": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09..$Cause_1": {
+            "03:23PM BLOOD CK-MB-38*\n03:23PM BLOOD cTropnT-0.41*\n11:15PM BLOOD CK-MB-29* cTropnT-1.85*\n06:04AM BLOOD CK-MB-21* cTropnT-0.99*$Input6": {}
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "His ECG revealed new ST depressions and trop-I was elevated to 3.23. He was given Lovenox ,$Input2": {}
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs.$Cause_1": {
+                    "He was treated with metoprolol, nitro gtt, dilaudid, and was sent to the cath lab where a DES was placed to his LCX. After the procedure he continued to have chest pain and ECG changes so was started on an Eptifibatide gtt and admitted to the CCU.$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS.$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "CAD s/p stents, DM, HTN are risk facts$Cause_1": {
+                        "h/o CAD s/p stents, DM, HTN, who presented with chest pain,$Input2": {}
+                    },
+                    "He began having chest/epigastric discomfort over the weekend while doing chores. The pain would come and go, was pressure and stinging like in sensation, pain at its worst, was associated with SOB, diaphoresis, nausea, and arm tingling.\n are signs of acs$Cause_1": {
+                        "He began having chest/epigastric discomfort over the weekend while doing chores. The pain would come and go, was pressure and stinging like in sensation, pain at its worst, was associated with SOB, diaphoresis, nausea, and arm tingling.$Input2": {}
+                    },
+                    "Essential hypertension is risk fact$Cause_1": {
+                        "Essential hypertension$Input3": {}
+                    },
+                    "CAD (coronary artery disease) is risk fact$Cause_1": {
+                        "CAD (coronary artery disease)$Input3": {}
+                    },
+                    "Type II diabetes mellitus is risk fact$Cause_1": {
+                        "Type II diabetes mellitus$Input3": {}
+                    },
+                    "family history\uff1amother: CAD, asthma\n   is risk fact$Cause_1": {
+                        "mother: CAD, asthma$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "h/o CAD s/p stents, DM, HTN, who presented with chest pain, found to have NSTEMI and is now s/p DES to the LCX. \n\ufeff\nHe began having chest/epigastric discomfort over the weekend while doing chores. The pain would come and go, was pressure and stinging like in sensation, pain at its worst, was associated with SOB, diaphoresis, nausea, and arm tingling. Although this pain was similar to his cardiac chest pain during his last heart attack, he thought it was indigestion and treated it at home with Tums. He also had an associated sore throat for which he visited his PCP. He did not endorse chest pain at the time and did not have an ECG or cardiac workup. Today, he called his PCP again, endorsed chest pain, He tried SL nitro x 1 at home without relief. He initially presented to hospital where he was treated with ASA 324 and GI cocktail. His ECG revealed new ST depressions and trop-I was elevated to 3.23. He was given Lovenox , \n\ufeff\ninitial vitals were: 98.6 83 146/78 16 96%. ECG was significant for ST depressions in the lateral leads. Labs were significant for an elevated troponin of 0.41 and normal CBC/chem7. He was treated with metoprolol, nitro gtt, dilaudid, and was sent to the cath lab where a DES was placed to his LCX. After the procedure he continued to have chest pain and ECG changes so was started on an Eptifibatide gtt and admitted to the CCU. \n\ufeff\nUpon arrival to the floor,  he continued to complain of chest pain. He was treated with SL nitro with relief to pain. A second SL NTG resulted in reduction to pain. A nitroglycerin drip was started.\n",
+    "input3": "+ Pure hypercholesterolemia \n+ Lumbosacral spondylosis without myelopathy \n+ Diarrhea \n+ Ankylosing spondylitis vs. Rheumatoid Arthritis\n+ Essential hypertension\n+ Malignant neoplasm of testis \n+ Impotence \n+ CAD (coronary artery disease) \n+ Raynaud's disease \n+ Type II diabetes mellitus \n+ Polyneuropathy in diabetes \n+ Microalbuminuria \n+ Rosacea \n+ Depression\n+ Headaches\n+ Remote h/o bleeding GI ulcer\n",
+    "input4": "mother: CAD, asthma\nsister: RA\nbrother: GERD\n",
+    "input5": "ADMISSION EXAM:\nVS: T=98.5 BP=126/70 HR=88 RR=19 O2 sat=96% RA  \nGeneral:  alert, nad\nHEENT:  poor dentition, sclera anicteric\nNeck:  no JVD\nCV:  rrr, no murmurs\nLungs:  ctab\nAbdomen:  epigastric tenderness\nExt:  trace BLE edema\nNeuro:  EOMI, PERRL, alert, moving all extreities\nSkin:  no rash\nPULSES:  2+ distal pulses (DP bilat, L radial (R radial in cuff))\n",
+    "input6": "ADMISSION LABS:\n\ufeff\n03:23PM BLOOD WBC-10.9 RBC-4.77 Hgb-14.5 Hct-44.7 \nMCV-94 MCH-30.4 MCHC-32.4 RDW-13.1\n03:23PM BLOOD Neuts-69.3 Monos-6.0 Eos-2.6 \nBaso-0.6\n03:23PM BLOOD Glucose-88 UreaN-14 Creat-1.1 Na-136 \nK-4.0 Cl-101 HCO3-23 AnGap-16\n03:23PM BLOOD CK-MB-38*\n03:23PM BLOOD cTropnT-0.41*\n\ufeff\nCARDIAC ENZYME TREND:\n\ufeff\n03:23PM BLOOD CK-MB-38*\n03:23PM BLOOD cTropnT-0.41*\n11:15PM BLOOD CK-MB-29* cTropnT-1.85*\n06:04AM BLOOD CK-MB-21* cTropnT-0.99*\n"
+}

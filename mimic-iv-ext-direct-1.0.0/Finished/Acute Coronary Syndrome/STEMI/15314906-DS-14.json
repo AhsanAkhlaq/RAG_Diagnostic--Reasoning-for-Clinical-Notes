@@ -1,0 +1,55 @@
+{
+    "NSTE-ACS$Intermedia_4": {
+        "ECG changes are sympyoms of ACS-STEMI$Cause_1": {
+            "Sinus rhythm. Delayed precordial R wave progression. Non-specific anterolateral ST-T wave changes. Compared to the previous tracing of wave changes are new. Cannot rule out myocardial ischemia.$Input6": {}
+        },
+        "Strong evidence proves of acs-stemi$Cause_1": {
+            "Hemodynamics (see above):\nCoronary angiography:  right dominant\nLMCA:  No angiographically apparent CAD\nLAD:  Proximal 40%, mild luminal irregularities\nLCX:  Total occlusion of OM1.  Mild disease.\nRCA:  No angiographically apparent CAD.$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "symptom of acs$Cause_1": {
+                "Patient had episode of 'heart burn' 2 nights ago that self resolved, then last night had repeat episode followed by episode of substernal chest pain, described as 'dull', located at his chest, nonradiating.$Input2": {}
+            },
+            "Possible family history$Cause_1": {
+                "Mother died of cancer.$Input4": {}
+            },
+            "Possible family history.$Cause_1": {
+                "Father had CABG and has type II DM.$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "Cardiac structural abnormalities is a diagnostic criteria of ACS-STEMI$Cause_1": {
+                "The left atrium is normal in size. No atrial septal defect is seen by 2D or color Doppler. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is low normal (LVEF = 50%) secondary to focal hypokinesis of the posterior and lateral walls. Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg). Right ventricular chamber size and free wall motion are normal. The aortic root is mildly dilated at the sinus level. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve appears structurally normal with trivial mitral regurgitation. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion.$Input6": {}
+            },
+            "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09\nSTD V2-V4 and less than 0.5mm STE inferiorly maybe is a sign$Cause_1": {
+                "he was found to have elevated troponint to 0.11 and ECG changes w/ STD V2-V4 and less than 0.5mm STE inferiorly which normalized after treatment with nitro.$Input2": {}
+            },
+            "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+                "BLOOD cTropnT-0.17*$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "symptom of acs$Cause_1": {
+                    "Patient had episode of 'heart burn' 2 nights ago that self resolved, then last night had repeat episode followed by episode of substernal chest pain, described as 'dull', located at his chest, nonradiating.$Input2": {}
+                },
+                "Possible family history$Cause_1": {
+                    "Mother died of cancer.$Input4": {}
+                },
+                "Possible family history.$Cause_1": {
+                    "Father had CABG and has type II DM.$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "66 year old male with no significant PMH presenting with c/o dyspepsia and chest pain, found to have NSTEMI and transferred for cardiac catheterization.  \n \nPatient had episode of 'heart burn' 2 nights ago that self resolved, then last night had repeat episode followed by episode of substernal chest pain, described as 'dull', located at his chest, nonradiating. No associated symptoms. Pain was not positional, not worsened with exertion or taking a deep breath, denies any specific aggravating factors. Initially improved with having a bowel movement. This pain then recurred 1h later and pateint decided to go to the ED. Denies prior hx. chest pain, denies new swelling in his legs, no orthopnea. Is fairly active, denies recent exertional chest pain.  \n \nPatient originally presented with these complaints where where he was found to have elevated troponint to 0.11 and ECG changes w/ STD V2-V4 and less than 0.5mm STE inferiorly which normalized after treatment with nitro. There he was given GI cocktail, full dose aspirin, nitro, and started on a heparin drip after which patient was chest pain free. Patient was also given ASA prior to transfer and eval'ed to BI admission w/ plan for cath. On arrival to ED, patient stated that his discomfort was down from initially.  \n \nIn the ED initial vitals were: 99.4 68 144/90 16 99% RA.  \n - Labs were significant for trop t 0.17, PTT 105 (prior CBC and chem-7 @ unremarkable)  \n - Patient was continued on heparin gtt and nitro gtt, as was given ativan x1.  \nOn the floor patient overall feels well, says having chest pain, much improved from prior. No other complaints.\n",
+    "input3": "None\n",
+    "input4": "No family history of colon or prostate cancer. Mother died of cancer. Father had CABG and has type II DM.\n",
+    "input5": "ADMISSION PHYSICAL EXAM:  \nVitals - 98 119/76 hr 51 18 100% RA  \nGENERAL: alert, NAD sitting on side of bed  \nHEENT: EOMI, PERRLA, OMM no lesions  \nCARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  \nLUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles  \nABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly  \nEXTREMITIES: moving all extremities well, no cyanosis, clubbing or edema  \nNEURO: CN II-XII intact, moves all fours  \nSKIN: warm and well perfused, no excoriations or lesions, no rashes\n",
+    "input6": "ADMISSION LABS:\n___ 09:35AM BLOOD WBC-7.8 RBC-4.06* Hgb-12.9* Hct-39.1* MCV-96 MCH-31.7 MCHC-32.9 RDW-13.0 Plt ___\n___ 02:00AM BLOOD ___ PTT-105.7* ___\n___ 09:35AM BLOOD Glucose-115* UreaN-10 Creat-0.8 Na-140 K-4.1 Cl-108 HCO3-26 AnGap-10\n___ 09:35AM BLOOD Mg-1.8\n___ 02:00AM BLOOD %HbA1c-5.4 eAG-108\n___ 02:00AM BLOOD cTropnT-0.17*\n___ 09:35AM BLOOD CK-MB-180* cTropnT-4.31*\n___ 03:30PM BLOOD CK-MB-185* cTropnT-4.99*\n___ 08:00AM BLOOD CK-MB-35* cTropnT-2.28*\n\nMICRO: None\n\nSTUDIES:\n\nEKG ___:\nSinus rhythm. Delayed precordial R wave progression. Non-specific anterolateral ST-T wave changes. Compared to the previous tracing of wave changes are new. Cannot rule out myocardial ischemia. \n\nTTE ___\nThe left atrium is normal in size. No atrial septal defect is seen by 2D or color Doppler. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is low normal (LVEF = 50%) secondary to focal hypokinesis of the posterior and lateral walls. Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg). Right ventricular chamber size and free wall motion are normal. The aortic root is mildly dilated at the sinus level. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve appears structurally normal with trivial mitral regurgitation. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion.  \n\nLeft heart catheterization:\nFindings\nESTIMATED blood loss: <50 cc\nHemodynamics (see above):\nCoronary angiography:  right dominant\nLMCA:  No angiographically apparent CAD\nLAD:  Proximal 40%, mild luminal irregularities\nLCX:  Total occlusion of OM1.  Mild disease.\nRCA:  No angiographically apparent CAD.\n\nInterventional details\nChange for 6 XB3.5 guide.  Crossed with Prowater wire. Deployed a 2.5 x 12 mm Xience drug-eluting stent.  Postdilatedwith a 2.5 mm balloon.  Final angiography revealed normal flow, no dissection and 0% residual stenosis with 10% plaquing distal to the stent.\n"
+}

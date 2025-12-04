@@ -1,0 +1,84 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "cTropnT-0.11*\n cTropnT-0.24*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Weakness, diaphoresis are symptoms of ACS$Cause_1": {
+                "Weakness, diaphoresis$Input1": {}
+            },
+            "weakness, hypotension and diaphoresis.\n are symptom of ACS.$Cause_1": {
+                "presented with the chief complaint of urinary retention. He had a Foley placed and then developed profound weakness, hypotension and diaphoresis.$Input2": {}
+            },
+            "chronic back pain is a risk factor$Cause_1": {
+                "+PMHx: No medical care for the past decade\n+chronic back pain$Input3": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "Changes in heart structure is a diagnostic criteria of ACS.$Cause_1": {
+                "ECHOCARDIOGRAM\nThe left atrium is elongated. Left ventricular wall thicknesses are normal. The left ventricular cavity is mildly dilated. There is severe regional left ventricular systolic dysfunction with akinesis of the mid anterior, lateral, and inferior walls and entire distal apex. hypokinesis of . There is severe hypokinesis of the remaining segments, with worse hypokinesis in the mid-level compared with the basal walls (LVEF = 15 %). The estimated cardiac index is normal (>=2.5L/min/m2). No masses or thrombi are seen in the left ventricle. Diastolic function could not be assessed. Right ventricular chamber size is normal with borderline normal free wall function. The aortic valve leaflets (?#) appear structurally normal with good leaflet excursion. There is no aortic valve stenosis. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion. \n\nIMPRESSION: Dilated left ventricle with severe regional and global dysfunction c/w CAD (3VD). Borderline right ventricular systolic function.IMPRESSION: Dilated left ventricle with severe regional and global dysfunction c/w CAD (3VD). Borderline right ventricular systolic function.\n\n___ CARDIAC CATHETERIZATION\nMultiple attempts were required for right radial arterial access. The Magic Torque wire could not be delivered into the proximalright subclavian artery past the right vertebral artery due toextreme tortuousity (most likely a 360 degree turn). Rightfemoral artery access was then obtained using ultrasound imagingguidance and a MicroPuncture kit on the attempt. The RIMA waspatent.\n\nThe heart appeared dilated with splayed coronary arteries widely separated. There was dense posterior mitral annular calcification.\n\nCoronary angiography: CO-dominant\n  LMCA: The LMCA was short with distal funneling to 25%.\n  LAD: The proximal LAD was heavily calcified. The mid LAD was occluded after small D1, D2 and D3 branches. There was faint reconstitution of the mid-distal LAD via left-to-left collaterals.\n  LCX: The AV groove CX was large in caliber with mild plaquing throughout. There were 2 short OM1 and OM2 branches with no obvious perfusion of the high lateral wall (raising the possibility of an occluded ramus intermedius branch). The major OM3/LPL1 had an origin tubular 70% stenosis. LPL2 was subtotally occluded proximally and reconstituted via left-to-left collaterals with distal moderate disease at a bifurcation and TIM1 flow. The distal CX supplied collaterals to the diseased RPDA and RCA with retrograde filling up to the mid RCA. The LPDA was somewhat tortuous.\n  RCA: The RCA was occluded proximally past the conus and SA nodal branches. There was no reconstitution of the native RCA beyond.\n\n___ CXR \nThere is mild-to-moderate cardiomegaly with left ventricular configuration. The aorta is unfolded.  There is possible minimal upper zone re-distribution, but no other evidence of CHF.  No focal infiltrate or effusion.  No pneumothorax detected. Increased opacity adjacent to the left cardiac apex/left costophrenic angle most likely is related to a cardiac fat pad and/or overlying soft tissues. \n  \nIMPRESSION:  Cardiomegaly.  No acute pulmonary process identified.$Input6": {}
+            },
+            "Abnormal electrocardiogram is a diagnostic criteria of ACS$Cause_1": {
+                "An EKG then was significant for T wave inversions in the inferolateral leads.$Input2": {}
+            },
+            "Abnormal electrocardiogram can be a strongly sign of acs$Cause_1": {
+                "A repeat ECG had <1mm ST elevations in I and aVL with Qs anteriorly and inferiorly. TTE showed LVEF of 15% globally with akinetic apex.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Weakness, diaphoresis are symptoms of ACS$Cause_1": {
+                    "Weakness, diaphoresis$Input1": {}
+                },
+                "weakness, hypotension and diaphoresis.\n are symptom of ACS.$Cause_1": {
+                    "presented with the chief complaint of urinary retention. He had a Foley placed and then developed profound weakness, hypotension and diaphoresis.$Input2": {}
+                },
+                "chronic back pain is a risk factor$Cause_1": {
+                    "+PMHx: No medical care for the past decade\n+chronic back pain$Input3": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation\r is  a sign of NSTE-ACS$Cause_1": {
+                "non-ST-elevation$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Weakness, diaphoresis are symptoms of ACS$Cause_1": {
+                    "Weakness, diaphoresis$Input1": {}
+                },
+                "weakness, hypotension and diaphoresis.\n are symptom of ACS.$Cause_1": {
+                    "presented with the chief complaint of urinary retention. He had a Foley placed and then developed profound weakness, hypotension and diaphoresis.$Input2": {}
+                },
+                "chronic back pain is a risk factor$Cause_1": {
+                    "+PMHx: No medical care for the past decade\n+chronic back pain$Input3": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "Changes in heart structure is a diagnostic criteria of ACS.$Cause_1": {
+                    "ECHOCARDIOGRAM\nThe left atrium is elongated. Left ventricular wall thicknesses are normal. The left ventricular cavity is mildly dilated. There is severe regional left ventricular systolic dysfunction with akinesis of the mid anterior, lateral, and inferior walls and entire distal apex. hypokinesis of . There is severe hypokinesis of the remaining segments, with worse hypokinesis in the mid-level compared with the basal walls (LVEF = 15 %). The estimated cardiac index is normal (>=2.5L/min/m2). No masses or thrombi are seen in the left ventricle. Diastolic function could not be assessed. Right ventricular chamber size is normal with borderline normal free wall function. The aortic valve leaflets (?#) appear structurally normal with good leaflet excursion. There is no aortic valve stenosis. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion. \n\nIMPRESSION: Dilated left ventricle with severe regional and global dysfunction c/w CAD (3VD). Borderline right ventricular systolic function.IMPRESSION: Dilated left ventricle with severe regional and global dysfunction c/w CAD (3VD). Borderline right ventricular systolic function.\n\n___ CARDIAC CATHETERIZATION\nMultiple attempts were required for right radial arterial access. The Magic Torque wire could not be delivered into the proximalright subclavian artery past the right vertebral artery due toextreme tortuousity (most likely a 360 degree turn). Rightfemoral artery access was then obtained using ultrasound imagingguidance and a MicroPuncture kit on the attempt. The RIMA waspatent.\n\nThe heart appeared dilated with splayed coronary arteries widely separated. There was dense posterior mitral annular calcification.\n\nCoronary angiography: CO-dominant\n  LMCA: The LMCA was short with distal funneling to 25%.\n  LAD: The proximal LAD was heavily calcified. The mid LAD was occluded after small D1, D2 and D3 branches. There was faint reconstitution of the mid-distal LAD via left-to-left collaterals.\n  LCX: The AV groove CX was large in caliber with mild plaquing throughout. There were 2 short OM1 and OM2 branches with no obvious perfusion of the high lateral wall (raising the possibility of an occluded ramus intermedius branch). The major OM3/LPL1 had an origin tubular 70% stenosis. LPL2 was subtotally occluded proximally and reconstituted via left-to-left collaterals with distal moderate disease at a bifurcation and TIM1 flow. The distal CX supplied collaterals to the diseased RPDA and RCA with retrograde filling up to the mid RCA. The LPDA was somewhat tortuous.\n  RCA: The RCA was occluded proximally past the conus and SA nodal branches. There was no reconstitution of the native RCA beyond.\n\n___ CXR \nThere is mild-to-moderate cardiomegaly with left ventricular configuration. The aorta is unfolded.  There is possible minimal upper zone re-distribution, but no other evidence of CHF.  No focal infiltrate or effusion.  No pneumothorax detected. Increased opacity adjacent to the left cardiac apex/left costophrenic angle most likely is related to a cardiac fat pad and/or overlying soft tissues. \n  \nIMPRESSION:  Cardiomegaly.  No acute pulmonary process identified.$Input6": {}
+                },
+                "Abnormal electrocardiogram is a diagnostic criteria of ACS$Cause_1": {
+                    "An EKG then was significant for T wave inversions in the inferolateral leads.$Input2": {}
+                },
+                "Abnormal electrocardiogram can be a strongly sign of acs$Cause_1": {
+                    "A repeat ECG had <1mm ST elevations in I and aVL with Qs anteriorly and inferiorly. TTE showed LVEF of 15% globally with akinetic apex.$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Weakness, diaphoresis are symptoms of ACS$Cause_1": {
+                        "Weakness, diaphoresis$Input1": {}
+                    },
+                    "weakness, hypotension and diaphoresis.\n are symptom of ACS.$Cause_1": {
+                        "presented with the chief complaint of urinary retention. He had a Foley placed and then developed profound weakness, hypotension and diaphoresis.$Input2": {}
+                    },
+                    "chronic back pain is a risk factor$Cause_1": {
+                        "+PMHx: No medical care for the past decade\n+chronic back pain$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "symptom of ACS\n",
+    "input2": "He is a 66 year old male who presented with the chief complaint of urinary retention. He had a Foley placed and then developed profound weakness, hypotension and diaphoresis. An EKG then was significant for T wave inversions in the inferolateral leads. His troponin was elevated to .34. He received ASA 325 and heparin gtt at 10 AM. Of note, he endorsed having intermittent episodes of weakness over the past month as well as syncopal episodes. Per wife, husband has had decreased ability to perform daily tasks and becomes short of breath + experiences CP with even brief bursts of acitivity; no longer mows the lawn. With this episode at the ED, he denies experiencing chest pain, arm pain, scapular pain, or nausea. \n\nAt the ED, his vitals were Temp: 98.4 HR: 98 BP: 157/85 Resp: 16 O(2)Sat: 98 Normal\n\nHis cardiac catheterization is significant for 3 VD with fully occluded RCA and LAD / Cx with diffuse disease. \n\nA repeat ECG had <1mm ST elevations in I and aVL with Qs anteriorly and inferiorly. TTE showed LVEF of 15% globally with akinetic apex and non-ST-elevation\n",
+    "input3": "+PMHx: No medical care for the past decade\n+chronic back pain\n",
+    "input4": "Noncontributory\n",
+    "input5": "Admit PE: \nTemp: 98.4 HR: 98 BP: 157/85 Resp: 16 O(2)Sat: 98 Normal\nConstitutional: Comfortable\nChest: Clear to auscultation\nCardiovascular: Regular Rate and Rhythm\nAbdominal: Soft\nGU/Flank: No costovertebral angle tenderness\nExtr/Back: No cyanosis, clubbing or edema\nSkin: Warm and dry, No rash\nNeuro: Speech fluent\nPsych: Normal mood, Normal mentation\n",
+    "input6": "ADMISSION LABS\n___ 12:42PM BLOOD WBC-10.8 RBC-5.43 Hgb-15.4 Hct-47.1 MCV-87 MCH-28.5 MCHC-32.8 RDW-14.7 Plt ___\n___ 12:42PM BLOOD Neuts-91.9* Lymphs-5.0* Monos-2.4 Eos-0.6 Baso-0.2\n___ 12:42PM BLOOD ___ PTT-83.6* ___\n___ 12:42PM BLOOD Glucose-127* UreaN-20 Creat-1.1 Na-141 K-3.9 Cl-105 HCO3-24 AnGap-16\n___ 12:42PM BLOOD ALT-21 AST-28 CK(CPK)-96 AlkPhos-61 TotBili-0.4\n___ 12:42PM BLOOD cTropnT-0.11*\n___ 06:20AM BLOOD cTropnT-0.24*\n___ 12:42PM BLOOD Albumin-4.2 Calcium-8.6 Phos-2.7 Mg-1.9\n___ 07:30PM BLOOD %HbA1c-5.5 eAG-111\n___ 12:52PM BLOOD Lactate-1.6\n\nOTHER STUDIES\n___ ECHOCARDIOGRAM\nThe left atrium is elongated. Left ventricular wall thicknesses are normal. The left ventricular cavity is mildly dilated. There is severe regional left ventricular systolic dysfunction with akinesis of the mid anterior, lateral, and inferior walls and entire distal apex. hypokinesis of . There is severe hypokinesis of the remaining segments, with worse hypokinesis in the mid-level compared with the basal walls (LVEF = 15 %). The estimated cardiac index is normal (>=2.5L/min/m2). No masses or thrombi are seen in the left ventricle. Diastolic function could not be assessed. Right ventricular chamber size is normal with borderline normal free wall function. The aortic valve leaflets (?#) appear structurally normal with good leaflet excursion. There is no aortic valve stenosis. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion. \n\nIMPRESSION: Dilated left ventricle with severe regional and global dysfunction c/w CAD (3VD). Borderline right ventricular systolic function.\n\n___ CARDIAC CATHETERIZATION\nMultiple attempts were required for right radial arterial access. The Magic Torque wire could not be delivered into the proximalright subclavian artery past the right vertebral artery due toextreme tortuousity (most likely a 360 degree turn). Rightfemoral artery access was then obtained using ultrasound imagingguidance and a MicroPuncture kit on the attempt. The RIMA waspatent.\n\nThe heart appeared dilated with splayed coronary arteries widely separated. There was dense posterior mitral annular calcification.\n\nCoronary angiography: CO-dominant\n  LMCA: The LMCA was short with distal funneling to 25%.\n  LAD: The proximal LAD was heavily calcified. The mid LAD was occluded after small D1, D2 and D3 branches. There was faint reconstitution of the mid-distal LAD via left-to-left collaterals.\n  LCX: The AV groove CX was large in caliber with mild plaquing throughout. There were 2 short OM1 and OM2 branches with no obvious perfusion of the high lateral wall (raising the possibility of an occluded ramus intermedius branch). The major OM3/LPL1 had an origin tubular 70% stenosis. LPL2 was subtotally occluded proximally and reconstituted via left-to-left collaterals with distal moderate disease at a bifurcation and TIM1 flow. The distal CX supplied collaterals to the diseased RPDA and RCA with retrograde filling up to the mid RCA. The LPDA was somewhat tortuous.\n  RCA: The RCA was occluded proximally past the conus and SA nodal branches. There was no reconstitution of the native RCA beyond.\n\n___ CXR \nThere is mild-to-moderate cardiomegaly with left ventricular configuration. The aorta is unfolded.  There is possible minimal upper zone re-distribution, but no other evidence of CHF.  No focal infiltrate or effusion.  No pneumothorax detected. Increased opacity adjacent to the left cardiac apex/left costophrenic angle most likely is related to a cardiac fat pad and/or overlying soft tissues. \n  \nIMPRESSION:  Cardiomegaly.  No acute pulmonary process identified.\n"
+}

@@ -1,0 +1,24 @@
+{
+    "Acute gastritis$Intermedia_3": {
+        "Superficial erosion on endoscopy is the gold standard for the diagnosis of acute gastritis.$Cause_1": {
+            "Endoscopy:Superficial erosion of the antrum$Input6": {}
+        },
+        "suspected gastritis$Intermedia_2": {
+            "Epigastic pain is a symptom that may occur in patients with acute gastritis.$Cause_1": {
+                "year old woman with h/o endometriosis s/p surgery presents with epigastic pain x 1 month.$Input2": {}
+            },
+            "Stress response to surgery is a common cause of acute gastritis$Cause_1": {
+                "Pelvic endometriosis and adhesions s/p surgery$Input3": {}
+            },
+            "!Epigastric pain is a symptom that may occur in patients with acute gastritis.$Cause_1": {
+                "epigastric pain$Input1": {}
+            }
+        }
+    },
+    "input1": "epigastric pain\n",
+    "input2": "___ year old woman with h/o endometriosis s/p surgery presents with epigastic pain x 1 month. She describes a dull pain most noticeable at night when she goes to bed that keeps her from falling asleep. It is less noticeable in the daytime. There is no improvement with positioning and no change with food. She does not have nausea or vomit. She had one episode of diarrhea four days ago but has not had a bowel movement since. No blood or dark stool. She reported this symptom to her previous PCP who prescribed her omeprazole 20 mg bid. She had been taking this without much improvement, although she does not always take every dose. Interestingly, her previous PCP also gave her lorazepam to sleep at night. Apparently, she has been feeling a lot of stress the past few months from work.  \n  \nShe also reports chest pressure that occurs at rest for the past two weeks. When she is at work and when she is stressed out, she feels chest pressure associated with shortness of breath. She would take deep breaths and this discomfort would pass. Occasionally she would feel palpitations. She does not have these symptoms on exertion.  \n.  \nIn the ED, initial vitals were 98.9, 159/74, 57, 18, 98%RA. She was given viscous lidocaine and maalox with improvement of her epigastric discomfort. Intial EKG showed sinus bradycardia with non-specific TWI in II, II, V1 and biphasic T in V3. First set of cardiac markers was negative. She was admitted to OBS for a rule out and stress. During observation, repeat EKG was done and there were new TWI's in V3-V5. Cardiology was contacted, and she was admitted to Medicine for further care.  \n.  \nROS: Denies fevers, chills, headaches, weight loss, dysuria.\n",
+    "input3": "Pelvic endometriosis and adhesions s/p surgery\n",
+    "input4": "Father has \"heart disese\". Mother and siblings without heart disease.\n",
+    "input5": "VITALS: 98.0, 120/82, 65, 20, 98%RA.  \nGEN: NAD, appears unhappy, and tearful at times during interview when we mention stress and anixety  \nHEENT: PERRLA, EOMI, OP clear, MMM  \nNECK: No LAD  \nCV: RRR, no M/G/R. Tender at sternum with palation but not \nsimilar to chest pressure or epigastric pain.  \nPULM: CTAB, no W/R/R  \nABD: Soft, ND, +BS. Mildly to minimally tender at epigastric area. Not tender anywhere else in her abdomen. No HSM.  \nEXT: No peripheral edema\n",
+    "input6": "___ 12:20PM   WBC-5.5 RBC-4.63 HGB-14.6 HCT-40.3 MCV-87 \nMCH-31.6 MCHC-36.3* RDW-12.9\n___ 12:20PM   NEUTS-46.0* LYMPHS-47.9* MONOS-3.5 EOS-2.0 \nBASOS-0.6\n___ 12:20PM   PLT COUNT-289\n___ 12:20PM   ALT(SGPT)-28 AST(SGOT)-27 LD(LDH)-195 \nCK(CPK)-80 ALK PHOS-112 AMYLASE-64 TOT BILI-0.5\n___ 12:20PM   LIPASE-38\n___ 12:20PM   CK-MB-NotDone\n___ 12:20PM   cTropnT-<0.01\n___ 06:46PM   CK(CPK)-72\n___ 06:46PM   cTropnT-<0.01\n___ 06:46PM   CK-MB-NotDone\n\n___ EKG: Initial: Sinus brady at 50 BPM with NA, NI, and non-specific TWI in leads II, III, F, V1 and biphasic T in V3 \nand V4.  Subsequent EKG at 18:45: Sinus brady at 58 BPM with NA, NI and TWI V3 to V5 that are more prominent than prior EKG. No ST changes.  \n\nStudies:\n___ CXR: No pneumoperitoneum. Unremarkable chest radiograph.\n\n___ Exercise stress with myocardial perfusion:Possible ischemic EKG changes noted in the absence of anginal symptoms to the achieved workload(hemodynamic response as outlined). Nuclear report sent separately. 1) Normal myocardial perfusion at the level of exercise achieved. 2) LVEF is 71%.\nEndoscopy:Superficial erosion of the antrum\n"
+}

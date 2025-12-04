@@ -1,0 +1,30 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET6.6% > 6 is the gold standard for the diagnosis of GERD.$Cause_1": {
+            "Ambulatory reflux monitor:total AET:6.6% on pH-impedance monitoring$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Stomach pain and chest pain are atypical and typical symptoms of GERD, respectively.$Cause_1": {
+                "presents with 2 days of worsening stomach and chest pain.$Input2": {}
+            },
+            "Cough is atypical symptom of GERD.$Cause_1": {
+                "Reports cough \"at times\".$Input2": {}
+            },
+            "!Chest and Epigastric Pain are typical and atypical symptoms of GERD, respectively.$Cause_1": {
+                "Chest and Epigastric Pain$Input1": {}
+            },
+            "!Chest pain is a typical symptom of GERD.$Cause_1": {
+                "Patient reports several complaints. She has chest pain \"all over\", and motions to the middle of her chest.$Input2": {}
+            },
+            "!Stomach pain is an atypical symptom of GERD.$Cause_1": {
+                "Also has stomach pain in upper area.$Input2": {}
+            }
+        }
+    },
+    "input1": "Chest and Epigastric Pain\n",
+    "input2": "Patient is a woman with a PMH of disease c/b autonomic dysfunction, HFpEF, dementia, who presents with 2 days of worsening stomach and chest pain. Interview is attempted with phone interpreter. However, patient is unable to hear interpreter, and speaks very softly herself. No family at bedside and unable to be reached. Interview conducted with help of staff, though limited. Patient reports several complaints. She has chest pain \"all over\", and motions to the middle of her chest. Also has stomach pain in upper area. Reports difficulty breathing. Reports cough \"at times\". States that she has a hernia. Unable to obtain timeline for these symptoms. Reports a \"head heaviness\". Denies fevers. Denies pain with urination.\nIn the ED, initial vitals: T 97.6, HR 84, BP 160/80, RR 16, 98% RA\n",
+    "input3": "+HTN\n+HFpEF (LVEF >55%\n+Valvular disease: AR, 1+ MR, TR, mild PA HTN\n+osteoporosis\n+renal mass(MRI 04- small cortical scar in mid-L kidney)\n+recurrent UTIs (has small urethral caruncle) on nitrofurantoin prophylaxis\n+Colonic polyps (biopsy showed sessile serrated adenomas in ascending colon and hepatic flexure)\n+Osteoarthritis\n+s/p bladder suspension\n+s/p knee surgery\n+Urinary incontinence (using pessary)\n+Breast cyst\n+Chronic abdominal pain\n",
+    "input4": "Brother with cardiac history and CVA. \nMother with unknown abdominal cancer.\n",
+    "input5": "GENERAL: Alert and in no apparent distress\nEYES: Anicteric, pupils equally round\nENT: Ears and nose without visible erythema, masses, or trauma. Oropharynx without visible lesion, erythema or exudate\nCV: Heart regular, no murmur, no S3, no S4. No JVD. Chest tender to palpation\nRESP: Lungs clear to auscultation with good air movement bilaterally. Breathing is non-labored, though somewhat fast \nGI: Abdomen soft, non-distended, mild epigastric TTP. Bowel sounds present. No HSM\nGU: No suprapubic fullness or tenderness to palpation\nMSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs\nSKIN: No rashes or ulcerations noted\nNEURO: Alert, orientation hard to assess. Speech soft, somewhat delayed, but fluent.\n",
+    "input6": "09:05PM URINE BLOOD-TR* NITRITE-NEG PROTEIN-TR* GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-LG*\n09:05PM URINE RBC-3* WBC-45* BACTERIA-FEW* YEAST-NONE EPI-1 TRANS EPI-<1\n07:45AM BLOOD WBC-3.7* RBC-3.90 Hgb-11.4 Hct-35.5 MCV-91 MCH-29.2 MCHC-32.1 RDW-15.9* RDWSD-53.5* Plt\n07:45AM BLOOD Glucose-96 UreaN-19 Creat-0.7 Na-140 K-4.3 Cl-99 HCO3-28 AnGap-13\n07:38AM BLOOD CK-MB-2 cTropnT-<0.01\n07:40PM BLOOD cTropnT-<0.01\nAmbulatory reflux monitor:total AET:6.6% on pH-impedance monitoring\n"
+}

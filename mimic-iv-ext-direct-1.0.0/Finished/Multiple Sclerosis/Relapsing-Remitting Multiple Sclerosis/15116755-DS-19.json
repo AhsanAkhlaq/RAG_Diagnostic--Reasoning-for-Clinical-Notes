@@ -1,0 +1,44 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "The condition has distinct attacks (relapses) and remission periods$Cause_1": {
+            "In the ED he said his symptoms had subsided and his condition had returned to a stable state. He said similar situations had happened before.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "This describes multiple bilateral round and oval T2/FLAIR hyperintense white matter lesions located in the subcortical and periventricular white matter as well as in the posterior fossa and brainstem, which are most likely manifestations of a demyelinating process.$Cause_1": {
+                "Multiple T2/STIR hyperintense lesions within the cervical and thoracic spinal cord, compatible with a demyelinating process.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Lower limb weakness is one of the common symptoms of multiple sclerosis, which may be due to damage to the central nervous system leading to weakened muscle strength.$Cause_1": {
+                    "increasing lower extremity weakness$Input2": {}
+                },
+                "The progressive wheelchair dependency suggests a continued decline in her mobility, possibly related to neurological disease$Cause_1": {
+                    "uses a manual wheelchair, and has become more dependent on this over time as she has become less mobile$Input2": {}
+                },
+                "Frequent falls may result from impaired balance and coordination, which are common in people with multiple sclerosis.$Cause_1": {
+                    "She has also been falling at home$Input2": {}
+                },
+                "The inability to stand further demonstrated significant loss of lower extremity strength and function, a common finding in multiple sclerosis.$Cause_1": {
+                    "not been able to stand at all$Input2": {}
+                },
+                "Baclofen is a drug used to treat spasticity, a common symptom of multiple sclerosis.$Cause_1": {
+                    "She noted that she has had spasticity previously, but this has improved since starting Baclofen.$Input2": {}
+                },
+                "Difficulties with fine motor skills indicate neurological damage that affects coordination and control of the hands$Cause_1": {
+                    "occasional difficulty with fine motor movements$Input2": {}
+                },
+                "Numbness in the fingers may be due to abnormal nerve conduction, which is common in people with multiple sclerosis.$Cause_1": {
+                    "intermittent parasthesias of her fingertips$Input2": {}
+                },
+                "Family history of MS inrease the risk$Cause_1": {
+                    "Mother died of Multiple Sclerosis.\nMother's uncle also had MS and maternal grandfather died of brain tumor.$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "She is a right-handed woman with PMH significant, who presents with increasing lower extremity weakness. She uses a manual wheelchair, and has become more dependent on this over time as she has become less mobile. In fact, over the past month, she has not been able to stand at all. The greatest impact of this is on her bathroom use; she was previously able to transfer the wheelchair to the toilet and stand to get her pants off and on, but has been unable to do this for the past month. She has also been falling at home; last fall was yesterday evening (she fell off the bed when trying to use a slide board; she says she can't lift her left leg up high enough to use the board; no head strike). She was previously well attended to by her husband, but since he suffered from a stroke, he has been unable to care for her.    \n\ufeff\nNeuro ROS: Positive for lower extremity weakness as per HPI. She is unable to ambulate. She noted that she has had spasticity previously, but this has improved since starting Baclofen. She also notes occasional difficulty with fine motor movements; she describes difficulty writing and with buttons. No headache, loss of vision, blurred vision, diplopia, dysarthria, dysphagia, lightheadedness, vertigo, tinnitus or hearing difficulty. No difficulties producing or comprehending speech. She notes intermittent parasthesias of her fingertips. She is incontinent because of her difficulty getting to the bathroom in time, but she is able to recognize when she needs to go to the bath room and it does not seem that urgency is a problem. \n\nIn the ED she said her symptoms had subsided and her condition had returned to a stable state. She said similar situations had happened before.\n  \n \nGeneral ROS: No fever or chills. No cough, shortness of breath, chest pain or tightness, palpitations. No nausea, vomiting, diarrhea, constipation or abdominal pain.  No recent change in bowel or bladder habits.  No dysuria. No rash. Denies rash. She does note that she does not drink or eat a lot because of her difficulty with going to the bathroom.\n",
+    "input3": "+s/p breast bx macro and microcysts and focal ductal hyperplasia. No atypia or malignancy)  \n+s/p hysterectomy\n",
+    "input4": "Mother died of Multiple Sclerosis.\nMother's uncle also had MS and maternal grandfather died of brain tumor.\n",
+    "input5": "Physical Exam:\nGeneral: Awake, cooperative, NAD. \nHEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in oropharynx \nNeck: Supple\nPulmonary: lcta b/l  \nCardiac: RRR, S1S2, no murmurs appreciated\nAbdomen: soft, NT/ND, +BS \nExtremities: warm, edema b/l\n \nNeurologic: \n\ufeff\nMental Status: Awake, alert, oriented to person, place and date. \n\ufeff\nAble to relate history without difficulty.  Attentive, able to name backward without difficulty. Able to follow both midline and appendicular commands. No right-left confusion. Able to register 3 objects and recall at 5 minutes with prompting). No evidence of apraxia or neglect  \n\ufeff\nLanguage: speech is clear, fluent, nondysarthric with intact\nnaming, repetition and comprehension. \n\ufeff\nCranial Nerves: \nI: Olfaction not tested.  \nII: PERRL 3 to 2mm and brisk.  VFF to confrontation. Funduscopic exam revealed no papilledema, exudates, or hemorrhages. \nIII, IV, VI: EOMI without nystagmus.\nV: Facial sensation intact to light touch. \nVII: No facial droop, facial musculature symmetric. \nVIII: Hearing intact to finger-rub bilaterally.  \nIX, X: Palate elevates symmetrically.  \nXI: ___ strength in trapezii and SCM bilaterally. \nXII: Tongue protrudes in midline.\n \nMotor: Normal bulk, tone throughout. Right lower extremity is internally rotated. No pronator drift bilaterally. No adventitious movements, such as tremor, noted. No asterixis noted.\n \nDelt Bic Tri WrE FFl FE IP Quad Ham TA \nL  5    3+   2  3          \nR  5    2    1  0       \n \nSensory: No deficits to light touch. She has diminished pinprick over lateral aspect proximal LLE. Absent vibratory sense b/l, can appreciate at elbow. Proprioception midly diminished at great toe b/l. \n \nDTRs: \nBi Tri Pat Ach \nL  2  2    2    2   0 \nR  2  2    2    2   0 \nPlantar response was extensor bilaterally. \n \nCoordination: No intention tremor or dysmetria on finger-nose,\nFNF. RAMs are very slow b/l.  \n \nGait: deferred. she is wheelchair-bound.  \n\ufeff\n",
+    "input6": "Pertinent Results:\n___ 02:30PM   GLUCOSE-87 UREA N-14 CREAT-0.4 SODIUM-145 POTASSIUM-3.8 CHLORIDE-108 TOTAL CO2-25 ANION GAP-16\n___ 02:30PM   estGFR-Using this\n___ 02:30PM   ALT(SGPT)-27 AST(SGOT)-34 ALK PHOS-75 TOT BILI-0.4\n___ 02:30PM   WBC-5.8 RBC-4.16* HGB-12.9 HCT-39.0 MCV-94 MCH-31.1 MCHC-33.2 RDW-13.2\n___ 02:30PM   NEUTS-69.3 MONOS-4.3 EOS-1.8 BASOS-1.1\n___ 02:30PM   PLT COUNT-349\n\ufeff\nMultiple T2/STIR hyperintense lesions within the cervical and thoracic spinal cord, compatible with a demyelinating process.\n"
+}

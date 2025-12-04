@@ -1,0 +1,21 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "State of BP at home was 151/93$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "VS:BP142/86$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Chest pain is a symptoms of Hypertension.$Cause_1": {
+                "mild chest pain$Input2": {}
+            }
+        }
+    },
+    "input1": "Swelling, SOB\n",
+    "input2": "___ G1P1 PPD ___ s/p term SVD on ___ c/b chorio presents complaining of lower extremity edema and SOB. Between ___ discharge and today, pt reports experiencing increasing leg swelling (L>R), mild chest pain, and SOB. Awoke this morning with more significant SOB and was unable to breath well lying down. Also reports mild abdominal pain. Denies HA, vision changes, RUQ pain, leg pain.State of BP at home was 151/93.\n",
+    "input3": "OB Hx: G1P1, SVD at 39w6d, girl, c/b chorio\nGyn Hx: abnormal pap with normal follow-up, hx of chlamydia\nPMH: Multinodular goiter, migraines\nPSH: R thyoidectomy\n",
+    "input4": "Non-contributory\n",
+    "input5": "Exam on day of discharge: \nVS:T37.2 BP142/86\nGen: NAD, comfortable\nCV: RRR\nResp: CTAB\nAbd: soft, non-tender, fundus firm\nGU: minimal bleeding\nExt: non-tender, no edema\n",
+    "input6": "___ 08:50AM BLOOD WBC-4.9 RBC-2.70* Hgb-8.9* Hct-27.2* MCV-101* MCH-33.0* MCHC-32.7 RDW-14.1 RDWSD-52.3* Plt ___\n___ 02:03PM BLOOD WBC-5.1 RBC-2.81* Hgb-9.2* Hct-28.3* MCV-101* MCH-32.7* MCHC-32.5 RDW-14.0 RDWSD-52.2* Plt ___\n___ 08:50AM BLOOD Creat-0.6\n___ 02:03PM BLOOD Creat-0.5\n___ 08:50AM BLOOD ALT-38 AST-34\n___ 02:03PM BLOOD ALT-47* AST-50*\n___ 08:50AM BLOOD UricAcd-4.2\n___ 02:03PM BLOOD UricAcd-4.2\n"
+}

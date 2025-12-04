@@ -1,0 +1,27 @@
+{
+    "upper gastrointestinal bleeding$Intermedia_3": {
+        "Duodenal ulcer with bleeding on The gold standard for upper gastrointestinal bleeding$Cause_1": {
+            "EGD:Duodenal ulcer with bleeding$Input6": {}
+        },
+        "suspected upper gastrointestinal bleeding$Intermedia_2": {
+            "Patients with duodenal ulcer are prone to bleeding. When melena and dizziness occur, upper gastrointestinal bleeding should be highly suspected$Cause_1": {
+                "Patient with a PMH of duodenal ulcer who presents with melena x10 episodes over the past day with dizziness and orthostatic symptoms over the past few days.$Input2": {}
+            },
+            "Dizziness is one of the manifestations of anemia$Cause_1": {
+                "Pt states that this morning he stood up at work and felt dizzy and drove home then to .$Input2": {}
+            },
+            "Proof of anemia.$Cause_1": {
+                "RBC-3.16* Hgb-8.8*$Input6": {}
+            },
+            "Hgb drop of 10.4 to 8.2 over the course of the day is evidence of anemia.$Cause_1": {
+                "He was transferred from the ED to the MICU for a Hgb drop of 10.4 to 8.2 over the course of the day and planned EGD by GI in the AM.$Input2": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Patient with a PMH of duodenal ulcer who presents with melena x10 episodes over the past day with dizziness and orthostatic symptoms over the past few days. He was diagnosed with 2 duodenal ulcers approximately years ago in on EGD. Reports experiencing melena at that time. He was also diagnosed with H. pylori and recalls taking antibiotics for 45 days. He took omeprazole for several years but stopped 1.5 to years ago. He denies any bleeding episodes over the past years. He denies NSAID use, heavy drinking, or drug use. Pt states that this morning he stood up at work and felt dizzy and drove home then to . He was transferred here for GI consult and ICU level care. He was transferred from the ED to the MICU for a Hgb drop of 10.4 to 8.2 over the course of the day and planned EGD by GI in the AM. In ED initial VS: 98.4, 99, 98/60, 18, 100% RA.\n",
+    "input3": "+Duodenal ulcer\n",
+    "input4": "No family history of PUD, gastric cancer or CRC.\n",
+    "input5": "VITALS: reviewed in metavision \nGENERAL: Alert, oriented, no acute distress  \nHEENT: Sclera anicteric, MMM, oropharynx clear  \nNECK: supple, JVP not elevated, no LAD  \nLUNGS: Clear to auscultation bilaterally, no wheezes, rales, rhonchi  \nCV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, gallops  \nABD: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly  \nEXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  \nSKIN: no rash or lesions\nNEURO:  A&Ox3, no focal deficits\n",
+    "input6": "04:35PM BLOOD WBC-11.2* RBC-3.16* Hgb-8.8* Hct-27.1* MCV-86 MCH-27.8 MCHC-32.5 RDW-13.2 RDWSD-41.4 Plt\n04:35PM BLOOD Neuts-72.6*Monos-4.4* \nEos-0.3* Baso-0.2 Im AbsNeut-8.13* AbsLymp-2.47 \nAbsMono-0.49 AbsEos-0.03* AbsBaso-0.02\n04:35PM BLOOD PTT-28.2\n04:35PM BLOOD Glucose-102* UreaN-26* Creat-0.8 Na-138 \nK-3.9 Cl-103 HCO3-25 AnGap-10\n04:35PM BLOOD ALT-15 AST-11 AlkPhos-37* TotBili-0.2\n04:35PM BLOOD Lipase-12\n04:35PM BLOOD Albumin-3.4*\n04:47PM BLOOD Lactate-1.3\nEGD:Duodenal ulcer with bleeding\n"
+}

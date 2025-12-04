@@ -1,0 +1,32 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "patient has stable hemodynamics, no evidence of RV function impairment which rule out massive PE.$Cause_1": {
+            "No current evidence of R heart strain on CTA.  EKG also negative for right heart strain$Input2": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "CTA confirmed pulmonary embolism and showed extension of the embolism to multiple pulmonary artery branches.$Cause_1": {
+                "CTA was done and revealed: RLL PE extending into lateral and proximal posterior segmental arteries as well as peripheral ground-glass opacity in RLL, concerning for developing infarct.$Input2": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Oral contraceptives are a known risk factor for pulmonary embolism because they may increase the tendency of the blood to clot.$Cause_1": {
+                    "Healthy female on OCPs$Input2": {}
+                },
+                "An embolism may cause pain in the lungs, especially when you breathe deeply.$Cause_1": {
+                    "chest pain with deep inspiration and with exertion$Input2": {}
+                },
+                "Prolonged physical activity may be associated with dehydration and hypercoagulable state, indirectly increasing the risk of embolism.$Cause_1": {
+                    "training for a marathon$Input2": {}
+                },
+                "This persistent chest pain indicates persistent lung disease and is a common symptom in patients with pulmonary embolism.$Cause_1": {
+                    "pain with deep inspiration and pain at rest$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "\n",
+    "input2": "Healthy female on OCPs.  For the past few days, she has noticed chest pain with deep inspiration and with exertion.  She has been training for a marathon recently.  No recent travel, no smoking history, no personal or family history of clotting disorders.  A CTA was done and revealed: RLL PE extending into lateral and proximal posterior segmental arteries as well as peripheral ground-glass opacity in RLL, concerning for developing infarct.  No current evidence of R heart strain on CTA.  EKG also negative for right heart strain.  She was stable in the ED (99.6 82 124/56 18 97%RA and guaiac negative) and was offered to do lovenox at home but she was hesitant to give herself injections.  A peripheral was placed and she was given IVF and started on a heparin drip.\n.  \nCurrently,  she reports pain with deep inspiration and pain at rest.  No shortness of breath or other difficulty breathing.  No n/v/diarrhea/dysuria/abdominal pain.  She reports that she has plans for travel in the future.\n",
+    "input3": "pt denies any medical history\n",
+    "input4": "patient denies any blood/clotting disorders in family.  Parents both alive and healthy\n",
+    "input5": "Physical Exam:\nGENERAL - well-appearing F in NAD, comfortable, appropriate\nHEENT - EOMI, sclerae anicteric, MMM, OP clear\nLUNGS - CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use\nHEART -  RRR, no MRG, nl S1-S2\nABDOMEN - NABS, soft/NT/ND, no masses or HSM, no rebound/guarding\nEXTREMITIES - WWP, no c/c/e\nNEURO - awake, A&Ox3, CNs II-XII grossly intact, \n\ufeff\n",
+    "input6": "___ 05:00PM   GLUCOSE-109* UREA N-12 CREAT-0.8 SODIUM-135 POTASSIUM-4.0 CHLORIDE-101 TOTAL CO2-26 ANION GAP-12\n___ 05:00PM   estGFR-Using this\n___ 05:00PM   cTropnT-<0.01\n___ 05:00PM   proBNP-98\n___ 05:00PM   WBC-8.3 RBC-4.30 HGB-12.1 HCT-35.8* MCV-83 MCH-28.2 MCHC-33.9 RDW-12.7\n___ 05:00PM   NEUTS-72* BANDS-0 MONOS-2 EOS-0 BASOS-0 MYELOS-0\n___ 05:00PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL\n___ 05:00PM   PLT SMR-NORMAL PLT COUNT-304\n___ 05:00PM   PTT-23.4\n___ 10:56AM   UREA N-14 CREAT-0.8\n___ 10:56AM   estGFR-Using this\n___ 10:18AM   VoidSpec-SPECIMEN F\n\ufeff\n\n"
+}

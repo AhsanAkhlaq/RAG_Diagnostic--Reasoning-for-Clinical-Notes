@@ -1,0 +1,26 @@
+{
+    "chronic non-atrophic gastritis$Intermedia_4": {
+        "Linear erythema,  rough mucosa and bleeding spots are the gold standard for the diagnosis of chronic non-atrophic gastritis\r.$Cause_1": {
+            "Linear erythema,  rough mucosa, bleeding spots$Input6": {}
+        },
+        "chronic gastritis$Intermedia_3": {
+            "Alcohol use is a common risk factor for gastritis.$Cause_1": {
+                "long history of frequent ed visits$Input2": {}
+            },
+            "suspected gastritis$Intermedia_2": {
+                "Chest pain below the breastbone may be related to stomach problems$Cause_1": {
+                    "substernal chest pain$Input2": {}
+                },
+                "Gastroesophageal reflux disease often causes gastric acid reflux, irritates the gastric mucosa, and triggers or aggravates gastritis.$Cause_1": {
+                    "GERD$Input3": {}
+                }
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "Patient states he developed substernal chest pain yesterday (___) without shortness of breath or radiation to his back. patient endorses a productive cough. patient also has pain when he urinates but denies any hematuria. Pt denies any fever, chills, vomiting, numbness or weakness. He did reprot a productive cough. Patient has a long history of frequent ed visits and admissions for various complaints in the setting of ETOH use. Per previous records at the time of sobriety he \nbecomes combative and elects to leave against medical advice. \n\nToday in the ED he presented with chest/ abdomina pain and troponins remain negative x2 and EKG without impressive changes CXR revealed worsening consolidations in the RLL which could be c/w a pneumonia in the right clinical setting. The patient was given Po levofloxacin and admitted given his poor social support he remianed ineb\n",
+    "input3": "\n- Cirrhosis, complicated by Grade 1 esophageal varices  \n- Hepatitis C, Ab positive, VL 46million on ___  \n- Gastritis  \n- GERD  \n- Colonic angiectasias  \n- Hypertension  \n- Atypical chest pain\n",
+    "input4": "Father had a history of Diabetes Mellitus, Hypertension, 3x \nMyocardial Infarction (first one age ___, died of MI. Mother had a history of Diabetes Mellitus, Hypertension, breast cancer, and died of colon cancer with at age ___.\n",
+    "input5": "Vitals: 98 138/76 p 73 R 16 100% on RA  \nGEN - Alert, NAD  \nHEENT - NC/AT, OP clear  \nNECK - Supple  \nCV - RRR, ___ systolic murmur throughout, no r/g  \nRESP - CTA B  \nABD - S/ND, BS present, diffuse TTP in abdomen and back \ndistractable without rebound or guarding  \nEXT - No ___ edema or calf tenderness  \nSKIN - No apparent rashes  \nNEURO - Nonfocal  \nPSYCH - Calm, appropriate  \nRECTAL: No obvious external lesions\n",
+    "input6": "___ 01:52AM BLOOD WBC-4.0 RBC-2.90* Hgb-8.1* Hct-24.4* \nMCV-84 MCH-27.8 MCHC-33.0 RDW-17.1* Plt ___\n___ 01:52AM BLOOD Neuts-58 Bands-0 ___ Monos-2 Eos-4 \nBaso-0 Atyps-4* ___ Myelos-0\n___ 01:52AM BLOOD Glucose-96 UreaN-20 Creat-1.2 Na-139 \nK-4.0 Cl-106 HCO3-20* AnGap-17\n___ 01:52AM BLOOD ALT-37 AST-70* AlkPhos-120 TotBili-0.3\n___ 01:52AM BLOOD Lipase-69*\n___ 01:52AM BLOOD cTropnT-<0.01\n___ 09:13AM BLOOD cTropnT-<0.01\n___ 04:15AM BLOOD ASA-NEG Ethanol-64* Acetmnp-NEG \nBnzodzp-NEG Barbitr-NEG Tricycl-NEG\n___ 06:05AM BLOOD Ret Aut-2.1\n___ 11:04AM BLOOD Hgb-8.0*\n\nEGD :  \nLinear erythema,  rough mucosa, bleeding spots \n\n"
+}

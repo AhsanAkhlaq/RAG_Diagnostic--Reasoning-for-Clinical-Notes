@@ -1,0 +1,58 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF 35%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "Left ventricular hypertrophy$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "proBNP \u2265 125 pg/mL is a strong value for heart failure$Cause_1": {
+                    "proBNP->70000$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Breathlessness is a symptom of hmaeart failure$Cause_1": {
+                        "shortness of breath$Input1": {}
+                    },
+                    "Paroxysmal nocturnal dyspnoea is a typical symptom of heart failure$Cause_1": {
+                        "worsening dyspnea, especially at night when laying flat$Input2": {}
+                    },
+                    "Peripheral edema is a sign of heart failure$Cause_1": {
+                        "worsening of lower extremity edema$Input2": {}
+                    },
+                    "pulmonary vascular congestion is a sign of heart failure$Cause_1": {
+                        "pulmonary vascular congestion$Input2": {}
+                    },
+                    "diabetes type II is a risk factor of heart failure$Cause_1": {
+                        "diabetes type II$Input3": {}
+                    },
+                    "hypothyroidism is a risk factor of heart failure$Cause_1": {
+                        "hypothyroidism$Input3": {}
+                    },
+                    "hypertension is a risk factor of heart failure\n\nhypertension$Cause_1": {
+                        "hypertension$Input3": {}
+                    },
+                    "chronic kidney disease is a risk factor of heart failure$Cause_1": {
+                        "chronic kidney disease$Input3": {}
+                    },
+                    "anemia is a risk factor of heart failure$Cause_1": {
+                        "anemia$Input3": {}
+                    },
+                    "atrial fibrillation\nis a risk factor of heart failure$Cause_1": {
+                        "atrial fibrillation$Input3": {}
+                    },
+                    "pleural effusions is a sign of heart failure$Cause_1": {
+                        "pleural effusions$Input6": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "shortness of breath\n",
+    "input2": "Female with PMHx sCHF (thrombocytopenia, asthma, h/o MRSA, VRE, CRE, recent GI bleed c/b NSTEMI p/w dyspnea x1wk. Patient describes gradual onset of worsening dyspnea, especially at night when laying flat. Also reports worsening of lower extremity edema. No fevers, chills, nausea, vomiting, chest pain.  \n\nOn review of OMR it would appear patient's lasix was held on prior hospitalization in the setting and GIB. Patient presented hematology apptmt w worsening lower extremity edema and was told to restart lasix. Per the patient's daughter, she is uncertain if lasix was actually restarted at that time. Since that visit, patient's daughter reports worsening  \n\nOn presentation to ED initial vital signs were 97.4 98 126/86 24 100% 4L Nasal Cannula. Exam was notable for diffuse wheeze. CXR demonstrated signs of pulmonary vascular congestion. Labs were significant for WBC 5.6, Cr 1.6, lactate 1.6, BNP>7000. Patient was given nebulizers, 40mg IV lasix and was admitted to medicine for CHF exacerbation. Vital signs prior to transfer were 97.4 98 123/81 18 100% RA.  \n\nOn arrival to the floor, vitals were 97.6 121/70 96 16 100%2L. Patient reported feeling comfortable. On review of systems she denied fever, chills, night sweats, headache, vision changes, rhinorrhea, congestion, sore throat, chest pain, abdominal pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, hematuria.\n",
+    "input3": "+asthma  \n+diabetes type II dx'd\n+hypothyroidism  \n+hypertension  \n+chronic kidney disease- baseline crt 1.3-1.4; likely secondary to  hypertensive nephrosclerosis  \n+anemia  \n+eosinophilia  \n+depression  \n+glaucoma  \n+osteoarthritis  \n+h/o syndrome w/ celecoxib  \n+facial cellulitis tx w/ Bactrim\n+history of atrial fibrillation\n",
+    "input4": "Her sister had diabetes, brother has heart disease and sister had a stroke\n",
+    "input5": "VS: 97.6 121/70 96 16 100%2L  \nI: 1500 O: 3200\nGENERAL: NAD, comfortable  \nHEENT: PERRL, EOMI, MMM, OP clear  \nNECK: Supple, 8cm JVD, no LAD  \nHEART: RRR, no MRG  \nLUNGS: Inspiratory crackles thoughout, good air movement, no wheezing  \nABDOMEN: Soft/NT/ND, no rebound/guarding  \nEXTREMITIES: WWP, 1+ edema to knee, 2+ pulses  \nNEURO: AOx3, CNs II-XII grossly intact, moving all extremities, gait not observed\n",
+    "input6": "ADMISSION LABS\n___ 01:20AM BLOOD WBC-5.6 RBC-3.32* Hgb-10.9* Hct-33.3* MCV-100* MCH-32.8* MCHC-32.7 RDW-15.7* Plt ___\n___ 01:20AM BLOOD Neuts-54.7 ___ Monos-5.3 Eos-2.1 Baso-0.8\n___ 01:20AM BLOOD ___ PTT-28.9 ___\n___ 01:20AM BLOOD Glucose-113* UreaN-36* Creat-1.6* Na-135 K-4.5 Cl-101 HCO3-22 AnGap-17\n___ 01:20AM BLOOD CK-MB-2 cTropnT-0.08* proBNP->70000\n___ 10:40AM BLOOD CK-MB-2 cTropnT-0.08*\n___ 04:55PM BLOOD CK-MB-2 cTropnT-0.07*\n___ 01:27AM BLOOD Glucose-102 Lactate-1.6 Na-135 K-4.5 Cl-99* calHCO3-25\n\nOTHER WORK UP \n___ 04:10AM BLOOD calTIBC-183* Ferritn-606* TRF-141*\n___ 04:10AM BLOOD TSH-1.2\n\nIMAGING\nECG: Sinus rhythm. Left ventricular hypertrophy with probable secondaryrepolarization changes. Delay in R wave transition. Modest Q-T intervalprolongation.\n\nCHEST, AP AND LATERAL: Right PICC has been removed. There is no pneumothorax. Moderate-to-severe cardiomegaly has increased, with a persistently tortuous and calcified aorta. There is new pulmonary vascular congestion and interstitial edema, with small to moderate bilateral pleural effusions. Fluid is also noted layering along the right major fissure.\nLVEF 35%\n"
+}

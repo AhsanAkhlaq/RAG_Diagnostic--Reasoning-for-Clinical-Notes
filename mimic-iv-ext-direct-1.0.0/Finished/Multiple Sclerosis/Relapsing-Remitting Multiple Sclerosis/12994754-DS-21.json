@@ -1,0 +1,35 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "Suspected relapse of disease, which has distinct periods of attack (relapse) and remission$Cause_1": {
+            "having recurrent trigeminal neuralgia and L arm pain$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "These drugs are either immunomodulators or immunosuppressants used to treat multiple sclerosis$Cause_1": {
+                "treated with Avonex, Copaxone, Methotrexate and Azathioprine in the past$Input2": {}
+            },
+            "Multiple new supratentorial and infratentorial demyelinating lesions were reported, which showed a slow spread, suggesting an acute etiology, which is one of the key indicators for diagnosing multiple sclerosis, as MS characteristically involves a demyelinating process in the central nervous system.$Cause_1": {
+                "multiple new supratentorial and infratentorial demyelinating lesions are identified compared.  Some of the lesions demonstrate slow diffusion, suggesting acute etiology$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Leg weakness is a common symptom of MS$Cause_1": {
+                    "Leg weakness$Input1": {}
+                },
+                "This is a typical symptom of nerve pain, which may be related to multiple sclerosis$Cause_1": {
+                    "suddenly had shooting L hip pain of pins and needles that radiated anteriorly from hip down to the toes$Input2": {}
+                },
+                "Blurred vision is a common symptom in people with multiple sclerosis and may be caused by optic neuritis.$Cause_1": {
+                    "blurry vision occurred 3~4x today.$Input2": {}
+                },
+                "Double vision is a common symptom in people with multiple sclerosis and may be related to damage to the eye nerves$Cause_1": {
+                    "diplopia$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "Leg weakness\n",
+    "input2": "Per patient, she suddenly had shooting L hip pain of pins and needles that radiated anteriorly from hip down to the toes followed by weakness this afternoon.   She thinks that the blurry vision occurred 3~4x today.\n\ufeff\nShe denies any issues prior to today.  She has been feeling her usual self without any fever/chills, cough, dysuria, HA, N/V/D  or sick contact.  She denies any recent falls or trauma.  She also denies any recent stressors including issues with her daughter. She also denies any bowel or urinary symptoms including constipation, retention or incontinence.  Also, no Lhermitte's or band-like sensation in her torso.\n\ufeff\nThis was followed by burning sensation over L arm and leg in following which again resolved with IV steroids but patient has been having recurrent trigeminal neuralgia and L arm pain ever since for which she was on Topamax and Trileptal but she has weaned herself off of Trileptal because it made her feel sick.  She was admitted for diplopia then, she was again admitted for L sided weakness which was treated with IV Solu-Medrol.\n\ufeff\nShe had been treated with Avonex, Copaxone, Methotrexate and Azathioprine in the past. Patient reports that she is due for her bimonthly steroids next week.\n\ufeff\n",
+    "input3": "1. hx of R BKA after motorcycle accident.\n2. GERD\n3. Depression\n4. s/p cholecystectomy\n",
+    "input4": "Mother has disease and father abused EtOH but no neurological disease.\n",
+    "input5": "Physical Exam:\nOn admission: \n\ufeff\nT 99.2 BP 115/76 HR 116 RR 16 O2Sat 98% RA\nGen: Lying in bed, comfortably talking without any signs of distress although she rates her HA and morphine not touching the pain.\nMultiple tattoos including L ankle and lower back.\nHEENT: NC/AT, moist oral mucosa   \nBack: No point tenderness or erythema\nCV: RRR, no murmurs/gallops/rubs \nLung: Clear \nAbd: +BS, soft, nontender \nExt: R prosthetic for BKA but no edema on LLE and 1+ dorsalis pedis palpable.  \n\ufeff\nNeurologic examination: \nMental status: Awake and alert, cooperative with exam, normal affect.  Oriented to person, place, and date.  Attentive, says backwards.  Speech is fluent with normal comprehension and repetition; naming intact. No dysarthria. Reading intact.  No right left confusion. No evidence of apraxia or neglect.\n \nCranial Nerves:  \nII: Pupils equally round and reactive to light, 4 to 2 mm\nbilaterally - no afferent pupillary defect.  Visual fields are\nfull to confrontation. \nIII, IV & VI: Extraocular movements intact bilaterally, no\nnystagmus. \nV: Sensation intact to LT and PP.  \nVII: Facial movement symmetric.  \nVIII: Hearing intact to finger rub bilaterally.  \nX: Palate elevation symmetrical.  \nXI: Sternocleidomastoid and trapezius normal bilaterally. \nXII: Tongue midline, movements intact\n \nMotor: \nNormal bulk and tone bilaterally. No observed myoclonus or tremor. No asterixis or pronator drift.  Negative Hoover's sign.\nDel Tri Bi WE FE FF  IP Add Abd  H  Q  DF PF \nR  ___  ___  ___   *  *  *  *   \nL  ___  ___  ___   ___  5 \n \nSensation: Intact to light touch, vibration, cold and proprioception throughout. Some stocking PP loss up to mid-shin on LLE.\n \nReflexes: \n+2 and symmetric for UEs.  Unable to test RLE but 2 for L patellar.  \nToes downgoing on L. \n \nCoordination: FTN, FTF and RAMs normal. \n \nGait: Deferred.\n\ufeff\n",
+    "input6": "Labs on admission:\n___ 06:40PM BLOOD WBC-8.0 RBC-5.07 Hgb-14.9 Hct-44.6 MCV-88 MCH-29.4 MCHC-33.5 RDW-12.7\n___ 06:40PM BLOOD Neuts-64.9 Monos-3.8 Eos-0.3 Baso-0.3\n___ 06:40PM BLOOD PTT-30.9\n___ 06:40PM BLOOD Glucose-89 UreaN-8 Creat-0.8 Na-139 K-3.8 Cl-109* HCO3-21* AnGap-13\n___ 06:40PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG\n\ufeff\nMR with and without contrast: Mild disc bulging at L2-3 and L3-4 levels with a small protrusion in the midline at L3-4 level minimally indenting the thecal sac. No other significant abnormalities. \n\ufeff\nmultiple new supratentorial and infratentorial demyelinating lesions are identified compared.  Some of the lesions demonstrate slow diffusion, suggesting acute etiology\n\n"
+}

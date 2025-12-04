@@ -1,0 +1,18 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET: 6.5% > 6% is the gold standard for gastro-oesophageal reflux \rdisease diagnosis$Cause_1": {
+            "Ambulatory reflux monitor :total AET:6.5% on pH-impedance monitoring$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Chest burning is a typical symptom of gastro-oesophageal reflux \rdisease$Cause_1": {
+                "In ED c/o chest burning into esophagus while seeing therapist.$Input2": {}
+            }
+        }
+    },
+    "input1": "Observation for rule out ACS given speaking and deaf and does not qualify to be observed in emergency room\n",
+    "input2": "Obese, DM male who came for routine f/u at Behavioral Neurology clinic. No hx of CAD or HTN. C/o feeling LH x 1 hr with diffuse burning sensation. 30 min later developed chest pressure, severity, no radiation. No worse w/ palpation. Is associated w/ SOB, nausea, diaphoresis. Has not been otherwise ill. Has not had any similar episodes in past. Of note, pt d/c from yesterday s/p suicide attempt. Taking Lyrica, Risperdal, fluoxetine and glucophage. Glc this am was 133. Reg rhythm, tachycardic ~120 on exam. EMS called, transferring to ED. In ED c/o chest burning into esophagus while seeing therapist. ED: tachy transient tachy into 150s, with IVF to 110s, ativan helped slightly, ECG, CXR, D-dimer and u/s all negative. On the floor pt. states his burning sensation in the chest is completely resolved with GI cocktail given in ER. Currently has not chest discomfort.\n",
+    "input3": "+hypertension  \n+depressions s/p recent suicide +attempt  \n+diabetes  \n+fatty liver disease  \n+migraines  \n+appendectomy  \n+cochlear implants  \n+bilateral hearing loss  \n+asthma\n",
+    "input4": "He questions if he had an aunt with seizures. A cousin had seizures. Mother, depression; father, depression and diabetes; son, frequent sinus infections; and daughter, celiac, hyperthyroidism.\n",
+    "input5": "PE: 98.2, 119/95, 99, 20, 96 3L  \nGen: WDWN middle aged male in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were \npink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \n\nNeck: Supple with JVP of 5 cm.  \nCV: PMI located in intercostal space, midclavicular line. \nRR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nChest: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nAbd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.  \nExt: No c/c/e. No femoral bruits.  \nSkin: No stasis dermatitis, ulcers, scars, or xanthomas.  \nPulses:  \nRight: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ 2+  \nLeft: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ 2+\n",
+    "input6": "01:30PM BLOOD cTropnT-<0.01\n09:10PM BLOOD CK-MB-3 cTropnT-<0.01\n07:00AM BLOOD CK-MB-3 cTropnT-<0.01\n01:30PM BLOOD CK(CPK)-193*\n09:10PM BLOOD CK(CPK)-194*\n07:00AM BLOOD CK(CPK)-211*\n07:00AM BLOOD Glucose-96 UreaN-20 Creat-1.1 Na-139 K-4.2 Cl-106 HCO3-24 AnGap-13\n01:30PM BLOOD D-Dimer-323\n07:00AM BLOOD WBC-6.0 RBC-4.72 Hgb-14.1 Hct-41.4 MCV-88 MCH-29.9 MCHC-34.1 RDW-13.2 Plt y/o M DM, depression admitted with chest pain likely GI in origin, given CAD equivalent will r/o ACS.\nAmbulatory reflux monitor :total AET:6.5% on pH-impedance monitoring\r\n"
+}

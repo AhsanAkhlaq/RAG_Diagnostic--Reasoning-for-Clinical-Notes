@@ -1,0 +1,47 @@
+{
+    "Severe COPD$Intermedia_4": {
+        "30% \u2264 FEV1 < 50% confirm Severe COPD$Cause_1": {
+            "FEV1 45%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "FEV1/FVC < 0.70 confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC = 0.43.$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "Patients experience worsening dyspnea and chest pain during physical activity, which are typical symptoms of an acute exacerbation of COPD.$Cause_1": {
+                    "worsening shortness of breath and chest pressure with exertion$Input2": {}
+                },
+                "Patients feel that current symptoms are similar to past COPD exacerbations, suggesting that this may be a recurrence of COPD.$Cause_1": {
+                    "feels similar to her previous COPD flare$Input2": {}
+                },
+                "Salbutamol is a commonly used drug for treating acute symptoms of COPD. The patient's symptoms did not improve significantly after using it this time, which may indicate the severity of the disease.$Cause_1": {
+                    "tried an albuterol inhaler for the first time, with little improvement in her symptoms$Input2": {}
+                },
+                "Chronic and recently increased cough, especially worse at night when lying down and with production of thick sputum, is a typical manifestation of COPD symptoms.$Cause_1": {
+                    "increase in her baseline cough over the past 1.5 months, and more acutely over the past 2 weeks$Input2": {}
+                },
+                "Activity-induced dyspnea and reduced exercise capacity are often related to decreased lung function in patients with COPD.$Cause_1": {
+                    "dyspnea on exertion and decreased exercise tolerance.$Input2": {}
+                },
+                "This is a classic symptom of COPD and indicates narrowing of the airways.$Cause_1": {
+                    "diffuse expiratory wheezes$Input5": {}
+                },
+                "Common in COPD patients, due to airway obstruction, expiratory time is increased.$Cause_1": {
+                    "prolonged expiratory phase$Input5": {}
+                },
+                "COPD patients often present with increased respiratory work due to dyspnea.$Cause_1": {
+                    "increased work of breathing$Input5": {}
+                },
+                "Mucus plugging is a common symptom of COPD and reflects the accumulation of secretions within the airways, which can lead to airway obstruction and difficulty breathing.$Cause_1": {
+                    "Mucous plugging in bilateral airways, most substantial in the left upper lobe$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "The patient reports that over the past 1.5 months, she \nhas experienced worsening shortness of breath and chest pressure with exertion, which feels similar to her previous COPD flare. when she was hospitalized for an exacerbation while still living. She has never required intubation. She reports that she does not regularly take medications for her COPD, but the day prior to admission, tried an albuterol inhaler for the first time, with little improvement in her symptoms. She also reports that she has experienced an increase in her baseline cough over the past 1.5 months, and more acutely over the past 2 weeks. The cough is worse while supine at night and productive of a non-bloody thick mucus like sputum; she reports some improvement in her cough when sitting up. She also describes dyspnea on exertion and decreased exercise tolerance.\n\nOf note, the patient reports no history of heart disease, but describes that \"the blood supply through the heart is not good\" and has a family history of heart disease. She denies a history of swelling her her legs.\n",
+    "input3": "+ uterine polypectomy\n+ diabetes\n+ hypertension\n+ cerebral microvascular disease\n",
+    "input4": "Heart Disease: mother, sister, brother\nPulmonary Disease: mother\n",
+    "input5": "EXAM ON ADMISSION\nVitals- 97.0 96 128/74 16 94% RA \nGeneral- Alert, oriented, no acute distress  \nHEENT- Sclerae anicteric, MMM, oropharynx clear  \nNeck- supple, JVP not elevated, mild anterior cervical lymphadenopathy \nLungs- diffuse expiratory wheezes heard in all lung fields with prolonged expiratory phase, increased work of breathing, good air movement, no rhonchi or rales   \nCV- RRR, Nl S1/S2, No MRG  \nAbdomen- soft, NT/ND bowel sounds present, no rebound tenderness or guarding, no organomegaly  \nGU- no foley  \nExt- warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  \nNeuro- motor function grossly normal\n",
+    "input6": "ADMISSION LABS\n09:19PM   CK-MB-1 cTropnT-<0.01\n04:05PM URINE  COLOR-Yellow APPEAR-Hazy\n04:05PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG \nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0 \nLEUK-MOD\n04:05PM URINE  RBC-3* WBC-2 BACTERIA-NONE YEAST-NONE \nEPI-2\n04:05PM URINE  AMORPH-FEW\n04:05PM URINE  MUCOUS-OCC\n12:31PM   LACTATE-1.7\n12:15PM   GLUCOSE-112* UREA N-20 CREAT-0.5 SODIUM-138 \nPOTASSIUM-3.2* CHLORIDE-103 TOTAL CO2-26 ANION GAP-12\n12:15PM   estGFR-Using this\n12:15PM   WBC-5.5 RBC-4.59 HGB-13.5 HCT-39.6 MCV-86 \nMCH-29.4 MCHC-34.1 RDW-12.4 RDWSD-38.1\n12:15PM   NEUTS-59.3 MONOS-9.9 EOS-1.8 \nBASOS-0.5 AbsNeut-3.25 AbsLymp-1.55 AbsMono-0.54 \nAbsEos-0.10 AbsBaso-0.03\n12:15PM   PLT COUNT-220\n\nIMAGING STUDIES:\nTTE Impression:\nThe left atrium is normal in size. No atrial septal defect is seen by 2D or color Doppler. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. \nThe mitral valve appears structurally normal with trivial mitral regurgitation. There is no mitral valve prolapse. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion.   \n\nCTA Chest:\nIMPRESSION:  \n  \n1.  No evidence of pulmonary embolism or acute aortic \nabnormality.  No pleural effusions. \n2.  Mucous plugging in bilateral airways, most substantial in the left upper lobe. No evidence of lobar collapse on the \ncurrent study. \n3.  Left lower lobe opacities with mild adjacent \nbronchial wall thickening, a nonspecific finding that can be seen in the setting of micro-aspiration or atypical infection. \n4.  8 x 10 mm left lower lobe pulmonary nodule with somewhat\nspiculated margins, suspicious for malignancy. \n5.  Mediastinal lymphadenopathy, most prominent in the hilar and subcarinal stations, suggesting underlying systemic process.\n\nPost-bronchodilator FEV1/FVC = 0.43.\nFEV1 45%\n"
+}

@@ -1,0 +1,47 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "Temporary remissions and return to a stable state, as well as recurrent episodes of symptoms, are common clinical manifestations of multiple sclerosis. Periodic fluctuations in symptoms and periods of stability are one of the characteristics of the disease.$Cause_1": {
+            "In the ED she said her symptoms had subsided and her condition had returned to a stable state. She said similar situations had happened before.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "Newly discovered lesions and enhanced portions indicate an active pathological process, which is consistent with the demyelination features in multiple sclerosis and is an important imaging manifestation for the diagnosis of MS.$Cause_1": {
+                "New enhancing white matter lesion in the parafalcine posterior left frontal lobe is compatible with active demyelination$Input6": {}
+            },
+            "This provides further support for the idea that there is active demyelination in multiple brain regions, which is common in people with MS.$Cause_1": {
+                "Smaller focus of enhancement in the right corona radiata as well.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Weakness in the right leg may be due to affected nerve pathways somewhere in the right spinal cord or brain.$Cause_1": {
+                    "right leg weakness$Input1": {}
+                },
+                "One of the common symptoms of multiple sclerosis is muscle weakness, especially in the lower limbs, which can make walking difficult.$Cause_1": {
+                    "worsening lower extremity weakness$Input2": {}
+                },
+                "This sensation may be a manifestation of paresthesia in multiple sclerosis, indicating impaired nerve conduction$Cause_1": {
+                    "symptoms began morning with a \"heavy\" feeling in her right and then left leg$Input2": {}
+                },
+                "The changes may reflect weakened muscle control, a classic symptom of multiple sclerosis.$Cause_1": {
+                    "able to walk but felt herself moving very \"slowly.\"$Input2": {}
+                },
+                "This may be due to muscle coordination disorders, a common symptom in people with multiple sclerosis.$Cause_1": {
+                    "\"tripping\" over her feet$Input2": {}
+                },
+                "Decreased vibration sensation in the big toes can be an indicator of central nervous system disease, as damage to nerve fibers is common in multiple sclerosis, leading to such symptoms.$Cause_1": {
+                    "Diminished \nvibratory sense at great toes bilaterally.$Input5": {}
+                },
+                "Buckling of the knees when walking may indicate problems with motor coordination or weakened muscle strength, which is a common finding in multiple sclerosis due to nerve damage.$Cause_1": {
+                    "right leg buckles at the knee with each stride.$Input5": {}
+                },
+                "Difficulty maintaining balance is a possible symptom of multiple sclerosis affecting the cerebellum or other neural pathways.$Cause_1": {
+                    "Unable to hold balance on tip of her toes or on her heels.$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "right leg weakness\n",
+    "input2": "She is a F who presents ED with 3 days of worsening lower extremity weakness. She states that her symptoms began morning with a \"heavy\" feeling in her right and then left leg. She was still able to ambulate and go about her daily activities. Her symptoms persisted. Again, she was still able to walk but felt herself moving very \"slowly.\" Morning, she felt herself \"tripping\" over her feet. She denies having any falls. Due to the fact that her symptoms were persistent and progressive, she presented to the ED. In the ED, she denies any recent illness, fever, URI, or GI symptoms. She does have chronic urge incontinence, which she takes oxybutynin for - she reports no new bowel or bladder symptoms. She denies any HA, neck pain, visual disturbances, or hearing difficulty. She reports some possible pins and needles in both feet, a more recent development. In the ED she said her symptoms had subsided and her condition had returned to a stable state. She said similar situations had happened before.\n",
+    "input3": "+ flares\n+ progression on serial MRIs, last = stable\n+ asthma\n+ HTN\n",
+    "input4": "s/p thyroid removal for ?nodule\n",
+    "input5": "Physical Exam:\nGENERAL EXAMINATION:\nGEN - overweight woman, pleasant, NAD\nHEENT - NC/AT, MMM\nNECK - full ROM, negative L'Hermitte's\nCV - RRR\nRESP - normal WOB\nABD - obese, NT, ND\nEXTR - atraumatic, WWP\n\ufeff\nNEUROLOGICAL EXAMINATION:\nMS - Awake, alert, oriented x3. Attention to examiner easily attained and maintained. Concentration maintained when recalling months backwards. Recalls a coherent history. Structure of speech demonstrates fluency with full sentences, intact repetition, and intact verbal comprehension. Content of speech demonstrates intact naming (high and low frequency) and no paraphasias. Normal prosody. No dysarthria. No apraxia. No evidence of hemineglect. No left-right agnosia.\n\ufeff\nCN - \n[II] PERRL 3->2 brisk. VF full to number counting. \n[III, IV, VI] EOMI, no nystagmus. [V] V1-V3 without deficits to light touch bilaterally. \n[VII] No facial movement asymmetry with forced eyelid closure or volitional smile. \n[VIII] Hearing intact to finger rub bilaterally. \n[IX, X] Palate elevation symmetric. \n[XI] SCM/Trapezius strength bilaterally. \n[XII] Tongue midline with full ROM.\n\ufeff\nMOTOR - Normal tone. Some wasting of intrinsic hand muscles. No pronation, no drift. No orbiting with arm roll. No tremor or asterixis.\n[Delt] [Bic] [Tri] [ECR] [IO] [IP] [Quad] [Ham] [TA] [Gas] \n[C5]  [C5]  [C7]  [C6]  [T1] [L2]  [L3]  [L5]  [L4] [S1]  [L5]\nL  5      5     5     5    5    5    5      5     5    5     5\nR  5      5     5     5    5    4+   5      4+    5-   5     5\n\ufeff\nSENSORY - No deficits to light touch or pinprick throughout. \nIntact proprioception at great toes bilaterally. Diminished \nvibratory sense at great toes bilaterally.\n\ufeff\nREFLEXES -\n[Bic] [Tri] [] [Quad] [Gastroc]\nL 2      2      2      2        2 \nR 2      2      2      2        2 \nPlantar response flexor bilaterally.\n\ufeff\nCOORD - No dysmetria with finger to nose. Good speed and intact\ncadence with rapid alternating movements.\n\ufeff\nGAIT - Normal initiation. Narrow base. The right leg buckles at the knee with each stride. Romberg negative. Unable to hold balance on tip of her toes or on her heels.\n\ufeff\n",
+    "input6": "___ 09:00PM BLOOD WBC-10.7* RBC-4.08 Hgb-11.5 Hct-35.5 MCV-87 MCH-28.2 MCHC-32.4 RDW-14.9 RDWSD-47.6* Plt _\n___ 09:00PM BLOOD Neuts-74.1* Lymphs-18.9* Monos-5.1 Eos-1.1 Baso-0.3 AbsNeut-7.95* AbsLymp-2.03 AbsMono-0.55 AbsEos-0.12 AbsBaso-0.03\n___ 05:51AM BLOOD PTT-27.7\n___ 09:00PM BLOOD Glucose-100 UreaN-6 Creat-0.8 Na-136 K-3.4 Cl-103 HCO3-22 AnGap-14\n___ 09:00PM BLOOD Calcium-9.3 Phos-2.5* Mg-2.0\n___ 05:51AM BLOOD ALT-40 AST-29 LD(LDH)-176 AlkPhos-54 TotBili-0.4\n___ 05:51AM BLOOD WBC-7.9 RBC-3.92 Hgb-11.1* Hct-34.0 MCV-87 MCH-28.3 MCHC-32.6 RDW-15.1 RDWSD-47.9* \n___ 05:51AM BLOOD Neuts-67.3 Monos-6.6 Eos-1.9 Baso-0.4 AbsNeut-5.31 AbsLymp-1.84 AbsMono-0.52 AbsEos-0.15 AbsBaso-0.03\n\ufeff\nMRI brain w/wo:\nIMPRESSION: \n1. Motion limited exam. \n2. New enhancing white matter lesion in the parafalcine posterior left frontal lobe is compatible with active demyelination.Smaller focus of enhancement in the right corona radiata as well. \n3. Other non-enhancing diffuse supra and infratentorial white matter lesions are also compatible with demyelinating plaques, unchanged compared to the prior study. \n\ufeff\nMRI cervical and thoracic spine w/wo (preliminary report):\nIMPRESSION: \n1. No evidence of intrinsic spinal cord signal abnormality or pathologic postcontrast enhancement within the cervical and thoracic spine. \n2. Unchanged cervical spondylosis, most prominent at C4-5, with persistent moderate spinal canal narrowing and ventral cord remodeling. \n3. Minimal thoracic spondylosis. \n\ufeff\n"
+}

@@ -1,0 +1,45 @@
+{
+    "Dilated Cardiomyopathy$Intermedia_3": {
+        "Chronic systolic is the risk fact for Cardiomyopathy$Cause_1": {
+            "Chronic systolic$Input3": {}
+        },
+        "abnormal rhythms of ECG can be a sign of Dilated Cardiomyopath$Cause_1": {
+            "CV: RRR, normal S1 and S2, +S3, ___ systolic murmur at apex, dressing over pacemaker site$Input5": {}
+        },
+        "(LVEF<20 %) is a sign of Dilated Cardiomyopath$Cause_1": {
+            "The left ventricular cavity is dilated. Overall left ventricular systolic function is severely depressed (LVEF<20 %).$Input6": {}
+        },
+        "reduced contractile function is a sign of  Dilated Cardiomyopath$Cause_1": {
+            "The mitral valve leaflets are mildly thickened. Trivial mitral regurgitation is seen. There is a trivial/physiologic pericardial effusion.$Input6": {}
+        },
+        "Suspected Cardiomyopathy$Intermedia_2": {
+            "BiV pacemaker implantation is a risk fact of Cardiomyopathy$Cause_1": {
+                "BiV pacemaker implantation$Input1": {}
+            },
+            "history of non-ischemic dilated cardiomyopathy is a risk fact.$Cause_1": {
+                "65 yo female with history of non-ischemic dilated cardiomyopathy with EF 20%, LBBB, and recent admission for heart failure exacerbation presented for BiV pacer implantation.$Input2": {}
+            },
+            "dyspnea is a sign of Cardiomyopathy$Cause_1": {
+                "She reports having several months of progressive dyspnea and palpitations with minimal exertion (several feet).  She was admitted for dyspnea.$Input2": {}
+            },
+            "Nonischemic dilated CMP is the risk fact for Cardiomyopathy$Cause_1": {
+                "Nonischemic dilated CMP$Input3": {}
+            },
+            "heart failure (EF 20%) is a sign for Dilated Cardiomyopath$Cause_1": {
+                "heart failure (EF 20%)$Input3": {}
+            },
+            "Left bundle branch block is the risk fact for Cardiomyopathy$Cause_1": {
+                "Left bundle branch block$Input3": {}
+            },
+            "family history of cardiomyopathy is a risk factor$Cause_1": {
+                "Brother had cardiomyopathy and died,$Input4": {}
+            }
+        }
+    },
+    "input1": "BiV pacemaker implantation\n",
+    "input2": "65 yo female with history of non-ischemic dilated cardiomyopathy with EF 20%, LBBB, and recent admission for heart failure exacerbation presented for BiV pacer implantation.  \n\nShe reports having several months of progressive dyspnea and palpitations with minimal exertion (several feet).  She was admitted for dyspnea.  Cardiac catheterization revealed clean coronaries.  She was started on metoprolol, lisinopril, lasix, and symptoms improved. Course was further complicated by C. diff infection, for which she was started on PO flagyl (currently on PO vanc). Upon discharge she was readmitted at the ___ for a recurrent episode of congestive heart failure, which promptly resolved with diuresis, and was discharged back to rehab.  She reports being quite ambulatory at ___, walking about 200 feet without symptoms. Endorses a productive cough of clear sputum. Denies PND, orthopnea.  \n\nOn she underwent an implantation of a BiV pacer. The procedure was without complication, but after the procedure, she was hypotensive to and was started on phenylephrine 1mcg/kg/hr, and weaned down to 0.4mcg/kg/hr upon arrival to the ICU.  \n\nUpon arrival to the CCU, T 98.0, HR 82, BP 99/58 (67), 99% RA, RR 18. Patient is alert, oriented, comfortable except for mild discomfort at the site of the BiV pacer.  Denies shortness of breath, chest pain, palpitations, or leg edema. States she is thirsty.\n",
+    "input3": "+Nonischemic dilated CMP\n+Chronic systolic \n+heart failure (EF 20%)\n+Left bundle branch block  \n+h/o C diff (s/p treatment with PO flagyl, currently on PO vanc)\n+H/o gastric ulcers\n+Hysterectomy\n+R wrist fracture\n+R hip fracture\n+Hemorrhoids\n",
+    "input4": "Brother had cardiomyopathy and died, unclear etiology. Otherwise no history of early cardiac death or MI\n",
+    "input5": "ADMISSION PHYSICAL EXAM\nVS: T 98.0, HR 82, BP 99/58 (67), 99% RA, RR 18 \nGeneral: A+Ox3, NAD \nHEENT: PERRL, EOMI, dry MM, normal oropharynx \nNeck: no JVP \nCV: RRR, normal S1 and S2, +S3, ___ systolic murmur at apex, dressing over pacemaker site  \nLungs: clear anteriorly \nAbdomen: soft nontender, normal bowels ounds   \nExt: trace to 1+ pitting edema bilateral lower extremities \nNeuro: CNII-XII grossly intact, moving extremities spontaneously \n\nSkin: warm to touch \nPULSES: 2+ ___ pulses\n",
+    "input6": "ADMISSION LABS\n\n___ 11:45AM BLOOD WBC-4.4 RBC-3.55* Hgb-11.7* Hct-32.3* MCV-91 MCH-33.1* MCHC-36.4* RDW-13.8 Plt ___\n___ 11:45AM BLOOD ___ PTT-29.6 ___\n___ 11:45AM BLOOD Glucose-117* UreaN-16 Creat-1.2* Na-141 K-3.1* Cl-101 HCO3-28 AnGap-15\n___ 08:45PM BLOOD Calcium-8.7 Phos-4.4# Mg-1.8\n\n==============\nIMAGING\n==============\nTTE ___\nFOCUSED STUDY/LIMITED VIEWS: The left ventricular cavity is dilated. Overall left ventricular systolic function is severely depressed (LVEF<20 %). with normal free wall contractility. The mitral valve leaflets are mildly thickened. Trivial mitral regurgitation is seen. There is a trivial/physiologic pericardial effusion. \n\nCompared with the prior study (images reviewed), the comparable findings are similar. \n\nCXR ___ \n  \nINDICATION:  Biventricular pacemaker placement.  Rule out pneumothorax. \n  \nCOMPARISON:  Chest radiograph. \n  \nAs compared to the previous radiograph, there is now status post placement of a biventricular pacemaker.  The leads terminate in the right atrium, right ventricle and coronary sinus.  There is no evidence of a pneumothorax. \n\nCXR ___\nCHEST RADIOGRAPH. \n  \nINDICATION:  Status post biventricular pacemaker, confirm lead position. \n  \nCOMPARISON:  Portable chest radiograph. \n  \nFINDINGS:  As compared to the previous radiograph, the leads are unchanged in position.  No evidence of lead fracture or complications.  Better seen on the lateral radiograph are bilateral pleural effusions that are not evident on the frontal film.  Borderline size of the cardiac silhouette without pulmonary edema.  No pneumothorax.\n"
+}

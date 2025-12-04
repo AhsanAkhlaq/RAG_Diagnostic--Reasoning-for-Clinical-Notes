@@ -1,0 +1,38 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "Tysabri is a drug used to treat multiple sclerosis, and the patient had been taking it, suggesting that she may have a history of multiple sclerosis.$Cause_1": {
+            "on tysabri last year$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "There is a new enhancement focus at the junction of the right temporal lobe and midbrain. This new focus may represent a new lesion in multiple sclerosis.$Cause_1": {
+                "new enhancing lesion at the right temporal lobe and junction to the midbrain$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "These are common symptoms of Multiple Sclerosis and may be related to optic neuritis$Cause_1": {
+                    "blurred vision with diplopia$Input2": {}
+                },
+                "The patient's symptoms began with headaches and \"fuzzy\" vision in his right eye, which may be a manifestation of optic neuritis.$Cause_1": {
+                    "symptoms began with a headache and right eye \"cloudy\" vision$Input2": {}
+                },
+                "Horizontal double vision, which is also a possible symptom of multiple sclerosis$Cause_1": {
+                    "side by  side double vision$Input2": {}
+                },
+                "Blurred vision extended to the left eye, suggesting further damage to the optic nerve, consistent with symptoms of multiple sclerosis.$Cause_1": {
+                    "Over the next day the cloudy vision spread to her left eye.$Input2": {}
+                },
+                "Right relative pupillary conduction defect (RAPD) is a symptom associated with optic nerve dysfunction that is common in multiple sclerosis.$Cause_1": {
+                    "Right RAPD, brisk reactive.  VFF to confrontation$Input5": {}
+                },
+                "The DTR was low on the left side and normal on the right side, which may suggest abnormalities in the central nervous system, as may occur in multiple sclerosis.$Cause_1": {
+                    "DTRs:\nBi Tri Pat Ach\nL  1  1    1    1   0\nR  2  2    2    2   0$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "The pt presented with a one week history of blurred vision with diplopia. She states that her symptoms began with a headache and right eye \"cloudy\" vision. Shortly after she started to also developed side by  side double vision. Over the next day the cloudy vision spread to her left eye. Since it has not improved she decided to come to the ED. She was on tysabri last year but has since been off it in hopes of getting pregnant. She has no other symptoms at this time including numbness, tingling, fever, chills, nausea, vertigo, or weakness.\n",
+    "input3": "Headaches/migraine\n",
+    "input4": "No hx of neurological disorders - Mom has thyroid disease.\n",
+    "input5": "Physical Exam:\nVitals: 97.4 72 104/59 16 100% RA \nGeneral: Awake, cooperative, NAD.\nHEENT: MMM.\nNeck:  No nuchal rigidity\nPulmonary: Lungs CTA bilaterally \nCardiac: RRR, nl. S1S2 \nAbdomen: soft, NT/ND.\nExtremities: No edema or deformities.\nSkin: no rashes or lesions noted.\n\ufeff\nNeurologic:\n-Mental Status: Alert, oriented x 3.  Able to relate history without difficulty.  Attentive, able to name backward without difficulty.  Language is fluent with intact repetition and comprehension.   There were no paraphasic errors. Speech was notdysarthric. Able to follow both midline and appendicular commands.  There was no evidence of apraxia or neglect.\n\ufeff\n-Cranial Nerves:\nI: Olfaction not tested.\nII: Right RAPD, brisk reactive.  VFF to confrontation.Funduscopic limited. : Left R\nIII, IV, VI: EOMI without nystagmus.  Normal saccades. no skewseen\nV: Facial sensation intact to light touch.\nVII: No facial droop, facial musculature symmetric.\nVIII: Hearing intact to finger-rub bilaterally.\nIX, X: Palate elevates symmetrically.\nXI: Strength in trapezii and SCM bilaterally.\nXII: Tongue protrudes in midline.\n\ufeff\n-Motor: Normal bulk, tone throughout. No pronator drift bilaterally. No  tremor, asterixis noted. Strength is full bilaterally in upper and lower extremities in proximal and distal muscles.\n\ufeff\n-Sensory: No deficits to light touch. No extinction to DSS.\n\ufeff\n-DTRs:\nBi Tri Pat Ach\nL  1  1    1    1   0\nR  2  2    2    2   0\nPlantar response was flexor bilaterally.\n\ufeff\n-Coordination: No intention tremor, no dysdiadochokinesia noted. No dysmetria on FNF  bilaterally.\n\ufeff\n-Gait: Good initiation. Narrow-based.\n",
+    "input6": "___ 11:10AM   WBC-6.3 RBC-4.25 HGB-12.9 HCT-38.2 MCV-90 MCH-30.3 MCHC-33.7 RDW-12.1\n___ 11:10AM   PLT COUNT-266\n___ 11:10AM   NEUTS-63.3 MONOS-4.2 EOS-1.1 BASOS-0.7\n___ 11:10AM   CALCIUM-9.1 PHOSPHATE-2.9 MAGNESIUM-2.0\n___ 11:10AM   GLUCOSE-94 UREA N-9 CREAT-0.5 SODIUM-139 POTASSIUM-4.2 CHLORIDE-106 TOTAL CO2-28 ANION GAP-9\n\ufeff\nMRI Brain\nnew enhancing lesion at the right temporal lobe and junction to the midbrain. Previously enhancing left parietal white matter lesion less prominent and no longer enhancing. Stable appearance of other scattered periventricular white matter and subcortical white matter lesions.\n\ufeff\n"
+}

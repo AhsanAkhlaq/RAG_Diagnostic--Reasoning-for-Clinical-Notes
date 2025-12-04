@@ -1,0 +1,54 @@
+{
+    "Ischemic Stroke$Intermedia_3": {
+        "Severe arterial narrowing and blockage are direct risk factors for stroke because they can lead to reduced blood flow to the brain, potentially leading to infarction$Cause_1": {
+            "near-complete occlusion of the right PCA (as well as moderate stenosis of the  distal right M2 and distal right CCA)$Input2": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "Stroke may cause dizziness$Cause_1": {
+                "dizziness$Input1": {}
+            },
+            "Stroke can cause visual field loss$Cause_1": {
+                "visual field defects$Input1": {}
+            },
+            "Loss of vision due to stroke$Cause_1": {
+                "residual left superior temporal quadrantanopia$Input2": {}
+            },
+            "Affects the visual field on the same side of both eyes, often associated with strokes that affect the occipital lobe or other brain areas that process visual input$Cause_1": {
+                "admission neuro exam notable for left homonymous hemianopia$Input2": {}
+            },
+            "It may be linked to brain abnormalities caused by stroke$Cause_1": {
+                "vertigo and \"shadow-like\" hallucinations$Input2": {}
+            },
+            "Previous stroke significantly increases risk of subsequent stroke$Cause_1": {
+                "PCA territory infarct$Input2": {}
+            },
+            "Diabetes may increase the risk of stroke$Cause_1": {
+                "A1c 5.8%$Input2": {}
+            },
+            "Any level of LDL cholesterol may increase the risk of stroke$Cause_1": {
+                "LDL 60$Input2": {}
+            },
+            "High blood pressure is a major risk factor for stroke$Cause_1": {
+                "HYPERTENSION$Input3": {}
+            },
+            "clear symptoms of stroke$Cause_1": {
+                "R PCA TERRITORY INFARCT (chronic R PCA occlusion)$Input3": {}
+            },
+            "Is a loss of visual field that is common in damage to certain areas of the brain after a stroke$Cause_1": {
+                "VF with left homonymous hemianopia$Input5": {}
+            },
+            "The presence of non-fatigue horizontal nystagmus indicates impairment of brainstem or cerebellar function and is sometimes seen in stroke patients.$Cause_1": {
+                "EOMI, non-fatiguable horizontal nystagmus on left gaze, fast phase to left$Input5": {}
+            },
+            "High blood pressure, an important risk factor for stroke$Cause_1": {
+                "167/84$Input5": {}
+            }
+        }
+    },
+    "input1": "dizziness, visual field defects\n",
+    "input2": "female with right PCA territory infarct with residual left superior temporal quadrantanopia, dementia and anxiety who presents with acute worsening of her chronic dizziness.\n\ufeff\nHistory obtained with aid of interpreter, but is limited given tangential thought content and significant anxiety. Other history obtained from chart review.\n\ufeff\nPatient was hospitalized after presenting with vertigo and \"shadow-like\" hallucinations and was found to have near-complete occlusion of the right PCA (as well as moderate stenosis of the  distal right M2 and distal right CCA) complicated by acute right PCA territory infarcts (right occipital lone, posterior temporal lobe) with admission neuro exam notable for left homonymous hemianopia but residual deficits were only a left superior temporal quadrantanopia.Work-up at that time, no thrombus. A1c 5.8% and LDL 60.  she was ordered for cardiac monitoring and Rx aspirin 81 mg daily in addition to her atorvastatin 20 mg daily.\nSince her discharge she has had chronic dizziness (lasting the whole day with some lightheaded sensation, blurred vision) and vertigo at times (seems to come when lying down and resting). \nShe reported that her dizziness was worsened by taking all of her medications including her aspirin, losartan, amlodipine and memantine. In the meantime, her PCP reportedly told her to stop taking her losartan given dizziness. \n\ufeff\nShe saw Dr.  who recommended cardiac monitoring because she had not had this done, encouraged aspirin compliance and recommended stopping memantine given ongoing dizziness. \n\ufeff\nShe then presented to the ED for ongoing dizziness and anxiety at which time she had unremarkable labs, utox, stox. Psych consulted and recommended melatonin and trazodone. Neurology was not consulted. She was scheduled to follow-up with her PCP for evaluation of her dizziness. \n\ufeff\nshe has had continued dizziness which is worsened by trazodone. She has had ongoing insomnia and has not been able to sleep except for a few hours at time. She reports a lot of anxiety regarding sleep and her health problems. \"Please do not give me more bad news\". She reports that all of her problems started when she learned her daughter was moving back to japan five months ago and \"I have cried everyday since then\". \n\ufeff\nSeveral days ago she felt that her aspirin was making he extremely anxious so she stopped taking it (has not taken. She went to bed around 11p last night and then woke up at 3:00A feeling very anxious (this is typical for her). However, she noticed that in addition to her usual dizziness, she felt a sensation of spinning and it looked like the pictures on the wall were moving. She had no speech problems, weakness or sensory problems but did feel off balance when walking. She did not fall to a particular side but did feel she had to grab onto the chair to walk. \n\ufeff\nOtherwise, she has had several days of poor appetite. She was also constipated for several days and then took Mylanta yesterday which subsequently made her have two episodes of emesis. She denies fevers, chills, dysuria, abdominal pain, cough or other infectious symptoms. \n \nROS: On further neurologic review of systems, patient has chronic hearing loss (left ear). She denies headaches. Denies difficulty with producing or comprehending speech. Denies dysarthria, or dysphagia. Denies focal muscle weakness, numbness, parasthesia. Denies loss of sensation. Denies bladder incontinence or retention. \n\ufeff\nOn general review of systems, the patient denies fevers, rigors, night sweats, or noticeable weight loss. Denies chest pain, palpitations, dyspnea, or cough.  No recent change in bladder habits.  Denies dysuria or hematuria. Denies myalgias, arthralgias, or rash.\n",
+    "input3": "+ HYPERTENSION\n+ ANXIETY\n+ VERTIGO                                                         \n+ LOW BACK PAIN                                                   \n+ BILATERAL KNEE OSTEOARTHRITIS S/P BILATERAL REPLACEMENTS\n+ R PCA TERRITORY INFARCT (chronic R PCA occlusion)\n",
+    "input4": "No family history of stroke or other neurological conditions that she is able to recall.\n",
+    "input5": "ADMISSION PHYSICAL EXAM:\nVitals:  98.3 70 167/84 18 99% RA , negative orthostats\nGeneral: Pleasant older lady; tearful at times and then other times extremely complimentary and comfortable\nHEENT: NCAT,  no oropharyngeal lesions, neck supple\nPulmonary: CTAB, no crackles or wheezes\nAbdomen: Soft, NT, ND, +BS, no guarding\nExtremities: Warm, no edema\nPsych: mood is \"okay, anxious\", affect- labile (went from laughing and smiling to then tearful when discussing her daughter moving to someplace and slove her health problems) \n\ufeff\nNeurologic Examination:\n- Mental status: Awake, alert, oriented to person, and situation. Able to relate some of history but does perseverate with tangential thought process. Attentive, able to name MOW backward with some delay. Speech is fluent with full sentences, intact repetition, and intact verbal comprehension. Naming intact.  No dysarthria. Normal prosody. Able to register 3 objects and recall at 5 minutes ( No evidence of hemineglect. No left-right confusion. Able to follow both midline and appendicular commands.\n\ufeff\n- Cranial Nerves: PERRL 3->2 brisk, post surgical bilaterally. \nVF with left homonymous hemianopia (she will give an answer for digit counting but consistently gets this wrong on the left side only and seems like she is guessing; definite field cut to finger wiggle). EOMI, non-fatiguable horizontal nystagmus on left gaze, fast phase to left. V1-V3 without deficits to light touch bilaterally. No facial movement asymmetry. Hearing diminished on left to finger rub. Palate elevation symmetric. SCM/Trapezius strength bilaterally. Tongue midline.\n*Negative\n\ufeff\n- Motor:  Normal bulk and tone. No drift. No tremor or asterixis.\n\ufeff\n  \n- Reflexes: \n[Bic] [Tri] [xx] [Quad] [Gastroc]\nL  2+    2+     2+      2+       1\nR  2+    2+     2+      2+       1  \n\ufeff\nPlantar response flexor bilaterally \n\ufeff\n- Sensory: No deficits to light touch, pin, or proprioception bilaterally.  No extinction to DSS.\n\ufeff\n- Coordination: No dysmetria with finger to nose testing bilaterally. Good speed and intact cadence with rapid alternating movements.\n\ufeff\n- Gait: Apprehensive but narrow base and stride. Normal arm swing. Stable without sway. Negative Romberg.\n",
+    "input6": "ADMISSION LABS\n11:23AM   WBC-6.0 RBC-4.20 HGB-12.8 HCT-38.2 MCV-91 MCH-30.5 MCHC-33.5 RDW-12.9 RDWSD-42.9\n11:23AM   ALT(SGPT)-16 AST(SGOT)-28 ALK PHOS-123* TOT BILI-0.3\n11:23AM   GLUCOSE-103* UREA N-8 CREAT-0.7 SODIUM-136 POTASSIUM-4.5 CHLORIDE-98 TOTAL CO2-22 ANION GAP-16\n"
+}

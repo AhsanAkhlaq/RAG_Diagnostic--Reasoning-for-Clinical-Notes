@@ -1,0 +1,27 @@
+{
+    "upper gastrointestinal bleeding$Intermedia_3": {
+        "Fundal varices bleeding on gastroscopy is the gold standard for upper gastrointestinal bleeding$Cause_1": {
+            "Gastroscopy: fundal varices bleeding$Input6": {}
+        },
+        "Suspected upper gastrointestinal bleeding$Intermedia_2": {
+            "Black stool is a typical manifestation of gastrointestinal bleeding$Cause_1": {
+                "She says that starting around midnight, she began having loose black stools.$Input2": {}
+            },
+            "There will be dizziness after bleeding$Cause_1": {
+                "She had some mild lightheadedness before coming to the ED$Input2": {}
+            },
+            "Black stool in rectum - guaiac positive is the evidence of blood in the stool$Cause_1": {
+                "black stool in rectum - guaiac positive$Input2": {}
+            },
+            "!Black stool is a typical manifestation of gastrointestinal bleeding$Cause_1": {
+                "Black stools$Input1": {}
+            }
+        }
+    },
+    "input1": "Black stools\n",
+    "input2": "A woman with HTN, moderate aortic stenosis, diverticulosis, osteoporosis presenting after multiple episodes of black stools. She says that starting around midnight, she began having loose black stools. No bright red blood, which she has had in the past from diverticulosis. She had some mild lightheadedness before coming to the ED, but has none now. She had the sense of urgency with the BMs, but no abdominal pain, no nausea or vomiting. No chest pain, no SOB. She denies NSAID use or alcohol use. She takes iron supplements but denies having black stools while on iron. She last took alendronate in for her osteoporosis. She reports one medication change recently involving an anti-hypertensive medication of which she cannot recall. She denies sick contacts or recent travel. She only takes Tylenol extra strength for pain relief. Of note, she was admitted in for BRBPR requiring coil embolization across marginal branch of the left colic artery. In the ED, initial vitals were: 97.6 110 183/72 16 100% RA - Exam notable for: comfortable, NAD, systolic murmur throughout precordium, clear lungs, abdomen nontender/nondistended/soft, black stool in rectum - guaiac positive.\n",
+    "input3": "+Hypertension, essential  \n+Hypercholesterolemia  \n+CKD (chronic kidney disease) stage 3: Cr 0.8-1.1\n+Aortic valve stenosis, moderate  \n+Hyperthyroidism  \n+Anemia  \n+Osteoarthritis  \n+Osteopenia  \n+Primary open angle glaucoma  \n+Hx Lower GI bleed  \n+Hx Endometrial polyp  \n+Hx Acetabulum fracture, right  \n+Hx Pelvis fracture  \n+Hx Diverticulitis  \n+Hx Positive PPD\n",
+    "input4": "No family history of GI illness or malignancy. Mother w/ stroke. Brother w/ prostate cancer\n",
+    "input5": "VITAL SIGNS: T98F, BP 165/78, HR 70, O2 96% RA\nGENERAL: Well appearing woman appearing younger than stated age\nHEENT: EOMI, PERRL, MMM, sclera anicteric\nCARDIAC: RRR, Normal S1/S2, w/ IV/VI systolic murmur loudest in \nRUSB, no rubs/gallops\nLUNGS: CTA b/l w/o w/r/r\nABDOMEN: Soft, NT, ND \nEXTREMITIES: 2+ DP/radial pulses, no edema \nNEUROLOGIC: Alert and attentive, moving all extremities, no nystagmus,\n",
+    "input6": "04:10AM BLOOD WBC-5.7 RBC-3.80* Hgb-10.6* Hct-34.1 MCV-90 MCH-27.9 MCHC-31.1* RDW-12.9 RDWSD-41.9 Plt\n04:10AM BLOOD PTT-29.8\n04:10AM BLOOD Glucose-126* UreaN-25* Creat-1.2* Na-137 K-6.2* Cl-100 HCO3-24 AnGap-19\n04:10AM BLOOD Calcium-9.3 Phos-4.6* Mg-1.4*\n06:31AM BLOOD K-4.2\n06:31AM BLOOD Hgb-10.6* calcHCT-32\nGastroscopy: fundal varices bleeding\n"
+}

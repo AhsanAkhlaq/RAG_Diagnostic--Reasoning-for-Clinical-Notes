@@ -1,0 +1,38 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "This is the support for Low-risk PE$Cause_1": {
+            "The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "CT scan revealed pulmonary embolism in the right middle and lower lobes$Cause_1": {
+                "CT scan was done due to her pleuritic chest pain and she was found to have a right middle and lower lobe PE.$Input2": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Chest pain is a common symptom of PE$Cause_1": {
+                    "Pleuritic chest pain$Input1": {}
+                },
+                "Pleuritic chest pain is usually caused by irritation of the pleura, which may be caused by pleural inflammation due to pulmonary embolism.$Cause_1": {
+                    "Initially noticed pain on right side, pleuritic in nature$Input2": {}
+                },
+                "Pain associated with breathing is one of the common symptoms of pulmonary embolism$Cause_1": {
+                    "discomfort both with breathing and without taking deep breaths$Input2": {}
+                },
+                "Chest pain that worsens when lying down may be related to changes in pressure on the lungs, which may be related to the location and impact of the pulmonary embolism.$Cause_1": {
+                    "pain was worse with lying down and with inspiration$Input2": {}
+                },
+                "Pleural effusions and pulmonary infiltrates may indicate further damage or inflammation of the lung tissue$Cause_1": {
+                    "a CXR that showed a small pleural effusion on the right$Input2": {}
+                },
+                "Pulmonary embolism may lead to reduced oxygen exchange efficiency, which may affect exercise endurance and cause muscle soreness.$Cause_1": {
+                    "decreased exercise tolerance in the past few weeks while running, and a few myalgias$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "Pleuritic chest pain\n",
+    "input2": "Healthy woman, physical therapist here. Initially noticed pain on right side, pleuritic in nature, 5 days ago.  Got worse over next few days, with discomfort both with breathing and without taking deep breaths.  She is a marathon runner, and ran most recently in the middle of last week.  She had no shortness of breath.  The pain was worse with lying down and with inspiration.  Pain is not relieved with motrin.\n.\nShe saw a PCP coverage last week, and had a CXR that showed a small pleural effusion on the right.  The pain persisted and worsened, and she presented for further care for a follow up visit to her PCP.  A repeat CXR was done which showed worsening effusion, and question of right lung infiltrate.  A CT scan was done due to her pleuritic chest pain and she was found to have a right middle and lower lobe PE.  She was sent to the ED for evaluation.\n.\nShe has noticed decreased exercise tolerance in the past few weeks while running, and a few myalgias.  She had no lower extremity edema, pain or swelling.  No recent travel.  No dizziness, headache, abdominal complaints.  \n.\nROS otherwise reviewed in detail and negative.\n.\nIn the ED, she was started on a heparin drip, and admitted for further care.\n",
+    "input3": "None\n",
+    "input4": "No family history of coagulopathy, clot, malignancy, as far as she know.\n",
+    "input5": "Physical Exam:\nExam\nVS   T current 99.0    BP  120/77    HR  72    RR 18   100%     \nO2sat\n \nGen:  In NAD.\nHEENT:  PERRL, EOMI.  No scleral icterus.  No conjunctival \ninjection.   Mucous membranes moist.  No oral ulcers.\nNeck:  Supple, no LAD, no JVP elevation.\nLungs: CTA bilaterally, no wheezes, rales, rhonchi.  Normal respiratory effort.\nCV:  RRR, no murmurs, rubs, gallops.\nBreasts:  Fibrocystic changes diffusely, no LAD.\nAbdomen:  soft, NT, ND, NABS, no HSM.\nExtremities:  warm and well perfused, no cyanosis, clubbing, \nedema.  No inguinal lymphadenopathy.  No cords\nNeurological:  alert and oriented X 3, CN II-XII intact. \nSkin:  No rashes or ulcers.\nPsychiatric:  Appropriate.\nGU:  deferred.\nRectal: guaic negative per ED.\n\ufeff\n",
+    "input6": "GLUCOSE-90 UREA N-8 CREAT-0.7 SODIUM-139 POTASSIUM-4.3 \nCHLORIDE-104 TOTAL CO2-26 ANION GAP-13\n.\nWBC-7.1 RBC-4.01* HGB-13.1 HCT-37.1 MCV-92 MCH-32.6* MCHC-35.2* \nRDW-12.7 PLT COUNT-233\nNEUTS-80.7* BANDS-0 LYMPHS-14.3* MONOS-3.7 EOS-0.7 BASOS-0.6\n.\n___ PTT-21.2*\n\nThe patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels\n\n\n\ufeff\n"
+}

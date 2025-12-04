@@ -1,0 +1,70 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The right atrium is moderately dilated$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "proBNP \u2265 125 pg/mL is a criteria of strong suspected HF$Cause_1": {
+                    "proBNP-1669$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Lower extreme edema is a common symptom of fluid retention in patients with heart failure.$Cause_1": {
+                        "lower extremity edema$Input1": {}
+                    },
+                    "Shortness of breath, especially activity related, is a common symptom of heart failure.$Cause_1": {
+                        "shortness of breath worse with exertion$Input2": {}
+                    },
+                    "Chest pressure is a common symptom of heart failure. It is usually one of the manifestations of difficulty breathing.$Cause_1": {
+                        "chest pressure$Input1": {}
+                    },
+                    "Abdominal pain is an atypical symptom of heart failure.  In heart failure, its appearance usually represents possible occurrences such as abdominal fluid accumulation, indigestion, and damage to abdominal organs.$Cause_1": {
+                        "abdominal pain$Input1": {}
+                    },
+                    "Recent complex surgical history and pneumonia are common causes of heart failure.$Cause_1": {
+                        "His prior post-op course was complicated by development of pneumonia, from which he has been slowly recovering.$Input2": {}
+                    },
+                    "Atrial fibrillation (afib) is the cause and triggering factor of heart failure.$Cause_1": {
+                        "afib on coumadin$Input3": {}
+                    },
+                    "Asthma attacks may trigger heart failure. But it rarely triggers heart failure without an attack.$Cause_1": {
+                        "asthma$Input3": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "kidney insufficiency can induce heart failure.$Cause_1": {
+                        "L kidney insufficiency$Input3": {}
+                    },
+                    "Bradycardia is the cause and triggering factor of heart failure.$Cause_1": {
+                        "bradycardia$Input3": {}
+                    },
+                    "COPD may trigger heart failure.$Cause_1": {
+                        "COPD$Input3": {}
+                    },
+                    "Coronary artery disease (CAD) and coronary artery bypass grafting (CABG) are also risk factors for heart failure.$Cause_1": {
+                        "CAD s/p CABG$Input3": {}
+                    },
+                    "A history of myocardial infarction (MI) is the most common and important cause of heart failure.$Cause_1": {
+                        "Positive history of AAA, MI.$Input4": {}
+                    },
+                    "These suggest signs of manifestations of difficulty breathing in heart failure.$Cause_1": {
+                        "RESPIRATORY: Abnormal findings: reduced excursion, expiratory wheezing$Input5": {}
+                    },
+                    "\"irreg\" indicates arrhythmia, a possible trigger for heart failure.$Cause_1": {
+                        "CARDIOVASCULAR: Abnormal findings: irreg irreg, S1 and S2, pitting edema up to ankles$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Multiple complaints: lower extremity edema, shortness of breath,chest pressure, abdominal pain\n",
+    "input2": "M h/o AAA s/p EVAR and transcaval coil embolization\\ symptomatic type II endoleak.  Returns today from rehabilitation facility with shortness of breath a/w chest pain, abdominal pain, and new lower extremity pitting edema.  He c/o SOB at rest, worse with exertion, and abdominal pain that started the morning prior to this admission.  He complains that his abdomen is distended, tender, and he has not passed flatus or had a bowel movement today. and patient describes this as black, and formed, w/o frank blood.  His abdominal pain is generalized.  His lower extremities are \"swollen\" and per patient and his son, he has never before had an issue with lower extremity edema.\n\ufeff\nPrior to this most recent coil embolization, he has required multiple follow up interventions for his AAA including laparoscopic  ligation for type 2 endoleak, and endovascular repair with coil embolization of L internal iliac  artery and occlusion of bilateral internal iliac arteries with a  12x12cm graft. His prior post-op course was complicated by development of pneumonia, from which he has been slowly recovering.\n",
+    "input3": "+ afib on coumadin\n+ asthma\n+ HTN\n+ AAA s/p EVAR\n+ L kidney insufficiency\n+ bradycardia\n+ COPD\n+ CAD s/p CABG\n",
+    "input4": "Positive history of AAA, MI.\n",
+    "input5": "PHYSICAL EXAM ON ADMISSION\nPHYSICAL EXAM:         \n97.6 65 184/96 17 94%RA ___ pain\nGENERAL        \n[x] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:\nHEENT          \n[x] NC/AT   [x] EOMI   [x] PERRL/A   [x] Anicteric\n[x] OP/NP mucosa normal     [x] Tongue midline\n[x] Palate symmetric  [x] Neck supple/NT/without mass\n[x] Trachea midline [x] Thyroid nl size/contour\n[ ] Abnormal findings:\nRESPIRATORY    \n[ ] CTA/P     [ ] Excursion normal     [x] No fremitus\n[x] No egophony    [x] No spine/CVAT\n[x] Abnormal findings: reduced excursion, expiratory wheezing \nand rales bilateral posterior LFs\nCARDIOVASCULAR \n[ ] RRR    [x] No m/r/g  [x] PMI nl  [ ] No edema\n[x] Peripheral pulses nl    [x] No abd/carotid bruit\n[x] Abnormal findings: irreg irreg, S1 and S2, pitting edema up to ankles\nGI             \n[ ] Soft    [ ] NT   [ ] ND  [x] No mass/HSM\n[x] Abnormal findings: voluntary guarding, distended, tender to\ndeep palpation all four quadrants, tympanitic\nGU             [x] Deferred  \n[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE\n[ ] Abnormal findings:\nNEURO          \n[x] Strength intact/symmetric    [x] Sensation intact/ symmetric\n[x] Reflexes nl     [x] No facial asymmetry [x] Cognition intact\n[x] Cranial nerves intact   [ ] Abnormal findings:\nMS           \n[x] No clubbing   [x] No cyanosis   [x] No edema   [x] Gait nl\n[x] No tenderness  [x] Tone/align/ROM nl   [x] Palpation nl\n[x] Nails nl   [ ] Abnormal findings:\nLYMPH NODES   \n[x] Cervical nl      [x] Supraclavicular nl     [x] Axillary nl\n[x] Inguinal nl   [ ] Abnormal findings:\nSKIN           \n[x] No rashes/lesions/ulcers\n[x] No induration/nodules/tightening     [ ] Abnormal findings:\nPSYCHIATRIC    \n[x] Nl judgment/insight    [x] Nl memory   [x] Nl mood/affect\n[ ] Abnormal findings:\n",
+    "input6": "CBC:\n02:18AM BLOOD WBC-6.2 RBC-3.92* Hgb-11.2* Hct-35.5* \nMCV-91 MCH-28.5 MCHC-31.5 RDW-18.7*\n\ufeff\nChemistry:\n02:18AM BLOOD Glucose-102* UreaN-10 Creat-1.0 Na-133 K-4.6 Cl-97 HCO3-28 AnGap-13\n07:23AM BLOOD Glucose-93 UreaN-13 Creat-1.1 Na-131* K-4.0 Cl-94* HCO3-28 AnGap-13\n07:18AM BLOOD Glucose-86 UreaN-15 Creat-1.1 Na-134 K-4.0 Cl-95* HCO3-30 AnGap-13\n07:18AM BLOOD Calcium-8.7 Phos-3.0 Mg-2.0 proBNP-1669*\n\ufeff\nCardiac:\n08:31PM BLOOD CK-MB-3 cTropnT-<0.01\n11:30AM BLOOD CK-MB-3 cTropnT-<0.01\n02:18AM BLOOD CK-MB-3 cTropnT-<0.01\n\nThe right atrium is moderately dilated. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %) \n"
+}

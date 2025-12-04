@@ -1,0 +1,42 @@
+{
+    "Hemorrhagic Stroke$Intermedia_3": {
+        "The CT scan showed left ventricular hemorrhage and rightward shift of brain structures, which was direct imaging evidence of hemorrhagic stroke.$Cause_1": {
+            "NCHCT  showed a left BG IPH (4.6x3.0x4.7cm) and 6mm rightward shift$Input2": {}
+        },
+        "Intraparenchymal hemorrhage with a right-lateralized mass effect of 8.3 mm, direct evidence of hemorrhagic stroke$Cause_1": {
+            "CT head There is a 5.4 x 3.7 cm intraparenchymal hemorrhage in the left MCA territory with associated rightward mass effect of 8.3 mm.$Input6": {}
+        },
+        "MRI showed an intraparenchymal hematoma in the left basal ganglia region, which was stable in size compared with the previous day, indicating that the bleeding had occurred and may have been contained to some extent.$Cause_1": {
+            "Left basal ganglia intraparenchymal hematoma is stable in size compared to 1 day ago.$Input6": {}
+        },
+        "MRI also showed multiple foci of slowed diffusion in the left frontal and temporal regions surrounding the hematoma, which may represent acute to subacute infarction.$Cause_1": {
+            "Several scattered foci of slow diffusion in the left frontal and temporal regions surrounding the hematoma are concerning for acute to subacute infarcts.$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "One side of weakness is a common symptom of stroke$Cause_1": {
+                "right sided weakness$Input1": {}
+            },
+            "A stroke usually causes weakness or paralysis on one side of the body.$Cause_1": {
+                "right sided arm and leg weakness$Input2": {}
+            },
+            "Hypertension is a major risk factor for hemorrhagic stroke$Cause_1": {
+                "BP 200/120$Input2": {}
+            },
+            "Facial drooping is a common symptom of stroke$Cause_1": {
+                "right sided facial droop$Input2": {}
+            },
+            "Hypertension is a major risk factor for hemorrhagic stroke,$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "The patient was intubated and sedated, indicating that he was seriously ill and needed mechanical ventilation to support his breathing. This is common in severe hemorrhagic strokes, especially when the stroke affects vital areas such as the brainstem.$Cause_1": {
+                "intubated, sedated$Input5": {}
+            }
+        }
+    },
+    "input1": "right sided weakness\n",
+    "input2": " EU Critical ___ aka ___ DOB ___ is a ___ man  who was feeling unwell this morning. He went to take a shower, and just after taking his shower he was found to have right sided arm and leg weakness. He was still able to speak at the time. Wife called EMS, and pt was brought to ___. On arrival, BP 200/120 with right sided facial droop and right sided weakness. Blood sugar normal at 102. NCHCT  showed a left BG IPH (4.6x3.0x4.7cm) and 6mm rightward shift. He was intubated for airway protection and transferred to ___ for higher level of care. Also received keppra for seizure prophylaxis. \n",
+    "input3": "Hypertension\nendocarditis ___ years ago\n",
+    "input4": "no history of stroke\n",
+    "input5": "___: intubated, sedated\nHEENT: NT, NC, No scleral icterus noted, ETT and OGT in place  \nNeck: supple, No JVD noted  \nCV: RRR, normal S1, S2, no M/R/G noted  \nLungs: diminished at bases  \nAbdomen: soft, NT, ND, BS+, no masses or organomegaly noted.  \nGU: foley in place, deferred  \nExt: No cyanosis, clubbing or edema bilaterally  \nSkin: no rashes or lesions noted. \n\nNeuro: (off propofol)\nMS- Minimal EO to voice (with assistance of family), does not follow commands.\nCN- Pupils equal and reactive 3-2mm, + corneals bilat, + gag, + cough, unable to adequately assess EOM, no clear facial droop, although ETT obscuring. Tongue appears midline. \nMotor-  \nLUE: moves purposefully, strongly antigravity\nRUE: brief extension to noxious stimuli \nLLE: moves antigravity spontaneously\nRLE: Triple flexion\nPlantar response is upgoing on the right, and down on the left\n\n- Reflexes: \n    [Bic] [Tri] [___] [Quad] [Gastroc]\n  L  2+    2+     2+      2+       1\n  R  3+    3+     3+      3+       2  \nPlantar response upgoing on right, down on left\n- Coordination: unable to assess\n- Gait: unable to assess\n",
+    "input6": "___ 04:25AM BLOOD WBC-6.8 RBC-3.40* Hgb-10.7* Hct-32.5* MCV-96 MCH-31.5 MCHC-32.9 RDW-12.9 RDWSD-45.1 Plt ___\n___ 12:00AM BLOOD WBC-8.0 RBC-3.36* Hgb-10.5* Hct-32.4* MCV-96 MCH-31.3 MCHC-32.4 RDW-13.1 RDWSD-45.7 Plt ___\n___ 04:25AM BLOOD Plt ___\n___ 04:25AM BLOOD ___ PTT-43.8* ___\n___ 01:38PM BLOOD ___ 10:48AM BLOOD Na-150*\n\nIMAGING:\n========\n___ CTA head/neck at 15:23:\nCT head There is a 5.4 x 3.7 cm intraparenchymal hemorrhage in the left MCA territory with associated rightward mass effect of 8.3 mm.\n\n___nd head\nThere is no occlusion of any major intracranial and cervical vasculature Minimal irregularity of the bilateral MCA likely due to minimal atherosclerotic disease. There is no evidence of intracranial aneurysm greater than 3 mm.\n\n___ NCHCT\nThe ___ impression point should read no significant interval change in the left parenchymal hemorrhage with surrounding edema. Unchanged rightward midline shift. Persistent moderate effacement of the left lateral ventricle and 8 mm rightward midline shift. \n\n___ MRI Brain:\n1. Left basal ganglia intraparenchymal hematoma is stable in size compared to 1 day ago.  While no definite underlying mass is identified, mass is not excluded on the basis of this examination.  Recommend follow-up imaging to resolution. \n2. Several scattered foci of slow diffusion in the left frontal and temporal regions surrounding the hematoma are concerning for acute to subacute infarcts. \n3. Probable edema extension into left cerebral peduncle. \n4. Low lying cerebellar tonsils are similar to before. \n5. Paranasal sinus disease and nonspecific bilateral mastoid fluid, as described. \n\n"
+}

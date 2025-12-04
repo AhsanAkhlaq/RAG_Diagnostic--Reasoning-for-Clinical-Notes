@@ -1,0 +1,38 @@
+{
+    "Mild COPD$Intermedia_4": {
+        "FEV1 \u2265 80% confirm Mild COPD$Cause_1": {
+            "FEV1 84%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "FEV1/FVC < 0.7 confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC = 0.60.$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "SOB is the common symptom of COPD$Cause_1": {
+                    "Shorntess of breath$Input1": {}
+                },
+                "The patient had been experiencing shortness of breath and cough for five days. These symptoms may indicate that the patient's lung function is impaired and are common symptoms of COPD.$Cause_1": {
+                    "breath and cough x 5 days$Input2": {}
+                },
+                "The patient exhibited symptoms of an upper respiratory tract infection, including sneezing, coughing and white sputum, which are signs of COPD.$Cause_1": {
+                    "URI symptoms sneezing and coughing productive of white sputu$Input2": {}
+                },
+                "Tobacco use is a major risk factor for COPD$Cause_1": {
+                    "used to smoke half a pack a day$Input2": {}
+                },
+                "The patient's father has COPD. This is a symptom directly related to COPD, as COPD can run in families.$Cause_1": {
+                    "Father CHRONIC OBSTRUCTIVE PULMONARY DISEASE$Input4": {}
+                },
+                "The patient's respiratory system has scattered rales and wheezing. Rales are common in increased tracheal and bronchial secretions, while wheezing is a sign of airway narrowing, both of which are common symptoms of COPD.$Cause_1": {
+                    "diffuse rhonchi and wheezes$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Shorntess of breath\n",
+    "input2": "CC: breath and cough x 5 days\nHPI: presenting with URI symptoms sneezing and coughing productive of white sputum 5 days -. \"It felt like a plug\". No prior diagnosis of COPD or asthma, does not use home O2 or home inhalers. Received an albuterol neb in ambulance for O2 saturation of 88% on RA with improvement. No fever/chills, used to smoke half a pack a day but quit in the, no sick contacts. Endorses whole body myalgias as well.\n\ufeff\n",
+    "input3": "+ HTN\n+ Hypercholestrolemia\n+ DDD lumbar spine\n+ Diverticulosis\n+ IBS\n+ Alopecia\n+ Osteoarthritis\n+ GI Bleed\n+ Diverticulitis\n+ Osteopenia\n+ RA\n+ Syncope\n+ H/o bronchitis x 5\n+ Multiple joint replacement surgeries b/l shoulder, B/L TKR, L \n+ hip arthroplasty\n+ S/p appendectomy\n+ s/p CCY\n+ C4/C5 cervical spine\n",
+    "input4": "Mother and uncle with COLON CANCER \nFather CHRONIC OBSTRUCTIVE PULMONARY DISEASE  \nSister KNEE SURGERY  \nHer son died in a MVA\n",
+    "input5": "Vitals:  T 97.85 P  82 BP 152/79  RR 16  SaO2 97% on RA \nGEN: NAD, comfortable appearing  \nHEENT: ncat anicteric MMM  \nNECK:  supple\nCV: s1s2 rr no m/r/g- distant heart sounds  \nRESP: diffuse rhonchi and wheezes\nABD: +bs, soft, NT, ND, no guarding or rebound  \nEXTR:no c/c/e 2+pulses  \nDERM: no rash  \nNEURO: face symmetric speech fluent, she is a very good \nhistorian. \nPSYCH: calm, cooperative\n",
+    "input6": "02:20PM URINE  HOURS-RANDOM UREA N-357 CREAT-59 SODIUM-16 POTASSIUM-18 CHLORIDE-19\n02:20PM URINE  HOURS-RANDOM\n02:20PM URINE  OSMOLAL-231\n02:20PM URINE  GR HOLD-HOLD\n02:20PM URINE  COLOR-Yellow APPEAR-Hazy SP\n02:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR \nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-2* PH-7.0 LEUK-TR\n02:20PM URINE  RBC-1 WBC-3 BACTERIA-FEW YEAST-NONE \nEPI-0 TRANS EPI-<1\n02:20PM URINE  MUCOUS-RARE\n08:05AM   GLUCOSE-94 UREA N-8 CREAT-0.5 SODIUM-127* \nPOTASSIUM-3.8 CHLORIDE-91* TOTAL CO2-26 ANION GAP-14\n08:05AM   CALCIUM-9.3 PHOSPHATE-3.5 MAGNESIUM-1.7\n08:05AM   WBC-6.4 RBC-3.92 HGB-12.6 HCT-36.5 MCV-93 \nMCH-32.1* MCHC-34.5 RDW-12.5 RDWSD-42.3\n08:05AM   PLT COUNT-216\n09:30PM OTHER BODY FLUID  FluAPCR-NEGATIVE \nFluBPCR-NEGATIVE\n05:13PM   LACTATE-1.0 K+-4.6\n05:09PM   GLUCOSE-91 UREA N-8 CREAT-0.5 SODIUM-127* \nPOTASSIUM-5.3* CHLORIDE-88* TOTAL CO2-28 ANION GAP-16\n05:09PM   estGFR-Using this\n05:09PM   CALCIUM-9.1 PHOSPHATE-3.2 MAGNESIUM-2.0\n05:09PM   WBC-6.2 RBC-4.12 HGB-13.1 HCT-38.3 MCV-93 \nMCH-31.8# MCHC-34.2 RDW-12.5 RDWSD-42.6\nBASOS-0.5 AbsNeut-3.06 AbsLymp-2.14 AbsMono-0.80 \nAbsEos-0.09 AbsBaso-0.03\n05:09PM   PLT COUNT-232\n===========================\nECG: SR at 85 bpm.\n===============\nCXR:  Images reviewed by author\nIMPRESSION:  \n1. No focal consolidation concerning for pneumonia. \n=======================  \n\ufeff\nPost-bronchodilator FEV1/FVC = 0.60.\nFEV1 84%\n"
+}

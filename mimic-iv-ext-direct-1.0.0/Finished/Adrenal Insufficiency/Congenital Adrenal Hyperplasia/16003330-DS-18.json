@@ -1,0 +1,33 @@
+{
+    "Congenital Adrenal Hyperplasia$Intermedia_3": {
+        "Low cortisol levels and unresponsiveness to ACTH stimulation are typical biochemical features of CAH and indicate adrenocortical insufficiency.$Cause_1": {
+            "found to have significantly low cortisol with no response to ACTH stimulation testing.$Input6": {}
+        },
+        "Suspected Adrenal Insufficiency$Intermedia_2": {
+            "Abnormalities in adrenal hormones may affect the water and electrolyte balance in the body, causing dizziness$Cause_1": {
+                "Lightheadedness$Input1": {}
+            },
+            "This describes a symptom of positional hypotension, which is dizziness caused by a drop in blood pressure when standing. Lower overall blood pressure, possibly due to adrenal insufficiency$Cause_1": {
+                "over the past 3 months he has had intermittent lightheadedness occurring a few seconds after hestands up and starts walking.$Input2": {}
+            },
+            "This can be caused by a temporary lack of blood flow to the brain and is often associated with low blood pressure. Sustained hypotension may occur due to insufficient cortisol, which may indirectly cause similar symptoms.$Cause_1": {
+                "It lasts for a second and he has associated vision changes, described as vision \"going black\"$Input2": {}
+            },
+            "A lack of cortisol may lead to changes in metabolic rate, causing weight loss$Cause_1": {
+                "he reports a 20 pound weight loss over the past 12 months that was unintentional.$Input2": {}
+            },
+            "Hypotension can be a direct manifestation of adrenocortical hormone deficiency$Cause_1": {
+                "was found to be hypotensive$Input2": {}
+            },
+            "Low sodium value is a direct manifestation of insufficient adrenocortical hormones$Cause_1": {
+                "Na-130*$Input6": {}
+            }
+        }
+    },
+    "input1": "Lightheadedness\n",
+    "input2": "He is a 45 male with PMH notable for being ahemochromatosis carrier, who presents with lightheadedness.Patient states that over the past 3 months he has had intermittent lightheadedness occurring a few seconds after hestands up and starts walking. It lasts for a second and he has associated vision changes, described as vision \"going black\". The vision changes then resolves completely. He has not syncopized during this time he has no chest pain, shortness of breath, or abdominal pain. He endorses associated nausea but deniesvomiting. Denies family history of sudden cardiac death. \n\nAdditionally, he reports a 20 pound weight loss over the past 12 months that was unintentional. He denies cough, night sweats, history of incarceration, hemoptysis, recent travel, or lower extremity swelling. \n\nHe was seen by his primary care doctor multiple times and has follow-up with a cardiologist. He went back to his primary care doctor today prior to presentation and was found to be hypotensive, which prompted his referral to the emergency department.    \n",
+    "input3": "Hemochromatosis carrier\n",
+    "input4": "great-grandfather - colon cancer\ngrandfather - CAD s/p CABG\nPaternal uncle - heart transplant (unsure why)\nMaternal aunt/grandmother - breast cancer\nMaternal aunt - pancreatic cancer\n",
+    "input5": "VITALS: T 98.2 BP 113/62 HR 73 RR 14 O2 100% RA \nGENERAL: Well-appearing, well-groomed young man, restingcomfortably in bed, in NAD\nHEENT: NC/AT, EOMI, PERRL, anicteric sclera, MMM\nNECK: Supple, no JVD\nHEART: RRR, normal S1/S2, no m/r/g\nLUNGS: CTAB, breathing comfortably on RA without use of accessory mm, no wheezes/rhonci/rales\nABDOMEN: Soft, non-tender, non-distended, active bowel sounds, noorganomegaly\nGU: Testicles without edema or palpable masses, no inguinallympahdenopahy, no penile discharge\nEXTREMITIES: No c/c/e\nSKIN: Warm, well-perfused, no ___\nNEURO: Alert, oriented x3, CN II-XII intact, ___ strength in b/l upper and lower extremities, normal sensation \n\n",
+    "input6": "___ 12:12AM BLOOD WBC-7.2 RBC-4.46* Hgb-13.1* Hct-38.0* MCV-85 MCH-29.4 MCHC-34.5 RDW-12.5 RDWSD-38.4 Plt ___\n___ 12:12AM BLOOD Neuts-41.3 ___ Monos-7.3 Eos-2.5 Baso-0.7 Im ___ AbsNeut-2.98 AbsLymp-3.47 AbsMono-0.53 AbsEos-0.18 AbsBaso-0.05\n___ 06:05AM BLOOD Hypochr-NORMAL Anisocy-NORMAL Poiklo-1+* Macrocy-NORMAL Microcy-NORMAL Polychr-OCCASIONAL Ovalocy-OCCASIONAL\n___ 12:12AM BLOOD Plt ___\n___ 12:12AM BLOOD Glucose-99 UreaN-26* Creat-0.9 Na-130* K-4.9 Cl-97 HCO3-27 AnGap-6*\n___ 12:12AM BLOOD ALT-66* AST-58* AlkPhos-66 TotBili-0.5\n___ 12:12AM BLOOD Albumin-4.2 Calcium-9.6 Phos-5.2* Mg-1.6\n\nIMAGING\n==========================\nCXR ___\nIMPRESSION:  \nNo acute cardiopulmonary process. \n\nRUQUS ___\nIMPRESSION: \n1. No cholelithiasis or sonographic evidence of acute cholecystitis. \n2. No evidence of hepatic lesion. \n3. Mild splenomegaly measuring 13.7 cm. \n\nfound to have significantly low cortisol with no response to ACTH stimulation testing.\n\n"
+}

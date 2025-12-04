@@ -1,0 +1,132 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "cTropnT-0.26*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest Pain is a symptom of ACS.$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "history of hyperlipidemia, psoriatic arthritis on prednisone, hypothyroidism, OSA who presented to ED from OSH w/chest pain.\n are risk facts$Cause_1": {
+                "He is a yo man with history of hyperlipidemia, psoriatic arthritis on prednisone, hypothyroidism, OSA who presented to ED from OSH w/chest pain.$Input2": {}
+            },
+            "chest \"tightness\" while trying to go to sleep the night prior to presentation. He was lying on his side and felt discomfort/tightness in  his chest, with occasional radiation to his back and L arm.\n is sign of acs$Cause_1": {
+                "he developed chest \"tightness\" while trying to go to sleep the night prior to presentation. He was lying on his side and felt discomfort/tightness in  his chest, with occasional radiation to his back and L arm.$Input2": {}
+            },
+            "Psoriatic Arthritis is a risk factor$Cause_1": {
+                "Psoriatic Arthritis$Input3": {}
+            },
+            "Hypothyroidism is a risk factor$Cause_1": {
+                "Hypothyroidism$Input3": {}
+            },
+            "Hyperlipidemia is a risk factor$Cause_1": {
+                "Hyperlipidemia$Input3": {}
+            },
+            "Obstructive sleep apnea is a risk factor$Cause_1": {
+                "Obstructive sleep apnea$Input3": {}
+            },
+            "Family history:PGF had MI  is a big risk factor$Cause_1": {
+                "PGF had MI$Input4": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                "The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Mild (1+) aortic regurgitation is seen.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "history of hyperlipidemia, psoriatic arthritis on prednisone, hypothyroidism, OSA who presented to ED from OSH w/chest pain.\n are risk facts$Cause_1": {
+                    "He is a yo man with history of hyperlipidemia, psoriatic arthritis on prednisone, hypothyroidism, OSA who presented to ED from OSH w/chest pain.$Input2": {}
+                },
+                "chest \"tightness\" while trying to go to sleep the night prior to presentation. He was lying on his side and felt discomfort/tightness in  his chest, with occasional radiation to his back and L arm.\n is sign of acs$Cause_1": {
+                    "he developed chest \"tightness\" while trying to go to sleep the night prior to presentation. He was lying on his side and felt discomfort/tightness in  his chest, with occasional radiation to his back and L arm.$Input2": {}
+                },
+                "Psoriatic Arthritis is a risk factor$Cause_1": {
+                    "Psoriatic Arthritis$Input3": {}
+                },
+                "Hypothyroidism is a risk factor$Cause_1": {
+                    "Hypothyroidism$Input3": {}
+                },
+                "Hyperlipidemia is a risk factor$Cause_1": {
+                    "Hyperlipidemia$Input3": {}
+                },
+                "Obstructive sleep apnea is a risk factor$Cause_1": {
+                    "Obstructive sleep apnea$Input3": {}
+                },
+                "Family history:PGF had MI  is a big risk factor$Cause_1": {
+                    "PGF had MI$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "EKG: sinus rhythm, 68 bpm, PVCs, early R-wave progressions, no significant ischemic changes$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "history of hyperlipidemia, psoriatic arthritis on prednisone, hypothyroidism, OSA who presented to ED from OSH w/chest pain.\n are risk facts$Cause_1": {
+                    "He is a yo man with history of hyperlipidemia, psoriatic arthritis on prednisone, hypothyroidism, OSA who presented to ED from OSH w/chest pain.$Input2": {}
+                },
+                "chest \"tightness\" while trying to go to sleep the night prior to presentation. He was lying on his side and felt discomfort/tightness in  his chest, with occasional radiation to his back and L arm.\n is sign of acs$Cause_1": {
+                    "he developed chest \"tightness\" while trying to go to sleep the night prior to presentation. He was lying on his side and felt discomfort/tightness in  his chest, with occasional radiation to his back and L arm.$Input2": {}
+                },
+                "Psoriatic Arthritis is a risk factor$Cause_1": {
+                    "Psoriatic Arthritis$Input3": {}
+                },
+                "Hypothyroidism is a risk factor$Cause_1": {
+                    "Hypothyroidism$Input3": {}
+                },
+                "Hyperlipidemia is a risk factor$Cause_1": {
+                    "Hyperlipidemia$Input3": {}
+                },
+                "Obstructive sleep apnea is a risk factor$Cause_1": {
+                    "Obstructive sleep apnea$Input3": {}
+                },
+                "Family history:PGF had MI  is a big risk factor$Cause_1": {
+                    "PGF had MI$Input4": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Mild (1+) aortic regurgitation is seen.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest Pain is a symptom of ACS.$Cause_1": {
+                        "chest pain$Input1": {}
+                    },
+                    "history of hyperlipidemia, psoriatic arthritis on prednisone, hypothyroidism, OSA who presented to ED from OSH w/chest pain.\n are risk facts$Cause_1": {
+                        "He is a yo man with history of hyperlipidemia, psoriatic arthritis on prednisone, hypothyroidism, OSA who presented to ED from OSH w/chest pain.$Input2": {}
+                    },
+                    "chest \"tightness\" while trying to go to sleep the night prior to presentation. He was lying on his side and felt discomfort/tightness in  his chest, with occasional radiation to his back and L arm.\n is sign of acs$Cause_1": {
+                        "he developed chest \"tightness\" while trying to go to sleep the night prior to presentation. He was lying on his side and felt discomfort/tightness in  his chest, with occasional radiation to his back and L arm.$Input2": {}
+                    },
+                    "Psoriatic Arthritis is a risk factor$Cause_1": {
+                        "Psoriatic Arthritis$Input3": {}
+                    },
+                    "Hypothyroidism is a risk factor$Cause_1": {
+                        "Hypothyroidism$Input3": {}
+                    },
+                    "Hyperlipidemia is a risk factor$Cause_1": {
+                        "Hyperlipidemia$Input3": {}
+                    },
+                    "Obstructive sleep apnea is a risk factor$Cause_1": {
+                        "Obstructive sleep apnea$Input3": {}
+                    },
+                    "Family history:PGF had MI  is a big risk factor$Cause_1": {
+                        "PGF had MI$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "He is a yo man with history of hyperlipidemia, psoriatic arthritis on prednisone, hypothyroidism, OSA who presented to ED from OSH w/chest pain.\n\ufeff\nPatient reports he developed chest \"tightness\" while trying to go to sleep the night prior to presentation. He was lying on his side and felt discomfort/tightness in  his chest, with occasional radiation to his back and L arm. He took Tums, omeprazole with no relief. Pain persisted throughout the following day. It is constant, no association with activity or positioning. No associated dyspnea, diaphoresis, nausea or vomiting. No cardiac history and reports normal stress test year ago. his pain was in severity. EKG showed no ischemic changes but trop I was elevated, so he was started on heparin gtt. CTA was performed and showed no aortic dissection. Pain improved with SL nitro and morphine. He was transferred for further evaluation and management. \n\ufeff\nIn the ED, initial VS were: 97.7, 68, 138/76, 19, 99% RA Exam was unremarkable, no murmurs, lungs CTAB, no edema. EKG: sinus rhythm, 68 bpm, PVCs, early R-wave progressions, no significant ischemic changes Labs notable for troponin 0.26, CK 407, MB 29, BNP 766, K 5.3 (non hemolyzed), Cr 1.2 (baseline 1.1-1.3 per OSH records), WBC 9.8, Hb 13.2, lactate 1.6.  \nImaging showed:  OSH imaging revealed no aortic dissection, no acute cardiopulmonary process. \nConsults: Cardiology, who recommended patient stat on heparin \nand nitro gtt, with admission for cardiac catheterization.  \nPatient received: Morphine IV 4mg, SL nitro, ASA 324, continued\non heparin gtt and started on nitroglycerin gtt.  \n \nTransfer VS were: 97.4, 66, 118/78, 20, 97% RA. \n\ufeff\nOn arrival to the floor, patient reports ongoing chest pain. No associated shortness of breath, nausea, diaphoresis. Feeling anxious about pain, possibility of procedure in the morning. No additional complaints.\n",
+    "input3": "+ Psoriatic Arthritis\n+ Hypothyroidism\n+ Hyperlipidemia\n+ Obstructive sleep apnea (not on CPAP)\n+ GERD\n+ Peptic Ulcer \n+ Multiple orthopedic procedures:\n+ L shoulder implant\n+ R hip implant\n+ Back surgery (Distectomy)\n+ R hand carpal tunnel relase\n",
+    "input4": "No family history of sudden cardiac death or early MI.\n",
+    "input5": "ADMISSION PHYSICAL EXAM\n=======================  \nVS: 98.3 PO 126 / 66 72 19 94 Ra  \nGENERAL: NAD  \nHEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, MMM  \nNECK: supple, no LAD, no JVD  \nHEART: RRR, S1/S2, no murmurs, gallops, or rubs  \nLUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably without use of accessory muscles  \nABDOMEN: nondistended, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly  \nEXTREMITIES: no cyanosis, clubbing, or edema  \nPULSES: 2+ DP pulses bilaterally  \nNEURO: A&Ox3, moving all 4 extremities with purpose  \nSKIN: warm and well perfused, no excoriations or lesions, no rashes\n",
+    "input6": "ADMISSION LABS\n==============\n09:30PM BLOOD WBC-9.8 RBC-4.28* Hgb-13.2* Hct-40.4 MCV-94 MCH-30.8 MCHC-32.7 RDW-13.1 RDWSD-44.5\n09:30PM BLOOD Neuts-72.4* Lymphs-18.5* Monos-6.5 Eos-1.5 Baso-0.7 AbsNeut-7.10* AbsLymp-1.82 \nAbsMono-0.64 AbsEos-0.15 AbsBaso-0.07\n09:30PM BLOOD Glucose-111* UreaN-17 Creat-1.2 Na-139 K-5.3* Cl-99 HCO3-27 AnGap-13\n\ufeff\nPERTINENT LABS\n=============\n09:30PM BLOOD CK(CPK)-407*\n09:30PM BLOOD CK-MB-29* MB Indx-7.1* proBNP-766*\n09:30PM BLOOD cTropnT-0.26*\n\ufeff\nIMAGING\n==================\nTTE  Conclusions\nLVEF 56%\nThe left atrial volume index is normal. No atrial septal defect is seen by 2D or color Doppler. The estimated right atrial pressure is xx mmHg. Normal left ventricular wall thickness, cavity size, and regional/global systolic function (3D LVEF = 56 %). Right ventricular chamber size and free wall motion are normal. The ascending aorta is mildly dilated. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Mild (1+) aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. The pulmonary artery systolic pressure could not be determined. There is a trivial/physiologic pericardial effusion. \n\ufeff\n\ufeff\nIMPRESSION: Normal left ventricular wall thickness, cavity size, and regional/global systolic function. Mild aortic regurgitation. \n\ufeff\nCardiac Cath\nCoronary Anatomy\nDominance: Right\n* Left Main Coronary Artery\nThe LMCA is without significant disease.\n* Left Anterior Descending\nThe LAD is with mild irregularities, tapering to a small apical vessel.\nDiagonal is very small caliber with focal 95% stenosis.\nThe Diagonal is with mild disease.\n* Circumflex\nThe Circumflex is without significant disease.\nThe Marginal is without significant disease.\n* Right Coronary Artery\nThe RCA is with diffuse mid and 50% origin PL.\n"
+}

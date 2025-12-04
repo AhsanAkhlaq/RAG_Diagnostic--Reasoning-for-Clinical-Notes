@@ -1,0 +1,120 @@
+{
+    "UA$Intermedia_5": {
+        "Severe chest pain is symbol of ACS-UA$Cause_1": {
+            "Prior to this, his chest pain would only be provoked by significant exertion (i.e. climbing 5 flights of walks), but recently he has began to experience chest pain at shorter distances.  T$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "hypertension, hyperlipidemia and recent LHC are risk facts$Cause_1": {
+                "He is a 70 y.o. male with ESRD on dialysis (3x/week, hypertension, hyperlipidemia and recent LHC$Input2": {}
+            },
+            "Obesity is a risk fact$Cause_1": {
+                "Obesity$Input3": {}
+            },
+            "Dylipidemia is a risk fact$Cause_1": {
+                "Dyslipidemia$Input3": {}
+            },
+            "CKD is a risk fact$Cause_1": {
+                "CKD$Input3": {}
+            },
+            "Family history is a risk fact$Cause_1": {
+                "Father and uncles who had MIs at older age$Input4": {}
+            },
+            "Family history is a risk fact.$Cause_1": {
+                "mother \nwith DM$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "# Coronaries: known 90% stenosis of OM1 of the LCx by ___ prior \nto admission, now with increasing angina\n- DES to OM1 of the LCx\n- Plavix loaded, followed with 75 mg daily\n- continued Metoprolol Succinate 50 mg daily, increased ASA to \n325 mg daily, increased stating to 80 mg daily\n- follow up with Dr. ___ discharge\n.\n# ESRD: dialysis normally scheduled for ___, \n___\n- dialysis held on ___ of admission for following day \npost-catheterization\n- continue follow up with Nephrologist\n.\n# Hypertension: hypertensive on admission (SBPs>200)\n- continued home anti-hypertensives (Metoprolol Succinate 50 mg \ndaily, Nifedipine CR 30 mg daily, Prazosin 5 mg daily)\n- given Nitropaste on admission, followed by Hydralazine 25 mg \nPO q6 hours PRN for blood pressure controll\n \nMedications on Admission:\nAllopurinol ___ mg daily\nSynthroid ___ mcg daily\nLovastatin 20 mg daily\nToprol XL 50 mg daily\nNifedipine ER 30 mg daily\nPrazosin 5 mg daily\nASA 81 mg daily\nSensipar 60 mg daily\nRenal Caps 800 mg TID with meals \n \nDischarge Medications:\nAllopurinol ___ mg daily\nSynthroid ___ mcg daily\nAtorvastatin 80 mg daily\nToprol XL 50 mg daily\nNifedipine ER 30 mg daily\nPrazosin 5 mg daily\nASA 325 mg daily\nSensipar 60 mg daily\nRenal Caps 800 mg TID with meals \nPlavix 75 mg daily\n \nDischarge Disposition:\nHome\n \nDischarge Diagnosis:\nunstable angina\n\n \nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n \nDischarge Instructions:\nMr. ___,\nIt was a pleasure to take part in your care during your \nhospitalization at the ___.  You were admitted for chest pain \nand for a cardiac catheterization to place a stent in your \ncoronary arteries.  It is important that after leaving the \nhospital you remember the following:\n1) Please take your cardiac medications as prescribed by your \ncardiologist and during this hospitalization.  These include: \nAtorvastatin 80 mg daily, Aspirin 325 mg daily, Plavix 75 mg \ndaily, Metoprolol (Succinate) 50 mg daily, Nifedipine CR 30 mg \ndaily and Prazosin 5 mg daily.  We have increased your \nAtorvastatin dose to 80 mg and increased your Aspirin to 325 mg \ndaily.  You have also started Plavix.\n2) Please continue to take your renal medications and restart \nyour normal dialysis schedule per your Nephrologist.\n3) Please follow up with your cardiologist as listed below. \n \nFollowup Instructions:\n___$Cause_1": {
+                "known 90% stenosis of OM1 of the LCx by ___ prior \nto admission, now with increasing angina\n- DES to OM1 of the LCx\n- Plavix loaded, followed with 75 mg daily\n- continued Metoprolol Succinate 50 mg daily, increased ASA to \n325 mg daily, increased stating to 80 mg daily\n- follow up with Dr. ___ discharge$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "hypertension, hyperlipidemia and recent LHC are risk facts$Cause_1": {
+                    "He is a 70 y.o. male with ESRD on dialysis (3x/week, hypertension, hyperlipidemia and recent LHC$Input2": {}
+                },
+                "Obesity is a risk fact$Cause_1": {
+                    "Obesity$Input3": {}
+                },
+                "Dylipidemia is a risk fact$Cause_1": {
+                    "Dyslipidemia$Input3": {}
+                },
+                "CKD is a risk fact$Cause_1": {
+                    "CKD$Input3": {}
+                },
+                "Family history is a risk fact$Cause_1": {
+                    "Father and uncles who had MIs at older age$Input4": {}
+                },
+                "Family history is a risk fact.$Cause_1": {
+                    "mother \nwith DM$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "ECG:non-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "hypertension, hyperlipidemia and recent LHC are risk facts$Cause_1": {
+                    "He is a 70 y.o. male with ESRD on dialysis (3x/week, hypertension, hyperlipidemia and recent LHC$Input2": {}
+                },
+                "Obesity is a risk fact$Cause_1": {
+                    "Obesity$Input3": {}
+                },
+                "Dylipidemia is a risk fact$Cause_1": {
+                    "Dyslipidemia$Input3": {}
+                },
+                "CKD is a risk fact$Cause_1": {
+                    "CKD$Input3": {}
+                },
+                "Family history is a risk fact$Cause_1": {
+                    "Father and uncles who had MIs at older age$Input4": {}
+                },
+                "Family history is a risk fact.$Cause_1": {
+                    "mother \nwith DM$Input4": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "# Coronaries: known 90% stenosis of OM1 of the LCx by ___ prior \nto admission, now with increasing angina\n- DES to OM1 of the LCx\n- Plavix loaded, followed with 75 mg daily\n- continued Metoprolol Succinate 50 mg daily, increased ASA to \n325 mg daily, increased stating to 80 mg daily\n- follow up with Dr. ___ discharge\n.\n# ESRD: dialysis normally scheduled for ___, \n___\n- dialysis held on ___ of admission for following day \npost-catheterization\n- continue follow up with Nephrologist\n.\n# Hypertension: hypertensive on admission (SBPs>200)\n- continued home anti-hypertensives (Metoprolol Succinate 50 mg \ndaily, Nifedipine CR 30 mg daily, Prazosin 5 mg daily)\n- given Nitropaste on admission, followed by Hydralazine 25 mg \nPO q6 hours PRN for blood pressure controll\n \nMedications on Admission:\nAllopurinol ___ mg daily\nSynthroid ___ mcg daily\nLovastatin 20 mg daily\nToprol XL 50 mg daily\nNifedipine ER 30 mg daily\nPrazosin 5 mg daily\nASA 81 mg daily\nSensipar 60 mg daily\nRenal Caps 800 mg TID with meals \n \nDischarge Medications:\nAllopurinol ___ mg daily\nSynthroid ___ mcg daily\nAtorvastatin 80 mg daily\nToprol XL 50 mg daily\nNifedipine ER 30 mg daily\nPrazosin 5 mg daily\nASA 325 mg daily\nSensipar 60 mg daily\nRenal Caps 800 mg TID with meals \nPlavix 75 mg daily\n \nDischarge Disposition:\nHome\n \nDischarge Diagnosis:\nunstable angina\n\n \nDischarge Condition:\nMental Status: Clear and coherent.\nLevel of Consciousness: Alert and interactive.\nActivity Status: Ambulatory - Independent.\n\n \nDischarge Instructions:\nMr. ___,\nIt was a pleasure to take part in your care during your \nhospitalization at the ___.  You were admitted for chest pain \nand for a cardiac catheterization to place a stent in your \ncoronary arteries.  It is important that after leaving the \nhospital you remember the following:\n1) Please take your cardiac medications as prescribed by your \ncardiologist and during this hospitalization.  These include: \nAtorvastatin 80 mg daily, Aspirin 325 mg daily, Plavix 75 mg \ndaily, Metoprolol (Succinate) 50 mg daily, Nifedipine CR 30 mg \ndaily and Prazosin 5 mg daily.  We have increased your \nAtorvastatin dose to 80 mg and increased your Aspirin to 325 mg \ndaily.  You have also started Plavix.\n2) Please continue to take your renal medications and restart \nyour normal dialysis schedule per your Nephrologist.\n3) Please follow up with your cardiologist as listed below. \n \nFollowup Instructions:\n___$Cause_1": {
+                    "known 90% stenosis of OM1 of the LCx by ___ prior \nto admission, now with increasing angina\n- DES to OM1 of the LCx\n- Plavix loaded, followed with 75 mg daily\n- continued Metoprolol Succinate 50 mg daily, increased ASA to \n325 mg daily, increased stating to 80 mg daily\n- follow up with Dr. ___ discharge$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS$Cause_1": {
+                        "chest pain$Input1": {}
+                    },
+                    "hypertension, hyperlipidemia and recent LHC are risk facts$Cause_1": {
+                        "He is a 70 y.o. male with ESRD on dialysis (3x/week, hypertension, hyperlipidemia and recent LHC$Input2": {}
+                    },
+                    "Obesity is a risk fact$Cause_1": {
+                        "Obesity$Input3": {}
+                    },
+                    "Dylipidemia is a risk fact$Cause_1": {
+                        "Dyslipidemia$Input3": {}
+                    },
+                    "CKD is a risk fact$Cause_1": {
+                        "CKD$Input3": {}
+                    },
+                    "Family history is a risk fact$Cause_1": {
+                        "Father and uncles who had MIs at older age$Input4": {}
+                    },
+                    "Family history is a risk fact.$Cause_1": {
+                        "mother \nwith DM$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "He is a 70 y.o. male with ESRD on dialysis (3x/week, hypertension, hyperlipidemia and recent LHC showing 90% stenosis of OM1 of the LCx who presents from home for elective PCI with a history of exertional angina and one episode of angina at rest.  He is preparing for kidney transplant and is being evaluated for cardiac clearance.  He first presented to Dr. with a history of exertional angina.  He had a prior ETT that showed a mild, reversible inferior wall defect.  Dr. a diagnostic LHC that was performed .  At catheterization, he was found to have a 90% stenosis of OM1 of the LCx, with no significant lesions found in the LAD or RCA.  The procedure was complicated by hematoma in the right groin, precluding PCI at the time of catheterization.  He was scheduled for elective PCI in a few weeks, but the morning of admission contacted Dr. office with complaints of chest pain at rest and was asked to come for PCI.\n.\nIn interviewing, he describes his chest pain as a substernal pain that is not sharp, but also not described as a pressure.  Prior to this, his chest pain would only be provoked by significant exertion (i.e. climbing 5 flights of walks), but recently he has began to experience chest pain at shorter distances.  The night prior to admission he experienced an episode of substernal chest pain while lying in bed at rest.  His chest pain is not associated with any radition, numbness or tingling.  He does not complain of shortness of breath, light headedness or palpitations at the time of the chest pain.  Additionaly, he has no nausea or abdominal discomfort associated with his chest pain.\n",
+    "input3": "+Dyslipidemia\n+Hypertension\n+CKD\n+Gout \n+Secondary \n+hyperparathyroidism\n+Obesity\n",
+    "input4": "Father and uncles who had MIs at older age (___), mother \nwith DM\n",
+    "input5": "\n",
+    "input6": "Coronaries: known 90% stenosis of OM1 of the LCx by ___ prior \nto admission, now with increasing angina\n- DES to OM1 of the LCx\n- Plavix loaded, followed with 75 mg daily\n- continued Metoprolol Succinate 50 mg daily, increased ASA to \n325 mg daily, increased stating to 80 mg daily\n- follow up with Dr. ___ discharge\n\nECG:non-ST-elevation\n"
+}

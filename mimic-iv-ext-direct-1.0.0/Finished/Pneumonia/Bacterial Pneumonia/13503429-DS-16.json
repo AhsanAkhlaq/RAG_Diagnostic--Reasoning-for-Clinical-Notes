@@ -1,0 +1,71 @@
+{
+    "Bacterial Pneumonia$Intermedia_4": {
+        "This directly indicates an infection by the bacteria commonly responsible for pneumonia.$Cause_1": {
+            "Multiple organisms consistent with Streptococcus pneumoniae.$Input6": {}
+        },
+        "Pneumonia$Intermedia_3": {
+            "Elevated neutrophil counts typically indicate an acute bacterial infection, which is consistent with bacterial pneumonia$Cause_1": {
+                "WBC-8.4 (NEUTS-82.4* LYMPHS-10.6* MONOS-5.8 EOS-0.6 BASOS-0.6)$Input6": {}
+            },
+            "High polymorphonuclear leukocytes (PMNs) and low epithelial cell numbers indicate an infectious process in the lungs$Cause_1": {
+                ">25 PMNs and <10 epithelial cells/100X field$Input6": {}
+            },
+            "These findings suggest an abnormal collection of fluid or infection in the lung base, typical of pneumonia$Cause_1": {
+                "increased opacification involving the left base with obliteration of the hemidiaphragm and costophrenic angle.$Input6": {}
+            },
+            "Consolidation refers to the filling of air spaces with fluid, which is a hallmark of pneumonia.$Cause_1": {
+                "large area of left lower lobe consolidation and a smaller region on the right have both improved minimally.$Input6": {}
+            },
+            "Suspected Pneumonia$Intermedia_2": {
+                "Cough is one of the common symptoms of pneumonia$Cause_1": {
+                    "cough$Input1": {}
+                },
+                "Shortness of breath, which is difficulty breathing, is one of the key symptoms of pneumonia$Cause_1": {
+                    "shortness of breath$Input1": {}
+                },
+                "Worsening cough and shortness of breath are common in people with pneumonia$Cause_1": {
+                    "worsening cough and shortness of breath over the past two weeks$Input2": {}
+                },
+                "High fever is a common symptom of pneumonia$Cause_1": {
+                    "fevers measured to be 103 degrees$Input2": {}
+                },
+                "ongoing dyspnea is a common symptom of pneumonia$Cause_1": {
+                    "ongoing dyspnea$Input2": {}
+                },
+                "A cough with yellow phlegm is a classic sign of lung infection$Cause_1": {
+                    "productive cough with large amounts of yellow sputum$Input2": {}
+                },
+                "Bloody sputum may indicate a more serious respiratory problem, such as pneumonia$Cause_1": {
+                    "one episode of blood-tinged sputum$Input2": {}
+                },
+                "Diminished lung auscultation usually indicates that the affected area may have fluid accumulation or tissue infiltration, which are classic signs of pneumonia.$Cause_1": {
+                    "diminished lung sounds at left base$Input2": {}
+                },
+                "Children with asthma may be more susceptible to respiratory infections, including pneumonia.$Cause_1": {
+                    "Childhood asthma$Input3": {}
+                },
+                "Early experience with pneumonia may affect the health of your lungs and increase your risk of developing pneumonia again in the future$Cause_1": {
+                    "episode of pneumonia as an infant$Input3": {}
+                },
+                "The patient's oxygen saturation (O2sat) under high-flow oxygen therapy (80% oxygen) was only 91%, which shows that the patient may have significant respiratory problems and insufficient oxygenation, which is common in patients with pneumonia.$Cause_1": {
+                    "RR:25 O2sat: 91% on 80% high flow oxygen$Input5": {}
+                },
+                "These are signs the body is trying to limit lung pain or difficulty breathing, often seen in pneumonia$Cause_1": {
+                    "taking shallow breaths, appears generally ill and pale$Input5": {}
+                },
+                "Bronchial breath sounds heard basally on the left and diminished basally on the right may indicate lung infection or fluid accumulation on the left side and atelectasis or the same infectious problem on the right$Cause_1": {
+                    "Bronchial breath sounds over left base. Decreased BS over right base$Input5": {}
+                },
+                "Deep breathing interrupted by frequent coughing, a classic symptom of a lung infection$Cause_1": {
+                    "Deep inspiration interrupted by frequent coughing.$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "bilateral ear pain, cough, shortness of breath\n",
+    "input2": "He is a 19 y/o M with remote history of childhood asthma presenting with worsening cough and shortness of breath over the past two weeks.  His illness began with bilateral ear aches 2 weeks ago. This was also accompanied by fevers measured to be 103 degrees. His ear pain resolved somewhat, but he has had ongoing dyspnea and productive cough with large amounts of yellow sputum since then. He had one episode of blood-tinged sputum, in the setting of blowing his nose and coughing frequently. He presented to an outpatient provider approximately two weeks prior to admission who prescribed him a six-day course of azithromycin. He had a mild improvement in his symptoms and also took amoxicillin.\n\nOne day prior to admission, his symptoms progressed. He presented to the Emergency Dept with worsening dyspnea. In the ED, his initial vital signs were 98.0, 96, 111/72, 88% RA. Exam was notable for pale skin, diminished lung sounds at left base, no wheezes or rhonchi. He was transiently placed on TB precautions, which were discontinued after his CXR came back. He was given doxycycline 100 mg IV ceftriaxone 1g IV, vancomycin 1g, and levofloxacin 500 mg PO, as well as multiple doses of duonebs and 2 liters of IV fluids. \n\nUpon arrival to the ICU, he felt his breathing was improved and he was not feeling dyspneic as long as his oxygen mask is on. He endorsed a poor appetite, a 20 lb weight loss, and drenching sweats over the past two weeks. He reported no nausea, vomiting, or abdominal pain.\n",
+    "input3": "+Childhood asthma\n+episode of pneumonia as an infant\n",
+    "input4": "No known lung disease. Grandmother with CHF and adult-onset \ndiabetes.\n",
+    "input5": "Vitals: Temp: 98.5 BP: 129/73 HR:89 RR:25 O2sat: 91% on 80% high flow oxygen\nGEN: pleasant, speaking in full sentences, taking shallow breaths, appears generally ill and pale, but in NAD  \nHEENT: PERRL, EOMI, anicteric, MMM, op without lesions, no supraclavicular or cervical lymphadenopathy, no jvd  \nRESP: +Bronchial breath sounds over left base. Decreased BS over right base. No wheezes or rhonchi. No crackles. Deep inspiration interrupted by frequent coughing.  \nCV: RRR, S1 and S2 wnl, no m/r/g  \nABD: NABS, soft, nt, no masses or hepatosplenomegaly, no rebound tenderness or guarding.\nEXT: no c/c/e  \nSKIN: mild erythematous patches at site of prior telemetry leads. No other rashes/jaundice/no splinters  \nNEURO: AAOx3. Cn II-XII intact. strength throughout. No sensory deficits to light touch.\n",
+    "input6": "- WBC-8.4 (NEUTS-82.4* LYMPHS-10.6* MONOS-5.8 EOS-0.6 BASOS-0.6) RBC-3.46* HGB-10.7* HCT-30.8* MCV-89 MCH-30.8 MCHC-34.6 RDW-12.0 PLT COUNT-418\n - ___ 05:55AM   GLUCOSE-102* UREA N-6 CREAT-0.8 SODIUM-140 POTASSIUM-3.4 CHLORIDE-107 TOTAL CO2-26 ANION GAP-10 ALBUMIN-3.0* CALCIUM-7.9* PHOSPHATE-3.1 MAGNESIUM-2.0ALT(SGPT)-33 AST(SGOT)-21 LD(LDH)-200 ALK PHOS-74 TOT BILI-0.4 DIR BILI-0.2 INDIR BIL-0.2\n - ___ 05:55AM   ___ PTT-30.1 ___\n - ___ 03:54PM   FIBRINOGEN-696* HAPTOGLOB-464*\n - ___ 03:54PM   HIV Ab-NEGATIVE\n - ___ 03:54PM   LDH negative\n\nMICROBIOLOGY:\n1. Sputum Culture from ___ (per report)\n - >25 PMNs and <10 epithelial cells/100X field. \n - Multiple organisms consistent with Streptococcus pneumoniae. \n\n2. Respiratory Viral Culture (Final ___: \n - No respiratory viruses isolated. Culture screened for Adenovirus, Influenza A & B, Parainfluenza type 1,2 & 3, and Respiratory Syncytial Virus. Detection of viruses other than those listed above will only be performed on specific request.\n\nRADIOLOGY:\n1. initial CXR and CT performed at ___\n\n2. ___ portable CXR: No previous images. The heart is normal in size and there is no vascular congestion. There is increased opacification involving the left base with obliteration of the hemidiaphragm and costophrenic angle. \n\n3. ___ portable CXR: AP chest compared to large area of left lower lobe consolidation and a smaller region on the right have both improved minimally. Small bilateral pleural effusions persist. Upper lungs are clear. Heart size is normal.\n"
+}

@@ -1,0 +1,21 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "esophagitis(LA grade B) is the gold standard for the diagnosis of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+            "Endoscopy:oesophagitis(LA grade B)$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Chest pain is a typical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "!Chest pain is a typical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "Apparently, the patient developed dull diffuse chest pain this evening that he noted while walking from bed to the bathroom.$Input2": {}
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "This is a male with history of CAD s/p, severe diastolic CHF, and COPD who presents after an episode of chest pain now resolved. Apparently, the patient developed dull diffuse chest pain this evening that he noted while walking from bed to the bathroom. This did not radiate to his arm or jaw and was not associated with any worsening of his baseline dyspnea. This lasted about 20 minutes at which point the patient took some maalox and it disappeared around 10 minutes after that. The patient has had two subsequent brief recurrences of the pain, one as EMS arrived at his home and one as he was being moved into bed on the floor. He denies any palpitations, worsening shortness of breath (he does have baseline shortness of breath), worsening lower extremity edema, cough, fevers, or chills. At baseline he uses 2L of O2 by nasal cannula all times and moves this up to 3L on exertion. With 3L of supplementary O2 he is able to walk 18 minuts on a treadmill without chest pain.   \nIn the ED VS 98.1 56 132/57 20 100. ECG showed a fib with RBBB but no ST elevation or depression. Labs notable for troponin of 0.03K (c/w previous). He received ondansetron and was admitted to medicine to finish.\n",
+    "input3": "+Diabetes\n+Dyslipidemia\n+Hypertension \n+Percutaneous coronary intervention  \n+3VD, POBA LAD and diag  \n+Pacemaker/ICD: VT, s/p ICD placement  \n+COPD: FVC 69%, FEV1 56%, FEV1/FEV 81% on 2L O2 w/ activity\n+Hypercholesterolemia  \n+Hypertension  \n+Peripheral Neuropathy-unknown etiology\n+History of tobacco\n+Status post ICD placement for VT\n+Status post TURP x 2  \n+diastolic CHF\n",
+    "input4": "Father deceased from MI. Brother died of lung CA\n",
+    "input5": "VS: T 98.1  %#  110/64   20   97% on 2L\nGen: Well appearing elderly gentleman appearing younger than his \nstated age in soft cervical collar (for comfort from OA of neck) \n\nHEENT: Normocephalic, anicteric, EOMI, PERRL, OP clear, MMM  \nCV: Irregular, systolic murmur; DP and Radial pulses 1+ \nbilaterally, no elevated JVP \nPulm: Decreased breath sounds, Expansion equal bilaterally, CTAB \n \nAbd:Soft, NT, ND, BS+\nExtrem: Warm and well perfused, 1+ nonpitting edema bilaterally \nin feet  \nNeuro/Psych: A and O*3, Very pleasant and cooperative, CN II - \nXII intact, strength upper and lower extremitites bilat\n",
+    "input6": "11:00PM BLOOD WBC-5.4 RBC-4.62 Hgb-13.5* Hct-43.1 \nMCV-93 MCH-29.2 MCHC-31.4 RDW-14.3 Plt\n11:00PM BLOOD Neuts-65.9 Monos-7.5 Eos-1.8 \nBaso-0.3\n05:55AM BLOOD Plt\n11:00PM BLOOD  PTT-27.2\n11:00PM BLOOD Glucose-82 UreaN-35* Creat-1.2 Na-143 \nK-4.3 Cl-100 HCO3-32 AnGap-15\n11:00PM BLOOD ALT-21 AST-32 CK(CPK)-78 AlkPhos-78 \nTotBili-1.0\n11:00PM BLOOD cTropnT-0.03*\n05:55AM BLOOD CK-MB-NotDone cTropnT-0.03*\nEndoscopy:oesophagitis(LA grade B)\n"
+}

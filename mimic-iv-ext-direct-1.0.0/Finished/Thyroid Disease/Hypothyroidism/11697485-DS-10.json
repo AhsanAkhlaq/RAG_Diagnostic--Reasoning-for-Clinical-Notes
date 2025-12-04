@@ -1,0 +1,42 @@
+{
+    "Hypothyroidism$Intermedia_3": {
+        "High TSH levels are a clear indicator of hypothyroidism$Cause_1": {
+            "TSH-65$Input6": {}
+        },
+        "Low free T4 levels are also a sign of hypothyroidism.$Cause_1": {
+            "FREE T4-0.53$Input6": {}
+        },
+        "Suspected Thyroid disease$Intermedia_2": {
+            "Fatigue is one of the common symptoms of hypothyroidism$Cause_1": {
+                "fatigue$Input1": {}
+            },
+            "Extreme fatigue is one of the common symptoms of hypothyroidism$Cause_1": {
+                "extreme fatigue$Input2": {}
+            },
+            "Increased intolerance to cold, which is a symptom of impaired thermoregulation in hypothyroidism.$Cause_1": {
+                "noticed some increased cold intolerance since starting the medication as well, requiring extra blankets at home$Input2": {}
+            },
+            "Although weight loss is often associated with hyperthyroidism, weight loss may also be observed in some cases of hypothyroidism, especially when accompanied by other symptoms such as loss of appetite$Cause_1": {
+                "Has had 10 lb weight loss$Input2": {}
+            },
+            "Increased difficulty swallowing, although this is not a typical symptom of hypothyroidism, an enlarged thyroid gland may cause a feeling like something is stuck in the throat.$Cause_1": {
+                "Has had increased dysphagia with swallowing pills, stating that he feels like they get stuck in his upper throat.$Input2": {}
+            },
+            "Eye swelling may indicate thyroid-related eye disease$Cause_1": {
+                "significant swelling around his eyes$Input2": {}
+            },
+            "Patients with hypothyroidism may experience bradycardia$Cause_1": {
+                "bradycardic$Input5": {}
+            },
+            "Hypothyroidism may cause a decrease in basal body temperature$Cause_1": {
+                "97.1$Input5": {}
+            }
+        }
+    },
+    "input1": "nausea, vomiting, fatigue, hallucinations\n",
+    "input2": "He is a man with history of metastatic renalcell carcinoma to lung and sinuses, who started therapy with AMG 386 and Sunitinib according to the protocol. He received a total of three administrations of AMG 386. The therapy was held due to multiple symptoms, including nausea, vomiting, diarrhea, extreme fatigue, and hallucinations. \n.\nThe patient reports onset of most of these symptoms after his second treatment, including nausea and vomiting 4 days ago ('orange colored, no bile or blood, vomiting 2x/day) and hallucinations of seeing people who have passed away (including his mother). He has no hallucinations currently. Also, after administration of the AMG 386 he experienced significant swelling around his eyes. He has been much more fatigued, and noticed some increased cold intolerance since starting the medication as well, requiring extra blankets at home.  Has had 10 lb weight loss. Denies any tremors, hair loss, constipation or diarrhea. Has had increased dysphagia with swallowing pills, stating that he feels like they get stuck in his upper throat. \n\ufeff\nHe also complains of L-sided abdominal pain that radiates to his L groin and L leg. Been present for months, but has worsened recently. Has not noticed any masses in his groin, but pain seems to worsen with bearing weight. \n.\nOn the floor, patient denies any nausea after receiving some anti-emetics in clinic, pain or confusion.\n.\nReview of systems:  \n(+) per HPI and including: yellow mucous draining from sinuses. 10 lb weight loss over past two weeks. worsening fatigue. \n(-) Denies fever, chills, night sweats. Denies headache. Denied cough, shortness of breath. Denied chest pain or tightness, palpitations. Denied diarrhea, constipation. No recent change in bowel or bladder habits or dysuria. Denies headache, photophobia, visual difficulties, or neck stiffness, paralysis of extremities or decreased sensation. Denies any decreased urinary frequency. \n\ufeff\n",
+    "input3": "ONCOLOGIC HISTORY:\nDiagnosis of Stage IV clear cell renal cell carcinoma\nLeft-sided nephrectomy (we do not have the original pathology or detailssurrounding this operation).  \nPresented for evaluation of pain in his leftgroin and testicle.  An abdominal CT scan showed multiplepulmonary nodules at the lung bases, up to 1 cm in size.\nCT-guided biopsy confirmed metastatic clear cellcarcinoma thought to be consistent with a renal cell carcinomaprimary.  \nPET CT confirmed multiple pulmonary nodules (thoughthey were not found to be FDG avid) and showed \"completeopacification of the right maxillary sinus by soft tissueattenuation which demonstrates mild hypermetabolic uptake.  There is associated destruction of the anterior,posterior, and medialwalls of the right maxillary sinus, the floor of the maxillarysinus as well as destruction of the inferior wall of the orbit.\" \n\ufeff\nBiopsy of the right and left maxillarysinuses: the right maxillary sinus mass biopsy confirmed thepresence of metastatic clear cell renal cell carcinoma; theleft-sided sinus biopsy was benign.  \nStarted therapy with Sunitinib + AMG 386 on protocol \n\ufeff\n(CT Torso showed decrease size of some of thepulmonary lesions, the other being stable)- sunitinib d/c,AMG 386 third and last dose, held due to worsening of symptoms including nausea, vomiting, hallucinations.\n.\nPMH:\nHypertension\nGout\n\ufeff\n",
+    "input4": "sister with stomach cancer\n",
+    "input5": "Physical Exam:\nVS: 97.1 170/108 63 18 94% on RA\nGA: well appearing male, AOx3, NADHEENT:  PERRLA. MMM. no LAD. no JVD. neck supple.  no thyromegaly palpated; small pad of palpable tissue noted overlying the substernal notch\nCards: PMI palpable at IC space. No RVH. bradycardic, S1/S2 heard. no murmurs/gallops/rubs.\nPulm: CTAB no crackles or wheezes\nAbd: soft, TTP in the LLQ, +BS. no g/rt. neg HSM.\nExtremities: wwp, no lower extremity edema or pretibial myxedema. DPs, PTs 2+.\nGroin: mild mass palpated in L groin on tussive maneuvers.\nNeuro/Psych: CNs II-XII intact. DTRs decreased (sensation intact to LT, pain, temperature, vibration, proprioception. cerebellar fxn intact (FTN, HTS). gait WNL. \n\ufeff\nAb US\nIMPRESSION: Moderately distended gallbladder with sludge and stones within,with mild pericholecystic fluid. The lack of gallbladder wall thickening ortenderness make acute cholecystitis less likely, but this is not excluded. Clinical correlation is advised. In the setting of equivocal clinicalsymptoms, a HIDA scan can be considered.\n\ufeff\nMRA/Head MRI:\nIMPRESSION:\n1. Large right maxillary sinus mass minimally decreased in size, more heterogeneous in appearance, likely representing necrosis.\n2. Paranasal sinus disease as described.\n3. Diminutive left vertebral artery. No evidence of stenosis, occlusion, or aneurysm.\n\ufeff\n",
+    "input6": "___ 11:21PM   CK(CPK)-1232*\n___ 11:21PM   CK-MB-10 MB INDX-0.8 cTropnT-0.02*\n___ 12:47PM   GLUCOSE-125*\n___ 12:47PM   UREA N-21* CREAT-1.5* SODIUM-141 POTASSIUM-3.8 CHLORIDE-99 TOTAL CO2-30 ANION GAP-16\n___ 12:47PM   estGFR-Using this\n___ 12:47PM   ALT(SGPT)-38 AST(SGOT)-87* LD(LDH)-458* CK(CPK)-1527* ALK PHOS-89 AMYLASE-45 TOT BILI-1.2 DIR BILI-0.4* INDIR BIL-0.8\n___ 12:47PM   LIPASE-45\n___ 12:47PM   CK-MB-11* MB INDX-0.7 cTropnT-0.02*\n___ 12:47PM   TOT PROT-6.4 ALBUMIN-3.5 GLOBULIN-2.9 CALCIUM-9.4 PHOSPHATE-3.3 MAGNESIUM-2.4 URIC ACID-5.4\n___ 12:47PM   TSH-65*\n___ 12:47PM   FREE T4-0.53*\n___ 12:47PM   WBC-6.7 RBC-5.03 HGB-15.7 HCT-45.5 MCV-90 MCH-31.3 MCHC-34.6 RDW-15.7*\n___ 12:47PM   NEUTS-81.5* LYMPHS-14.1* MONOS-3.4 EOS-0.9 BASOS-0.2\n___ 12:47PM   PLT COUNT-143*\n"
+}

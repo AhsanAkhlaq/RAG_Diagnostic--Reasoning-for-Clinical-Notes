@@ -1,0 +1,30 @@
+{
+    "Persistent Atrial Fibrillation$Intermedia_3": {
+        "This is a direct manifestation of Atrial Fibrillation$Cause_1": {
+            "increased AFIB burden with symptoms$Input2": {}
+        },
+        "Criteria for Persistent Atrial Fibrillation$Cause_1": {
+            "ECG: AF episodes that last more than 7 days.$Input6": {}
+        },
+        "Suspected Atrial Fibrillation$Intermedia_2": {
+            "This is a congenital disorder of the heart that may increase the risk of atrial fibrillation.$Cause_1": {
+                "had a patent ductus arteriosus detected on echo$Input2": {}
+            },
+            "A history of syncope, which is also common in people with atrial fibrillation$Cause_1": {
+                "history of syncopal episode$Input2": {}
+            },
+            "Appears irregularly, which may be due to atrial fibrillation$Cause_1": {
+                "100-120's at rest, 140-150's with movement$Input5": {}
+            },
+            "Abnormal cardiac rhythm is a major characteristic of Atrial Fibrillation.$Cause_1": {
+                "irregular rate/rhythm$Input5": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "This is a 61 year old male who has had increased AFIB burden with symptoms and was admitted for Dofetilide loading.  He had a patent ductus arteriosus detected on echo that has been followed by serial echo.  He also has a history of syncopal episode while hiking which was consistent with a vagal mechanism.\n",
+    "input3": "+History of external condylomata\n+Exercise induced asthma\n+Sinusitis\n+Syncopal episode while hiking consistent with a vagal mechanism.\n",
+    "input4": "No smoking, social etoh, no illicits.\n",
+    "input5": "Tele:  100-120's at rest, 140-150's with movement\nVS: 97.7, BP 106/79, P 92, RR 18, 97%RA\nGen: sitting on side of bed with vistor eating take out. \nNeuro: alert and oriented, pleasant\nNeck/JVP: none appreciated\nCV: irregular rate/rhythm\nChest: clear bilaterally\nABD: +bs, soft nontender\nExtr: no edema\nSkin: no open areas\n",
+    "input6": "___ 07:42PM BLOOD WBC-7.8 RBC-4.98 Hgb-14.7 Hct-42.3 MCV-85 MCH-29.5 MCHC-34.8 RDW-13.4 RDWSD-41.5 Plt ___\n___ 07:42PM BLOOD Glucose-92 UreaN-21* Creat-0.9 Na-139 K-3.9 Cl-104 HCO3-25 AnGap-14\n___ 07:42PM BLOOD Mg-1.9\n\nECG: AF episodes that last more than 7 days.\n"
+}

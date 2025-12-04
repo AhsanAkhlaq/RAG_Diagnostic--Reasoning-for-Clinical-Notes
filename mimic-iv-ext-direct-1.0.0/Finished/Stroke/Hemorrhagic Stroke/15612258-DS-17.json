@@ -1,0 +1,63 @@
+{
+    "Hemorrhagic Stroke$Intermedia_3": {
+        "CT scan showed a large intracerebral hemorrhage and a small subdural hematoma in the right cerebrum and a 5-mm shift of the midline structures. These findings are typical radiological manifestations of hemorrhagic stroke.$Cause_1": {
+            "CT showed large right IPH and small SDH with 5mm MLS$Input2": {}
+        },
+        "Intracranial hemorrhage volume exceeding 30 ml indicates a large amount of bleeding, which is one of the important diagnostic criteria for hemorrhagic stroke.$Cause_1": {
+            "30 mL or Greater$Input5": {}
+        },
+        "The enlargement of the right parietal intrasubstitium hemorrhage and the surrounding vasogenic edema indicate that the hemorrhage is expanding, which is a typical symptom of hemorrhagic stroke.$Cause_1": {
+            "interval increase in the size of a large right parietal intraparenchymal hemorrhage with surrounding vasogenic edema$Input6": {}
+        },
+        "Extension of the hemorrhage toward the midline and causing a midline shift (ranging from 6 to 13 mm) usually indicates a significant increase in intracerebral pressure, which may lead to brain tissue compression.$Cause_1": {
+            "There is midline extension of the bleed, resulting in 13 mm of midline shift, previously 6 mm.$Input6": {}
+        },
+        "The significant mass effect and almost complete effacement of the right lateral ventricle suggest that the hemorrhage caused severe compression of surrounding brain structures.$Cause_1": {
+            "significant mass effect with near complete effacement of the right lateral ventricle$Input6": {}
+        },
+        "A small subdural hematoma is seen in front of the right frontal convex internal hemorrhage, another manifestation of hemorrhagic stroke.$Cause_1": {
+            "A small subdural hematoma is seen just anterior to the intraparenchymal hemorrhage along the right frontal convexity,$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "The patient had seizure symptoms and was taking Keppra, an anti-epileptic drug. Brain hemorrhage often triggers seizures.$Cause_1": {
+                "seizures on keppra$Input2": {}
+            },
+            "Headaches and numbness and tingling in the limbs may be signs of increased pressure and damaged nerve function caused by a stroke.$Cause_1": {
+                "bad headache and numbness/tingling$Input2": {}
+            },
+            "Symptoms include left limb weakness and facial droop, which are unique neurological dysfunction symptoms of stroke.$Cause_1": {
+                "significant left side weakness  and facial droop.$Input2": {}
+            },
+            "Indicates that the patient has extremely high blood pressure, which is one of the main risk factors for hemorrhagic stroke$Cause_1": {
+                "BP 210/110$Input2": {}
+            },
+            "The patient had functional decline from the previous bleeding event, indicating that the patient's brain function may have been impaired by the previous bleeding event, increasing the risk of rebleeding.$Cause_1": {
+                "baseline WFD from prior hemorrhage$Input2": {}
+            },
+            "A history of stroke in patients may mean they are at higher risk for cerebrovascular disease, which in turn may increase their risk of stroke$Cause_1": {
+                "ischemic stroke$Input3": {}
+            },
+            "Hypertension is a major risk factor for hemorrhagic stroke$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "A constricted pupil may indicate compression of the brain, a classic sign of a hemorrhagic stroke.$Cause_1": {
+                "Pupils: pinpoint$Input5": {}
+            },
+            "Intubation is often a sign that respiratory function may be impaired or that the patient has a low level of consciousness, which is common in stroke.$Cause_1": {
+                "100% intubated$Input5": {}
+            },
+            "Complete closure of the eyes is a sign of coma, which can be caused by severe brain damage, which can occur as a result of a stroke.$Cause_1": {
+                "Does not open eyes$Input5": {}
+            },
+            "A weakened or minimal response to painful stimuli in the right upper limb, left upper limb, and both legs, possibly due to damage to the area of \u200b\u200bthe brain that controls limb movement$Cause_1": {
+                "Motor: \nRUE weak withdraw to deep noxious\nLUE flicker movement to deep noxious\nBLE withdraw to deep noxious$Input5": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Eu Critical with seizures on keppra, who woke this morning with bad headache and numbness/tingling in all extremities. He had a witnessed fall by his girlfriend around 6am; no head strike. Developed significant left side weakness  and facial droop. He was taken to OSH via ambulance and intubated for decreased alertness. CT showed large right IPH and small SDH with 5mm MLS. He was given 1g keppra, labetalol for BP 210/110, and transferred to ___ for further evaluation.\n\nOn arrival he is intubated and sedated. History was obtained from\ngirlfriend and chart review. Also c/o several days of leg swelling. He has baseline WFD from prior hemorrhage. \n",
+    "input3": "- ischemic stroke ___ \n- HTN \n- CVA \n- Reflux\n- Gout \n- hemochromatosis\n- fatty liver\n- CKD stage III\n- prostate CA\n- IPMN (intraductal papillary mucinous neoplasm)\n- type 2 diabetes; without complication; no insulin or \nmediations\n- pancreas cyst \n",
+    "input4": "NC\n",
+    "input5": "O: T: 97.4   BP: 127/60         HR: 54    R: 17       O2Sats:\n100% intubated\n\nGen: intubated male\nHEENT: Pupils: pinpoint         EOMs unable to assess \nExtrem: Warm and well-perfused.\n\nDate and Time of evaluation: ___\n\n___ Coma Scale:\n  [x]Intubated   [ ]Not intubated\n\nEye Opening: \n [x]1 Does not open eyes\n [ ]2 Opens eyes to painful stimuli\n [ ]3 Opens eyes to voice\n [ ]4 Opens eyes spontaneously\n\nVerbal:\n [x]1 Makes no sounds (intubated)\n [ ]2 Incomprehensible sounds\n [ ]3 Inappropriate words\n [ ]4 Confused, disoriented\n [ ]5 Oriented\n\nMotor:\n [ ]1 No movement\n [ ]2 Extension to painful stimuli (decerebrate response)\n [ ]3 Abnormal flexion to painful stimuli (decorticate response)\n ___ Flexion/ withdrawal to painful stimuli \n [ ]5 Localizes to painful stimuli\n [ ]6 Obeys commands\n\n __6T__ Total\n\nICH Score:\n\nGCS\n     [ ]2     GCS ___\n     [x]1     GCS ___\n     [ ]0     GCS ___\n     \nICH Volume \n     [x]1     30 mL or Greater\n     [ ]0     Less than 30 mL\n\nIntraventricular Hemorrhage\n     [ ]1     Present\n     [x]0     Absent\n\nInfratentorial ICH\n     [ ___     Yes\n     [x]0     No\n\nAge\n     [ ]1     ___ years old or greater\n     [x]0     Less than ___ years old\n\nTotal Score: __2____\n\nNeuro: prop held for exam\n\nMental status: intubated; does not respond verbal or sternal \nrub. no commands. no verbal output \n\nCranial Nerves:\npupils pinpoint no corneal reflex bilaterally midline gaze difficult to asses facial symmetric due to ET tube \n+cough \n\nMotor: \nRUE weak withdraw to deep noxious\nLUE flicker movement to deep noxious\nBLE withdraw to deep noxious \n",
+    "input6": "Comparison is made to same day outside reference head CT \nperformed at 08:24.  Compared to head CT from 6 hours prior, there is interval increase in the size of a large right parietal intraparenchymal hemorrhage with surrounding vasogenic edema. There is midline extension of the bleed, resulting in 13 mm of midline shift, previously 6 mm. Again seen is significant mass effect with near complete effacement of the right lateral ventricle. There is now extension of the bleed into the ventricles with layering blood noted in the occipital horn of the left lateral ventricle. A small subdural hematoma is seen just anterior to the intraparenchymal hemorrhage along the right frontal convexity, unchanged compared to prior. \n  \nA large focus of edema in the left parietal lobe is unchanged compared to prior. \n  \nCompared to prior, there is now right-sided uncal herniation and effacement of the left suprasellar cistern. The remaining basal cisterns remain patent. \n  \nThere is near complete opacification of the right mastoid sinus, and mucosal thickening of the ethmoid air cells. The remaining paranasal sinuses,mastoid air cells,and middle ear cavities are clear. The visualized portion of the orbits are unremarkable. \n  \nCTA HEAD: \nThe vessels of the circle of ___ and their principal intracranial branches appear normal without stenosis, occlusion, or aneurysm formation. No underlying vascular abnormality is noted in the region of hemorrhage. The dural venous sinuses are patent. \n  \nCTA NECK: \nThe carotidandvertebral arteries and their major branches appear normal with no evidence of stenosis or occlusion. There is no evidence of internal carotid stenosis by NASCET criteria. \n"
+}

@@ -1,0 +1,48 @@
+{
+    "Restrictive Cardiomyopathy$Intermedia_3": {
+        "Sinus rhythm with ventricular premature contractions.  Inferior and lateral  ST-T wave abnormalities.  can be a sign of  Restrictive Cardiomyopathy$Cause_1": {
+            "___ ECG\n\nSinus rhythm with ventricular premature contractions. Inferior and lateral  ST-T wave abnormalities. No previous tracing available for comparison.$Input6": {}
+        },
+        "abnormal echocardiogram  can be a sign of Restrictive Cardiomyopathy$Cause_1": {
+            "Mild symmetric left ventricular hypertrophy with global hypokinesis suggestive of a non-coronary etiology.  Mild-moderate mitral regurgitation.  Pulmonary artery hypertension.  Increased PCWP.  Mildly dilated pulmonary artery.$Input6": {}
+        },
+        "Suspected Cardiomyopathy$Intermedia_2": {
+            "Dyspnea on exertion with troponin elevation to 0.13 is a sign of Cardiomyopathy$Cause_1": {
+                "Dyspnea on exertion with troponin elevation to 0.13$Input1": {}
+            },
+            "heart failure with echo demonstrating global hypokinesis with LVEF 35% is risk facts and signs of Cardiomyopathy$Cause_1": {
+                "0 y/o F w/ pmhx of newly diagnosed congestive heart failure with echo demonstrating global hypokinesis with LVEF 35%,$Input2": {}
+            },
+            "dyspenea on exertion, substernal chest pain is a sign of Cardiomyopathy$Cause_1": {
+                "Per her daughters, she has had intermittent episodes of dyspenea on exertion, substernal chest pain,$Input2": {}
+            },
+            "Hypertension is a risk fact of Cardiomyopathy$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "Systolic heart failure  is a risk fact of Cardiomyopathy$Cause_1": {
+                "Systolic heart failure$Input3": {}
+            },
+            "Dyslipidemia  is a risk fact of Cardiomyopathy$Cause_1": {
+                "Dyslipidemia$Input3": {}
+            },
+            "Colonic polyp  is a risk fact of Cardiomyopathy$Cause_1": {
+                "Colonic polyp$Input3": {}
+            },
+            "GERD/Gastritis  is a risk fact of Cardiomyopathy$Cause_1": {
+                "GERD/Gastritis$Input3": {}
+            },
+            "CKD  is a risk fact of Cardiomyopathy$Cause_1": {
+                "CKD$Input3": {}
+            },
+            "Abnormal heart sound can be a sign of Cardiomyopathy$Cause_1": {
+                "CARDIAC: Split S2, holosystolic murmur, frequent ectopy$Input5": {}
+            }
+        }
+    },
+    "input1": "Dyspnea on exertion with troponin elevation to 0.13\n",
+    "input2": "70 y/o F w/ pmhx of newly diagnosed congestive heart failure with echo demonstrating global hypokinesis with LVEF 35%, gastritis/GERD, and hypertension for years who presents with acute onset dyspnea and intermittent substernal burning in her chest, found to have a troponin elevation to 0.13 and transferred here for diagnostic catheterization. Per her daughters, she has had intermittent episodes of dyspenea on exertion, substernal chest pain, and palpitations that have not responded to omeprazole. No weight gain since her diagnosis of heart failure, no peripheral edema, abdominal swelling, and no decrease in PO intake.\n",
+    "input3": "+Hypertension  \n+Systolic heart failure  \n+Dyslipidemia  \n+Colonic polyp  \n+GERD/Gastritis  \n+CKD\n",
+    "input4": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.\n",
+    "input5": "Admission exam:\nVS: T= 97.7 BP= 140/80 HR= 73 RR= 12 O2 sat= 98% RA  \nGENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.\nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  \nNECK: Supple with JVP of 8 cm.  \nCARDIAC: Split S2, holosystolic murmur, frequent ectopy  \nLUNGS: Crackles at bases bilaterally .  \nABDOMEN: Soft, NTND. + hepatic pulsation  \nEXTREMITIES: Trace edema in feet  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES: 2+ pulse\n",
+    "input6": "___ 11:40PM   PTT-106.5*\n___ 11:40PM   MAGNESIUM-1.9\n___ 11:40PM   cTropnT-0.04*\n___ 11:40PM   SODIUM-141 POTASSIUM-4.8 CHLORIDE-104\n___ 06:15AM   PTT-87.5*\n___ 06:15AM   PLT COUNT-188\n___ 06:15AM   WBC-6.1 RBC-4.54 HGB-13.0 HCT-38.5 MCV-85 MCH-28.7 MCHC-33.8 RDW-15.6*\n___ 06:15AM   TRIGLYCER-84 HDL CHOL-54 CHOL/HDL-3.0 LDL(CALC)-89\n___ 06:15AM   CALCIUM-9.3 PHOSPHATE-3.3 MAGNESIUM-1.8 CHOLEST-160\n___ 06:15AM   cTropnT-0.04*\n___ 06:15AM   TOT BILI-2.1*\n___ 06:15AM   estGFR-Using this\n___ 06:15AM   GLUCOSE-71 UREA N-18 CREAT-1.3* SODIUM-142 POTASSIUM-3.0* CHLORIDE-105 TOTAL CO2-25 ANION GAP-15\n___ 10:00PM   PTT-26.8\n___ 10:00PM   GLUCOSE-98 UREA N-16 CREAT-1.2* SODIUM-139 POTASSIUM-3.8 CHLORIDE-105 TOTAL CO2-21* ANION GAP-17\n \n___ ECG\n\nSinus rhythm with ventricular premature contractions.  Inferior and lateral  ST-T wave abnormalities.  No previous tracing available for comparison.\nTRACING #1\n\n___ Echo\n\nIMPRESSION: Mild symmetric left ventricular hypertrophy with global hypokinesis suggestive of a non-coronary etiology.  Mild-moderate mitral regurgitation.  Pulmonary artery hypertension.  Increased PCWP.  Mildly dilated pulmonary artery. This constellation of findings is suggestive of an infiltrative process - e.g., amyloid.\n"
+}

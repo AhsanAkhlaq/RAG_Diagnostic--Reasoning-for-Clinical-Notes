@@ -1,0 +1,33 @@
+{
+    "Type A Aortic Dissection$Intermedia_3": {
+        "Abdominal CT scan shows abdominal aortic dissection. This is the key evidence for diagnosing aortic dissection.$Cause_1": {
+            "CT scan of the abdomen which showed a dissection of abdominal aorta$Input2": {}
+        },
+        "Aortic dissection is a condition in which blood enters the aortic wall after a tear in the inner wall of the aorta. This can cause blood to accumulate under the pericardium, which can affect heart function. The condition is very serious and is diagnosed as type A aortic dissection.$Cause_1": {
+            "Long dissection with a small hemopericardium$Input6": {}
+        },
+        "Suspected Aortic Dissection$Intermedia_2": {
+            "Chest pain is one of the common symptoms of aortic dissection$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "Typical symptoms of aortic dissection include abdominal pain, which may come on suddenly and be very severe.$Cause_1": {
+                "abdominal pain concern$Input2": {}
+            },
+            "Systolic blood pressure was above 200 mmHg at admission. Hypertension is an important risk factor for aortic dissection.$Cause_1": {
+                "blood pressure on admission was in 200s systolic$Input2": {}
+            },
+            "HTN is the risk of aortic dissection$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "Mild distension and tenderness in the abdomen may indicate internal bleeding or other complications, which are also possible symptoms of aortic dissection.$Cause_1": {
+                "mildly softly distended, minimally diffusely tender, + BS$Input5": {}
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "Patient is a 38 year old male who is transferred with abdominal pain concern. The pain began at 9 am this morning. Patient underwent the CT scan of the abdomen which showed a dissection of abdominal aorta. Patient was subsequently transferred here. The blood pressure on admission was in 200s systolic. Patient was hemodynamically stable. At the time of presentation to the patient continued to be hemodynamically stable with sbp in 110 - 150s and hr in the ___ -100s, saturating well on room air. Patient denies any pain. He underwent an emergent CTA of the aorta with run offs.\n",
+    "input3": "HTN (untreated)\n",
+    "input4": "non-contributory\n",
+    "input5": "PE: on admission \nVS: 98  87  135/76  18 99% RA \ngen: alert and oriented, appropriate, seemed comfortable \nCV: RRR \npulm: CTA b/l \nabd: mildly softly distended, minimally diffusely tender, + BS \nextemities: pulses all palpable \n\n",
+    "input6": "imaging:\n___ CTA aorta with run-offs\n1. Long dissection with a small hemopericardium. RCA, LAD, and LCx remain opacified. Dissection extends through the common iliac arteries and into the proximal left and right internal iliac arteries and mid right external iliac artery.  \n  \n2. Complete infarction of the right kidney and spleen. Small amount of clot in the proximal left renal artery although the left kidney remains normally perfused.  \n  \n3. Liver remains perfused but the blood supply in the celiac trunk appears tenuous. Blood supply in the proximal superior mesenteric artery is also tenuous although good flow is seen distally. Inferior mesenteric artery remains normally opacified. \n\n___ 03:25PM BLOOD WBC-10.7 RBC-4.43* Hgb-13.4* Hct-40.2 MCV-91 MCH-30.3 MCHC-33.4 RDW-12.3 Plt ___\n___ 10:42PM BLOOD WBC-10.7 RBC-2.26* Hgb-6.8* Hct-20.8* MCV-92 MCH-29.9 MCHC-32.5 RDW-12.3 Plt ___\n___ 01:27AM BLOOD WBC-8.2 RBC-2.63* Hgb-8.1* Hct-25.2* MCV-96 MCH-30.6 MCHC-32.0 RDW-13.1 Plt Ct-23*#\n___ 03:25PM BLOOD ___ PTT-38.2* ___\n___ 09:03PM BLOOD ___ PTT-102.8* ___\n___ 01:27AM BLOOD ___ PTT-150* ___\n___ 01:27AM BLOOD Plt Smr-VERY LOW Plt Ct-23*#\n___ 03:25PM BLOOD Glucose-105* UreaN-14 Creat-1.4* Na-133 K-7.3* Cl-100 HCO3-23 AnGap-17\n"
+}

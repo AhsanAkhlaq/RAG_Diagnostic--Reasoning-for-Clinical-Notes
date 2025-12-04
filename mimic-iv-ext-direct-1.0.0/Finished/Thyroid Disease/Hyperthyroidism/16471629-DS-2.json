@@ -1,0 +1,24 @@
+{
+    "Hyperthyroidism$Intermedia_3": {
+        "Low TSH levels are diagnostic criteria for hyperthyroidism$Cause_1": {
+            "TSH-LESS THAN 0.02$Input6": {}
+        },
+        "High T4 levels are diagnostic criteria for hyperthyroidism$Cause_1": {
+            "T4-GREATER TH 18$Input6": {}
+        },
+        "Suspected Thyroid disease$Intermedia_2": {
+            "Heart palpitations and shortness of breath are typical symptoms of hyperthyroidism.$Cause_1": {
+                "Patient reports episodes of heart palpitations/racing and SOB.  These episodes occur both with exertion and at rest.$Input2": {}
+            },
+            "An increased heart rate (heart rate 140) is a typical symptom that may occur with hyperthyroidism.$Cause_1": {
+                "She was seen in clinic today where her HR was noted to be 140.$Input2": {}
+            }
+        }
+    },
+    "input1": "palpitations\n",
+    "input2": "G1P0 at EGA presents to Gyn triage with SOB, heart palpitations, and lower extremity edema.  Patient reports episodes of heart palpitations/racing and SOB.  These episodes occur both with exertion and at rest.  She reports symptoms for the past three weeks.  She notes up to 10 episodes per day, each lasting a few minutes.  She was seen in clinic today where her HR was noted to be 140.  She denies dizziness.  Denies chest pain or tightness.  Denies syncope.  No recent travel.  No h/o DVT or PE.\nNo significant family history of clots or cardiac issues (father w/ MI.  No cocaine.  Limited caffeine.  \n\nROS:  No VB.  No LOF.  No fever.  No nausea or vomiting.  Tol PO. No diarrhea.\n",
+    "input3": "PMH:\nh/o over active bladder\n\nPSH:\nExtraction wisdom teeth\n\n",
+    "input4": "nc\n",
+    "input5": "VS: T 99.0  BP 135/65  HR 105  RR 18 O2Sat 99% RA\nGen: NAD\nCV: RRR, no r/m/g\nPulm: CTAB, no crackles/wheezes\nAbd: soft, NT, ND, no rebound/guarding\nBedside U/S: SIUP, FHR 140's, good movement, normal fluid\n",
+    "input6": "___ 06:31PM   GLUCOSE-104 UREA N-9 CREAT-0.4 SODIUM-139 POTASSIUM-4.1 CHLORIDE-107 TOTAL CO2-24 ANION GAP-12\n___ 06:31PM   estGFR-Using this\n___ 06:31PM   ALBUMIN-3.5 CALCIUM-9.1 PHOSPHATE-4.4 MAGNESIUM-1.7\n___ 06:31PM   TSH-LESS THAN 0.02\n___ 06:31PM   T4-GREATER TH 18 calcTBG-0.66* TUptake-1.52* FREE T4-3.7*\n___ 06:31PM   WBC-7.5 RBC-3.64* HGB-11.0* HCT-31.6* MCV-87 MCH-30.3 MCHC-34.9 RDW-12.0\n___ 06:31PM   PLT COUNT-208\n___ 01:45PM BLOOD WBC-7.0 RBC-3.41* Hgb-10.4* Hct-29.9* MCV-88 MCH-30.6 MCHC-35.0 RDW-12.2\n___ 06:05AM BLOOD Iron-86\n___ 06:05AM BLOOD calTIBC-269 Ferritn-153* TRF-207\n\n"
+}

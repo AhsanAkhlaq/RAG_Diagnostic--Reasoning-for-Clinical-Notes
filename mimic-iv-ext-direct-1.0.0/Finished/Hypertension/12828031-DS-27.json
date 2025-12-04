@@ -1,0 +1,27 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "SBP at that time 154$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "Vital signs on arrival: BP 164/80$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.**$Cause_1": {
+            "Vital Signs: BP 166/74$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Dizziness is a classic symptom of Hypertension.$Cause_1": {
+                "dizziness$Input1": {}
+            },
+            "Diabetes is a big risk factor of HP,which is generally accompanied by Hypertension.$Cause_1": {
+                "+Type 2 diabetes$Input3": {}
+            }
+        }
+    },
+    "input1": "dizziness\n",
+    "input2": "F with a medical history notable for CVA with residual left-sided weakness, and epilepsy. She presented to the ED with days of dizziness, malaise, and increased seizure activiy. \n\nMuch of the history was obtained via her daughter who is her primary caretaker. She remember first feeling poorly and attributes her symptoms to starting clonidine. She noted a dry mouth and loss of appetite. She noted increased seizure activity. Specifically she usually has 1, focal, LUE seizure per month. She noted seizures (all LUE, focal seziures with no generalized features). She was tired and did not feel like getting out of bed. She had a pre-syncopal event and almost fell after standing up (SBP at that time 154 per her daughter via home BP machine). She continued to feel tired, occasional dizziness, and had poor appetite with loss of taste and anorexia so she presented to the ED. \n\nThroughout these episodes her BG was normal on a number of occasions. She also had no urinary symptoms, bowel symptoms, fevers, chills, or focal neuro symptoms.\n\nVital signs on arrival: T 98.1, P 60, BP 164/80, 97% RA. Her evaluation in the ED was notable for normal orthostatic, a sodium of 149, Cr of 1.5, INR 5.1, and normal head CT. In the ED she received 1 L of D5W.\n\nROS: as above. In addition, she had constipation that resolved with laxitives over the weekend. Other systems reviewed in detail and all otherwise negative.\n",
+    "input3": "+PVD s/p multiple stents of the superficial femoral artery  and balloon angioplasty of the tibial peroneal trunk; then found to have restenosis of SFA s/p angioplasty with stent placement \n+s/p CVA with residual left sided weakness  \n+Seizure disorder with partial seizures. Usually left arm symptoms only.\n+Stage III CKDz\n+Hyperlipidemia  \n+Type 2 diabetes\n+CHF with preserved LVEF\n+Atrial fibrillation on anticoagulation\n+s/p hysterectomy  \n+s/p CCY  \n+h/o adenomatous polyp on colonoscopy\n+h/o Grade 2 internal hemorrhoids on colonoscopy\n",
+    "input4": "Mother died of a stroke. No FH PE, DVT, early CAD.\n",
+    "input5": "Vital Signs: T 96.9, P 62, BP 166/74, 98% on RA.\n- Gen: Thin, elderly female sitting up in bed in NAD.\n- HEENT: Right eye closed. Left eye with normal pupil and tracking. Oropharynx clear w/out lesions.\n- Neck: Supple.\n- Chest: Normal respirations and breathing comfortably on room air. Lungs clear to auscultation bilaterally.\n- CV: Irregular rhythm. Normal S1, S2. No murmurs or gallops. JVP <5 cm.\n- Abdomen: Normal bowel sounds. Soft, nontender, nondistended. \n- Extremities: No ankle edema.\n- Skin: No lesions, bruises, rashes.\n- Neuro: Alert, oriented x3. CN is her primary language. Has good strength in the RUE and RLE. Very mild LLE weakness. Obvious weakness of LUE and poor hand control. \n- Psych: Appearance, behavior, and affect all normal.\n",
+    "input6": "Admission Laboratory Studies:\n - ___ 01:00PM   GLUCOSE-194* UREA N-23* CREAT-1.5* SODIUM-149* POTASSIUM-3.9 CHLORIDE-107 TOTAL CO2-30 ANION GAP-16 ALBUMIN-3.8 CALCIUM-8.3* PHOSPHATE-4.5 MAGNESIUM-2.3 Phenyto-19.9 Albumin-3.8\n - ___ 01:00PM   WBC-7.7 (NEUTS-67.7 ___ MONOS-8.2 EOS-2.7 BASOS-0.3) RBC-3.84* HGB-11.6* HCT-35.7* MCV-93 MCH-30.1 MCHC-32.5 RDW-15.2 PLT COUNT-184\n - ___ 01:00PM   PTT-34.9\n\nOther Notable Studies:\n - CXR: PA/lateral projection. Has prominent right PA. Calcification of the aorta. Atelectasis at right base. Small effusion on lateral projection.\n\n - ECG: Atrial fibrillation at 59 with normal aixs. She has a prolonged QT interval. She has LVH by aVL with repolarization abnormalitis. This is unchanged from an ECG.\n\n - Head CT: 1. old R MCA infarct 2. no acute intracranial process. Final read pending.\n"
+}

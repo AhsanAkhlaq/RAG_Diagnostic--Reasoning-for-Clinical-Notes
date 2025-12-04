@@ -1,0 +1,47 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "Temporary remissions and return to a stable state, as well as recurrent episodes of symptoms, are common clinical manifestations of multiple sclerosis. Periodic fluctuations in symptoms and periods of stability are one of the characteristics of the disease.$Cause_1": {
+            "In the ED she said her symptoms had subsided and her condition had returned to a stable state. She said similar situations had happened before.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "Periventricular and brainstem lesions are key to diagnosis in MS$Cause_1": {
+                "MRI brain with periventricular and brainstem lesions$Input2": {}
+            },
+            "The specific increase of oligoclonal bands (OCBs) in cerebrospinal fluid is one of the typical biochemical hallmarks of MS.$Cause_1": {
+                "LP with 0 WBC/RBC, protein 45, glucose 64, and 8 OCBs specific to CSF$Input2": {}
+            },
+            "Newly appeared multiple bilateral white matter areas showed high signal on T2/FLAIR sequence, accompanied by enhancement. This is one of the typical symptoms of multiple sclerosis, because MS often manifests as multiple lesions in the white matter area of \u200b\u200bthe brain, which appear as high signal areas on MRI.$Cause_1": {
+                "Interval development of multiple scattered bilateral T2/FLAIR hyperintense enhancing white matter lesions with enhancement, new from prior study dated.$Input6": {}
+            },
+            "Here, the left optic nerve is abnormally enlarged and has increased signal on T2/FLAIR sequences with abnormal enhancement. Optic neuritis is a common manifestation of multiple sclerosis and is usually associated with inflammation of the optic nerve, which can lead to decreased vision.$Cause_1": {
+                "Asymmetrically enlarged left optic nerve with increased T2/FLAIR signal and abnormal enhancement.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Vision loss is a common symptom of MS$Cause_1": {
+                    "Vision loss$Input1": {}
+                },
+                "Paresthesias are common symptoms of MS, especially in the hands and legs, and may indicate impaired nerve conduction.$Cause_1": {
+                    "sensory abnormalities in the right hand and both legs$Input2": {}
+                },
+                "Transverse myelitis usually involves a portion of the spinal cord and may be associated with MS because MS can cause inflammation in many parts of the central nervous system.$Cause_1": {
+                    "MRI brain/whole spine with transverse myelitis from C6-7$Input2": {}
+                },
+                "Vision problems such as blurred vision may be caused by optic neuritis, another common symptom of MS.$Cause_1": {
+                    "vision began to seem blurred$Input2": {}
+                },
+                "Persistent leg numbness may be a long-term neurological symptom caused by spinal cord damage, which is common in MS.$Cause_1": {
+                    "Continues to endorse numbness, \"like Novocain\" involving both legs below the waste$Input2": {}
+                },
+                "The sense of light touch in a circle around the legs below the waist is reduced by 50%. A common symptom of MS is paresthesia, especially in a certain part of the limbs.$Cause_1": {
+                    "50% reduction in light touch symmetrically, below the waste in circumferential pattern around both legs$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Vision loss\n",
+    "input2": "\"She developed sensory abnormalities in the right hand and both legs. She was admitted. her work-up included an MRI brain/whole spine with transverse myelitis from C6-7 (MRI brain with periventricular and brainstem lesions) LP with 0 WBC/RBC, protein 45, glucose 64, and 8 OCBs specific to CSF. She was treated with IVMP x3 days with full resolution of her symptoms. \n\ufeff\nShe had a second course of steroids for recurrent symptoms in both legs identical to prior (no bowel/bladder,  gait, or strength issues though mildly off balance). She was treated with 3 days of IVMP. \n\ufeff\nAt approximately that time (while on steroids), the vision began to seem blurred in each worsening since that time (monocularity is unclear). This has not yet reached a plateau. There is no pain or painful movements. She was seen by an optometrist, Dr., whose notes I do not have currently. She has not had any neuroimaging. She was seen earlier today and referred here.\"\n\ufeff\nAt the time of my evaluation in the ED, patient recounts the above history. She describes her vision loss OD as affecting the temporal half of her visual field - noting that items on the right side of space seem \"grayed out.\" The visual problems OS involve worsening acuity. In the ED she said her symptoms had subsided and her condition had returned to a stable state. She said similar situations had happened before.\n\n\ufeff\nROS notable for vision loss as noted above. Continues to endorse numbness, \"like Novocain\" involving both legs below the waste. \n\ufeff\n\ufeff\n",
+    "input3": "N/A\n",
+    "input4": "No family history of stroke, migraines or other autoimmune disease. Sister with DM1\n",
+    "input5": "Physical Exam:\nADMISSION EXAM:\n===============\nVitals: T 97.8, HR 61, BP 111/56, RR 18, Sa 100% RA \nGeneral: Awake, cooperative, NAD.\nHEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in oropharynx\nNeck: Supple, no nuchal rigidity\nPulmonary: breathing non labored on room air \nCardiac: warm and well perfused\nAbdomen: soft, NT/ND, no masses or organomegaly noted.\nExtremities: No cyanosis, clubbing or edema bilaterally\nSkin: no rashes or lesions noted.\n\ufeff\nNeurologic:\n\ufeff\n-Mental Status: Awake, alert, oriented to place, date, and situation. Able to name the President. Able to relate history without difficulty. The patient had good knowledge of current events. There was no evidence of apraxia or neglect.\n\ufeff\n-Cranial Nerves:\nII: Pupils recently dilated to 7 mm, both slowly reactive. No clear APD at this time. VFF to confrontation. Fundoscopic exam performed, revealed crisp disc margins with no papilledema, exudates, or hemorrhages.\nIII, IV, VI: EOMI without nystagmus. Normal saccades.\nV: Facial sensation intact to light touch.\nVII: No facial droop, facial musculature symmetric.\nVIII: Hearing intact to finger-rub bilaterally.\nIX, X: Palate elevates symmetrically. No dysarthria.\nXI: strength in trapezii and SCM bilaterally.\nXII: Tongue protrudes in midline.\n\ufeff\n-Motor: Normal bulk throughout. Normal tone throughout. No pronator drift bilaterally. No adventitious movements, such as tremor, noted. No asterixis noted. Delt Bic Tri WrE FFl  FE  IO  IP  Quad  Ham TA \nL  5     4    5    5-   5-     5    4+\nR  5    4    5    5-   5-     5    4+\n\ufeff\n-Sensory: 50% reduction in light touch symmetrically, below the waste in circumferential pattern around both legs. No deficits to cold sensation, proprioception throughout. No extinction to DSS.\n\ufeff\n-DTRs:\nBi Tri Pat Ach\nL  2  2    2    2   2\nR  2  2    2    2   2\n\ufeff\n-Coordination: No intention tremor, no dysdiadochokinesia noted. No dysmetria on FNF or HKS bilaterally.\n\ufeff\n-Gait/Station: Good initiation. Narrow-based, normal stride and arm swing. Romberg absent.\n\ufeff\n",
+    "input6": "ADMISSION LABS:\n___ 07:30PM BLOOD WBC-7.0 RBC-4.01 Hgb-12.9 Hct-38.6 MCV-96 MCH-32.2* MCHC-33.4 RDW-12.1 RDWSD-43.0\n___ 07:30PM BLOOD Neuts-60.9 Monos-7.3 Eos-6.1 Baso-0.6 AbsNeut-4.27 AbsLymp-1.74 AbsMono-0.51 AbsEos-0.43 AbsBaso-0.04\n___ 07:30PM BLOOD Glucose-95 UreaN-12 Creat-0.6 Na-139 K-4.2 Cl-105 HCO3-21* AnGap-13\n\ufeff\nPENDING LABS:\n___ 06:00PM BLOOD ANCA-PND\n___ 07:30AM BLOOD RheuFac-<10\n___ 06:00PM BLOOD RO\n___ 06:00PM BLOOD ANGIOTENSIN 1 - CONVERTING\n___ 12:14PM BLOOD RO\n___ 07:30PM BLOOD RO \n___ 07:30AM BLOOD MYELIN OLIGODENDROCYTE GLYCOPROTEIN (MOG IGG)-PND\n___ 07:30AM BLOOD ANGIOTENSIN 1 - CONVERTING \n___ 07:30AM BLOOD NEUROMYELITIS OPTICA \n(NMO)/AQUAPORIN-4-IGG CELL-BINDING ASSAY, SERUM-PND\n\ufeff\nMRI ORBIT AND BRAIN :\n1. Interval development of multiple scattered bilateral T2/FLAIR hyperintense enhancing white matter lesions with enhancement, new from prior study dated. \n2. Asymmetrically enlarged left optic nerve with increased T2/FLAIR signal and abnormal enhancement. \n\ufeff\n"
+}

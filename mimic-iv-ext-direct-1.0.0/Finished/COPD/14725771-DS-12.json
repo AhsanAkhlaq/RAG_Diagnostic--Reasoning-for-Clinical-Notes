@@ -1,0 +1,38 @@
+{
+    "Mild COPD$Intermedia_4": {
+        "FEV1 \u2265 80% confirm Mild COPD$Cause_1": {
+            "FEV1 82%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC < 0.70.$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "Dyspnea is one of the typical symptoms of COPD, indicating that the patient may have limited lung function.$Cause_1": {
+                    "dyspnea$Input2": {}
+                },
+                "Pulmonary edema may indicate that abnormal cardiac function leads to increased pulmonary pressure, which indirectly affects respiratory function, which is related to the clinical manifestations of COPD.$Cause_1": {
+                    "CXR b/l insterstitial and lower lobe alveolar edema$Input2": {}
+                },
+                "Pulmonary hypertension is common in patients with COPD and may be caused by lung disease and hypoxemia.$Cause_1": {
+                    "Pulmonary hypertension$Input3": {}
+                },
+                "Pulmonary embolism can occur in patients with COPD$Cause_1": {
+                    "pulmonary embolism,$Input3": {}
+                },
+                "COPD patients often suffer from hypoxemia and decreased oxygen saturation. Oxygen therapy can improve this condition, indicating that the patient may have respiratory insufficiency.$Cause_1": {
+                    "85%RA --> 91% on 2L NC$Input5": {}
+                },
+                "This is a typical clinical manifestation of COPD, reflecting the presence of airway obstruction and inflammation.$Cause_1": {
+                    "diffuse crackles with some scattered wheezes.$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "Per general medicine admission note, he presented to the ED, brought in by his son, with one day of weakness, difficulty ambulating, loss of balance, left-sided constant chest pressure-like chest discomfort and dyspnea. On arrival to ED there VS 97.8 | 143/63 | 76 | 90% 2L NC, exam reportedly unremarkable. EKG w/ IV block but no ST-T changes. CXR b/l insterstitial and lower lobe alveolar edema. CT head w/o acute cranial process but chronic white matter microvascular changes. Labs significant for normal CBC, Cr 1.2 , TnT 0.01, BNP 94, AST 95, ALT 125, INR 1.8. Pt received IV Lasix and was admitted for further workup. Echo significant for LVEF, hypokinesis of inferior IVS, inf. wall, mid-distal inf.lat. wall. Seen by cardiology who recommended to keep INR therapeutic. Neurology was consulted but no consult note dictated at time of discharge. Considered MRI head but unable given ICD. Requested transfer to BID for neurology evaluation. Per discharge physical exam normal speech, normal mental status, normal strength in 4 extremities but unsteady gait.\n",
+    "input3": "+ Pulmonary hypertension  \n+ CAD: Catheterization (per Atrius record): mild-moderate coronary artery disease, LMCA 20% stenosis, LAD 30% proximal stenosis, 60% mid RCA stenosis  \n+ Glaucoma  \n+ HFrEF\n+ VT s/p AICD  \n+ Atrial fibrillation  \n+ T2DM  \n+ Vitamin D deficiency  \n+ Scoliosis  \n+ h/o abnl LFTs  \n+ pulmonary embolism, full history unknown \n+ Non-ischemic cardiomyopathy\n",
+    "input4": "Non contributory\nFrom prior d/c summary:\nNo family history of CAD, DM, CHF or sudden death.  Brother with cancer.\n",
+    "input5": "Vital Signs: 97.8 | 105/49 | 74 | 22 | 85%RA --> 91% on 2L NC  \nGeneral: Alert, oriented, no acute distress. Having frequent \nnegative myoclonus in his four extremities.  \nHEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL, \nneck supple, JVP difficult to assess, no LAD  \nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  \nLungs: Kyphotic chest, diffuse crackles with some scattered wheezes.  \nAbdomen: mildly globulous, no collateral circulation, normal bowel sounds, soft, mildly tender diffusely without guarding, no hepatomegaly  \nGU: No foley  \nExt: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  \nNeuro: Speech is normal. Negative myoclonus as above. Between beats of myoclonus grip and strength are preserved in four extremities. Nor\n",
+    "input6": "LAB RESULTS ON ADMISSION\n===========\n07:12AM BLOOD WBC-5.2 RBC-4.93 Hgb-15.6 Hct-49.2 MCV-100* MCH-31.6 MCHC-31.7* RDW-14.9 RDWSD-55.3*\n07:35AM BLOOD WBC-4.8 RBC-4.75 Hgb-15.2 Hct-48.7 \nMCV-103* MCH-32.0 MCHC-31.2* RDW-14.8 RDWSD-57.1*\n07:12AM BLOOD Glucose-101* UreaN-22* Creat-1.1 Na-138 \nK-3.9 Cl-94* HCO3-35* AnGap-13\n07:12AM BLOOD ALT-133* AST-127* LD(LDH)-306* AlkPhos-66 \nTotBili-0.7\n07:12AM BLOOD CK-MB-2 cTropnT-<0.01\n07:12AM BLOOD Albumin-3.1* Calcium-8.6 Phos-3.8 Mg-1.9\n07:12AM BLOOD %HbA1c-6.2* eAG-131*\n07:12AM BLOOD HCV Ab-Negative\n07:12AM BLOOD HBsAg-Negative HBsAb-Negative \nHBcAb-Negative HAV Ab-Negative\n07:55AM BLOOD pO2-75* pCO2-70* pH-7.35 \ncalTCO2-40* Base XS-9 Comment-GREEN TOP\n\ufeff\nPERTINENT LAB RESULTS\n======================\n08:21AM BLOOD WBC-4.5 RBC-4.83 Hgb-15.4 Hct-47.0 MCV-97 MCH-31.9 MCHC-32.8 RDW-14.7 RDWSD-53.0* \n08:04AM BLOOD WBC-4.4 RBC-4.62 Hgb-14.8 Hct-45.0 MCV-97 MCH-32.0 MCHC-32.9 RDW-14.7 RDWSD-52.6* \n\ufeff\nPost-bronchodilator FEV1/FVC < 0.70.\nFEV1 82%\n"
+}

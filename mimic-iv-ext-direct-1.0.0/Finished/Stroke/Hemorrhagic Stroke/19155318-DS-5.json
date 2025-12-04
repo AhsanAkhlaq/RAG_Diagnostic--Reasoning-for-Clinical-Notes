@@ -1,0 +1,57 @@
+{
+    "Hemorrhagic Stroke$Intermedia_3": {
+        "A large mixed attenuation intracerebral hemorrhage involving the right internal frontal lobe. The hemorrhage extends into the submeningeal space and extends posteriorly along the cingulate sulcus to the posterior corpus callosum region. This hemorrhage is often associated with hemorrhagic stroke.$Cause_1": {
+            "Large mixed attenuation intraparenchymal hemorrhage \ninvolving the medial right frontal lobe with subarachnoid extension along the cingulate sulcus, tracking posteriorly into the region of the posterior corpus callosum$Input6": {}
+        },
+        "The adjacent frontal gyri had subarachnoid hemorrhages, a common form of hemorrhagic stroke in which bleeding occurs in the subarachnoid space beneath the brain's surface.$Cause_1": {
+            "Subarachnoid hemorrhage in in the adjacent bilateral frontal gyri$Input6": {}
+        },
+        "The structures that normally lie in the midline were displaced 8 mm to the left. This displacement is usually a manifestation of increased intracranial pressure caused by extensive hemorrhage and is one of the serious complications of hemorrhagic stroke.$Cause_1": {
+            "8 mm leftward shift of normally midline structures.$Input6": {}
+        },
+        "A smaller intracerebral hemorrhage in the right frontal lobe, approximately 1.3 cm in size, is a clear sign of a hemorrhagic stroke.$Cause_1": {
+            "Smaller right frontal intraparenchymal hemorrhage measures 1.3 cm.$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "Hemiplegia refers to partial paralysis on one side of the body. A stroke usually causes damage to a part of the brain, which can affect the nerve pathways that control the muscles on the opposite side of the body, causing hemiplegia.$Cause_1": {
+                "L hemiparesis$Input1": {}
+            },
+            "Aphasia is a language disorder caused by brain damage, usually manifested as difficulty speaking and understanding language.$Cause_1": {
+                "aphasia$Input1": {}
+            },
+            "Sudden left-side facial drooping and left-side weakness are often classic symptoms of a stroke and may indicate new brain damage.$Cause_1": {
+                "sudden onset LT facial droop, LT sided weakness$Input2": {}
+            },
+            "Initially responsive to questions but absent upon arrival may indicate increasing severity of stroke and impaired neurological function.$Cause_1": {
+                "Initially was responsive to questions which was not the case on arrival$Input2": {}
+            },
+            "The patient's aphasia suggests damage to the language center, one of the areas that a stroke may affect.$Cause_1": {
+                "Neurologic and General review od systems unable to obtain aspatient apahsic$Input2": {}
+            },
+            "Previous history of hemorrhagic stoke increase the risk$Cause_1": {
+                "Left hemorrhagic stroke$Input3": {}
+            },
+            "Hypertension is one of the most common risk factors for cerebral hemorrhage$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "The patient was initially alert and repeated speech, but later became drowsy. This suggests neurological dysfunction, possibly related to a stroke.$Cause_1": {
+                "Initially Awake, and echolalic which\ndeteriorated into obtounded$Input5": {}
+            },
+            "Pupils with a brisk and constricted light reflex (PERRL 2->1.5 brisk), bilateral corneal reflexes, and a positive gag reflex (Gag+) may indicate brainstem or cranial nerve damage, which is common in stroke$Cause_1": {
+                "Cranial Nerves - PERRL 2->1.5 brisk. Corneals present\nbilaterally. No clear BTT. Gag +. LT NLFF.$Input5": {}
+            },
+            "The right side is stronger than the left side. This side-to-side strength difference may be due to differences in motor control caused by damage to a part of the brain.$Cause_1": {
+                "spontaneously antigravity but RT > LT$Input5": {}
+            },
+            "Plantar valgus reaction on the left side. This is often a sign of upper motor neurone damage and possibly brain damage.$Cause_1": {
+                "Plantar response extensor LT.$Input5": {}
+            }
+        }
+    },
+    "input1": "L hemiparesis and aphasia\n",
+    "input2": "The patient is a ___ speaking only ___ yo woman followed by Dr. ___ in clinic), and subsequent seizures who presents as a code stroke. \n\nPer the granddaughter at the bedside she was last known well this morning at around 7:30am. She was sitting in the shower and her daughter was helping her bathe herself when she developed sudden onset LT facial droop, LT sided weakness. Her daughter called EMS who transported her to the ED. Initially was responsive to questions which was not the case on arrival. The patient had an NIHSS as above scoring for LOC, commands, language, and antigravity. She was not unable to exchange information.  \n\nNeurologic and General review od systems unable to obtain aspatient apahsic\n",
+    "input3": "Left hemorrhagic stroke - ___  \nHyperlipidemia  \nHypertension  \nArthritis  \nOsteoperosis  \nTorn Right Medial Meniscus ___  \n",
+    "input4": "No family history of strokes or heart disease. \n",
+    "input5": "General:  ill appearing \nHEENT: NCAT, copious secretions in her mouth  \n___: RRR\nPulmonary: CTAB\nAbdomen: Soft\nExtremities: Warm, no edema\n\nNeurologic Examination:\n- Mental Status - Initially Awake, and echolalic which\ndeteriorated into obtounded. \n\n- Cranial Nerves - PERRL 2->1.5 brisk. Corneals present\nbilaterally. No clear BTT. Gag +. LT NLFF.\n\n- Motor - no temor or asterixix moves all extremities\nspontaneously antigravity but RT > LT. Withdraws to noxios stimulation on all extremities.\n\n-DTRs:\n  Bi Tri ___ Pat Ach\nL  1  1    1    1   1\nR  1  1    1    1   1\nPlantar response extensor LT.\nDISCHARGE PHYSICAL EXAMINATION :\nLargely unchanged from admision examination. She developed subsequent left arm shaking consistent likely with partial seizure from cortical irritation from hemorrhage. \n",
+    "input6": "IMAGING: \nNON CONTRAST HEAD CT:\n1.  Large mixed attenuation intraparenchymal hemorrhage \ninvolving the medial right frontal lobe with subarachnoid extension along the cingulate sulcus, tracking posteriorly into the region of the posterior corpus callosum. Subarachnoid hemorrhage in in the adjacent bilateral frontal gyri.  The hemorrhage measures up to 5.1 cm superiorly and 2.9 cm inferiorly.  There is associated 8 mm leftward shift of normally midline structures. \n2.  Smaller right frontal intraparenchymal hemorrhage measures 1.3 cm. \n3.  The basilar cisterns remain patent at this time. \n4.  Mild asymmetry of the left lateral ventricle temporal horn.  Close attention on followup examination is recommended to exclude developing hydrocephalus. \n\n"
+}

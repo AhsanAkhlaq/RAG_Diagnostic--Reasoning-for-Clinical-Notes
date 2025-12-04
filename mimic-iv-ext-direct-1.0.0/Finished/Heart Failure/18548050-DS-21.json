@@ -1,0 +1,61 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Pulseless electrical activity (PEA) is a serious arrhythmia that tends to lead to severe heart failure.$Cause_1": {
+                "PEA arrest$Input3": {}
+            },
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is elongated. The right atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strongly suspected heart failure.$Cause_1": {
+                    "proBNP-7575*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Chest Pain is a common symptom of heart failure.$Cause_1": {
+                        "Chest Pain$Input1": {}
+                    },
+                    "Shortness of breath (SOB) is a common symptom of heart failure.$Cause_1": {
+                        "SOB$Input1": {}
+                    },
+                    "Diabetes is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "Diabetes$Input3": {}
+                    },
+                    "Dyslipidemia is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "Dyslipidemia$Input3": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Severe primary pulmonary hypertension can lead to heart failure.$Cause_1": {
+                        "Severe primary pulmonary hypertension$Input3": {}
+                    },
+                    "A family history of cardiovascular disease$Cause_1": {
+                        "Father and 2 brothers with CAD$Input4": {}
+                    },
+                    "Common signs of lung congestion associated with heart failure.$Cause_1": {
+                        "Bibaliar crackles with expitory wheeze$Input5": {}
+                    },
+                    "Coronary artery disease (CAD) is also risk factor for heart failure.$Cause_1": {
+                        "PMHx of CAD (3 vessel disease with 100% occlusion of the right coronary artery but good collateralization)$Input2": {}
+                    },
+                    "Valvular heart disease is a common and important cause of heart failure.$Cause_1": {
+                        "Mitral Regurgitation$Input3": {}
+                    },
+                    "Valvular heart disease is a common and important cause of heart failure.*$Cause_1": {
+                        "Moderate to severe Aortic Stenosis$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest Pain, SOB\n",
+    "input2": "Pt is a male with PMHx of CAD (3 vessel disease with 100% occlusion of the right coronary artery but good collateralization), CHF, PVD with R stent leg, HTN, DM2, carotid artery disease, recent PEA arrest (hospitalized and mod-severe AS (peak gradient of 40mmHg and an estimated valve area of 1.0cm2) who is admitted for chest pain and shortness of breath.  History is gathered from the patient's two daughters, as he is too obtunded to give a history.  Per his daughters, he had been experiencing increasing CP all week since being discharged from rehab.  Has had multiple episodes of chest pain that came on with both rest and exertion, as well as while sitting on the toilet trying to have BM. Associated with diaphoresis and radiation of pain to left arm. Episodes lasted less than an hour usually and were relieved with multiple doses of nitro.  He also was complaining of worsening shortness of breath, which became signficantly worse last night.  Has been sleeping sitting up in a chair, becomes dyspneic and has chest pain when lying flat.  Daughters also endorse PND and worsening lower extremity edema. \n\ufeff\nGiven all these symptoms, his daughters have called a few times this week, but thus far the patient had refused to go.  Today they mentioned his symptoms at a pre-op visit for CABG planning, and they were told to call their cardiologist, who recommended they bring him to the ER.  They brought him to hospital, where he was tachypneic and tachycardic, so he was started on BiPAP.  Nitro paste was applied, resulting in hypotension, so paste was removed.  Cardiac enzymes at that time were negative and ECG showed baseline LVH with \"strain\" pattern. Given that his providers were and he is scheduled to undergo CABG here next week, he was transferred to ED via med-evac flight.  While en route he started to not tolerate the BiPAP, was given ativan 2mg IV, and subsequently became obtunded. \nOn arrival to hospital, initial vitals were HR: 99, BP: 179/70, and \nhis GCS was 7, he was satting 90% on NRB.  He was switched back onto BiPAP given his belly breathing, poor breath sounds at bases with crackles. He was started low dose nitro gtt with drop in pressures again, so this was stopped.  No lasix was given in the ED. Labs and imaging significant for Trop negative, CK: 37  MB: 2, Lactate:2.3, CXR showing volume overload from comparision 12 hours ago. \n   \nOn arrival to the floor, patient was on BiPAP, sedative and minimally responsive, GCS 12.\n",
+    "input3": "+ Diabetes\n+ Dyslipidemia \n+ Hypertension \n+ PEA arrest\n+ Mitral Regurgitation\n+ Moderate to severe Aortic Stenosis\n+ Severe primary pulmonary hypertension\n+ COPD on home O2\n+ Peripheral vascular disease\n+ Bilateral Carotid Stenosis - Occluded right ICA\n+ Benign neck tumors\n",
+    "input4": "Father and 2 brothers with CAD\n",
+    "input5": "Admission Physical Exam: \nVS: T=97.8 BP=142/95 HR=60 RR=18 O2 sat= 98% \nWDWN male in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \nNECK: Supple with JVP of 8-9 cm.  \nCARDIAC: PMI located in intercostal space, midclavicular line. RR, normal S1, S2. . Loud, late-peaking SEM with radiation to carotids. No r/g. No thrills, lifts. No S3 or S4.  LUNGS: No chest wall deformities, scoliosis or kyphosis. accessory muscle use and belly breathing. Bibaliar crackles with expitory wheeze.  \nABDOMEN: Soft, NTND. No HSM or tenderness.  \nEXTREMITIES: No c/c/e. No femoral bruits. 1+ lower extermity pitting edema \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES:  \nRight: Carotid 2+ \nLeft: Carotid 2+\n",
+    "input6": "CXR: Mild pulmonary edema, not definitely changed given differences in inspiratory effort and portable technique since exam earlier the same day. \n\nThe left atrium is elongated. The right atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %)\n\ufeff\n01:40PM BLOOD WBC-10.3 RBC-3.49* Hgb-10.3* Hct-31.9* \nMCV-91 MCH-29.3 MCHC-32.2 RDW-15.9*\n08:40AM BLOOD WBC-10.1 RBC-3.64* Hgb-10.4* Hct-32.5* \nMCV-89 MCH-28.6 MCHC-32.1 RDW-16.8*\n08:40AM BLOOD Glucose-226* UreaN-24* Creat-1.0 Na-138 \nK-4.3 Cl-94* HCO3-37* AnGap-11\n03:25PM BLOOD UreaN-25* Creat-1.1 Na-138 K-4.5 Cl-94*\n07:15AM BLOOD Glucose-154* UreaN-21* Creat-1.0 Na-137 \nK-4.6 Cl-95* HCO3-37* AnGap-10\n03:35PM BLOOD Glucose-292* UreaN-29* Creat-1.0 Na-137 \nK-4.3 Cl-94*\n07:44AM BLOOD Glucose-203* UreaN-28* Creat-1.0 Na-136 \nK-4.0 Cl-95* HCO3-38* AnGap-7*\n01:40PM BLOOD UreaN-29* Creat-1.0 Na-137 K-5.1 Cl-95* \nHCO3-37* AnGap-10\n07:44AM BLOOD CK-MB-2 cTropnT-<0.01\n08:50PM BLOOD CK-MB-2 proBNP-7575*\n08:50PM BLOOD cTropnT-<0.01\n"
+}

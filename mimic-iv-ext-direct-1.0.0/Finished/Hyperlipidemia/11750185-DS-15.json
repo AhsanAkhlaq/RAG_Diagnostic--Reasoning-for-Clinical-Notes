@@ -1,0 +1,24 @@
+{
+    "Hyperlipidemia$Intermedia_3": {
+        "Very high Triglycerides vaule 500 mg/dL and above$Cause_1": {
+            "Triglycerides-502*$Input6": {}
+        },
+        "Suspected Hyperlipidemia$Intermedia_2": {
+            "Blood clots in arteries may be related to dyslipidemia$Cause_1": {
+                "thrombus in the aortic$Input2": {}
+            },
+            "Hyperlipidemia can increase blood viscosity and increase the risk of thrombosis.$Cause_1": {
+                "a DVT of his left leg$Input2": {}
+            },
+            "Warfarin is an anticoagulant drug that is commonly used to prevent and treat blood clots. Taking this drug may indicate that patients are at risk for blood clots related to high cholesterol.$Cause_1": {
+                "Warfarin$Input2": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "The patient has an AneuRx stent graft which was placed on 5.4-cm aneurysm. Previous studies have shown some thrombus in the aortic component of the graft which is very interesting in light of the fact that in this year, he suffered a DVT of his left leg for uncertain reasons for which he is currently on Warfarin. He had a CT scan today.  He has had no other complaints and the swelling in his left leg has improved considerably.\n",
+    "input3": "+Non-Q wave myocardial infarction\n+Diverticulosis\n",
+    "input4": "N/C\n",
+    "input5": "VS: 97.2  P:61   BP: 144/62   RR: 13  Spo2: 100%\nGen: Alert and oriented x3, NAD\nCard: RRR\nLungs: CTAB\nAbd: soft, NT, ND\nGroin: no hematoma\nPulses:         Femoral    DP    ___ \nLeft             palp      dop   dop\nRight            palp      dop   dop\n",
+    "input6": "___ 06:15AM BLOOD WBC-10.4 RBC-3.17* Hgb-10.0* Hct-29.5* MCV-93 MCH-31.5 MCHC-33.9 RDW-13.2 Plt ___\n___ 06:15AM BLOOD UreaN-25* Creat-1.7* K-4.7\n___ 04:04AM BLOOD Glucose-150* UreaN-27* Creat-1.5* Na-136 K-4.7 Cl-102 HCO3-27 AnGap-12\n___ 05:19PM BLOOD Glucose-129* Lactate-2.1* Na-136 K-4.2 Cl-103\n___ 05:19PM BLOOD Hgb-10.5* calcHCT-32\n___ 05:19PM BLOOD freeCa-1.08* Triglycerides-502*\n \n"
+}

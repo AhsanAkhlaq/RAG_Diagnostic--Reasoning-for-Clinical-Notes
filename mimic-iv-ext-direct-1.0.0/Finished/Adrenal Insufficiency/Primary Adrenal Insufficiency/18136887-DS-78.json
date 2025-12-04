@@ -1,0 +1,30 @@
+{
+    "Primary Adrenal Insufficiency$Intermedia_3": {
+        "Direct diagnosis of Primary Adrenal Insufficiency$Cause_1": {
+            "Addison's disease$Input2": {}
+        },
+        "Suspected Adrenal Insufficiency$Intermedia_2": {
+            "presents for fatigue, cramping is a common symptom of adrenaline deficiency$Cause_1": {
+                "presents for fatigue, cramping$Input2": {}
+            },
+            "Reflects electrolyte imbalance caused by adrenal insufficiency$Cause_1": {
+                "Na 127, K 6.8$Input2": {}
+            },
+            "Adrenal insufficiency may lead to reduced physical endurance and impaired cardiopulmonary function, resulting in shortness of breath during light exertion.$Cause_1": {
+                "report some shortness of breath$Input2": {}
+            },
+            "Hyperkalemia may indicate an inadequately controlled adrenocortical hormone deficiency, further supporting the diagnosis of adrenal insufficiency$Cause_1": {
+                "K to be 5.8$Input2": {}
+            },
+            "Generalized weakness and fatigue are common symptoms of adrenal insufficiency, leading to reduced energy metabolism and muscle function.$Cause_1": {
+                "been feeling \"wonky\" with generalized weakness and fatigue with muscle cramping$Input2": {}
+            }
+        }
+    },
+    "input1": "none\n",
+    "input2": "Female of Addison's disease who presents for fatigue, cramping, abnormal labs. She has been feeling \"wonky\" with generalized weakness and fatigue with muscle cramping over the last several days.  She had a UTI and was seen in the ED for this; she was given a 1 week course of cefpodoxime which she just finished yesterday. (Urine cx came back with pan-sensitive \nE.coli).  At that time, her labs were sig for Na 127, K 6.8 (although hemolyzed).  She received fluids and was sent home.  She didn't take a higher dose of steroids at the time.  However, since that time she feels she never quite recovered in terms of fatigue and weakness, although the urinary symptoms are gone.  She does report some shortness of breath with exertion like going up stairs.  There was no e/o upper tract disease at the time.  She was seen by her PCP yesterday who drew labs and found her K to be 5.8, so in combination with her symptoms, sent her to the ED.  She took twice her usual dose of prednisone today (doubled to 10mg from 5mg).  She denies chest pain, cough, fevers, chills, nausea vomiting and diarrhea. \n",
+    "input3": "GASTROESOPHAGEAL REFLUX \nHYPERCHOLESTEROLEMIA \nHYPOTHYROIDISM \nIRON DEFICIENCY ANEMIA \nOSTEOPENIA \nSPINAL STENOSIS \nLACTOSE INTOLERANCE \nRHEUMATOID ARTHRITIS \nH/o COLLAGENOUS COLITIS\n",
+    "input4": "Per OMR and confirmed w/pt: 2 sisters w/breast cancer, 1 sister w/CAD, mother w/dementia and arthritis, father deceased w/heart disease\n",
+    "input5": "ADMISSION PHYSICAL EXAM\nVitals: 97.9 130/83 88 20 96% RA\nGeneral: well appearing, nontoxic, NAD\nHEENT: MM dry, EOMI, PERRL, no nystagmus\nNeck: supple\nLungs: CTAB, no w/r/r\nCV: normal rate, reg rhythm, no m/r/g\nAbdomen: Soft, NABS, very mild tenderness over all of abdomen (pt states \"it feels like I need to have a bowel movement\")\nExt: wwp, no c/c/e\nNeuro: no nystagmus. CN II-XII intact grossly.  ___ strength UE \nand ___ b/l.\n",
+    "input6": "ADMISSION LABS\n\n\n\n\nIMAGING\n\nCXR ___\nIMPRESSION:  \nNo acute cardiopulmonary process. \n"
+}

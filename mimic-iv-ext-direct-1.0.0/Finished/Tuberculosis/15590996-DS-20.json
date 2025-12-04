@@ -1,0 +1,27 @@
+{
+    "LTBI$Intermedia_3": {
+        "A positive tuberculin skin test indicates that an individual may have been exposed to Mycobacterium tuberculosis and is an important diagnostic basis for latent tuberculosis.$Cause_1": {
+            "PPD came back positive$Input2": {}
+        },
+        "The Quantiferon Gold test is a blood test used to detect tuberculosis infection. A positive result further supports the possibility of tuberculosis infection.$Cause_1": {
+            "quantiferon gold with came back positive$Input2": {}
+        },
+        "Denial of symptoms indicates that the patient does not display typical clinical symptoms of active tuberculosis, which is consistent with the characteristics of latent tuberculosis.$Cause_1": {
+            "denies any fevers/chills, no chest pain or SOB, no weight loss or night sweats$Input2": {}
+        },
+        "Suspected Tuberculosis$Intermedia_2": {
+            "There is a 5 mm ulcer on the right tonsil. Tonsillar ulcers may be associated with tuberculosis bacterial infection, as tuberculosis can cause local infection of the tonsils.$Cause_1": {
+                "5mm ulceration of R tonsil$Input5": {}
+            },
+            "There is a rounded increase in density in the left hilar region, which may be due to partial calcification of the lymph node. This calcification is often associated with underlying tuberculosis.$Cause_1": {
+                "Rounded left hilar density$Input6": {}
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "___ is a ___ without significant PMHx who presents for rule-out TB.  She was sent in from ___ after a PPD came back positive; the patient is starting work at ___ in a neuroscience lab. She also reportedly had a quantiferon gold with came back positive as well. She denies any fevers/chills, no chest pain or SOB, no weight loss or night sweats. Her only medical complaint is an ulceration of her R tonsil which she has had intermittently in the past growing up. She recently spent 10 weeks this past summer in ___ for research.  \n\nCXR showed a rounded left hilar density which may reflect partially calcified lymphadenopathy in the setting of prior granulomatous disease exposure. ___ induced sputum samples were sent. She was admitted for containment while ruling out TB.  On the floor, initial VS 98.1, 121/70, 78, 18, 100% on RA. Her only complaint is pain associated with her R tonsillar pits.\n",
+    "input3": "Depression\n",
+    "input4": "Paternal grandparents with T1 and T2DM. Maternal grandmother with sarcoidosis and HTN.\n",
+    "input5": "Vital Signs: 98.1, 121/70, 78, 18, 100% on RA  \n General: Alert, oriented, pleasant slim young female in no \nacute distress  \n HEENT: Sclera anicteric, MMM, 5mm ulceration of R tonsil, EOMI, \nPERRL, neck supple, JVP not elevated, no LAD  \n CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  \n Lungs: Clear to auscultation bilaterally, no wheezes, rales, rhonchi  \n Abdomen: Soft, non-tender, non-distended, bowel sounds present, no organomegaly, no rebound or guarding  \n GU: No foley  \n Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema  \n Neuro: AOx3, moving all extremities spontaneously, normal gait.\n",
+    "input6": "___ 04:30PM BLOOD WBC-6.5 RBC-4.14 Hgb-12.4 Hct-36.5 MCV-88 \nMCH-30.0 MCHC-34.0 RDW-12.7 RDWSD-40.5 Plt ___\n___ 04:30PM BLOOD Neuts-53.6 ___ Monos-8.0 Eos-0.6* \nBaso-0.5 Im ___ AbsNeut-3.49 AbsLymp-2.41 AbsMono-0.52 \nAbsEos-0.04 AbsBaso-0.03\n___ 04:30PM BLOOD Plt ___\n___ 04:30PM BLOOD Glucose-115* UreaN-8 Creat-0.5 Na-140 \nK-3.5 Cl-105 HCO3-24 AnGap-15\n___ 08:06AM BLOOD Calcium-9.1 Phos-3.9 Mg-1.7\n\n\nIMAGING\n===========================================\n___ CXR\nRounded left hilar density which may reflect partially calcified lymphadenopathy in the setting of prior granulomatous disease exposure  \n\n___ CT CHEST\nFINAL READ PENDING\n"
+}

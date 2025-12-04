@@ -1,0 +1,27 @@
+{
+    "upper gastrointestinal bleeding$Intermedia_3": {
+        "Fundal varices bleeding on gastroscopy is the gold standard for upper gastrointestinal bleeding$Cause_1": {
+            "Gastroscopy:fundal varices bleeding$Input6": {}
+        },
+        "Suspected upper gastrointestinal bleeding$Intermedia_2": {
+            "Dark stool is a typical manifestation of gastrointestinal bleeding$Cause_1": {
+                "Pt. has complained of ongoing dark stools, malaise at home$Input2": {}
+            },
+            "Hematemesis is a typical manifestation of gastrointestinal bleeding.$Cause_1": {
+                "A man with recent admission here for C. Cath given NSTEMI, s/p BMS to LAD, c/b hematemesis requiring transfusions.$Input2": {}
+            },
+            "Found to have Guaiac positive stools is the evidence of blood in the stool.$Cause_1": {
+                "Found to have Guaiac positive stools$Input2": {}
+            },
+            "!Melanotic stool is a typical manifestation of gastrointestinal bleeding$Cause_1": {
+                "melanotic stools$Input1": {}
+            }
+        }
+    },
+    "input1": "malaise, melanotic stools\n",
+    "input2": "A man with recent admission here for C. Cath given NSTEMI, s/p BMS to LAD, c/b hematemesis requiring transfusions. Pt. has complained of ongoing dark stools, malaise at home, so reported to ED. Found to have Guaiac positive stools, Hct down slightly from baseline, no evidence of brisk bleeding seen. AF, VSS in ED. Denies CP, SOB, hematemesis, lightheadedness, hematochezia. All other ROS negative.\n",
+    "input3": "+NSTEMI, s/p LAD BMD\n+severe esophagitis and ugib in setting of dual antiplatelet therapy following nstemi.\n+hypertension  \n+Hematuria \n+Glaucoma left eye  \n+left cRenal mass - c/w malignancy  \n+Colon adenoma  \n+CAD - diagnosed by stress test  \n+Depression  \n+Elevated PSA (approx 21)\n",
+    "input4": "heart attack in patient's father. Patient's father died of aortic aneurysm.\n",
+    "input5": "VS:  Afebrile and vital signs stable\nGeneral Appearance: pleasant, comfortable, NAD, non-toxic appearing\nEyes: : PERLL, EOMI, no conjuctival injection, anicteric\nENT: no sinus tenderness, MMM, oropharynx without exudate or lesions, no supraclavicular or cervical lymphadenopathy, no JVD, no carotid bruits, no thyromegaly or palpable thyroid nodules\nRespiratory: CTA b/l with good air movement throughout\nCardiovascular: RR, S1 and S2 wnl, no murmurs, rubs or gallops appreciated\nGastrointestinal: nd, +b/s, soft, nt, no palpable masses or hepatosplenomegaly\nMusculoskeletal/extremities: no cyanosis, clubbing or edema\nSkin/nails: warm, no rashes/no jaundice/no splinter hemmorhages/no skin ulcerations noted\nNeurological: AAOx3.  Cn II-XII intact.  strength throughout.  No sensory deficits to light touch appreciated.  No pass-pointing on finger to nose.  2+DTR's-patellar and biceps. \nNo asterixis, no pronator drift, fluent speech.\nPsychiatric: pleasant, appropriate affect\nHeme/Lymph: no cervical or supraclavicular lymphadenopathy\nGU: no catheter in place\n",
+    "input6": "Hematology \nCOMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW Plt Ct \n10:45AM    6.1 2.90* 8.5* 26.3* 91#1 29.5 32.5 14.9 630*# \n \nDIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas \n10:45AM    70.5*   17.1* 7.0 4.7* 0.7     \n  BASIC COAGULATION , PTT, PLT, INR)  PTT Plt Ct\n10:45AM        630*#   \n10:45AM    13.0 24.9   1.1 \n \nChemistry \nRENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap \n10:45AM    112* 38* 1.5* 137 4.2 \nESTIMATED GFR (MDRD CALCULATION) estGFR \n10:45AM    Using this1 \n\nUsing this patient's age, gender, and serum creatinine value of 1.5,\nEstimated GFR = 45 if non (mL/min/1.73 m2)\nEstimated GFR = 54 if (mL/min/1.73 m2)\nFor comparison, mean GFR for age group is  (mL/min/1.73 \nm2)\nGFR<60 = Chronic Kidney Disease, GFR<15 = Kidney Failure \n \nLAB USE ONLY LtGrnHD \n10:45AM    HOLD \n \nBlood Gas \nHEMOGLOBLIN FRACTIONS ( COOXIMETRY) Hgb calcHCT \n10:56AM    9.3*1. GIB, likely due to known severe esophagitis, and in setting of dual antiplatelet therapy\nGastroscopy:fundal varices bleeding\n"
+}

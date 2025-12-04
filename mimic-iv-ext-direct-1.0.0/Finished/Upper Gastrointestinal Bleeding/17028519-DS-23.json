@@ -1,0 +1,33 @@
+{
+    "upper gastrointestinal bleeding$Intermedia_3": {
+        "Gastric ulcer with bleeding,duodenal ulcer on EGD is the gold standard of upper gastrointestinal bleeding.$Cause_1": {
+            "urgent EGD\uff1aGastric ulcer with bleeding,duodenal ulcer$Input6": {}
+        },
+        "suspected upper gastrointestinal bleeding$Intermedia_2": {
+            "Coffee ground emesisand melena are the typical symptom of gastrointestinal bleeding$Cause_1": {
+                "coffee ground emesis, melena$Input1": {}
+            },
+            "Upper gastrointesyinal bleeding can caused by PUD.The patient had symptoms of gastrointestinal bleeding.$Cause_1": {
+                "A female with a history of PUD, hiatal hernia, chronic back pain, presenting as a transfer from after melena/hematemesis and then a syncopal episode and fall.$Input2": {}
+            },
+            "Anemia is one of the manifestations of gastrointestinal bleeding.$Cause_1": {
+                "RBC-3.19* HGB-10.6*$Input6": {}
+            },
+            "Syncope is one of the manifestations of gastrointestinal bleeding.$Cause_1": {
+                "Regarding syncope: Went downstairs this morning after having episode of emesis. Recalls falling to the ground, partially easing herself by grabbing a chair.$Input2": {}
+            },
+            "!Black watery stools is the typical symptom of gastrointestinal bleeding.$Cause_1": {
+                "A couple of black watery stools at home and then in .$Input2": {}
+            },
+            "!Feeling lightheaded and a little fuzzy are the typical symptom of gastrointestinal bleeding.$Cause_1": {
+                "Patient on arrival with only complaint of feeling lightheaded and a little fuzzy.$Input2": {}
+            }
+        }
+    },
+    "input1": "CC: coffee ground emesis, melena\n",
+    "input2": "A female with a history of PUD, hiatal hernia, chronic back pain, presenting as a transfer from after melena/hematemesis and then a syncopal episode and fall.\n\nRegarding hematemesis: Patient with known PUD. Normal state of health aside from mild URI symptoms until the night of , some mild queasiness before bed without abdominal pain, nausea, vomiting, or diarrhea. Then woke up early this morning due to queasiness. Patient had about episodes of emesis in a short span and none since. A couple of black watery stools at home and then in . Patient felt queasy feeling much relieved after emesis and has felt better since. No NSAID use (was counseled against this after prior ulcer); some alcohol; went on a recent trip in which she had drinks each night, otherwise, some social alcohol consumption. Patient's close friend/'daughter' , who is a nurse in , thought vomit at home looked like hematemesis.\n\nRegarding syncope: Went downstairs this morning after having episode of emesis. Recalls falling to the ground, partially easing herself by grabbing a chair. Did lose consciousness, then woke up and crawled to bed and called who came over and called EMS. Unclear how long patient was unconscious. Not sure how much blood from small forehead laceration but did not see profuse bleeding. Mild pain now on forehead only with palpation. Denies focal weakness, headache, confusion. Patient reported profuse sweating just after syncope, resolved since. No fever, chills.\n\nRegarding cough: Mild URI symptoms for several days, with nonproductive cough. Some sore throat. No fever, chills, malaise, myalgias. Some decrease in PO intake for several days. No known sick contacts. Patient still active despite mild illness, ambulatory and going about normal activities.\n\nrecords, summarized as follows: Patient on arrival with only complaint of feeling lightheaded and a little fuzzy. Unremarkable abdominal and neuro exam. BP 117/68 with HR of 104. Labs remarkable for normal INR, Hb 12.5, WBC 10.7, PLT 292, normal differential, normal BMP. CTH and c-spine unremarkable for acute process with some small vessel disease and old lacunae, some cervical spine degenerative changes noted. CT angio of ab/pelvis showing no acute bleed; extensive diverticulosis, large hiatal hernia noted (known prior), lumbar changes. CXR with clear lung fields, cardiomegaly (no images sent). One episode of melena in noted. Got Zofran and IV PPI at 1400. Sent to for urgent EGD.\n\nIn : VS: 97.9, HR 100 --> 89, 117/68, RR 18, 97% RA Labs: Hb 10.6 (from 12.5 at , WBC 9.3, INR 1.1, BMP largely unremarkable, Cr 0.6, BUN 35, CBC 23, other WNL, lact 1.1. T&S sent. GI notified on floor arrival; no need to see patient but aware of her and on board for EGD in am.\n\nROS: Pertinent positives and negatives as noted in the HPI. All other systems were reviewed and are negative.\n",
+    "input3": "+GERD\n-+hypercholesterolemia\n+h/o trigeminal neuralgia\n+external hemmorhoids\n",
+    "input4": "- dad: DM, stroke, died\n- mom starved herself to death after the death of her husband \n- sister and aunts with h/o cancer (sister had breast cancer died from brain mets)\n",
+    "input5": "VITALS: Afebrile and vital signs stable (see eFlowsheet)\nGENERAL: Pleasant, alert and in no apparent distress; AOx3, mentating appropriately\nEYES: Anicteric, pupils equally round\nENT: Ears and nose without visible erythema, masses, or trauma. \nOropharynx without visible lesion, erythema or exudate\nCV: Heart regular, no murmur, no S3, no S4.  No JVD. No edema\nRESP: Lungs clear to auscultation with good air movement bilaterally.  Breathing is non-labored\nGI: Abdomen soft, non-distended, non-tender to palpation.  Bowel\nsounds present.  No HSM\nGU: No suprapubic fullness or tenderness to palpation\nMSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs\nSKIN: No rashes or ulcerations noted\nNEURO: Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs, sensation to light touch grossly intact throughout\nPSYCH: pleasant, appropriate affect\n",
+    "input6": "04:45PM   WBC-9.3 RBC-3.19* HGB-10.6* HCT-32.5* MCV-102* MCH-33.2* MCHC-32.6 RDW-12.9 RDWSD-48.0*\n04:45PM   PLT COUNT-223\n04:45PM   GLUCOSE-108* UREA N-35* CREAT-0.6 SODIUM-143 POTASSIUM-4.5 CHLORIDE-109* TOTAL CO2-23 ANION GAP-11\n04:45PM   ALT(SGPT)-13 AST(SGOT)-18 ALK PHOS-45 TOT BILI-0.4\n04:45PM   ALBUMIN-3.7 CALCIUM-9.1 PHOSPHATE-3.4 MAGNESIUM-1.9\nurgent EGD\uff1aGastric ulcer with bleeding,duodenal ulcer\n"
+}

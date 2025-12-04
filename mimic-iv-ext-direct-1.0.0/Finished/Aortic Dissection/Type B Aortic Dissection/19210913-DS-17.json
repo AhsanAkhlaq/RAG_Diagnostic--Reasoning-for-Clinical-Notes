@@ -1,0 +1,36 @@
+{
+    "Type B Aortic Dissection$Intermedia_3": {
+        "The anatomical features of Type B aortic dissection are described, which originates from the distal left subclavian artery and extends to the bilateral common iliac arteries and possibly the proximal internal and external iliac arteries.$Cause_1": {
+            "Originating immediately distal to the origin of the left subclavian artery and coursing distal to involve the bilateral common iliac arteries and likely very proximal internal and external iliac arteries$Input6": {}
+        },
+        "It was confirmed that Type B aortic dissection started from the distal left subclavian artery and may extend to the left common iliac artery and the proximal left renal artery. The extent of the dissection did not change.$Cause_1": {
+            "Type B aortic dissection arising distal to left subclavian artery with probable extension into the left common iliac artery and proximal left renal artery, unchanged in extent$Input6": {}
+        },
+        "Suspected Aortic Dissection$Intermedia_2": {
+            "chest and back pain are common symptom of Aortic Dissection$Cause_1": {
+                "Chest/Back pain$Input1": {}
+            },
+            "Bilateral lower abdominal pain may be an early symptom of Aortic Dissection$Cause_1": {
+                "Pt developed BLQ abdominal pain$Input2": {}
+            },
+            "The pain spreads from the abdomen to the front of the chest, indicating that the condition is getting worse$Cause_1": {
+                "The pain then spread up to lower anterior chest$Input2": {}
+            },
+            "The pain becomes sharp and spreads to the chest and back, which is a typical symptom of aortic dissection.$Cause_1": {
+                "became sharp, and continued to spread around chest bilaterally to his back$Input2": {}
+            },
+            "Hypertension is a risk factor for aortic dissection$Cause_1": {
+                "SBPs in the 190s$Input2": {}
+            },
+            "HTN is a significant risk factor for aortic dissection$Cause_1": {
+                "HTN$Input3": {}
+            }
+        }
+    },
+    "input1": "Chest/Back pain\n",
+    "input2": "Pt developed BLQ abdominal pain that he thought was constipation on the evening prior to presentation to an OSH. The pain then spread up to lower anterior chest, became sharp, and continued to spread around chest bilaterally to his back and increased in severity prompting the pt to go to ___ at 19:00 last night. On arrival pt was diaphoretic, his HR was in the ___ and SBPs in the 190s. Pt had a non-con CT scan and was given pain medication,labetalol, and nitroglycerin. Pt was transferred to ___ this AM. On arrival, pt underwent a CTA. Pt's BP is being controlled with esmolol, nitroglycerin, and nicardipine drips. Pt reports ongoing back pain, though dull and less severe than before but denies abdominal or chest pain at this time. \n",
+    "input3": "PMH: HTN, hasn't see a doctor in ___ yrs\nPSH: back surgery x2, L wrist surgery\n",
+    "input4": "Father died of brain tumor at age ___.\n",
+    "input5": "HR 77, BP 135/73, RR 22, SaO2 97% on 2L NC\nNeuro/Psych: Oriented x3, Affect Normal, Anxious. \nNeck: No masses, Trachea midline, Thyroid normal size,\nnon-tender, no masses or nodules. \nNodes: No clavicular/cervical adenopathy, No inguinal \nadenopathy.\nSkin: No atypical lesions. \nHeart: Regular rate and rhythm. \nLungs: Clear, Normal respiratory effort, abnormal: Sternal\ntenderness. \nGastrointestinal: Abnormal: Firm w rigoring, epigastric\ntenderness (no rebound, unable to assess guarding d/t rigoring),\ndistented, umbilical hernia. \nRectal: Not Examined. \nExtremities: Wwp x4, no edema, no skin changes. \nPulse Exam (P=Palpation, D=Dopplerable, N=None)\n-RUE Radial: P. \n-LUE Radial: P. \n-RLE Femoral: P. Popiteal: P. DP: P. ___: P. \n-LLE Femoral: P. Popiteal: P. DP: P. ___: P. \n",
+    "input6": "___ 02:29AM BLOOD WBC-8.9 RBC-4.54* Hgb-13.6* Hct-38.8* \nMCV-86 MCH-29.9 MCHC-34.9 RDW-14.2 Plt ___\n___ 02:29AM BLOOD Glucose-153* UreaN-13 Creat-1.0 Na-138 \nK-3.9 Cl-103 HCO3-26 AnGap-13\n___ 02:02AM BLOOD ALT-20 AST-19 LD(LDH)-187 AlkPhos-61 \nTotBili-0.7\n___ 02:29AM BLOOD Calcium-8.4 Phos-3.9 Mg-2.2\n___ 02:59AM BLOOD %HbA1c-5.6 eAG-114\n\n___ CTA Torso:\nOriginating immediately distal to the origin of the left subclavian artery and coursing distal to involve the bilateral common iliac arteries and likely very proximal internal and external iliac arteries. The true lumen supplies the celiac axis, SMA, right renal artery, and ___. The false lumen supplies the left renal artery. Both kidneys are well perfused with normal symmetric nephrograms. \n\n\n___ CTA Torso: \n1. Type B aortic dissection arising distal to left subclavian artery with probable extension into the left common iliac artery and proximal left renal artery, unchanged in extent.  Celiac axis, SMA, ___, and right renal artery arise from the true lumen.  No CT evidence of vascular compromise of the solid organs. \n2. Dilated main pulmonary artery, suspicious for pulmonary artery \nhypertension. \n3. Bilateral nonhemorrhagic small pleural effusions with associated \natelectasis, increased from prior. \n4. 10 mm low-density right adrenal nodule, too small to characterize, but statistically most compatible with an adenoma. \n"
+}

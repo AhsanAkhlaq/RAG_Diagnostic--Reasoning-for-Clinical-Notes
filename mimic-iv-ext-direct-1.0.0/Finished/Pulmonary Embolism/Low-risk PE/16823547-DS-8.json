@@ -1,0 +1,32 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "The right heart has not been significantly affected, and submassive PE is ruled out.$Cause_1": {
+            "The main and right pulmonary arteries are normal in caliber, and there is no evidence of right heart strain.$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "CTA report confirmed right lower lobe segmental pulmonary embolism$Cause_1": {
+                "Positive for segmental pulmonary embolism in right lower lobe,$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Pain around back area is a common symptom of PE$Cause_1": {
+                    "right shoulder and mid back pain$Input2": {}
+                },
+                "This may be because deep breathing obstructs blood circulation in the lungs, aggravating the pulling of the pleura and increasing pain.$Cause_1": {
+                    "Pain is worse with inspiration or laughing$Input2": {}
+                },
+                "A right lower lobe infiltrate found on a chest x-ray may indicate a lung infection or a blood clot$Cause_1": {
+                    "CXR office today with RLL infiltrate$Input2": {}
+                },
+                "Pulmonary embolism may block blood flow to a portion of the lung, resulting in decreased breath sounds.$Cause_1": {
+                    "Decreased BS at right base$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "She s/p repeat C/S referred to ED by PCP PE. Patient reports right shoulder and mid back pain for the past 5 days that has been constant. Pain is worse with inspiration or laughing. She denies CP/SOB/abd pain/cough/F/C/palpitations/heavy VB/leg pain.  CXR office today with RLL infiltrate, sent to ED for further work up.\n",
+    "input3": "OB-GYN Hx: \nPrimary CS for failed forceps, TAB x 1, SAB x 1 Repeat CS for previa\n\ufeff\nPMH: SVT (diagnosed postpartum, normal ECHO, no episodes. Breast fibroadenoma, H pylori, migraines Lymphocytosis\nPSH: C/S x 2, lumpectomy\n",
+    "input4": "\n",
+    "input5": "Physical Exam:\n98.2 103 121/62 20 100% RA \nGen: NAD, well appearing\nCV: RRR\nPULM: Decreased BS at right base, otherwise CTAB.\nAbd: soft, NT, ND. Inc with scant dried old blood, otherwise c/d/i.\nExtr: NT/NE, symmetric\n\ufeff\n",
+    "input6": "___ 09:04PM BLOOD WBC-7.9 RBC-2.66*# Hgb-8.6*# Hct-26.3*#  MCV-99* MCH-32.2* MCHC-32.6 RDW-13.8\n___ 09:04PM BLOOD Neuts-59.0 Monos-4.6 Eos-1.9 Baso-0.5\n___ 09:04PM BLOOD PTT-25.5\n___ 09:04PM BLOOD Glucose-89 UreaN-17 Creat-0.6 Na-140 K-4.3 Cl-108 HCO3-22 AnGap-14\n\ufeff\nCTA: Positive for segmental pulmonary embolism in right lower lobe, possibly lingula. Patchy right posterior basilar opacity suggesting atelectasis and/or ischemic changes, although infection not excluded \n\ufeff\nThe main and right pulmonary arteries are normal in caliber, and there is no evidence of right heart strain.\n"
+}

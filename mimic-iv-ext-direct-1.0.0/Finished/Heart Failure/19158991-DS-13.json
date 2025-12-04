@@ -1,0 +1,49 @@
+{
+    "HFpEF$Intermedia_5": {
+        "LVEF\u226550% is the critiera for HFpEF$Cause_1": {
+            "LVEF>55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Echocardiography reported that Overall left ventricular systolic function is severely depressed. This suggests heart failure.$Cause_1": {
+                "Overall left ventricular systolic function is severely depressed.$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strongly suspected heart failure.$Cause_1": {
+                    "NT-pro-BNPis 9500$Input2": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "acute dyspnea is a common symptom of heart failure.$Cause_1": {
+                        "acute dyspnea$Input1": {}
+                    },
+                    "Coronary artery disease (CAD) is also risk factor for heart failure.$Cause_1": {
+                        "coronary artery disease$Input3": {}
+                    },
+                    "Diabetes is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "Non-insulin dependent type II diabetes$Input3": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "blood pressure later climbed to 191/113 but spontaneously lessened to162/94$Input2": {}
+                    },
+                    "Dyslipidemia is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "Dyslipidemia$Input3": {}
+                    },
+                    "Scattered bibasilar crackles that clear with coughing is a common sign of pulmonary edema associated with heart failure.$Cause_1": {
+                        "Scattered bibasilar crackles that clear with coughing.$Input5": {}
+                    },
+                    "Possible sign of heart failure$Cause_1": {
+                        "Trace pedal edema$Input5": {}
+                    },
+                    "SOB is the symptom of HF$Cause_1": {
+                        "breathlessness$Input2": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "acute dyspnea\n",
+    "input2": "He is adiabetic male, pacemaker dependent. He was in his usual state of health until a day or two ago when he became more labored at rest. Early this morning he awoke with acute breathlessness prompting him to seek emergency care. His oxygenation was normal in the field. He was likewise normotensive without a supplemental oxygen requirement on arrival. His blood pressure later climbed to 191/113 but spontaneously lessened to162/94 in the next hour or so. His work of breathing, however, became more labored and oxygenation dropped to the low 90-range, prompting application of BiPAP. He was more comfortable thereafter. In fact, he was converted to nasal cannula just prior to transfer. His respiratory distress paralleled a rise inlactate from 5.7 -> 6.9. He had received one liter of fluid by this time. He has questionable opacification of the right lower lobe. He received ceftriaxone and azithromycin, in that regard.There are more interstitial infiltrates on his second chest x-ray as well. He is paced via single ventricular lead at 60. His underlying rhythm appears to fibrillation or flutter. NT-pro-BNPis 9500. Troponin is undetectable. CBC is notable for WBC of 11.1without immature forms. Hemoglobin is 9.7 and platelets are 84. There are nucleated red blood cells. BUN is 29. Creatinine is1.4. ALT and AST are 43 and 68, respectively. Urinalysis is bland.\n",
+    "input3": "+Suspected coronary artery disease by reversible inferior wall defect on nuclear stress.\n+Non-insulin dependent type II diabetes. \n+Encephalomalacia in right MCA distribution. \n+Hypertension.\n+Dyslipidemia.\n+GERD.\n",
+    "input4": "unable to obtain language barrier\n",
+    "input5": "Physical Exam:\nAdmission Physical Exam:\nVITALS: T 99.3, HR 63, BP 168/96, RR 25, 96% RA\nGENERAL: Elderly male in no apparent physical distress.\nHEENT: Anicteric sclerae. Oropharynx dry.\nNECK: Estimated 12-14 cm. No cervical lymphadenopathy.\nCV: Regular rate and rhythm. S1/S2. Soft systolic murmur.\nPULM: Comfortable. Scattered bibasilar crackles that clear with coughing. Occasional expiratory wheeze.\nABDOMEN: Distended but soft. Vague right upper quadranttenderness.\nEXTREMITIES: Cool feet but otherwise warm. Trace pedal edema.\nSKIN: Within normal limits.\nNEURO: Non-focal. \n\ufeff\n",
+    "input6": "ADMISSION LABS:\n\ufeff\n___ 05:23AM BLOOD WBC-11.1* RBC-3.26* Hgb-9.7* Hct-31.4* MCV-96 MCH-29.8 MCHC-30.9* RDW-17.2* RDWSD-60.3* Plt Ct-84*\n___ 05:23AM BLOOD PTT-27.7\n___ 05:23AM BLOOD Glucose-280* UreaN-29* Creat-1.4* Na-140 K-5.5* Cl-106 HCO3-17* AnGap-17\n___ 05:23AM BLOOD ALT-43* AST-68* LD(LDH)-856* AlkPhos-210* TotBili-0.7\n\ufeff\nPERTINENT IMAGING:\nCoronary Description\nThe coronary circulation is right dominant.\nLM: The Left Main, arising from the left cusp, is a large caliber vessel. This vessel bifurcates into the left Anterior Descending and Left Circumflex systems. There is a 50% stenosis in the distal segment.\nLAD: The Left Anterior Descending artery, which arises from the LM, is a large caliber vessel. There is a 40% stenosis in the proximal segment. There is an 80% stenosis in the proximal segment. There is a 90% stenosis in the distal segment.The Diagonal, arising from the proximal segment, is a medium caliber vessel.\nCx: The Circumflex artery, which arises from the LM, is a large caliber vessel. There is moderate tortuosity beginning in the proximal segment. There is an 80% stenosis in the ostium. There is a 90%stenosis in the mid segment.The Obtuse Marginal, arising from the proximal segment, is a small caliber vessel. The ___ Obtuse Marginal, arising from the mid segment, is a medium caliber vessel.\nRCA: The Right Coronary Artery, arising from the right cusp, is a large caliber vessel. There is a 70%stenosis in the proximal and mid segments. The Right Posterior Descending Artery, arising from the distal segment, is a medium caliber vessel. The Right Posterolateral Artery, arising from the distal segment, is a medium caliber vessel.\n\ufeff\nTTE:\nThe left atrial volume index is mildly increased. The right atrium is mildly enlarged. There is no evidence for a right-to-left shunt with agitated saline at rest. The inferior vena cava is dilated (>2.5 cm). There is mild symmetric left ventricular hypertrophy with a normal cavity size. There is SEVERE global left ventricular hypokinesis. Overall left ventricular systolic function is severely depressed. Left ventricular cardiac index is depressed(less than 2.0 L/min/m2). There is no resting left ventricular outflow tract gradient. Normal right ventricular cavity size with focal hypokinesis of the apical free wall. Intrinsic right ventricular systolic function is likely lower due to the severity of tricuspid regurgitation. The aortic sinus diameter is normal for gender with normal ascending aorta diameter for gender. The aortic arch diameter is normal with a normal descending aorta diameter. The aortic valve leaflets (?#) are mildly thickened. There is no aortic valve stenosis. There is no aortic regurgitation. The mitral valve leaflets are mildly thickened with no mitral valve prolapse. There is moderate [2+] mitral regurgitation. The pulmonic valve leaflets are not well seen. The tricuspid valve leaflets appear structurally normal. There is moderate to severe [3+]tricuspid regurgitation. Due to acoustic shadowing, the severity of tricuspid regurgitation may be underestimated. There is SEVERE pulmonary artery systolic hypertension. In the setting of at least moderate to severe tricuspid regurgitation, the pulmonary artery systolic pressure may be underestimated. There is no pericardial effusion. global systolic function are normal (LVEF>55%)\n\n\ufeff\n"
+}

@@ -1,0 +1,27 @@
+{
+    "Secondary Adrenal Insufficiency$Intermedia_3": {
+        "ACTH stimulation testing shows an increase in cortisol levels after administration of ACTH, which may indicate a possible problem at the level of the hypothalamic-pituitary-adrenal axis in the adrenal gland's response to ACTH.$Cause_1": {
+            "A stim test find that cortisol increases when ACTH is given.$Input6": {}
+        },
+        "Suspected Adrenal Insufficiency$Intermedia_2": {
+            "Adrenal insufficiency causes the body to have abnormally low levels of cortisol. Cortisol is a hormone that helps regulate blood pressure and cardiovascular function, and low cortisol levels can cause a drop in blood pressure, which can cause dizziness or lightheadedness.$Cause_1": {
+                "Lightheadedness$Input1": {}
+            },
+            "Dizziness may be due to orthostatic hypotension, a sudden drop in blood pressure when standing up, which may be related to insufficient secretion of adrenal cortex hormones, as these hormones help regulate blood pressure and blood volume.$Cause_1": {
+                "intermittent lightheadedness$Input2": {}
+            },
+            "Sudden blacking out of vision may be due to a temporary lack of blood flow to the brain, which can also be associated with low blood pressure, further supporting the possibility of adrenal insufficiency.$Cause_1": {
+                "vision changes, described as vision \"going black\"$Input2": {}
+            },
+            "Significant weight loss without an obvious cause may be related to chronic conditions such as adrenal insufficiency, which can affect metabolism and appetite.$Cause_1": {
+                "20 pound weight loss$Input2": {}
+            }
+        }
+    },
+    "input1": "Lightheadedness\n",
+    "input2": "Patient states that over the past 3 months he has had intermittent lightheadedness occurring a few seconds after he stands up and starts walking. It lasts for a second and he has associated vision changes, described as vision \"going black\". \nThe vision changes then resolves completely. He has not syncopized during this time he has no chest pain, shortness of breath, or abdominal pain. He endorses associated nausea but denies vomiting. Denies family history of sudden cardiac death. Additionally, he reports a 20 pound weight loss over the past 12 months that was unintentional. He denies cough, night sweats, history of incarceration, hemoptysis, recent travel, or lower extremity swelling. \n\nHe was seen by his primary care doctor multiple times and has follow-up with a cardiologist. He went back to his primary care doctor today prior to presentation and was found to be hypotensive, which prompted his referral to the emergency department.    \n",
+    "input3": "Hemochromatosis carrier\n",
+    "input4": "Father - hemochromatosis \n___ great-grandfather - colon cancer\n___ grandfather - CAD s/p CABG\nPaternal uncle - heart transplant (unsure why)\nMaternal aunt/grandmother - breast cancer\nMaternal aunt - pancreatic cancer\n",
+    "input5": "VITALS: T 98.2 BP 113/62 HR 73 RR 14 O2 100% RA \nGENERAL: Well-appearing, well-groomed young man, resting\ncomfortably in bed, in NAD\nHEENT: NC/AT, EOMI, PERRL, anicteric sclera, MMM\nNECK: Supple, no JVD\nHEART: RRR, normal S1/S2, no m/r/g\nLUNGS: CTAB, breathing comfortably on RA without use of \naccessory\nmm, no wheezes/rhonci/rales\nABDOMEN: Soft, non-tender, non-distended, active bowel sounds, \nno\norganomegaly\nGU: Testicles without edema or palpable masses, no inguinal\nlympahdenopahy, no penile discharge\nEXTREMITIES: No c/c/e\nSKIN: Warm, well-perfused, no ___\nNEURO: Alert, oriented x3, CN II-XII intact, ___ strength in b/l upper and lower extremities, normal sensation \n",
+    "input6": "___ 12:12AM BLOOD WBC-7.2 RBC-4.46* Hgb-13.1* Hct-38.0* \nMCV-85 MCH-29.4 MCHC-34.5 RDW-12.5 RDWSD-38.4 Plt ___\n___ 12:12AM BLOOD Neuts-41.3 ___ Monos-7.3 Eos-2.5 \nBaso-0.7 Im ___ AbsNeut-2.98 AbsLymp-3.47 AbsMono-0.53 \nAbsEos-0.18 AbsBaso-0.05\n___ 06:05AM BLOOD Hypochr-NORMAL Anisocy-NORMAL Poiklo-1+* \nMacrocy-NORMAL Microcy-NORMAL Polychr-OCCASIONAL \nOvalocy-OCCASIONAL\n___ 12:12AM BLOOD Plt ___\n___ 12:12AM BLOOD Glucose-99 UreaN-26* Creat-0.9 Na-130* \nK-4.9 Cl-97 HCO3-27 AnGap-6*\n___ 12:12AM BLOOD ALT-66* AST-58* AlkPhos-66 TotBili-0.5\n___ 12:12AM BLOOD Albumin-4.2 Calcium-9.6 Phos-5.2* Mg-1.6\n\nIMAGING\n==========================\nCXR ___\nIMPRESSION:  \nNo acute cardiopulmonary process. \n\nRUQUS ___\nIMPRESSION: \n1. No cholelithiasis or sonographic evidence of acute cholecystitis. \n2. No evidence of hepatic lesion. \n3. Mild splenomegaly measuring 13.7 cm. \n\nA stim test find that cortisol increases when ACTH is given.\n\n\n"
+}

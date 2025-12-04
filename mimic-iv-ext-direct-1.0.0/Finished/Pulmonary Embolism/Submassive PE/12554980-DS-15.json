@@ -1,0 +1,53 @@
+{
+    "Submassive PE$Intermedia_4": {
+        "Rule out massive PE$Cause_1": {
+            "The patient is hemodynamically stable.$Input6": {}
+        },
+        "Right ventricular chamber dilation and reduced free wall activity are direct consequences of pulmonary hypertension and increased right ventricular load, and are one of the key diagnostic indicators of PE.$Cause_1": {
+            "Right ventricular cavity dilation with free wall hypokinsis.$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Pulmonary CT angiography showed extensive embolism of bilateral pulmonary arteries with flattening of the septum, suggesting that the right ventricle may be under additional pressure, which is a typical manifestation of PE.$Cause_1": {
+                "Extensive pulmonary emboli involving the lobar arteries bilaterally, with flattening of the interventricular septum concerning for right heart strain.$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Syncope is a common symptom of PE.$Cause_1": {
+                    "syncope$Input1": {}
+                },
+                "Shortness of breath is a classic symptom of pulmonary embolism$Cause_1": {
+                    "shortness of breath at baseline$Input2": {}
+                },
+                "Bilateral leg swelling may be a sign of deep vein thrombosis (DVT), a common cause of pulmonary embolism.$Cause_1": {
+                    "bilateral leg swelling that has since improved$Input2": {}
+                },
+                "Increased shortness of breath over a normal period, consistent with pulmonary embolism$Cause_1": {
+                    "felt short of breath, more so than usual$Input2": {}
+                },
+                "Heaviness in the chest, common in pulmonary embolism, because blockage of a blood vessel in the lung may cause increased chest pressure$Cause_1": {
+                    "something \"sitting on my chest\"$Input2": {}
+                },
+                "Patients who experience severe breathing difficulties or loss of consciousness during the event are symptoms of pulmonary embolism$Cause_1": {
+                    "\"gurgling\" noise and \"slumped back\" into thesofa$Input2": {}
+                },
+                "Patients who fail to continue taking their blood clot-preventing medications may be at increased risk for blood clots and subsequent pulmonary embolism$Cause_1": {
+                    "off it for approximately weeks$Input2": {}
+                },
+                "Hypertension is a risk factor for pulmonary embolism$Cause_1": {
+                    "HYPERTENSION$Input3": {}
+                },
+                "Hyperlipidemia is a risk factor for pulmonary embolism$Cause_1": {
+                    "HYPERLIPIDEMIA$Input3": {}
+                },
+                "High obesity is a significant risk factor for pulmonary embolism$Cause_1": {
+                    "Morbidly obese$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "syncope\n",
+    "input2": "Pt was in his usual state of health today after a discharge fromrehab.  He has been toe-touch weight bearing for several days,and exerting himself more than usual at home.  The patient wascooperating with his exercises and doing well; he has shortness of breath at baseline when getting up and walking around, butusually it improves with some rest.  The only thing he noticed before today was some bilateral leg swelling that has since improved.\n\ufeff\nOn the evening of arrival, Pt got up from a couch to go tothe bathroom.  He felt short of breath, more so than usual; hesat back down on the cough, and then - per his wife who saw theevent - he made a \"gurgling\" noise and \"slumped back\" into thesofa.  Pt remembers a feeling of something \"sitting on my chest\" before he lost consciousness.\n\ufeff\nPt estimates that he was unconscious for approximately 5 minutes. His wife said he twitched once, but otherwise had no jerking movements.  Pt thought he was incontinent of a small amount of urine after the event.  He was a little slow to return to normal, but within 20 minutes he was speaking normally with EMT's.  He did not have any tongue biting during the episode.  \n\ufeff\nPt states that he had been taking his enoxaparin until hisprescription ran out (reports 40mg BID at home).  He took it for 10 days after his surgery, and his been off it for approximately weeks.  \n\ufeff\nPatient denies headache, vision changes, cough, runny nose, fever, aches/pains, abdominal pain, bowel habit changes, or dysuria.  He further denies preceding fevers, palpitations, dizziness/lightheadedness.  \n\ufeff\n",
+    "input3": "+ANKLE SPRAIN                                                    \n+CELLULITIS                                                      \n+CHOLECYSTECTOMY                                                 \n+DIABETES MELLITUS                                               \n+GASTROENTERITIS                                                 \n+HEALTH MAINTENANCE                                              \n+HYPERLIPIDEMIA                                                  \n+HYPERTENSION\n",
+    "input4": "Mother, deceased from mycardial infarction. Father's health status unknown. Sister died with AIDS. \n\ufeff\n",
+    "input5": "Physical Exam:\nADMISSION PHYSICAL EXAM:\nVS:  T 98.4 BP 143/76 HR 87 RR 20 O2 98% on 2L NC\nGENERAL: Morbidly obese black male, lying back in bed.  Pleasantand cooperative, in NAD.\nHEENT: Sclerae anicteric, MMM.  PERRL. \nNECK: Unable to assess JVP due to body habitus.\nHEART: Distant heart sounds, but RRR, normal S1/S2.  Pt statesthat he had a previous murmur \"that I grew out of.\"\nLUNGS: CTAB, no wheezes, rales, rhonchi. \nABDOMEN: Normoactive bowel sounds.  Abdomen is soft, obese,nondistended, nontender in all quadrants, with no rebound/guarding.  No hepatosplenomegaly  \n\nPULSES: 2+ DP pulses bilaterally  \nNEURO: No pronator drift, normal FNF testing.  Moving all four extremities with purpose.\n\ufeff\n",
+    "input6": "ADMISSION LABS:\n___ 09:41PM   PTT-79.7*\n___ 02:53PM   PTT-66.1*\n___ 09:10AM   CK-MB-2 cTropnT-0.03*\n___ 05:51AM   WBC-11.1* RBC-4.11* HGB-12.2* HCT-36.8* MCV-90 MCH-29.7 MCHC-33.2 RDW-13.3 RDWSD-43.8\n___ 05:51AM   PLT COUNT-175\n___ 05:51AM   PTT-96.4*\n___ 04:00AM   cTropnT-0.06*\n___ 11:51PM   PO2-47* PCO2-44 PH-7.37 TOTAL CO2-26 BASE XS-0\n___ 11:51PM   LACTATE-1.9\n___ 11:42PM   GLUCOSE-162* UREA N-14 CREAT-0.9 SODIUM-140 POTASSIUM-4.3 CHLORIDE-104 TOTAL CO2-24 ANION GAP-12\n___ 11:42PM   estGFR-Using this\n___ 11:42PM   ALT(SGPT)-22 AST(SGOT)-20 ALK PHOS-118 TOT BILI-0.3\n___ 11:42PM   LIPASE-65*\n___ 11:42PM   CK-MB-2 cTropnT-0.04* proBNP-117\n___ 11:42PM   ALBUMIN-3.5 CALCIUM-9.0 PHOSPHATE-3.6 MAGNESIUM-1.8\n___ 11:42PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG tricyclic-NEG\n___ 11:42PM   WBC-11.4* RBC-4.25* HGB-12.6* HCT-38.0* MCV-89 MCH-29.6 MCHC-33.2 RDW-13.2 RDWSD-43.5\n___ 11:42PM   NEUTS-81.5* LYMPHS-10.2* MONOS-6.0 EOS-1.5 BASOS-0.4 IM AbsNeut-9.30* AbsLymp-1.16* AbsMono-0.68 AbsEos-0.17 AbsBaso-0.05\n___ 11:42PM   PLT COUNT-167\n___ 11:42PM   PTT-26.7\n\ufeff\nIMAGING:\nCTA CHEST\n\ufeff\nIMPRESSION:\n \n \n1. Extensive pulmonary emboli involving the lobar arteries bilaterally, with flattening of the interventricular septum concerning for right heart strain.\n2. No evidence of pulmonary infarct.\n\ufeff\nIMPRESSION: \nNo evidence of deep venous thrombosis in the right or left lower extremityveins.  Note is made that the peroneal veins could not be visualized bilaterally.\n\ufeff\nTTE\nIMPRESSION: The patient is hemodynamically stable. Suboptimal image quality. Right ventricular cavity dilation with free wall hypokinsis. \nMild pulmonary artery systolic hypertension. Mild symmetric left ventricular hypertrophy withnormal cavity size and global biventricular systolic function.\n\ufeff\n\n\ufeff\n"
+}

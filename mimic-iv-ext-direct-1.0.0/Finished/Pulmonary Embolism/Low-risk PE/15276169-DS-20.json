@@ -1,0 +1,56 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "This is the support for Low-risk PE$Cause_1": {
+            "The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "This shows a focal abnormality in the lungs, a typical radiological finding of pulmonary embolism.$Cause_1": {
+                "Associated ground-glass opacity in peripheral wedge pattern$Input6": {}
+            },
+            "This shows a focal abnormality in the lungs, a typical radiological finding of pulmonary embolism.*$Cause_1": {
+                "Again seen is retrocardiac opacification consistent with volume loss, effusions, and the patient's likely infarct given known pulmonary embolus.$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "SOB is a common symptom of PE$Cause_1": {
+                    "shortness of breath$Input1": {}
+                },
+                "Pleuritic pain is a common symptom of pulmonary embolism, characterized by chest pain that worsens with breathing.$Cause_1": {
+                    "pleuritic chest pain$Input2": {}
+                },
+                "Sharp, central chest pain, with a location and quality consistent with pulmonary embolism$Cause_1": {
+                    "pain as sharp and centrally located \"in my lung\", and gradually spread lower throughout the day$Input2": {}
+                },
+                "Pain that worsens with activity is common in patients with pulmonary embolism$Cause_1": {
+                    "Pain was worse as she moved and changed positions$Input2": {}
+                },
+                "Shortness of breath is a classic symptom of pulmonary embolism$Cause_1": {
+                    "a little short of breath$Input2": {}
+                },
+                "A dry cough may be a symptom of a pulmonary embolism$Cause_1": {
+                    "dry cough$Input2": {}
+                },
+                "Syncope or lightheadedness may be due to low oxygen levels or low blood pressure caused by pulmonary embolism$Cause_1": {
+                    "felt lightheaded, which improved by standing in front of a fan$Input2": {}
+                },
+                "Chronic hypertension may lead to long-term stress on the cardiovascular system and increase the risk of thrombosis and vascular damage, which are associated with the development of PE.$Cause_1": {
+                    "cHTN$Input3": {}
+                },
+                "This indicates pulmonary insufficiency, a typical clinical manifestation of pulmonary embolism.$Cause_1": {
+                    "distant breath sounds, decreased air movement throughout$Input5": {}
+                },
+                "Pulmonary embolism may cause circulatory disturbances, leading to localized or widespread edema.$Cause_1": {
+                    "trace edema$Input5": {}
+                },
+                "Abnormal PTT values \u200b\u200bindicate a possible problem with the coagulation system, a key risk factor for pulmonary embolism.$Cause_1": {
+                    "PTT-88.3$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "shortness of breath\n",
+    "input2": "She is a F who was recently discharged 2 weeks ago after a c-section for pre-eclampsia to the ED with pleuritic chest pain x 1 day. She woke up that gradually worsened throughout the day.  Described the pain as sharp and centrally located \"in my lung\", and gradually spread lower throughout the day.  Pain was worse as she moved and changed positions.  Did not notice any laterality for pain.  Began to feel a little short of breath.  In the past hour, has developed a dry cough, no hemoptysis.  This morning while standing in the shower, she felt lightheaded, which improved by standing in front of a fan.  Otherwise, she has had a good appetite, no fever, no n/v/d, no abdominal pain.\n\ufeff\nShe has otherwise recovered well from her C/S, and has weaned from her pain meds. She has been on antihypertensives\n",
+    "input3": "OB/GYN Hx \n-s/p C-section for severe pre-eclampsia at 29 weeks\n-denies abnormal paps/STIs\n-anterior uterine fibroids 3x3x3 noted on 13 but not commented on in other U/S's.\n\ufeff\nPMH: \n-cHTN - dx yrs prior to pregnancy\n-asthma\n-vitD def\n\n",
+    "input4": "-Uncle, grandfather, and great grandfather died of aneurysms\n-Grandmother with ovarian cancer, diagnosed in early\n-No family history of breast cancer\n-Multiple paternal relatives with hypertension\n-Grandmother with DM2\n\ufeff\n",
+    "input5": "Physical Exam:\n(on admission)\n\ufeff\nVS (21:57): HR 73, BP 117/68, RR 18, O2 100% on RA\nGen: NAD, resting comfortably in bed, AxO\nCV: rate normal rhythm, no m/r/g\nResp: distant breath sounds, decreased air movement throughout\nAbd: +BS, soft, nontender, incision c/d/i\nExt: no erythema, 2+ pulses, trace edema\n\ufeff\n",
+    "input6": "___ 10:30PM BLOOD WBC-12.8* RBC-3.70* Hgb-11.2* Hct-33.0* MCV-89 MCH-30.4 MCHC-34.1 RDW-13.8\n___ 08:50AM BLOOD WBC-9.7 RBC-3.70* Hgb-11.0* Hct-33.1* MCV-89 MCH-29.7 MCHC-33.2 RDW-13.0\n___ 10:37AM BLOOD WBC-11.5* RBC-3.49* Hgb-10.5* Hct-31.5* MCV-90 MCH-30.0 MCHC-33.3 RDW-12.9 \n___ 05:00AM BLOOD WBC-13.1* RBC-3.45* Hgb-10.5* Hct-32.8* MCV-95 MCH-30.4 MCHC-32.0 RDW-12.5\n___ 11:51PM BLOOD WBC-12.4* RBC-3.24* Hgb-9.5* Hct-28.6* MCV-89 MCH-29.4 MCHC-33.3 RDW-12.7\n___ 11:30AM BLOOD WBC-10.0 RBC-3.17* Hgb-9.5* Hct-28.5* MCV-90 MCH-29.9 MCHC-33.2 RDW-12.7\n\ufeff\n\n___ 05:00AM BLOOD PTT-88.3*\n\ufeff\n___ 10:30PM BLOOD Glucose-120* UreaN-17 Creat-1.0 Na-140 K-4.4 Cl-106 HCO3-21* AnGap-17\n\ufeff\nECG: Sinus rhythm. Findings are within normal limits. No previous tracing available for comparison. \n\ufeff\nCTA:\n\ufeff\n1. Associated ground-glass opacity in peripheral wedge pattern \n(early \ninfarction cannot be excluded) at the left lung base.  \n2. Small left pleural effusion.  \n\ufeff\n\ufeff\nCXR: Again seen is retrocardiac opacification consistent with volume loss, effusions, and the patient's likely infarct given known pulmonary embolus. Remainder of the lungs are clear. Since the lower lobe opacity has not yet cleared, infection is still a possibility and clinical correlation and followup should be obtained. \n\nThe patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels\n\ufeff\n"
+}

@@ -1,0 +1,30 @@
+{
+    "Acute gastritis$Intermedia_3": {
+        "Lesions of gastric antrum erosion and hemorrhage on endoscopy are the gold standard for the diagnosis of acute gastritis$Cause_1": {
+            "Endoscopy:Lesions of gastric antrum erosion and hemorrhage$Input3": {}
+        },
+        "suspected gastritis$Intermedia_2": {
+            "Abdominal pain is a symptom that may occur in patients with gastritis.$Cause_1": {
+                "abdominal pain$Input1": {}
+            },
+            "Alcohol is a common cause in patients with acute gastritis.$Cause_1": {
+                "Patient has a long history of frequent ed visits and admissions for various complaints in the setting of ETOH use.$Input2": {}
+            },
+            "Multiple organ failure is a common cause in patients with acute gastritis.$Cause_1": {
+                "?Hx of MI (patient states he refused stent)  \n- ?Hx of prostate cancer$Input3": {}
+            },
+            "!Abdominal pain is a symptom that may occur in patients with gastritis.$Cause_1": {
+                "Today in the ED he presented with chest/ abdomina pain and troponins remain negative x2 and EKG without impressive changes CXR revealed worsening consolidations in the RLL which could be c/w a pneumonia in the right clinical setting.$Input2": {}
+            },
+            "Stomach pain and nausea are symptoms that may occur in patients with gastritis.$Cause_1": {
+                "He reports one of the medications they provided him in the ED really improved the stomach pain, and he thinks eatign will also help. He reports some dizziness and light headed ness, shortness of breath, headache, cough productive of yellow sputum, nausea, and occasional black/ bloody stools.$Input2": {}
+            }
+        }
+    },
+    "input1": "Chest and abdominal pain\n",
+    "input2": "___ male with cirrhosis, grade one esophageal varices, hepatitis C, GERD, prostate cancer, bladder mass removal, ureteral stent presents for chest pain and abdominal pain. Patient states he developed substernal chest pain yesterday (___) without shortness of breath or radiation to his back. patient endorses a productive cough. patient also has pain when he urinates but denies any hematuria. Pt denies any fever, chills, vomiting, numbness or weakness. He did reprot a productive cough. Patient has a long history of frequent ed visits and admissions for various complaints in the setting of ETOH use. Per previous records at the time of sobriety he becomes combative and elects to leave against medical advice. Today in the ED he presented with chest/ abdomina pain and troponins remain negative x2 and EKG without impressive changes CXR revealed worsening consolidations in the RLL which could be c/w a pneumonia in the right clinical setting. The patient was given Po levofloxacin and admitted given his poor social support he remianed inebriated and his ETOH level was pending at the time of d/c.  \n\nIn the ED, initial vitals were:  \nT 98.4 88 130/80 18 98% RA  \n\n- Labs were significant for  \nCBC:\n4.0  8.1  134  \n    24.4  \n\nCHEM 7:  \n139 106 20  \n-------------<96  \n4.0 20 1.2\n  \nU tox positive for oxycodone\nS tox positive for EtOH\n\n- Imaging revealed  \nRight middle/ lower lobe opacities are mildly increased over prior studies. The left lung remains clear. Cardiac size remains normal. No pneumothorax or pulmonary edema. No pleural effusion. \n \n \n- The patient was given  \n1L IVF 4mg Zofran, donnatol and viscous lidocaine  \n\nUpon arrival to the floor, vitals were 98.3 81 130/66 16 98% RA  \n\nOn arrival to the floor he reprots hematuria with dysuria since seeing his urologist for bladder cancer f/u of ___ He continues to report active pain in his chast abdomen and back. He reports one of the medications they provided him in the ED really improved the stomach pain, and he thinks eatign will also help. He reports some dizziness and light headed ness, shortness of breath, headache, cough productive of yellow sputum, nausea, and occasional black/ bloody stools.  \n\nHe reports taking all of his medications when I name them for him he agrees that he takes them but he also agreed that he took medications that were randomly named. He vehemently denied taking oxycodoone within the last 3 weeks (his urine was postive for oxycodone). He reports the iv zofran he received in the ED helped his stomach pain.\n",
+    "input3": "- Alcohol abuse  \n- Cirrhosis, complicated by Grade 1 esophageal varices  \n- Hepatitis C, Ab positive, VL 46million on ___  \n- GERD  \n- Colonic angiectasias  \n- Hypertension  \n- Atypical chest pain  \n- Chronic anemia  \n- Exploratory laparotomy in ___ following MVC  \n- ?Hx of MI (patient states he refused stent)  \n- ?Hx of prostate cancer  \n- Hemorrhoids\nEndoscopy:Lesions of gastric antrum erosion and hemorrhage\n",
+    "input4": "Father had a history of Diabetes Mellitus, Hypertension, 3x \nMyocardial Infarction died of MI. Mother had a history of Diabetes Mellitus, Hypertension, breast cancer, and died of colon cancer\n",
+    "input5": "ADMISSION PHYSICAL EXAM:  \nVitals: 98 138/76 p 73 R 16 100% on RA  \nGEN - Alert, NAD  \nHEENT - NC/AT, OP clear  \nNECK - Supple  \nCV - RRR, ___ systolic murmur throughout, no r/g  \nRESP - CTA B  \nABD - S/ND, BS present, diffuse TTP in abdomen and back \ndistractable without rebound or guarding  \nEXT - No ___ edema or calf tenderness  \nSKIN - No apparent rashes  \nNEURO - Nonfocal  \nPSYCH - Calm, appropriate  \nRECTAL: No obvious external lesions\n",
+    "input6": "___ 01:52AM BLOOD WBC-4.0 RBC-2.90* Hgb-8.1* Hct-24.4* MCV-84 MCH-27.8 MCHC-33.0 RDW-17.1* Plt ___\n___ 01:52AM BLOOD Neuts-58 Bands-0 ___ Monos-2 Eos-4 Baso-0 Atyps-4* ___ Myelos-0\n___ 01:52AM BLOOD Glucose-96 UreaN-20 Creat-1.2 Na-139 K-4.0 Cl-106 HCO3-20* AnGap-17\n___ 01:52AM BLOOD ALT-37 AST-70* AlkPhos-120 TotBili-0.3\n___ 01:52AM BLOOD Lipase-69*\n___ 01:52AM BLOOD cTropnT-<0.01\n___ 09:13AM BLOOD cTropnT-<0.01\n___ 04:15AM BLOOD ASA-NEG Ethanol-64* Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG\n___ 06:05AM BLOOD Ret Aut-2.1\n___ 11:04AM BLOOD Hgb-8.0*\n"
+}

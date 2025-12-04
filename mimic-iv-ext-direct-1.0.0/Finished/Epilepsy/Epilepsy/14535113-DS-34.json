@@ -1,0 +1,39 @@
+{
+    "Epilepsy$Intermedia_3": {
+        "Brain injury is one of the common causes of epilepsy, which may cause lesions or dysfunction of brain tissue.$Cause_1": {
+            "MRI scan, which revealed structural abnormalities in the brain. Specifically, the imaging showed brain injuries.$Input6": {}
+        },
+        "Suspected Epilepsy$Intermedia_2": {
+            "Occurs during a seizure, possibly due to apnea or irregular breathing that causes a decrease in oxygen levels in the blood$Cause_1": {
+                "Event of cyanosis$Input1": {}
+            },
+            "A generalized seizure lasts about 3 minutes and is accompanied by cyanosis. It refers to sudden muscle rigidity and convulsions throughout the body, often accompanied by loss of consciousness. It is a typical symptom of epilepsy.$Cause_1": {
+                "presented the following day for admission to psych when he was noticed to have generalized seizuers x 3 mins associated with cyanosis.$Input2": {}
+            },
+            "Apnea is common in people with epilepsy$Cause_1": {
+                "represents to the ED for an episode of apnea$Input2": {}
+            },
+            "Arteriovenous malformations are abnormal blood vessel structures in the brain that can cause seizures$Cause_1": {
+                "left frontal AVM s/p resection$Input2": {}
+            },
+            "Possibly due to autonomic dysfunction in epileptic seizures$Cause_1": {
+                "presents secondary to apnea$Input2": {}
+            },
+            "Past medical conditions directly related to epilepsy$Cause_1": {
+                "Seizure disorder$Input3": {}
+            },
+            "Head injuries and concussions are known triggers of epilepsy$Cause_1": {
+                "History of head injury and concussion$Input3": {}
+            },
+            "Arteriovenous malformations (AVMs) may increase risk of epilepsy$Cause_1": {
+                "s/p resection of left frontal AVM$Input3": {}
+            }
+        }
+    },
+    "input1": "Event of cyanosis\n",
+    "input2": "56 y/o LHM with seizure d/o, left frontal AVM s/p resection, borderline personality d/o and depression who presents secondary to apnea.  He was admitted for LTM, discharged on clonopin 0.25/0.25/0.5 and taken off other AEDs including dilantin and zonegran while on outpatient EEG monitoring.  He then presented the following day for admission to psych when he was noticed to have generalized seizuers x 3 mins associated with cyanosis.  This resolved with ativan 2mg.  He was restarted on zonegran and his clonopin was increased.  During this hospitalization, he left the hospital yesterday evening against medical advice. A recent evalaution deemed the patient not have the capacity to leave AMA.  He then represents to the ED for an episode of apnea.\n\nPer the patient, after leaving the hospital he returned home and went to sleep.  At ~10pm his roommate awake to use the bathroom and found him to not be breathing and \"blue\".  He then shook the patient which resulted in him releasing a large \"gasp\".  His partner was notified and he was taken for evaluation. They waited in the ED for ~8hrs and then determined that it would be better to go home, get a good night's sleep and come to the ED this morning.\n\nIn terms of yesterday's events, the patient states that the reason he left was that no EEGs were being obtained and \"none of the 3 doctors where telling the plan\".  He also states he will \"never do it again\".\n\nROS:\nIn addition, there has been no other neurologic signs including seizure activity, change in mentation, vision difficulities, slurred speech, weakness or loss of bowel/bladder function.  He does state that he did not take any of his medications today.\n",
+    "input3": "+Seizure disorder\n+Psychogenic non-epileptic seizures  \n+s/p resection of left frontal AVM  \n+PTSD related to history of sexual assault  \n+Irritable bowel syndrome  \n+Insomnia  \n+Depression, h/o suicide attempts and psychiatric hospitalization  \n+Hemorrhoids  \n+Asthma  \n+History of head injury and concussion \n+History of bulimia  \n+Cognitive disorder, NOS  \n+Borderline personality disorder  \n+Hydrocele\n",
+    "input4": "Per record, maternal grandmother and cousin have h/o seizures. Notable also for schizophrenia, depression, alcoholism, and stroke.\n",
+    "input5": "- VS:  Tc 97.0 HR 90 RR 12 BP 120/87 Sat 100% on RA\n- General:  Awake, alert, interactive, cooperative with exam,NAD, sitting in bed in hall, obese\n- HEENT:  NCAT, mucous membranes moist and pink, scleranon-icteric, OP clear\n- Neck:  Supple, no thyromegaly, no lymphadenopathy\n- Lungs:  Clear bilaterally, good aeration, no wheezing/crackles\n- Cardiac:  Normal S1 and S2, no murmur\n- Abdomen:  S/NT/obese, +BS\n- Extremities:  no C/C/E, distal pulses full, warm and wellperfused, brisk capillary refill, left wrist in brace\n- Skin:  diffuse erythematous rashes over areas of adhesive frommonitoring during admissions, EEG glue remains in hair\n \nNeurologic Examination:\n- MS:  Of note, patient was ablet perform MS testing without prompting/questioning.  Orientation - oriented to person, place and date, attentive.  Language - speech is fluent, without paraphasic errors, intact registration, repetition, naming. \nMemory - recalls 3 items at 5 minutes.  Correct DOWF and DOWB.\n",
+    "input6": "___ 07:05AM BLOOD WBC-6.0 RBC-4.92 Hgb-14.7 Hct-42.7 MCV-87 MCH-29.8 MCHC-34.3 RDW-14.2 Plt ___\n___ 08:45AM BLOOD Neuts-55.8 ___ Monos-4.5 Eos-1.0 Baso-1.0\n___ 07:05AM BLOOD Glucose-105* UreaN-18 Creat-0.9 Na-137 K-4.3 Cl-106 HCO3-24 AnGap-11\n___ 08:45AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG\n___ 05:27AM BLOOD ZONISAMIDE(ZONEGRAN)-PND\n\nMRI:\nMRI scan, which revealed structural abnormalities in the brain. Specifically, the imaging showed brain injuries. Further diagnostic and therapeutic measures are recommended to ensure the patient's health is appropriately managed and monitored.\n"
+}

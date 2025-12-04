@@ -1,0 +1,50 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "Relapsing-Remitting MS is characterized by obvious attacks (relapses) and remission periods.$Cause_1": {
+            "She has had similar symptom about 1 years ago.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "MRI of the cervical spine showed multiple areas of abnormal signal enhancement and swelling, particularly at C2 and C4. These changes are typical radiological manifestations of multiple sclerosis and indicate possible demyelination of nerve fibers.$Cause_1": {
+                "Images of the cervical spine demonstrate multiple areas of abnormal increased signal intensity and swelling.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "Transverse myelitis is an inflammatory disease that affects the spinal cord and can be a manifestation of multiple sclerosis$Cause_1": {
+                    "transverse myelitis$Input1": {}
+                },
+                "Transverse myelitis may be an early manifestation of multiple sclerosis, indicating a possible autoimmune attack on the central nervous system.$Cause_1": {
+                    "PMH of transverse myelitis$Input2": {}
+                },
+                "Because multiple sclerosis can cause abnormalities in nerve pathways, resulting in abnormal abdominal sensation$Cause_1": {
+                    "transferred for evaluation of a 1 week history of abdominal paresthesias.$Input2": {}
+                },
+                "MRI-shown lesions are a key diagnostic marker of multiple sclerosis$Cause_1": {
+                    "MRI of the brain and spinal cord showed lesions$Input2": {}
+                },
+                "Localized to widespread paresthesia is a typical symptom of multiple sclerosis, suggesting damage to multiple neurological areas.$Cause_1": {
+                    "gradually progressive numbness over her L thumb. This spread up her entire L arm and may have involved her L face.$Input2": {}
+                },
+                "Common symptoms of multiple sclerosis include periodic neurosensory abnormalities, which may occur during relapses of the disease.$Cause_1": {
+                    "she has had intermittent episodes of tingling in her hand or feet but has always ignored them$Input2": {}
+                },
+                "This inflammation is sometimes observed in people with multiple sclerosis as a possible symptom of the disease$Cause_1": {
+                    "transverse myelitis$Input3": {}
+                },
+                "It shows that the patient has bilateral hyposensitivity to vibration and hyperesthesia in the T10 paravertebral muscle area, which may be one of the signs of multiple sclerosis.$Cause_1": {
+                    "decreased vibration in ___ bilaterally; hyperesthesia along T 10 paraspinal muscles bilaterally, increased as well along the L lateral abm (around the umbilicus)$Input5": {}
+                },
+                "Although fundus examination is normal, pupillary light response and hippus phenomenon (rhythmic pupil dilation) may indicate abnormal nervous system regulation$Cause_1": {
+                    "VFF to confrontation, pupils 4mm->2mm bilaterally, + hippus, fundi normal$Input5": {}
+                },
+                "There is a small high-intensity spot in the white matter area of the right parietal lobe. This symptom may be related to multiple sclerosis, because irregular high-intensity white matter spots are common in MRI of patients with multiple sclerosis.$Cause_1": {
+                    "A solitary tiny focus of hyperintensity is seen in the right parietal white matter$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "transverse myelitis \n",
+    "input2": "The pt is a 51 year-old right-handed woman with a PMH of transverse myelitis. She was transferred for evaluation of a 1 week history of abdominal paresthesias. \n\nShe states that she has been in good health this year, but about 1 week ago she thought she was having allergies. She noted a pins and needles sensation over her abm. This improved when she took Benadryl. Gradually over the week the sensation persisted and became stronger. She then also felt a sensation of heaviness or weight on her abm \"like a rock sitting there\". She went to the ED yesterday and was discharged. Today she had persistent symptoms and decided to come to urgent care where she was referred to the hospital. \n\nShe has had similar symptom about 1 years ago. At that time she had gradually progressive numbness over her L thumb. This spread up her entire L arm and may have involved her L face. She was evaluated at the time with MRI and LP. She recalls that the MRI of the brain and spinal cord showed lesions but that the LP was normal. She recalls also being tested for Lyme which was negative. She was never treated with steroids or IMD. Her symptoms gradually resolved over several months. \n\nShe was referred to a neurologist and had serial MRI's over 1 years. She is not certain if these were normal but states she was told that she did not need further testing. Since then she has had intermittent episodes of tingling in her hand or feet but has always ignored them. She has never had an episode of loss or impairment of vision. \n",
+    "input3": "transverse myelitis \nno hx of HIV testing \n",
+    "input4": "-mother:  \"heart problems\" \n-father:  \"stress related health problems\"\n",
+    "input5": "Vitals: T: 98.6 BP: 101/75 R: 16 P: 82 SaO2: 100  \nGeneral: Awake, cooperative, NAD.  \nHEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in oropharynx  \nNeck: Supple, no carotid bruits appreciated. No nuchal rigidity  \nPulmonary: Lungs CTA bilaterally without R/R/W  \nCardiac: RRR, nl. S1S2, no M/R/G noted  \nAbdomen: soft, NT/ND, normoactive bowel sounds, no masses or organomegaly noted.  \nExtremities: No C/C/E bilaterally, 2+ radial, DP pulses bilaterally.  \nSkin: no rashes or lesions noted.  \n\nNeurologic:  \n-Mental Status: Alert, oriented x 3. Able to relate history without difficulty. Attentive. Language is fluent with intact repetition and comprehension. Normal prosody. There were no paraphasic errors. Pt. was able to name both high and low frequency objects. Speech was not dysarthric. Able to follow both midline and appendicular commands. The pt. had good knowledge of current events. There was no evidence of apraxia or neglect.  \n\nCN  \nI: not tested  \nII,III: VFF to confrontation, pupils 4mm->2mm bilaterally, + hippus, fundi normal, ___ OS ___ OD ___, no red desat\nIII,IV,V: EOMI, no ptosis. No nystagmus  \nV: sensation intact V1-V3 to LT  \nVII: Facial strength intact/symmetrical, symm forehead wrinkling \nVIII: hears finger rub bilaterally  \nIX,X: palate elevates symmetrically, uvula midline  \nXI: SCM/trapezeii ___ bilaterally  \nXII: tongue protrudes midline, no dysarthria  \n\nMotor: Normal bulk and tone; no asterixis or myoclonus. No pronator drift.  \n   Delt Bi  Tri  WE FE Grip IO  \n   C5   C6  C7   C6 C7 C8/T1 T1  \nL  5    5   5    ___     5  \nR  5    5   5    ___     5  \n  \n  IP Quad ___ PF  \n  L2 L3   L4-S1 L4 L5  S1/S2  \nL  5  5     5    5 5    5    \nR  5  5     5    5 5    5  \n\nReflex: No clonus  \n  Bi Tri Bra Pat An Plantar  \n  C5 C7  C6  L4  S1 CST  \nL ___   2   ___ Flexor  \nR ___   2   ___ Flexor  \n\n-Sensory: decreased vibration in ___ bilaterally; hyperesthesia along T 10 paraspinal muscles bilaterally, increased as well along the L lateral abm (around the umbilicus). Nl cold sensation and roprioception throughout. No extinction to DSS.  \n\n-Coordination: No intention tremor, dysdiadochokinesia noted. No dysmetria on FNF or HKS bilaterally.  \n\n-Gait: deferred\n",
+    "input6": "___ 07:17PM URINE  BLOOD-SM NITRITE-NEG PROTEIN-TR GLUCOSE-NEG KETONE-50 BILIRUBIN-NEG UROBILNGN-4* PH-6.5 LEUK-NEG\n___ 07:17PM URINE  ___ BACTERIA-FEW YEAST-FEW \n___ 05:08PM CEREBROSPINAL FLUID (CSF)  PROTEIN-42 GLUCOSE-71\n___ 05:08PM CEREBROSPINAL FLUID (CSF)  WBC-1 RBC-261* POLYS-2 ___ ___ 09:53PM   GLUCOSE-91 UREA N-15 CREAT-0.7 SODIUM-138 POTASSIUM-5.1 CHLORIDE-105 TOTAL CO2-22 ANION GAP-16\n___ 09:53PM   WBC-6.2 RBC-4.83 HGB-14.7 HCT-42.9 MCV-89 MCH-30.5 MCHC-34.3 RDW-12.4\n___ 09:53PM   NEUTS-52.8 ___ MONOS-5.7 EOS-1.3 BASOS-0.2\n___ 09:53PM   ___ PTT-25.3 ___\n___ 05:08PM CEREBROSPINAL FLUID (CSF) WBC-1 RBC-261* Polys-2 ___ ___ 05:08PM CEREBROSPINAL FLUID (CSF) TotProt-42 Glucose-71\n\n___ MRI brain: Images of the brain appear normal. There is no evidence of hemorrhage, edema, masses, mass effect, or infarction. There are no abnormalities to suggest demyelinating disease. A solitary tiny focus of hyperintensity is seen in the right parietal white matter on image 17 of the FLAIR sequence #7. This area does not enhance after contrast administration. There is no abnormal enhancement within the brain. However, the multiple areas of increased signal noted in the spinal cord on the spine MR examination demonstrate inhomogeneous enhancement on the sagittal gradient-echo images. \n\n\n___ Spine MRI: Images of the thoracic spine appear normal with no evidence of spinal cord signal intensity abnormalities. The thoracic spinal cord appears normal in caliber and configuration. The osseous spine also appears normal. \n  \nImages of the cervical spine demonstrate multiple areas of abnormal increased signal intensity and swelling. These are most prominent at C2 and at C4. A less well-defined area of apparent hyperintensity is also suggested on the sagittal images at C4-5, but not confirmed on axial imaging. These areas are hyperintense after contrast on the short TR spin echo images. \n  \n"
+}

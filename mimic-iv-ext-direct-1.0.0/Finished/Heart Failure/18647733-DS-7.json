@@ -1,0 +1,52 @@
+{
+    "HFmrEF$Intermedia_5": {
+        "LVEF 41\u201349% is the critiera for HFmrEF$Cause_1": {
+            "LVEF = 45-50%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Echocardiography (echo) found left ventricular systolic dysfunction (left ventricular ejection fraction (LVEF) is 45-50%), suggesting systolic heart failure.$Cause_1": {
+                "ECHO: There is mild regional left ventricular systolic dysfunction with basal inferior and inferolateral hypokinesis. The remaining segments contract normally.$Input6": {}
+            },
+            "Pulmonary congestion and cardiac enlargement associated with heart failure.$Cause_1": {
+                "CHEST\r: Severe cardiomegaly is stable. Mild pulmonary edema is\u3000minimally increased.  The left hemidiaphragm is mildly elevated.  There are bibasilar atelectasis and small bilateral effusions.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strongly suspected heart failure.$Cause_1": {
+                    "BNP ~6700$Input2": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "weight gain is a common symptom of fluid retention associated with heart failure.$Cause_1": {
+                        "15 lbs weight gain$Input1": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "hypertension$Input3": {}
+                    },
+                    "Diabetes is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "diabetes$Input3": {}
+                    },
+                    "Chronic kidney disease (CKD) can induce heart failure.$Cause_1": {
+                        "CKD$Input3": {}
+                    },
+                    "hyperlipidemia is known risk factor for heart failure.$Cause_1": {
+                        "hyperlipidemia$Input3": {}
+                    },
+                    "Coronary artery disease (CAD) and coronary artery bypass grafting (CABG) are also risk factors for heart failure.$Cause_1": {
+                        "CAD. He is status post CABG x 4 (LIMA-LAD, SVG-D1, SVG-OM and SVG-OM) with Dr.$Input3": {}
+                    },
+                    "Being overweight is also a risk factor for cardiovascular disease.$Cause_1": {
+                        "90kg 198 lbs$Input5": {}
+                    },
+                    "pitting edema in lower extremities bilaterally is a common sign of systemic congestion in heart failure.$Cause_1": {
+                        "EXTREMITIES: pretibial edema 1+ up to knees$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "15 lbs weight gain\n",
+    "input2": "y.o., recent medication changes including, Furosemide to Torsemide, presents with several weeks of weight gain of 15 lbs. Baseline weight around 200. Worsening orthopnea and DOE. Denies clear precipitants such as dietary indiscretion or med noncompliance or chest pain or palpitations however there is some concern that he has had some difficulty with following medication changes in the past few months. Seen in clinic today with Dr. reports that, he changed his HCTZ to spironolactone, increased his furosemide, then changed furosemide to torsemide (up to 40 mg) but pt kept putting on weight, edema worse, breathing worse, creatinine worse, enlarging abdomen with concern for missing med doses. Directly admitted from clinic. Patient denies current chest pain or SOB.  \nOn floor vital signs 97.5  140/50  56  20  95  RA Labs were remarkable for K 5.5, Cre 2.4, BNP ~6700\nEKG: sinus brady, no sig peaked T waves, QRS 130 close to \nbaseline of 114, PR 290 (baseline 294), TWI I AVL stable, Q in \nIII (stable)\nInterventions: given 40mg IV lasix.\nROS:  positive per HPI, otherwise negative\n",
+    "input3": "+ hypertension\n+ hyperlipidemia\n+ diabetes\n+ CAD. He is status post CABG x 4 (LIMA-LAD, SVG-D1, SVG-OM and SVG-OM) with Dr.\n+ CKD\n+ s/p radiacal prostatectomy + radiation for prostate CA\n+ h/o hyperkalemia\n+ DM2\n",
+    "input4": "nocontributory\n",
+    "input5": "Vitals   98.0   130/50  60   18  94  RA   (90kg 198 lbs)\nGENERAL: NAD, AxOx3.  \nHEENT:  JVP not appreciated Sclera anicteric. PERRL, EOMI. MMM \nCARDIAC: RRR, normal S1, S2. No m/r/g.\nLUNGS: Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nABDOMEN: Soft, distended, no fluid wave\nEXTREMITIES: pretibial edema 1+ up to knees\n",
+    "input6": "09:55PM BLOOD WBC-5.0 RBC-3.03* Hgb-9.7* Hct-29.7* \nMCV-98 MCH-32.1* MCHC-32.8 RDW-13.7\n05:40AM BLOOD WBC-4.9 RBC-3.19* Hgb-10.1* Hct-30.4* \nMCV-95 MCH-31.6 MCHC-33.1 RDW-13.7\n09:55PM BLOOD Glucose-202* UreaN-60* Creat-2.4* Na-140 \nK-5.5* Cl-110* HCO3-21* AnGap-15\n09:20AM BLOOD Glucose-247* UreaN-60* Creat-2.5* Na-145 \nK-5.3* Cl-107 HCO3-24 AnGap-19\n04:00PM BLOOD Glucose-141* UreaN-57* Creat-2.5* Na-138 \nK-5.1 Cl-106 HCO3-24 AnGap-13\n05:40AM BLOOD Glucose-137* UreaN-60* Creat-2.6* Na-139 \nK-4.5 Cl-104 HCO3-25 AnGap-15\n04:00PM BLOOD Glucose-253* UreaN-65* Creat-2.5* Na-139 \nK-4.9 Cl-100 HCO3-25 AnGap-19\n12:35PM BLOOD Glucose-158* UreaN-66* Creat-2.9* Na-138 \nK-4.2 Cl-96 HCO3-29 AnGap-17\n04:50PM BLOOD Glucose-181* UreaN-67* Creat-3.0* Na-141 \nK-4.4 Cl-98 HCO3-30 AnGap-17\n06:32AM BLOOD Glucose-167* UreaN-76* Creat-3.2* Na-140 \nK-4.3 Cl-97 HCO3-29 AnGap-18\n03:05PM BLOOD Glucose-166* UreaN-80* Creat-3.2* Na-137 \nK-4.3 Cl-98 HCO3-29 AnGap-14\n07:05AM BLOOD Glucose-175* UreaN-77* Creat-3.1* Na-142 \nK-4.4 Cl-100 HCO3-30 AnGap-16\n05:40AM BLOOD ALT-36 AST-20 CK(CPK)-45* AlkPhos-58 TotBili-0.3\n05:40AM BLOOD CK-MB-2 cTropnT-0.06*\n09:55PM BLOOD Calcium-8.8 Phos-3.7 Mg-2.4\n\ufeff\nECHO:\nPortable TTE (Complete) Done at 9:09:28 AM      \nFINAL Conclusions  \nLeft atrium is moderately dilated. Left ventricular wall thicknesses and cavity size are normal. There is mild regional \nleft ventricular systolic dysfunction with basal inferior and inferolateral hypokinesis. The remaining segments contract normally (LVEF = 45-50%). The right ventricular cavity is mildly dilated with mild global free wall hypokinesis. The aortic root is mildly dilated at the sinus level. The aortic arch is mildly dilated. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion. \n\ufeff\nIMPRESSION: Mild regional left ventricular systolic dysfunction, c/w CAD. Mild ischemic mitral regurgitation. \n\ufeff\nCompared with the prior study (images reviewed), regional LV systolic dysfunction is new. Finding discussed with Dr. at 1043 hours on the day of the study.   \n\ufeff\nCardiovascular Report Stress Study Date \nIMPRESSION: No anginal symptoms or additional ST segment changes from baseline. Appropriate hemodynamic response to the Persantine infusion. \nNuclear report sent separately. \n\ufeff\nCARDIAC PERFUSION PHARM Study Date\nIMPRESSION:  \n1.  No reversible perfusion defect. \n2.  Severe fixed basal and mid inferior wall defect.  Mild fixed inferolateral wall defect. \n3.  Inferior and septal wall hypokinesis. \n4.  LVEF 36% and moderate LV enlargement.\n\ufeff\nCHEST (PORTABLE AP) Study Date  7:15 AM \nSevere cardiomegaly is stable. Mild pulmonary edema is \nminimally increased.  The left hemidiaphragm is mildly elevated.  There are bibasilar atelectasis and small bilateral effusions.\n"
+}

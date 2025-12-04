@@ -1,0 +1,56 @@
+{
+    "Severe asthma$Intermedia_4": {
+        "Giving albuterol to treat asthma regularly.$Cause_1": {
+            "During this period she had been using her albuterol inhaler for rescue up to three times daily.$Input2": {}
+        },
+        "Lasting non-prodective cough is a symptom of asthma.$Cause_1": {
+            "she noted a nonproductive cough, which came in the form of cough attacks that resulted in feeling as though she was suffocating.$Input2": {}
+        },
+        "It can be accompanied by asthma.$Cause_1": {
+            "+Obesity$Input3": {}
+        },
+        "Asthma$Intermedia_3": {
+            "Poor air movement indicates that patient may have chest or bronchus disease.$Cause_1": {
+                "LUNG: poor air movement throughout$Input5": {}
+            },
+            "Different sound of breath indicates that patient may have chest or bronchus disease.$Cause_1": {
+                "LUNG:diffuse expiratory wheezes, with prolonged expiratory phase$Input5": {}
+            },
+            "Suspected asthma$Intermedia_2": {
+                "Patient feels like she has an asthma.$Cause_1": {
+                    "asthma$Input1": {}
+                },
+                "It can be accompanied by asthma or as a trigger of asthma.$Cause_1": {
+                    "allergic rhinitis$Input2": {}
+                },
+                "It is often accompanied by asthma.$Cause_1": {
+                    "HTN$Input2": {}
+                },
+                "Mental factors may asociataded with asthma.$Cause_1": {
+                    "anxiety and depression$Input2": {}
+                },
+                "Patient who has a history of asthma has high probability of develop asthma again.$Cause_1": {
+                    "+Asthma$Input3": {}
+                },
+                "It can be accompanied by asthma or be the trigger of asthma.$Cause_1": {
+                    "+Allergic rhinitis$Input3": {}
+                },
+                "Mental factors can be accompanied by severe asthma.$Cause_1": {
+                    "+Depression$Input3": {}
+                },
+                "Mental factors can be asociated with severe asthma.$Cause_1": {
+                    "+Anxiety$Input3": {}
+                },
+                "It can be accompanied by asthma$Cause_1": {
+                    "+Hypertension$Input3": {}
+                }
+            }
+        }
+    },
+    "input1": "asthma\n",
+    "input2": "Female with history of asthma on 3L O2 for ambulation, OSA on CPAP, allergic rhinitis, atopic dermatits, HTN, diabetes, anxiety and depression who presents with a severe asthma exacerbation. According to the patient, she was in her usual state of health until when she got wet in the rain. She states that on morning while on her way to work she felt SOB, and by that evening the shortness of breath worsened substantially. She noted fatigue associated with the SOB, she noted a nonproductive cough, which came in the form of cough attacks that resulted in feeling as though she was suffocating. She then developed runny nose and nasal congestion with subjective fevers and chills, and prior to presenting to the ED at the urging of a friend, she felt \"out of it.\" During this period she had been using her albuterol inhaler for rescue up to three times daily.  She states that her last sever asthma attack was over years ago. She denies sick contacts. Of note, she states that she feels her current episode is the culmination of worsening asthma control over several months. She has missed several pulmonary appointments and OSA appointments in the last several months because she was upset that she had asthma.\n",
+    "input3": "+Asthma\n+Obstructive Sleep Apnea\n+Obesity Hypoventilation Syndrome\n+Anxiety\n+Depression\n+PTSD\n+Allergic rhinitis\n+Esophageal reflux\n+Tension headaches\n+Hypertension\n+Atopic dermatitis\n+Cholelithiasis\n+Fatty liver\n+Obesity\n",
+    "input4": "Noncontributory\n",
+    "input5": "VITAL SIGNS: Tmax 99, HR 52-107, BP 144-157/70-81, 94-954% on 3L \n\nGENERAL: NAD, no use of accessory muscles, minimal increased work of breathing  \nHEENT: AT/NC, EOMI, PERRL, anicteric sclerae, pink conjunctivae, patent nares, MMM, good dentition, nontender supple neck, no LAD, no JVD  \nCARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  \nLUNG: poor air movement throughout, diffuse expiratory wheezes, with prolonged expiratory phase  without use of accessory muscles  \nABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly  \nEXTREMITIES: moving all extremities well, no cyanosis or clubbing 1+ pitting edema bilaterally, symmetrical  \nPULSES: 2+ DP pulses bilaterally  \nNEURO: CN II-XII intact  \nSKIN: warm and well perfused, no excoriations or lesions, no rashes\n",
+    "input6": "___ 09:05PM   LACTATE-4.0*\n___ 04:01PM   TYPE-ART TEMP-37.1 PO2-80* PCO2-48* PH-7.41 TOTAL CO2-31* BASE XS-4 INTUBATED-NOT INTUBA\n___ 04:01PM   O2 SAT-95\n___ 10:41AM   LACTATE-3.5*\n___ 10:34AM   GLUCOSE-141* UREA N-12 CREAT-0.9 SODIUM-138 POTASSIUM-4.0 CHLORIDE-95* TOTAL CO2-28 ANION GAP-19\n___ 10:34AM   WBC-12.3* RBC-4.49 HGB-14.0 HCT-41.3 MCV-92 MCH-31.1 MCHC-33.8 RDW-15.6*\n___ 10:34AM   NEUTS-71.2* LYMPHS-14.9* MONOS-8.7 EOS-4.5* BASOS-0.7\n___ 10:34AM   PLT COUNT-292\n___ 10:12AM URINE  BLOOD-TR NITRITE-NEG PROTEIN-300 GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 LEUK-NEG\n___ 10:12AM URINE  BLOOD-TR NITRITE-NEG PROTEIN-300 GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 LEUK-NEG\n\nIMAGING:\nCXR ___:\nPatchy left basilar opacity may reflect atelectasis though infection is not excluded. Right basilar atelectasis.\n"
+}

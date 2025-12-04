@@ -1,0 +1,36 @@
+{
+    "Alzheimer$Intermedia_3": {
+        "The hippocampus and frontal lobes are brain regions closely related to memory and cognitive functions. Atrophy in these areas is a typical imaging feature of Alzheimer's disease and is often associated with cognitive decline.$Cause_1": {
+            "Significant atrophy of hippocampus and frontal lobes$Input6": {}
+        },
+        "Suspected Alzheimer$Intermedia_2": {
+            "Falls may be associated with loss of balance and movement, a common symptom in people with Alzheimer's disease, which affects areas of the brain that control movement.$Cause_1": {
+                "S/p Fall$Input1": {}
+            },
+            "Alzheimer's disease is one of the most common causes of dementia and is characterized by the gradual degeneration and death of nerve cells in the brain.$Cause_1": {
+                "dementia$Input1": {}
+            },
+            "This indicates that the patient has persistent disorientation, which is one of the common symptoms of Alzheimer's disease.$Cause_1": {
+                "She was found on the ground of her studio wearing high heels, conscious though disoriented$Input2": {}
+            },
+            "The patient's spouse confirmed a continued decline in his mental status, which may be a sign of chronic progression of Alzheimer's disease.$Cause_1": {
+                "The husband spoke with the ED team and stated that this is her baseline mental status.$Input2": {}
+            },
+            "This shows that the patient's cognition and daily living abilities have significantly declined and require professional care, which is a characteristic of mid- to late-stage Alzheimer's disease.$Cause_1": {
+                "husband has been trying to have her admitted to a locked dementia unit because of her declining status and inability to take care of her.$Input2": {}
+            },
+            "The patient developed somnolence and disorientation, and even though he was awake and ambulatory the next morning, he remained disoriented. These symptoms may indicate cognitive dysfunction that is typical of Alzheimer's disease.$Cause_1": {
+                "somnolent, disoriented, no acute distress. the following morning she is alert and walking around but still quite disoriented$Input5": {}
+            },
+            "Changes in white blood cell counts may indicate the presence of infection or inflammation, and long-term inflammation is considered a risk factor for Alzheimer's disease.$Cause_1": {
+                "NEUTS-88.0* LYMPHS-7.6*$Input6": {}
+            }
+        }
+    },
+    "input1": "S/p Fall, dementia\n",
+    "input2": "___ presents after unwitnessed fall. She was found on the ground of her studio wearing high heels, conscious though disoriented (baseline) with bruise over R eye and wrist pain. In the ED initial vitals were: 98.8 100 143/72 16 100%. CT head, cspine, t spine did not show any acute changes. Plain films of l/s spine, hip, elbow, wrist films also were not notable.  SHe did have a temp to ever to 100.9. UA was negative, CXR without infiltrates. Blood cultures were drawn. No abx were given. She was give olanzapine 5 mg for agitation.\n\nThe husband spoke with the ED team and stated that this is her baseline mental status. The husband has been trying to have her admitted to a locked dementia unit because of her declining status and inability to take care of her.  \n\nOn the floor she is quite sleepy. She is disoriented but does not have any acute compliants. The husband is no longer here for further questions.\n\n",
+    "input3": "Glaucoma\n",
+    "input4": "NC\n",
+    "input5": "VS 98.7 110/62 87 18 97%RA\nGEN somnolent, disoriented, no acute distress. the following morning she is alert and walking around but still quite disoriented \nHEENT: ecchymoses over right eye/cheek, MMM EOMI sclera anicteric, OP clear  \nNECK supple, no JVD, no LAD  \nPULM Good aeration, CTAB no wheezes, rales, ronchi  \nCV RRR normal S1/S2, no mrg\nABD soft NT ND normoactive bowel sounds, no r/g \nEXT WWP 2+ pulses palpable bilaterally, no c/c/e\nNEURO CNs2-12 intact, motor function grossly normal  \nSKIN no ulcers or lesions\n",
+    "input6": "___ 08:15AM   WBC-5.3 RBC-4.00* HGB-12.4 HCT-40.0 MCV-100* MCH-31.1 MCHC-31.0 RDW-12.9\n___ 08:15AM   NEUTS-88.0* LYMPHS-7.6* MONOS-3.0 EOS-0.8 \nBASOS-0.7\n___ 08:15AM   PLT COUNT-272\n___ 08:15AM   ___ PTT-25.4 ___\n___ 08:15AM   GLUCOSE-112* UREA N-14 CREAT-0.9 SODIUM-139 POTASSIUM-3.8 CHLORIDE-103 TOTAL CO2-24 ANION GAP-16\n___ 10:50AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-10 BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 LEUK-NEG\n___ 10:50AM URINE  COLOR-Yellow APPEAR-Clear SP ___\n\nCT HEAD\nIMPRESSION: \n1.  No acute intracranial hemorrhage or mass effect.   \n2.  Small new right mastoid effusion- correlate clinically. \n\nCT C-Spine\nIMPRESSION: \n1.  No acutefracture of the cervical spine, multilevel degenerative changes are unchanged in appearance. Correlate clinically to decide on the need for further workup. \n\nTHREE VIEWS OF THE RIGHT SHOULDER:  There is no acute fracture or dislocation. The bone mineralization is slightly decreased.  No pneumothorax is seen within the right upper chest.  No rib fractures are identified.  There are no soft tissue calcifications or embedded radiopaque foreign bodies. \n  \nTHREE VIEWS OF THE RIGHT ELBOW:  No effusion is detected.  There is no acute fracture or dislocation.  No sclerotic or lytic lesions are identified. \n  \nTHREE VIEWS OF THE RIGHT WRIST:  There is moderate osteopenia.  No acute fracture or dislocation is seen.  There are no sclerotic or lytic lesions identified.  Moderate triscaphe and first CMC joint space narrowing and subchondral sclerosis is most compatible with osteoarthritis. \n  \nIMPRESSION:  No fracture or dislocation. \n\nCXR\nFRONTAL CHEST RADIOGRAPHS:  The heart size is top normal.  The hilar and mediastinal contours are within normal limits.  There is no pneumothorax, focal consolidation, or pleural effusion. \n\nMRI\nSignificant atrophy of hippocampus and frontal lobes\n"
+}

@@ -1,0 +1,24 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "States BP at home 177/80.$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "VITALS:BP 168/87$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Elderly age is an important risk factor for Hypertension,and female have a higher risk.$Cause_1": {
+                "56 year old woman$Input2": {}
+            },
+            "Family history of cardiovascular disease is a big risk factor of Hypertension.$Cause_1": {
+                "Her father died withan MI.$Input4": {}
+            }
+        }
+    },
+    "input1": "Post-TACE Admission\n\n",
+    "input2": "Ms. is a 56 year old woman with history of HLD and prior right hepatectomy, now with multifocal HCC s/p multiple TACE procedure for liver lesions admitted for post-TACE monitoring. \n\nToday, she underwent TACE to segment 4A via left radial approach.Of note her last TACE procedure prior to this one. She tolerated that one well.\n\nOn evaluation, she reports she is feeling great after her procedure and that she has no current complaints. States BP at home 177/80. Of note her first two post-tace procedures were complicated by flu-like symptoms, confusion, lethargy, fatigue, dyspnea. Her recent ones have been much smoother.\n\nROS: Pertinent positives and negatives as noted in the HPI.  All other systems were reviewed and are negative.\n",
+    "input3": "+Hepatocellular carcinoma as above.\n+Hyperlipidemia.\n+History of colonic polyps.\n+Left-sided sciatica.\n+Osteopenia.\n+Mitral valve prolapse.\n",
+    "input4": "The patient's mother was diagnosed with breast cancer. Her sister with breast cancer. Her father died with TB and an MI. She has one daughter without health concerns.\n",
+    "input5": "VITALS:T 36.7 BP 168/87\nGENERAL: Alert and in no apparent distress\nEYES: Anicteric, pupils equally round\nENT: Ears and nose without visible erythema, masses, or trauma. \nOropharynx without visible lesion, erythema or exudate\nCV: Heart regular, no murmur, no S3, no S4.  No JVD.\nRESP: Lungs clear to auscultation with good air movementbilaterally.  Breathing is non-labored\nGI: Abdomen soft, non-distended, non-tender to palpation.  Bowelsounds present.  No HSM\nGU: No suprapubic fullness or tenderness to palpation\nMSK: Neck supple, moves all extremities, strength grossly full and symmetric bilaterally in all limbs, Left wrist with good pulses and no evidence of hematoma.\nSKIN: Scar around RUQ from prior surgery\nNEURO: Alert, oriented, face symmetric, gaze conjugate with EOMI, speech fluent, moves all limbs, sensation to light touch grossly intact throughout\nPSYCH: pleasant, appropriate affect\n",
+    "input6": "___ 07:05PM BLOOD WBC-4.3 RBC-4.22 Hgb-13.3 Hct-40.6 MCV-96 MCH-31.5 MCHC-32.8 RDW-14.7 RDWSD-52.0* Plt ___\n___ 07:30AM BLOOD ALT-49* AST-85* AlkPhos-540* TotBili-0.7\n___ 07:30AM BLOOD AFP-4.9\n___ 07:05PM BLOOD Calcium-8.4 Phos-4.0 Mg-1.8\n"
+}

@@ -1,0 +1,21 @@
+{
+    "Hypertension$Intermedia_3": {
+        "an elevation of BP (SBP\u2265140mmHg or DBP\u226590mmHg) confirmed is the diagnostic criteria of hypertension$Cause_1": {
+            "he was seen last week in triage for BP's high as 160/100$Input2": {}
+        },
+        "an elevation of BP (SBP\u2265140mmHg or DBP\u226590mmHg) confirmed is the diagnostic criteria of hypertension.$Cause_1": {
+            "BPs: 148/98, 156/93$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Headache is the symptom of HTN$Cause_1": {
+                "has daily headache$Input2": {}
+            }
+        }
+    },
+    "input1": "Chief Complaint:\nnone\n",
+    "input2": "History of Present Illness:\nMs. ___ presents for admission for observation due to worsening in the outpatient setting. She feels well with no headache now, visual changes, or epigastric pain.\nShe has daily headache but they resolve in the am, she was seen last week in triage for BP's high as 160/100's but it came down \nwith observation and her prot/cr was 0.2 and her labs were fine.\n",
+    "input3": "PAST MEDICAL HISTORY\n1. Pyelonephritis x2, even though the patient does not recall\nit.\n2.  Ulcerative colitis. Her last colonoscopy was ___ years ago. She has currently not had any flares and she is maintained on Asacol.\n3. Stress/anxiety: on celexa, has seen her PCP, financial stress has been great\n\nPAST SURGICAL HISTORY\n- skin biopsy (left chest) benign  \n- hx keloids\n",
+    "input4": "\n",
+    "input5": "Physical Exam:\nBPs: 148/98, 156/93\nGeneral: Well-nourished, well-developed woman in no acute distress.  \nNeck: Supple, no thyromegaly.  \nCardiac: RRR, no murmurs, rubs or gallops.  \nChest: Clear to auscultation bilaterally, no wheezes, crackles or rubs.  \nAbdominal exam: S=D, no masses appreciated, no pain, rebound or\nguarding.  \nExtremities: No skin changes and no edema.  \nUterus was S=D\n",
+    "input6": "Pertinent Results:\n___ 05:00PM   UREA N-6 CREAT-0.5\n___ 05:00PM   ALT(SGPT)-18 AST(SGOT)-21\n___ 05:00PM   URIC ACID-2.7\n___ 05:00PM   WBC-12.0* RBC-4.56 HGB-13.8 HCT-40.3 MCV-89 \nMCH-30.4 MCHC-34.3 RDW-13.7\n\n___ 24 hr urine ___/P: ___ y.o. G5P2 at 30 + 6 weeks admitted for pre-eclampsia evaluation, in the setting of worsening GHTN and poor OB \nhistory, h/o 20 wk loss and 24 wk delivery.  \n\n"
+}

@@ -1,0 +1,47 @@
+{
+    "Submassive PE$Intermedia_4": {
+        "Despite RV abnormalities, the patient is hemodynamically stable. Excludes massive PE$Cause_1": {
+            "She was hemodynamically stable$Input6": {}
+        },
+        "Right ventricular enlargement and free wall hypodynamics are due to the right ventricle's adaptation to the persistently high pulmonary artery pressures, which are common in PE and suggest that there may be an obstruction in the pulmonary artery.$Cause_1": {
+            "The right ventricular cavity is dilated with mild global free wall hypokinesis$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Pulmonary hypertension is due to increased resistance to blood flow caused by obstruction of the pulmonary vascular bed, which is a typical manifestation of PE.$Cause_1": {
+                "moderate pulmonary artery systolic hypertension$Input6": {}
+            },
+            "Right ventricular enlargement leads to dilation of the tricuspid annulus, further confirming the adaptive changes of cardiac structure to pulmonary embolism$Cause_1": {
+                "Moderate [2+] tricuspid regurgitation$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Prolonged sitting is an important factor in the development of blood clots, particularly in the veins of the lower extremities, which may subsequently lead to pulmonary embolism.$Cause_1": {
+                    "extreme video gaming\" in which she sometimes is immobile for >12hrs$Input6": {}
+                },
+                "short of breath is a symptom of PE$Cause_1": {
+                    "shortness of breath$Input1": {}
+                },
+                "Sudden, severe chest pain and difficulty breathing are typical symptoms of PE.$Cause_1": {
+                    "chest pain and dyspnea$Input2": {}
+                },
+                "Chest pain and shortness of breath are typical symptoms of PE$Cause_1": {
+                    "central pleuritic chest pain and shortness of breath such that she was unable to speak$Input2": {}
+                },
+                "Loss of consciousness and transient speech impairment may indicate severe circulatory or neurologic compromise, which in PE may be due to hypoxemia.$Cause_1": {
+                    "subsequently lost consciousness$Input2": {}
+                },
+                "A markedly increased heart rate is a common symptom of PE.$Cause_1": {
+                    "HR = 126 bpm$Input5": {}
+                },
+                "The patient was able to speak in complete sentences but required additional oxygen support, suggesting that underlying hypooxygenation is a common symptom of PE.$Cause_1": {
+                    "speaking full sentences on 2 L by NC$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "shortness of breath\n",
+    "input2": "She yo F w/ PMH significant for bicuspid aortic valve, GERD, anxiety, scalp psoriasis, ADD and migraines w/o aura p/w chest pain and dyspnea.\n\ufeff\nShe reports that on 2 days prior to admission, she was playing video games and using her prescribed Adderall for an extended period of time and did not eat or drink very much. She rose from her computer at approximately 9:00 and because lightheaded while walking to the kitchen. She felt that her legs were \"hard as a rock,\" and she bent over to feel her legs. She denies any numbness or tingling at this time. She subsequently lost consciousness and was found by her fianc\u00c3\u00a9 on the floor a few seconds later. During this episode, she experienced central pleuritic chest pain and shortness of breath such that she was unable to speak. She was incontinent of urine during this episode. She regained the ability to speak after approximately 30 seconds (of note, she attributes speech deficit to dyspnea rather than confusion or disorientation). She does state that she \"did not feel like myself for hours\" after this episode, though she is unable to elaborate any further. She states that her fianc\u00c3\u00a9 helped her into bed, and she experienced major difficulties in falling asleep despite taking her prescribed alprazolam 0.5 mg PRN anxiety.\n\ufeff\nShe states that she awoke (day prior to admission) feeling \"almost normal.\" She continued to experience some dyspnea (of note, at baseline she experiences dyspnea when ascending stairs). On the day of admission, she experienced sudden onset severe pleuritic central chest pain radiating into her back and dyspnea. She phoned and was brought ED for further care.\n\ufeff\nShe has never smoked. She is adopted and thus cannot provide any family history of haematologic disorders. Within the past week, she went by bus hrs each way, left  and returned during which she made frequent trips to the bathroom. She denies cough, fever, chills or night sweats.\n\ufeff\n",
+    "input3": "1. CARDIAC RISK FACTORS  \n+ Diabetes (-)\n+ Hypertension (-)\n+ Dyslipidemia (-)\n2. CARDIAC HISTORY  \n+ Bicuspid aortic valve\n3. OTHER PAST MEDICAL HISTORY\n+ GERD\n+ Anxiety\n+ Psoriasis, scalp\n+ ADD\n+ Migraines w/o aura\n\ufeff\n",
+    "input4": "Patient was adopted and cannot provide family history.\n",
+    "input5": "Physical Exam:\nADMISSION EXAM\n==============\nVS: T = 36.8 C, BP = 109/4, RR = 20 bpm, SpO2 = 99 % on 2 L by NC  \nGENERAL: Anxious-appearing woman speaking full sentences on 2 L by NC, in NAD\nHEENT: Normocephalic atraumatic. \nNECK: Supple. JVP not visible.\nCARDIAC: Tachycardic to 120s, regular rhythm. Normal S1, S2. No murmurs, rubs, or gallops.\nLUNGS: No chest wall deformities or tenderness. Respiration is unlabored with no accessory muscle use. No crackles, wheezes or rhonchi.\nABDOMEN: Soft, non-distended. Diffuse mild tenderness to deep palpation. No hepatomegaly. No splenomegaly.  \nEXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or peripheral edema.  \nSKIN: No significant skin lesions or rashes.  \nPULSES: Distal pulses palpable and symmetric.\n\ufeff\n",
+    "input6": "ADMISSION LABS\n=========================\n___ 11:58AM BLOOD WBC-11.5* RBC-5.21* Hgb-15.5 Hct-46.1* MCV-89 MCH-29.8 MCHC-33.6 RDW-12.6 RDWSD-40.6 Plt ___\n___ 11:58AM BLOOD Neuts-69.9 Monos-5.9 Eos-3.3 Baso-0.7 AbsNeut-8.02*# AbsLymp-2.25 AbsMono-0.68 AbsEos-0.38 AbsBaso-0.08\n___ 11:58AM BLOOD PTT-26.7\n___ 11:36AM BLOOD Fibrino-PND\n___ 11:58AM BLOOD Glucose-162* UreaN-6 Creat-0.9 Na-140 K-4.3 Cl-102 HCO3-21* AnGap-21*\n___ 08:16PM BLOOD ALT-26 AST-22 LD(LDH)-229 AlkPhos-41 TotBili-0.3\n___ 11:58AM BLOOD proBNP-*\n___ 11:58AM BLOOD cTropnT-0.02*\n___ 11:58AM BLOOD Calcium-9.2 Phos-3.5 Mg-1.8\n___ 11:58AM BLOOD HCG-<5\n\ufeff\nIMAGING/STUDIES\n===================\nIMPRESSION: sinus tachycardia with IVCD\n\ufeff\n+ TTE //: \nCONCLUSION: The left atrium is normal in size. No atrial septal defect is seen by 2D or color Doppler. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%). The right ventricular cavity is dilated with mild global free wall hypokinesis. There is abnormal septal motion/position consistent with right ventricular pressure/volume overload. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve is bicuspid. There is no aortic valve stenosis. No aortic regurgitation is seen. The mitral valve appears structurally normal with trivial mitral regurgitation. Moderate [2+] tricuspid regurgitation is seen. There is moderate pulmonary artery systolic hypertension. There is no pericardial effusion. \n\n \n+ CT PE Protocol //:\nIMPRESSION:  With evidence of right heart strain\n\ufeff\n#PROVOKED PULMONARY EMBOLISM:\nShe was hemodynamically stable, but initially managed in the CCU with heparin gtt d/t c/f right heart strain. She had a TTE with marked RV dysfunction with septal interaction and there was question of a RA density (not on all views). She ultimately had EKOS directed tPA by interventional radiology with improvement in heart rates and symptoms of dyspnea and pleuritic chest pain. She had a follow-up echo showing smaller RV and resolution of possible RA echodensity. Her PA systolic pressure and TR was unable to be assessed given EKOS catheter. She had improvement of symptoms of dyspnea and pleuritic chest pain and was then transitioned to Xarelto and managed on the medical floor where she remained HDS. She will need follow-up with cardiology and repeat TTE in approximately one month (early. In terms of her risk factors for PE, she participates in \"extreme video gaming\" in which she sometimes is immobile for >12hrs at a time. She has an unknown family history because she was adopted. She will likely need hypercaog work-up as an outpatient. \n\ufeff\n#GERD: Continued home pantoprazole 40 mg PO QD.\n\ufeff\n#Anxiety: Initially on Ativan, but resumed home Xanax. \n\ufeff\n#ADD: Held home Adderall in the hospital, but resumed on discharge. \n\ufeff\n#Migraines: Reports migraines per week with photosensitivity and nausea. Continued home tizanidine for ppx, home sumatriptan to abort. She was counseled to not take NSAIDs while on Xarelto. \n\ufeff\n\n\ufeff\n"
+}

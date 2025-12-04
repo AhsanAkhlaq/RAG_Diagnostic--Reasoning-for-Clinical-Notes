@@ -1,0 +1,102 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "Initial troponin was elevated to .53, which trended down to .38.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Shortness of breath is a symptom of ACS.$Cause_1": {
+                "Shortness of breath$Input1": {}
+            },
+            "CAD s/p inferior wall STEMI in w/ PCI, PEA arrest secondary to respiratory failure in the setting of pneumonia, CHF, HTN, HL, type B chronic aortic dissection and hyperthyroidism\n are risk facts$Cause_1": {
+                "This is a F w/ a h/o CAD s/p inferior wall STEMI in w/ PCI, PEA arrest secondary to respiratory failure in the setting of pneumonia, CHF, HTN, HL, type B chronic aortic dissection and hyperthyroidism$Input2": {}
+            },
+            "CAD s/p MI, heparin stent to the RCA isrisk fact$Cause_1": {
+                "CAD s/p MI, heparin stent to the RCA$Input3": {}
+            },
+            "PEA arrest, thought to be secondary to respiratory arrest in the setting of either severe CAP or episode of pulmonary edema \nare risk facts$Cause_1": {
+                "PEA arrest, thought to be secondary to respiratory arrest in the setting of either severe CAP or episode of pulmonary edema$Input3": {}
+            },
+            "HTN is risk fact$Cause_1": {
+                "HTN$Input3": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                "the patient had an inferior wall STEMI where she was found during cardiac cathaterization to have 3 vessel disease including a 70% lesion of the proximal RCA, which received a hepacoat stent.$Input2": {}
+            },
+            "The heart structure is abnormalwhich is a strongly sign of acs.$Cause_1": {
+                "Echo following this incident showed an EF, hypo to akinesis of the distal anterior septum, apex and basal/mid inferior and inferolateral segments and moderate mitral regurgitation.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Shortness of breath is a symptom of ACS.$Cause_1": {
+                    "Shortness of breath$Input1": {}
+                },
+                "CAD s/p inferior wall STEMI in w/ PCI, PEA arrest secondary to respiratory failure in the setting of pneumonia, CHF, HTN, HL, type B chronic aortic dissection and hyperthyroidism\n are risk facts$Cause_1": {
+                    "This is a F w/ a h/o CAD s/p inferior wall STEMI in w/ PCI, PEA arrest secondary to respiratory failure in the setting of pneumonia, CHF, HTN, HL, type B chronic aortic dissection and hyperthyroidism$Input2": {}
+                },
+                "CAD s/p MI, heparin stent to the RCA isrisk fact$Cause_1": {
+                    "CAD s/p MI, heparin stent to the RCA$Input3": {}
+                },
+                "PEA arrest, thought to be secondary to respiratory arrest in the setting of either severe CAP or episode of pulmonary edema \nare risk facts$Cause_1": {
+                    "PEA arrest, thought to be secondary to respiratory arrest in the setting of either severe CAP or episode of pulmonary edema$Input3": {}
+                },
+                "HTN is risk fact$Cause_1": {
+                    "HTN$Input3": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "EKG was significant for old inferior wall infarct.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Shortness of breath is a symptom of ACS.$Cause_1": {
+                    "Shortness of breath$Input1": {}
+                },
+                "CAD s/p inferior wall STEMI in w/ PCI, PEA arrest secondary to respiratory failure in the setting of pneumonia, CHF, HTN, HL, type B chronic aortic dissection and hyperthyroidism\n are risk facts$Cause_1": {
+                    "This is a F w/ a h/o CAD s/p inferior wall STEMI in w/ PCI, PEA arrest secondary to respiratory failure in the setting of pneumonia, CHF, HTN, HL, type B chronic aortic dissection and hyperthyroidism$Input2": {}
+                },
+                "CAD s/p MI, heparin stent to the RCA isrisk fact$Cause_1": {
+                    "CAD s/p MI, heparin stent to the RCA$Input3": {}
+                },
+                "PEA arrest, thought to be secondary to respiratory arrest in the setting of either severe CAP or episode of pulmonary edema \nare risk facts$Cause_1": {
+                    "PEA arrest, thought to be secondary to respiratory arrest in the setting of either severe CAP or episode of pulmonary edema$Input3": {}
+                },
+                "HTN is risk fact$Cause_1": {
+                    "HTN$Input3": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "the patient had an inferior wall STEMI where she was found during cardiac cathaterization to have 3 vessel disease including a 70% lesion of the proximal RCA, which received a hepacoat stent.$Input2": {}
+                },
+                "The heart structure is abnormalwhich is a strongly sign of acs.$Cause_1": {
+                    "Echo following this incident showed an EF, hypo to akinesis of the distal anterior septum, apex and basal/mid inferior and inferolateral segments and moderate mitral regurgitation.$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Shortness of breath is a symptom of ACS.$Cause_1": {
+                        "Shortness of breath$Input1": {}
+                    },
+                    "CAD s/p inferior wall STEMI in w/ PCI, PEA arrest secondary to respiratory failure in the setting of pneumonia, CHF, HTN, HL, type B chronic aortic dissection and hyperthyroidism\n are risk facts$Cause_1": {
+                        "This is a F w/ a h/o CAD s/p inferior wall STEMI in w/ PCI, PEA arrest secondary to respiratory failure in the setting of pneumonia, CHF, HTN, HL, type B chronic aortic dissection and hyperthyroidism$Input2": {}
+                    },
+                    "CAD s/p MI, heparin stent to the RCA isrisk fact$Cause_1": {
+                        "CAD s/p MI, heparin stent to the RCA$Input3": {}
+                    },
+                    "PEA arrest, thought to be secondary to respiratory arrest in the setting of either severe CAP or episode of pulmonary edema \nare risk facts$Cause_1": {
+                        "PEA arrest, thought to be secondary to respiratory arrest in the setting of either severe CAP or episode of pulmonary edema$Input3": {}
+                    },
+                    "HTN is risk fact$Cause_1": {
+                        "HTN$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "This is a F w/ a h/o CAD s/p inferior wall STEMI in w/ PCI, PEA arrest secondary to respiratory failure in the setting of pneumonia, CHF, HTN, HL, type B chronic aortic dissection and hyperthyroidism who presents as a transfer from OSH where she initially presented with acute pulmonary edema and an elevated Troponin, now stable without dyspnea. \n\ufeff\nThe patient was in her usual state of health when she suddenly became short of breath while eating breakfast. According to her son she was not short of breath prior to this event and has been walking distances of several miles, including stairs. No orthopnea or edema in her lower extremities. She did not have any chest pain prior to or during this event and denies any angina in the past six months. She denies recent illness. \n\ufeff\nthe patient was short of breath but without chest pain. Initial CXR indicated pulmonary edema and a BNP was elevated to 341. EKG was significant for old inferior wall infarct. Initial troponin was elevated to .53, which trended down to .38. She was given 40 of IV Lasix at which time her symptoms improved significantly. She was transferred for possible cardiac cath. Upon transfer she was no longer short of breath and had no signs of fluid overload on exam. \n\ufeff\nthe patient is not short of breath and denies chest pain. Initial vitals were 84 135/93 19 96% on Room O2.\n\ufeff\nOf note the patient had an inferior wall STEMI where she was found during cardiac cathaterization to have 3 vessel disease including a 70% lesion of the proximal RCA, which received a hepacoat stent. Successful PTCA of the small rPDA was performed. she was again hospitalized following a PEA arrest which was thought to be secondary to respiratory arrest in the setting of severe CAP. She was successfully \nresuscitated using a cooling protocol, treated with antibiotics and subsequently extubated with recovery of function. At that time she was found to have a chronic type B dissection distal to the L subclavian. Echo following this incident showed an EF, hypo to akinesis of the distal anterior septum, apex and basal/mid inferior and inferolateral segments and moderate mitral regurgitation. She has been healthy since being discharged to rehab after this admission.\n",
+    "input3": "+ CAD s/p MI, heparin stent to the RCA \n+ PEA arrest, thought to be secondary to respiratory arrest in the setting of either severe CAP or episode of pulmonary edema \n+ HTN\n+ HL\n+ Grave's s/p radioactive iodine ablation now on thyroid replacement\n+ Vitiligo\n",
+    "input4": "None\n",
+    "input5": "Admission Exam:\nVS- T= 98.3...BP= 135/93...HR= 84...RR= 19...O2 sat=  96% Room \nO2 \nGENERAL- WA, Asian-female, NAD, alert and oriented x 3, does not \ngive a clear history  \nHEENT- NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \n\ufeff\nNECK- Supple with estimated JVD of 5cm from the right atrium  \nCARDIAC- PMI located in intercostal space, midclavicular line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nLUNGS- No chest wall deformities. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nABDOMEN- Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.  \nEXTREMITIES- No c/c/e. No femoral bruits.  \nSKIN- No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES-  \nRight: Carotid 2+ Femoral 2+ Popliteal 2+ DP\nLeft: Carotid 2+ Femoral 2+ Popliteal 2+ DP\n",
+    "input6": "Admission Labs:\n04:57PM BLOOD WBC-6.5 RBC-4.71# Hgb-15.4# Hct-45.8# \nMCV-97 MCH-32.7* MCHC-33.7 RDW-13.7\n\ufeff\n04:57PM BLOOD Glucose-86 UreaN-38* Creat-0.9 Na-140 \nK-4.7 Cl-104 HCO3-25 AnGap-16\n04:57PM BLOOD Calcium-10.2 Phos-4.3# Mg-2.2\n.\nCardiac Labs:\n04:57PM BLOOD CK-MB-5 cTropnT-0.06*\n06:36AM BLOOD cTropnT-0.05*\n"
+}

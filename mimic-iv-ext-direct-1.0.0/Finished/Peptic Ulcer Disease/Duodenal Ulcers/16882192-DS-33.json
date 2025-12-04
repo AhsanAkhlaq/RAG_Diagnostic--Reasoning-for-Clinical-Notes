@@ -1,0 +1,33 @@
+{
+    "Duodenal Ulcers$Intermedia_3": {
+        "The mucosa of the first and second parts of the duodenum was erythematous and hyperemic, with a 10-mm ulcer in the duodenal bulb and multiple superficial non-bleeding ulcers in the second part, suggestive of duodenal ulcer.$Cause_1": {
+            "Erythema and congestion of the mucosa were noted in the first part of the duodenum and second part of the duodenum. Excavated Lesions A single 10 mm ulcer was found in the duodenal bulb with punctate pigmented spots, but no active bleeding and no visible vessels.  Multiple superficial non-bleeding ulcers ranging in size from 6 mm to 8 mm were found in the second part of the duodenum.$Input6": {}
+        },
+        "Suspected Peptic Ulcer Disease$Intermedia_2": {
+            "Peptic ulcer disease often presents with epigastric pain, which may be associated with the patient's abdominal pain.$Cause_1": {
+                "bdominal and back pain and peripheral neuropathy$Input2": {}
+            },
+            "Typical symptoms of peptic ulcer disease include abdominal pain, nausea, and vomiting. These symptoms match the description of lower abdominal pain, nausea, and retching in the article.$Cause_1": {
+                "chronic back pain, lower abdominal pain, nausea, and retching$Input2": {}
+            },
+            "Alcohol is a known risk factor for peptic ulcers. It can damage the gastric mucosa and increase gastric acid secretion, thereby aggravating or inducing ulcer disease.$Cause_1": {
+                "alcohol yesterday to calm his pain (3 pints of vodka)$Input2": {}
+            },
+            "Chronic alcohol abuse can lead to long-term damage to the stomach lining, which may lead to the development of peptic ulcers.$Cause_1": {
+                "history of alcohol abuse$Input2": {}
+            },
+            "Tenderness in the abdomen, especially the lower abdomen, may be a manifestation of pain caused by gastric ulcer$Cause_1": {
+                "tender in lower quadrants of his abdomen,$Input5": {}
+            },
+            "There are non-hemorrhagic erosions at the junction of the esophagus and stomach, indicating esophagitis.$Cause_1": {
+                "A few non-bleeding erosions were noted in the gastroesophageal junction$Input6": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "The patient is known to have abdominal and back pain and peripheral neuropathy for which he receives oxycodone, but had run out and could not get it refilled. He resorted to alcohol yesterday to calm his pain (3 pints of vodka) and as a result fell down striking his right hip as well as his head/neck causing him to lose consciousness. Of note, the patient reports a past history of alcohol abuse, but has been sober for several years. The patient had SI on admission, stating he was \"trying to drink enough to have a courage to kill himself\". He also reports not eating due to his pain.\n\nPt does have chronic abdominal pain, back pain, as well as peripheral neuropathy for which he takes oxycodone. Has not been to his PCP recently so ___ been getting his pain medications/oxycodone. On arrival to the MICU,  patient reports his chronic back pain, lower abdominal pain, nausea, and retching. Denies fevers at home. No SOB, chest pain. No urinary \nsymptoms.\n",
+    "input3": "CHRONIC LOW BACK PAIN \nNEUROPATHY   \nVERTIGO   \nHYPERTENSION   \nFALLS attributed to orthostatic hypotension\nATRIAL FIBRILLATION (not on coumadin)\nGASTROESOPHAGEAL REFLUX   \nH/O DEPRESSION    \nH/O ALCOHOL ABUSE   \nH/O ANEMIA\n",
+    "input4": "Father had CAD.  Brother with a ___.  No known family \nhistory of prostate or colon cancer.  No diabetes, no strokes.\n",
+    "input5": "Vitals: T:101 BP:146/77 P:90  R: 17 18 O2:  100%RA\nGENERAL: Alert, oriented, no acute distress  \nHEENT: Sclera anicteric, dry MM, oropharynx clear  \nNECK: supple, JVP not elevated, no LAD  \nLUNGS: Clear to auscultation bilaterally, no wheezes, rales, \nrhonchi  \nCV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, \ngallops  \nABD: soft, tender in lower quadrants of his abdomen, \nnon-distended, bowel sounds present, no rebound tenderness or \nguarding, no organomegaly  \nEXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or \nedema  \nSKIN:  warm well perfused\nNEURO:  AOX3, normal strength and sensation\n",
+    "input6": "___ 11:55AM BLOOD ___-16.3*# RBC-3.38* Hgb-11.4*# Hct-32.5* \nMCV-96 MCH-33.7* MCHC-35.1 RDW-11.9 RDWSD-41.8 Plt ___\n___ 11:55AM BLOOD Neuts-57.5 ___ Monos-6.3 Eos-0.0* \nBaso-0.4 NRBC-0.4* Im ___ AbsNeut-9.37*# AbsLymp-5.67* \nAbsMono-1.02* AbsEos-0.00* AbsBaso-0.06\n___ 04:55PM BLOOD ___ PTT-22.3* ___\n___ 11:55AM BLOOD Glucose-119* UreaN-14 Creat-0.7 Na-137 \nK-2.9* Cl-93* HCO3-24 AnGap-23*\n___ 11:55AM BLOOD ALT-29 AST-42* AlkPhos-45 TotBili-1.1\n___ 11:55AM BLOOD Albumin-3.8 Calcium-8.7 Phos-2.9 Mg-1.8\n___ 11:55AM BLOOD Lipase-36\n\nMICROBIOLOGY\n============\n___: BLOOD CULTURE X 1: PENDING.\n\nIMAGING\n=======\n___: CT C-SPINE WITHOUT CONTRAST\nIMPRESSION: No acute cervical spine fracture. \n\n___: CT C-SPINE WITHOUT CONTRAST\nIMPRESSION: No acute intracranial hemorrhage or fracture. \n\n___: CHEST (PORTABLE AP)\nIMPRESSION:  \nIn comparison with the study of ___, the patient has taken a better inspiration.  There is no evidence of pneumonia, vascular congestion, or pleural effusion. \n\n___: ABDOMEN SUPINE AND LATERAL DECUB PORTABLE\nFINDINGS:  \nClips noted in RUQ. \nThere are no abnormally dilated loops of large or small bowel. Supine assessment limits detection for free air; there is no gross pneumoperitoneum. Osseous structures are unremarkable. There are no unexplained soft tissue calcifications or \nradiopaque foreign bodies. \n\n___: CHEST X-RAY\nIMPRESSION:  \nIn comparison with this earlier study of this date, there has been placement of a left subclavian PICC line that extends to the mid to lower portion of the SVC.  Otherwise no change in the appearance of the heart and lungs. \n\n___: EGD\nFindings: \nEsophagus:\nExcavated Lesions A few non-bleeding erosions were noted in the gastroesophageal junction with no active bleeding, concerning for esophagitis.  \n\n\nDuodenum: Mucosa: Erythema and congestion of the mucosa were noted in the first part of the duodenum and second part of the duodenum. Excavated Lesions A single 10 mm ulcer was found in the duodenal bulb with punctate pigmented spots, but no active bleeding and no visible vessels.  Multiple superficial non-bleeding ulcers ranging in size from 6 mm to 8 mm were found in the second part of the duodenum.\n"
+}

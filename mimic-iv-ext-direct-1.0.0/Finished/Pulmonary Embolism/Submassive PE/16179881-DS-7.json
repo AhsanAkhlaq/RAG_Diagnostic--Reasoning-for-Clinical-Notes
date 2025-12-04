@@ -1,0 +1,41 @@
+{
+    "Submassive PE$Intermedia_4": {
+        "Despite RV abnormalities, the patient is hemodynamically stable. Excludes massive PE$Cause_1": {
+            "The patient is hemodynamically stable$Input6": {}
+        },
+        "Right ventricular dilation is often associated with pulmonary hypertension and increased right heart workload, which can be caused by pulmonary embolism.$Cause_1": {
+            "bedside ultrasound of her heart found mild RV dilation$Input2": {}
+        },
+        "The right ventricle is slightly larger than the left ventricle, which may indicate the presence of increased right ventricular pressure, an important indicator of PE$Cause_1": {
+            "The right ventricle appears slightly larger than the left,$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "CT pulmonary angiography is one of the gold standards for diagnosing pulmonary embolism, and the thrombus burden shown confirms the presence of PE.$Cause_1": {
+                "CT Angiogram found heavy clot burden in the right pulmonary artery with notable pulmonary artery dilation$Input2": {}
+            },
+            "Bilateral pulmonary embolism is an important indicator of PE$Cause_1": {
+                "Bilateral pulmonary emboli, more central on the right; extends from the right main pulmonary artery into right upper lobe, lower lobe, and possibly right middle lobe.$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "SOB is the symptom of PE$Cause_1": {
+                    "Shortness of breath$Input1": {}
+                },
+                "Acute onset of shortness of breath is a classic symptom of pulmonary embolism$Cause_1": {
+                    "acute onset shortness of breath$Input2": {}
+                },
+                "Oral contraceptive use is a known risk factor for thrombosis, which can lead to pulmonary embolism.$Cause_1": {
+                    "endorses current oral contraceptive use, most recently for 3-month course$Input2": {}
+                },
+                "A normal first heart sound (S1) and a loud second heart sound (S2) may indicate pulmonary hypertension, which is caused by increased pressure in the pulmonary arteries. Pulmonary hypertension is a common complication of pulmonary embolism.$Cause_1": {
+                    "normal S1 + loud S2$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "She is a female with undiagnosed gluten intolerance who presents with one day of acute onset shortness of breath. Ms. took an airplane flight, landing on the evening without any symptoms. On the following morning, she awoke with a headache (not unlike prior hormonal headaches) and, upon walking to her office of employment after riding the T, became progressively short of breath, having to stop 7 times. Once at her destination, she remained unable to catch her breath, so she was brought to the hospital by a coworker. She endorses current oral contraceptive use, most recently for 3-month course. She does not have any history of blood clots.\n\ufeff\nWhile in the Emergency Department, the bedside ultrasound of her heart found mild RV dilation, but her troponins and pro-BNP were within normal limits. A CT Angiogram found heavy clot burden in the right pulmonary artery with notable pulmonary artery dilation. Cardiology Team was consulted, and they recommended heparin drip administration, noting lack of indication for EKOS or tPA use.\n\ufeff\nOn the floor, she reports some improvement in her shortness of breath and ability to ambulate around the room - however, she initially struggled with breathing simply when talking, standing up, and changing clothes. She endorses some night sweats over the past couple of months and intentional weight loss of a few pounds dietary changes), but denies fever, nausea, chest pain, exhaustion,urinary changes or bowel movement changes.\n\ufeff\nROS:  Full 10 point ROS otherwise negative\n\ufeff\n",
+    "input3": "- Gluten intolerance (self-administered due to bowel irritation in past)\n",
+    "input4": "No history of blood clots.\nPGM - breast cancer and melanoma\nMaternal great grandmother - with breast cancer\nMaternal grandfather - melanoma\nAunt - melanoma, glioblastoma\nFather - colon cancer\n\ufeff\n",
+    "input5": "Physical Exam:\nADMISSION PHYSICAL EXAM:  \nVS - T 98.0, BP 109/73, HR 80, RR 18, O2 sat 97% RA\nGeneral: Pleasant, alert, oriented, NAD\nHEENT:  Sclera anicteric, MMM, EOMI, PERRL, JVP not elevated\nNeck:  Supple, no LAD\nCV:  RRR, normal S1 + loud S2, no murmurs, rubs, gallops \nLungs:  CTAB, no wheezes, rales, rhonchi\nAbdomen:  Soft, non-tender, non-distended, bowel sounds present \nGU:  No Foley\nExt:  Warm, well perfused, 2+ pulses, no edema, no pain with calf flexion\nNeuro: CNII-XII grossly intact, moving all extremities spontaneously\n\ufeff\n",
+    "input6": "Admission Labs:\n___ 10:30AM BLOOD WBC-8.4# RBC-4.88 Hgb-15.7 Hct-45.2* MCV-93 MCH-32.2* MCHC-34.7 RDW-12.3 RDWSD-41.9\n___ 10:30AM BLOOD Neuts-75.7* Lymphs-18.9* Monos-4.4* Eos-0.4* Baso-0.2 AbsNeut-6.37* AbsLymp-1.59 AbsMono-0.37 AbsEos-0.03* AbsBaso-0.02\n___ 10:55AM BLOOD PTT-29.7\n___ 10:30AM BLOOD Glucose-103* UreaN-10 Creat-0.8 Na-136 K-3.7 Cl-99 HCO3-25 AnGap-16\n___ 10:30AM BLOOD estGFR-Using this\n___ 10:30AM BLOOD proBNP-20\n___ 10:30AM BLOOD cTropnT-<0.01\n___ 10:30AM BLOOD\n___ 10:45AM URINE UCG-NEGATIVE\n___ 10:45AM URINE Hours-RANDOM\n___ 10:45AM URINE Mucous-OCC\n___ 10:45AM URINE RBC-7* WBC-5 Bacteri-NONE Yeast-NONE Epi-6\n___ 10:45AM URINE Blood-NEG Nitrite-NEG Protein-30 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-SM \n___ 10:45AM URINE Color-Yellow Appear-Hazy\n\ufeff\nMicro:\nUrine Culture - pending\n\ufeff\nImaging:\nThe patient is hemodynamically stable\n- Doppler US: no evidence of DVT b/l\n- TTE: Final read pending; wet read without concerning findings\n- CTA:  Bilateral pulmonary emboli, more central on the right; extends from the right main pulmonary artery into right upper lobe, lower lobe, and possibly right middle lobe. Segmental and subsegmental left lower lobe pulmonary emboli. The right ventricle appears slightly larger than the left, raising concern for underlying right heart strain. Findings could be further assessed on echocardiogram. No pulmonary infarct seen.  \n- EKG: SR, normal axis, no ST/T changes  \n\ufeff\n"
+}

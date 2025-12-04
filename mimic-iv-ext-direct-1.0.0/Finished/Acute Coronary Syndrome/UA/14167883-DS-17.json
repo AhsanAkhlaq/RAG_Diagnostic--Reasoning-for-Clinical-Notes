@@ -1,0 +1,99 @@
+{
+    "UA$Intermedia_5": {
+        "Severe chest pain is symbol of ACS-UA$Cause_1": {
+            "Pt reports that initially had pain previously with associated palpitations and SOB. Then two weeks prior to this presentation developed left sided chest pain with walking and SOB that improved with rest. As these symptoms recurred.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "obesity, HTN and HLP are risk facts$Cause_1": {
+                "hx of obesity, HTN and HLP presented on day prior to admission with chest pain and EKG changes to her PCP's office.$Input2": {}
+            },
+            "+ HLP is risk fact$Cause_1": {
+                "+ HLP$Input3": {}
+            },
+            "subclinical hypothyroidism is risk fact$Cause_1": {
+                "subclinical hypothyroidism$Input3": {}
+            },
+            "HTN is risk fact$Cause_1": {
+                "HTN$Input3": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "slight cardiac structural abnormalities is a sign of acs$Cause_1": {
+                "The stress echo showed new regional wall motion abnormalities with severe hypokinesis of the mid- and distal segments of the anterior wall, septum concerning for mid LAD territory.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "obesity, HTN and HLP are risk facts$Cause_1": {
+                    "hx of obesity, HTN and HLP presented on day prior to admission with chest pain and EKG changes to her PCP's office.$Input2": {}
+                },
+                "+ HLP is risk fact$Cause_1": {
+                    "+ HLP$Input3": {}
+                },
+                "subclinical hypothyroidism is risk fact$Cause_1": {
+                    "subclinical hypothyroidism$Input3": {}
+                },
+                "HTN is risk fact$Cause_1": {
+                    "HTN$Input3": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "EKG in the ED showed Sinus rhythm, left axis deviation, normal intervals, TWI in R, V1-13 with poor R wave progression in the precordial leads.$Input2": {}
+            },
+            "non-ST-elevation is a sign of NSTE-ACS.$Cause_1": {
+                "Poor functional capacity. No anginal type symptoms \nor ischemic EKG changes.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "obesity, HTN and HLP are risk facts$Cause_1": {
+                    "hx of obesity, HTN and HLP presented on day prior to admission with chest pain and EKG changes to her PCP's office.$Input2": {}
+                },
+                "+ HLP is risk fact$Cause_1": {
+                    "+ HLP$Input3": {}
+                },
+                "subclinical hypothyroidism is risk fact$Cause_1": {
+                    "subclinical hypothyroidism$Input3": {}
+                },
+                "HTN is risk fact$Cause_1": {
+                    "HTN$Input3": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "slight cardiac structural abnormalities is a sign of acs$Cause_1": {
+                    "The stress echo showed new regional wall motion abnormalities with severe hypokinesis of the mid- and distal segments of the anterior wall, septum concerning for mid LAD territory.$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS$Cause_1": {
+                        "chest pain$Input1": {}
+                    },
+                    "obesity, HTN and HLP are risk facts$Cause_1": {
+                        "hx of obesity, HTN and HLP presented on day prior to admission with chest pain and EKG changes to her PCP's office.$Input2": {}
+                    },
+                    "+ HLP is risk fact$Cause_1": {
+                        "+ HLP$Input3": {}
+                    },
+                    "subclinical hypothyroidism is risk fact$Cause_1": {
+                        "subclinical hypothyroidism$Input3": {}
+                    },
+                    "HTN is risk fact$Cause_1": {
+                        "HTN$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "w/ hx of obesity, HTN and HLP presented on day prior to admission with chest pain and EKG changes to her PCP's office. Pt reports that initially had pain previously with associated palpitations and SOB. Then two weeks prior to this presentation developed left sided chest pain with walking and SOB that improved with rest. As these symptoms recurred. she presented to her PCP's office where she was complaining of CP. EKG performed in the office showed new anterior lateral T-wave inversions. She received an aspirin and was transferred \nto the ED for further evaluation.  In the ED, initial VS were 98.2 74 140/61 16 97% RA. EKG in the ED showed Sinus rhythm, left axis deviation, normal intervals, TWI in R, V1-13 with poor R wave progression in the precordial leads. No Q waves for ST changes. She was admitted to the observation unit and received 2 sets of cardiac enzymes that were negative and a stress echo on the morning of admission. The stress echo showed new regional wall motion abnormalities with severe hypokinesis of the mid- and distal segments of the anterior wall, septum concerning for mid LAD territory. Her last VS in the observatin unit were: 76 142/64 18 98% RA.  On arrival tot he floor patient denies any chest pain or pressure. No palpitations, No headache. She denies any orthopnea, shortness of breath, orthopnea, peripheral edema, syncope. She denies any claudication\n",
+    "input3": "+ HLP  \n+ subclinical hypothyroidism  \n+ HTN  \n+ s/p right total knee replacement  \n+ asthma\n",
+    "input4": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.\n",
+    "input5": "Admission exam\nGeneral: Well appearing white female in NAD, sitting up in bed comfortably \nNeck: no elevated JVP  \nCV: RRR, no MRG appreicated  \nLungs: CTAB no wheezes or rales  \nAbdomen: Obese, soft, nontender, nondistende  \nGU: no foley  \nExt: no peripheral edema  \nSkin: no visible lesions\n",
+    "input6": "Labs\n06:35PM BLOOD WBC-8.4 RBC-4.58 Hgb-14.4 Hct-42.5 MCV-93 MCH-31.4 MCHC-33.8 RDW-12.0\n06:35PM BLOOD Neuts-66.0 Monos-6.2 Eos-2.0 Baso-0.9\n12:30PM BLOOD Glucose-91 UreaN-19 Creat-0.8 Na-138 K-4.3 Cl-102 HCO3-23 AnGap-17\n12:30PM BLOOD cTropnT-<0.01\n06:35PM BLOOD cTropnT-<0.01\n12:40PM URINE Color-Straw Appear-Clear\n12:40PM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG\n\ufeff\nMicro:\n12:40 pm URINE\n\ufeff\n**FINAL REPORT\n\ufeff\nURINE CULTURE (<10,000 organisms/ml. \nCXR:  IMPRESSION: No acute cardiopulmonary abnormality. \nStress test: INTERPRETATION: This woman with h/o HLD, obesity, and asthma was referred to the lab from the ED following negative serial cardiac enzymes for evaluation of chest discomfort and abnormal EKG. The patient exercised for 5 minutes of a Modified protocol and was stopped for fatigue. The estimated peak MET capacity was 3.8, which represents a poor exercise tolerance for her age. There were no reports of chest, back, neck, or arm discomforts during the study. Dyspnea was noted throughout exercise which improved during recovery. There were no significant ST segment changes noted during exercise or early recovery. After 3 minutes of recovery, the facility lost power and EKGs were not acquired for the remainder of the study. Rhythm was sinus with occasional isolated VPBs and rare isolated APBs. The heart rate response was appropriate during exercise and recovery. Mild resting hypertension with an appropriate blood pressure response to exercise. \nIMPRESSION: Poor functional capacity. No anginal type symptoms \nor ischemic EKG changes. Mild resting hypertension. Echo report sent separately. \nThe patient exercised for 5 minutes and 0 seconds according to a \nModified treadmill protocol METS) reaching a peak heart rate of 139 bpm and a peak blood pressure of 206/82 mmHg. \nThe test was stopped because of fatigue. This level of exercise represents a poor exercise tolerance for age. In response to stress, the ECG showed no diagnostic ST-T wave changes (see exercise report for details). There is resting hypertension. There were normal blood pressure and heart rate responses to stress. \nResting images were acquired at a heart rate of 74 bpm and a blood pressure of 150/90 mmHg. These demonstrated normal regional and global left ventricular systolic function. Right ventricular free wall motion is normal. There is no pericardial effusion. Doppler demonstrated no aortic stenosis, aortic regurgitation or significant mitral regurgitation or resting LVOT gradient. \nEcho images were acquired within 45 seconds after peak stress at heart rates of 136 - 116 bpm. These demonstrated new regional dysfunction with severe hypokinesis of the mid- and distal segments of the anterior wall, septum as the apex (mid-LAD territory). The remaining segments augment appropriately. There was augmentation of right ventricular free wall motion. \n\ufeff\nIMPRESSION: Poor functional exercise capacity. Non-diagnostic ECG changes. 2D echocardiographic evidence of inducible ishemia in the LAD territory at achieved workload. Resting hypertension.\n"
+}

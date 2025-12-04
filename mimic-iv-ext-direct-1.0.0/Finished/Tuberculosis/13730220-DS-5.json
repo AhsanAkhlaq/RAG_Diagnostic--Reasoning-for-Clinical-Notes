@@ -1,0 +1,27 @@
+{
+    "Tuberculosis$Intermedia_3": {
+        "Cavities in the lungs are common in active tuberculosis, especially when the walls of the cavities are thin, indicating the possibility of active disease or reactivation of infection.$Cause_1": {
+            "Superior segment right lower lobe relatively thin-walled cavity$Input6": {}
+        },
+        "Suspected Tuberculosis$Intermedia_2": {
+            "The patient had been treated for tuberculosis several years earlier, which is important background information because tuberculosis can recur.$Cause_1": {
+                "TB treated ___ years ago$Input2": {}
+            },
+            "In patients with a history of tuberculosis, these symptoms may indicate activity or recurrence of tuberculosis.$Cause_1": {
+                "symptoms of URI including fatigue, productive cough, runny nose, and chest congestion$Input2": {}
+            },
+            "A family history of tuberculosis increases a person's risk of developing the disease.$Cause_1": {
+                "father may have had TB$Input2": {}
+            },
+            "The presence of cavitary lesions is an important clue to TB reactivation, especially when the lesions are highly suspicious for TB.$Cause_1": {
+                "Cavitary lesion is highly suspicious for reactivation tuberculosis$Input6": {}
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "The patient is a ___ w/ h/o TB treated ___ years ago in ___, hypertriglyceridemia who presents with an abnormal chest CT. His h/o TB has been followed by Dr. ___ (___ at ___ by serial CXR and has reportedly been stable. About ___ months ago he went to ___ for back pain, and CXR showed an abnormality for which he was advised to follow up with his PCP. Dr. ___ felt that this was consistent with his baseline, however. About 1 month ago he developed symptoms of URI including fatigue, productive cough, runny nose, and chest congestion. He did not have fever, night sweats, weight loss, or hemoptysis. His PCP prescribed ___ after which he his symptoms fully resolved, but given his history he was sent in for a chest CT today, which showed granulomatous changes, cavitary lesions, and lymphadenopathy. He was called and told to report to the ED. In the ED he was afebrile with stable VS. ID was curbsided in the ED and felt that he did not need Abx at this time, only induced sputums for now. He is being admitted to the ED for r/o TB.  \n.  \nOf note, pt reports having had recent negative HIV tests, no h/o imprisonment or being in shelters, or recent contacts. He does report returning to ___ every ___ years, the most recent being in ___. His father may have had TB, and passed away in ___.\n",
+    "input3": "-- back pain which radiates down the left leg, felt to be due to \nlumbosacral neuritis  \n-- hypertriglyceridemia  \n-- h/o PUD (not active)  \n-- elevated LFTs, ?NASH\n",
+    "input4": "brother with hep B as a result of blood transfusion; mother w/ liver cancer, not clear if primary or metastatic disease\n",
+    "input5": "T: 97.9 BP: 116/86 P: 60 RR: 18 O2 sats: 100% RA  \nGen: alert, interactive, NAD, lying comfortably in bed  \nHEENT: NCAT, PERRL, EOMI, OP clear, MMM  \nNeck: no masses, no JVD  \nCV: RRR no MRG, nl S1, S2  \nResp: CTAB  \nAbd: NABS, soft, NTND, no guarding/rigidity/rebound  \nBack: no CVA tenderness  \nExt: no CCE  \nNeuro: AAOx3\n",
+    "input6": "Chest CT: Superior segment right lower lobe relatively \nthin-walled cavity with adjacent areas of calcified granulomas, bronchiectasis, bronchial impaction, and bronchiolitis. Cavitary lesion is highly suspicious for reactivation tuberculosis until proven otherwise. The differential diagnosis includes atypical mycobacterial infection.\n"
+}

@@ -1,0 +1,27 @@
+{
+    "Pituitary Macroadenomas$Intermedia_3": {
+        "The size and location of the pituitary adenoma directly confirm the diagnosis of Pituitary Macroadenomas$Cause_1": {
+            "a 17mm pituitary macroadenoma extending to the supracellar space and inpinging upon the optic chiasm$Input2": {}
+        },
+        "Suspected pituitary disease$Intermedia_2": {
+            "These are common symptoms of pituitary adenomas. The adenoma presses on surrounding structures, especially the optic chiasm, which may cause vision loss and headaches.$Cause_1": {
+                "visual changes and HA$Input2": {}
+            },
+            "Blurred vision may be caused by an adenoma pressing on the optic nerve$Cause_1": {
+                "blurry vision$Input2": {}
+            },
+            "These symptoms may be related to increased intracranial pressure caused by the adenoma$Cause_1": {
+                "diffuse headaches, nausea, and photophobia$Input2": {}
+            },
+            "Compression of the optic nerve by a pituitary adenoma may lead to further vision loss, and ordinary glasses are difficult to correct vision problems caused by nerve compression.$Cause_1": {
+                "visual acuity was deteriorating and she was prescribed glasses, which did not ameliorate her vision$Input2": {}
+            }
+        }
+    },
+    "input1": "none\n",
+    "input2": "She had an MRI for visual changes and HA which showed a 17mm pituitary macroadenoma extending to the supracellar space and inpinging upon the optic chiasm.  Her symptoms started earleir this year when she went on a cruise. She noted blurry vision in both eyes during that cruise.  Subsequently, she developed diffuse headaches, nausea, and photophobia.  HA's are daily, and she received a short course of Prednisone several weeks ago to treat these, which was successful, but they returned after Prendisone was discontinued. At the same time her visual acuity was deteriorating and she was prescribed glasses, which did not ameliorate her vision.  She underwent an MRI elsewhere which showed the above mentioned sellar lesion.\n",
+    "input3": "migraines in her youth (none since hysterectomy until current HA)\npartial hysterectomy AUB and pain (ovaries intact)\nlumpectomy - benign\nIBS, primarily constipation\nG4P2, 2 miscarraiges\n\ufeff\n",
+    "input4": "sister has \"abnormal breast tissue\" by biopsy, mastectomy recommended\nmother is hypothyroid, + stroke\nFather had kidney stones, stroke, CAD, DM.\nPGF - colon CA\nNo ulcer disease\n\ufeff\n",
+    "input5": "None\n",
+    "input6": "Labs on Admission:\n___ 04:46PM BLOOD WBC-13.8* RBC-4.39 Hgb-13.0 Hct-36.2 MCV-83 MCH-29.7 MCHC-36.0* RDW-13.7\n___ 04:46PM BLOOD PTT-26.6\n___ 04:46PM BLOOD Glucose-166* UreaN-8 Creat-0.8 Na-136 K-5.2* Cl-104 HCO3-24 AnGap-13\n___ 04:46PM BLOOD Calcium-9.0 Phos-3.2 Mg-2.2\n\ufeff\nImaging:\nHead CT:\nFINDINGS: There is no intracranial hemorrhage, edema, shift of normally midline structures or evidence of major vascular territorial infarct. Ventricles and sulci are normal in size and configuration. The gray-white differentiation is preserved. The basilar cisterns are patent.Evaluation of bony structures reveals minimal postoperative changes within the right sphenoid air cells, and aerosolized fluid throughout the sphenoid and ethmoid air cells. The visualized portions of the maxillary sinuses are largely clear, with a small fluid level in the right maxillary sinus dependently. The mastoid air cells are clear. There is no fracture. Soft tissues are unremarkable.\nIMPRESSION:\n1. No intracranial hemorrhage following trans-sphenoidal resection. Postoperative changes in the sella and sphenoid air cells.\n2. No new abnormalities.\n\ufeff\n"
+}

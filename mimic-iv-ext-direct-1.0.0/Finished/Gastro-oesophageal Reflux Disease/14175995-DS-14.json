@@ -1,0 +1,27 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET: 9.2% > 6% is the gold standard for gastro-oesophageal reflux \rdisease\r diagnosis\r.$Cause_1": {
+            "Ambulatory reflux monitor :total AET:9.2% on pH-impedance monitoring$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Burning chest pain is a  typical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "She reports that it is a burning chest pain that radiates to both shoulders and her neck.$Input2": {}
+            },
+            "!Chest Pain is a  typical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "recent admission for dyspnea and chest pain$Input2": {}
+            },
+            "Nausea is is an atypical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "She reports in the ED the nausea worsened and she vomited.$Input2": {}
+            },
+            "!Burning in her chest is a  typical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "She reports that she has the burning in her chest$Input2": {}
+            }
+        }
+    },
+    "input1": "Chest Pain\n",
+    "input2": "A famale patient with PMHx notable for DVT/PE, HTN, CKD stage III, DJD, and recent admission for dyspnea and chest pain who presents for evaluation of chest pain and dyspnea. The patient reports that she was at home on the day prior to admission at 1700. She reports that it is a burning chest pain that radiates to both shoulders and her neck. She reports that it is similar to the pain that she had on her last admission but worse. She reports that she feels that it is a muscle type of pain. She reports that it has been constant with some waking and waning since 1700. She reports that the pain is worse when she vomits.  Given the chest pain she presented to the ED for evaluation. She reports in the ED the nausea worsened and she vomited. She reports that she has the burning in her chest and needs to drink 1L of fluid so that she can then throw up. SHe reports that the water can not be cold as that would cause spasms of her throat and be uncomfortable. \n\nIn the ED she was evaluated. Her EKG was unremarkable. Her first set of troponins were negative. She developed hypoxia (unclear to what level) in the setting of her nausea and vomiting. SHe had a CXR that was unremarkable. She had a CTA of the chest and CT abd/pelvis. The CT scan showed bilateral ground glass that could be consistent with infection vs inflammation. She was given levofloxacin and admitted to the medical service. \n\nOn the medical floor the patient was sating well on room air, was non-toxic appearing, requested oral fluids and \"mashed potato, bacon bagel, and egg salad\". She reports that she had not had a cough over the last several weeks, had no fevers. She reports that she has the pain in her chest and the nausea and nothing else. \n\nROS: A ten point ROS was conducted and was negative except as above in the HPI.\n",
+    "input3": "+Depression/Anxiety  \n+Hypertension  \n+Chronic kidney disease  \n+osteoarthritis  \n+Osteoporosis  \n+Cervical and lumbar radiculitis  \n+Hematuria and recurrent cystitis  \n+Cervicogenic headache \n+varicose veins s/p laser ablation  \n+Multiple prior falls, resulting in prior fractures  \n+C.diff  \n+Hysterectomy  \n+L total knee replacement  \n+Urinary incontinence  \n+edema\n+DVT/PE\n",
+    "input4": "Father had CVA\n",
+    "input5": "Vitals: 98.7, 134/59, 73, 16, 96%RA\nGen: NAD, lying in bed\nEyes: EOMI, sclerae anicteric\nENT: MMM, OP clear\nCV: RRR, no murmur\nPULM: normal effort, no accessory muscle use\nGI: soft, NT, ND, BS+\nGU: No Foley\nEXT: 1+ ___ pitting edema\nSkin: No visible rash. No jaundice.\nNeuro: AAOx3. Fluent speech, no facial droop.\nPsych: Full range of affect\n",
+    "input6": "Admissions Labs:\n08:35PM BLOOD WBC-6.3 RBC-3.78* Hgb-11.2 Hct-34.6 MCV-92 MCH-29.6 MCHC-32.4 RDW-13.3 RDWSD-44.4 Plt\n08:35PM BLOOD Neuts-57.9 Monos-8.6 Eos-2.2 Baso-0.8 Im AbsNeut-3.64 AbsLymp-1.90 AbsMono-0.54 AbsEos-0.14 AbsBaso-0.05\n10:34PM BLOOD PTT-52.7*\n08:35PM BLOOD Glucose-109* UreaN-18 Creat-1.0 Na-142 K-3.7 Cl-102 HCO3-30 AnGap-14\n08:35PM BLOOD ALT-12 AST-27 AlkPhos-103 TotBili-0.2\n08:35PM BLOOD Lipase-12\n02:04AM BLOOD cTropnT-<0.01\n08:35PM BLOOD cTropnT-<0.01\n08:35PM BLOOD Albumin-3.7 Calcium-9.9 Phos-3.3 Mg-1.9\n\nCTA Chest (Images Reviewed by doctor):\nIMPRESSION:  \n1.  No evidence of pulmonary embolism or aortic abnormality. Bilateral ground-glass opacities are nonspecific and may represent infectious or inflammatory change. (worse on right)\n2.  The midportion of the esophagus is ectatic and fluid-filled, \nconsistent with presbyesophagus \n\nCT ABD/Pelvis (Images Reviewed by doctor):\n1 Diverticulosis without evidence of diverticulitis. \n2. IVC filter in place. \n\nCXR (Imaging reviewed by doctor): \nMild interstitial pulmonary edema is improved from the prior examination.\n\nEKG: \nNormal Sinus Rhythm, boarderline left axis deviation, no ST-T wave changes.\nAmbulatory reflux monitor :total AET:9.2% on pH-impedance monitoring\n"
+}

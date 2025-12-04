@@ -1,0 +1,60 @@
+{
+    "UA$Intermedia_5": {
+        "Severe chest pain is symbol of ACS-UA$Cause_1": {
+            "At that tim walking 10 minutes on a treadmill (normally can walk >1 mile) and developed substernal, nonradiating chest pressure and shortness of breath$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "chest pressure is a symptom of ACS$Cause_1": {
+                "chest pressure$Input1": {}
+            },
+            "HTN, DM, HLD, hypothyroidism are risk fact$Cause_1": {
+                "Male with HTN, DM, HLD, hypothyroidism$Input2": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "Imaging changes of lungs can be a sign of acs$Cause_1": {
+                "FINDINGS: The lungs are clear, the cardiomediastinal silhouette and hila are normal. There is no pleural effusion or pneumothorax. There are mild degenerative changes at the lower thoracic spine. \nIMPRESSION: No acute process.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "chest pressure is a symptom of ACS$Cause_1": {
+                    "chest pressure$Input1": {}
+                },
+                "HTN, DM, HLD, hypothyroidism are risk fact$Cause_1": {
+                    "Male with HTN, DM, HLD, hypothyroidism$Input2": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "ECG:non-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "chest pressure is a symptom of ACS$Cause_1": {
+                    "chest pressure$Input1": {}
+                },
+                "HTN, DM, HLD, hypothyroidism are risk fact$Cause_1": {
+                    "Male with HTN, DM, HLD, hypothyroidism$Input2": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "Imaging changes of lungs can be a sign of acs$Cause_1": {
+                    "FINDINGS: The lungs are clear, the cardiomediastinal silhouette and hila are normal. There is no pleural effusion or pneumothorax. There are mild degenerative changes at the lower thoracic spine. \nIMPRESSION: No acute process.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "chest pressure is a symptom of ACS$Cause_1": {
+                        "chest pressure$Input1": {}
+                    },
+                    "HTN, DM, HLD, hypothyroidism are risk fact$Cause_1": {
+                        "Male with HTN, DM, HLD, hypothyroidism$Input2": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "chest pressure\n",
+    "input2": "Male with HTN, DM, HLD, hypothyroidism who presents with intermittent chest pressure x4 days duration.  \n\nThe patient was in his usual state of health until 4 days prior to presentation. At that time he was walking 10 minutes on a treadmill (normally can walk >1 mile) and developed substernal, nonradiating chest pressure and shortness of breath. He denies nausea, vomiting or diaphoresis. The chest pressure went away after minutes of rest. The patient now feels chest pressure anytime he walks any distance or lifts any object. It always resolves with rest.  \n.  \nHe presented to EW with initial vitals of: Pain 5, T 97.8, HR 79, BP 155/75, RR 16, SaO2 98% RA. He was given ASA and SL NTG with relief of pain. His creatinine is elevated from baseline to 1.5 and his troponin was elevated as well. The EW started heparin gtt for ACS. EKG without any ischemic changes. The patient was admitted to cardiology service for further evaluation.  \n\nCurrently, he denies any symptoms and feels well.  \n\nOn review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. He denies recent fevers, chills or rigors. He denies exertional buttock or calf pain. All of the other review of systems were negative.  \n\nCardiac review of systems is notable for absence of paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.\n",
+    "input3": "+Hypertension  \n+Diabetes mellitus  \n+Hyperlipidemia  \n+Hypothyroidism  \n+Asthma\n",
+    "input4": "Noncontributory.\n",
+    "input5": "VS: 97.7 123/66 72 98% 2L  \nGENERAL: Alert, appropriate, no acute distress.  \nHEENT: Sclera anicteric. PERRL, EOMI. MMM.  \nNECK: Supple. Low JVD  \nCARDIAC: RR, nl rate, no m/r/g.  \nLUNGS: CTAB, no crackles, wheezes, rhonchi.  \nABDOMEN: Soft, NTND.  \nEXTREMITIES: Warm. No c/c/e.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.\n",
+    "input6": "Admission Labs:\n___ 08:55PM BLOOD WBC-6.9 RBC-4.08* Hgb-13.1* Hct-37.5* MCV-92 MCH-32.2* MCHC-35.0 RDW-12.4 Plt ___\n___ 08:55PM BLOOD Neuts-49.4* ___ Monos-10.6 Eos-4.0 Baso-1.1\n___ 08:55PM BLOOD ___ PTT-23.0 ___\n___ 08:55PM BLOOD Glucose-217* UreaN-39* Creat-1.5* Na-138 K-4.2 Cl-101 HCO3-27 AnGap-14\n___ 08:55PM BLOOD cTropnT-0.09*\n___ 08:55PM BLOOD CK-MB-5\n\nDischarge Labs:\n___ 03:15AM BLOOD WBC-7.9 RBC-3.82* Hgb-12.3* Hct-34.8* MCV-91 MCH-32.3* MCHC-35.5* RDW-12.8 Plt ___\n___ 03:15AM BLOOD Glucose-141* UreaN-37* Creat-1.2 Na-140 K-4.1 Cl-104 HCO3-26 AnGap-14\n___ 03:15AM BLOOD CK-MB-4 cTropnT-0.11*\n___ 03:15AM BLOOD Calcium-8.3* Phos-3.8 Mg-2.3\n\nCXR ___\nCOMPARISON: Chest radiograph\nFINDINGS: The lungs are clear, the cardiomediastinal silhouette and hila are normal. There is no pleural effusion or pneumothorax. There are mild degenerative changes at the lower thoracic spine. \nIMPRESSION: No acute process.\n\nECG:non-ST-elevation\n"
+}

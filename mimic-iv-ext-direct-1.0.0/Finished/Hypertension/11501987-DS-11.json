@@ -1,0 +1,24 @@
+{
+    "Hypertension$Intermedia_3": {
+        "an elevation of BP (SBP\u2265140mmHg or DBP\u226590mmHg) confirmed is a diagnostic criteria of hypertension$Cause_1": {
+            "elevated BP in the office to 150/90 today$Input2": {}
+        },
+        "an elevation of BP (SBP\u2265140mmHg or DBP\u226590mmHg) confirmed is a diagnostic criteria of hypertension\n..$Cause_1": {
+            "Physical Exam: 19:00BP: 140/77 (92)$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "vision changes is the symptom of HTN$Cause_1": {
+                "vision changes$Input1": {}
+            },
+            "headache is the symptom of HTN$Cause_1": {
+                "headache$Input1": {}
+            }
+        }
+    },
+    "input1": "headache, vision changes\n",
+    "input2": "History of Present Illness:\nPatient is a ___ y/o G3P1 at 35+6 here with HA, vision changes, and elevated BP in the office to 130/90 today. She reports that she developed a strong ___ headache at about 10am this morning, which has since improved (but is still present) with tylenol). She had vision changes (\"floaters\") at the time of more severe headache, but not currently. No RUQ or epigastric pain. Rare \ncontractions (not painful), no LOF or vaginal bleeding. Active fetal movement.\n",
+    "input3": "Past Medical History:\nPNC:\n- A+/abs-/RPRNR/RI/HepBsAg-/HIV-/GBS unknown OB: G3P1\n- TABx1\n- LTCS at term, 7#, for NRFHT at 5 cm, c/b pre-eclampsia with Cr 2.8 after delivery\n- ___:  US with poly AFI 34 EFW 2713 g, 71%\nPMH: denies\nPSH: C/S, lumpectomy, tonsillectomy\n",
+    "input4": "\n",
+    "input5": "Physical Exam:\nOn admission:\n___ 17:29BP: 130/74 (86)\n___ 17:30Temp.: 98.1\u00b0F\n___ 17:40BP: 132/84 (95)\n___ 18:00BP: 124/80 (91)\n___ ___: 63\n___ 18:20BP: 132/76 (88)\n___ 18:40BP: 137/84 (92)\n___ 19:00BP: 140/77 (92)\nFHT: 130/mod/-acc/-dec (declined NST)\nToco: irritable\nSVE: deferred\n",
+    "input6": "Pertinent Results:\n___ WBC-8.5 RBC-3.96 Hgb-12.1 Hct-34.8 MCV-88 Plt-188\n___ Creat-0.7 ALT-15 AST-44 UricAcd-4.2\n___ URINE Blood-NEG Nitrite-NEG Protein-TR* Glucose-NEG \nKetone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG\n___ URINE RBC-0 WBC-0 Bacteri-NONE Yeast-NONE Epi-<1\n___ URINE Hours-RANDOM Creat-96 TotProt-8 Prot/Cr-0.1\n___ URINE 24Creat-1713 24Prot-193\n\nR/O GROUP B BETA STREP (Final ___: \n NEGATIVE FOR GROUP B BETA STREP.\n"
+}

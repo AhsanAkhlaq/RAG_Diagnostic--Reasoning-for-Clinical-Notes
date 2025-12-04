@@ -1,0 +1,60 @@
+{
+    "Hemorrhagic Stroke$Intermedia_3": {
+        "The patient suffered intraparenchymal hemorrhage, a direct manifestation of hemorrhagic stroke.$Cause_1": {
+            "a large intraparenchymal hemorrhage$Input2": {}
+        },
+        "Midline shift is an indicator of severe brain injury, indicating that bleeding has compressed brain tissue, causing brain structures to shift.$Cause_1": {
+            "a large 101 cc intraparenchymal hemorrhage centered around the right basal ganglia with 1 cm midline shift$Input2": {}
+        },
+        "These are classic symptoms of hemorrhagic stroke, especially intracranial bleeding$Cause_1": {
+            "Large right frontoparietal intraparenchymal hemorrhage with extensive surrounding vasogenic edema and mass effect causing 15 mm of leftward midline shift and developing subfalcine and uncal herniation$Input6": {}
+        },
+        "Subependymal hemorrhage is a common complication after stroke and can lead to acute neurological impairment.$Cause_1": {
+            "Intraventricular hemorrhages seen layering within the occipital or left lateral ventricle, fourth ventricle, and cisterna magna$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "Patients may have weakness on the left side of the body, which is one of the common symptoms of stroke$Cause_1": {
+                "possible left-sided weakness$Input2": {}
+            },
+            "High blood pressure is an important risk factor for stroke$Cause_1": {
+                "blood pressure of 170s-200s$Input2": {}
+            },
+            "The patient had left-sided weakness, including facial droop. Facial sagging is a classic symptom of stroke$Cause_1": {
+                "left-sided weakness including a facial droop$Input2": {}
+            },
+            "A Glasgow Coma Scale score of 4 indicates that the patient is severely impaired and requires intubation. This severe decrease in the level of consciousness is a sign of significant impairment of brain function and is common in severe strokes.$Cause_1": {
+                "a GCS of 4, necessitating intubation$Input2": {}
+            },
+            "The INR was 3.4, indicating that the patient's blood was highly anticoagulated, which may be related to the anticoagulant drug Coumadin she was taking. Overdose of anticoagulants may increase the risk of brain hemorrhage.$Cause_1": {
+                "INR was found to be 3.4$Input2": {}
+            },
+            "Atrial fibrillation is a significant risk factor for stroke$Cause_1": {
+                "Atrial fibrillation,$Input3": {}
+            },
+            "High blood pressure is one of the most common risk factors for stroke$Cause_1": {
+                "hypertension,$Input3": {}
+            },
+            "Hyperlipidemia is one of the most common risk factors for stroke$Cause_1": {
+                "hyperlipidemia$Input3": {}
+            },
+            "Low GCS scores may indicate severe brain dysfunction, often seen in stroke patients$Cause_1": {
+                "The patient had a GCS of 5T, does not follow commands, does not track or regard examiner$Input5": {}
+            },
+            "Asymmetrical limb reactions and loss of movement may indicate damage to part of the brain, a common sign of stroke.$Cause_1": {
+                "Off propofol, the patient briskly withdraws right upper and right lower.  The left upper extremity was seen to be antigravity, fighting against staff.  The left lower extremity withdrew to noxious.$Input5": {}
+            },
+            "Ascending toe reflex is common in stroke patients$Cause_1": {
+                "Upgoing toe on left$Input5": {}
+            },
+            "Obstructive hydrocephalus is a manifestation of increased intracranial pressure and is often associated with intracranial pathology after stroke.$Cause_1": {
+                "The right lateral ventricle difficult to visualize due to extensive mass-effect in the left lateral ventricle appears dilated, which is concerning for developing obstructive hydrocephalus.$Input6": {}
+            }
+        }
+    },
+    "input1": "found down\n",
+    "input2": "EU Critical She is a woman with a history of lupus arthritis, atrial fibrillation, aortic valve replacement on Coumadin who presents as an outside hospital transfer after being found to have a large intraparenchymal hemorrhage.\n\ufeff\nThe history is obtained from the charts and with the help of her geriatric facilities manager for corroboration. Ms. White reported to be in her otherwise usual state of health up until about 12  this afternoon.  She was found down in the bathroom face down at around 1.  At that time, she was reportedly responding to questions but with possible left-sided weakness. She was taken urgently to an outside hospital, where she was initially found to have a blood pressure of 170s-200s, with left-sided weakness including a facial droop.  Her clinical exam apparently deteriorated to a GCS of 4, necessitating intubation. \n\ufeff\nShe underwent a noncontrast head CT which revealed a large 101 cc intraparenchymal hemorrhage centered around the right basal ganglia with 1 cm midline shift.  Her INR was found to be 3.4 on initial evaluation.  She received K Centra, vitamin K and FFP. She was initiated on nicardipine drip prior to transfer. At ED, she was evaluated by neurosurgery.  \n\ufeff\nHer healthcare proxy was designated to be one Ms. White, who is a named healthcare proxy and who is the geriatric facilities.\n",
+    "input3": "+ Atrial fibrillation,\n+ aortic valve replacement, \n+ hypertension, \n+ hyperlipidemia, \n+ personality disorder, \n+ systemic lupus erythematosus with severe arthritis\n",
+    "input4": "noncontributory\n",
+    "input5": "ADMISSION PHYSICAL EXAM:\nGeneral: intubated, agitated off propofol\nHEENT: NCAT,  no oropharyngeal lesions, neck supple\nirregularly irregular, harsh systolic murmur\nPulmonary: intubated\nAbdomen: Soft, NT, ND, +BS, no guarding\nExtremities: Warm, no edema.  There are multiple areas of\necchymoses.  Her digits are severely arthritic.\n\ufeff\nNeurologic Examination:\n- Mental status: The patient had a GCS of 5T, does not follow commands, does not track or regard examiner.  She appears agitated.\n\ufeff\n- Cranial Nerves: PERRL 3->2 brisk. Corneals intact bilaterally. VORs not done.  Intact cough.\n\ufeff\n- Sensorimotor: Off propofol, the patient briskly withdraws right upper and right lower.  The left upper extremity was seen to be antigravity, fighting against staff.  The left lower extremity withdrew to noxious.\n \n- Reflexes: Upgoing toe on left\n\ufeff\n- Coordination/gait: deferred\n",
+    "input6": "CT head  \n1. Large right frontoparietal intraparenchymal hemorrhage with extensive surrounding vasogenic edema and mass effect causing 15 mm of leftward midline shift and developing subfalcine and uncal herniation. \n2. Intraventricular hemorrhages seen layering within the occipital or left lateral ventricle, fourth ventricle, and cisterna magna. \n3. The right lateral ventricle difficult to visualize due to extensive mass-effect in the left lateral ventricle appears dilated, which is concerning for developing obstructive hydrocephalus. \n4. Extensive predominantly right paranasal sinus disease, as above.\n"
+}

@@ -1,0 +1,55 @@
+{
+    "HFmrEF$Intermedia_5": {
+        "LVEF 41%-49% is the critiera for HFmrEF$Cause_1": {
+            "LVEF= 45 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is elongated. The right atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "proBNP \u2265 125 pg/mL is a strong value for heart failure$Cause_1": {
+                    "proBNP-GREATER THAN 1200$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "SOB is the common symptom of HF$Cause_1": {
+                        "SOB$Input1": {}
+                    },
+                    "Acute shortness of breath is one of the common symptoms of heart failure. Especially when the heart cannot effectively pump blood to the lungs, it will cause poor blood return to the lungs, resulting in difficulty breathing.$Cause_1": {
+                        "acute shortness of breath$Input2": {}
+                    },
+                    "The heart is unable to keep up with the body's demand for blood during increased physical activity, often in people with heart failure.$Cause_1": {
+                        "short of breath with prominent exertion$Input2": {}
+                    },
+                    "Class III refers to patients who feel fatigue, palpitations or difficulty breathing after mild physical activity, which reflects the severity of heart failure.$Cause_1": {
+                        "NHY Class III$Input2": {}
+                    },
+                    "The use of home oxygen therapy indicates that the patient may have persistent hypoxemia, a common complication of heart failure.$Cause_1": {
+                        "started on home O2$Input2": {}
+                    },
+                    "Hypertension is one of the main risk factors for heart disease and heart failure. Long-term high blood pressure can increase the burden on the heart and cause cardiac hypertrophy.$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "Mitral regurgitation means that the mitral valve of the heart does not close completely, causing blood to flow back, increasing the workload of the heart and possibly causing or aggravating heart failure.$Cause_1": {
+                        "Mod-severe MR: Noted on last ECHO$Input3": {}
+                    },
+                    "A shift in the apex beat often indicates an enlarged heart, a common finding in heart failure.$Cause_1": {
+                        "PMI displaced laterally below nipple.$Input5": {}
+                    },
+                    "A heart murmur may indicate a malfunctioning heart valve, which can increase the heart's workload and trigger or worsen heart failure.$Cause_1": {
+                        "II/VI faint, systolic murmur at the apex radiating to the axilla$Input5": {}
+                    },
+                    "Lung rales and wheezing are usually due to fluid accumulation in the lungs, which is a direct manifestation of poor fluid return due to decreased heart function in heart failure.$Cause_1": {
+                        "Faint basilar crackles at the left base combined with end expiratory wheezing on the left and right base.$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "SOB\n",
+    "input2": "male who presents with acute shortness of breath for the past day. In the past, per his wife, he typically becomes short of breath with prominent exertion and is not short of breath at rest. He is NHY Class III, and had been well since his last admission. He had recently been seen in clinic earlier last month and his lasix was increased and his felodipine had been stopped. He was also started on home O2. At home his blood pressure had been in the 140's but his wife could not remember the bottom number.\n",
+    "input3": "PAST MEDICAL HISTORY:  \n+ Polycystic kidney dz - last abdominal US shows stable cys \n+ CKD - baseline cr 2.5-2.7\n+ HTN\n+ Mod-severe MR: Noted on last ECHO  \n+ Hx of gout  \n+ Hx of anemia  \n+ Chronic back pain  \n+ Thyromegaly\n",
+    "input4": "No family history of early MI, otherwise non-contributory.  \nMother and father died of \"old age.\" Siblings healthy aunt with  asthma.\n",
+    "input5": "Physical Exam:\nVS: As above  \nGEN: AOx3, NAD  \nHEENT: PERRLA. EMOI. MMM. no LAD. JVD non-discernable with distended neck veins. neck supple.  \nCards: No carotid bruits. RRR S1/S2 normal, no S3, or S4. PMI displaced laterally below nipple. II/VI faint, systolic murmur at the apex radiating to the axilla.  \nPulm: Faint basilar crackles at the left base combined with end expiratory wheezing on the left and right base.  \nAbd: soft, NT, +BS. no rebound/guarding. Palpable aneurysm at the mid abdomen. R sided large protruberance, non-pulsitile.  \nExtremities: wwp, no edema. DPs, PTs 2+.  \nSkin: no rashes or bruising  \nNeuro/Psych: CNs II-XII intact. strength in U/L extremities.\nsensation intact to LT, cerebellar fxn intact (FTN, HTS).\n",
+    "input6": "Admission:\n09:30AM BLOOD WBC-6.5# RBC-3.31* Hgb-10.7* Hct-30.7* \nMCV-93 MCH-32.4* MCHC-35.0 RDW-12.1\n09:30AM BLOOD Glucose-113* UreaN-51* Creat-3.3* Na-139 \nK-4.6 Cl-98 HCO3-32 AnGap-14\n09:30AM BLOOD CK(CPK)-201\n09:30AM BLOOD CK-MB-2 proBNP-GREATER THAN 1200\n09:30AM BLOOD cTropnT-0.06*\n03:07AM BLOOD CK-MB-3 cTropnT-0.06*\n07:10AM BLOOD Calcium-9.0 Phos-4.1 Mg-2.3\n09:30AM BLOOD TSH-2.6\n09:52AM BLOOD Lactate-1.6\n10:20AM BLOOD WBC-5.2 RBC-3.45* Hgb-11.2* Hct-33.2* \nMCV-96 MCH-32.3* MCHC-33.7 RDW-12.5\n10:20AM BLOOD Glucose-150* UreaN-64* Creat-4.0* Na-142 K-3.8 Cl-103 HCO3-24 AnGap-19.\n\nThe left atrium is elongated. The right atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is probably moderately depressed (LVEF= 45 %) with global hypokinesis\n"
+}

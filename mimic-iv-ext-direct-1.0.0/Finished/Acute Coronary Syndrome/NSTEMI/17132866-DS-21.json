@@ -1,0 +1,144 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L$Cause_1": {
+            "BLOOD CK-MB-9 cTropnT-0.23*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain, shortness of breath\n is a symptom of ACS.$Cause_1": {
+                "Chest pain, shortness of breath$Input1": {}
+            },
+            "he awoke w left sided arm and chest pain, mild, not a/w SOB.\n is sign of acs$Cause_1": {
+                "2d later while at home he awoke w left sided arm and chest pain, mild, not a/w SOB.$Input2": {}
+            },
+            "Diabetes is a risk factor$Cause_1": {
+                "Diabetes$Input3": {}
+            },
+            "Dyslipidemia is a risk factor$Cause_1": {
+                "Dyslipidemia$Input3": {}
+            },
+            "Hypertension is a risk factorv$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "CORONARY ARTERY DISEASE, UNSPEC VESSEL TYPE is a risk factor$Cause_1": {
+                "CORONARY ARTERY DISEASE, UNSPEC VESSEL TYPE$Input3": {}
+            },
+            "NEPHROPATHY - DIABETIC stage 3 CKD is a risk factor$Cause_1": {
+                "NEPHROPATHY - DIABETIC stage 3 CKD$Input3": {}
+            },
+            "HYPERLIPIDEMIA is a risk factor$Cause_1": {
+                "HYPERLIPIDEMIA$Input3": {}
+            },
+            "DM - TYPE 1 DIABETES MELLITUS is a risk factor$Cause_1": {
+                "DM - TYPE 1 DIABETES MELLITUS$Input3": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                "hx single vessel CAD s/p BMS$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain, shortness of breath\n is a symptom of ACS.$Cause_1": {
+                    "Chest pain, shortness of breath$Input1": {}
+                },
+                "he awoke w left sided arm and chest pain, mild, not a/w SOB.\n is sign of acs$Cause_1": {
+                    "2d later while at home he awoke w left sided arm and chest pain, mild, not a/w SOB.$Input2": {}
+                },
+                "Diabetes is a risk factor$Cause_1": {
+                    "Diabetes$Input3": {}
+                },
+                "Dyslipidemia is a risk factor$Cause_1": {
+                    "Dyslipidemia$Input3": {}
+                },
+                "Hypertension is a risk factorv$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "CORONARY ARTERY DISEASE, UNSPEC VESSEL TYPE is a risk factor$Cause_1": {
+                    "CORONARY ARTERY DISEASE, UNSPEC VESSEL TYPE$Input3": {}
+                },
+                "NEPHROPATHY - DIABETIC stage 3 CKD is a risk factor$Cause_1": {
+                    "NEPHROPATHY - DIABETIC stage 3 CKD$Input3": {}
+                },
+                "HYPERLIPIDEMIA is a risk factor$Cause_1": {
+                    "HYPERLIPIDEMIA$Input3": {}
+                },
+                "DM - TYPE 1 DIABETES MELLITUS is a risk factor$Cause_1": {
+                    "DM - TYPE 1 DIABETES MELLITUS$Input3": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "EKG w new TWI inferiorly, obs'd for 2 sets.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain, shortness of breath\n is a symptom of ACS.$Cause_1": {
+                    "Chest pain, shortness of breath$Input1": {}
+                },
+                "he awoke w left sided arm and chest pain, mild, not a/w SOB.\n is sign of acs$Cause_1": {
+                    "2d later while at home he awoke w left sided arm and chest pain, mild, not a/w SOB.$Input2": {}
+                },
+                "Diabetes is a risk factor$Cause_1": {
+                    "Diabetes$Input3": {}
+                },
+                "Dyslipidemia is a risk factor$Cause_1": {
+                    "Dyslipidemia$Input3": {}
+                },
+                "Hypertension is a risk factorv$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "CORONARY ARTERY DISEASE, UNSPEC VESSEL TYPE is a risk factor$Cause_1": {
+                    "CORONARY ARTERY DISEASE, UNSPEC VESSEL TYPE$Input3": {}
+                },
+                "NEPHROPATHY - DIABETIC stage 3 CKD is a risk factor$Cause_1": {
+                    "NEPHROPATHY - DIABETIC stage 3 CKD$Input3": {}
+                },
+                "HYPERLIPIDEMIA is a risk factor$Cause_1": {
+                    "HYPERLIPIDEMIA$Input3": {}
+                },
+                "DM - TYPE 1 DIABETES MELLITUS is a risk factor$Cause_1": {
+                    "DM - TYPE 1 DIABETES MELLITUS$Input3": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "hx single vessel CAD s/p BMS$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain, shortness of breath\n is a symptom of ACS.$Cause_1": {
+                        "Chest pain, shortness of breath$Input1": {}
+                    },
+                    "he awoke w left sided arm and chest pain, mild, not a/w SOB.\n is sign of acs$Cause_1": {
+                        "2d later while at home he awoke w left sided arm and chest pain, mild, not a/w SOB.$Input2": {}
+                    },
+                    "Diabetes is a risk factor$Cause_1": {
+                        "Diabetes$Input3": {}
+                    },
+                    "Dyslipidemia is a risk factor$Cause_1": {
+                        "Dyslipidemia$Input3": {}
+                    },
+                    "Hypertension is a risk factorv$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "CORONARY ARTERY DISEASE, UNSPEC VESSEL TYPE is a risk factor$Cause_1": {
+                        "CORONARY ARTERY DISEASE, UNSPEC VESSEL TYPE$Input3": {}
+                    },
+                    "NEPHROPATHY - DIABETIC stage 3 CKD is a risk factor$Cause_1": {
+                        "NEPHROPATHY - DIABETIC stage 3 CKD$Input3": {}
+                    },
+                    "HYPERLIPIDEMIA is a risk factor$Cause_1": {
+                        "HYPERLIPIDEMIA$Input3": {}
+                    },
+                    "DM - TYPE 1 DIABETES MELLITUS is a risk factor$Cause_1": {
+                        "DM - TYPE 1 DIABETES MELLITUS$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain, shortness of breath\n",
+    "input2": "hx single vessel CAD s/p BMS, DM1 on insulin pump, HTN, HLP, CKD, legally blind who is s/p cataract surgery with trabeculectomy. 2d later while at home he awoke w left sided arm and chest pain, mild, not a/w SOB. Noted his BS to be in the 400-500s that morning, and went to hosptial for eval. There, initial trop 0.02, EKG w new TWI inferiorly, obs'd for 2 sets. Per pt he stopped all of his cardiac meds (except insulin) for unclear reasons. Was given ASA 325, plavix 75 (not loaded), metop, atorva and heparin gtt and transferred here.  On the floor he has no acute complaints.\n",
+    "input3": "+ Diabetes\n+ Dyslipidemia\n+ Hypertension  \n+ CORONARY ARTERY DISEASE, UNSPEC VESSEL TYPE  \n+ SEIZURE DISORDER, UNSPEC  \n+ OSTEOARTHRITIS, UNSPEC  \n+ CATARACT, UNSPEC  \n+ NEPHROPATHY - DIABETIC stage 3 CKD  \n+ HYPERLIPIDEMIA  \n+ VITREOUS HEMORRHAGE  \n+ DM - TYPE 1 DIABETES MELLITUS  \n+ NEUROPATHY - DIABETIC\n",
+    "input4": "No DM in family. Reports no medical illnesses in his family\n",
+    "input5": "Vitals - 98.5 132/77 59 95%RA  \nGENERAL: NAD  \nHEENT: AT/NC, EOMI  \nNECK: no JVD  \nCARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  \nLUNG: CTAB, no wheezes, rales, rhonchi  \nABDOMEN: nondistended, +BS, nontender in all quadrants  \nEXTREMITIES: moving all extremities well, no cyanosis, clubbing \nor edema  \nPULSES: 2+ DP pulses bilaterally  \nNEURO: grossly intact  \nSKIN: warm and well perfused, no excoriations or lesions, no \nrashes\n",
+    "input6": "07:00AM BLOOD WBC-4.4 RBC-3.70* Hgb-12.4* Hct-39.8* \nMCV-108* MCH-33.5* MCHC-31.2 RDW-12.2\n07:00AM BLOOD UreaN-22* Creat-1.2 Na-137 K-5.0 Cl-104 \nHCO3-25 AnGap-13\n12:00AM BLOOD CK-MB-9 cTropnT-0.23*\n\ufeff\n07:10AM BLOOD UreaN-24* Creat-1.4* Na-136 K-3.8 Cl-98 \nHCO3-26 AnGap-16\n11:31PM BLOOD CK-MB-12* cTropnT-0.35*\n06:55AM BLOOD CK-MB-120* cTropnT-1.61*\n07:00AM BLOOD CK-MB-82* cTropnT-3.86*\n07:10AM BLOOD CK-MB-25*  cTropnT-2.65*\n"
+}

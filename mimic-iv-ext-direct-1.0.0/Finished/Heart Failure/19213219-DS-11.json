@@ -1,0 +1,52 @@
+{
+    "HFpEF$Intermedia_5": {
+        "LVEF\u226550% is the critiera for HFpEF$Cause_1": {
+            "LVEF>55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "BNP \u2265 35 pg/mL is a strong value for heart failure$Cause_1": {
+                    "BNP 600$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Hypoxia is a common symptom of heart dysfunction in heart failure.$Cause_1": {
+                        "Hypoxia$Input1": {}
+                    },
+                    "A family history of cardiovascular disease$Cause_1": {
+                        "Mom - died of MI$Input4": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "arrythmia can cause heart failure.$Cause_1": {
+                        "arrythmia$Input3": {}
+                    },
+                    "Diabetes is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "Diabetes$Input3": {}
+                    },
+                    "Elevated jugular venous pulse (JVP) is a common sign of heart failure, indicating the state of fluid retention.$Cause_1": {
+                        "Neck: supple, JVP elevated to the angle of the jaw$Input5": {}
+                    },
+                    "indicates arrhythmia, a possible trigger for heart failure.$Cause_1": {
+                        "CV: Irregular$Input5": {}
+                    },
+                    "edema in lower extremities is a common sign of systemic congestion in heart failure.$Cause_1": {
+                        "Ext: trace edema$Input5": {}
+                    },
+                    "atrial fibrillation/flutter can cause heart failure.$Cause_1": {
+                        "atrial fibrillation/flutter$Input2": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Hypoxia\n",
+    "input2": "She is a female with atrial fibrillation/flutter,  hypoxic and tachycardic. She states that she did not feel short of breath and did not feel uncomfortable. She notes that she has been taking in a lot of salt including chicken broth recently due to her only being able to take in liquids. She denies any fevers, chills, nausea or vomiting. She has been compliant with her medications however she did not take her meds this morning due to the procedure. She has chronic orthopnea but denies any recent changes. She states that she has home O2 but notes that she rarely uses it (only when she feels SOB). Her dry weight is around 210 lbs.  \nIn the ED, initial vs were: T 97.6 P 96 BP 146/73 O2 sat 100 4L. Patient was given 10mg IV lasix and 25mg of metoprolol.  \n.  \nOn the floor, she states that she is doing well. She denies any chest pain, shortness of breath or discomfort. She states that she feels well and never felt short of breath.  \n.  \nReview of sytems:  \n(+) Per HPI  \n(-) Denies fever, chills, night sweats, recent weight loss or gain. Denies headache, sinus tenderness, rhinorrhea or congestion. Denied cough, shortness of breath. Denied chest pain or tightness, palpitations. Denied nausea, vomiting, diarrhea, constipation or abdominal pain. No recent change in bowel or bladder habits. No dysuria. Denied arthralgias or myalgias. \n\ufeff\n",
+    "input3": "Hypertension\nH/o arrythmia\nDiabetes diagnosed in ___\nDegenerative joint disease\n",
+    "input4": "Mom - died of MI.Dad - died from brain cancer.\n",
+    "input5": "Physical Exam:\nAdmission Physical Exam\nVitals: T: 96.3 BP: 128/52 P: 74 O2: 95 2L \nGeneral: Alert, oriented, no acute distress  \nHEENT: MMM, oropharynx clear  \nNeck: supple, JVP elevated to the angle of the jaw, no LAD  \nLungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi  \nCV: Irregular, no murmurs, rubs, gallops  \nAbdomen: soft, non-tender, slighlty distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly   \nExt: trace edema, warm, well perfused, 2+ pulses, no clubbing, cyanosis \nNeuro: CNs2-12 intact, motor function grossly normal \n\ufeff\n\ufeff\n",
+    "input6": "Chest X-Ray:\nFINDINGS: Moderate-to-severe cardiomegaly appears unchanged. No focal opacity to suggest pneumonia is seen. No pleural effusion, pneumothorax or overt pulmonary edema is seen. \n. \nIMPRESSION: Stable examination. No evidence of acute cardiopulmonary process. \n.\n___ 10:43AM BLOOD WBC-7.4 RBC-4.33 Hgb-12.7 Hct-42.1 MCV-97# MCH-29.7 MCHC-32.6 RDW-17.0*\n___ 12:00PM BLOOD Glucose-158* UreaN-10 Creat-0.6 Na-143 K-3.5 Cl-107 HCO3-28 AnGap-12 BNP 600*\n\n\nECHO\uff1a\nThe left atrium is moderately dilated. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%). \n\ufeff\n"
+}

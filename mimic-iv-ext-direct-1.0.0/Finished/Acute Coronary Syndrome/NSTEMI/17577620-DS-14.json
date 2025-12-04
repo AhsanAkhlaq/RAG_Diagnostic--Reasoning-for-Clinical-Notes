@@ -1,0 +1,108 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "cTropnT-0.33*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "chest pain is a symptom of ACS.$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "family history :male with history of CAD s/p CABG grafts patent is risk fact$Cause_1": {
+                "male with history of CAD s/p CABG grafts patent, tachybrady syndrome s/p PPM, atrial fibrillation on Coumadin, who presents with chest pain.$Input2": {}
+            },
+            "Patient states he was awakened from sleep by pain posteriorly across both shoulders at around 2 AM the morning of admission. Over the course of the next two hours the pain became more of a bilateral anterior chest pressure.\nis sign of acs$Cause_1": {
+                "Patient states he was awakened from sleep by pain posteriorly across both shoulders at around 2 AM the morning of admission. Over the course of the next two hours the pain became more of a bilateral anterior chest pressure.$Input2": {}
+            },
+            "CAD s/p CABG is a risk factor$Cause_1": {
+                "CAD s/p CABG$Input3": {}
+            },
+            "Hyperlipidemia is a risk factor$Cause_1": {
+                "Hyperlipidemia$Input3": {}
+            },
+            "HTN is a risk factor$Cause_1": {
+                "HTN$Input3": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                "Per EMS report, en route patient began having frequent PVCs. Per initial report there was concern about wide-complex tachycardia for which patient received 150mg amiodarone.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "chest pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "family history :male with history of CAD s/p CABG grafts patent is risk fact$Cause_1": {
+                    "male with history of CAD s/p CABG grafts patent, tachybrady syndrome s/p PPM, atrial fibrillation on Coumadin, who presents with chest pain.$Input2": {}
+                },
+                "Patient states he was awakened from sleep by pain posteriorly across both shoulders at around 2 AM the morning of admission. Over the course of the next two hours the pain became more of a bilateral anterior chest pressure.\nis sign of acs$Cause_1": {
+                    "Patient states he was awakened from sleep by pain posteriorly across both shoulders at around 2 AM the morning of admission. Over the course of the next two hours the pain became more of a bilateral anterior chest pressure.$Input2": {}
+                },
+                "CAD s/p CABG is a risk factor$Cause_1": {
+                    "CAD s/p CABG$Input3": {}
+                },
+                "Hyperlipidemia is a risk factor$Cause_1": {
+                    "Hyperlipidemia$Input3": {}
+                },
+                "HTN is a risk factor$Cause_1": {
+                    "HTN$Input3": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "EKG was performed which showed atrial fibrillation, regular and paced beats. No change from EKG.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "chest pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "family history :male with history of CAD s/p CABG grafts patent is risk fact$Cause_1": {
+                    "male with history of CAD s/p CABG grafts patent, tachybrady syndrome s/p PPM, atrial fibrillation on Coumadin, who presents with chest pain.$Input2": {}
+                },
+                "Patient states he was awakened from sleep by pain posteriorly across both shoulders at around 2 AM the morning of admission. Over the course of the next two hours the pain became more of a bilateral anterior chest pressure.\nis sign of acs$Cause_1": {
+                    "Patient states he was awakened from sleep by pain posteriorly across both shoulders at around 2 AM the morning of admission. Over the course of the next two hours the pain became more of a bilateral anterior chest pressure.$Input2": {}
+                },
+                "CAD s/p CABG is a risk factor$Cause_1": {
+                    "CAD s/p CABG$Input3": {}
+                },
+                "Hyperlipidemia is a risk factor$Cause_1": {
+                    "Hyperlipidemia$Input3": {}
+                },
+                "HTN is a risk factor$Cause_1": {
+                    "HTN$Input3": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "Per EMS report, en route patient began having frequent PVCs. Per initial report there was concern about wide-complex tachycardia for which patient received 150mg amiodarone.$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "chest pain is a symptom of ACS.$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "family history :male with history of CAD s/p CABG grafts patent is risk fact$Cause_1": {
+                        "male with history of CAD s/p CABG grafts patent, tachybrady syndrome s/p PPM, atrial fibrillation on Coumadin, who presents with chest pain.$Input2": {}
+                    },
+                    "Patient states he was awakened from sleep by pain posteriorly across both shoulders at around 2 AM the morning of admission. Over the course of the next two hours the pain became more of a bilateral anterior chest pressure.\nis sign of acs$Cause_1": {
+                        "Patient states he was awakened from sleep by pain posteriorly across both shoulders at around 2 AM the morning of admission. Over the course of the next two hours the pain became more of a bilateral anterior chest pressure.$Input2": {}
+                    },
+                    "CAD s/p CABG is a risk factor$Cause_1": {
+                        "CAD s/p CABG$Input3": {}
+                    },
+                    "Hyperlipidemia is a risk factor$Cause_1": {
+                        "Hyperlipidemia$Input3": {}
+                    },
+                    "HTN is a risk factor$Cause_1": {
+                        "HTN$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "This is a pleasant male with history of CAD s/p CABG grafts patent, tachybrady syndrome s/p PPM, atrial fibrillation on Coumadin, who presents with chest pain. \n\ufeff\nPatient states he was awakened from sleep by pain posteriorly across both shoulders at around 2 AM the morning of admission. Over the course of the next two hours the pain became more of a bilateral anterior chest pressure. The pain was not positional, not exertional, had mild associated SOB but no n/v/diaphoresis. After that time, the chest pain began improving spontaneously and by the time he went to his scheduled PCP appointment this morning, he had some remnant left sided chest pressure but his other symptoms had resolved. \n\ufeff\nAt his PCP's office, he reported these symptoms and was given SL nitro x1, aspirin 324mg, and an EKG was performed which showed atrial fibrillation, regular and paced beats. No change from EKG.\n\ufeff\nPer EMS report, en route patient began having frequent PVCs. Per initial report there was concern about wide-complex tachycardia for which patient received 150mg amiodarone. His BP was stable,no chest pain, mentating well. On review of the rhythm strips this rhythm was likely more consistent with V-pacing, heart rate of about 100 bpm rather than a wide-complex tachycardia or VT.\n\ufeff\nIn the ED, patient reported feeling well without any ongoing chest pain. \n- Initial vitals were: T 96.9 HR 97 BP 124/91 RR 18 O2 sat 97% RA\n- EKG afib/aflutter, V pacing. Normal rate. \n- Labs/studies notable for: trop 0.13, Mg 1.3, WBC 14.3. Cr at baseline 0.9. LFTs wnl. \n- Patient was given: 2g Mg\n\ufeff\nOn ROS, patient denies shortness of breath, palpitations, lightheadedness, nausea, diaphoresis, recent exertional chest pain, lower extremity edema, cough, fevers. He does state that for the past 4 or 5 days he has had several episodes of diarrhea daily, though he has a history of intermittent diarrhea for which he sees GI and this is not significantly different. Earlier in the week he had some abdominal pain that has since resolved.\n",
+    "input3": "+ PAF  \n+ CAD s/p CABG\n+ Hyperlipidemia  \n+ Colonic Adenoma  \n+ Throat CA s/p XRT completed\n+ Vocal cord polyp  \n+ Diverticulosis  \n+ HTN  \n+ Positive PPD as a child with negative CXR  \n+ GERD  \n+ Tonsillectomy  \n+ Right Inguinal Hernia Repair\n",
+    "input4": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.\n",
+    "input5": "VS: T 97.9 BP 135 / 85 HR 71 RR 16 98 RA \nGENERAL: Well developed, well nourished, in NAD. Oriented x3.\nMood, affect appropriate.  \nHEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.\nNECK: Supple. No JVD. \nCARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs, rubs, or gallops. no thrills or lifts.  \nLUNGS: CTAB. Respiration is unlabored with no accessory muscle use. No crackles, wheezes or rhonchi.  \nABDOMEN: Soft, non-tender, non-distended. No HSM. \nEXTREMITIES: Warm, well perfused. Trace bilateral lower extremity\nedema. \nSKIN: No significant skin lesions or rashes.  \nPULSES: Distal pulses palpable and symmetric.\n",
+    "input6": "ADMISSION LABS\n===========================\n11:10AM BLOOD WBC-14.7* RBC-4.80 Hgb-16.1 Hct-48.7 \nMCV-102* MCH-33.5* MCHC-33.1 RDW-15.3 RDWSD-57.5*\n11:10AM BLOOD Neuts-74.7* Lymphs-15.1* Monos-7.5 Eos-0.9* Baso-0.5 AbsNeut-11.02* AbsLymp-2.22 \nAbsMono-1.11* AbsEos-0.13 AbsBaso-0.07\n11:10AM BLOOD Glucose-103* UreaN-22* Creat-0.9 Na-140 \nK-4.4 Cl-103 HCO3-22 AnGap-15\n11:10AM BLOOD CK-MB-29* MB Indx-10.3*\n11:10AM BLOOD cTropnT-0.33*\n11:10AM BLOOD Albumin-3.8 Calcium-9.8 Phos-2.9 Mg-1.3*\n"
+}

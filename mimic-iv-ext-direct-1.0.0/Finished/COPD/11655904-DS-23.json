@@ -1,0 +1,41 @@
+{
+    "Severe COPD$Intermedia_4": {
+        "30% \u2264 FEV1 < 50% is the criteria of Severe COPD$Cause_1": {
+            "FEV1 47% predicted.$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "FEV1/FVC < 0.70 is the criteria of COPD$Cause_1": {
+                "FEV1/FVC = 0.45$Input5": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "Drowsiness is a common symptom in COPD patients.$Cause_1": {
+                    "Somnolence$Input1": {}
+                },
+                "Confusion is a nonspecific symptom but may be associated with an acute exacerbation of respiratory disease, particularly in patients with COPD.$Cause_1": {
+                    "increasing confusion$Input2": {}
+                },
+                "Upper respiratory tract infection (URI)-like symptoms and cough with green sputum are common symptoms of COPD exacerbations.$Cause_1": {
+                    "recent URI-like symptoms, with cough productive of green sputum$Input2": {}
+                },
+                "The patient had recently completed a course of prednisone taper and antibiotics for a presumed acute exacerbation of COPD, which was direct evidence of a history of COPD.$Cause_1": {
+                    "recently finished a prednisone taper and antibiotic course last week for presumed COPD exacerbation.$Input2": {}
+                },
+                "Typical manifestations of COPD, indicating airway obstruction and airflow limitation$Cause_1": {
+                    "very quiet breath sounds, with prolonged expiratory phase$Input5": {}
+                },
+                "In patients with COPD, faint heart sounds may occur due to pneumothorax or hyperinflation$Cause_1": {
+                    "although quiet heart sounds$Input5": {}
+                },
+                "May indicate chronic hypercapnia, common in patients with COPD$Cause_1": {
+                    "mild asterixis$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Somnolence\n",
+    "input2": "Ms. ___ is a ___ year old female who presents with one day of confusion.  Patient notes increasing confusion starting earlier today.  Daughter was concerned for increasing confusion, and also reported recent URI-like symptoms, with cough productive of green sputum.  Daughter was concerned, and urged patient to seek evaluation.  Patient denies f/c, no headache/neck stiffness.  No pre-syncope/syncope.  No recent falls.  She also denies any chest pain/pressure, and denies any worsening DOE.  Per report, patient recently finished a prednisone taper and antibiotic course last week for presumed COPD exacerbation.  \n",
+    "input3": "None\n",
+    "input4": "Father: MI at age ___, died at age ___. Mother died of ___ of MI, Paternal Great Uncle died of MI at age ___. Brother has lung CA   \n",
+    "input5": "VS:  105/42  HR 76  93% 3 liters n/c  RR 16  \nGA: AOx3, NAD, no increased work of breathing  \nHEENT: PERRLA. MMM. no LAD. no JVD. neck supple.  \nCards: PMI palpable at ___ IC space. No RVH. RRR S1/S2 heard. no murmurs/gallops/rubs, although quiet heart sounds  \nPulm: CTAB no crackles or wheezes.  very quiet breath sounds, with prolonged expiratory phase  \nAbd: soft, NT, +BS. no g/rt. neg HSM. neg ___ sign.  \nExtremities: wwp, trace ___ edema. DPs, PTs 2+.  \nSkin:  \nNeuro/Psych: CNs II-XII intact. ___ strength in U/L extremities. DTRs 2+ ___ (biceps, achilles, patellar). sensation intact to LT, pain, temperature, vibration, proprioception. cerebellar fxn intact (FTN, HTS). gait deferred.  mild asterixis \n\nFEV1/FVC = 0.45 \n",
+    "input6": "___ 09:51PM   TYPE-ART PO2-137* PCO2-71* PH-7.37 TOTAL \nCO2-43* BASE XS-12\n___ 07:00PM   TYPE-ART PO2-167* PCO2-73* PH-7.39 TOTAL \nCO2-46* BASE XS-15\n___ 05:20PM   GLUCOSE-100 UREA N-12 CREAT-0.7 SODIUM-142 \nPOTASSIUM-4.2 CHLORIDE-96 TOTAL CO2-40* ANION GAP-10\n___ 05:20PM   estGFR-Using this\n___ 05:20PM   ALT(SGPT)-15 AST(SGOT)-18 CK(CPK)-79 ALK \nPHOS-99 TOT BILI-0.2\n___ 05:20PM   cTropnT-<0.01\n___ 05:20PM   CK-MB-5 proBNP-92\n___ 05:20PM URINE  HOURS-RANDOM\n___ 05:20PM URINE  GR HOLD-HOLD\n___ 05:20PM   WBC-8.1 RBC-4.04* HGB-11.5* HCT-34.8* MCV-86 \nMCH-28.5 MCHC-33.1 RDW-14.5\n___ 05:20PM   NEUTS-68.0 ___ MONOS-4.3 EOS-4.2* \nBASOS-0.5\n___ 05:20PM   PLT COUNT-226\n___ 05:20PM   ___ PTT-23.3 ___\n___ 05:20PM URINE  COLOR-Straw APPEAR-Clear SP ___\n___ 05:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR \nGLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 \nLEUK-MOD\n___ 05:20PM URINE  RBC-0 ___ BACTERIA-MOD YEAST-NONE \n\nMicro: Legionella urine anigen-neg, MRSA-neg, Urine cx.-negative \n\nFEV1 47% predicted.\n\n"
+}

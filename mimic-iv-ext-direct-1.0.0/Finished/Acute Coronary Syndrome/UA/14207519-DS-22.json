@@ -1,0 +1,96 @@
+{
+    "UA$Intermedia_5": {
+        "her cardiologist Dr.  This morning at 03:30 she awoke suddenly from sleep with pain in her left arm, shoulder, neck, and jaw and significant diaphoresis.  \nShe felt very nauseated and vomited.  She then sat down, took 2 full-strength Aspirin,\n are sign of acs-ua$Cause_1": {
+            "her cardiologist Dr.  This morning at 03:30 she awoke suddenly from sleep with pain in her left arm, shoulder, neck, and jaw and significant diaphoresis.  \nShe felt very nauseated and vomited.  She then sat down, took 2 full-strength Aspirin,$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "history of NSTEMI is risk fact of acs$Cause_1": {
+                "with history of NSTEMI (cath'ed at hospital which showed RCA lesion that was medically managed)$Input2": {}
+            },
+            "dyslipidemia Is risk fact of acs$Cause_1": {
+                "dyslipidemia$Input3": {}
+            },
+            "family history:Dad had MI requiring CABG   is a risk fact$Cause_1": {
+                "Dad had MI requiring CABG$Input4": {}
+            },
+            "family history:Aunt dropped dead from MI   is a risk fact$Cause_1": {
+                "Aunt dropped dead from MI$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "slight cardiac structural abnormalities is a sign of acs$Cause_1": {
+                "PERCUTANEOUS CORONARY INTERVENTIONS: catheterization done in the past with suspected blockage in small branch off RCA$Input3": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "history of NSTEMI is risk fact of acs$Cause_1": {
+                    "with history of NSTEMI (cath'ed at hospital which showed RCA lesion that was medically managed)$Input2": {}
+                },
+                "dyslipidemia Is risk fact of acs$Cause_1": {
+                    "dyslipidemia$Input3": {}
+                },
+                "family history:Dad had MI requiring CABG   is a risk fact$Cause_1": {
+                    "Dad had MI requiring CABG$Input4": {}
+                },
+                "family history:Aunt dropped dead from MI   is a risk fact$Cause_1": {
+                    "Aunt dropped dead from MI$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS.$Cause_1": {
+                "EKG: SR, normal rate, no ST elevations$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "history of NSTEMI is risk fact of acs$Cause_1": {
+                    "with history of NSTEMI (cath'ed at hospital which showed RCA lesion that was medically managed)$Input2": {}
+                },
+                "dyslipidemia Is risk fact of acs$Cause_1": {
+                    "dyslipidemia$Input3": {}
+                },
+                "family history:Dad had MI requiring CABG   is a risk fact$Cause_1": {
+                    "Dad had MI requiring CABG$Input4": {}
+                },
+                "family history:Aunt dropped dead from MI   is a risk fact$Cause_1": {
+                    "Aunt dropped dead from MI$Input4": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "slight cardiac structural abnormalities is a sign of acs$Cause_1": {
+                    "PERCUTANEOUS CORONARY INTERVENTIONS: catheterization done in the past with suspected blockage in small branch off RCA$Input3": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS$Cause_1": {
+                        "chest pain$Input1": {}
+                    },
+                    "history of NSTEMI is risk fact of acs$Cause_1": {
+                        "with history of NSTEMI (cath'ed at hospital which showed RCA lesion that was medically managed)$Input2": {}
+                    },
+                    "dyslipidemia Is risk fact of acs$Cause_1": {
+                        "dyslipidemia$Input3": {}
+                    },
+                    "family history:Dad had MI requiring CABG   is a risk fact$Cause_1": {
+                        "Dad had MI requiring CABG$Input4": {}
+                    },
+                    "family history:Aunt dropped dead from MI   is a risk fact$Cause_1": {
+                        "Aunt dropped dead from MI$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "Mrs. White with history of NSTEMI (cath'ed at hospital which showed RCA lesion that was medically managed) who presents from home today after calling her cardiologist Dr.  This morning at 03:30 she awoke suddenly from sleep with pain in her left arm, shoulder, neck, and jaw and significant diaphoresis.  \nShe felt very nauseated and vomited.  She then sat down, took 2 full-strength Aspirin, and the episode resolved after about 15 minutes.  She then went back to sleep.  She called her cardiologist who advised her to come to the hospital.  This is very similar to the episode that happened back.\n\ufeff\nIn the ED initial vitals were: 98.8 72 131/71 18 98% RA  And she was given SL nitro x 1\nEKG: SR, normal rate, no ST elevations\nLabs/studies notable for: negative troponin\nVitals on transfer: 72 116/60 18 99% RA \nOn the floor she is overall comfortable but still endorses a very mild vague discomfort in her upper chest.  Denies diaphoresis, nausea, vomiting, dysuria, myalgias, arthralgias.\n\ufeff\nROS: A complete and thorough review of systems was obtained and is otherwise negative.\n",
+    "input3": "+ dyslipidemia\n+ CABG: None\n+ PERCUTANEOUS CORONARY INTERVENTIONS: catheterization done in the past with suspected blockage in small branch off RCA\n+ PACING/ICD: None\n",
+    "input4": "Dad had MI requiring CABG\nAunt dropped dead from MI\n",
+    "input5": "Admission Physical Exam:\nVS: 98.1 117/75 87 16 97RA Wt 80.6kg\nGENERAL: well-appearing woman in NAD\nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.\nNECK: Supple with JVP of 5 cm.\nCARDIAC: PMI located intercostal space, midclavicular line. RR, normal S1, S2. No murmurs/rubs/gallops. No thrills, lifts.\nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. No crackles, wheezes or rhonchi.\nABDOMEN: Soft, NTND. No HSM or tenderness.\nEXTREMITIES: No c/c/e. No femoral bruits.\nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.\nPULSES: Distal pulses palpable and symmetric\n",
+    "input6": "Admission Labs:\n01:05PM BLOOD WBC-7.6 RBC-4.54 Hgb-14.3 Hct-43.5 MCV-96 MCH-31.5 MCHC-32.9 RDW-12.9 RDWSD-45.4\n01:05PM BLOOD Neuts-66.0 Monos-9.5 Eos-2.8 \nBaso-0.5 AbsNeut-5.02 AbsLymp-1.56 AbsMono-0.72 \nAbsEos-0.21 AbsBaso-0.04\n01:05PM BLOOD Glucose-84 UreaN-22* Creat-0.9 Na-139 K-4.8 Cl-102 HCO3-30 AnGap-12\n01:05PM BLOOD Calcium-9.8 Phos-3.7 Mg-2.1\n\ufeff\nPertinent Labs:\n01:05PM BLOOD cTropnT-<0.01\n09:40PM BLOOD CK-MB-3 cTropnT-<0.01\n"
+}

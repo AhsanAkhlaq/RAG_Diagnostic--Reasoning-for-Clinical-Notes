@@ -1,0 +1,30 @@
+{
+    "Duodenal Ulcers$Intermedia_3": {
+        "Duodenal ulcer with bleeding on endoscopy is the gold standard of duodenal ulcer$Cause_1": {
+            "Endoscopy:duodenal ulcer with bleeding$Input6": {}
+        },
+        "Suspected Peptic Ulcer Disease$Intermedia_2": {
+            "Non-radiating upper abdominal pain refers to pain that is limited to the upper abdomen and does not spread to other parts. This is one of the common symptoms of peptic ulcer.$Cause_1": {
+                "non-radiating, epigastric pain$Input2": {}
+            },
+            "Black diarrhea may be caused by gastrointestinal bleeding, a complication of peptic ulcer$Cause_1": {
+                "black diarrhea$Input2": {}
+            },
+            "Black stools are usually caused by upper gastrointestinal bleeding. The blood turns black after reacting with stomach acid, which is an important clue for finding peptic ulcers.$Cause_1": {
+                "continues to have black stool$Input2": {}
+            },
+            "Past history of Ulcer improve the risk of the disease$Cause_1": {
+                "Ulcer$Input3": {}
+            },
+            "Black stools are often associated with upper gastrointestinal bleeding, which is a common symptom of stomach ulcers.$Cause_1": {
+                "minimal stool, brown and black, guaiac positive$Input5": {}
+            }
+        }
+    },
+    "input1": "none\n",
+    "input2": "The patient states that he began having non-radiating, epigastric pain on ___. The pain subsided but returned on ___ night. He also had an episode of \"black diarrhea\" that night. The patient has been pain-free since ___ morning but notes that he continues to have black stool, including his last bowel movement this morning.  The patient presented to ___ today and saw Dr. ___ referred him to the ED for melena, abdominal pain, and tachycardia.  The patient denies any fevers, chest pain, shortness of breath, lightheadedness, or NSAID use. He does note a 5 pound weight \nloss which he attributes to exercise.\n",
+    "input3": "-Hypertension - not currently on any medication  \n-Ulcer\n",
+    "input4": "- unknown\n",
+    "input5": "Vitals - T:99.3 HR:94 RR:20 02 sat:99RA  \nGENERAL: Sitting in bed, comfortable, NAD.  \nHEENT: Normocephalic, atraumatic; PERRLA, sclera anicteric, \noropharynx clear without erythema or lesion, moist mucus \nmembranes, neck supple, no lymphadenopathy.  \nCARDIAC: regular rate and rhythm, normal S1 and S2, no murmurs \nappreciated.  \nLUNG: Clear to auscultation bilaterally, no wheezes or crackles. \n \nABDOMEN: large abdomen, +bowel sounds, soft, non-tender, non \ndistended, no pain on palpation, no guarding or rebound pain  \nEXT: warm, well-perfused, no edema, 2+ DP and ___ pulses.  \nNEURO: A&Ox3, CN ___ intact  \nDERM: No rashes  \nRECTAL: minimal stool, brown and black, guaiac positive\n",
+    "input6": "___ 01:15PM   \nSodium-141 Potassium-4.5 Chloride-107 Total CO2-27 Urea N-14 \nCreat-1.0 Glucose-91 Anion Gap-12\n.\nALT-25 AST-22 LDH-146 Alk Phos-50 Tot Bili-0.4\nAlbumin-4.5\nLipase-45\n.\nWBC-6.9 RBC-5.06 Hgb-13.1* Hct-40.5 MCV-80* MCH-25.9* MCHC-32.3 \nRDW-16.1* Plt ___\n\nEndoscopy:duodenal ulcer with bleeding\n"
+}

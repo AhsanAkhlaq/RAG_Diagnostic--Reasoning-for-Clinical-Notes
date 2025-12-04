@@ -1,0 +1,49 @@
+{
+    "HFmrEF$Intermedia_5": {
+        "40\u2264LVEF\uff1c50% is the critiera for HFmrEF$Cause_1": {
+            "Overall left ventricular systolic function is mildly depressed (LVEF= 45-50 %)$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is moderately dilated.$Input6": {}
+            },
+            "Cardiac diastolic dysfunction is a diagnostic criteria of heart failure$Cause_1": {
+                "Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg). Doppler parameters are most consistent with Grade III/IV (severe) left ventricular diastolic dysfunction$Input6": {}
+            },
+            "Cardiac diastolic  dysfunction is a diagnostic criteria of heart failure #$Cause_1": {
+                "Severe LV diastolic dysfunction.$Input5": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "BNP \u2265 35 pg/mL is a strong value for heart failure$Cause_1": {
+                    "proBNP-5145$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Peripheral oedema is a sign of heart failure$Cause_1": {
+                        "Chief Complaint:\nscrotal and leg swelling$Input1": {}
+                    },
+                    "Congestion showed in chest X-ray is related to heart failure$Cause_1": {
+                        "CXR showed mild pulmonary edema.$Input2": {}
+                    },
+                    "Pulmonary crepitations is a sign of heart failure$Cause_1": {
+                        "LUNG: bibasilar rales that do not clear with deep inspiration$Input5": {}
+                    },
+                    "Peripheral oedema is a sign of heart failure #$Cause_1": {
+                        "In the last 3 days his scrotum has become quite swollen$Input2": {}
+                    },
+                    "Ankle swelling is a sign of heart failure$Cause_1": {
+                        "EXTREMITIES: bilateral pitting edema to the sacrum, extending to the mid abdomen. Warm, well perfused.$Input5": {}
+                    },
+                    "Cardiomyopathy, diabetes and hypertension are risk factors of heart failure$Cause_1": {
+                        "Past Medical History:\n-CHF/Cardiomyopathy: Mild systolic and severe diastolic dysfunction.  \n-Diabetes  \n-Hypertension$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chief Complaint:\nscrotal and leg swelling\n",
+    "input2": "CKD stage 4 thought secondary to DM/HTN, OSA who complains of worsening PND, DOE, and testicular swelling. The PND and DOE have been worsening over several weeks gradually. He denies chest pain or acute changs. In the last 3 days his scrotum has become quite swollen. It is similar scrotal swelling when he was admitted with acute CHF. He was seen 1 week with gross anasarca. At that time, his lasix was increased from 40mg QD to 80mg BID. In the ED initial vitals were: 99.4 95 200/92 18 98% RA. Blood pressure remained 200/90 throughout the ED course. Labs were significant for Cr 3.5, steadily uptrending since ___ (1.3->1.6->2.4->3.2). EKG was consistent with priors (NSR, NANI, no ischemic changes). CXR showed mild pulmonary edema. He was given 40IV lasix with good UOP. Bedside cardiac ultrasound w/mild effusion no evidence of tamponade physiology. Bedside scrotal ultrasound shows fluid, mild hydrocoele, no evidence of vascular compromise (performed by Dr. ___ director). On arrival to the floor he triggered for hypertensive urgency with blood pressure 230/125 c/o headache and photophobia. Neurologic examination was normal at that time. He had not received any BP medications today (missed lisinopril, amlodipine, toprol). Was given IV hydral with good response on the floor.\n",
+    "input3": "Past Medical History:\n-CHF/Cardiomyopathy: Mild systolic and severe diastolic dysfunction.  \n-Diabetes  \n-Hypertension  \n-Hypercholesterolemia  \n-CKD, stage 3  \n-Depression/Schizophrenia  \n-OSA\n",
+    "input4": "\n",
+    "input5": "Physical Exam:\nADMISSION EXAM\n\nGENERAL: NAD  \nHEENT: AT/NC, EOMI, PERRL  \nNECK: nontender supple neck, no LAD, JVD to the mandible  \nCARDIAC: regular tachycardia, S1/S2, no murmurs, gallops, or rubs  \nLUNG: bibasilar rales that do not clear with deep inspiration\nABDOMEN: nondistended, nontender in all quadrants  \nEXTREMITIES: bilateral pitting edema to the sacrum, extending to the mid abdomen. Warm, well perfused.  \nNEURO: CN II-XII intact. strength in the upper and lower extremities bilaterally.    \n\nDISCHARGE EXAM\n\nT 98.8, BP 130-150s/60-70, 99% on RADRY WEIGHT 120.6kg\nGENERAL: NAD  \nHEENT: AT/NC, EOMI, PERRL  \nNECK: nontender supple neck, no LAD, JVD 8cm \nCARDIAC: regular tachycardia, S1/S2, no murmurs, gallops, or rubs  \nLUNG: trace bibasilar crackles \nABDOMEN: nondistended, +BS, nontender in all quadrants  \nEXTREMITIES: 3+ bilateral pitting edema to the knee. Warm, well perfused. Scrotum swollen but diminished from prior, not tight.\nRECTAL: Guaiac negative stool  \nNEURO: CN II-XII intact. A&Ox3\n",
+    "input6": "Pertinent Results:\n===========\nADMISSION LABS\n=============\n\n___ 03:50PM BLOOD WBC-8.0 RBC-3.26* Hgb-9.3* Hct-30.9* \nMCV-95 MCH-28.4 MCHC-29.9* RDW-13.6 Plt ___\n___ 03:50PM BLOOD ___ PTT-33.3 ___\n___ 03:50PM BLOOD Glucose-168* UreaN-37* Creat-3.5* Na-142 \nK-5.0 Cl-110* HCO3-20* AnGap-17\n___ 07:10AM BLOOD ALT-23 AST-26 LD(LDH)-266* AlkPhos-96 \nTotBili-0.4\n___ 07:10AM BLOOD ___\n___ 06:10PM BLOOD Calcium-8.0* Phos-4.7* Mg-1.8\n___ 07:10AM BLOOD calTIBC-182* Ferritn-373 TRF-140*\n___ 07:10AM BLOOD Triglyc-83 HDL-50 CHOL/HD-2.9 LDLcalc-76\n___ 07:10AM BLOOD C3-142 C4-27 proBNP-5145\n\n=============\nDISCHARGE LABS\n=============\n___ 06:50AM BLOOD WBC-6.4 RBC-2.60* Hgb-7.3* Hct-24.5* \nMCV-94 MCH-28.1 MCHC-29.9* RDW-13.2 Plt ___\n___ 06:50AM BLOOD Plt ___\n___ 06:50AM BLOOD Glucose-131* UreaN-62* Creat-4.8* Na-139 \nK-3.7 Cl-106 HCO3-26 AnGap-11\n___ 06:50AM BLOOD LD(LDH)-184\n___ 06:50AM BLOOD Calcium-8.4 Phos-5.2* Mg-1.9\n___ 06:50AM BLOOD Hapto-333*\n\n===============\nIMAGING\n==============\n\nTTE:  \nThe left atrium is moderately dilated. No atrial septal defect is seen by 2D or color Doppler. The estimated right atrial pressure is ___ mmHg. There is moderate symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. Overall left ventricular systolic function is mildly depressed (LVEF= 45-50 %) without regional wall motion abnormalities. Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg). Doppler parameters are most consistent with Grade III/IV (severe) left ventricular diastolic dysfunction. Right ventricular chamber size and free wall motion are normal.The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis. Trace aortic regurgitation is seen. The mitral valve leaflets are structurally normal.There is no mitral valve prolapse. Physiologic mitral regurgitation is seen (within normal limits). There is mild pulmonary artery systolic hypertension. There is a trivial/physiologic pericardial effusion.  \nIMPRESSION: Moderate symmetric left ventricular hypertrophy with mild global hypokinesis. Severe LV diastolic dysfunction. Mild pulmonary hypertension.\n"
+}

@@ -1,0 +1,44 @@
+{
+    "Secondary Progressive Multiple Sclerosis$Intermedia_4": {
+        "The patient's history of MS treatment changes is described here, indicating a more than three-year history of MS diagnosis and treatment. This is the diagnosis criteria of Secondary Progressive Multiple Sclerosis.$Cause_1": {
+            "on injectibles for some time, then switched to Tecfidera about 5 years ago.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "This description notes the presence of multiple T2-hyperintense, enhancing peripheral cervical cord lesions with an appearance and configuration suggestive of active demyelinating disease. This is a classic symptom of multiple sclerosis, as MS affects the central nervous system primarily through demyelination.$Cause_1": {
+                "Multiple T2 hyperintense, enhancing peripheral cervical spinal cord lesions, as described, with appearance and configuration suggestive of active demyelinating lesions in the setting of known multiple sclerosis.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "These symptoms may indicate inflammation of the central nervous system, which is a typical feature of multiple sclerosis.$Cause_1": {
+                    "R arm and leg weakness, pain and numbness/tingling$Input2": {}
+                },
+                "The fluctuating and persistent nature of MS symptoms is one of its diagnostic hallmarks, reflecting temporary recovery and subsequent decline in neurological function.$Cause_1": {
+                    "Since onset of symptoms, he reports they have waxed and waned, but generally are unchanged overall.$Input2": {}
+                },
+                "Description of typical episodes and new symptoms that may indicate progression or change in MS$Cause_1": {
+                    "Currently, his right hand symptoms are similar to his typical flare, but the right leg is new$Input2": {}
+                },
+                "The incidence of epilepsy in patients with multiple sclerosis is slightly higher than in the general population, which may be due to abnormal nerve conduction caused by neuropathy and myelin damage in multiple sclerosis.$Cause_1": {
+                    "Seizure disorder$Input3": {}
+                },
+                "A history of neurological disorders in the family may increase the risk of offspring developing similar disorders, including multiple sclerosis.$Cause_1": {
+                    "Mother with seizures.$Input4": {}
+                },
+                "Photosensitivity refers to an abnormal sensitivity to light, a neurological symptom that people with MS may experience and is related to damage to the optic nerve.$Cause_1": {
+                    "The pupils react normally to light directly$Input5": {}
+                },
+                "Increased muscle tone and spasticity are often associated with damage to the central nervous system, which is one of the classic symptoms of MS and indicates that the patient may have pathological changes in the brain or spinal cord.$Cause_1": {
+                    "Increased tone of b/l, spasticity more\nprominent in R than L.$Input5": {}
+                },
+                "A positive Romberg sign is often associated with balance and coordination impairment, which may be due to damage to the cerebellum or posterior cord spinal pathways. In MS, this symptom may reflect dysfunction in multiple parts of the nervous system.$Cause_1": {
+                    "+Romberg, and unable to walk in tandem.$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "The patient is a right-handed man followed by Dr. who presents with R arm and leg weakness, pain and numbness/tingling. History is provided by the patient, who is a somewhat poor historian.  \n\ufeff\nPatient reports he was in his usual state of health until approximately 6:30pm on the night prior to presentation, approximately 12 hours prior to my evaluation.  He was at work at the time; he does have manual labor associated with the job. He noticed that the right arm and leg was weak, as he was having difficulty doing motor tasks with the right hand. He could walk, but had difficulty using his  right leg due to weakness. He was unable to drive home due to his weakness, which prompted him to go to ED. Since onset of symptoms, he reports they have waxed and waned, but generally are unchanged overall.  No progression of symptoms. \n\ufeff\nThe patient for which he is followed by a neurologist (Dr. He currently is not on any therapy for this. He was on injectibles for some time, then switched to Tecfidera about 5 years ago. He self-discontinued the Tecfidera one year ago due to facial flushing/swelling. He reports that when he saw his neurologist in follow up, he said the medication was not needed at this time. He says his typical flares are characterized by right hand weakness and sensory changes. Currently, his right hand symptoms are similar to his typical flare, but the right leg is new. \n\n",
+    "input3": "Seizure disorder\n",
+    "input4": "Mother with seizures.\n",
+    "input5": "Physical Exam:\nADMISSION PHYSICAL EXAMINATION: \nPHYSICAL EXAM:\nVS: 97.7F, HR 52, BP 129/86, RR 16, O2 98% RA \nBladder Scan: pending (requested) \n\ufeff\nGeneral: Awake, cooperative, NAD.\nHEENT: NC/AT, no scleral icterus noted, moist mucous membranes\nCardiac: RRR.\nPulmonary:  Breathing comfortably on room air. \nAbdomen: Soft, NTND\nExtremities:  +R SLR and negative Crossed Leg Raise  \nSkin: No rashes noted.\nBack: no spinal or paraspinal tenderness\nGU: intact perianal sensation, normal rectal tone (personally checked)\n\ufeff\nNeuro:\nMental status: Awake, alert, oriented to person, place and time. Attention to examiner easily maintained. Recalls a coherent history. Speech is fluent with full sentences. There are no paraphasic errors. Cooperative with exam with normal affect. \n\ufeff\nCN: The pupils react normally to light directly. +Photophobia. Extraocular movements are intact. Facial movements are normal and symmetric. Speech is not dysarthric.  Shoulder shrug is normal and symmetric. The tongue protrudes in the midline. \n\ufeff\nMotor: Normal Bulk. Increased tone of b/l, spasticity more\nprominent in R than L. R UE cupping, no pronation, no drift.\nDelt Bic Tri WrE FFl  FE  IO  IP   Quad  Ham TA \nL  5    ___   5    ___     5    5   5      5     5\nR  5    ___   4+   4+  4-  4     5    4   5      5     5\n\ufeff\nSensory:  For pinprick, there is no sensory level in the spine. However he has significant sensory loss (says he does not feel pin) in R L2-L3 distribution to pinprick, with hyperesthesia to pinprick more distally on the R side. Intact perianal sensation to pinprick. \n\ufeff\nDTRs:  \nToes are mute bilaterally \nBi Tri ___      Pat Ach \nL   3   3     3       3    4 \nR   3   3     3       3    4\ncrossed adductors and pectoralis jerks present 4 beats of ankle clonus b/l \n \nGait and Stance: Able to ambulate, narrow base. No ataxia or sway. +Romberg, and unable to walk in tandem. \n\n",
+    "input6": "Hematology \nCOMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW RDWSD Plt Ct \n___ 05:20AM    9.3 5.09 15.2 45.8 90 29.9 33.2 12.5 41.2 223 Import Result \n\ufeff\n \nDIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas Im \n___ AbsLymp AbsMono AbsEos AbsBaso \n___ 05:20AM    51.1   36.1 9.1 2.5 1.0     0.2 4.77 3.36 0.85* 0.23 0.09* Import Result \n\ufeff\n \nBASIC COAGULATION, PTT, PLT, INR) PTT\n___ 05:20AM        223   Import Result \n\ufeff\n \n___ 05:20AM    11.5 29.7   1.1 Import Result \n\ufeff\n \n \n\ufeff\nChemistry \nRENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap \n___ 05:20AM    131* 16 0.7 141 3.6 Import Result \n\ufeff\n \nESTIMATED GFR (MDRD CALCULATION) estGFR \n___ 05:20AM    Using this Import Result \n\ufeff\n \nENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase \nTotBili DirBili \n05:20AM          155         Import Result \n \n \nMRI Spine 1. Multiple T2 hyperintense, enhancing peripheral cervical spinal cord lesions, as described, with appearance and configuration suggestive of active demyelinating lesions in the setting of known multiple sclerosis.  No additional lesions seen within the remainder of the spinal cord. \n\ufeff\n2. No epidural collection or evidence of discitis-osteomyelitis. \n\ufeff\n3. Mild degenerative disc disease, as described, without significant spinal canal or neural foraminal narrowing throughout the spine. \n4. Bilateral L5 spondylolysis without spondylolisthesis. \n\ufeff\n"
+}

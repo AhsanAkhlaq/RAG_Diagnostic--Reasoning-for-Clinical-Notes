@@ -1,0 +1,52 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The right atrium is moderately dilated$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "BNP \u2265 35 pg/mL is a strong value for heart failure$Cause_1": {
+                    "BNP 7299$Input2": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Dyspnea is a symptom of heart failure$Cause_1": {
+                        "Dyspnea$Input1": {}
+                    },
+                    "Breathlessness is a symptom of heart failure$Cause_1": {
+                        "worsening SOB$Input2": {}
+                    },
+                    "Pleural effusion is a sign of heart failure$Cause_1": {
+                        "pleural effusion$Input2": {}
+                    },
+                    "orthopnea is a symptom of heart failure$Cause_1": {
+                        "orthopnea$Input2": {}
+                    },
+                    "diabetes is a risk factor of heart failure$Cause_1": {
+                        "diabetes$Input3": {}
+                    },
+                    "coronary artery disease is a risk factor of heart failure$Cause_1": {
+                        "coronary artery disease$Input3": {}
+                    },
+                    "Hypertension is a risk factor of heart failure$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Peripheral edema is a sign of heart failure$Cause_1": {
+                        "edema to shins$Input5": {}
+                    },
+                    "Obesity is a risk factor of heart failure$Cause_1": {
+                        "Obesity$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea\n",
+    "input2": "He is with h/o CAD and NSTEMI s/p CABG, DM, HL, HTN, h/o colon CA presented with worsening SOB x 2 weeks. Notes SOB is worst when lying flat. Does not note any significant increasing edema. Denies CP, f/c. States he's noticed a mild cough with white phlegm production recently. Also thinks glands might be swollen. Saw Cardiologist, had CXR done, which showed known (?loculated) L pleural effusion which is now larger. Pt referred to interventional pulm for drainage of L pleural effusion, however unable to get appt until late. Contacted cardiologist for continued SOB/DOE/orthopnea, subsequently advised to come to ED for admission/tx of CHF and possible drainage of L pleural effusion. Denies fevers, chills, sweats.  States smoked 4ppd, but quit. Denies any previous admissions for SOB or CHF. Was last admitted for CABG, echo at the time showed EF 50-55%, PCWP 18. States he used water pills years ago, but nothing previously. ED vitals were 97.2 74 160/66 20 98% RA. Labs sig for BNP 7299 (no previous), Trop 0.02, Cr 1.1, lytes unremarkable, WBC 8.9 (N 72%), Hct 33.2. Given furosemide 40mg IV and ASA 325mg. UOP in ED was 600cc. ECG SNR, rate 75, poor R wave progression, otherwise unremarkable. CXR showed small bilateral effusions, increase in pulmonary interstitial edema from prior exam. VS prior to transfer, 98.1 76 151/82 16 100%RA. Given 20mg IV furosemide at 6 AM. Patient diuresed 1200cc overnight \n\nOn the floor, pt was comfortable with orthopnea, but no complaints sitting up. States he's been urinating a lot. Notes some bilateral shoulder discomfort when lying flat, worse on left side. Resolves when sitting up. Cardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope\n",
+    "input3": "+Longstanding insulin-requiring diabetes  \n+Obesity  \n+Multivessel coronary artery disease  \n+Hypertension  \n+Dyslipidemia  \n+Carotid stenosis s/p post left CEA  \n+Colon cancer s/p partial colectomy with subsequent negative colonoscopies  \n+Orthostatic hypotension  \n+Charcot foot  \n+Depression  \n+Neuropathy\n",
+    "input4": "Father and mother had Type 2 diabetes. Daughter died of cancer.\n",
+    "input5": "VS: T98.2, 160/82, 74, 22, 95%RA ___ 116 Wt 120.4kg  \nGENERAL: obese elderly man in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  \n\nNECK: Supple with JVP of 10cm @ 45deg. No LAD appreciated.  \nCARDIAC: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4 appreciated.  \nLUNGS: sternotomy scar pink and healing. Resp were unlabored, no accessory muscle use, speaking full sentences, mildly tachypneic when lying at 45deg. decreased breath sounds at LLL posteriorly, rales lung on left and a base on right. no wheezes or rhonchi.  \nABDOMEN: Obese, Soft, NTND. No HSM or tenderness.  \nEXTREMITIES: No c/c. 1+ edema to shins. 2+ pulses in DP and b/l\n",
+    "input6": "___ 07:10PM   GLUCOSE-90 UREA N-25* CREAT-1.1 SODIUM-142 POTASSIUM-3.6 CHLORIDE-107 TOTAL CO2-25 ANION GAP-14\n___ 07:10PM   estGFR-Using this\n___ 07:10PM   CK(CPK)-37*\n___ 07:10PM   cTropnT-0.02*\n___ 07:10PM   CK-MB-3 proBNP-___*\n___ 07:10PM   CALCIUM-8.8 PHOSPHATE-3.6 MAGNESIUM-1.8\n___ 07:10PM   WBC-8.9 RBC-3.75* HGB-10.6* HCT-33.2* MCV-89 MCH-28.3 MCHC-31.9 RDW-15.3\n___ 07:10PM   NEUTS-72.0* LYMPHS-13.7* MONOS-7.2 EOS-6.5* BASOS-0.6\n___ 07:10PM   PLT COUNT-320\n\n___ 06:50AM BLOOD WBC-9.3 RBC-3.60* Hgb-10.2* Hct-32.3* MCV-90 MCH-28.3 MCHC-31.6 RDW-15.1 Plt ___\n___ 06:50AM BLOOD ___ PTT-31.3 ___\n___ 06:50AM BLOOD Glucose-85 UreaN-41* Creat-1.3* Na-144 K-4.2 Cl-106 HCO3-28 AnGap-14\n\nImaging: \nECG (___): Sinus rhythm. Prolonged P-R interval. Possible old anterior myocardial infarction. Compared to the previous tracing of no change. \n  \nChest Xray (___): Small bilateral effusions, increase in pulmonary interstitial edema from prior exam. \n\nSurface Echo (___):\nVery poor image quality.The left atrium is elongated. The right atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %) with global hypokinesis and regional inferior/infero-lateral, distal LV/apical near akinesis suggested. No masses or thrombi are seen in the left ventricle. There is no ventricular septal defect. Right ventricular chamber size is normal. with borderline normal free wall function. The number of aortic valve leaflets cannot be determined. There is no aortic valve stenosis. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. The tricuspid valve leaflets are mildly thickened. Tricuspid regurgitation is present but cannot be quantified. There is no pericardial effusion. \n\nCompared with the prior study (images reviewed), the LVEF has decreased (apical/distal LV segments now appear to have depressed contractile function). If indcated, a cardiac MRI may bettter assess regional/global LV systolic function.  \n   \nPharmacologic induced stress test (___): \nEKG:  SINUS ___., PRWP, LAE   \nHEART RATE:  58 BLOOD PRESSURE:  130/72 \n  \nSYMPTOMS: NONE   \nST DEPRESSION: NONE\n"
+}

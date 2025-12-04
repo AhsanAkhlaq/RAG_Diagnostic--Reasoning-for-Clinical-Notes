@@ -1,0 +1,49 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is elongated. The right atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "BNP \u2265 35 pg/mL is a strong value for heart failure$Cause_1": {
+                    "BNP 7299*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Oral discomfort is an atypical symptom.$Cause_1": {
+                        "Oral discomfort$Input1": {}
+                    },
+                    "Possible symptom of heart failure$Cause_1": {
+                        "She has noted increasing edema over few weeks$Input2": {}
+                    },
+                    "Tachycardia is a possible predisposing factor of heart failure.$Cause_1": {
+                        "finding of tachycardia to 120 in office$Input2": {}
+                    },
+                    "Diabetes is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "Diabetes Mellitus II, uncontrolled with complication$Input3": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Hyperlipidemia is a risk factor for heart failure.$Cause_1": {
+                        "Hyperlipidemia$Input3": {}
+                    },
+                    "Valvular heart disease is also a common and important cause of heart failure.$Cause_1": {
+                        "Aortic Stenosis s/p Bioprosthetic porcine$Input3": {}
+                    },
+                    "Possible sign of heart failure$Cause_1": {
+                        "pitting edema bilaterally$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Oral discomfort\n",
+    "input2": "The patient is a female with medical history pertinent for Temporal Arteritis, AS s/p porcine AVR who is now admitted for evaluation of dry mouth, tachycardia, and edema. The medical history is reviewed, revealing for recent clinical diagnosis with Temporal Arteritis for which the patient has been on Steroid therapy with side effects of hyperglycemia and steroid myopathy. In an attempt to facilitate steroid dose reduction Methotrexate 10mg daily was added. The patient was seen by Rheumatology at which time palate ulceration was noted. Fungal culture was negative, viral culture not processed because of wrong culture tube but the patient was started on Acyclovir 400mg PO tid x 10 days and Methotrexate was not escalated any further. The patient since that time has been undergoing Prednisone taper with reduction in Prednisone dose from 30mg to 20mg. the patient called the clinic with report of evolving pain and dryness of her mouth for which nystatin swish and swallow was empirically started. Yesterday, note was made that the patient initially improved with nystatin but symptoms have since worsened for which oral lidocaine was prescribed. The patient was seen at clinic today per her report, no note yet available for review, and was sent to the ED for concern for recent diarrheal episode, diuretic use and finding of tachycardia to 120 in office. Per discussion with patient she reports predominant symptom that is bothering her is sense of dry mouth. She reports this has been ongoing for last 2 days with sensation of mild burning over her tongue. She denies pain over palate or mucosa, no known ulcers that she has noted herself. The patient denies any sense of dry eyes or pain. She reports if anything she has been experiencing sense of watery eyes over the last couple of days. The patient reports she has been taking POs well over last couple of weeks. She had 1 day where she had episodes of loose stool but this was otherwise self-resolving. She has noted increasing edema over few weeks for which she took 1 dose of diuretic a few days ago (does not recall name that was prescribed by her PCP. The patient has been wearing TEDs stockings for this.\nED Course: 98.3, 145/69, 113, 18, 97% RA. In the ED the patient had labs revealing for UA with > 50 WBC, WBC 10.9, Cr of 1.0 and lactate of 1.5. The patient received 2L NS without improvement in tachycardia. The patient is now admitted to the medical service for evaluation and treatment per discretion of emergency department given concern discharging patient with persistent tachycardia.\n",
+    "input3": "+ PMR\n+ Temporal Arteritis\n+ patient admitted to with FUO and Headache, started on Prednisone at that time for likely TA. ESR > 140\n+ unilateral biopsy with evidence of calcification but no inflammation, clinical impression that TA still likely\n+ Methotrexate 10mg daily started to facilitate dose reduction of Prednisone\n+ Diabetes Mellitus II, uncontrolled with complication\n+ Hypertension\n+ Hyperlipidemia\n+ Aortic Stenosis s/p Bioprosthetic porcine\n+ Hearing Loss\n+ Colon Cancer s/p resection\n+ s/p TAH\n",
+    "input4": "N/A\n",
+    "input5": "Lying:    BP 141/75   HR 102\nStanding: BP 150/86   HR 113\nGeneral: Patient is an elderly female, appears to be in no acute distress, pleasant. Patietn is at times very vague in some of her answers and seems not sure of others, possibly consistent with some mild dementia with confabulation.\nHEENT: NCAT, EOMI, sclera anicteric. Conjunctiva and normal, appear moist OP: MM not markedly dry appearing, no thrush present. Small area of anterior palate with crops of superficial erythema, possibly ulcerations, without any frank vesicles. Left buccal mucosa with 1mm ulcer posterior to last molar.\nNeck: Supple, no LAD, JVP not well visualized secondary to body habitus\nChest: Generally CTA anterior and posterior bilaterally\nCor: Tachycardic, regular. Soft I/VI systolic murmur at RUSB\nAbdomen: Obese, soft, non-tender, non-distended\nExt: pitting edema bilaterally, mild erythema over RL shin consistent with likely venous stasis. Right toes with brighter erythema associated with 3-4cm annular, scaling erythematous rash consistent with reported diagnosis of tinea pedis\nSkin/Nails: Rash as above\nNeuro: Grossly intact\n",
+    "input6": "BNP 7299*\n\nThe left atrium is elongated. The right atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %) with global hypokinesis\n"
+}

@@ -1,0 +1,30 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "at home her SBP was 220$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "BPs noted to be 210-220$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.**$Cause_1": {
+            "BP:139/82$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Headache is a classic symptoms of Hypertension.$Cause_1": {
+                "Headache$Input1": {}
+            },
+            "Elderly age is an important risk factor for Hypertension,and female have a higher risk.$Cause_1": {
+                "58 year old female$Input2": {}
+            },
+            "Family history of cardiovascular disease is a risk factor of Hypertension.$Cause_1": {
+                "Brothers both with heart conditions.$Input4": {}
+            }
+        }
+    },
+    "input1": "Headache, hypertensive crisis\n",
+    "input2": "58 year old female with pmhx of autoimmune hemolytic anemia recently found to have right MCA on HA workup and now POD4 from Craniotomy for clipping of Right MCA with Dr. ___ on ___.  Patient was slow to wake from anesthesia but otherwise had an uneventful hospital course.  She was discharged home on ___.  Today at home her SBP was 220 and so she presented to the OSH ED.  BPs noted to be 210-220 and she was started on a nicardipine gtt. She reports nausea and an episode of vomiting at home and at OSH for which she received Zofran. Troponin 0.04 at OSH.  CT head at OSH performed for c/o HA  demonstrated some edema with mild MLS and the patient was transferred to ___ for neurosurgical evaluation. Currently she denies HA, nausea, numbness, weakness, tingling, vision changes.\n",
+    "input3": "Allergic rhinitis\nHyperlipidemia\nGlaucoma\n",
+    "input4": "Father deceased with MI @ ___. Brothers both with heart \nconditions. No family history of liver or bleeding disorders. \n- Unknown family history of aneurysms\n",
+    "input5": "O: T:97.9  HR:67   BP:139/82  RR:18  Sat:95% 2L NC \nGen: WD/WN, comfortable, NAD.\nHEENT:right crani site healing well. staples in place.  minimal\ndried blood. no drainage. minimal facial swelling\nNeck: Supple.\nExtrem: Warm and well-perfused.\nNeuro:\nMental status: Awake and alert, cooperative with exam, normal\naffect.\nOrientation: Oriented to person, place, and date.\nLanguage: Speech fluent with good comprehension and repetition.\nNaming intact. No dysarthria or paraphasic errors.\n\nCranial Nerves:\nI: Not tested\nII: Pupils equally round and reactive to light, 3 to 2\nmm bilaterally. Visual fields are full to confrontation.\nIII, IV, VI: Extraocular movements intact bilaterally without\nnystagmus.\nV, VII: slight left nasolabial fold flattening\nVIII: Hearing intact to voice.\nIX, X: Palatal elevation symmetrical.\nXI: Sternocleidomastoid and trapezius normal bilaterally.\nXII: Tongue midline without fasciculations.\n\nMotor: Normal bulk and tone bilaterally. No abnormal movements,\ntremors. Strength full power ___ throughout. No pronator drift\n\nSensation: Intact to light touch bilaterally.\n\nToes downgoing bilaterally\n\nCoordination: normal on finger-nose-finger\n",
+    "input6": "Please see OMR for pertinent lab and imaging results.\n"
+}

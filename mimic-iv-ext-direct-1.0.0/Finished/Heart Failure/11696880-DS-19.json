@@ -1,0 +1,34 @@
+{
+    "HFpEF$Intermedia_5": {
+        "LVEF\u226550% is the critiera for HFpEF$Cause_1": {
+            "LVEF >55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is mildly dilated$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "proBNP \u2265 125 pg/mL is a strong value for heart failure$Cause_1": {
+                    "proBNP-2194$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Peripheral edema is a sign of heart failure$Cause_1": {
+                        "pedal edema$Input2": {}
+                    },
+                    "Hypertension is a risk factor of heart failure$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "Diabetes melitus is a risk factor of heart failure$Cause_1": {
+                        "Diabetes melitus$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "Male with PMH of hypertension, non-insulin dependent T2DM, HLD, PAD, CAD s/p NSTEMI with drug eluting stent to mid-LAD on dual antiplatelet therapy who presents after having one episode of left-sided chest pain. \n\nWhile playing cards, he felt a sudden, stabbing pain in the left side of his chest that lasted for two minutes and went away on its own. He reports that this pain felt different from his prior angina pain.\n\nDenies fever, chills, sob, abd pain, vomiting, and diarrhea.\n\nIn the ED, initial vitals were 98.1 78 198/75 18 100% RA. Exam notable for 2+ pedal edema and minor bibasilar crackles. Labs notable for WBC 10.4, Cr 1.3, Trop <0.01 x1, and BNP 2194.\n",
+    "input3": "+HTN - checks daily at home\n+Diabetes melitus, diet controlled\n+L. cataract removal\n+Cholecystectomy\n+Shrapnel injury in the R. lower back/buttock and R. leg\n+R. lower back pain onset within the last few years, graduallyprogressive without acute exacerbation.\n",
+    "input4": "Pt denies relevant family history\n",
+    "input5": "Vitals: 98.0, 152/54, 74, 18, 96% RA  \nGENERAL: WDWN M in NAD. Oriented x3.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. \nNECK: Supple with no JVD.  \nCARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. No thrills, lifts.  \nLUNGS: Bilateral bibasilar crackles.\nABDOMEN: Soft, NTND. No HSM or tenderness. \nEXTREMITIES: trace edema in bilateral   \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.\n",
+    "input6": "Admission Labs:\n___ 02:46PM BLOOD WBC-10.4* RBC-3.96* Hgb-12.4* Hct-38.8* MCV-98 MCH-31.3 MCHC-32.0 RDW-15.9* RDWSD-57.5* Plt ___\n___ 02:46PM BLOOD Neuts-79.2* Lymphs-8.6* Monos-10.2 Eos-1.0 Baso-0.3 AbsNeut-8.24* AbsLymp-0.89* AbsMono-1.06* AbsEos-0.10 AbsBaso-0.03\n___ 02:46PM BLOOD PTT-31.4 \n___ 02:46PM BLOOD Glucose-137* UreaN-24* Creat-1.3* Na-138 K-4.7 Cl-105 HCO3-24 AnGap-14\n___ 02:46PM BLOOD proBNP-2194*\n___ 02:46PM BLOOD cTropnT-<0.01\n___ 11:53PM BLOOD CK-MB-3 cTropnT-0.01\n\nThere was no evidence of ischemia on ECG. Troponins negative x2, CK-MB 3. EF 58% on PMIBI, but chest pain most likely due to a new diagnosis of diastolic CHF, especially given trace edema and elevated BNP. We did not perform a stress test due to the patient's age and the unlikelihood of intervention regardless of test result. TTE showed normal EF (>55%), moderate aortic regurgitation, mildly thickened aortic valve leaflets with no aortic valve stenosis, and elevated PCWP.The left atrium is mildly dilated\n"
+}

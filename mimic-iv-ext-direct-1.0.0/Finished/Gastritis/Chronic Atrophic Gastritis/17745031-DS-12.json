@@ -1,0 +1,32 @@
+{
+    "chronic non-atrophic gastritis$Intermedia_4": {
+        "Linear erythema,  rough mucosa and bleeding spots are the gold standard for the diagnosis of chronic non-atrophic gastritis\r.$Cause_1": {
+            "Linear erythema,  rough mucosa, bleeding spots$Input6": {}
+        },
+        "chronic gastritis$Intermedia_3": {
+            "Unlike acute gastritis, the pain of chronic gastritis may not be directly related to food intake, which helps distinguish it from other gastric diseases.$Cause_1": {
+                "pain was not related to food ingestion$Input2": {}
+            },
+            "Long-term alcohol abuse is is a risk factor for chronic gastritis$Cause_1": {
+                "She takes no NSAIDs for pain but long-term alcohol abuse$Input2": {}
+            },
+            "suspected gastritis$Intermedia_2": {
+                "Epigastric pain is a common symptom of chronic gastritis, usually located in the upper part of the stomach$Cause_1": {
+                    "epigastric pain$Input2": {}
+                },
+                "The pain of chronic gastritis may worsen over time and may be intermittent and severe in nature.$Cause_1": {
+                    "sharp and intermittent pain and progressively became worse$Input2": {}
+                },
+                "Pain on palpation of the abdomen, especially in the epigastric region, is a typical symptom of chronic gastritis.$Cause_1": {
+                    "TTP in right flank and in epigastrium$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "Initially he noted epigastric pain in the morning of the day pta. This was sharp and intermittent pain and progressively became worse. Later during the day he developed right sided flank pain which was also sharp in nature. The pain did not radiate to the back or to the groin respectively. The pain was not related to food ingestion. He denied nausea, vomiting, diarrhea, constipation, brbpr or melena. \n\nHe has been feeling ill over two days and complained of decreased urine output. He was only able to produce minimal urine and the flow stopped. No blood was noted in the urine. He complains of sweating but no fever or chills. He had a regular bowel movement one day pta. He has not had any similar history in the past. Denies sick contacts, or recent travel. He was in the ed recently for leg pain and was treated with NSAIDS (800 mg motrin). She takes no NSAIDs for pain but long-term alcohol abuse\n\nIn the ED his vitals were within normal range and stable. He received ketorolac for analgesia and 1 Lt IVF. \n\nROS was otherwise negative. The pt denied recent unintended weight loss, headaches, dizziness or vertigo, changes in hearing or vision, including amaurosis fugax, neck stiffness, lymphadenopathy, hematemesis, coffee-ground emesis, dysphagia, odynophagia, heartburn, nausea, vomiting, diarrhea, constipation, steatorrhea, melena, hematochezia, cough, hemoptysis, wheezing, shortness of breath, chest pain, palpitations, dyspnea on exertion, increasing lower extremity swelling, skin rash, leg pain while walking, joint pain.\n",
+    "input3": "none\n",
+    "input4": "Adopted.\n",
+    "input5": "Vitals: T: 96.7 BP: 107/65 P: 60 R: 18 SaO2: 96% \nGeneral: Awake, alert, NAD, pleasant, appropriate, cooperative.  \n\nHEENT: NCAT, PERRL, EOMI, no scleral icterus, dry MMM \nNeck: supple, no significant JVD or carotid bruits appreciated  \nPulmonary: Lungs CTA bilaterally, no wheezes, ronchi or rales\nCardiac: RRR, nl S1 S2, no murmurs, rubs or gallops appreciated\nAbdomen: TTP in right flank and in epigastrium, soft, ND, \nnormoactive bowel sounds, no masses or organomegaly noted. No rebound, no ___ sing, no CVA or suprapubuc tenderness. \nExtremities: No edema, 2+ radial, DP pulses b/l\nLymphatics: No cervical, supraclavicular, axillary or inguinal lymphadenopathy noted\nSkin: circumferential erythrematus nodules with indurated center noted in each ___ shin bilateraly. O/w no rashes or lesions noted.\n",
+    "input6": "___ 03:10PM BLOOD WBC-9.5 RBC-4.79 Hgb-14.6 Hct-40.4 MCV-84 \nMCH-30.5 MCHC-36.2* RDW-13.4 Plt ___\n___ 03:10PM BLOOD Neuts-69.9 Bands-0 ___ Monos-3.7 \nEos-3.1 Baso-0.5\n___ 03:10PM BLOOD Glucose-119* UreaN-16 Creat-0.8 Na-139 \nK-3.3 Cl-106 HCO3-24 AnGap-12\n___ 03:10PM BLOOD ALT-31 AST-16 LD(LDH)-139 AlkPhos-104 \nTotBili-0.2\n___ 07:22AM BLOOD Calcium-8.3* Phos-2.9 Mg-2.1\n\nUS RUQ\n1. Common bile duct dilatation to 9 mm, without intrahepatic biliary ductal dilatation. Further evaluation with HIDA scan versus ERCP is recommended to evaluate for distal obstruction.   \n\n2. Sludge within the gallbladder without focal stone or \nsecondary signs of acute cholecystitis.   \n3. Diffuse fatty infiltration of the liver. \n\nEKG: sinus bradycardia without ST/TW changes.\n\nEGD :  \nLinear erythema,  rough mucosa, bleeding spots. Duodenum appeared normal. (biopsy)  Otherwise normal EGD to third part of the duodenum\n"
+}

@@ -1,0 +1,29 @@
+{
+    "Moderate COPD$Intermedia_4": {
+        "50% \u2264 FEV1 < 80% confirm Moderate COPD$Cause_1": {
+            "FEV1 75%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "FEV1/FVC < 0.70 confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC = 0.63.$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "SOB that worsens with activity is a common symptom of COPD$Cause_1": {
+                    "SOB with walking$Input2": {}
+                },
+                "Decreased oxygen saturation, especially during activity, is a key sign of COPD.$Cause_1": {
+                    "desat on ambulation to 69% on RA$Input2": {}
+                },
+                "Supplemental oxygen is a common treatment for acute exacerbations of COPD.$Cause_1": {
+                    "put on 2L NC, and after rest with supplemental O2$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Patient reports he was feeling well at baseline when he presented to clinic appointment with Dr. Reports baseline SOB with walking, but reports that he is able to walk even a mile without stopping. Recently completed pulmonary rehab and did a 6-minute walk test, without any reported desaturation per patient. \n\nAt clinic, he was found to desat on ambulation to 69% on RA, with associated nausea. Chart reports concurrent SOB though patient denies this. He was put on 2L NC, and after rest with supplemental O2, HR 70 with O2 sat 96% so he was taken off NC.  He reports having some LLE ankle pain for the past several days thought due to gout. No pain in calf or thigh.\n\nReview of Partners records show: goal weight is 174-176 lbs.\nPatient reports dry weight to be 175 lbs, which he is at \ncurrently.\n",
+    "input3": "+ Chronic atrial fibrillation,\n+ HFpEF \n+ Chronic back pain on norco\n+ Ruptured AAA s/p\n+ Non small cell lung cancer s/p  lobectomy \n+ PVD s/p multiple stent placements, \n+ HTN \n+ HLD \n+ CKD \n+ Acute appendicitis S/P appendectomy \n+ Gout  \n+ hemoptysis\n",
+    "input4": "Sister: Lung cancer sisters died of lung cancer)\nMother: stroke\n",
+    "input5": "ADMISSION PHYSCIAL EXAMINATION:\n===============================\n\nVITALS:  97.6PO 127 / 76 69 18 93 Ra \nGENERAL: AOx3, NAD  \nHEENT: Normocephalic, atraumatic. Pupils equal, round, and reactive bilaterally, extraocular muscles intact. Sclera anicteric and without injection. Dry MM, wearing dentures.   \nNECK: supple, JVP at clavicle at 45 deg\nCARDIAC: irregularly irregular, Audible S1 and S2. No murmurs appreciated.   \nLUNGS: CTAB, no wheezing or rhonchi, no increased work of breathing.\nABDOMEN: Normal bowels sounds, non distended, soft, non-tender to deep palpation in all four quadrants. No organomegaly.EXTREMITIES: DP pulses bl. L ankle without obvious deformities, no erythema, no tenderness. \nSKIN: No rashes noted.  \nNEUROLOGIC: A&Ox3, fluent speech, moving all extremities with purpose, no facial droop\n",
+    "input6": "ADMISSION LABS:\n===============\n\n06:10PM BLOOD WBC-8.8 RBC-4.77 Hgb-15.2 Hct-45.6 MCV-96 \nMCH-31.9 MCHC-33.3 RDW-14.3 RDWSD-49.9*\n06:10PM BLOOD Glucose-94 UreaN-27* Creat-1.3* Na-143 \nK-4.2 Cl-98 HCO3-30 AnGap-15\n06:10PM BLOOD proBNP-1549*\n06:10PM BLOOD cTropnT-<0.01\n\nPost-bronchodilator FEV1/FVC = 0.63.\nFEV1 75%\n"
+}

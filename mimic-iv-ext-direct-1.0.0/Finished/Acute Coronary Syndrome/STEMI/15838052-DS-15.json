@@ -1,0 +1,32 @@
+{
+    "STEMI-ACS$Intermedia_4": {
+        "Increased cardiac troponin T is an important marker of myocardial damage$Cause_1": {
+            "a troponin T of 0.915$Input2": {}
+        },
+        "Elevated cTropnT is often a marker of cardiomyocyte damage, especially in myocardial infarction.$Cause_1": {
+            "cTropnT-1.02$Input6": {}
+        },
+        "ST-elevation is the critical for STEMI$Cause_1": {
+            "ST-elevation$Input6": {}
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "Echocardiography showed left atrial enlargement is consistent with coronary artery disease.$Cause_1": {
+                "The left atrial volume is increased.$Input6": {}
+            },
+            "Coronary angiography revealed multivessel disease and severe coronary artery obstruction, which is a typical cause of ACS$Cause_1": {
+                "The LAD had a mid vessel 80% ulcerated plaque$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Myocardial infarction is a manifestation of coronary artery disease, which is one of the main causes of STEMI-ACS. Family history indicates that the patient may have a higher genetic risk.$Cause_1": {
+                    "He maternal uncles both died of MIs.$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "Elbow pain.\n",
+    "input2": "He is a man with no significant past medical history who presents with elbow pain and positive troponin.  \n.  \nWas in his usual state of health until three days prior to admission when he noted sharp pain in his left elbow. This would, at times, radiate to his hand or armpit. This would occur at rest and particularly at night, but would not worsen with exertion. This pain ocurred on two consecutive evenings. It was not associated with any SOB or diapheresis though he does reports feeling fatigued.  \n.  \nOn the day of admission, he presented to his PCP who then him to an OSH. At the OSH, he was found to have a troponin T of 0.915 with a CK of 293 and an MB of 18.5. He was given lopressor and heparin and transferred for further care.  \n\ufeff\nOn review of systems, he denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. He denies recent fevers, chills or rigors. He denies exertional buttock or calf pain. All of the other review of systems were negative.  \n.  \nCardiac review of systems is notable for absence of dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope.\n",
+    "input3": "GERD\n",
+    "input4": "He maternal uncles both died of MIs. Otherwise, no early CAD.\n",
+    "input5": "Gen: WDWN middle aged male in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \n\ufeff\nNeck: Supple with JVD flat.  \nCV: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4. \n \nCHEST: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nABD: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by \npalpation. No abdominial bruits.  \nEXT: No c/c/e. No femoral bruits.  \nSkin: No stasis dermatitis, ulcers, scars, or xanthomas.\n",
+    "input6": "08:00PM BLOOD WBC-12.1* RBC-4.24* Hgb-13.2* Hct-38.3* MCV-90 MCH-31.1 MCHC-34.4 RDW-13.5\n06:25AM BLOOD WBC-10.1 RBC-3.84* Hgb-12.1* Hct-34.3* MCV-90 MCH-31.6 MCHC-35.3* RDW-12.9\n08:00PM BLOOD Glucose-120* UreaN-20 Creat-1.1 Na-143 K-4.1 Cl-108 HCO3-26 AnGap-13\n06:25AM BLOOD Glucose-101 UreaN-9 Creat-1.0 Na-140 K-4.0 Cl-107 HCO3-26 AnGap-11\n08:00PM BLOOD CK(CPK)-272*\n02:28AM BLOOD CK(CPK)-516*\n11:57PM BLOOD CK(CPK)-243*\n08:00PM BLOOD CK-MB-19* MB Indx-7.0*\n08:00PM BLOOD cTropnT-1.02*\n08:00PM BLOOD Calcium-8.7 Phos-2.8 Mg-2.2\n09:10AM BLOOD Calcium-8.9 Phos-2.8 Mg-1.9 Cholest-160\n09:10AM BLOOD Triglyc-119 HDL-39 CHOL/HD-4.1 LDLcalc-97\n\ufeff\nTTE:\n\ufeff\nThe left atrial volume is increased. There is mild regional left ventricular systolic dysfunction with dyskinesis of the basal to mid inferior and inferolateral segments and hypokinesis of the basal to mid lateral segments and inferior apex . [Intrinsic left ventricular systolic function is likely more depressed given the severity of valvular regurgitation.] Quantitative (biplane) LVEF = 47 %. There is no ventricular septal defect. The right ventricular cavity is mildly dilated with mild global free wall hypokinesis. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are structurally normal. There is no mitral valve prolapse. Moderate (2+) mitral regurgitation is seen. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion. (4) ST-elevation\n\ufeff\nIMPRESSION: Regional left ventricular systolic dysfunction consistent with coronary artery disease. Mildly dilated and hypokinetic right ventricle. Moderate mitral regurgitation.  \n\ufeff\nCath:\nCOMMENTS: 1. Selective coronary angiography of this right dominant system demonstrated three vessel coronary artery disease. The LMCA had a 20% ostial and distal stenosis. The LAD had a mid vessel 80% ulcerated plaque. The Ramus had a mid 70% stenosis. The RCA has total ostial occulsion with robust left to right collaterals. The LCx had mild luminal irregularities. \n2. Resting hemodynamic measurement demonstrated normal systemic arterial pressure at 112/72 mm Hg. Pullback of the pigtail catheter from the LV to the aorta did not demonstrate a gradient. The left sided filling pressure was elevated with an LVEDP of 25 mmHg. \n3. Successful ptca and stenting of the mid LAD with a 3.5x18 mm cypher stent. Successful ptca and stenting of the mid Ramus with a 2.5x8mm cypher stent. Successful ptca and stenting of the proximal rca with a 3.5x33mm cypher stent. Final angiography revealed 0% residual stenosis, no angiographically apparet dissection and timi 3 flow. The patient left the lab free of angina and in stable condition.\n"
+}

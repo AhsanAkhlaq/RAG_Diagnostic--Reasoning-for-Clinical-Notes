@@ -1,0 +1,156 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "initial troponin negative, repeat troponin elevated at 0.21,$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS.$Cause_1": {
+                "Chest Pain$Input1": {}
+            },
+            "with history of hypertension and dyslipidemia are risk facts$Cause_1": {
+                "with history of hypertension and dyslipidemia$Input2": {}
+            },
+            "She described a chest tightness with some crampy discomfort in left arm and sharper pain in the left shoulder/superior scapula. She reported that the tightness and shoulder/left scapular pain has begun to abate gradually at the time of evaluation.\n is sign of acs$Cause_1": {
+                "She described a chest tightness with some crampy discomfort in left arm and sharper pain in the left shoulder/superior scapula. She reported that the tightness and shoulder/left scapular pain has begun to abate gradually at the time of evaluation.$Input2": {}
+            },
+            "Hypertension is a risk factor$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "Dyslipidemia is a risk factor$Cause_1": {
+                "Dyslipidemia$Input3": {}
+            },
+            "Stress test in ___ showing atypical symptoms with borderline \nischemic EKG changes at the achieved workload. Good functional \ncapacity and blunted blood pressure response to exercise.\n is a risk factor$Cause_1": {
+                "Stress test in ___ showing atypical symptoms with borderline \nischemic EKG changes at the achieved workload. Good functional \ncapacity and blunted blood pressure response to exercise.$Input3": {}
+            },
+            "family history\uff1a Hypertension is risk fact$Cause_1": {
+                "Hypertension$Input4": {}
+            },
+            "family history\uff1aDyslipidemia is risk fact$Cause_1": {
+                "Dyslipidemia$Input4": {}
+            },
+            "family history\uff1aStress test showing atypical symptoms with borderline ischemic EKG changes at the achieved workload. Good functional capacity and blunted blood pressure response to exercise. \n+ Herpes progenitalis\nis risk fact$Cause_1": {
+                "Stress test showing atypical symptoms with borderline ischemic EKG changes at the achieved workload. Good functional capacity and blunted blood pressure response to exercise. \n+ Herpes progenitalis$Input4": {}
+            },
+            "family history\uff1aMI in mother is risk fact$Cause_1": {
+                "MI in mother$Input5": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                "Mild (1+) mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is high normal. There is a trivial/physiologic pericardial effusion.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS.$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "with history of hypertension and dyslipidemia are risk facts$Cause_1": {
+                    "with history of hypertension and dyslipidemia$Input2": {}
+                },
+                "She described a chest tightness with some crampy discomfort in left arm and sharper pain in the left shoulder/superior scapula. She reported that the tightness and shoulder/left scapular pain has begun to abate gradually at the time of evaluation.\n is sign of acs$Cause_1": {
+                    "She described a chest tightness with some crampy discomfort in left arm and sharper pain in the left shoulder/superior scapula. She reported that the tightness and shoulder/left scapular pain has begun to abate gradually at the time of evaluation.$Input2": {}
+                },
+                "Hypertension is a risk factor$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Dyslipidemia is a risk factor$Cause_1": {
+                    "Dyslipidemia$Input3": {}
+                },
+                "Stress test in ___ showing atypical symptoms with borderline \nischemic EKG changes at the achieved workload. Good functional \ncapacity and blunted blood pressure response to exercise.\n is a risk factor$Cause_1": {
+                    "Stress test in ___ showing atypical symptoms with borderline \nischemic EKG changes at the achieved workload. Good functional \ncapacity and blunted blood pressure response to exercise.$Input3": {}
+                },
+                "family history\uff1a Hypertension is risk fact$Cause_1": {
+                    "Hypertension$Input4": {}
+                },
+                "family history\uff1aDyslipidemia is risk fact$Cause_1": {
+                    "Dyslipidemia$Input4": {}
+                },
+                "family history\uff1aStress test showing atypical symptoms with borderline ischemic EKG changes at the achieved workload. Good functional capacity and blunted blood pressure response to exercise. \n+ Herpes progenitalis\nis risk fact$Cause_1": {
+                    "Stress test showing atypical symptoms with borderline ischemic EKG changes at the achieved workload. Good functional capacity and blunted blood pressure response to exercise. \n+ Herpes progenitalis$Input4": {}
+                },
+                "family history\uff1aMI in mother is risk fact$Cause_1": {
+                    "MI in mother$Input5": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "Patient was evaluated with a similar presentation. At that time, the EKG was unremarkable and trops x 3 were negative. A stress test was also negative.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS.$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "with history of hypertension and dyslipidemia are risk facts$Cause_1": {
+                    "with history of hypertension and dyslipidemia$Input2": {}
+                },
+                "She described a chest tightness with some crampy discomfort in left arm and sharper pain in the left shoulder/superior scapula. She reported that the tightness and shoulder/left scapular pain has begun to abate gradually at the time of evaluation.\n is sign of acs$Cause_1": {
+                    "She described a chest tightness with some crampy discomfort in left arm and sharper pain in the left shoulder/superior scapula. She reported that the tightness and shoulder/left scapular pain has begun to abate gradually at the time of evaluation.$Input2": {}
+                },
+                "Hypertension is a risk factor$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Dyslipidemia is a risk factor$Cause_1": {
+                    "Dyslipidemia$Input3": {}
+                },
+                "Stress test in ___ showing atypical symptoms with borderline \nischemic EKG changes at the achieved workload. Good functional \ncapacity and blunted blood pressure response to exercise.\n is a risk factor$Cause_1": {
+                    "Stress test in ___ showing atypical symptoms with borderline \nischemic EKG changes at the achieved workload. Good functional \ncapacity and blunted blood pressure response to exercise.$Input3": {}
+                },
+                "family history\uff1a Hypertension is risk fact$Cause_1": {
+                    "Hypertension$Input4": {}
+                },
+                "family history\uff1aDyslipidemia is risk fact$Cause_1": {
+                    "Dyslipidemia$Input4": {}
+                },
+                "family history\uff1aStress test showing atypical symptoms with borderline ischemic EKG changes at the achieved workload. Good functional capacity and blunted blood pressure response to exercise. \n+ Herpes progenitalis\nis risk fact$Cause_1": {
+                    "Stress test showing atypical symptoms with borderline ischemic EKG changes at the achieved workload. Good functional capacity and blunted blood pressure response to exercise. \n+ Herpes progenitalis$Input4": {}
+                },
+                "family history\uff1aMI in mother is risk fact$Cause_1": {
+                    "MI in mother$Input5": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "Mild (1+) mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is high normal. There is a trivial/physiologic pericardial effusion.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS.$Cause_1": {
+                        "Chest Pain$Input1": {}
+                    },
+                    "with history of hypertension and dyslipidemia are risk facts$Cause_1": {
+                        "with history of hypertension and dyslipidemia$Input2": {}
+                    },
+                    "She described a chest tightness with some crampy discomfort in left arm and sharper pain in the left shoulder/superior scapula. She reported that the tightness and shoulder/left scapular pain has begun to abate gradually at the time of evaluation.\n is sign of acs$Cause_1": {
+                        "She described a chest tightness with some crampy discomfort in left arm and sharper pain in the left shoulder/superior scapula. She reported that the tightness and shoulder/left scapular pain has begun to abate gradually at the time of evaluation.$Input2": {}
+                    },
+                    "Hypertension is a risk factor$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "Dyslipidemia is a risk factor$Cause_1": {
+                        "Dyslipidemia$Input3": {}
+                    },
+                    "Stress test in ___ showing atypical symptoms with borderline \nischemic EKG changes at the achieved workload. Good functional \ncapacity and blunted blood pressure response to exercise.\n is a risk factor$Cause_1": {
+                        "Stress test in ___ showing atypical symptoms with borderline \nischemic EKG changes at the achieved workload. Good functional \ncapacity and blunted blood pressure response to exercise.$Input3": {}
+                    },
+                    "family history\uff1a Hypertension is risk fact$Cause_1": {
+                        "Hypertension$Input4": {}
+                    },
+                    "family history\uff1aDyslipidemia is risk fact$Cause_1": {
+                        "Dyslipidemia$Input4": {}
+                    },
+                    "family history\uff1aStress test showing atypical symptoms with borderline ischemic EKG changes at the achieved workload. Good functional capacity and blunted blood pressure response to exercise. \n+ Herpes progenitalis\nis risk fact$Cause_1": {
+                        "Stress test showing atypical symptoms with borderline ischemic EKG changes at the achieved workload. Good functional capacity and blunted blood pressure response to exercise. \n+ Herpes progenitalis$Input4": {}
+                    },
+                    "family history\uff1aMI in mother is risk fact$Cause_1": {
+                        "MI in mother$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest Pain\n",
+    "input2": "with history of hypertension and dyslipidemia, who presented with chest pain. Patient reported onset at 4:30 AM as patient was doing her normal am routine. She described a chest tightness with some crampy discomfort in left arm and sharper pain in the left shoulder/superior scapula. She reported that the tightness and shoulder/left scapular pain has begun to abate gradually at the time of evaluation. Of note, reported a similar episodes 1 month ago that resolved within about 2 hours.\n\ufeff\nPatient was evaluated with a similar presentation. At that time, the EKG was unremarkable and trops x 3 were negative. A stress test was also negative. She was discharged from the ED with cardiology outpatient follow-up (did not find any records in the Atrius Epicweb). \n\ufeff\nIn the ED initial vitals were: 97.9 72 144/83 18 100% RA EKG: sinus at 58, nl axis, nl intervals, no TWI, 0.5mm ST elevation in aVR, repeat EKG stable from prior Labs/studies notable for: unremarkable CBC/chem-7, CXR wnl, initial troponin negative, repeat troponin elevated at 0.21, ETT w/ ECHO ordered but subsequently canceled. Patient was given: aspirin with Zofran given history of GI tolerance with aspirin, started on heparin gtt. She was taken to the cath lab with catheterization results showing subtotal occluded OM s/p DES as well as 95% RCA that was not intervened upon given contrast load. Initially, they attempted radial access but that was unsuccessful given small radial artery. Also, patient developed radial hematoma. She had groin access. She was treated with bivalirusin drip during the case and 30 minutes afterwards. She was loaded with Plavix. She was also started on ICF for hydration. \n\ufeff\nOn the floor, patient was tired but chest pain free. She was surrounded by family and they confirmed the history detailed above.\n",
+    "input3": "1. CARDIAC RISK FACTORS\n- Hypertension\n- Dyslipidemia\n2. CARDIAC HISTORY\n- Stress test in ___ showing atypical symptoms with borderline \nischemic EKG changes at the achieved workload. Good functional \ncapacity and blunted blood pressure response to exercise. \n3. OTHER PAST MEDICAL HISTORY\n- Herpes progenitalis \n- Sciatica  \n- Anemia \n- Monilal vulvovaginitis \n- Cervical radiculopathy\n",
+    "input4": "+ Hypertension\n+ Dyslipidemia\n+ Stress test showing atypical symptoms with borderline ischemic EKG changes at the achieved workload. Good functional capacity and blunted blood pressure response to exercise. \n+ Herpes progenitalis \n+ Sciatica  \n+ Anemia \n+ Monilal vulvovaginitis \n+ Cervical radiculopathy\n",
+    "input5": "MI in mother\n",
+    "input6": "LABS:\n=====\n08:25AM BLOOD CK-MB-7 cTropnT-0.13*\n07:58AM   GLUCOSE-96 UREA N-20 CREAT-0.7 SODIUM-139 \nPOTASSIUM-3.8 CHLORIDE-101 TOTAL CO2-26 ANION GAP-16\n06:40AM   GLUCOSE-144* UREA N-22* CREAT-0.8 SODIUM-131* \nPOTASSIUM-7.1* CHLORIDE-96 TOTAL CO2-21* ANION GAP-21*\n06:40AM   estGFR-Using this\n06:40AM   cTropnT-<0.01\n06:40AM   WBC-5.4 RBC-4.78 HGB-13.7 HCT-41.3 MCV-86 \nMCH-28.7 MCHC-33.2 RDW-14.7 RDWSD-46.9*\n06:40AM   NEUTS-55.7 MONOS-7.3 EOS-2.4 BASOS-0.7 IM AbsNeut-2.98 AbsLymp-1.78 AbsMono-0.39 AbsEos-0.13 AbsBaso-0.04\n06:40AM   PLT COUNT-228\n\ufeff\nIMAGING:\n========\nCXR:\nNo acute cardiopulmonary process. \n\ufeff\nTTE:\nThe left atrial volume index is normal. Normal left ventricular wall thickness, cavity size, and regional/global systolic function (biplane LVEF = 61 %). There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve leaflets are structurally normal. There is no mitral valve prolapse. Mild (1+) mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is high normal. There is a trivial/physiologic pericardial effusion. \n\ufeff\nIMPRESSION: Normal biventricular cavity sizes with preserved regional and global biventricular systolic function. Mild mitral regurgitation with normal valve morphology.\n\ufeff\nCLINICAL IMPLICATIONS: \nAHA endocarditis prophylaxis recommendations, the echo findings indicate prophylaxis is NOT recommended. Clinical decisions regarding the need for prophylaxis should be based on clinical and echocardiographic data.\n"
+}

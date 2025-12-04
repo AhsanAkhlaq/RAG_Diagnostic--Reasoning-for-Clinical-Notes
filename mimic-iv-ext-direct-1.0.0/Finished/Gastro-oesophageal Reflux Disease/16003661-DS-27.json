@@ -1,0 +1,30 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET: 6.5% > 6% is the gold standard for gastro-oesophageal reflux \rdisease diagnosis$Cause_1": {
+            "Ambulatory reflux monitor :total AET:6.5% on pH-impedance monitoring$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "chest discomfort and nausea are atypical symptoms of gastro-oesophageal reflux \rdisease$Cause_1": {
+                "She reports indigestion x few days with midsternal nonradiating chest discomfort, nausea w/o emesis since yesterday.$Input2": {}
+            },
+            "Hertburn is a typical symptom of gastro-oesophageal reflux \rdisease$Cause_1": {
+                "On arrival to the floor the patient reports ongoing heartburn and need to spit up clear \"goo.\"$Input2": {}
+            },
+            "Chest pain, nausea and abdominal pain are atypical symptoms of gastro-oesophageal reflux \rdisease$Cause_1": {
+                "chest pain, nausea, abdominal pain$Input1": {}
+            },
+            "!Nausea and abdominal pain are atypical symptoms of gastro-oesophageal reflux \rdisease.$Cause_1": {
+                "presented with shortness of breath, nausea, abdominal pain.$Input2": {}
+            },
+            "Chronic cough ia an atypical symptom of gastro-oesophageal reflux \rdisease$Cause_1": {
+                "chronic cough unchanged.$Input2": {}
+            }
+        }
+    },
+    "input1": "chest pain, nausea, abdominal pain\n",
+    "input2": "A female with a history of COPD, diastolic HF and paranoid schizophrenia who presented with shortness of breath, nausea, abdominal pain. She reports indigestion x few days with midsternal nonradiating chest discomfort, nausea w/o emesis since yesterday. Symptoms worse after eating. She states only able to eat a little bit of yesterday. Denies diarrhea, melana, hematochezia, dysuria, hematuria, fevers, chills. Does endorse constipation and last BM was two days ago. While patient endorsed shortness of breath in the ED, she denied any shortness of breath on arrival to the floor. In the ED EKG showed Sinus rhythm 85 with multiple PACs, there is a right bundle branch block which is unchanged from previous tracing, there are Q waves in V2 and V3 which are also consistent with previous EKG. chest x-ray revealed no evidence of pneumonia. She was treated for COPD exacerbation with nebs x3 and azithro 500mg IV. She received GI cocktail and ASA 325mg with some relief. She was admitted for COPD exacerbation, cont'd. On arrival to the floor the patient reports ongoing heartburn and need to spit up clear \"goo.\" She denies SOB, states that cough is at baseline. Denies fevers, sore throat. She is pre-occupied with possibility of having been exposed to some type of nuclear chemical that has been making her sick for the past year. ROS: per HPI, denies fever, chills, night sweats, headache, vision changes, rhinorrhea, congestion, sore throat, shortness of breath, vomiting, diarrhea, BRBPR, melena, hematochezia, dysuria, hematuria. + chronic cough unchanged. + stress incontinence (not new per pt)\n",
+    "input3": "+COPD \n+Paranoid Schizophrenia\n+Hypertension\n+Dyslipidemia \n+Stress incontinence\n+S/p ventral hernia repair\n+S/p femoral hernia repair\n+S/p exploratory laparotomy for SBO\n+Chronic diastolic HF\n",
+    "input4": "Family history is significant for coronary artery disease in her father, who died from heart disease.  Mother died in a car accident.  Her sister died from an unknown cause. The patient's great aunt (mother's side) has diabetes.  There is no history of alcoholism or psychiatric disorders in the family.\n",
+    "input5": "VS -97.6 127/70 72 20 99 on 3L NC 88.3lb  \nGENERAL - very thin disheveled woman in NAD  \nHEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear \nNECK - No JVD \nCARDIAC - RRR, nl S1-S2, no MRG  \nLUNGS - CTAB, no r/rh/wh, distant breath sounds, resp unlabored, no accessory muscle use  \nABDOMEN - NABS, soft/ND, mild tenderness to deep palpation diffusely, no masses or HSM, no rebound or guarding  \nEXTREMITIES - WWP, no c/c/e  \nNEURO - awake, A&Ox3 w/ paranoid ideations, grossly intact\n",
+    "input6": "10:15AM BLOOD WBC-6.4 RBC-5.41* Hgb-16.2* Hct-46.7 MCV-86 MCH-29.9 MCHC-34.6 RDW-13.2 Plt\n10:15AM BLOOD Glucose-146* UreaN-19 Creat-0.7 Na-137 K-4.2 Cl-98 HCO3-26 AnGap-17\n10:15AM BLOOD Albumin-4.4 Calcium-10.1 Phos-3.8 Mg-2.1\nPERTINENT\n10:48AM BLOOD cTropnT-0.01\n07:20PM BLOOD cTropnT-0.01\n05:55AM BLOOD cTropnT-0.02*\n10:15AM BLOOD Lipase-22\n10:15AM BLOOD ALT-28 AST-32 AlkPhos-87 TotBili-0.5\n10:23AM BLOOD Lactate-1.\nAmbulatory reflux monitor :total AET:6.5% on pH-impedance monitoring\n"
+}

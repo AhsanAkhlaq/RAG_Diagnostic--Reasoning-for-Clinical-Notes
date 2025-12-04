@@ -1,0 +1,44 @@
+{
+    "Very Severe COPD$Intermedia_4": {
+        "FEV1 < 30% is the criteria of Very severe\nCOPD$Cause_1": {
+            "FEV1 25%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "A chest x-ray shows overinflated lungs and severe emphysema, typical symptoms of COPD$Cause_1": {
+                "The lungs are hyperinflated and severe emphysema$Input6": {}
+            },
+            "FEV1/FVC < 0.70 confirms COPD$Cause_1": {
+                "FEV1/FVC = 0.42$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "Shortness of breath is a common symptom of COPD$Cause_1": {
+                    "Shorntess of breath$Input1": {}
+                },
+                "Cough is one of the common symptoms of COPD$Cause_1": {
+                    "complaining of cough$Input2": {}
+                },
+                "People with COPD often experience breathlessness during physical activity.$Cause_1": {
+                    "subacute dyspnea$Input2": {}
+                },
+                "Increasing dyspnea is a sign of worsening COPD symptoms$Cause_1": {
+                    "3 weeks of worsening cough and SOB$Input2": {}
+                },
+                "The need for continuous oxygen therapy indicates that her lung function is significantly impaired, a common feature in patients with COPD.$Cause_1": {
+                    "has a home O2 requirement of 3 L at baseline and 4L$Input2": {}
+                },
+                "This is a common symptom in people with COPD because the airway obstruction causes prolonged exhalation time.$Cause_1": {
+                    "prolonged expiratory phase with deminished breath sounds$Input5": {}
+                },
+                "The need for external oxygen support suggests that the patient has a chronic respiratory disease, such as COPD$Cause_1": {
+                    "O2:97% 3L$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Shorntess of breath\n",
+    "input2": "Mrs. ___ is a ___ year-old woman who presents complaining of cough, subacute dyspnea on exertion and epigastric pain. Ms. ___ describes about 3 weeks of worsening cough and SOB. She describes that this SOB has gradual worsening over past few days. She attempted using a nebulized albuterol treatment and experianced a 5 minute episode of sudden epigastric pain that resolved without therapy after 5 minutes and was different from her GERD pain. She has a home O2 requirement of 3 L at baseline and 4L when particularly active; however, she is occasionally able to sit at rest without supplemental O2. She describes that she is not able to walk up a flight of stairs and is having a hard time functioning at home in the past few days. \n",
+    "input3": "HTN\ndCHF\nMitral regurgitation\nGERD\nHyperlipidemia\ns/p partial thyroidectomy for benign thyroid nodule\nOsteopenia\nprior R wrist fx\nAllergic Rhinitis\n",
+    "input4": "None\n",
+    "input5": "Vitals: T:96.1 BP:141/60 P:82 R:16 O2:97% 3L\nGeneral: Alert and oriented x 3, no acute distress\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: prolonged expiratory phase with deminished breath sounds \nbilaterally\nCV: Regular rate and rhythm\nAbdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly\nGU: no foley\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema\nNeuro: CNs2-12 intact, motor function grossly normal\n",
+    "input6": "___ 12:52PM BLOOD WBC-8.5 RBC-4.66 Hgb-14.4 Hct-41.7 MCV-90 \nMCH-30.9 MCHC-34.5 RDW-13.0 Plt ___\n___ 06:44AM BLOOD WBC-9.7 RBC-4.58 Hgb-14.7 Hct-40.9 MCV-89 \nMCH-32.0 MCHC-35.9* RDW-13.2 Plt ___\n___ 12:52PM BLOOD Glucose-84 UreaN-18 Creat-1.2* Na-135 \nK-4.0 Cl-99 HCO3-24 AnGap-16\n___ 06:44AM BLOOD Glucose-195* UreaN-22* Creat-1.2* Na-131* \nK-3.4 Cl-92* HCO3-26 AnGap-16\n___ 07:10AM BLOOD Glucose-101* UreaN-22* Creat-1.0 Na-132* \nK-4.3 Cl-95* HCO3-27 AnGap-14\n.\n___ 12:52PM BLOOD cTropnT-<0.01\n___ 06:44AM BLOOD cTropnT-<0.01\n.\nCXR ___\nFindings: PA and lateral views of the chest were obtained. The lungs are hyperinflated and severe emphysema is again noted, better seen on CT. There is no consolidation, pleural effusion or pneumothorax. The cardiomediastinal silhouette is stable with aortic arch calcifications.,Osseous structures are intact. No free air is seen below the right hemidiaphragm.\n\n\nFEV1/FVC = 0.42\nFEV1 25%\n"
+}

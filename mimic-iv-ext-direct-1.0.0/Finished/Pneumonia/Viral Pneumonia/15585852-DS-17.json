@@ -1,0 +1,53 @@
+{
+    "Viral Pneumonia$Intermedia_4": {
+        "Diagnosed with viral infection$Cause_1": {
+            "Positive for Influenza A$Input6": {}
+        },
+        "Pneumonia$Intermedia_3": {
+            "Neutrophils were significantly elevated, an indicator of pneumonia.$Cause_1": {
+                "Neuts-91.1$Input6": {}
+            },
+            "Atelectasis is when part of the lungs does not expand enough and is a symptom of pneumonia$Cause_1": {
+                "Minimal bibasilar dependent atelectasis is present$Input6": {}
+            },
+            "Suspected Pneumonia$Intermedia_2": {
+                "Shortness of breath is one of the common symptoms of pneumonia$Cause_1": {
+                    "Shortness of breath$Input1": {}
+                },
+                "A prolonged cough and viral infection symptoms may indicate ongoing respiratory problems, which may be related to pneumonia$Cause_1": {
+                    "he has had intermittent cough and viral symptoms for the past 2 months$Input2": {}
+                },
+                "Severe sputum-producing cough and wheezing may indicate a lower respiratory tract infection, and asthma may also be a sign of reactive airway disease$Cause_1": {
+                    "severe cough and some wheezing$Input2": {}
+                },
+                "Fever is a typical symptom of pneumonia$Cause_1": {
+                    "low grade fevers for 1 day, low 100s$Input2": {}
+                },
+                "Elevated lactate may be the body's response to a serious infection and may be a sign of pneumonia.$Cause_1": {
+                    "lactate increased at 4.4$Input2": {}
+                },
+                "Hypoxemia is a possible clinical manifestation of pneumonia$Cause_1": {
+                    "SpO2 90% on RA$Input2": {}
+                },
+                "Increased heart rate is a possible clinical manifestation of pneumonia$Cause_1": {
+                    "HR 117$Input2": {}
+                },
+                "Tobacco abuse is one of the high risk factors for pneumonia$Cause_1": {
+                    "Tobacco abuse$Input3": {}
+                },
+                "Difficulty breathing when speaking, a common symptom of pneumonia$Cause_1": {
+                    "SOB with speaking in full sentences$Input5": {}
+                },
+                "Indicates partial obstruction of the airway, possibly due to inflammation and/or accumulation of secretions due to infection, a classic sign of pneumonia$Cause_1": {
+                    "faint wheezes heard more in the upper lung fields, poor airflow$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "He is a 55 yo male with history of lymphoma as a child, now in remission for many years, HLD, and current smoker (30 PY) who presents with shortness of breath.  He does not have any known history of COPD or asthma.  He reports that he has had intermittent cough and viral symptoms for the past 2 months, but he has not been SOB until about 3 days ago.  He has had severe cough and some wheezing for the past ough is productive of clear sputum.  He reports low grade fevers for 1 day, low 100s in ED.  He denies chills, chest pain or pressure.  He was admitted to OSH earlier today, he was given steroids and antibiotics, but eloped as he was unstatisfied with their care.  He was still SOB so came here for further evaluation.  He denies any recent sick contacts.\n\nIn the ED, initial VS were: T 98.2, HR 117, BP 135/73, RR 18, SpO2 90% on RA.  Patient was found to be tachypneic and wheezy on exam.  His peak flow was noted to be 200.  He was given Duonebs x3, Solumedrol, Ceftriaxone, and Azithromycin.  No elevated WBC, but lactate increased at 4.4.  EKG showed sinus tachycardia at 112, no ischemia.  CTA chest was negative for PE. His VS prior to transfer were: T 98.5, HR 110, BP 139/79, SpO2 96% on NRB.\n",
+    "input3": "+Hyperlipidemia\n+Scoliosis.  Wears a right shoe-lift.\n+Bilateral inguinal hernia repair as a child\n+Tonsillectomy and adenoidectomy x2 as a child.\n+Tobacco abuse\n",
+    "input4": "The patient is adopted and does know know his biological family medical history.\n",
+    "input5": "General: Alert, oriented, SOB with speaking in full sentences and with mild\nHEENT: Sclera anicteric, dry MM, oropharynx clear\nNeck: supple, JVP at 8cm, no LAD\nLungs: faint wheezes heard more in the upper lung fields, poor airflow. no rales/ronchi\nCV: rapid rate/rhythm, normal S1 + S2, no murmurs, rubs, gallops\nAbdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly\nGU: no foley\nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema\nNeuro: A&O x3, CN grossly intact, MAE.\n",
+    "input6": "___ 11:30PM BLOOD WBC-7.0 RBC-4.74 Hgb-14.6 Hct-41.4 MCV-87 MCH-30.8 MCHC-35.3* RDW-13.9 Plt ___\n___ 11:30PM BLOOD Neuts-91.1* Lymphs-6.1* Monos-2.4 Eos-0.4 Baso-0.1\n___ 11:30PM BLOOD ___ PTT-23.4 ___\n___ 11:30PM BLOOD UreaN-14 Creat-0.9\n___ 11:30PM BLOOD freeCa-1.13\n\n\nToxicology:\n___ 07:01AM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG Barbitr-NEG Tricycl-NEG\n___ 01:17PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG cocaine-NEG amphetm-NEG mthdone-NEG\n\nMicrobiology:\n___ 7:08 am Influenza A/B by DFA (Source: Nasopharyngeal swab)\n   DIRECT INFLUENZA A ANTIGEN TEST (Final ___: \n      Positive for Influenza A. \n   DIRECT INFLUENZA B ANTIGEN TEST (Final ___: \n      Negative for Influenza B. \n\nImaging / Studies:\n# CHEST (PA & LAT) ___ at 11:29 ___:\nFINDINGS: AP and lateral chest with no prior for comparison demonstrates low lung volumes, though the lungs are clear. There is no pleural effusion or pneumothorax. The heart is at the upper limits of normal for size, the mediastinal contours are unremarkable. The pulmonary vasculature appears normal.\n\nCTA CHEST W&W/O C&RECONS, NON-CORONARY ___ at 2:30 AM):\nFINDINGS: Vascular opacification is somewhat suboptimal, but no pulmonary embolism is present to the level of the segemental vessels. The main pulmonary artery is slightly enlarged measuring 3.2 cm. The thoracic aorta appears within normal limits. No pericardial, or pleural effusions are present. Minimal bibasilar dependent atelectasis is present. Otherwise, the lungs are clear and the airways are patent. No significant hilar, mediastinal, or axillary lymphadenopathy is present. In the right lobe of the thyroid is a 14-mm nodule, a small nodule is present in the left lobe. Although not evaluated for subdiaphragmatic evaluation, the liver appears diffusely fatty infiltrated without focal lesions. Remainder of the abdomen appears normal.\n\nPortable TTE ___ at 8:37:01 AM):\nThe left atrium is mildly dilated. No definite atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers. There is mild symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. Overall left ventricular systolic function is normal (LVEF>55%). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. The mitral valve appears structurally normal with trivial mitral regurgitation. There is no pericardial effusion.\n"
+}

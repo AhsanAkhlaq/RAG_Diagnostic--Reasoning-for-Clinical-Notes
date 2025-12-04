@@ -1,0 +1,18 @@
+{
+    "Pituitary Macroadenomas$Intermedia_3": {
+        "Pituitary tumors detected by biopsy that appear to be adenomas with extensive necrosis$Cause_1": {
+            "Findings consistent with adenoma with extensive necrosis$Input6": {}
+        },
+        "Suspected pituitary disease$Intermedia_2": {
+            "Hypertension may be due to the effect of pituitary giant adenoma on the body's hormone system, especially the secretion of adrenal hormones$Cause_1": {
+                "HTN$Input3": {}
+            }
+        }
+    },
+    "input1": "\n",
+    "input2": "Elective admission for a transphenoidal resection\n",
+    "input3": "+ DM\n+ HTN\n+ HLD\n+ Chronic back pain\n",
+    "input4": "Father and brother MI, lung cancer in uncle\n",
+    "input5": "None\n",
+    "input6": "xpected postoperative appearance after transsphenoidal resection of a sellar mass. \n\ufeff\nPathology:\n1.  Pituitary tumor, biopsy:\nFindings consistent with adenoma with extensive necrosis.\n\ufeff\n2.  Pituitary tumor, excision:\nFindings consistent with adenoma with extensive necrosis.\n\ufeff\nNote: Given the extensive necrosis, immunostains for hormonal markers will not be performed\n"
+}

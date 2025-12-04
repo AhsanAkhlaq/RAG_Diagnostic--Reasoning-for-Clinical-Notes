@@ -1,0 +1,24 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "Oesophagitis\uff08LA grades B\uff09 is the gold standard for the diagnosis of gastro-oesophageal reflux \rdisease.$Cause_1": {
+            "endoscopy\uff1aoesophagitis\uff08LA grades B\uff09 chronic gastritis$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Abdominal pain is an atypical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "abdominal pain$Input1": {}
+            },
+            "Reflux is a typical symptom of gastro-oesophageal reflux \rdisease$Cause_1": {
+                "The patient has abnormal reflux$Input2": {}
+            },
+            "!Abdominal pain is an atypical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "his primary complaint is abdominal pain$Input2": {}
+            }
+        }
+    },
+    "input1": "abdominal pain\n",
+    "input2": "The patient is a with chronic pain. He continues to have pains which he finds debilitating, worse in LUQ than on the right. He has had a Bravo test which was abnormal.  Specifically, on day 1, his score was 32.8, however, on day 2 it was 8.9.  There were three reports of abdominal pain over these two days.  The symptom index was 33% and the symptom association probability was 70%. Dr. the results of the Bravo test.  There were veryfew episodes of abdominal pain and this may in part reflect thelow symptom association probability. The patient has abnormal reflux and by objective measures he would be a candidate for laparoscopic antireflux surgery.  However, his primary complaint is abdominal pain and it is not clear whether his abdominal pain is caused by reflux and therefore, it is unclear whether surgery would improve his abdominal pain. Patient decided that he wanted to go ahead with the surgery and presents today.\n",
+    "input3": "+diverticulitis\n+functional dyspepsia\n+BPH\n",
+    "input4": "Non contributory\n",
+    "input5": "BP: 129/80. Heart Rate: 60. Weight: 172.1. Height: 67. BMI: \n27.0.\nTemperature: 97.6. Resp. Rate: 16. Pain Score: 0. O2 \nSaturation%:\n100. Distress Score: 5.\n\nGENERAL        \n[x] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:\n\nHEENT          \n[x] NC/AT   [x] EOMI   [x] PERRL/A   [x] Anicteric\n[x] OP/NP mucosa normal     [x] Tongue midline\n[x] Palate symmetric  [x] Neck supple/NT/without mass\n[x] Trachea midline [x] Thyroid nl size/contour\n[ ] Abnormal findings:\n\nRESPIRATORY    \n[x] CTA/P     [x] Excursion normal     [x] No fremitus\n[x] No egophony    [x] No spine/CVAT\n[ ] Abnormal findings:\n\nCARDIOVASCULAR \n[x] RRR    [x] No m/r/g    [x] No JVD   [x] PMI nl  [x] No edema\n[x] Peripheral pulses nl    [x] No abd/carotid bruit\n[ ] Abnormal findings:\n\nGI             \n[x] Soft    [x] NT   [x] ND  [x] No mass/HSM   [x] No hernia\n[ ] Abnormal findings:\n\nGU             [x] Deferred  \n[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE\n[ ] Abnormal findings:\n\nNEURO          \n[x] Strength intact/symmetric    [x] Sensation intact/ symmetric\n[x] Reflexes nl     [x] No facial asymmetry [x] Cognition intact\n[x] Cranial nerves intact   [ ] Abnormal findings:\n\nMS     \n\n        \n[x] No clubbing   [x] No cyanosis   [x] No edema   [x] Gait nl\n[x] No tenderness  [x] Tone/align/ROM nl   [x] Palpation nl\n[x] Nails nl   [ ] Abnormal findings:\n\nLYMPH NODES   \n[x] Cervical nl      [x] Supraclavicular nl     [x] Axillary nl\n[x] Inguinal nl   [ ] Abnormal findings:\n\nSKIN           \n[x] No rashes/lesions/ulcers\n[x] No induration/nodules/tightening     [ ] Abnormal findings:\n\nPSYCHIATRIC    \n[x] Nl judgment/insight    [x] Nl memory   [x] Nl mood/affect\n[ ] Abnormal findings:\n",
+    "input6": "Ba swallow :\nNo evidence of leak or holdup.\nendoscopy\uff1aoesophagitis\uff08LA grades B\uff09 chronic gastritis\r\n"
+}

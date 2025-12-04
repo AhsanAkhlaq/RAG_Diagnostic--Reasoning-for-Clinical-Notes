@@ -1,0 +1,57 @@
+{
+    "Ischemic Stroke$Intermedia_3": {
+        "It shows that there are multiple small areas of brain tissue that have died due to lack of blood flow.$Cause_1": {
+            "Late acute infarcts in the right MCA distribution predominantly involving the right basal ganglia and posterior limb of the right internal capsule with multiple additional punctate foci in the right external capsule, insula, parietal and temporal lobes.$Input6": {}
+        },
+        "This indicates that the infarcted area is growing.$Cause_1": {
+            "Evolving acute infarct in the right basal ganglia and multiple additional punctate acute infarcts along the periphery of the right parietal and temporal lobes seen on subsequent$Input6": {}
+        },
+        "Here describe a sudden cutoff of the distal M1 segment of the right internal carotid artery, a high degree of stenosis at the beginning of the M2 superior branch, and no M2 inferior branch. Blockage and stenosis of this artery is the direct cause of ischemia in the brain region.$Cause_1": {
+            "Abrupt cut off of the distal M1 segment of the right internal carotid artery with high-grade focal narrowing at the origin of the right M2 superior division and nonvisualization of the M2 inferior division.$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "Stroke usually affects one side of the brain, which affects muscle control on the opposite side of the body, a typical symptom of stroke$Cause_1": {
+                "left facial droop$Input1": {}
+            },
+            "Stroke may affect areas of the brain that control speech, causing patients to slur their speech$Cause_1": {
+                "slurred speech$Input1": {}
+            },
+            "A stroke affects the area of the brain that controls body movement, causing muscle weakness on one side of the body.$Cause_1": {
+                "left arm more than leg weakness$Input1": {}
+            },
+            "The patient has a history of severe cardiovascular disease, which increases the risk of stroke$Cause_1": {
+                "previous CABG$Input2": {}
+            },
+            "HTN is one of the major risk factors for stroke$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "Bicuspid valves may lead to cardiac insufficiency and hemodynamic changes, increasing the risk of stroke. AVR (aortic valve replacement) is a common procedure to treat severe valvular disease. It may carry a risk of blood clots after surgery and may also increase the risk of stroke.$Cause_1": {
+                "bicuspid aortic valve h/o severe AS s/p AVR CE #21$Input3": {}
+            },
+            "Postoperative atrial fibrillation is a common complication of cardiac surgery and can increase the risk of blood clots, thereby increasing the risk of stroke.$Cause_1": {
+                "post-op a fib$Input3": {}
+            },
+            "An ascending aortic aneurysm is a dilation of the ascending part of the aorta. This condition can lead to a tear (dissection) in the inner wall of the vessel, which may lead to abnormal blood flow and increase the risk of stroke.$Cause_1": {
+                "ascending aortic aneurysm$Input3": {}
+            },
+            "Visual field loss in the left lower quadrant, which may be a sign of damage to a certain part of the brain, common in stroke$Cause_1": {
+                "VF- left LQ deficit.$Input5": {}
+            },
+            "Abduction reflexes often indicate pathological changes in the central nervous system, such as stroke$Cause_1": {
+                "Plantar response extensor on the left and mute on the right$Input5": {}
+            },
+            "Abnormally low heart rate, which can increase risk of stroke$Cause_1": {
+                "HR: 42$Input5": {}
+            },
+            "Relatively low blood pressure may affect blood flow to the brain$Cause_1": {
+                "BP:109/64$Input5": {}
+            }
+        }
+    },
+    "input1": "left facial droop, slurred speech and left arm more than leg weakness,\n",
+    "input2": "He with hx of previous CABG and frontal lobe epilepsy on Keppra who follows up with limited records presented to an OSH with acute left facial droop, slurred speech and left arm more than leg weakness. Per his report he woke up at 8 am and walked to the bathroom and was at his baseline , went back to sleep and then at 9.15 am when he woke up he fell and called out to his son who confirms the history and reports that he found his father on the floor with Left facial droop total paresis  of the left arm and slurred speech.  He though he was having a heart attack and asked for ASA so his son gave him one ASA tab. Upon arrival received Tpa at OSH at 10.45 with immediate improvement, had a neg NCHCT and was transferred to \nED. Upon arrival was 3- mild residual left facial asymmetry, questionable left Lower quadrant visual field cut and left arm weakness.\n",
+    "input3": "+ bicuspid aortic valve h/o severe AS s/p AVR CE #21\n+ post-op a fib\n+ HTN\n+ ascending aortic aneurysm\n+ COPD\n+ depression\n+ seizure disorder (frontal lobe epilepsy per pt)\n+ h/o rheumatic fever\n+ chronic pancreatitis c/b pseudocysts\n+ gallstones\n+ pulmonary nodules\n",
+    "input4": "NC\n",
+    "input5": "Admission exam:\nVitals:  T: 98.2  HR: 42  BP:109/64   RR: 16  SaO2:97%\nGeneral:  NAD\nHEENT: NCAT,  no oropharyngeal lesions, neck supple\nPulmonary: CTAB, no crackles or wheezes\nAbdomen: Soft, NT, ND, +BS, no guarding\nExtremities: Warm, no edema\n\ufeff\nNeurologic Examination:\n- Mental status: Awake, alert, oriented x 3. Able to relate history without difficulty. Attentive, able to name backward without difficulty. Speech is fluent with full sentences, intact repetition, and intact verbal comprehension. Naming intact.  No paraphasias.  No dysarthria. Normal prosody. On cookie jar picture- I see a woman washing dishes- did not report the kids an the jar though no evidnec of evidence of hemineglect otherwise  . No left-right confusion. Able to follow both midline and appendicular commands.\n\ufeff\n- Cranial Nerves: PERRL 3->2 brisk. VF- left LQ deficit. EOMI, \nno nystagmus. V1-V3 without deficits to light touch bilaterally. No facial movement asymmetry. Hearing intact to finger rub bilaterally.  Palate elevation symmetric. SCM/Trapezius strength bilaterally. Tongue midline.\n\ufeff\n- Motor:  Normal bulk and tone. No drift. No tremor or \n\ufeff\nNo drift. \n \n- Reflexes: \n[Bic] [Tri] [xx] [Quad] [Gastroc]\nL  3+    2+     2+      3+       1\nR  2+    2+     2+      2+       1  \n\ufeff\nPlantar response extensor on the left and mute on the right.\n- Sensory: No deficits to light touch, pin, or proprioception bilaterally.  No extinction to DSS.\n- Coordination: No dysmetria with finger to nose testing bilaterally. \n- Gait: deferred.\n",
+    "input6": "12:45PM   GLUCOSE-102* UREA N-8 CREAT-0.7 SODIUM-135 POTASSIUM-4.3 CHLORIDE-101 TOTAL CO2-23 ANION GAP-15\n12:45PM   estGFR-Using this\n12:45PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG\n11:40AM   VoidSpec-TOO HEMOLY\n11:40AM   WBC-11.9* RBC-3.98* HGB-14.4 HCT-38.4* MCV-97 MCH-36.2* MCHC-37.5* RDW-13.4 RDWSD-48.1*\n11:40AM   NEUTS-80.6* LYMPHS-7.8* MONOS-10.4 EOS-0.4* BASOS-0.3  AbsNeut-9.56* AbsLymp-0.92* AbsMono-1.24*AbsEos-0.05 AbsBaso-0.04\n11:40AM   PLT COUNT-275\n\ufeff\n\ufeff\nCTA head and neck\n  \nIMPRESSION: \n  \n  \n1. Evolving acute infarct in the right basal ganglia and multiple additional punctate acute infarcts along the periphery of the right parietal and temporal lobes seen on subsequent MRI are not well depicted on this CT. \n2. Abrupt cut off of the distal M1 segment of the right internal carotid artery with high-grade focal narrowing at the origin of the right M2 superior division and nonvisualization of the M2 inferior division. \n3. Extensive calcified and soft atherosclerotic plaque at the carotid bifurcations extending into the proximal portion of the internal and external carotid arteries results in approximately 50% narrowing of the internal carotid artery origins by NASCET criteria. \n4. There is a 6 x 8 mm spiculated right upper lobe pulmonary nodule in addition to a nodular area of parenchymal consolidation with adjacent distortion along the periphery of the left upper lobe measuring 1.6 x 2.1 cm.  There also multiple mildly prominent mediastinal lymph nodes.  Comparison with prior chest CTs, if available available is recommended.  Alternatively, dedicated chest CT or PET-CT can be considered for further evaluation, as malignancy cannot be excluded. \n\ufeff\nMRI brain\nIMPRESSION: \n  \n  \n1. Late acute infarcts in the right MCA distribution predominantly involving the right basal ganglia and posterior limb of the right internal capsule with multiple additional punctate foci in the right external capsule, insula, parietal and temporal lobes. \n2. Punctate chronic microhemorrhage in the left thalamus. \n3. Additional white matter changes are suggestive of chronic small vessel \nischemic disease. \n\ufeff\n  \nCT chest\nIMPRESSION:  \n  \n1.  Bilateral superior pulmonary spiculated nodules measuring up to 11 mm highly concerning for primary lung malignancy. \n2.  Partially seen distal pancreatic atrophy disproportionate to the size of the head on a background of chronic pancreatitis as well a CBD stent with expected pneumobilia.  These findings could be due to an underlying pancreatic malignancy such as adenocarcinoma, particularly in the setting \nof a stent.  Alternatively, sequela of chronic pancreatitis are possible as \ndescribed. \n  \nRECOMMENDATION(S):  Correlation with pancreaticobiliary history, \ncomparison with prior imaging.  An addendum can be issued if requested with a comparison of the findings if prior imaging becomes available. \n\ufeff\nTTE:\nThe left atrial volume index is mildly increased. No atrial septal defect or patent foramen ovale is seen by 2D, color Doppler or saline contrast with maneuvers. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg). Right ventricular chamber size and free wall motion are normal. A bioprosthetic aortic valve prosthesis is present. The aortic valve prosthesis appears well seated, with normal leaflet/disc motion and transvalvular gradients. Mild (1+) aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. There is no mitral valve prolapse. Trivial mitral regurgitation is seen. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion. \n\n"
+}

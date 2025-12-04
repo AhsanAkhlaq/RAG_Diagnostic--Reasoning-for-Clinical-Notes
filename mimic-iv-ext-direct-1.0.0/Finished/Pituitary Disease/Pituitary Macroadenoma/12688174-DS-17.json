@@ -1,0 +1,24 @@
+{
+    "Pituitary Macroadenomas$Intermedia_3": {
+        "MRI results showed direct evidence of a giant pituitary adenoma and compression of surrounding structures, particularly the optic chiasm.$Cause_1": {
+            "MRI brain was obtained and showed a pituitary macroadenoma with compression of the optic chiasm, right greater than left.$Input2": {}
+        },
+        "Suspected pituitary disease$Intermedia_2": {
+            "Amenorrhea is a common manifestation of pituitary dysfunction and may be related to hormone secretion disorders caused by pituitary tumors.$Cause_1": {
+                "become amenorrhoeic$Input2": {}
+            },
+            "Pituitary giant adenomas may affect the normal hormone secretion of the pituitary gland, thereby affecting the downstream thyroid hormone production, leading to hypothyroidism.$Cause_1": {
+                "severe endocrine abnormalities, including hypothyroidism$Input2": {}
+            },
+            "Pituitary giant adenomas often cause vision problems, especially visual field losses, by compressing the optic chiasm, especially when the tumor is large.$Cause_1": {
+                "vision difficulties with her right eye$Input2": {}
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "Patient had become amenorrhoeic and was referred to an endocrinologist. She was also found to have severe endocrine abnormalities, including hypothyroidism. Patient also endorsed vision difficulties with her right eye. MRI brain was obtained and showed a pituitary macroadenoma with compression of the optic chiasm, right greater than left. Plan was made for surgical resection of the lesion. \n\ufeff\n",
+    "input3": "Frequent sinus infections\n",
+    "input4": "Prostate cancer\n",
+    "input5": "None\n",
+    "input6": "Please see OMR for pertinent results.\n"
+}

@@ -1,0 +1,32 @@
+{
+    "Type I diabetes$Intermedia_4": {
+        "ICA antibodies are positive in most patients with type I diabetes.$Cause_1": {
+            "ICA-(+)*$Input6": {}
+        },
+        "Diabetes$Intermedia_3": {
+            "Abnormal blood glucose is a diagnostic criteria of diabetes.$Cause_1": {
+                "BLOOD Glucose-263$Input6": {}
+            },
+            "Suspected Diabetes$Intermedia_2": {
+                "The abnormal blood glucose in the presence of classic sympotoms of hyperglycemia is a diagnostic criteria of diabetes.$Cause_1": {
+                    "hyperglycemia >500$Input2": {}
+                },
+                "FSG is a symptom of diabetes.$Cause_1": {
+                    "FSG of 50$Input2": {}
+                },
+                "CKD is a symptom of diabetes.$Cause_1": {
+                    "+CKD stage II-III (b/l creatinine 1.5-2.0)$Input3": {}
+                },
+                "Family history is a big risk factor of diabetes.$Cause_1": {
+                    "Diabetes in her grandmother$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "Hypoglycemia\n",
+    "input2": "She with multiple admissions for gastroparesis over last year with ED eval 3 days prior for hyperglycemia >500 treated with IV fluids now presents after being found down at home with sugar of 50. At that point was given glucagon. \n\ufeff\nHas significant number of prior admissions for nausea/vomitting attributed to gastroparesis--per PCP usually episodes are set off by life stressors. Current stressors include her mother moving to an apartment farther away with inconvenient transportation. Her year old son is having difficulty in school due to ADHD diagnosis. Lives alone but is very close to her mother. Previously has had self-motivation to take charge of own care, but recently has required increasing degree of intervention from Social Worker. Seen a week ago and per PCP had more distant affect.\n\ufeff\nThis AM took her insulin 70/30 at 28 units as prescribed and proceeded to get ready fro appointment to have stitches removed that had been placed after last fall. Felt nauseated and did not eat--otherwise no symptoms of hypoglycemia.  No increase in polyuria, no frank vomitting, no diarrhea. No prodrome before she blacked out. Found by sister who called for ambulance. EMS found her to have FSG of 50. At that point was given glucagon. Currently complains of R sided chest wall pain and R flank pain, unchanged from pain she was experiencing upon presentation to the ED 3 days prior, CXR and rib films at that time negative. \n\ufeff\nIn the ED, initial vital signs were 97.4 110 143/93 18 98% \nPatient was given.  Pt having nausea and vomitting, so received 4mg iv zofran, 4mg po zofran, 10mg reglan and 1mg iv ativan. She received 0.5mg iv dilaudid for her chronic pain. Was tachy to 120's, on the monitor at times, but is coming down with ivf. her bp is high but pt has not been taking her meds, gave her am dose of amlodipine today. \n\ufeff\n",
+    "input3": "+Severe anxiety/panic attacks\n+Depression with psychotic features, currently seeing doctor for Psychiatric care\n+Esophagitis / H. Pylori s/p 2-weektriple therapy\n+Grade I esophageal varices seen on scope,negative liver ultrasound, normal LFTs, hep panel negative\n+Hyperlipidemia\n+S/P - lower back pain since then.\n+S/P  ex-lap\n+G2P1Ab1, s/p miscarriage, s/p C-sectionin\n+Genital Herpes\n+Left tibial plateau fracture s/p ORIF\n+CKD stage II-III (b/l creatinine 1.5-2.0)\n",
+    "input4": "Diabetes in her grandmother and asthma.\n",
+    "input5": "Physical Exam:\nADMISSION\nVitals- 97.9 100RA BS 106\nGeneral- Alert, oriented, no acute distress  \nHEENT- Sclera anicteric, MMM, oropharynx clear  \nNeck- supple, JVP not elevated, no LAD  \nLungs- Clear to auscultation bilaterally, no wheezes, rales, ronchi  \nCV- Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  \nAbdomen- soft, non-tender, non-distended, hypoactive bowel sounds present, no rebound tenderness or guarding, no organomegaly  \nGU- no foley  \nExt- warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema\nNeuro- CNs2-12 intact, motor function grossly normal  \n\nACTIVE ISSUES\n# S/P FALL: Likely secondary to hypoglycemia. Given significant and longstanding poor blood sugar control, possible patient has significant autonomic dysfunction. EKG with shortened PR, but no other signs of WPW. Had a fall on prior admission with sutures, which were removed on this admission.\n\ufeff\n# HTN: Patient with significant diastolic pressure >100 on admission. On amlodipine and lisinopril at home which patient has been complaint. Has missed her BP meds on day of admission.Prior symptomatic hypotension so would be careful about giving too much BP meds. Pressures possibly labile as above from autonomic dysfunction.\n\ufeff\nINACTIVE ISSUE\n# DEPRESSION WITH PSYCHOTIC FEATURES: Seeing doctor for Psychiatric care. Continued Risperdone.\n\ufeff\nTRANSITIONAL ISSUES\n# Go over insulin plan for poor PO intake with patient and ensure that she understands\n\ufeff\n",
+    "input6": "ADMISSION\n\ufeff\n___ 01:00PM BLOOD WBC-10.3 RBC-3.29* Hgb-9.4* Hct-29.1* MCV-88 MCH-28.5 MCHC-32.2 RDW-13.2\n___ 01:00PM BLOOD Glucose-263* UreaN-18 Creat-1.6* Na-135 K-3.8 Cl-100 HCO3-26 AnGap-13\n___ 01:00PM BLOOD Albumin-3.5 Calcium-9.1 Phos-2.1*# Mg-1.5*\n___ 01:07PM BLOOD Lactate-0.7\n___ 01:07PM ICA-(+)*\n"
+}

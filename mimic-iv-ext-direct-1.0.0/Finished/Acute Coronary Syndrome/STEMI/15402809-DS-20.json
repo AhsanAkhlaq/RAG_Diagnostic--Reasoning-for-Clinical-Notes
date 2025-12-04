@@ -1,0 +1,41 @@
+{
+    "STEMI-ACS$Intermedia_4": {
+        "The electrocardiogram shows ST segment elevation in leads V2 to V6, I, and aVL, and ST segment depression in leads II, III, and aVF, which is the key basis for diagnosing STEMI.$Cause_1": {
+            "found to have STE in V2-V6, I and aVL, and STD II, III and aVF c/f STEMI$Input2": {}
+        },
+        "From 0.12 to 14.15. Cardiac troponin T is an important marker for the diagnosis of acute myocardial infarction. Its significant increase usually indicates myocardial damage.$Cause_1": {
+            "cTropnT-14.15$Input6": {}
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "This description refers to the characteristic feeling of angina, which is a pressure or heaviness centered in the chest.$Cause_1": {
+                "a central chest pressure radiating to both arms and jaw$Input2": {}
+            },
+            "Coronary angiography showed 100% blockage of the left anterior descending artery (LAD), which was the direct cause of STEMI.$Cause_1": {
+                "coronary angiography revealed 100% occlusion LAD$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "The patient experienced a feeling of pressure behind the sternum, with symptoms radiating to the arms and jaw, and nausea, which are typical symptoms of myocardial infarction.$Cause_1": {
+                    "initially with substernal chest pressure radiating to both arms and jaw with associated nausea$Input2": {}
+                },
+                "The patient developed chest pain shortly after using \"poppers,\" an inhaled street drug that can cause blood vessels to dilate and a sudden drop in blood pressure. This suggests that drug use may have been a trigger for the heart attack.$Cause_1": {
+                    "developed chest pressure shortly after taking \"poppers\"$Input2": {}
+                },
+                "Diabetes is an important risk factor for cardiovascular disease$Cause_1": {
+                    "Diabetes$Input3": {}
+                },
+                "Hypertension is also a major risk factor for cardiovascular disease$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Family history of myocardial infarction increases an individual's risk of ACS$Cause_1": {
+                    "Uncle with MI\nFather with suspected missed MI at early age$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "He is a man who initially with substernal chest pressure radiating to both arms and jaw with associated nausea found to have STE in V2-V6, I and aVL, and STD II, III and aVF c/f STEMI  now transferred to hospital for emergent coronary angiography. \n\ufeff\nThe patient states that yesterday evening, he developed chest pressure shortly after taking \"poppers\" and engaging in sexual intercourse with his husband. The pain was sudden in onset and was described as a central chest pressure radiating to both arms and jaw. Had associated nausea. Initially thought it was due to indigestion and tried to drink seltzer water, however, his symptoms persisted and he began to vomit. He decided to go to hospital for further management.\n\ufeff\ncoronary angiography revealed 100% occlusion LAD. No significant right coronary or LCx disease. 2 something were placed without complication. During the procedure, he received tirofoban with plans to transition to ticagrelor. He tolerated the procedure well and was transferred to the CCU for further monitoring.\n \nOn arrival to the CCU:  the patient is awake and alert. He complains of mild chest pressure that is much improved from prior. No SOB, palpitations, lightheadedness, fevers or chills. He denies any history of chest pain or SOB with exertion.\n",
+    "input3": "+ Diabetes (-) \n+ Hypertension (-)  \n+ Dyslipidemia  \n+ No known cardiac history \n+ Hiatal hernia\n+ OSA on BiPAP\n",
+    "input4": "Uncle with MI\nFather with suspected missed MI at early age\n",
+    "input5": "ADMISSION PHYSICAL EXAM:\n====================================\nVS: 99  134/81  102  16  97%RA \nGENERAL: Well developed, well nourished in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI. Conjunctiva were pink. No pallor \nNECK: Supple. JVP not elevated  \nCARDIAC: RR, no m/r/g \nLUNGS: CTAB no r/r/w.  \nABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No splenomegaly.  \nEXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or peripheral edema.  \nSKIN: No significant skin lesions or rashes.  \nPULSES: Distal pulses palpable and symmetric.  \nLABS AND MICROBIOLOGY: Reviewed in OMR.\n",
+    "input6": "ADMISSION/IMPORTANT LABS\n04:38AM BLOOD WBC-20.4* RBC-4.99 Hgb-15.3 Hct-42.0 MCV-84 MCH-30.7 MCHC-36.4 RDW-12.0 RDWSD-36.2\n04:38AM BLOOD Glucose-113* UreaN-19 Creat-1.0 Na-138 K-3.1* Cl-103 HCO3-16* AnGap-22*\n04:38AM BLOOD CK(CPK)-316\n05:50PM BLOOD CK(CPK)-3528*\n04:52AM BLOOD ALT-78* AST-245* LD(LDH)-1188* AlkPhos-55 TotBili-1.3\n04:38AM BLOOD CK-MB-19* MB Indx-6.0 cTropnT-0.12*\n11:30AM BLOOD cTropnT-14.15*\n04:38AM BLOOD Calcium-9.6 Phos-2.2* Mg-1.7 Cholest-211*\n04:38AM BLOOD %HbA1c-4.8 eAG-91\n04:38AM BLOOD Triglyc-198* HDL-31 CHOL/HD-6.8 LDLcalc-140*\n"
+}

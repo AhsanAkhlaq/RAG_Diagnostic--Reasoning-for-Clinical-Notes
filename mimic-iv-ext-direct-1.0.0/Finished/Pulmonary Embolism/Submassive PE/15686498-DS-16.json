@@ -1,0 +1,47 @@
+{
+    "Submassive PE$Intermedia_4": {
+        "Despite RV abnormalities, the patient is hemodynamically stable. Excludes massive PE$Cause_1": {
+            "The patient is hemodynamically stable.$Input6": {}
+        },
+        "Mild dilatation of the right atrium and ventricle may be due to increased pulmonary artery pressure, a typical manifestation of PE$Cause_1": {
+            "The left atrium is mildly dilated. The right atrium is moderately dilated.$Input6": {}
+        },
+        "Mild right ventricular dilation may indicate increased right ventricular workload, a typical cardiac effect of pulmonary embolism$Cause_1": {
+            "The right ventricular cavity is mildly dilated$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "These symptoms and CT findings suggest lung involvement and increased cardiac workload, consistent with pulmonary embolism.$Cause_1": {
+                "dyspnea and pleuritic chest pain with pulmonary infarcts and possible evidence of R heart strain$Input2": {}
+            },
+            "D-dimer is significantly elevated (normal less than 500 ng/mL FEU). This is an important sign of PE$Cause_1": {
+                "D-Dimer-3001$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Chest pain is a symptom of PE$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "Pleuritic chest pain is a classic symptom of pulmonary embolism$Cause_1": {
+                    "pleuritic chest pain on his L side$Input2": {}
+                },
+                "This is a common symptom of pulmonary embolism, because pulmonary embolism can cause the pleura to be stretched during breathing, causing pain.$Cause_1": {
+                    "Pain was exacerbated with deep breaths$Input2": {}
+                },
+                "Prolonged sitting or bed rest is an important risk factor for pulmonary embolism$Cause_1": {
+                    "prolonged immobilization$Input2": {}
+                },
+                "Hypertension is a risk factor for PE$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Obesity can increase the likelihood of blood clots and put more strain on the heart and lungs.$Cause_1": {
+                    "Obesity$Input3": {}
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "He M h/o  p/w dyspnea and pleuritic chest pain with pulmonary infarcts and possible evidence of R heart strain on CT admitted for management of his PE's. \n \nPatient was in his usual state of health when he was woken from sleep by pleuritic chest pain on his L side in the AM. Pain was exacerbated with deep breaths and spanned from thorax to upper left abdomen. He denies any leg swelling or history of DVT/PE. Also no history of recent surgery, travel, trauma. He does endorse prolonged immobilization because he has been feeling very fatigued which he feels is from taking valsartan and chlorthalidone and has not been walking. His mobility is additionally limited by chronic dizziness s/p prior CVA and subacute pain in bilateral legs limiting his walking starting.\n\ufeff\n",
+    "input3": "- Type A aortic dissection s/p repair with 28mm supracoronary tube graft/valve resuspension, complicated by cardiac tamponade/ ARF requiring HD/ postoperative AF. MRI with stable 16-mm intimal flap in mid aortic arch and a 22 x 12 mm pseudoaneurysm in left lateral arch wall  \n- Hypertension  \n- Obesity  \n- Dyslipidemia  \n- CKD (baseline Cr 1.3-1.4)  \n- Amyloid angiopathy  \n- Former tobacco and alcohol abuse  \n- s/p tonsillectomy and adenoidectomy\n",
+    "input4": "Father died of a stroke the cause of the stroke is unknown. Pt believes there is heart disease in multiple relatives. Cousin recently died of complications from heart disease. \n\ufeff\n",
+    "input5": "Physical Exam:\nADMISSION PHYSICAL EXAM:\n========================\nVITALS: 97.6 153 / 76 62 16 96 Ra \nGENERAL: Alert and interactive. In no acute distress.\nHEENT: Normocephalic, atraumatic. Pupils equal, round, and reactive bilaterally, extraocular muscles intact. Scleraanicteric and without injection. Moist mucous membranes, good dentition. Oropharynx is clear.\nNECK: Thyroid is normal in size and texture, no nodules. No cervical lymphadenopathy. No JVD.\nCARDIAC: Regular rhythm, normal rate. Audible S1 and S2. Nomurmurs/rubs/gallops.\nLUNGS: Clear to auscultation bilaterally w/appropriate breath sounds appreciated in all fields. No wheezes, rhonchi or rales.\nNo increased work of breathing.\nBACK: No spinous process tenderness. No CVA tenderness.\nABDOMEN: Normal bowels sounds, non distended, non-tender to deep\npalpation in all four quadrants. No organomegaly.\nEXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 2+ bilaterally.\nSKIN: Warm. Cap refill <2s. Redness on face, chest, and upper extremities and back\nNEUROLOGIC: CN2-12 intact. Strength throughout. Normal sensation. Gait is normal. AOx3.\n\ufeff\n",
+    "input6": "ADMISSION LABS:\n===============\n___ 01:55PM BLOOD WBC-9.9 RBC-4.87 Hgb-15.2 Hct-45.9 MCV-94 MCH-31.2 MCHC-33.1 RDW-13.4 RDWSD-46.7*\n___ 01:55PM BLOOD Neuts-72.0* Lymphs-15.4* Monos-10.5 Eos-1.5 Baso-0.2 AbsNeut-7.16* AbsLymp-1.53 AbsMono-1.04* AbsEos-0.15 AbsBaso-0.02\n___ 12:37AM BLOOD PTT-23.9*\n___ 01:55PM BLOOD Glucose-109* UreaN-36* Creat-1.6* Na-138 K-6.2* Cl-100 HCO3-20* AnGap-18\n___ 01:55PM BLOOD ALT-26 AST-64* AlkPhos-42 TotBili-0.8\n___ 01:55PM BLOOD Lipase-24\n___ 08:22PM BLOOD cTropnT-<0.01\n___ 01:55PM BLOOD cTropnT-<0.01\n___ 01:55PM BLOOD proBNP-81\n___ 01:55PM BLOOD Albumin-4.0 Calcium-9.1 Phos-3.7 Mg-2.5\n___ 01:55PM BLOOD D-Dimer-3001*\n___ 02:47PM BLOOD Lactate-1.1 K-5.2*\n\n\ufeff\nIMAGING:\n========\n+ CTA\n \n1. No acute abnormality within the imaged abdomen and pelvis. \n2. Diverticulosis. \n\ufeff\n+ ECHO\nThe left atrium is mildly dilated. The right atrium is moderately dilated. There is mild symmetric left ventricular hypertrophy with normal cavity size and regional/global systolic function (LVEF>55%). Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg). The right ventricular cavity is mildly dilated with no more than borderline-mild global hypokinesis (suboptimal image quality). The ascending aorta is mildly dilated. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Trivial mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is a trivial/physiologic pericardial effusion. There is an anterior space which most likely represents a prominent fat pad. The patient is hemodynamically stable.\n\ufeff\n\ufeff\n"
+}

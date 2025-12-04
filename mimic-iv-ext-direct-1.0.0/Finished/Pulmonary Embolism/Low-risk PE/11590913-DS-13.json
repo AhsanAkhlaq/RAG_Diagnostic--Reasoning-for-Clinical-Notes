@@ -1,0 +1,41 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "The right heart has not been significantly affected, and submassive PE is ruled out.$Cause_1": {
+            "The main and right pulmonary arteries are normal in caliber, and there is no evidence of right heart strain.$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Filling defects were observed in all segmental arteries except the left upper lobe artery, consistent with extensive bilateral pulmonary embolism. Pulmonary embolism is usually caused by a blood clot blocking an artery in the lungs, resulting in obstruction of blood flow.$Cause_1": {
+                "Filling defects within the pulmonary arterial system are noted in all segmental arteries with the exception of the left upper lobe artery, compatible with widespread bilateral pulmonary emboli.$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Blood clots block blood vessels in the lungs, reducing the lungs' ability to exchange oxygen and causing breathing difficulties$Cause_1": {
+                    "Shortness of Breath$Input1": {}
+                },
+                "One of the classic symptoms of pulmonary embolism, usually manifested during physical activity due to increased cardiopulmonary load$Cause_1": {
+                    "shortness of breath while walking$Input2": {}
+                },
+                "Worsening dyspnea on exertion is also a possible symptom of pulmonary embolism.$Cause_1": {
+                    "noted no dyspnea at rest, but it was repeatedly exacerbated wtih exertion$Input2": {}
+                },
+                "Uterine fibroids may be associated with changes in hormone levels, which indirectly affect blood coagulation and may increase the risk of pulmonary embolism.$Cause_1": {
+                    "history of fibroids$Input2": {}
+                },
+                "Pregnancy and miscarriage are risk factors for thrombosis and may increase the risk of pulmonary embolism.$Cause_1": {
+                    "denies frequent miscarraiges though she has never been pregnant save for a single abortion due to fibroids$Input2": {}
+                },
+                "Hypertension is the risk factor of PE$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "High blood pressure is the risk factor of PE$Cause_1": {
+                    "152/94$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Shortness of Breath\n",
+    "input2": "This is a healthy female with a history of fibroids who developed shortness of breath while walking. She had no precipitating features such as chest pain, cough, sore throat, fever. She noted no dyspnea at rest, but it was repeatedly exacerbated wtih exertion. She had no precipitating features of stasis such as long plane ride, surgery, or bed ridden state. She had no leg swelling. Her PCP checked Dimer without evidence of R heart strain.On further discussion, she denies frequent miscarraiges though she has never been pregnant save for a single abortion due to fibroids. No family history of blood clots or frequent miscarraiges. No recent trauma to her legs.In the ED, initial vitals: 98.1 18 98% RA.Labs/Studies notable for: Na 130 and K 5.2. She was started on heparin gtt and transferred tothe floor.On arrival to the floor, the patient has no chest pain, no SOB lying still, and otherwise feels her regualr self. She has no pleurisy, no fever.\nROS:\nPlease refer to HPI for pertinent positives and negatives. 10 point ROS is otherwise negative.\n",
+    "input3": "MEDICAL & SURGICAL HISTORY:\nHypertension\n",
+    "input4": "No blood clots, frequent miscarraiges as far as she knows, no cancer in immediate family\n",
+    "input5": "Physical Exam:\nVitals: 98.5 152/94 86 18 97%RA\nGeneral: AAOx3, comfortable appearing, in NAD\nHEENT: NCAT, EOMI, PERRL. Sclera anicteric, conjunctiva pink. \nMMM. OP clear.\nNeck: supple, no LAD, no JVP elevation\nLungs: CTAB, no w/r/r\nCV: RRR, normal S1 and S2, no m/g/r\nAbdomen: NABS, soft, nondistended, nontender. No HSM.\nGU: no foley\nExt: WWP. 2+ peripheral pulses. No edema.\nNeuro: Pupils equal round reactive\n\ufeff\n",
+    "input6": "___ 04:00PM BLOOD WBC-7.4 RBC-5.20 Hgb-11.4* Hct-38.5 MCV-74* MCH-22.0* MCHC-29.8* RDW-17.8*\n___ 06:12AM BLOOD WBC-6.4 RBC-4.86 Hgb-10.8* Hct-35.3* MCV-73* MCH-22.2* MCHC-30.6* RDW-17.8*\n___ 04:00PM BLOOD Glucose-92 UreaN-8 Creat-0.7 Na-130* K-5.2* Cl-93* HCO3-23 AnGap-19\n___ 04:00PM BLOOD cTropnT-<0.01\n\ufeff\nIMAGING\nCTA\nThe aorta and its major branch vessels are patent, with no evidence ofstenosis, occlusion, dissection, or aneurysmal formation. There is no evidenceof penetrating atherosclerotic ulcer or aortic arch atheroma present.\n \nThe pulmonary arteries are well opacified to the subsegmental level. Filling defects within the pulmonary arterial system are noted in all segmental arteries with the exception of the left upper lobe artery, compatible with widespread bilateral pulmonary emboli. The main and right pulmonary arteries are normal in caliber, and there is no evidence of right heart strain.\n \nThere is no evidence of pericardial effusion.\n \nA 3 mm perifissural ground-glass nodule is incidentally noted in the rightmiddle/upper lobes following no CT followup is required. There is no pleuraleffusion. The airways are patent to the subsegmental level.\n \nThere is no supraclavicular, axillary, mediastinal, or hilar lymphadenopathy.The thyroid gland appears unremarkable.\n \nLimited images of the upper abdomen are unremarkable.\n \nNo lytic or blastic osseous lesion suspicious for malignancy is identified.\n\ufeff\n"
+}

@@ -1,0 +1,24 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "Barretts esophagus is the gold standard in the dianosis of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+            "He is not aware of the term barretts esophagus and we do not  have any path from that EGD.$Input2": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Coughing is an atypical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "A Male with a H/O coughing$Input2": {}
+            },
+            "Inflammation of the esophagus (LA grades B, C and D oesophagitis)is the gold standard in the dianosis of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "He was seen by an ENT MD and had a fiberoptic exam done which showed severe inflammation of the esophagus.$Input2": {}
+            },
+            "!Coughing is an atypical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "+Chronic cough$Input3": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "A Male with a H/O coughing and sinus congestion over many years.  He was seen by an ENT MD and had a fiberoptic exam done which showed severe inflammation of the esophagus. That prompted an EGD without biopsy which confirmed severe inflammation. He was placed on a variety of PPI's all of which caused some diarrhea. Another EGD with biopsy was done 3 weeks ago and he was told that he has a precancerous condition. He is not aware of the term barretts esophagus and we do not  have any path from that EGD. He was referred to Dr. to discuss potential surgery. He has never had any manomatry or Ph studies nor has he had a barium swallow. Currently he denies any heartburn, acid reflux, change in weight, dysphagia. His only complaints are that of a cough and sinus congestion. He was recently given a Zpak but does not notice any improvement. He is a current smoker.\n",
+    "input3": "+IBS\n+Chronic cough\n+OSA ..wears CPAP at hs\n+Hypercholesterolemia\n",
+    "input4": "Mother A&W\nFather cancer\n",
+    "input5": "BP: 132/67. Heart Rate: 68. Temperature: 98.1. Resp. Rate: 16. \nO2 Saturation%: 98.\nGENERAL        \n[x] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:\n\nHEENT          \n[x] Trachea midline [x] Thyroid nl size/contour\n[ ] Abnormal findings:\n\nRESPIRATORY    \n[x] CTA/P     [x] Excursion normal    \n[ ] Abnormal findings:\n\nCARDIOVASCULAR \n[x] RRR    [x] No m/r/g    \n[ ] Abnormal findings:\n\nGI             \n[x] Soft    [x] NT   [x] ND  [x] No mass\n[ ] Abnormal findings:\n\nGU             [x] Deferred  \n[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE\n[ ] Abnormal findings:\n\nLYMPH NODES   \n[x] Cervical nl      [x] Supraclavicular nl \n[ ] Abnormal findings:\n\nSKIN           \n[x] No rashes/lesions/ulcers\n[x] No induration/nodules/tightening     [ ] Abnormal findings:\n\nPSYCHIATRIC    \n[x] Nl judgment/insight    [x] Nl memory   [x] Nl mood/affect\n[ ] Abnormal findings:\n",
+    "input6": "05:10AM BLOOD WBC-10.9*# RBC-4.85 Hgb-13.9 Hct-41.1 \nMCV-85 MCH-28.7 MCHC-33.8 RDW-12.9 RDWSD-39.6 Plt\n05:10AM BLOOD Glucose-94 UreaN-13 Creat-1.0 Na-137 \nK-4.0 Cl-101 HCO3-25 AnGap-15\n05:10AM BLOOD Calcium-8.5 Phos-4.0 Mg-1.9\n"
+}

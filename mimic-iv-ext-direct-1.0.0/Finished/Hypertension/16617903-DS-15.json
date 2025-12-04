@@ -1,0 +1,33 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "blood pressures were 160s/100$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "remained elevated at 151/103$Input2": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.**$Cause_1": {
+            "BP 188/92$Input5": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Headache is a classic symptoms of Hypertension.$Cause_1": {
+                "Headache$Input1": {}
+            },
+            "Blurry vision is a classic symptoms of Hypertension.$Cause_1": {
+                "blurry vision$Input1": {}
+            },
+            "Labetabol is a type of hypotensive drug,indicates that the patient may have Hypertension,which is a risk factor.$Cause_1": {
+                "received 60 mg Labetalol$Input2": {}
+            },
+            "Hydralazine is a type of hypotensive drug,indicates that the patient may have Hypertension,which is a risk factor.$Cause_1": {
+                "received Hydralazine 10 mg$Input2": {}
+            }
+        }
+    },
+    "input1": "Headache, blurry vision\n",
+    "input2": "61 year old Gravida 4 Para 3 post partum day #4 status-post spontaneous vaginal delivert presents with headache and blurry vision. She reports she developed a headache yesterday which did not respond to Motrin so she took her blood pressure at home. She presented to given that it was close her home. There her blood pressures were 160s/100 and she received 60 mg Labetalol IV. She had an episode of blurry vision in the ED where she saw \"spots\" but the visual changes resolved spontaneously. Per report her labs including hematocrit, creatinine and liver function tests were within normal limits at the outside hospital ED. She was transferred to ED.\n\nHere her blood pressures remained elevated at 151/103 and she received Hydralazine 10 mg IV x 1 with good effect and her blood pressures improved to140/90s. She was started on Magnesium with a 2 gram bolus and she was transferred to L&D for further management. \n\nHere, she continues to have a mild headache but has not had any NSAIDs or Tylenol. The blurry vision has resolved. She denies CP,SOB, RUQ pain.\n\nShe is s/p SVD. Her blood pressure at the time of deliverywere in the 140s/80s and a P:C ratio was 0.3. Her labs were otherwise normal and she denied symptoms of PEC at that time. \n",
+    "input3": "-History of anxiety - used zoloft after pregnancy, no meds currently\n-History of hiatal hernia/reflux\n",
+    "input4": "None\n",
+    "input5": "Admission Physical Exam:\nNo acute distress\nClear to auscultation bilaterally \nRegular rate and rhythm\nAbdomen soft\nDTR +2\nVSS:BP 188/92\n",
+    "input6": "CBC:\n___ 07:50PM BLOOD WBC-7.9 RBC-4.13* Hgb-13.3 Hct-38.4 MCV-93 MCH-32.1* MCHC-34.6 RDW-13.1\nCoags: \n___ 07:50PM BLOOD ___ PTT-26.2 ___\nChemistry: \n___ 07:50PM BLOOD Glucose-95 UreaN-14 Creat-0.7 Na-142 K-3.9 Cl-106 HCO3-22 AnGap-18\nLFT: \n___ 07:50PM BLOOD ALT-39 AST-28 AlkPhos-172* TotBili-0.3\n"
+}

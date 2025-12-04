@@ -1,0 +1,36 @@
+{
+    "Type A Aortic Dissection$Intermedia_3": {
+        "Intimal flaps or dissections at different locations in the aorta indicate a loss of structural integrity of the aorta and are direct evidence of Type A aortic dissection.$Cause_1": {
+            "scending aortic intimal flap/dissection.. Aortic arch intimal flap/dissection. Descending aorta intimal flap/aortic dissection.$Input6": {}
+        },
+        "Suspected Aortic Dissection$Intermedia_2": {
+            "Back pain is a common symptom of Aortic Dissection$Cause_1": {
+                "back pain$Input1": {}
+            },
+            "Sudden back and chest pain that may radiate down the aorta to the jaw is typical of a tear in the aortic lining$Cause_1": {
+                "acute onset of back, chest, and jaw pain$Input2": {}
+            },
+            "Hypertension is one of the most common risk factors for aortic dissection$Cause_1": {
+                "hypertension$Input2": {}
+            },
+            "Coronary artery disease may be accompanied by atherosclerosis of the entire cardiovascular system, which may also increase the risk of aortic dissection.$Cause_1": {
+                "coronary artery disease$Input2": {}
+            },
+            "It revealed mild to moderate aortic regurgitation (AI) and a low left ventricular ejection fraction (EF) of about 35%, which may be due to the effect of aortic dissection on cardiac function. It clearly indicated the presence of aortic dissection.$Cause_1": {
+                "TEE - trace to mild AI, EF around 35%, Type A\nDissection$Input5": {}
+            },
+            "Enlargement of the left atrium may be caused by the increased volume of blood that the heart has to handle, which is common in aortic dissection.$Cause_1": {
+                "The left atrium is moderately dilated$Input6": {}
+            },
+            "Enlargement and weakening of the left ventricle may indicate that the heart is having trouble pumping blood, which can occur in aortic dissection because the structure of the heart is affected.$Cause_1": {
+                "The left ventricular cavity is severely dilated$Input6": {}
+            }
+        }
+    },
+    "input1": "back pain\n",
+    "input2": "Mr. ___ is a ___ year old male with end stage kidney disease on peritoneal dialysis, hypertension, complete heart block and coronary artery disease who presented to ___ ___ with acute onset of back, chest, and jaw pain.  A chest CT scan showed a Type A dissection of the aorta.  He was intubated and sedated.  He transferred to ___ for emergency surgery.\n",
+    "input3": "None\n",
+    "input4": "unobtainable\n",
+    "input5": "PE:  BP 110/67 by ___  HR 80 (SR)\nGeneral - intubated and sedated, aline left radial\nHEENT - intubated, central line RIJ\nLungs - BS bilaterally\nCardio - NSR, TEE - trace to mild AI, EF around 35%, Abdomen - PD catheter LLQ, soft\nExt - +1 edema\nNeuro - intubated and sedated\n",
+    "input6": "BP (mm Hg): 110/70  Wgt (lb): 220  \nHR (bpm): 65  BSA (m2):  \nIndication: Evaluate Valves, \nVentricular Function, Wall motion  \nICD-9 Codes: 441.00 \nTest Information  \nDate/Time: ___ at 22:52    ___ MD: ___, MD \n\nTest Type: TEE (Complete) Sonographer: ___, MD \nDoppler: Full Doppler and color Doppler Test Location: \nAnesthesia West OR cardiac \nContrast: None Tech Quality: Adequate \nTape #: ___-: Machine: u/s 6 \nEchocardiographic Measurements  \nResults  Measurements  Normal Range  \nLeft Atrium - Long Axis Dimension:  *5.5 cm  <= 4.0 cm  \nLeft Ventricle - Inferolateral Thickness:  *1.4 cm  0.6 - 1.1 cm \n \nLeft Ventricle - Diastolic Dimension:  *7.2 cm  <= 5.6 cm  \nLeft Ventricle - Ejection Fraction:  40% to 50%  >= 55%  \nLeft Ventricle - Stroke Volume:  44 ml/beat     \nLeft Ventricle - Cardiac Output:  2.87 L/min     \nLeft Ventricle - Peak Resting LVOT gradient:  1 mm Hg  <= 10 mm \nHg  \nAorta - Annulus:  2.6 cm  <= 3.0 cm  \nAorta - Sinus Level:  *3.7 cm  <= 3.6 cm  \nAorta - Sinotubular Ridge:  *3.6 cm  <= 3.0 cm  \nAorta - Ascending:  *3.6 cm  <= 3.4 cm  \nAorta - Arch:  *3.6 cm  <= 3.0 cm  \nAorta - Descending Thoracic:  *3.3 cm  <= 2.5 cm  \nAortic Valve - Peak Velocity:  0.8 m/sec  <= 2.0 m/sec  \nAortic Valve - Peak Gradient:  3 mm Hg  < 20 mm Hg  \nAortic Valve - Mean Gradient:  1 mm Hg     \nAortic Valve - LVOT VTI:  9     \nAortic Valve - LVOT diam:  2.5 cm     \nAortic Valve - Valve Area:  *2.6 cm2  >= 3.0 cm2  \n \nFindings  \nLEFT ATRIUM: Moderate ___. \n\nLEFT VENTRICLE: Mild symmetric LVH. Severely dilated LV cavity. Mild global LV hypokinesis. \n\nAORTA: Normal aortic diameter at the sinus level. Normal aortic arch diameter. Mildly dilated descending aorta. Ascending aortic intimal flap/dissection.. Aortic arch intimal flap/dissection. Descending aorta intimal flap/aortic dissection. \n\nAORTIC VALVE: Normal aortic valve leaflets (3). No AS. Mild (1+) \nAR. \n\nMITRAL VALVE: Mildly thickened mitral valve leaflets. Moderate \n(2+) MR. \n\n___ VALVE: Normal tricuspid valve leaflets with trivial \nTR. Mild [1+] TR. \n\nPULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflets. \nNo PR. \n\nPERICARDIUM: Small pericardial effusion.  \nConclusions  \nPre Bypass: The left atrium is moderately dilated. There is mild symmetric left ventricular hypertrophy. The left ventricular cavity is severely dilated. There is mild global left ventricular hypokinesis (LVEF = 40-50%) with some moderate inferior wall hypokinesis. The descending thoracic aorta is mildly dilated. A mobile density is seen in the ascending aorta consistent with an intimal flap/aortic dissection. A mobile density is seen in the aortic arch consistent with an intimal flap/aortic dissection. A mobile density is seen in the descending aorta consistent with an intimal flap/aortic dissection. The dissecton appears roughly 2 cm above the sinotubular junction and exents as far into the descending aorta as can be visualized. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion. There is no aortic valve stenosis. Mild (1+) aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Moderate (2+) mitral regurgitation is seen. There is a small pericardial effusion. \n\n___ 05:00AM BLOOD WBC-8.2 RBC-2.93* Hgb-9.1* Hct-26.5* \nMCV-91 MCH-31.0 MCHC-34.3 RDW-15.6* Plt ___\n___ 05:27AM BLOOD ___ PTT-28.1 ___\n___ 05:00AM BLOOD Glucose-84 UreaN-60* Creat-10.5*# Na-134 \nK-4.3 Cl-93* HCO3-25 AnGap-20\n___ 05:00AM BLOOD ALT-41* AST-25 LD(LDH)-255* AlkPhos-79 \nAmylase-98 TotBili-0.3\n"
+}

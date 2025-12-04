@@ -1,0 +1,147 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "BLOOD CK-MB-20* MB Indx-9.4* cTropnT-0.18*$Input6": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "BLOOD CK-MB-16* MB Indx-9.7* cTropnT-0.17*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest Pain is a symptom of ACS.$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "T2DM, HTN are risk facts$Cause_1": {
+                "with T2DM, HTN who presents with exertional chest tightness and dyspnea x3 days.$Input2": {}
+            },
+            "Episodic, duration of episodes becoming longer, associated with activity. Radiation to left side of neck and left arm.\n is signs of acs$Cause_1": {
+                "Episodic, duration of episodes becoming longer, associated with activity. Radiation to left side of neck and left arm.$Input2": {}
+            },
+            "HTN is a risk factor$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "T2DM is a risk factor$Cause_1": {
+                "T2DM$Input3": {}
+            },
+            "Hypercholesterolemia is a risk factor$Cause_1": {
+                "Hypercholesterolemia$Input3": {}
+            },
+            "Family history:Brothers x2 w/ CABG  is a big risk factor$Cause_1": {
+                "Brothers x2 w/ CABG$Input4": {}
+            },
+            "Family history:Sister with MI  is a big risk factor$Cause_1": {
+                "Sister with MI$Input4": {}
+            },
+            "Family history:Father died of MI  is a big risk factor$Cause_1": {
+                "Father died of MI$Input4": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                "Compared to tracing xx wave abnormalities. The small Q waves are unchanged. Clinical correlation is suggested.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "T2DM, HTN are risk facts$Cause_1": {
+                    "with T2DM, HTN who presents with exertional chest tightness and dyspnea x3 days.$Input2": {}
+                },
+                "Episodic, duration of episodes becoming longer, associated with activity. Radiation to left side of neck and left arm.\n is signs of acs$Cause_1": {
+                    "Episodic, duration of episodes becoming longer, associated with activity. Radiation to left side of neck and left arm.$Input2": {}
+                },
+                "HTN is a risk factor$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "T2DM is a risk factor$Cause_1": {
+                    "T2DM$Input3": {}
+                },
+                "Hypercholesterolemia is a risk factor$Cause_1": {
+                    "Hypercholesterolemia$Input3": {}
+                },
+                "Family history:Brothers x2 w/ CABG  is a big risk factor$Cause_1": {
+                    "Brothers x2 w/ CABG$Input4": {}
+                },
+                "Family history:Sister with MI  is a big risk factor$Cause_1": {
+                    "Sister with MI$Input4": {}
+                },
+                "Family history:Father died of MI  is a big risk factor$Cause_1": {
+                    "Father died of MI$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "EKG: Sinus rhythm. Modest inferolateral ST-T wave abnormalities. Cannot rule out myocardial ischemia. Prominent early R wave progression. No previous tracing available for comparison. Clinical correlation is suggested.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "T2DM, HTN are risk facts$Cause_1": {
+                    "with T2DM, HTN who presents with exertional chest tightness and dyspnea x3 days.$Input2": {}
+                },
+                "Episodic, duration of episodes becoming longer, associated with activity. Radiation to left side of neck and left arm.\n is signs of acs$Cause_1": {
+                    "Episodic, duration of episodes becoming longer, associated with activity. Radiation to left side of neck and left arm.$Input2": {}
+                },
+                "HTN is a risk factor$Cause_1": {
+                    "HTN$Input3": {}
+                },
+                "T2DM is a risk factor$Cause_1": {
+                    "T2DM$Input3": {}
+                },
+                "Hypercholesterolemia is a risk factor$Cause_1": {
+                    "Hypercholesterolemia$Input3": {}
+                },
+                "Family history:Brothers x2 w/ CABG  is a big risk factor$Cause_1": {
+                    "Brothers x2 w/ CABG$Input4": {}
+                },
+                "Family history:Sister with MI  is a big risk factor$Cause_1": {
+                    "Sister with MI$Input4": {}
+                },
+                "Family history:Father died of MI  is a big risk factor$Cause_1": {
+                    "Father died of MI$Input4": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "Compared to tracing xx wave abnormalities. The small Q waves are unchanged. Clinical correlation is suggested.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest Pain is a symptom of ACS.$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "T2DM, HTN are risk facts$Cause_1": {
+                        "with T2DM, HTN who presents with exertional chest tightness and dyspnea x3 days.$Input2": {}
+                    },
+                    "Episodic, duration of episodes becoming longer, associated with activity. Radiation to left side of neck and left arm.\n is signs of acs$Cause_1": {
+                        "Episodic, duration of episodes becoming longer, associated with activity. Radiation to left side of neck and left arm.$Input2": {}
+                    },
+                    "HTN is a risk factor$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "T2DM is a risk factor$Cause_1": {
+                        "T2DM$Input3": {}
+                    },
+                    "Hypercholesterolemia is a risk factor$Cause_1": {
+                        "Hypercholesterolemia$Input3": {}
+                    },
+                    "Family history:Brothers x2 w/ CABG  is a big risk factor$Cause_1": {
+                        "Brothers x2 w/ CABG$Input4": {}
+                    },
+                    "Family history:Sister with MI  is a big risk factor$Cause_1": {
+                        "Sister with MI$Input4": {}
+                    },
+                    "Family history:Father died of MI  is a big risk factor$Cause_1": {
+                        "Father died of MI$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "with T2DM, HTN who presents with exertional chest tightness and dyspnea x3 days. Episodic, duration of episodes becoming longer, associated with activity. Radiation to left side of neck and left arm. Associated with nausea and dyspepsia. Denies vomiting, abdominal pain. Reports having had a prior stress test that showed a \"minor blockage.\" but has never had a cardiac cath. Strong FH of CAD in 1st degree relatives. pain free in the ED.\n",
+    "input3": "+ HTN\n+ T2DM\n+ Hypercholesterolemia\n+ Carpal tunnel syndrome\n+ Claudication (ABI's negative)\n",
+    "input4": "Brothers x2 w/ CABG\nSister with MI\nFather died of MI\nNo family history of arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.\n",
+    "input5": "ADMISSION PHYSICAL EXAMINATION:  \nVS: T 98.2, 146/71, 78, 18, 100%RA\nGeneral: Middle-aged woman in NAD\nHEENT: Anicteric sclera, MMM\nNeck: No JVD\nCV: RRR w/o m/r/g\nLungs: CTAB\nAbdomen: Soft, NTND\nGU: No foley\nExt: No clubbing, cyanosis or edema \nNeuro:  A&Ox3, moving all extremities\nPULSES: 2+ radial and DP pulses bilaterally\n",
+    "input6": "==== ADMISSION LABS ====\n\ufeff\n07:00AM BLOOD WBC-9.8 RBC-4.22 Hgb-12.4 Hct-37.2 MCV-88 MCH-29.4 MCHC-33.4 RDW-13.4\n07:00AM BLOOD Neuts-75.6* Lymphs-15.7* Monos-4.8 \nEos-3.6 Baso-0.4\n07:00AM BLOOD Glucose-327* UreaN-23* Creat-0.7 Na-139 K-4.2 Cl-102 HCO3-29 AnGap-12\n05:50AM BLOOD Calcium-8.8 Phos-3.5 Mg-2.0\n\ufeff\n==== PERTINENT LABS ====\n\ufeff\n07:00AM BLOOD proBNP-429*\n07:00AM BLOOD cTropnT-0.05*\n02:00PM BLOOD cTropnT-0.12*\n07:37PM BLOOD CK-MB-20* MB Indx-9.4* cTropnT-0.18*\n___ 05:50AM BLOOD CK-MB-16* MB Indx-9.7* cTropnT-0.17*\n\ufeff\n==== IMAGING ====\n\ufeff\nCXR:\nNo acute cardiopulmonary process.\n\ufeff\nEKG: Sinus rhythm. Compared to tracing xx wave abnormalities. The small Q waves are unchanged. Clinical correlation is suggested.  \n\ufeff\nEKG: Sinus rhythm. Prominent early R wave progression. Inferior ST-T wave abnormality. Cannot rule out myocardial ischemia. Compared to the previous tracing there is no significant diagnostic change. \n\ufeff\nEKG: Sinus rhythm. Modest inferolateral ST-T wave abnormalities. Cannot rule out myocardial ischemia. Prominent early R wave progression. No previous tracing available for comparison. Clinical correlation is suggested.\n"
+}

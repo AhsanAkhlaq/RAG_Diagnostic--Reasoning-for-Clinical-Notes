@@ -1,0 +1,44 @@
+{
+    "Severe COPD$Intermedia_4": {
+        "30% \u2264 FEV1 < 50% confirm Severe COPD$Cause_1": {
+            "FEV1 45%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "FEV1/FVC < 0.70 confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC = 0.43.$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "These symptoms may indicate a limitation in the function of the respiratory system and are similar to the symptoms of COPD.$Cause_1": {
+                    "awakening an hour later with SOB and then a panic attack per the patient (with increased heart rate, SOB but without chest pain)$Input2": {}
+                },
+                "Aspiration pneumonia is caused by food, fluids, vomitus, or other foreign objects entering the lungs, which may worsen symptoms in people with COPD.$Cause_1": {
+                    "discharged from with an aspiration PNA$Input2": {}
+                },
+                "Prednisone is a corticosteroid commonly used for anti-inflammatory and management of acute exacerbations of COPD.$Cause_1": {
+                    "prednisone taper$Input2": {}
+                },
+                "The patient used home oxygen intermittently throughout the day, which indicated that she may have persistent dyspnea requiring additional oxygen support, a common symptom in COPD patients.$Cause_1": {
+                    "intermittently uses home O2 (2L NC)$Input2": {}
+                },
+                "This suggests that there may be a familial genetic factor$Cause_1": {
+                    "sister with COPD$Input4": {}
+                },
+                "These symptoms suggest that the patient may have airway inflammation and airway obstruction, which are typical manifestations of COPD.$Cause_1": {
+                    "Diffuse mid-inspiratory crackles, mild end-expiratory\nwheeze, reduced air movement bilaterally$Input5": {}
+                },
+                "Drumstick-shaped nail beds are often associated with a chronic hypoxic state, which may be due to persistent hypoxemia caused by COPD.$Cause_1": {
+                    "Clubbing in both hands$Input5": {}
+                },
+                "Kyphosis may be associated with long-term dyspnea and chest deformation, which is common in patients with chronic lung disease.$Cause_1": {
+                    "significant\nkyphosis$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "After dinner last night she took her anxiety med (pt unsure of name) and then went to bed ~9pm, awakening an hour later with SOB and then a panic attack per the patient (with increased heart rate, SOB but without chest pain). She went outside to \"get some air\" and came back into her home and used her home O2 and asked her daughter to get EMS with persistent SOB. EMS noted and brought her to the ED. She has recently been discharged from with an aspiration PNA and completed a course of Abx approximately one week ago and is completing a prednisone taper that was extended by. She intermittently uses home O2 (2L NC), approximately usually for the whole day. She notes that since d/c from she has been using more O2. However, no CP, fever, vomiting, diarrhea, dysuria with mild nausea in the ambulance.\n",
+    "input3": "+ Anxiety\n+ hearing loss s/p multiple b/l ear surgeries\n+ GERD\n+ OA bilaterally s/p L knee repair w/ MRSA infection\n+ SVT\n+ s/p cholecystectomy\n+ easy bruising\n+ s/p tubal ligation\n+ hypothyroid\n+ sleep apnea (needs a repeat sleep study, wasn't able to \ncomplete first one)\n+ migraines\n+ dysphagia\n",
+    "input4": "Mother with uterine cancer, half-sister with DM, sister with COPD, 2 of her children have asthma.\n",
+    "input5": "Admission Physical Exam:\nVitals: T:97.8 BP:133/81 P:112 R:20 O2: 96 on 2L\nGeneral: Alert, oriented, no acute distress with significant\nkyphosis\nHEENT: Sclera anicteric, MMM, oropharynx clear\nNeck: supple, JVP not elevated, no LAD\nLungs: Diffuse mid-inspiratory crackles, mild end-expiratory\nwheeze, reduced air movement bilaterally.\nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops\nAbdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly, loose skin over her belly wearing pants that demonstrate her recent weight loss (much larger than her current size, with a belt).\nGU: no foley\nExt: warm, well perfused, 2+ pulses. Clubbing in both hands, no cyanosis or edema.\n",
+    "input6": "05:15AM BLOOD WBC-8.9 RBC-4.26 Hgb-11.5* Hct-36.7 \nMCV-86 MCH-26.9* MCHC-31.2 RDW-15.5\n05:15AM BLOOD Neuts-81.1* Lymphs-12.7* Monos-4.6 \nEos-1.2 Baso-0.3\n05:15AM BLOOD Glucose-113* UreaN-14 Creat-1.0 Na-140 \nK-3.6 Cl-102 HCO3-30 AnGap-12\n05:15AM BLOOD cTropnT-<0.01\n05:15AM BLOOD CK-MB-2\n\nPost-bronchodilator FEV1/FVC = 0.43.\nFEV1 45%\n"
+}

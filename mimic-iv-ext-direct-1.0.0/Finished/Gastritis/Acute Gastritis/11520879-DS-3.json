@@ -1,0 +1,24 @@
+{
+    "Acute gastritis$Intermedia_3": {
+        "Superficial erosion on gastroscopy is the gold standard for the diagnosis of acute gastritis$Cause_1": {
+            "Endoscopy:Superficial erosion of the antrum$Input6": {}
+        },
+        "suspected gastritis$Intermedia_2": {
+            "Surgery is a common cause in patients with acute gastritis$Cause_1": {
+                "with lap band placed, colonic adenoma removed 1 months ago with diverticulitis at that time who developed LLQ and central abdominal pain starting last week.$Input2": {}
+            },
+            "Epigastric pain is a symptom that may occur in patients with gastritis\r.$Cause_1": {
+                "She fee epigastric pain is more of a twisting, knawing pain.$Input2": {}
+            },
+            "!Epigastric pain is a symptom that may occur in patients with gastritis\r.$Cause_1": {
+                "She feelike the LLQ is more sharp and the epigastric pain is more of a twisting, knawing pain.$Input2": {}
+            }
+        }
+    },
+    "input1": "Abdominal Pain\n",
+    "input2": "___ with lap band placed, colonic adenoma removed 1 months ago with diverticulitis at that time who developed LLQ and central abdominal pain starting last week. The ___ outpatient PCP prescribed ___. Pain persisted so ___ went to ___ where workup was negative. KUB and CT did not show any abnormalities. Lap band was in proper place. The ___ was prescribed PO oxycodone and sent home with ___ with bariatric. She presents here because the pain continued and she heard that we have a \"bariatric service\". No fevers, chills. Slight nausea with food, able to drink water. No fluid in lap band. No change in BMs, no blood.\n\nIn the ED, initial vitals:  98 78 150/96 16 99%.  Exam with slight abdominal tenderness, no guarding or rebound.  Labs were unremarkable.  Bariatrics was consulted, recommended UGI series which was negative, showed no band prolapse.  CT ABD/Pelvis showed \nShort-segmental  jejunal intussception, nonobstructive.  She recived multiple doses of morphine and dilaudid without relief.  She is being admitted to medicine for pain control. Vitals prior to transfer:  98.2 74 125/67 16 100%.\n\nOf note, summary of ED visit:\nA CAT scan of the abdomen and pelvis with p.o. contrast shows no evidence of acute diverticulitis. There are no acute changes since CAT scan from last year. There is a lap-band in place. KUB upright and oblique shows an unremarkable bowel gas pattern. The ___ was prescribed OxyIR 5 mg p.o. q.4h. as needed along with Maalox as needed for constipation. \n\nCurrently, the ___ is in mild discomfort, but with improved pain. She states that since last ___, she is unable to keep any food down because she immediately vomits roughly 20 minutes after eating.  This has never happened before.  She feelike the LLQ is more sharp and the epigastric pain is more of a twisting, knawing pain.  She is passing gas and haviong normal bowel movements.\n",
+    "input3": "HTN\ndepression\nMorbid obesity\ncolonic adenoma\ndiverticulosis and diverticulitis x2\nhistory of splenic injury at colonoscopy\n",
+    "input4": "No history of early cancer, heart disease\n",
+    "input5": "ADMISSION PE:\nVS - 98.2 117/72 71 18 99% RA \nGENERAL - NAD, comfortable  \nHEENT - PERRLA, EOMI, sclerae anicteric, MMM, OP clear  \nNECK - supple, no thyromegaly, no JVD  \nHEART - PMI non-displaced, RRR, nl S1-S2, no MRG  \nLUNGS - CTAB  \nABDOMEN - Soft, obese, ND, mildly tender in LLQ and epigastrum\nEXTREMITIES - WWP, no c/c/e, 2+ peripheral pulses (radials, DPs) \n \nSKIN - no rashes or lesions  \nNEURO - awake, A&Ox3\n",
+    "input6": "ADMISSION PE:\n\n___ 01:00PM BLOOD WBC-6.3 RBC-4.99 Hgb-15.0 Hct-42.7 MCV-86 \nMCH-30.0 MCHC-35.1* RDW-12.6 Plt ___\n___ 01:00PM BLOOD Plt ___\n___ 01:00PM BLOOD Glucose-92 UreaN-11 Creat-1.1 Na-140 \nK-4.0 Cl-102 HCO3-28 AnGap-14\n___ 01:00PM BLOOD ALT-50* AST-38 AlkPhos-75 TotBili-0.9\n___ 10:30AM BLOOD ALT-55* AST-38 AlkPhos-66 TotBili-0.9\n___ 01:00PM BLOOD Lipase-23\n___ 09:30PM BLOOD Calcium-9.1 Phos-3.7 Mg-2.2\n___ 10:30AM BLOOD 25VitD-14*\n___ 10:30AM BLOOD PTH-101*\n\nCT ABD/PELVIS:\nIMPRESSION: \n1.  Short-segment jejunal intussuception, likely transient. \n2.  Colonic diverticulosis.  \n3.  Hepatic cysts. \n\nUGI Study:\n1.  Esophageal dysmotility. \n2.  No gastric band prolapse, leak or obstruction. \n\nRUQ U/S:\nIMPRESSION: \n1.  No evidence of cholelithiasis, cholecystitis, or biliary dilatation. \n2.  Multiple hepatic cysts.\nEndoscopy:Superficial erosion of the antrum\n"
+}

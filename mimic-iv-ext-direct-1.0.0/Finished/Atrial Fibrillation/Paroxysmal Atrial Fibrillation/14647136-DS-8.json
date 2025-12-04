@@ -1,0 +1,33 @@
+{
+    "Paroxysmal Atrial Fibrillation$Intermedia_3": {
+        "Palpitations are a common symptom of atrial fibrillation, especially when they occur suddenly at rest, which can indicate paroxysmal atrial fibrillation.$Cause_1": {
+            "presented to the emergency room with palpations$Input2": {}
+        },
+        "A significant increase in the rate and a decrease after drug control indicates the presence of atrial fibrillation and its response to treatment$Cause_1": {
+            "received diltiazem 20mg IV and 25mg IV and was rate controlled to 89/min from a high of 171/min$Input2": {}
+        },
+        "Suspected Atrial Fibrillation$Intermedia_2": {
+            "This is one of the most common symptoms of paroxysmal atrial fibrillation$Cause_1": {
+                "palpitations$Input1": {}
+            },
+            "Chest discomfort, shortness of breath, and dizziness are also common symptoms of atrial fibrillation$Cause_1": {
+                "strange sensation in his chest associated with very minor shortness of breath and dizziness.$Input2": {}
+            },
+            "Previous occurrence of similar symptoms, especially under certain circumstances (such as after a flight), may indicate Paroxysmal Atrial Fibrillation$Cause_1": {
+                "He reports that he has had this three times previously. The first time was after a flight and resolved within 30minutes. The second time was very brief and he cannot recall when it was. The most recent occassion was in last week and associated with lack of sleep.$Input2": {}
+            },
+            "Lack of rest may increase risk of developing atrial fibrillation$Cause_1": {
+                "did not sleep the two night prior to admission due to work$Input2": {}
+            },
+            "In atrial fibrillation, the upper chamber of the heart cannot contract normally, resulting in irregular heartbeats.$Cause_1": {
+                "Irregular rate$Input5": {}
+            }
+        }
+    },
+    "input1": "palpitations\n",
+    "input2": "He is a generally healthy 65 year old man who presented to the emergency room with palpations that came on at rest around 5am today. He reports that he woke up to a strange sensation in his chest associated with very minor shortness of breath and dizziness. He denies sweats, chest pressure, chest pain, radiation, LOC, or nausea. He reports that he has had this three times previously. The first time was after a flight and resolved within 30minutes. The second time was very brief and he cannot recall when it was. The most recent occassion was in last week and associated with lack of sleep. The Pt reports that he did not sleep the two night prior to admission due to work. He denies stimulants, drugs, caffeine intake, home remidies or herbal medications. He denies exertional dyspnea, PND, orthopnea, presyncope, or syncope. He has no recent weight loss or fevers. He denies constipation, diarrhea, or neck or throat pain. He drinks 1 drink daily and almost never more than that. He smokes socially and only once in a while.  \n\nIn the ED, initial vitals were T: 96.8 HR: 99 BP: 125/82 RR: 18 O2Sat: 100%RA. ECG showed Afib with RVR. Patient received diltiazem 20mg IV and 25mg IV and was rate controlled to 89/min from a high of 171/min and a repeat ECG showed ST-E in II, V3-6, and ST-D in aVR.\n",
+    "input3": "None\n",
+    "input4": "No family history of heart disease, dysrhythmias, sudden death, HTN, DM or cancer.\n",
+    "input5": "VS: 98.1 131/89 94 16 99%RA  \nGEN: Young man in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma. \nNo palpable thyromegaly. No JVD.  \nCV: PMI located in ___ intercostal space, midclavicular line. Irregular rate, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nPULM: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nABD: BS+. Soft, NTND. No HSM or tenderness.  \nLIMBS: No c/c/e. Reflexes 2+ at the biceps and patella. Toes down bilaterally.  \nRight: Carotid 2+ Radial 2+ DP 2+  \nLeft: Carotid 2+ Radial 2+ DP 2+\n",
+    "input6": "___ 11:15AM BLOOD WBC-5.2 RBC-5.19 Hgb-16.3 Hct-46.4 MCV-90 MCH-31.4 MCHC-35.1* RDW-12.9 Plt ___\n___ 11:15AM BLOOD Glucose-89 UreaN-14 Creat-1.2 Na-140 K-4.1 Cl-102 HCO3-29 AnGap-13\n___ 11:15AM BLOOD ___ PTT-31.6 ___\n___ 11:15AM BLOOD Calcium-9.5 Phos-2.9 Mg-2.1\n___ 07:20PM BLOOD TSH-1.4\n\n\nTTE (Complete) Done ___ at 11:22:25 AM The left atrium and right atrium are normal in cavity size. No left atrial mass/thrombus seen (best excluded by transesophageal echocardiography). Left ventricular wall thicknesses and cavity size are normal. Regional left ventricular wall motion is normal. Overall left ventricular systolic function is low normal (LVEF 50-55%). Tissue Doppler imaging suggests a normal left ventricular filling pressure (PCWP<12mmHg). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic regurgitation. The mitral valve appears structurally normal with trivial mitral regurgitation. There is no mitral valve prolapse. The estimated pulmonary artery systolic pressure is normal. There is no pericardial effusion. \nIMPRESSION: Normal biventricular cavity sizes with preserved regional and low normal global left ventricular systolic function. Normal atrial size.\n"
+}

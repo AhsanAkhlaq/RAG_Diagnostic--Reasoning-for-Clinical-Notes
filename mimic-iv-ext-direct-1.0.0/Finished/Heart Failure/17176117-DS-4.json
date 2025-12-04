@@ -1,0 +1,67 @@
+{
+    "HFmrEF$Intermedia_5": {
+        "LVEF\u226550% is the critiera for HFmrEF$Cause_1": {
+            "LVEF=45%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "BNP is a hormone secreted when the heart is under stress. High levels of BNP are an important indicator of heart failure.$Cause_1": {
+                    "BNP 5418$Input2": {}
+                },
+                "BNP is a hormone secreted when the heart is under stress. High levels of BNP are an important indicator of heart failure.*$Cause_1": {
+                    "proBNP-3547$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Dyspnea is a common symptom of HF$Cause_1": {
+                        "Dyspnea$Input1": {}
+                    },
+                    "Both symptoms are common in people with heart failure, particularly when the heart cannot pump blood effectively, causing fluid to build up in the lungs.$Cause_1": {
+                        "worsening dyspea and orthopnea for approximately 1 week$Input2": {}
+                    },
+                    "People with heart failure often experience volume overload because the heart's reduced ability to pump blood makes it less able to process fluid in the body, leading to fluid accumulation.$Cause_1": {
+                        "grossly volume overloaded$Input2": {}
+                    },
+                    "CVA may lead to heart failure because brain damage may affect the nervous system's control of the heart.\nNSTEMI means damage to the heart muscle, which can directly affect heart function and increase the risk of heart failure.$Cause_1": {
+                        "admitted with CVA and NSTEMI$Input2": {}
+                    },
+                    "Coronary artery disease and coronary artery bypass grafting are both important indicators of heart disease. Postoperative complications such as bleeding may increase the burden on the heart and are associated with heart failure.$Cause_1": {
+                        "CAD s/p CABG c/b mediastinal re-exploration for bleeding$Input3": {}
+                    },
+                    "NSTEMI means that the heart is not getting enough blood, a condition that can lead to heart damage and increase the risk of heart failure.$Cause_1": {
+                        "NSTEMI$Input3": {}
+                    },
+                    "Long-term high blood pressure can increase the workload on the heart, leading to cardiac hypertrophy or dysfunction, which is associated with the development of heart failure$Cause_1": {
+                        "HTN$Input3": {}
+                    },
+                    "This low blood pressure reading may indicate that the heart is not pumping blood well enough, a common sign of heart failure.$Cause_1": {
+                        "BP= 90/60$Input5": {}
+                    },
+                    "A fast heart rate, common in heart failure, in which the heart beats faster to maintain adequate blood flow$Cause_1": {
+                        "HR= 103$Input5": {}
+                    },
+                    "An elevated JVP is common in heart failure and reflects impaired right ventricular function and systemic regurgitation.$Cause_1": {
+                        "Supple with JVP of 11 cm.$Input5": {}
+                    },
+                    "Irregular heartbeats, often suggesting atrial fibrillation, a common arrhythmia in people with heart failure$Cause_1": {
+                        "CARDIAC: irregularly irregular.$Input5": {}
+                    },
+                    "Rales at the lung bases are a sign of pulmonary edema, which is often caused by heart failure and indicates that the heart is not pumping blood well enough, causing fluid to accumulate in the lungs.$Cause_1": {
+                        "crackles in bilateral bases$Input5": {}
+                    },
+                    "2+ pitting edema and venous stasis dermatitis on the thighs are manifestations of systemic fluid retention due to heart failure.$Cause_1": {
+                        "2+ pitting edema to the thighs with stasis \ndermatitis$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea\n",
+    "input2": "Patient originally admitted to  with worsening dyspea and orthopnea for approximately 1 week. Had previously been admitted with CVA and NSTEMI requiring intubation and G tube placement (unclear whether stents placed at that time). Denies fevers, chills, cough, chest pain, nausea, vomiting. Found to have BNP 5418, grossly volume overloaded on exam. Initially received 40mg IV Lasix, but on the morning SBPs, so lisinopril and furosemide were held. He was seen by cardiology (recommended transfer for further workup and management.  \nOn the floor, patient reported stable dyspnea, orthopnea. Denies chest pain, chest pressure, dizziness, focal numbness or weakness.\n",
+    "input3": "+ CAD s/p CABG c/b mediastinal re-exploration for bleeding  \n+ NSTEMI (unclear from records whether he was stented at that time)  \n+ HTN\n+ embolic parietal CVA with dysphagia, requiring G-tube plaement during hospitalization for tube feeds  \n+ afib  \n+ COPD  \n+ chronic anemia  \n+ basal cell carcinoma of scalp\n",
+    "input4": "No premature coronary artery disease\n",
+    "input5": "Admission Physical\n===================\nVS: T=97.4 BP= 90/60 HR= 103 RR= 18 O2 sat= 94%/4L: cachextic man in NAD\nHEENT: PERRL, EOMI. NECK: Supple with JVP of 11 cm.  \nCARDIAC: irregularly irregular.  \nLUNGS: normal work of breathing. crackles in bilateral bases  \nABDOMEN: Soft, NTND. G-tube in place with small amount of \nerythema at borders but no induration or warmth.  \nEXTREMITIES: 2+ pitting edema to the thighs with stasis \ndermatitis  \nNEURO: A and O x 3. speech somewhat slurred. strength and sensation grossly symmetric\n",
+    "input6": "Admission Labs\n==================\n02:16AM BLOOD WBC-5.3 RBC-3.71* Hgb-10.8* Hct-35.2* \nMCV-95 MCH-29.0 MCHC-30.6* RDW-13.8\n02:16AM BLOOD Glucose-96 UreaN-17 Creat-1.1 Na-140 K-4.7 Cl-100 HCO3-35* AnGap-10\n02:16AM BLOOD ALT-11 AST-18 CK(CPK)-66 AlkPhos-140* \nTotBili-0.6\n02:16AM BLOOD CK-MB-4 cTropnT-0.02* proBNP-3547*\n02:16AM BLOOD Albumin-3.3* Calcium-9.0 Phos-3.6 Mg-1.7\n05:01PM BLOOD Lactate-1.7\n\nTTE (Complete) Done ___ \"Conclusions: The left atrium is moderately dilated. Left ventricular wall thickness, cavity size, and global systolic function are normal (LVEF=45%).\n"
+}

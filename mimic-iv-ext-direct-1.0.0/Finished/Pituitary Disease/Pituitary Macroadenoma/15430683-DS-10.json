@@ -1,0 +1,27 @@
+{
+    "Pituitary Macroadenomas$Intermedia_3": {
+        "A clear criteria to diagnose Pituitary Macroadenomas$Cause_1": {
+            "Pituitary adenomas that are 1.7 cm$Input6": {}
+        },
+        "Suspected pituitary disease$Intermedia_2": {
+            "Persistent or severe headaches may require further neurological evaluation, as pituitary adenomas may cause headaches.$Cause_1": {
+                "a terrible posterior Headache and nausea$Input2": {}
+            },
+            "Frontal headaches may be related to increased intracranial pressure caused by a pituitary adenoma, especially if the symptoms are new or tend to get worse.$Cause_1": {
+                "headache was more frontal at that point$Input2": {}
+            },
+            "Long-term visual floaters may be related to retinal problems, but if they are accompanied by other symptoms, it may also be necessary to rule out potential impact of a pituitary tumor on the optic nerve.$Cause_1": {
+                "hasmany years complaint of \"floaters\" and sees an opthomologist yearly$Input2": {}
+            },
+            "Hypertension is a common symptom of many endocrine-related diseases, including pituitary adenomas, because pituitary tumors may affect hormone levels in the body and thus affect blood pressure.$Cause_1": {
+                "Hypertension$Input3": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "This is a right handed woman who was straining to clean her bathroom floor around 11:30pm. She inhaled bleach and had a terrible posterior Headache and nausea. Her headache was more frontal at that point. She has had 2 x emesis. She has no new visual complaints but hasmany years complaint of \"floaters\" and sees an opthomologist yearly. She denies a VF cut. She has no change in smell or taste. She had perimenopausal symptoms dating back and she had a hysterectomy and started taking Estroven. Since she noted an increase in hot flashes and mood lability.\n\ufeff\n",
+    "input3": "Hypertension, hyperlipidemia, Total abdominal hysterectomy and bilateral salpingo-oophorectomy secondary to fibroids, chronic R toe numbness, SBO with exploratory ex lap, MRI abdomen showed liver and pancreatic cyst.\n\ufeff\n",
+    "input4": "Non-contributory\n",
+    "input5": "Physical Exam:\nGen: WD/WN, comfortable, NAD. Glasses\nHEENT: Pupils: 2.0-1.5  EOMs intact\nNeuro: Mental status: Awake and alert, cooperative with exam, normal affect.\nOrientation: Oriented to person, place, and date.\nRecall: objects at 5 minutes.\nLanguage: Speech fluent with good comprehension and repetition.\nNaming intact. No dysarthria or paraphasic errors.\n\ufeff\nCranial Nerves:\nI: Not tested\nII: Pupils equally round and reactive to light, 2 to 1.5\nmm bilaterally. Visual fields are full to confrontation.\nIII, IV, VI: Extraocular movements intact bilaterally without\nnystagmus.\nV, VII: Facial strength and sensation intact and symmetric.\nVIII: Hearing intact to voice.\nIX, X: Palatal elevation symmetrical.\nXI: Sternocleidomastoid and trapezius normal bilaterally.\nXII: Tongue midline without fasciculations.\n\ufeff\nMotor: Normal bulk and tone bilaterally. No abnormal movements, tremors. Strength full power throughout. No pronator drift\n\ufeff\nSensation: Right toe numbness.\nReflexes: B T Br Pa Ac\nRight     ___  2 1\nLeft      ___  2 1\n\ufeff\nToes downgoing bilaterally\n\ufeff\n",
+    "input6": "Pituitary adenomas that are 1.7 cm \n"
+}

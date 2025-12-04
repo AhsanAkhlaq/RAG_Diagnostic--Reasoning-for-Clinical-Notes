@@ -1,0 +1,24 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "AET: 6.5% > 6% is the gold standard for GERD diagnosis$Cause_1": {
+            "Ambulatory reflux monitor: total AET:6.5% on pH-impedance monitoring$Input6": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Chest pain is a typical symptom of GERD.$Cause_1": {
+                "A woman suspected PBC with severe epigastric pain that radiates to her mid-sternal area beginning at 5 AM.$Input2": {}
+            },
+            "Epigastric and substernal chest pain are atypical and typical symptoms of GERD,respectively.$Cause_1": {
+                "epigastric and substernal chest pain$Input1": {}
+            },
+            "Erosions at the GE junction may be an endoscopic finding of GERD but was not graded.$Cause_1": {
+                "Endoscopy showed hiatal hernia and erosions at the GE junction that were shown to be benign on pathology.$Input2": {}
+            }
+        }
+    },
+    "input1": "epigastric and substernal chest pain\n",
+    "input2": "A woman suspected PBC with severe epigastric pain that radiates to her mid-sternal area beginning at 5 AM. She noted gradual onset that would subside over minutes. It did not radiate to her back, and was similar in character to past episodes. However, she felt the pain was much more severe, and did not respond to her usual reflux techniques (drinking water, taking tums, and drinking a lidocaine water mixture). Pain does not worsen or improve with eating, and pt denies dysphagia. She denied SOB, chest pain, palpitations, nausea, vomiting, and diaphoresis. She also denies change in bowel habits, such as melena or BRBPR. Endoscopy showed hiatal hernia and erosions at the GE junction that were shown to be benign on pathology. \nIn the ED, VS were Temp:97.2 HR:56 BP:147/54 O(2)Sat:100 normal. She reported severe pain that did not respond to GI cocktail or morphine 6 mg in total. She reports that it eventually self-resolved. Physical exam was benign (pt refused rectal), and EKG, labs including LFTs, trop x 1 were normal. She also received Zofran 4 mg IV and aspirin 325 mg. \nCurrently on the floor, she reports no pain or other complaints. On ROS, she reports a non-productive cough last night that is \"slightly different\" from her chronic cough and increased urination while at the hospital.\nROS: Denies fever, chills, night sweats, headache, vision changes, rhinorrhea, congestion, sore throat, shortness of breath, chest pain, nausea, vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, or hematuria.\n",
+    "input3": "+Suspected primary biliary cirrhosis based on serologies (antimitochondrial antibody 1:1280, positive M2), but no definitive features of PBC on liver biopsy\n+Arthritis \n+Chronic cholecystitis and cholesterol type cholelithiasis s/p cholecystectomy\n+normal ERCP\n+diverticulosis - colonoscopy\n+left elbow tendonitis \n+s/p right knee arthroscopy\n+h/o cellulitis \n+Fibroids\n+s/p 3 c-sections\n",
+    "input4": "Mother had renal cell carcinoma and irritable bowel syndrome. Father had a myocardial infarction, also had esophageal cancer. Children healthy. Two uncles had heart disease at an earlier age.\n",
+    "input5": "Vitals - T: 98.2 BP: 130/52 HR: 58 RR: 18 02 sat: 100 RA \nGENERAL - sitting comfortably in bed in NAD \nHEENT - NCAT, EOMI, PERRL, OP clear\nNeck - supple, no LAD, no thyroidmegaly or nodules \nCV - RRR, S1 and S2 with no m/r/g, radial pulses 2+\nLungs - CTAB, good aeration, no wheezes/rales/rhonchi \nABD - soft, BS+, NT, ND, no rebounding or guarding, no organomegaly \nRectal - pt refused \nEXT - WWP, no c/c/e \nNEURO - AOx3, facial expressions symmetric, moving all four extremities \nSKIN - no rashes \nPSYCH - normal affect\n",
+    "input6": "141\n4.0 30 0.9 \nCa: 9.3 Mg: 2.1 P: 4.2\nALT: 41 AP: 89 Tbili: 0.7 Alb: 4.0 \nAST: 37 LDH: 203 \nWBC 7.3 HCT 38.3 PLT 211 \nTrop-T < 0.01 (7:30 AM, 1:25, 7\nUA negative \n140\n3.7 26 0.8 \nALT: 25 AP: 77 Tbili: 0.3 \nAST: 29 LDH: 189 \nLip: 71 \nWBC 6.2 HCT 39.7 PLT 198 \nN:64.3 L:26.8 M:5.8 E:1.9 Bas:1.2 \nSTUDIES: \nEGD:\nNormal mucosa in the esophagus, stomach, duodenum\nFundic gland polyp in the stomach\nOtherwise normal EGD to third part of the duodenum \nRecommend follow up with Dr. to evaluate for non acid reflux \nCXR - No acute cardiopulmonary process.\nEKG - upright axis, sinus rhythm, regular rate at ~60 bpm, intervals wnl, no acute ST changes\nAmbulatory reflux monitor: total AET:6.5% on pH-impedance monitoring\n"
+}

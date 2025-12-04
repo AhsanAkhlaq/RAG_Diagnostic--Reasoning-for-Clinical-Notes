@@ -1,0 +1,48 @@
+{
+    "Persistent Atrial Fibrillation$Intermedia_3": {
+        "An increase in the frequency of heart palpitations may indicate an increase in the frequency of atrial fibrillation$Cause_1": {
+            "recurrent atrial fibrillation$Input2": {}
+        },
+        "Severe atrial fibrillation attacks may occur when existing drug treatments fail$Cause_1": {
+            "Propafenone was discontinued as it is no longer effective$Input2": {}
+        },
+        "The patient had a history of two electrical cardioversion treatments, suggesting that atrial fibrillation may recur$Cause_1": {
+            "undergone two CV's$Input2": {}
+        },
+        "Criteria for Persistent Atrial Fibrillation$Cause_1": {
+            "ECG: AF episodes that last more than 7 days.$Input6": {}
+        },
+        "Suspected Atrial Fibrillation$Intermedia_2": {
+            "Shortness of breath is a common symptom of atrial fibrillation$Cause_1": {
+                "short of breath$Input1": {}
+            },
+            "Heart palpitations are a common symptom of atrial fibrillation$Cause_1": {
+                "recurrent palpitations$Input2": {}
+            },
+            "Hypertension is an important risk factor for atrial fibrillation$Cause_1": {
+                "Hypertension$Input3": {}
+            },
+            "Hyperlipidemia is an important risk factor for atrial fibrillation$Cause_1": {
+                "Hyperlipidemia$Input3": {}
+            },
+            "Diabetes linked to atrial fibrillation$Cause_1": {
+                "DM Type 2$Input3": {}
+            },
+            "Mitral valve prolapse can lead to structural changes in the heart and abnormal heart function, thereby increasing the risk of atrial fibrillation.$Cause_1": {
+                "mitral valve prolapse$Input3": {}
+            },
+            "Cardiovascular examination reveals tachycardia and irregular heartbeats, which are also characteristic of atrial fibrillation$Cause_1": {
+                "Tachycardia, irregular$Input5": {}
+            },
+            "These are the classic symptoms of atrial fibrillation$Cause_1": {
+                "BP: 103/64  P: 90s-140s$Input5": {}
+            }
+        }
+    },
+    "input1": "short of breath\n",
+    "input2": "This 56 year old woman. She was started on Propafenone and did well until when she developed recurrent palpitations.  She was found to be in recurrent atrial fibrillation. She has undergone two CV's.  She has since continued to have short episodes of palpitations, with episodes being more frequent. Propafenone was discontinued as it is no longer effective.\n",
+    "input3": "+Hypertension\n+Hyperlipidemia \n+MR, mitral valve prolapse\n+DM Type 2\n+Several TIA's\n+Hx of Cholelithiasis, cholecystitis s/p lap chole\n+Hx of acute pancreatitis\n+Cataracts s/p surgery\n+Breast biopsy\n+s/p right knee replacement\n",
+    "input4": "None\n",
+    "input5": "PE on hospital admission/post PVI:\nBP: 103/64  P: 90s-140s AF  RR: 16 02 sat: 97% NC  Pain: 2 (chest soreness)  \nGeneral: Well appearing, in no apparent distress\nNeuro: Alert and oriented x4. Pleasant and cooperative. PERRLA 3->2. EOMI. No facial droop or arm drift. Speech clear, appropriate and comprehensible. Tongue midline, smile symmetric. Equal and strong strengths in bilat UEs and bilat LEs. \nCV: Tachycardia, irregular, no murmur appreciated \nLungs: Clear anteriorly, non-labored. No use of accessory muscles noted.\nAbdomen: soft, non-tender, + BS x4\nPV: WWP, + pedal pulses, No edema, Palpable Pedal pulses. \nAccess sites: Bilat femoral access sites soft without hematoma, ecchymosis, or ongoing drainage.\n",
+    "input6": "ECG: AF episodes that last more than 7 days. \n"
+}

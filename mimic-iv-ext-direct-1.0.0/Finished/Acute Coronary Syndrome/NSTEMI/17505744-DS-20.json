@@ -1,0 +1,108 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "but tropoin I peaked at 1.09.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "chest pain is a symptom of ACS.$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "\"heaviness\" at the center and L side of her chest, with SOB, and severe diaphoresis, along with radiation to the L shoulder and L flank. is sign ofa acs$Cause_1": {
+                "she described her CP as \"heaviness\" at the center and L side of her chest, with SOB, and severe diaphoresis, along with radiation to the L shoulder and L flank$Input2": {}
+            },
+            "thoracic aortic aneurysm 4.4cm on OSH CT originating just distal to the origin of the L subclavian artery\n is a risk factor$Cause_1": {
+                "thoracic aortic aneurysm 4.4cm on OSH CT originating just distal to the origin of the L subclavian artery$Input3": {}
+            },
+            "AAA- 4.9cm on OSH CT extending superiorly ofof the  is a risk factor$Cause_1": {
+                "AAA- 4.9cm on OSH CT extending superiorly ofof the \nrenal arteies$Input3": {}
+            },
+            "COPD is a risk factor$Cause_1": {
+                "COPD$Input3": {}
+            },
+            "family histoy:brother and sister with MIs. is a risk fact.$Cause_1": {
+                "brother and sister with MIs.$Input4": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                "OSH Echo: EF 55%, no signifiacnt valvular dz, and mild distal septal hypokinesis. Aortic root was normal in size.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "chest pain is a symptom of ACS.$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "\"heaviness\" at the center and L side of her chest, with SOB, and severe diaphoresis, along with radiation to the L shoulder and L flank. is sign ofa acs$Cause_1": {
+                    "she described her CP as \"heaviness\" at the center and L side of her chest, with SOB, and severe diaphoresis, along with radiation to the L shoulder and L flank$Input2": {}
+                },
+                "thoracic aortic aneurysm 4.4cm on OSH CT originating just distal to the origin of the L subclavian artery\n is a risk factor$Cause_1": {
+                    "thoracic aortic aneurysm 4.4cm on OSH CT originating just distal to the origin of the L subclavian artery$Input3": {}
+                },
+                "AAA- 4.9cm on OSH CT extending superiorly ofof the  is a risk factor$Cause_1": {
+                    "AAA- 4.9cm on OSH CT extending superiorly ofof the \nrenal arteies$Input3": {}
+                },
+                "COPD is a risk factor$Cause_1": {
+                    "COPD$Input3": {}
+                },
+                "family histoy:brother and sister with MIs. is a risk fact.$Cause_1": {
+                    "brother and sister with MIs.$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "EKG: NSR, no ST changes, no q waves, TWI in V1,2,3, TW flattening V5,V6$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "chest pain is a symptom of ACS.$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "\"heaviness\" at the center and L side of her chest, with SOB, and severe diaphoresis, along with radiation to the L shoulder and L flank. is sign ofa acs$Cause_1": {
+                    "she described her CP as \"heaviness\" at the center and L side of her chest, with SOB, and severe diaphoresis, along with radiation to the L shoulder and L flank$Input2": {}
+                },
+                "thoracic aortic aneurysm 4.4cm on OSH CT originating just distal to the origin of the L subclavian artery\n is a risk factor$Cause_1": {
+                    "thoracic aortic aneurysm 4.4cm on OSH CT originating just distal to the origin of the L subclavian artery$Input3": {}
+                },
+                "AAA- 4.9cm on OSH CT extending superiorly ofof the  is a risk factor$Cause_1": {
+                    "AAA- 4.9cm on OSH CT extending superiorly ofof the \nrenal arteies$Input3": {}
+                },
+                "COPD is a risk factor$Cause_1": {
+                    "COPD$Input3": {}
+                },
+                "family histoy:brother and sister with MIs. is a risk fact.$Cause_1": {
+                    "brother and sister with MIs.$Input4": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "The heart structure is abnormalwhich is a strongly sign of acs$Cause_1": {
+                    "OSH Echo: EF 55%, no signifiacnt valvular dz, and mild distal septal hypokinesis. Aortic root was normal in size.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "chest pain is a symptom of ACS.$Cause_1": {
+                        "chest pain$Input1": {}
+                    },
+                    "\"heaviness\" at the center and L side of her chest, with SOB, and severe diaphoresis, along with radiation to the L shoulder and L flank. is sign ofa acs$Cause_1": {
+                        "she described her CP as \"heaviness\" at the center and L side of her chest, with SOB, and severe diaphoresis, along with radiation to the L shoulder and L flank$Input2": {}
+                    },
+                    "thoracic aortic aneurysm 4.4cm on OSH CT originating just distal to the origin of the L subclavian artery\n is a risk factor$Cause_1": {
+                        "thoracic aortic aneurysm 4.4cm on OSH CT originating just distal to the origin of the L subclavian artery$Input3": {}
+                    },
+                    "AAA- 4.9cm on OSH CT extending superiorly ofof the  is a risk factor$Cause_1": {
+                        "AAA- 4.9cm on OSH CT extending superiorly ofof the \nrenal arteies$Input3": {}
+                    },
+                    "COPD is a risk factor$Cause_1": {
+                        "COPD$Input3": {}
+                    },
+                    "family histoy:brother and sister with MIs. is a risk fact.$Cause_1": {
+                        "brother and sister with MIs.$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "F with h/o thoracic and abdominal aortic aneurysm with recent NSTEMI medically managed w/o intervention, now presenting with new CP begining today, transferred from OSH ED for possible cardiac cath. With pt's NSTEMI, she described her CP as \"heaviness\" at the center and L side of her chest, with SOB, and severe diaphoresis, along with radiation to the L shoulder and L flank. No EKG changes, but tropoin I peaked at 1.09. Echo on d/c showed EF 55%. Pt was transferred for \ntertiary care/cardiac and vascular eval, but she left AMA after being scared off by the vascular surgeon. Then today she had another episode of CP at 5am. Pt described it as similar in quality, and was brought to the ED. The CP resolved there with NTG sl. The EKG was changed from previous in now having TWI V2/3, flattening V4-6, .5 mm depression v4. She was then transferred from the ED for possible cath.  \n.  \nIn the ED, initial vitals were 97.3, 122/82, 60, 18, 99%2L pt was CP free. Currently she denies any CP, says she is a little SOB but this is chronic.  \n.  \nOn review of systems, she denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. She denies recent fevers, chills or rigors. She denies exertional buttock or calf pain. All of the other review of systems were negative.  \n.  \nCardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope or presyncope\n",
+    "input3": "+ thoracic aortic aneurysm 4.4cm on OSH CT originating just distal to the origin of the L subclavian artery  \n+ AAA- 4.9cm on OSH CT extending superiorly ofof the \nrenal arteies  \n+ COPD \n+ diffuse panlobar  \n+ h/o diverticulitis  \n+ fibromyalgia  \n+ migraine headaches  \n+ recent UTI -GNR >100,000, tx w/ levaquin\n",
+    "input4": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death. Father was a police and was killed in duty. brother and sister with MIs.\n",
+    "input5": "VS: 97.8, 112/73, 66, 20, 98%3L  \nGENERAL: NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \n\n\nNECK: Supple with flat  \nCARDIAC: PMI located in intercostal space, midclavicular line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nLUNGS: No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. bibasilar rales\n",
+    "input6": "Trop-T: <0.01 CK: 98 MB: Notdone  \n140 101 10  \n---------------< 90  \n3.7 29 0.5  \nMCV: 88  \n11.2  \n6.1 >------< 345  \n33.5  \nN:72 Band:0 M:6 E:1 Bas:0  \nEKG: NSR, no ST changes, no q waves, TWI in V1,2,3, TW flattening V5,V6  \n.  \nOSH Echo: EF 55%, no signifiacnt valvular dz, and mild distal septal hypokinesis. Aortic root was normal in size.\n"
+}

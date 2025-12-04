@@ -1,0 +1,36 @@
+{
+    "Hemorrhagic Stroke$Intermedia_3": {
+        "The patient had intracerebral hemorrhage that extended to the ventricles. This is a sign of hemorrhagic stroke$Cause_1": {
+            "a large right basal ganglia bleed with extension into the lateral and fourth ventricles.$Input2": {}
+        },
+        "Changes in the patient's state of consciousness, such as unresponsiveness and confusion, are one of the typical symptoms of stroke$Cause_1": {
+            "patient was found by coworkers to be unresponsive and confused.$Input2": {}
+        },
+        "Massive intraventricular hemorrhage involving multiple ventricles. Such extensive intraventricular hemorrhage often indicates the severity of a hemorrhagic stroke$Cause_1": {
+            "Large amount of intraventricular hemorrhage from the right, left, lateral ventricles as well as down into the fourth ventricle$Input2": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "Twitching of limbs may be a symptom after stroke$Cause_1": {
+                "some shaking of his extremities, was unclear whether this was a seizure or posturing$Input2": {}
+            },
+            "Unresponsiveness is a sign of stroke$Cause_1": {
+                "unresponsive$Input1": {}
+            },
+            "High blood pressure is an important risk factor for stroke$Cause_1": {
+                "BP: 172/109$Input5": {}
+            },
+            "Lack of voluntary movement may indicate brain dysfunction, which is common in stroke patients$Cause_1": {
+                "No spontaneous movements noted.$Input5": {}
+            },
+            "This asymmetrical motor response may indicate damage to part of the brain, a classic sign of stroke.$Cause_1": {
+                "Off of sedation, patient briskly withdraws from noxious in the right upper extremity, right lower extremity, and left lower extremity. Patient extensor postures in the left upper extremity.$Input5": {}
+            }
+        }
+    },
+    "input1": "unresponsive\n",
+    "input2": "He is a gentleman with no known past medical history who presents from an outside hospital with intraparenchymal hemorrhage with intraventricular extension. \nPatient was reportedly at work when patient was found by coworkers to be unresponsive and confused.  No known medical history at this time, no other identifying factors known about patient.  Patient was taken to hosptial where CAT scan of the head without contrast revealed a large right basal ganglia bleed with extension into the lateral and fourth ventricles.  Patient was intubated at the outside hospital.  Patient was witnessed to have some shaking of his extremities, was unclear whether this was a seizure or posturing.  Patient was given Ativan and put on a Versed drip and was transferred.\n\ufeff\nOn arrival here, patient is intubated no seizure activity noted. \n\ufeff\nPatient switched to a propofol drip.  Patient was hypertensive on arrival to the 170s over 100 range.  Afebrile at the time. Large amount of intraventricular hemorrhage from the right, left, lateral ventricles as well as down into the fourth ventricle.  Neurosurgery was also consulted at this time, deferring placement of EVD  currently\n",
+    "input3": "Unknown\n",
+    "input4": "Denies family history of neurological disorders (stroke or bleeding disorders).\n",
+    "input5": "ADMISSION EXAM\nVitals:  T: 99.6 HR: 69 BP: 172/109 RR: 23 on 100% oxygen intubated \nGeneral: Intubated and sedated, propofol held for 3 minutes prior to examination.\nHEENT: NCAT,  no oropharyngeal lesions, neck supple \nPulmonary: CTAB, no crackles or wheezes \nAbdomen: Soft, NT, ND, +BS, no guarding \nExtremities: Warm, no edema\n\ufeff\nNeurologic Examination: \n- Mental status: Intubated, not following commands.\n\ufeff\n- Cranial Nerves: PERRL 2-> 1  reactive bilaterally.  Face appears symmetric.   Corneal reflexes present bilaterally.  Cough and gag present.\n\ufeff\n- SensoriMotor: No spontaneous movements noted.  Off of sedation, patient briskly withdraws from noxious in the right upper extremity, right lower extremity, and left lower extremity. Patient extensor postures in the left upper extremity.  Extensor bilaterally\n\ufeff\n- Reflexes:  \n[Bic] [Tri] [ xx_] [Quad] [Gastroc] \nL  2+    2+     2+      2+       1 \nR  2+    2+     2+      2+       1  \nPlantar response flexor bilaterally\n",
+    "input6": "=====\nLABS\n=====\n10:50PM BLOOD WBC-12.3* RBC-5.47 Hgb-15.0 Hct-45.1 MCV-82 MCH-27.4 MCHC-33.3 RDW-13.2 RDWSD-39.7\n06:15AM BLOOD WBC-10.9* RBC-5.29 Hgb-14.6 Hct-43.6 MCV-82 MCH-27.6 MCHC-33.5 RDW-13.9 RDWSD-40.9\n02:32AM BLOOD WBC-14.5* RBC-5.31 Hgb-14.4 Hct-45.3 MCV-85 MCH-27.1 MCHC-31.8* RDW-14.0 RDWSD-43.7\n06:25AM BLOOD WBC-8.1 RBC-5.17 Hgb-14.4 Hct-45.3 MCV-88 MCH-27.9 MCHC-31.8* RDW-13.9 RDWSD-44.7\n06:15AM BLOOD WBC-7.6 RBC-5.26 Hgb-14.3 Hct-44.2 MCV-84 MCH-27.2 MCHC-32.4 RDW-12.8 RDWSD-38.9\n04:45AM BLOOD WBC-6.2 RBC-5.09 Hgb-14.0 Hct-42.7 MCV-84 \nMCH-27.5 MCHC-32.8 RDW-13.0 RDWSD-39.6\n10:50PM BLOOD Neuts-87.0* Lymphs-6.7* Monos-5.5 Eos-0.2* Baso-0.2 AbsNeut-10.68* AbsLymp-0.82* AbsMono-0.68 AbsEos-0.02* AbsBaso-0.03 02:15AM BLOOD Neuts-82.0* Lymphs-9.5* Monos-7.7 Eos-0.3* Baso-0.2 AbsNeut-9.01* AbsLymp-1.04* AbsMono-0.85* AbsEos-0.03* AbsBaso-0.02\n01:00PM BLOOD Neuts-77.8* Lymphs-11.7* Monos-8.8 Eos-1.0 Baso-0.3 AbsNeut-7.46* AbsLymp-1.12* AbsMono-0.84* AbsEos-0.10 AbsBaso-0.03\nLC/MS/MS\n"
+}

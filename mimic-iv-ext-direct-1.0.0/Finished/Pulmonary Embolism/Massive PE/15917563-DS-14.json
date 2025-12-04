@@ -1,0 +1,53 @@
+{
+    "Massive PE$Intermedia_4": {
+        "Hypotension may indicate right ventricular overload or circulatory collapse due to PE. Indicate develops hemodynamic instability.$Cause_1": {
+            "hypotensive to 76/52$Input2": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "Existing of embolism is the direct proof of PE$Cause_1": {
+                "bilateral pulmonary embolism$Input1": {}
+            },
+            "Elevated D-dimer levels are a common biochemical marker of pulmonary embolism. Values \u200b\u200bgreater than 500 ng/mL usually indicate the presence of thrombosis.$Cause_1": {
+                "D-DIMER-3821$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Dizziness may be due to decreased oxygen saturation or decreased cardiac output caused by PE$Cause_1": {
+                    "lightheaded$Input2": {}
+                },
+                "Sweating may be part of the body's stress response and may be associated with the onset of PE$Cause_1": {
+                    "sweating$Input2": {}
+                },
+                "Chest pain is an important symptom of PE.$Cause_1": {
+                    "chest pain$Input2": {}
+                },
+                "Bilateral PE confirmed by CT scan indicates that multiple pulmonary blood vessels are embolic and the condition is more serious.$Cause_1": {
+                    "CT scan revealed bilateral PEs$Input2": {}
+                },
+                "Heparin is a commonly used drug to prevent further blood clotting and promote the dissolution of existing blood clots.$Cause_1": {
+                    "given fluid bolus as well as heparin bolus$Input2": {}
+                },
+                "Describes the presence of warm edema in the extremities. It is one of the common symptoms of pulmonary embolism.$Cause_1": {
+                    "Warm edema/c/c$Input5": {}
+                },
+                "This may mean that the patient needs additional oxygen support to maintain normal oxygen saturation, which in the case of pulmonary embolism may be due to impaired oxygen exchange in the lungs.$Cause_1": {
+                    "100% 3L NC$Input5": {}
+                },
+                "Blood function disorders may be related to anticoagulation therapy during the diagnosis and treatment of pulmonary embolism$Cause_1": {
+                    "PTT-141.7$Input6": {}
+                },
+                "Echocardiography shows decreased right ventricular free wall motion, tricuspid regurgitation, and right ventricular enlargement, all of which are signs of increased right ventricular pressure, which is common in severe pulmonary embolism.$Cause_1": {
+                    "an echocardiogram was performed, which showed right free wall hypokinesis, 2+ tricuspid regurgitation, and dilation of the right ventricle.$Input6": {}
+                },
+                "Oral contraceptives are a known risk factor for thrombosis$Cause_1": {
+                    "Heme was consulted, and they recommended lifelong discontinuation of her oral contraceptive pills.$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "bilateral pulmonary embolism\n",
+    "input2": "She s/p laparoscopic appendectomy. Patient was discharged the next day in good condition. Pt was ambulating without any difficulty. She reports feeling tired yesterday and this morning feeling lightheaded, sweating, and some chest pain.Pt went where CT scan revealed bilateral PEs.She was hypotensive to 76/52 and she was given fluid bolus as well as heparin bolus, followed by heparin gtt. Pt was then transferred for further management. In the TSICU, her O2 sat is 100 on 3L NC. She does not complain of shortness of breath, lightheadedness, pain or swelling. Denies Fever/Chill/Nausea/Vomiting. Last BM was yesterday and it was normal. Pt reports minimal chest pain.     \n\ufeff\n",
+    "input3": "hypothyroidism, and ADHD\n",
+    "input4": "non-contributory\n",
+    "input5": "Physical Exam:\nVitals: T98.3 P91 BP96/58 RR16 100% 3L NC\nGEN: NAD. Alert, oriented x3. \nHEENT: No scleral icterus. Mucous membranes moist. Neck supple\nCV: RRR, normal S1/S2\nPULM: Unlabored breathing, CTAB\nABD: Soft, nondistended, NTTP, No R/G. No masses. normal active\nbowel sound, port sites are D/C/I\nEXT: Warm edema/c/c\n\nMedications on Admission:\nnone\n",
+    "input6": "___ 05:00PM   PLT COUNT-218\n___ 05:00PM   WBC-14.4* RBC-4.23 HGB-12.6 HCT-37.5 MCV-89 MCH-29.7 MCHC-33.5 RDW-13.4\n___ 05:00PM   HCG-<5\n___ 05:00PM   TSH-3.2\n___ 05:00PM   D-DIMER-3821*\n___ 05:00PM   CALCIUM-8.3* PHOSPHATE-3.3 MAGNESIUM-1.8\n___ 05:00PM   CK-MB-3 cTropnT-0.09* proBNP-275*\n___ 05:00PM   CK(CPK)-46\n___ 05:00PM   estGFR-Using this\n___ 05:00PM   GLUCOSE-83 UREA N-10 CREAT-0.6 SODIUM-139 POTASSIUM-4.4 CHLORIDE-107 TOTAL CO2-25 ANION GAP-11\n___ 05:16PM   PTT-141.7*\n___ 05:23PM   LACTATE-1.3\n___ 06:35PM   HEPARIN-0.64\n\nShe underwent a CTA of her chest.  She was started on a heparin drip and transferred to the ICU.  Cardiology and Vascular Surgery were consulted.  They recommended therapeutic enoxaparin, which was given.  To assess the strain on the heart, an echocardiogram was performed, which showed right free wall hypokinesis, 2+ tricuspid regurgitation, and dilation of the right ventricle.\nHeme was consulted, and they recommended lifelong discontinuation of her oral contraceptive pills.  They also advised a six-month course of warfarin.  She underwent a repeat echo, which showed no change.  \nA repeat CTA/CTV of th echest was performed as well as a CT of the pelvis to evaluate thrombus burden and to evaluated for iliofemoral clot, respectively.  A repeat echo was unchanged.  She was put on a regular diet, which she tolerated well.\nShe was advanced to PO pain meds.  Given her experience, she had anxiety, and so social work was consulted to evaluate for therapy options.  From a cardiovascular standpoint, catheter directed thorombolysis was planned for the next morning, so she was switched over to a heparin drip.  \nCatheter directed thrombolysis was attempted but ultimately aborted before tPa was given secondary to her right pulmonary artery pressures being found to be normal.  A repeat echo showed minimal dilation of the ventricle.  She was transferred to the floor in stable condition.  Cardiology recommended 3 weeks of fondaparinux (7.5 mg SC daily) every day with a transition to warfarin as an outpatient.\nShe was doing well and discharged home in stable condition.\n\ufeff\n"
+}

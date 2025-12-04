@@ -1,0 +1,30 @@
+{
+    "Secondary Adrenal Insufficiency$Intermedia_3": {
+        "This indicates that the adrenal response to ACTH is present but inadequate, suggesting that adrenal insufficiency may be central (i.e., brain-related, such as pituitary or hypothalamic)$Cause_1": {
+            "A stim test find that cortisol increases when ACTH is given.$Input6": {}
+        },
+        "Normal morning cortisol levels in adults should be above 10-20 \u03bcg/dL. Low levels may indicate adrenocortical insufficiency.$Cause_1": {
+            "An AM cortisol returned at 0.5$Input6": {}
+        },
+        "Suspected Adrenal Insufficiency$Intermedia_2": {
+            "Indicates that the patient has experienced similar situations before$Cause_1": {
+                "similar to prior \"adrenal crises\"$Input2": {}
+            },
+            "Hydrocortisone is a commonly used corticosteroid used to treat adrenal insufficiency$Cause_1": {
+                "twice daily hydrocortisone$Input2": {}
+            },
+            "Nausea and palpitations may be manifestations of unmet increased demand for corticosteroids during stress.$Cause_1": {
+                "Endorses nausea$Input2": {}
+            },
+            "Tachycardia may be a sign of a diminished stress response, which is common in adrenocortical insufficiency.$Cause_1": {
+                "tachycardic$Input5": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "She states that her current symptoms are similar to prior \"adrenal crises\" that she's had in the past (reports these episodes occur approx. q month until her last episode in ___.\n\nShe was in her usual state of health and taking her twice daily hydrocortisone as prescribed (took 40mg PO this morning but has not yet taken 20mg ___ dose). This morning she woke up feeling \"unwell\" with mild abdominal and back pain. Endorses nausea but no vomiting. Has occasional palpitations but no CP or SOB. Denies contractions, VB, LOF, dysuria, hematuria, RUQ/epigastric pain, vision changes. \n",
+    "input3": "- Labs O+/Abs-/HBsAg-/HIV-/RPRNR/GBS unk\n- LR NIPT\n- FFS wnl\n- US ___ 93%ile\n",
+    "input4": "None\n",
+    "input5": "___ 18:59BP: 133/81 (92)\n___ ___: 117\n___ 19:00Temp.: 99.0\u00b0F\n___ 19:00Resp.: 20 / min\n___ 19:00MSpO2: 99%\n\n___ 21:40Glucose POC: 110 mg/dl\n___ 07:08Glucose POC: 97 mg/dl\n\nGen uncomfortable appearing\nCV regular rhythm, tachycardic\nPulm nl respiratory effort\nAbd soft, diffusely minimally TTP\nExt no calf tenderness/edema\n\nFHT 130/mod var/+accels/-decels\nToco flat\n\nDischarge:\n___ ___: 103\n___ 06:37BP: 135/76 (91)\n___ ___: 109\n___ 06:41Temp.: 98.6\u00b0F\n\nGen: [x] NAD\nResp: [x] No evidence of respiratory distress\nAbd: [x] soft  [x] non-tender \nExt: [x] no edema [x] non-tender\n",
+    "input6": "___ 09:00PM BLOOD WBC-11.5* RBC-3.05* Hgb-8.4* Hct-26.3* \nMCV-86 MCH-27.5 MCHC-31.9* RDW-17.0* RDWSD-53.0* Plt ___\n___ 09:00PM BLOOD Neuts-85.6* Lymphs-9.7* Monos-3.5* \nEos-0.3* Baso-0.1 Im ___ AbsNeut-9.87* AbsLymp-1.12* \nAbsMono-0.40 AbsEos-0.04 AbsBaso-0.01\n___ 09:00PM BLOOD Glucose-95 UreaN-6 Creat-0.5 Na-138 K-4.1 \nCl-102 HCO3-21* AnGap-15\n___ 09:00PM BLOOD Calcium-8.2* Phos-4.0 Mg-1.7\n___ 08:40PM URINE Color-Yellow Appear-Hazy* Sp ___\n___ 08:40PM URINE Blood-NEG Nitrite-NEG Protein-NEG \nGlucose-NEG Ketone-40* Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG*\n___ 08:40PM URINE RBC-5* WBC-9* Bacteri-FEW* Yeast-NONE \nEpi-5\n\nAn AM cortisol returned at 0.5. A stim test find that cortisol increases when ACTH is given.\n"
+}

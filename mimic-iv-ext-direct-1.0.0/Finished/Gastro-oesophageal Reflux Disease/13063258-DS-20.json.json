@@ -1,0 +1,18 @@
+{
+    "gastro-oesophageal reflux \rdisease$Intermedia_3": {
+        "Esophagitis\uff08grade B\uff09 is the gold standard for the diagnosis of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+            "with recent EGD noting distal esophagitis\uff08grade B\uff09.$Input2": {}
+        },
+        "suspected gastro-oesophageal reflux \rdisease$Intermedia_2": {
+            "Epigastric pain is a atypical symptom of gastro-oesophageal reflux \rdisease\r.$Cause_1": {
+                "epigastric pain$Input1": {}
+            }
+        }
+    },
+    "input1": "epigastric pain\n",
+    "input2": "Ms is with aepigastric pain and globus, with recent EGD noting distal esophagitis\uff08grade B\uff09. Her sx started 8 months ago when she was taking NSAIDS for bladder pain. Her pH testing and esoph manometry were wnl but were done while pt was on PPIs. She presents for eval for possible linx vs. Current symptoms also include diarrhea, nausea, heartburn, 20# unintentional wt loss and a small volume of hematochezia.\n",
+    "input3": "+Pituitary adenoma -- prolactinoma\n+History of thyroid nodules -- benign on prior FNA\n+Interstitial cystitis with bladder stimulator -- cannot get MRI\n+Recent GIB (melena) due to antral ulcerations from NSAID use Irritable bowel syndrome and bladder incontinence\n+Anxiety\n+Insomnia\n",
+    "input4": "Mother dying of stage IV colon cancer, just chose to stop \ntreatment for cancer\nFather with CAD\nGrandmother with thyroid CA and rheumatoid arthritis\n",
+    "input5": "BP: 118/61. Heart Rate: 81. Weight: 143.4. Height: 63.5. BMI:\n25.0. Temperature: 98.8. Resp. Rate: 16. Pain Score: 0. O2\nSaturation%: 99.\n\nGENERAL        \n[x] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:\n\nHEENT          \n[x] NC/AT   [x] EOMI   [x] PERRL/A   [x] Anicteric\n[x] OP/NP mucosa normal     [x] Tongue midline\n[x] Palate symmetric  [x] Neck supple/NT/without mass\n[x] Trachea midline [] Thyroid nl size/contour\n[ x] Abnormal findings: right thyroid nodule\n\nRESPIRATORY    \n[x] CTA/P     [x] Excursion normal     [x] No fremitus\n[x] No egophony    [x] No spine/CVAT\n[ ] Abnormal findings:\n\nCARDIOVASCULAR \n[x] RRR    [x] No m/r/g    [x] No JVD   [x] PMI nl  [x] No edema\n[x] Peripheral pulses nl    [x] No abd/carotid bruit\n[ ] Abnormal findings:\n\nGI             \n[x] Soft    [] NT   [x] ND  [x] No mass/HSM   [x] No hernia\n[x ] Abnormal findings: tender LUQ\n\nGU             [x] Deferred  \n[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE\n[ ] Abnormal findings:\n\nNEURO          \n[x] Strength intact/symmetric    [x] Sensation intact/ symmetric\n[x] Reflexes nl     [x] No facial asymmetry [x] Cognition intact\n[x] Cranial nerves intact   [ ] Abnormal findings:\n\nMS     \n\n        \n[x] No clubbing   [x] No cyanosis   [x] No edema   [x] Gait nl\n[x] No tenderness  [x] Tone/align/ROM nl   [x] Palpation nl\n[x] Nails nl   [ ] Abnormal findings:\n\nLYMPH NODES   \n[x] Cervical nl      [x] Supraclavicular nl     [x] Axillary nl\n[x] Inguinal nl   [ ] Abnormal findings:\n\nSKIN           \n[x] No rashes/lesions/ulcers\n[x] No induration/nodules/tightening     [ ] Abnormal findings:\n\nPSYCHIATRIC    \n[x] Nl judgment/insight    [x] Nl memory   [x] Nl mood/affect\n[ ] Abnormal findings:\n",
+    "input6": "Ba swallow :\nPatent gastroesophageal junction without evidence of leak\n"
+}

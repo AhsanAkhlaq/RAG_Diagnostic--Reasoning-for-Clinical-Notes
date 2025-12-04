@@ -1,0 +1,39 @@
+{
+    "Alzheimer$Intermedia_3": {
+        "The hippocampus and frontal lobes are brain regions closely related to memory and cognitive functions. Atrophy in these areas is typical of Alzheimer's disease.$Cause_1": {
+            "Significant atrophy of hippocampus and frontal lobes$Input6": {}
+        },
+        "Suspected Alzheimer$Intermedia_2": {
+            "Altered mental status may indicate an impact on the brain's cognitive functions, which is typical of Alzheimer's disease.$Cause_1": {
+                "Altered mental status$Input1": {}
+            },
+            "Dementia is one of the main symptoms of Alzheimer's disease and typically manifests as memory loss, impaired thinking and daily functioning.$Cause_1": {
+                "PMHx dementia$Input2": {}
+            },
+            "Malaise and acute disturbances of consciousness can be symptoms caused by neurodegenerative changes in the course of Alzheimer's disease, and these symptoms reflect an overall decline in brain function.$Cause_1": {
+                "presents with lethargy and AMS x several days$Input2": {}
+            },
+            "Decreased activity may be due to cognitive decline and reduced physical fitness, which are common in people with Alzheimer's disease$Cause_1": {
+                "noted to not be as active as usual$Input2": {}
+            },
+            "Decreased speech can be a sign of cognitive decline and impaired language abilities, which are classic symptoms of Alzheimer's disease.$Cause_1": {
+                "less verbal$Input2": {}
+            },
+            "Reluctance to engage in activities may be due to reduced motivation or reduced physical ability, which is more common in people with Alzheimer's disease.$Cause_1": {
+                "less willing to participate in activities including walking.$Input2": {}
+            },
+            "Long-term high blood pressure has the potential to increase the risk of Alzheimer's disease because it can lead to changes in brain structure and function.$Cause_1": {
+                "hypertension$Input3": {}
+            },
+            "Alzheimer's disease may result in impaired speech, ranging from reduced speech to complete inability to speak.$Cause_1": {
+                "Non verbal, awake$Input5": {}
+            }
+        }
+    },
+    "input1": "Altered mental status\n",
+    "input2": "The patient is an 77 year old man with PMHx dementia, HTN, HLD who presents with lethargy and AMS x several days. The patient resides in an assisted living facility where he was noted to not be as active as usual. He has been less verbal and less willing to participate in activities including walking.\n",
+    "input3": "chronic low back pain\nhypertension  \nhyperlipidemia  \nreflux  \nanemia  \nlower spinal DJD  \ndiverticulitis  \nsinusitis  \n\n",
+    "input4": "Unable to be obtained\n",
+    "input5": "EXAM ON ADMISSION: \nVS: 96.6 187/96 68 20 99%3L NC BS: 106  \nGA: Non verbal, awake  \nHEENT: PERRL. MMM. no LAD. no JVD. neck supple.  \nCards: RRR, +S1, S2, no m/r/g  \nPulm: CTAB on anterior exam  \nAbd: soft, NT, +BS. no g/rt. neg HSM. neg ___ sign.  \nExtremities: wwp, no edema. 2+ pulses.  \nNeuro: Facial movements symmetric, is able to move pupils symmetrically. moves all 4 extremities spontaneusly, winces to painful stimuli all 4 extremities, increased tone all 4 extremities but able to passively move. \n",
+    "input6": "___ 06:25AM BLOOD WBC-7.5 RBC-3.40* Hgb-11.4* Hct-31.4* MCV-93 MCH-33.5* MCHC-36.2* RDW-13.8 Plt ___\n___ 01:30PM BLOOD Neuts-81.0* Lymphs-13.5* Monos-4.6 Eos-0.5 Baso-0.3\n___ 01:30PM BLOOD ___ PTT-27.1 ___\n___ 06:25AM BLOOD Glucose-80 UreaN-15 Creat-0.8 Na-140 K-4.2 Cl-106 HCO3-25 AnGap-13\n___ 06:35AM BLOOD CK-MB-6 cTropnT-<0.01\n___ 01:30PM BLOOD Albumin-3.9 Calcium-9.5 Phos-3.5 Mg-1.5*\n___ 04:00PM URINE Blood-NEG Nitrite-NEG Protein-NEG Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0Leuks-NEG\n___ 11:04AM URINE RBC-82* WBC-7* Bacteri-FEW Yeast-NONE Epi-0\n\nEKG ___: Sinus rhythm. Non-specific ST-T wave changes. No previous tracing available for comparison.  \n\nCHEST X-RAY \nFINDINGS: Single AP upright portable view of the chest was obtained. The left costophrenic angle is not fully included on the image. The right costophrenic angle is slightly blunted which may be due to trace pleural effusion. No focal consolidation or pneumothorax is seen. The aorta is unfolded. The ascending aorta appears slightly prominent which could be further assessed on non-urgent chest CTA unless the patient has acute aortic symptoms. The cardiac silhouette is not enlarged. There is no pulmonary edema. \n\nCT HEAD W/O CONTRAST\nIMPRESSION: No acute intracranial process. If concern for stroke persists, further evaluation with MRI is recommended if patient is able. \n\nMRI\nSignificant atrophy of hippocampus and frontal lobes\n"
+}

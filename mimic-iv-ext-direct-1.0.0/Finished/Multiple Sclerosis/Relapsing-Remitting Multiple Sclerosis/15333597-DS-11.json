@@ -1,0 +1,29 @@
+{
+    "Relapsing-Remitting Multiple Sclerosis$Intermedia_4": {
+        "Temporary remissions and return to a stable state, as well as recurrent episodes of symptoms, are common clinical manifestations of multiple sclerosis. Periodic fluctuations in symptoms and periods of stability are one of the characteristics of the disease.$Cause_1": {
+            "In the ED she said her symptoms had subsided and her condition had returned to a stable state. She said similar situations had happened before.$Input2": {}
+        },
+        "Multiple Sclerosis$Intermedia_3": {
+            "This describes multiple bilateral round and oval T2/FLAIR hyperintense white matter lesions located in the subcortical and periventricular white matter as well as in the posterior fossa and brainstem, which are most likely manifestations of a demyelinating process.$Cause_1": {
+                "Multiple T2/STIR hyperintense lesions within the cervical and thoracic spinal cord, compatible with a demyelinating process.$Input6": {}
+            },
+            "Suspected Multiple Sclerosis$Intermedia_2": {
+                "One of the common symptoms of central nervous system damage in multiple sclerosis may be due to damage to the myelin sheath of nerve fibers in the spinal cord or brain.$Cause_1": {
+                    "bilateral LL numbness$Input2": {}
+                },
+                "This symptom reflects paresthesia, a common sensory nerve dysfunction in multiple sclerosis$Cause_1": {
+                    "sensation is heavy or numb feeling$Input2": {}
+                },
+                "This could be the \"banding feeling\" seen in multiple sclerosis, which is often associated with spinal cord damage$Cause_1": {
+                    "thighs upto belly button and is nearly constant$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "This is a Right handed female with no significant past medical history presented to Ed for evaluation of bilateral LL numbness. It started 2 weeks ago and started at the toes. The sensation is heavy or numb feeling (not pain without any objective loss of sensations) It started at the same time. It gradually creeped up upto both knees circumferentially in 10 days. Initially she noticed this sensation more in the evenings when she was relxing at home. However over last days its progressed over to involve her thighs upto belly button and is nearly constant. She has developed tight band like sensation around belly button area especially on the left side which is intermittent. she has noticed tight feeling in hamstrings and calfs on both sides also over last few days. No weakness or difficluty walking. No bladder bowel issues. No trauma to spine, no similar complains in the past. she had H1n1 vaccine, no recent travels or sick contacts. In the ED she said her symptoms had subsided and her condition had returned to a stable state. She said similar situations had happened before.\n\n\ufeff\n\ufeff\n",
+    "input3": "Bilateral Tubal Ligation\n",
+    "input4": "Father with diabetes\nMother with HTN\nGrandparent with MI\n",
+    "input5": "Physical Exam:\nV/S  Temp 98.2  BP 120/80  HR 80  RR 16  \nGen: NAD, very pleasant\nHEENT: EOMI, PERRLA, NC, AT, MMM, oropharynx clear, nares clear\ngood dentition\nNeck: supple, nl JVP\n: +S1, +S2, no M/R/G, RRR\nLUNGS: CTAB, no wheezes, no crackles, no ronchi\nABD: +BS, soft, non-tender, non-distended, no hepatosplenomegaly\nEXT: +2 distal pedal/radial pulses, very mild bipedal edema and\ndermographism which per husband is new (?)\n\ufeff\n: \nNeurologic examination: \nMental status: Awake and alert, cooperative with exam, normal \naffect.  Oriented to person, place, and date.  Attentive, says backwards.  Speech is fluent with normal comprehension and repetition; naming intact. reading writing intact.No dysarthria. No right left confusion. No evidence of apraxia or neglect. memory immediate and 5 mins\n \nCranial Nerves:  \nII: Pupils equally round and reactive to light, 4 to 2 mm bilaterally. Visual fields are full to confrontation, normal fundus \nIII, IV & VI: Normal eye movements, no nystagmus\nV: Sensation intact to LT and PP.  \nVII: Facial movement symmetric.  \nVIII: Hearing intact to finger rub bilaterally.  \nX: Palate elevation symmetrical.  \nXI: Sternocleidomastoid and trapezius normal bilaterally. \nXII: Tongue midline, movements intact\n \nMotor: \nNormal bulk and tone bilaterally. \nDel Tri Bi  WE FE FF  IP  H  Q  DF PF \nR  5  5  \nL  5  5   \n \nSensation: Intact to light touch, pinprick, vibration, and cold throughout in all extremities, truck front and back including vibration over spinous processes.\n \nReflexes: \n2 plus symmetric throughout.  Toes downgoing bilaterally \n \nCoordination: FTN, FTF normal. RAM normal on both sides, HKS normal. \n \nGait: Normal including tandem\n\ufeff\nRhomberg sign - Negative\n\nLP \nTube 1: 6 RBCs 19 WBCs \nTube 4: 0 RBCs 16 WBCs\nProtein: 31 Glucose: 69\nMS profile pending\n\ufeff\n",
+    "input6": "Admission Labs:\n\ufeff\n139 | 104 | 13\n--------------< 88\n4.3 | 27  | 0.6\n\ufeff\n12.6\n11.2 >----< 254\n36.7\n\ufeff\nImaging:\nMRI C and T spine\nFINDINGS:\n \nCERVICAL: There is multilevel spondylosis in this patient with multilevel short pedicles resulting in uniform narrowing of the cervical spine canal. There is multilevel cord deformity. There is a focal region of enhancing signal abnormality within the right lateral aspect of the cord at C5-6, similar to lesions in the thoracic cord as detailed below.  Linear region of T2 hyperintense signal within the upper cervical spine (15:33) is likely artifactual.\n\nMultiple T2/STIR hyperintense lesions within the cervical and thoracic spinal cord, compatible with a demyelinating process.\n\n"
+}

@@ -1,0 +1,32 @@
+{
+    "STEMI-ACS$Intermedia_4": {
+        "The electrocardiogram shows ST segment elevation in leads II, III, and aVF and ST segment depression in leads V1-2, which are key electrocardiogram manifestations for diagnosing STEMI.$Cause_1": {
+            "EKG showed ST elevations in leads II, III, aVF, ST depressions in leads V1-2.$Input2": {}
+        },
+        "Cardiac troponin T is an important biomarker of myocardial injury. Although this value is within the normal range, any sign of myocardial injury needs attention, as myocardial infarction can cause this indicator to increase.$Cause_1": {
+            "cTropnT-0.10$Input6": {}
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "Increased pain, sweating, and dyspnea are common symptoms in STEMI, indicating that the heart is overloaded and heart function may be declining sharply.$Cause_1": {
+                "worsening pain, diaphoresis, dyspnea$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is the symptom of ACS$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "Sharp pain behind the sternum that radiates into the arms is a classic symptom of angina or myocardial infarction, reflecting ischemia in the heart area.$Cause_1": {
+                    "developed stabbing retrosternal chest pain radiating to the arm$Input2": {}
+                },
+                "High blood pressure is a major risk factor for heart disease, especially acute coronary syndrome$Cause_1": {
+                    "Hypertension$Input3": {}
+                }
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "He is a year old man w now s/p DES to the left circumflex.  \nPatient is generally healthy and active with frequent exercise. Only medical comorbidity to this point is hypertension. He was exercising in the gym (weight lifting and running) around 7pm, and near the end of the work-out developed stabbing retrosternal chest pain radiating to the arm. He returned home, and with rest and a shower felt a little improvement in his chest pain. He went to sleep still having chest pain, but around 1130 woke with worsening pain, diaphoresis, dyspnea, and decided to come to the ED.  \nIn the ED, initial vitals were: T 97.9, HR 89, BP 167/90, RR 18, SPO2 100% on RA.  \nEKG showed ST elevations in leads II, III, aVF, ST depressions in leads V1-2.  \n\n",
+    "input3": "+ Hypertension  \n+ Appendectomy\n",
+    "input4": "father with hypertension\n",
+    "input5": "VS: T98, BP 121/73, HR 62, RR 18, O2 96% on RA   \nTele: no alarms  \nGeneral: Alert, oriented, no acute distress  \nHEENT: Sclerae anicteric\nNeck: Supple \nCV: RRR, nl S1 S2, no m/r/g \nLungs: CTA b/l, no wheezes, rales, rhonchi  \nAbdomen: Soft, non-tender, non-distended\nGU: No foley  \nExt: WWP, DP 2+ bilaterally  \nNeuro: CNII-XII intact\n",
+    "input6": "admissions labs:\n05:46AM   GLUCOSE-93 UREA N-14 CREAT-0.9 SODIUM-138 POTASSIUM-4.1 CHLORIDE-104 TOTAL CO2-20* ANION GAP-18\n05:46AM   CALCIUM-9.1 PHOSPHATE-3.6 MAGNESIUM-2.7* CHOLEST-173\n05:46AM   %HbA1c-5.6 eAG-114\n05:46AM   TRIGLYCER-126 HDL CHOL-36 CHOL/HDL-4.8 LDL(CALC)-112\n05:46AM   WBC-5.8 RBC-5.28 HGB-15.9 HCT-46.9 MCV-89 MCH-30.1 MCHC-33.9 RDW-12.4 RDWSD-40.7\n05:46AM   PLT COUNT-285\n01:39AM   TYPE-ART PH-7.35 INTUBATED-NOT INTUBA\n01:39AM   GLUCOSE-104 NA+-131* K+-3.5 CL--97 TCO2-24\n01:39AM   freeCa-1.13\n12:45AM   GLUCOSE-117* UREA N-15 CREAT-1.0 SODIUM-138 POTASSIUM-3.9 CHLORIDE-98 TOTAL CO2-26 ANION GAP-18\n12:45AM   estGFR-Using this\n12:45AM   cTropnT-0.10*\n12:45AM   WBC-7.7# RBC-5.50 HGB-16.5 HCT-49.0 MCV-89 MCH-30.0 MCHC-33.7 RDW-12.4 RDWSD-40.6\n12:45AM   NEUTS-23.2* LYMPHS-60.9* MONOS-10.5 EOS-3.5 \nBASOS-1.8* IM AbsNeut-1.80 AbsLymp-4.71* AbsMono-0.81* \nAbsEos-0.27 AbsBaso-0.14*\n___ 12:45AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL \nPOIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL \nPOLYCHROM-NORMAL\n___ 12:45AM   PLT COUNT-296\n"
+}

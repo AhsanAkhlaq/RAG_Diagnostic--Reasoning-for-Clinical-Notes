@@ -1,0 +1,32 @@
+{
+    "chronic non-atrophic gastritis$Intermedia_4": {
+        "H pylori infection is one of the common causes of chronic gastritis. Antibiotic treatment may cause changes in the gastric mucosa, thereby increasing the risk of chronic gastritis.$Cause_1": {
+            "H pylori which was treated with antibiotics.$Input2": {}
+        },
+        "EGD revealed ulcers and H pylori infection confirmed by biopsy, indicating that the patient had significant gastric mucosal damage, which is a typical manifestation of chronic gastritis.$Cause_1": {
+            "EGD which showed ulceration (as well as biopsy showing H pylori)$Input2": {}
+        },
+        "chronic gastritis$Intermedia_3": {
+            "The patient's abdominal symptoms (located in the upper abdomen and aggravated by food), often associated with gastritis, particularly those described as \"constricting\" and \"grasping\" sensations, may indicate a gastrointestinal disorder.$Cause_1": {
+                "abdominal ___ \nreturned.  Her ___ is epigastric, worse with food, described as \"contractions\" and \"gripping.\"$Input2": {}
+            },
+            "Persistent abdominal pain that persists even after eating may indicate a chronic condition or other unresolved stomach problem.$Cause_1": {
+                "relentless even well after eating.$Input2": {}
+            },
+            "suspected gastritis$Intermedia_2": {
+                "Significant weight loss may be the result of poor nutrient absorption or loss of appetite caused by chronic gastritis.$Cause_1": {
+                    "lost 40 pounds$Input2": {}
+                },
+                "One of the common symptoms of chronic gastritis is upper abdominal discomfort or tenderness.$Cause_1": {
+                    "minimal epigastric tenderness$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "Her mother ultimately passed away ___.  She was found \nto have H pylori which was treated with antibiotics.  She \nunderwent EGD which showed ulceration (as well as biopsy showing H pylori).  She was started on Pantoprazole and Kerafate.  She actually improved at that time, and felt well until about one month ago.\n\nOne month ago she was hospitalized for bronchitis, and treated with steroid burst.  Around this time her abdominal ___ \nreturned.  Her ___ is epigastric, worse with food, described as \"contractions\" and \"gripping.\"  It is associated with both vomiting and diarrhea that occur \"at the same time.\"  For most of this time period, the ___ and symptoms would occur with food, then go away.  For the last ___ days they are relentless even well after eating.\n\nShe tells me she has lost 40 pounds in last year, 15 pounds in last month.  Per OMR Sheets, she weighs 168 pounds today, weighed 172 pounds in ___, and weighed 190 pounds in \n___.\n\nShe has gone to the ___ 3 times in the last month, and treated with opioids, anti-emetics, and IV fluids (generally 3 liters each time).  CT scan and US reportedly negative.\n\nShe presented to clinic today for follow up with her PCP. Her PCP was concerned about her ability to tolerate PO, as well as positive orthostatics, and sent her into the emergency \ndepartment to have a further evaluation, requesting GI consult and inpatient endoscopy.\n\nOf note, she was planned to have a colonoscopy in ___ of \nthis year, which the patient cancelled due to family issues.\n",
+    "input3": "- Depression\n- Fibromyalgia\n- Asthma (well controlled; on no medications)  \n- s/p repair right hip labrum ___  \n- s/p sinus surgery ___  \n- s/p right breast lumpectomy - benign  \n- s/p tonsilectomy age ___\n",
+    "input4": "Mother - age ___ stroke age ___ in basal ganglia with dementia and otherwise with migraines.  \nMaternal grandfather with a stroke at age ___.\n",
+    "input5": "Vitals:  98.2, 135/89, HR 60, RR 16, 98% RA \nGeneral: Alert, oriented, no acute distress  \nHEENT: Sclerae anicteric, MMM, oropharynx clear  \nNeck: supple, JVP not elevated, no LAD  \nLungs: CTAB no wheezes, rales, rhonchi  \nCV: RRR, Nl S1, S2, No MRG  \nAbdomen: soft, nondistended, minimal epigastric tenderness, \nbowel sounds present, no rebound tenderness or guarding, no \norganomegaly  \nGU: no foley  \nExt: warm, well perfused, 2+ pulses, no clubbing, cyanosis or \nedema\nNeuro: CN2-12 intact, no focal deficits\n",
+    "input6": "___ 11:30AM BLOOD WBC-3.8* RBC-3.93 Hgb-11.2 Hct-35.8 \nMCV-91 MCH-28.5 MCHC-31.3* RDW-14.8 RDWSD-49.9* Plt ___\n___ 11:30AM BLOOD Neuts-47.6 ___ Monos-11.6 Eos-2.9 \nBaso-0.8 Im ___ AbsNeut-1.81 AbsLymp-1.40 AbsMono-0.44 \nAbsEos-0.11 AbsBaso-0.03\n___ 11:30AM BLOOD Glucose-92 UreaN-18 Creat-0.6 Na-140 \nK-4.0 Cl-102 HCO3-24 AnGap-18\n___ 11:30AM BLOOD ALT-9 AST-11 AlkPhos-78 TotBili-0.2\n___ 11:30AM BLOOD Lipase-34\n___ 11:30AM BLOOD cTropnT-<0.01\n___ 11:30AM BLOOD Albumin-4.4\n___ 11:50AM BLOOD Lactate-1.1\n___ 01:00PM URINE Color-Straw Appear-Clear Sp ___\n___ 01:00PM URINE Blood-NEG Nitrite-NEG Protein-NEG \nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG\n___ 01:00PM URINE UCG-NEGATIVE\n"
+}

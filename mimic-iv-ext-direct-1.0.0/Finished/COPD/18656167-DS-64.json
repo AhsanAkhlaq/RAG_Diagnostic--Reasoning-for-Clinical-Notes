@@ -1,0 +1,44 @@
+{
+    "Severe COPD$Intermedia_4": {
+        "30% \u2264 FEV1 < 50% confirm Severe COPD$Cause_1": {
+            "FEV1 45%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "FEV1/FVC < 0.70 confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC = 0.43.$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "dyspnea is a common symptom of COPD$Cause_1": {
+                    "dyspnea$Input1": {}
+                },
+                "Nonproductive cough is one of the common symptoms of COPD.$Cause_1": {
+                    "non-productive cough$Input2": {}
+                },
+                "Pleuritic chest pain may be caused by inflammation or infection of the lungs and is common in people with COPD.$Cause_1": {
+                    "pleuritic chest pain$Input2": {}
+                },
+                "Fever may be a sign of a lung infection or an acute exacerbation of COPD.$Cause_1": {
+                    "fevers$Input2": {}
+                },
+                "Past COPD exacerbations can suggest that current symptoms may be related to COPD$Cause_1": {
+                    "N/V are similar to previous COPD exacerbations$Input2": {}
+                },
+                "Lung pain when taking a deep breath may be associated with COPD, especially during an acute exacerbation.$Cause_1": {
+                    "pain in his lungs when he takes a deep breath.$Input2": {}
+                },
+                "HIV is a virus that affects the immune system and may be involved in the pathogenesis of COPD, as HIV-infected individuals have a weakened immune system and are more susceptible to lung infections and chronic respiratory diseases.$Cause_1": {
+                    "HIV$Input3": {}
+                },
+                "PCP is an opportunistic infection that can seriously affect lung function and may lead to chronic respiratory problems such as COPD.$Cause_1": {
+                    "PCP$Input3": {}
+                }
+            }
+        }
+    },
+    "input1": "dyspnea\n",
+    "input2": "Pt reports sx began 3 days ago  and have been getting progressively worse. Also with non-productive cough, pleuritic chest pain, fevers (Tm yesterday), and mild nausea with some vomiting. These sx, including N/V are similar to previous COPD exacerbations. Denies sick contacts, medication changes or abdominal pain.In ED CXR without evidence of PNA. Pt given duonebs x3. Steroids were not given due to history of steroid induced psychosis. Also given percocet, azithromycin and zofran.\n\nOn arrival to the floor pt reports pain in his lungs when he takes a deep breath.\n\nROS: +as above, otherwise reviewed and negative\n",
+    "input3": "+ HIV\n+ OIs:\n+ PCP\n+ Thrush\n+ MSSA abscess/cellulitis- multiple\n+ Otitis Externa\n+ Polysubstance abuse\n+ Chronic cervical polyradiculopathy\n+ Generalized axonal polyneuropathy\n+ Spinal Stenosis\n+ DJD\n+ Asthma\n+ BPH\n+ Epididymorchitis\n+ Varicoceles\n+ Cataract\n+ Depression\n+ Nephrolithiasis s/p cystoscopy\n+ Celiac artery stenosis \n+ s/p L carpal tunnel release\n",
+    "input4": "- Father: brain cancer  \n- Mother: lung cancer  \n- Brother: diabetes type 2  \n- Brother: died of drug overdose\n",
+    "input5": "None\n",
+    "input6": "04:07PM   GLUCOSE-94 UREA N-12 CREAT-0.8 SODIUM-139 POTASSIUM-4.7 CHLORIDE-104 TOTAL CO2-27 ANION GAP-13\n04:11PM   LACTATE-1.4\n04:07PM   cTropnT-<0.01\n04:07PM   WBC-5.9 RBC-3.97* HGB-14.7 HCT-46.0 MCV-116* \nMCH-37.0* MCHC-31.9 RDW-14.5\n04:07PM   NEUTS-58.3 MONOS-8.7 EOS-1.1 BASOS-1.0\n04:07PM   PLT COUNT-180\n\nCXR IMPRESSION: No acute cardiopulmonary abnormality. Near \ncomplete resolution of previously seen bibasilar pneumonia with only trace opacity seen, likely chronic sequela.\n\nPost-bronchodilator FEV1/FVC = 0.43.\nFEV1 45%\n"
+}

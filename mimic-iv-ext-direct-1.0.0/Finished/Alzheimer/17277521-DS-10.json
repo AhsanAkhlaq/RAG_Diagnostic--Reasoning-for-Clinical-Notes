@@ -1,0 +1,42 @@
+{
+    "Alzheimer$Intermedia_3": {
+        "Amyloid deposition is one of the typical biomarkers of Alzheimer's disease, especially in the frontal and temporal lobes of the brain, which is an important basis for the diagnosis of Alzheimer's disease.$Cause_1": {
+            "Amyloid deposition was detected in areas of the frontal and temporal lobes of the brain$Input6": {}
+        },
+        "Suspected Alzheimer$Intermedia_2": {
+            "Alzheimer's disease is the most common cause of dementia$Cause_1": {
+                "Dementia$Input1": {}
+            },
+            "Aggressive behavior can be observed in many patients with dementia, especially those with Alzheimer's disease.$Cause_1": {
+                "aggresive behavior$Input1": {}
+            },
+            "Aggressive behavior may be associated with behavioral and psychological symptoms in people with Alzheimer's disease, often as a result of the patient's frustration or inability to appropriately express their needs.$Cause_1": {
+                "two recent ER visits for aggressive behavior$Input2": {}
+            },
+            "Hoarding behavior and difficulty directing may be behavioral problems in the late stages of Alzheimer's disease, suggesting that patients may have signs of further cognitive decline.$Cause_1": {
+                "Noted hoarding behaviors, and difficulty with redirection in recent months.$Input2": {}
+            },
+            "The use of antipsychotics such as risperidone is common to manage psychiatric symptoms in people with Alzheimer's disease$Cause_1": {
+                "Outpatient psychiatrist risperidone$Input2": {}
+            },
+            "The patient appeared calm between outbursts and had no motor system (MS) changes that would support delirium, suggesting that these behaviors may be chronic and Alzheimer's disease-related psychobehavioral symptoms.$Cause_1": {
+                "Calm between outbursts, and no MS changes to support delirium.$Input2": {}
+            },
+            "Sudden outbursts of aggressive behavior without apparent provocation may be due to disordered emotional control caused by the disorder.$Cause_1": {
+                "thrown silverware at people in the recent past, and has pointed knives at staff before$Input2": {}
+            },
+            "Long-term hypertension may lead to changes in brain structure and function, which are indirectly related to cognitive decline.$Cause_1": {
+                "HTN$Input3": {}
+            },
+            "One of the common symptoms of Alzheimer's disease patients is the deterioration of memory and cognitive function, especially the impairment of the sense of time and spatial orientation.$Cause_1": {
+                "Alert and interactive, oriented to person, birthday, not date, not place. Does not know why he is here.$Input5": {}
+            }
+        }
+    },
+    "input1": "Dementia with aggresive behavior\n",
+    "input2": "Man with CAD, prostate cancer, meningioma, and gastritis, and two recent ER visits for aggressive behavior, sent from his nursing facility for safety evaluation after striking another resident in the face at the facility. \n\nThis patient has been living in the Memory Unit about the past year. Seen in our ED on for similar presentation. On his last visit, after one day in ED observation was willing to take the patient back if under good behavioral control, which he was felt to be. \n\nHe now represents for similar aggressive behavior where he reportedly repeatedly punched another (different) rehab resident and threw juice on him, per rehab nursing report. Has thrown silverware at people in the recent past, and has pointed knives at staff before. There has been no known provocation for these outbursts. Unclear if there were any racial slurs exchanged, both were speaking residents. Noted hoarding behaviors, and difficulty with redirection in recent months. \n\nOutpatient psychiatrist risperidone since last ED visit, and in setting of uptitration patient has had some difficulty walking. Per Dr. aggression has been worsening in last few weeks, and he is not safe to be around other frail elders. Calm between outbursts, and no MS changes to support delirium.\n\n\n\n",
+    "input3": "CAD\nHTN\nProstate Cancer\nMeningioma\nGastritis\nhiatal hernia\ns/p cholecystectomy\ns/p Mohs surgery for basal cell carcinoma\nNo history of seizures or head injuries.\n",
+    "input4": "None\n",
+    "input5": "Vitals: 97.3, 69, 137/79, 18, 98%RA\nGeneral: NAD, sitting in bed, eating a cookie, with his stuffed cow by his side\nHEENT: PERRL, NC/AT, MMM, clear OP\nLymph: No LAD appreciated\nCV: RRR, normal S1, S2, no m/r/g\nLungs: CTAB on the R, crackles in the L base\nAbdomen: soft, nontender, nondistended, +BS\nExt: wwp, 2+ peripheral pulses, no edema\nNeuro: Alert and interactive, oriented to person, birthday, not date, not place. Does not know why he is here. Answers appropriately. Sounds fluent but cannot discern if any aphasias. Moving all extremities.\n",
+    "input6": "___ 11:35AM   GLUCOSE-127* UREA N-15 CREAT-0.8SODIUM-142 \nPOTASSIUM-4.0 CHLORIDE-105 TOTAL CO2-27 ANION GAP-14\n___ 11:35AM   ALT(SGPT)-21 AST(SGOT)-20 ALK PHOS-51 TOT BILI-0.4\n___ 11:35AM   ALBUMIN-4.3 CALCIUM-9.7 PHOSPHATE-3.0 MAGNESIUM-2.1\n___ 11:35AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG bnzodzpn-NEG barbitrt-NEG tricyclic-NEG\n___ 11:35AM   WBC-4.5 RBC-4.30* HGB-13.4* HCT-38.2*MCV-89 MCH-31.3 MCHC-35.2* RDW-14.7\n___ 11:35AM   NEUTS-58.4 ___ MONOS-6.6 EOS-1.9 BASOS-0.6\n___ 11:35AM   PLT COUNT-151\n\nIMAGING:\n=================\nCXR ___\nIMPRESSION: \nMild bibasilar atelectasis in the setting of low lung volumes. Small consolidations at the bases cannot be entirely excluded. No effusion or pneumothorax.\n\n\nPET ___\nAmyloid deposition was detected in areas of the frontal and temporal lobes of the brain\n"
+}

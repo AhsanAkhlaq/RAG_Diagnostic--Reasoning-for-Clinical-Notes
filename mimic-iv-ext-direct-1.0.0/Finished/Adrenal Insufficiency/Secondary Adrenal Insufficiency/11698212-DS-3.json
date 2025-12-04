@@ -1,0 +1,33 @@
+{
+    "Secondary Adrenal Insufficiency$Intermedia_3": {
+        "This indicates that cortisol levels are abnormally low (0.5) in the morning, which is typically below the normal range. ACTH stimulation testing shows an increase in cortisol levels after administration of ACTH, which may indicate a possible problem at the level of the hypothalamic-pituitary-adrenal axis in the adrenal gland's response to ACTH.$Cause_1": {
+            "An AM cortisol returned at 0.5. A stim test find that cortisol increases when ACTH is given.$Input6": {}
+        },
+        "Suspected Adrenal Insufficiency$Intermedia_2": {
+            "Abdominal pain is a common symptom in many endocrine disorders, especially when associated with adrenal dysfunction. The pain may be dull or acute.$Cause_1": {
+                "Abdmonial pain$Input1": {}
+            },
+            "Tachycardia may be caused by a stress response in the body, where the heart beats faster in response to pain or other discomfort. When the adrenal glands are underactive, the body does not produce enough corticosteroids to respond to stress, which may lead to tachycardia.$Cause_1": {
+                "HR 107$Input2": {}
+            },
+            "Electrolyte imbalances, especially hyponatremia and hypokalemia, are typical symptoms of adrenal insufficiency because adrenal cortex hormones regulate the balance of sodium and potassium in the body.$Cause_1": {
+                "NA 129, K 3.2$Input2": {}
+            },
+            "The patient was taking prednisone, a synthetic corticosteroid used to treat adrenal insufficiency.$Cause_1": {
+                "taking her prednisone$Input2": {}
+            },
+            "Hypothyroidism may co-occur with adrenal insufficiency because the functions of different glands of the endocrine system often influence each other.$Cause_1": {
+                "hypothyroidism$Input3": {}
+            },
+            "Tachycardia may be related to abnormal hormone levels in the body$Cause_1": {
+                "tachycardic$Input5": {}
+            }
+        }
+    },
+    "input1": "Abdmonial pain\n",
+    "input2": " Patient was seen in clinic and was found to be tachycardic with HR 107, but with significant epigastric tenderness and mild rebound. She describes the pain as a tightness that is constant and does not go away . It is rated a ___. She denies any worsening with food/drink. She denies vomiting/diarrhea, her last bm was 2pm. Denies any blood or melena.  Of note, patient has been taking her prednisone as scheduled (7.5mg daily) but has not increased the dose.  Patient has chronic leukocytosis upon review of OMR.  In the ED, initial vitals were: 98 94 142/90 18 98% RA  \n - Labs were significant for WBC 20.4, H/H ___, Plt 461, NA 129, K 3.2, Cr 1.1, normal LFTs and lipase. Normal coags. Lactate 2.5  \n - Imaging revealed: RUQ notable for steatosis but no etiology for abdominal pain.  \n - The patient was given: 2L NS, Morphine Sulfate 2mg x1, Zofran 4mg x1, Hydrocot 100mg x1, KCl 40mEq, Pantoprazole 40mg IV x1  \n - Upon arrival to the floor, patient reports feeling improved from when she arrived in the ED. She reports chronic abdominal pain, denies current nausea, fevers, chills, sweats. Reports mild dysuria.\n",
+    "input3": "- Chronic abdominal pain\n- hypothyroidism\n- type 2 diabetes\n- osteopenia\n- hyperlipidemia\n- hypertension\n- degenerative joint disease\n- GERD\n- constipation\n- fibromyalgia\n- obesity \n- asthma\n",
+    "input4": "Father and sister both with coronary artery disease  \n",
+    "input5": "Vitals: 97.4 148/70 88 18 99% on RA  \nGen: ___ speaking, WD/WN, AOx3, NAD but appears  \nuncomfortable, Cushingoid with facial plethora and increased  \nposterior neck adiposity  \nHEENT: MMM, oropharynx clear, EOMI, PERRLA, neck supple with no  \n\nLAD/JVD  \nCardio: tachycardic, normal S1/S2, no m/r/g  \nPulm: CTAB, normal work of breathing  \nAbd: soft, tender epigastrium, nondistractable, NABS, no  \norganomegaly  \nExt: WWP, no c/c/e, pulses 2+ and symmetric \n",
+    "input6": "___ 05:10PM BLOOD WBC-20.4* RBC-4.95 Hgb-15.1 Hct-45.9* \nMCV-93 MCH-30.5 MCHC-32.9 RDW-12.6 RDWSD-42.7 Plt ___\n___ 05:10PM BLOOD Neuts-56.7 ___ Monos-7.2 Eos-0.8* \nBaso-0.8 Im ___ AbsNeut-11.54* AbsLymp-6.91* AbsMono-1.46* \nAbsEos-0.17 AbsBaso-0.17*\n___ 05:10PM BLOOD Hypochr-NORMAL Anisocy-NORMAL \nPoiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL\n___ 05:10PM BLOOD ___ PTT-30.8 ___\n___ 05:10PM BLOOD Glucose-100 UreaN-15 Creat-1.1 Cl-89* HCO3-25 AnGap-18\n\n1. Echogenic liver consistent with steatosis. Other forms of liver disease and more advanced liver disease including steatohepatitis or significant hepatic fibrosis/cirrhosis cannot be excluded on this study.\n2. No evidence of cholelithiasis or acute cholecystitis.\n3. An AM cortisol returned at 0.5. A stim test find that cortisol increases when ACTH is given.\n"
+}

@@ -1,0 +1,49 @@
+{
+    "HFpEF$Intermedia_5": {
+        "LVEF\u226550% is the critiera for HFpEF$Cause_1": {
+            "LVEF >55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Echocardiography suggests ejection fraction preserving heart failure$Cause_1": {
+                "TTE: The left atrium is mildly dilated. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%)$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strongly suspected heart failure.$Cause_1": {
+                    "BNP 7590$Input2": {}
+                },
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strongly suspected heart failure.*$Cause_1": {
+                    "proBNP-4972$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Dyspnea is a common symptom of heart failure.$Cause_1": {
+                        "dyspnea$Input1": {}
+                    },
+                    "chest discomfort is a common symptom of heart failure.$Cause_1": {
+                        "chest discomfort$Input1": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "hypertension$Input3": {}
+                    },
+                    "Atrial fibrillation is the cause and triggering factor of heart failure.$Cause_1": {
+                        "atrial fibrillation$Input3": {}
+                    },
+                    "Excessive fluid intake is a common cause of heart failure.$Cause_1": {
+                        "she has been trying to drink lots of water since that time.$Input2": {}
+                    },
+                    "SoB is the symptom of heart failure$Cause_1": {
+                        "three days of shortness of breath$Input2": {}
+                    },
+                    "Chest pain is the symptom of heart failure$Cause_1": {
+                        "chest discomfort$Input2": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "dyspnea, chest discomfort\n",
+    "input2": "She with a history of atrial fibrillation on Coumadin, HTN presented with three days of shortness of breath. Patient reports she was feeling \"100%\" and was able to go shopping and out to eat with her daughter. On morning she woke up, walked to the bathroom, and became extremely dyspneic. She also experienced chest discomfort, located the chest, non radiating. She presented to her PCP and was told she was dehydrated, so she has been trying to drink lots of water since that time. This morning she again experienced severe dyspnea associated with chest discomfort  while walking to the bathroom and decided to present to ED. She denies fevers, chills, orthopnea, PND swelling. No nausea, vomiting, dysuria or diarrhea. The patient denies increased salt in her diet, or recent infection.\n\ufeff\nPatient had negative stress test. TTE showed preserved EF, mild MR and moderate pulmonary artery HTN. Patient hospitalized for cholecystectomy and post op was found to have pulmonary edema with BNP 7590. However, patient not worked up for heart failure at that time and did not have repeat TTE. \n\ufeff\nOf note, she was diagnosed with shingles under her right breast and has been on Tylenol x/day and gabapentin. Her daughter is concerned that gabapentin is the reason for her symptoms so this was stopped two days ago. \n\ufeff\nED COURSE\n\ufeff\n \nUpon transfer, patient's vitals were: 44 53/45 16 99% Nasal cannula. \n \nOn the floor patient breathing comfortably on 2L NC. Reports feeling anxious, but no CP or SOB.  \n\ufeff\n",
+    "input3": "1. CARDIAC RISK FACTORS: +hypertension, \n2. CARDIAC HISTORY:  atrial fibrillation on Coumadin\n3. OTHER PAST MEDICAL HISTORY:  \nHypothyroidism\nGout\nPolymyalgia rheumatic\nlumbar spinal stenosis\ns/p thyroidectomy for adenoma\ns/p appendectomy         \n\ufeff\n",
+    "input4": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death; otherwise non-contributory.\n",
+    "input5": "Physical Exam:\nAdmission Exam\n===========\nVS: T=98.1 BP=128/82 HR=46 RR=18 O2 sat=96% 2LWeight: 65.5kg  \nGENERAL: Elderly woman, appears younger than stated age. Lying flat in bed, breathing comfortably on 2L NC.  \nHEENT:  Sclera anicteric. O/P clear, MMM.\nNECK: Supple with JVP of 10 cm.  \nCARDIAC: PMI located intercostal space, midclavicular line. Bradycardic, normal S1, S2. No murmurs/rubs/gallops. \nLUNGS: Resp were unlabored, no accessory muscle use. Bilateral crackles, midway up lungs b/l L>R.\nABDOMEN: Soft, NTND. No HSM or tenderness.  \nEXTREMITIES: warm, no peripheral edema.  \nSKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  \n\ufeff\n",
+    "input6": "Admission Labs\n===========\n___ 09:49AM BLOOD WBC-12.4*# RBC-3.81* Hgb-11.5 Hct-35.4 MCV-93 MCH-30.2 MCHC-32.5 RDW-15.1 RDWSD-51.6* \n___ 09:49AM BLOOD Neuts-84.3* Lymphs-6.4* Monos-8.2 Eos-0.2* Baso-0.2 Im ___ AbsNeut-10.48* AbsLymp-0.80* AbsMono-1.02* AbsEos-0.02* AbsBaso-0.03\n___ 09:49AM BLOOD PTT-35.7\n___ 09:49AM BLOOD Glucose-107* UreaN-21* Creat-0.9 Na-141 K-3.6 Cl-101 HCO3-25 AnGap-19\n___ 09:49AM BLOOD ALT-117* AST-105* CK(CPK)-62 AlkPhos-211* TotBili-1.5\n___ 09:49AM BLOOD CK-MB-3 proBNP-4972*\n___ 09:49AM BLOOD cTropnT-0.01\n___ 09:49AM BLOOD Albumin-4.2 Calcium-9.9 Phos-3.1 Mg-1.7\n___ 09:49AM BLOOD TSH-1.5\n___ 09:49AM BLOOD Acetmnp-NEG\n\ufeff\n\ufeff\nImaging\n======\nCXR \nFINDINGS:  \nThe heart is moderately enlarged, and there is mild pulmonary vascula congestion and interstitial edema.  No focal consolidation or pleural effusion is noted.  No pneumothorax seen.  The visualized bony structures are unchanged in appearance compared to the prior study, a compression deformity at the cervical lumbar junction is similar in degree.\nIMPRESSION: \nModerate cardiomegaly with mild pulmonary vascular congestion and interstitial edema.\n\ufeff\nTTE:\nConclusions   \nThe left atrium is mildly dilated. Left ventricular wall thickness, cavity size and regional/global systolic function are normal (LVEF >55%). Tissue Doppler imaging suggests an increased left ventricular filling pressure (PCWP>18mmHg). The right ventricular cavity is mildly dilated with normal free wall contractility. The diameters of aorta at the sinus, ascending and arch levels are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. Trace aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Mild (1+) mitral regurgitation is seen. The tricuspid valve leaflets are mildly thickened. Moderate [2+] tricuspid regurgitation is seen. There is moderate pulmonary artery systolic hypertension. There is no pericardial effusion. \n\ufeff\nIMPRESSION: Normal global and regional left ventricular systolic function. Dilated right ventricle with normal global systolic function. Moderate functional tricuspid regurgitation. Elevated LVEDP and moderate pulmonary hypertension. Compared with the prior study (images reviewed), right ventricle is now mildly enlarged. The other findings are similar.  \n\ufeff\n- Cardiac pharmacologic perfusion\nFINDINGS:  Left ventricular cavity size is normal Rest and stress perfusion images reveal uniform tracer uptake throughout the left ventricular myocardium. Gated images reveal normal wall motion. The calculated left ventricular ejection fraction is 73% \n  \nIMPRESSION:  No myocardial perfusion defect.  No wall motion abnormalities. Normal EF. \n\ufeff\n\n"
+}

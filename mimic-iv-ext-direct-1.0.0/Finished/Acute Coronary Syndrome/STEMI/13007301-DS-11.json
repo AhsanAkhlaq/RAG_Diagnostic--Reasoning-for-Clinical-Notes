@@ -1,0 +1,58 @@
+{
+    "NSTE-ACS$Intermedia_4": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "BLOOD cTropnT-<0.01$Input6": {}
+        },
+        "ECG change is a evidence of ACS-STEMI$Cause_1": {
+            "EKG: On arrival to ED, EKG demonstrated normal sinus rhythm with PVC's, ST elevations V1-V6$Input6": {}
+        },
+        "Cardiac structural abnormalities is a diagnostic criteria of ACS-STEMI$Cause_1": {
+            "CARDIAC CATH: Right dominant. Total occlusion of mid-LAD. LCx with moderate disease; 90% lesion in a small ramus and subtotal lesion in a branch of the ramus. No obstructive RCA disease. DES placed in mid-LAD.$Input6": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "BLOOD CK-MB-48* MB Indx-5.3 cTropnT-1.59*$Input6": {}
+        },
+        "Suspected ACS$Cause_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest Pain$Input1": {}
+            },
+            "Risk factors$Cause_1": {
+                "+ Mixed Hyperlipidemia + initally had low HDL levels and \nelevated triglycerides.$Input3": {}
+            },
+            "Chest pain is a symptom of ACS.$Cause_1": {
+                "Two days prior to admission, he had similar pain, which he dismissed (given his previous episodes). It awoke him from sleep,$Input2": {}
+            },
+            "Family history is a risk factor$Cause_1": {
+                "Father with MI$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "maybe evidence of ACS-STEMI$Cause_1": {
+                "He has a history of similar pain for which he was evaluated with stress test (atypical/non-anginal type symptoms in the absence of ischemic ST segment changes).$Input2": {}
+            },
+            "Occlusion of the coronary artery is a symbol of ACS$Cause_1": {
+                "Coronary Angiography demonstrated a total occlusion of his mid LAD and a 90% occlusion of his ramus intermedius. He had a drug eluting stent placed to his mid LAD.$Input2": {}
+            },
+            "Suspected ACS$Cause_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest Pain$Input1": {}
+                },
+                "Risk factors$Cause_1": {
+                    "+ Mixed Hyperlipidemia + initally had low HDL levels and \nelevated triglycerides.$Input3": {}
+                },
+                "Chest pain is a symptom of ACS.$Cause_1": {
+                    "Two days prior to admission, he had similar pain, which he dismissed (given his previous episodes). It awoke him from sleep,$Input2": {}
+                },
+                "Family history is a risk factor$Cause_1": {
+                    "Father with MI$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "Chest Pain\n",
+    "input2": "68 y/o man with history of moderate mixed hyperlipidemia, recently diagnosed type II diabetes, presented to the emergency department today with severe chest pain. He has a history of similar pain for which he was evaluated with stress test (atypical/non-anginal type symptoms in the absence of ischemic ST segment changes). Two days prior to admission, he had similar pain, which he dismissed (given his previous episodes). It awoke him from sleep, but again went away on its own. On the day of presentation, it awoke him from sleep, and he was brought emergently to the ED. He denied shortness of breath and nausea but noted diaphoresis. The pain was located over his left chest. He was noted to have ST elevations anteriorly and was taken urgently to the cath lab. \n\nCoronary Angiography demonstrated a total occlusion of his mid LAD and a 90% occlusion of his ramus intermedius. He had a drug eluting stent placed to his mid LAD.\n",
+    "input3": "+ Mixed Hyperlipidemia + initally had low HDL levels and \nelevated triglycerides.\n+ GERD\n",
+    "input4": "Father with MI\n",
+    "input5": "Vitals: T98.5F, 150/99, 83, RR 23, 99%RA\nGeneral: Well-appearing, no acute distress\nHEENT: MMM, OP clear\nNeck: JVP not elevated\nHeart: RRR no m/r/g\nLung: Clear anteriorly\nAbd: Soft, non-tender, non-distended; + bowel sounds\nGroin: Mild fullness over right groin site, moderate tenderness; no obvious hematoma\nExt: no c/c/e; 2+ DP pulses bilaterally\n",
+    "input6": "___ 10:25AM BLOOD WBC-8.1# RBC-5.46 Hgb-15.4 Hct-46.2 MCV-85 MCH-28.2 MCHC-33.4 RDW-13.6 Plt ___\n___ 07:30AM BLOOD WBC-8.0 RBC-4.27* Hgb-12.3* Hct-35.1* MCV-82 MCH-28.9 MCHC-35.1* RDW-13.5 Plt ___\n___ 10:25AM BLOOD Glucose-212* UreaN-26* Creat-1.3* Na-138 K-3.8 Cl-101 HCO3-26 AnGap-15\n___ 07:30AM BLOOD Glucose-119* UreaN-22* Creat-1.4* Na-139 K-4.0 Cl-103 HCO3-27 AnGap-13\n___ 07:30AM BLOOD ALT-38 AST-29 AlkPhos-56 TotBili-0.6\n___ 10:25AM BLOOD CK(CPK)-173\n___ 04:51PM BLOOD CK(CPK)-1286*\n___ 01:42AM BLOOD CK(CPK)-903*\n___ 10:25AM BLOOD cTropnT-<0.01\n___ 04:51PM BLOOD CK-MB-83* MB Indx-6.5 cTropnT-2.05*\n___ 01:42AM BLOOD CK-MB-48* MB Indx-5.3 cTropnT-1.59*\n\nEKG: On arrival to ED, EKG demonstrated normal sinus rhythm with PVC's, ST elevations V1-V6\n\nTELEMETRY: Sinus tachycardia\n\n2D-ECHOCARDIOGRAM: none  \n\nETT: none\n\nCARDIAC CATH: Right dominant. Total occlusion of mid-LAD. LCx with moderate disease; 90% lesion in a small ramus and subtotal lesion in a branch of the ramus. No obstructive RCA disease. DES placed in mid-LAD.\n"
+}

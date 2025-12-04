@@ -1,0 +1,35 @@
+{
+    "Type I diabetes$Intermedia_4": {
+        "GADA antibodies are positive in most patients with type I diabetes.$Cause_1": {
+            "GADA-(+)$Input6": {}
+        },
+        "Diabetes$Intermedia_3": {
+            "Abnormal blood glucose is a diagnostic criteria of diabetes.$Cause_1": {
+                "GLUCOSE-568$Input6": {}
+            },
+            "Suspected Diabetes$Intermedia_2": {
+                "Polyuria is a classic symptom of diabetes.$Cause_1": {
+                    "Polyuria$Input1": {}
+                },
+                "Polydypsia is a classic symptom of diabetes.$Cause_1": {
+                    "polydypsia$Input1": {}
+                },
+                "Weight loss is a classic symptom of diabetes.$Cause_1": {
+                    "weight loss$Input1": {}
+                },
+                "Family history is a big risk factor of diabetes.$Cause_1": {
+                    "Grandfather with DM$Input4": {}
+                },
+                "Ketones in the urine is a sign of diabetes.$Cause_1": {
+                    "KETONE-50$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "Polyuria, polydypsia, weight loss\n",
+    "input2": "Male who has been experiencing dry mouth, polyuria (>20 times/day)and polydypsia with associated 15 lb weight loss over the past 3 weeks. Also with occasional sweats, nausea and loss of appetite. No fevers, recent infections or new medications. One day PTA he went to his center. He received 1L NS.  \n.  \nIn the ED, vitals were: 97.1 128/68 60 18 97% RA. His initial fingerstick was 568 with glucose and ketones in urine. He was called who recommended 10u of regular insulin. He given another 1L NS with 40meq KCL. Repeat chemistry showed glucose 365. AG = 14. He was admitted to medicine for further management.  \n.  \nROS: No fevers, H/A, CP or abdominal pain. No blurry vision.  \n\ufeff\n",
+    "input3": "1. Concussion  \n2. Muscle strain in neck  \n3. Epistaxis - s/p cauterization x 2\n",
+    "input4": "Grandfather with DM. Otherwise NC\n",
+    "input5": "Vitals: 97.4 96.9 122/78 54 18 98% RA. ___ 345, 321  \nGEN: AAOx3, well appearing, sitting in bed, NAD  \nHEENT: PERRL, EOMI. MMM. Oropharynx without lesions or exudate.  \n\ufeff\nNECK: Supple, no cervical or supraclavicular LAD  \nLUNGS: CTAB. Normal respiratory effort.  \nHEART: RRR, no m/r/g  \nABD: NABS, soft, non-tender, non-distended, no masses  \nEXT: WWP, good DP pulses bilaterally, no c/c/e  \nNEURO: CN ___ grossly intact bilaterally. ___ MS in bilateral \nupper and lower extremities. 2+ biceps, patellar DTRs.\n",
+    "input6": "___ 01:10AM   WBC-7.7 RBC-4.91 HGB-15.0 HCT-40.2 MCV-82 MCH-30.6 MCHC-37.4* RDW-12.3\n___ 01:10AM   GLUCOSE-568* UREA N-27* CREAT-1.1 SODIUM-130* POTASSIUM-4.0 CHLORIDE-92* TOTAL CO2-24 ANION GAP-18\n___ 02:00AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-1000 KETONE-50 BILIRUBIN-NEG UROBILNGN-NEG PH-5.0 LEUK-NEG\n___ 02:00AM GADA-(+)*\n"
+}

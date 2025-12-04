@@ -1,0 +1,38 @@
+{
+    "Mild COPD$Intermedia_4": {
+        "FEV1 \u2265 80% confirm Mild COPD$Cause_1": {
+            "FEV1 82%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC < 0.70.$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "SOB is the common symptom of COPD$Cause_1": {
+                    "Shortness of breath$Input1": {}
+                },
+                "The text states that the patient has a history of COPD and is a former smoker. Smoking is one of the major risk factors for COPD.$Cause_1": {
+                    "hx of COPD (former smoker$Input2": {}
+                },
+                "The patient had recurrent pleural effusions that required drainage three times per week. Pleural effusions may be caused by lung cancer or other complications and can increase dyspnea in patients with COPD.$Cause_1": {
+                    "pleural effusions drained 3x/week$Input2": {}
+                },
+                "COPD patients may experience low oxygen saturation due to insufficient oxygen exchange due to airway obstruction.$Cause_1": {
+                    "Ambulatory oxygen sat = 91%$Input5": {}
+                },
+                "This is one of the typical symptoms of COPD. Due to decreased lung function, even the slightest activity can cause shortness of breath.$Cause_1": {
+                    "dyspneic with mild \nexertion$Input5": {}
+                },
+                "A pericardial effusion may indicate stress or inflammation in the heart, which may occur with COPD-related heart problems such as cor pulmonale.$Cause_1": {
+                    "a very small pericardial effusion$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "Shortness of breath\n",
+    "input2": "HPI: \nF pt with hx of COPD (former smoker) and squamous cell non small cell lung cancer, s/p chemo/radiation with no evidence of disease. She has a hx of PE and is on elloquis. No new leg swelling or CP. NO fever. SOB worse with exertion. She gets her pleural effusions drained 3x/week, last drained yesterday. No relief \nwith drainage yesterday (thought pt never has improvement of dyspnea with her drainage).\n.\nIn ER: (Triage Vitals:0 |97.5 |74 |103/56 |22 |96% RA  ) \nMeds Given: None\nFluids given: None\nRadiology Studies: CXR\nconsults called: None\n\ufeff\nREVIEW OF SYSTEMS:\nCONSTITUTIONAL:  As per HPI and no weight loss\nHEENT:  [X] All normal\nRESPIRATORY:  [+] per HPI, she is unable to walk more than 5 \nsteps without becoming short of breath, mild cough\nCARDIAC:  [X] All normal- denies chest pain \nGI:  As per HPI\nGU:  [X] All normal\nSKIN:  [X] All normal\nMUSCULOSKELETAL:  [X] All normal\nNEURO:  [X] All normal\nENDOCRINE:  [X] All normal\nHEME/LYMPH:  [X]  All normal\nPSYCH:  [X] All normal\nAll other systems negative except as noted above\n",
+    "input3": "Squamous Cell Lung Cancer as below\nAtrial fibrillation\nPulmonary Embolus\nCORONARY ARTERY DISEASE\nHYPOTHYROIDISM \nHYPERTENSION\nHYPERLIPIDEMIA                       \nCOLONIC POLYPS                                              \nACTINIC KERATOSIS\nSEBORRHEIC KERATOSIS\n",
+    "input4": "3 brothers (all smokers) died of lung cancer. Ages at diagnosis uncertain. Mother deceased for heart attack. Father, pneumonia\n",
+    "input5": "Admission physical exam\nVitals:  98.3 18 97 RA '\nAmbulatory oxygen sat = 91%. She becomes dyspneic with mild \nexertion\n CONS: NAD, comfortable appearing  \n HEENT: ncat anicteric MMM    \nNo nasal discharge\nLaying flat her JVP does not appear to be elevated. \n CV: s1s2 rr no m/r/g  \n RESP: b/l ae no w/c/r  \nCatheter site c/d/i\n GI: +bs, soft, NT, ND, no guarding or rebound  \n back:  \n MSK:no c/c/e 2+pulses  \n SKIN: no rash  \n NEURO: face symmetric speech fluent  \n PSYCH: calm, cooperative  \nLAD: No cervical LAD\n",
+    "input6": "05:18AM BLOOD WBC-14.5*# RBC-4.25 Hgb-11.9 Hct-37.8 MCV-89 MCH-28.0 MCHC-31.5* RDW-17.1* RDWSD-55.6* \n05:18AM BLOOD Glucose-130* UreaN-14 Creat-0.7 Na-139 K-3.7 Cl-100 HCO3-28 AnGap-15\n\ufeff\nEcho\nEcho: The left atrium is normal in size. No atrial septal defect is seen by 2D or color Doppler. Left ventricular wall thickness, cavity size, and global systolic function are normal (LVEF>65%).\nRegional left ventricular wall motion is normal. There is no ventricular septal defect. Right ventricular chamber size is normal with borderline normal free wall function. The diameters of aorta at the sinus, ascending and arch levels are normal. No aortic regurgitation is seen. The mitral valve leaflets are structurally normal. There is no mitral valve prolapse. Mild  (1+) mitral regurgitation is seen. Moderate to severe [3+] eccentric tricuspid regurgitation is seen. There is moderate pulmonary artery systolic hypertension. There is a very small pericardial effusion. There are no echocardiographic signs of tamponade. \n\ufeff\nIMPRESSION: Normal global left ventricular systolic function. Low normal global right ventricular systolic function. Moderate pulmonary hypertension. Moderate to severe tricuspid regurgitation. Very small pericardial effusion without 2D echo evidence of tamponade. \n\ufeff\nCompared with the prior study (images reviewed) a very small pericardial effusion is seen (trivial effusion was present on prior). Definitive right ventricular pressure/volume overload not seen on this study despite higher pulmonary pressures.  \n\ufeff\nAnkle xray\nNo acute fracture or dislocation.\n\ufeff\nNo evidence of pulmonary embolism or aortic abnormality. \n2. Stable post treatment changes in the left lung with no evidence for \nprogression of malignancy. \n3. PleurX catheter in situ with decrease in size of the left pleural effusion. \n4. Stable small pericardial effusion.\n\n\nPost-bronchodilator FEV1/FVC < 0.70.\nFEV1 82%\n"
+}

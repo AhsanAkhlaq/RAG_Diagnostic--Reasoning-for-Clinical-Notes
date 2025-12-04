@@ -1,0 +1,87 @@
+{
+    "UA$Intermedia_5": {
+        "Severe chest pain is symbol of ACS-UA$Cause_1": {
+            "He is a pleasant male who was previously healthy who is admitted after a positive stress test.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "Coronary calcification seen on chest CT is risk fact$Cause_1": {
+                "Coronary calcification seen on chest CT$Input3": {}
+            },
+            "family history:Father: Died of MI  is a risk fact$Cause_1": {
+                "Father: Died of MI$Input4": {}
+            },
+            "family history:Mother: Died of pancreatic cancer\n  is a risk fact$Cause_1": {
+                "Mother: Died of pancreatic cancer$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "slight cardiac structural abnormalities is a sign of acs$Cause_1": {
+                "He thus underwent a nuclear stress on hospital which revealed a reversible defect in the mid-LAD region.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "Coronary calcification seen on chest CT is risk fact$Cause_1": {
+                    "Coronary calcification seen on chest CT$Input3": {}
+                },
+                "family history:Father: Died of MI  is a risk fact$Cause_1": {
+                    "Father: Died of MI$Input4": {}
+                },
+                "family history:Mother: Died of pancreatic cancer\n  is a risk fact$Cause_1": {
+                    "Mother: Died of pancreatic cancer$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "- ECG showed sinus bradycaria, STE in V4 (1 mm), sub-mm in V5,$Input2": {}
+            },
+            "without ischemic ECG chages is a sign of NSTE-ACS$Cause_1": {
+                "and ruled out for MI. He subsequently underwent an exercise ECG stress on hospital where he reached stage and experienced chest discomfort but was without ischemic ECG chages.$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "Coronary calcification seen on chest CT is risk fact$Cause_1": {
+                    "Coronary calcification seen on chest CT$Input3": {}
+                },
+                "family history:Father: Died of MI  is a risk fact$Cause_1": {
+                    "Father: Died of MI$Input4": {}
+                },
+                "family history:Mother: Died of pancreatic cancer\n  is a risk fact$Cause_1": {
+                    "Mother: Died of pancreatic cancer$Input4": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "slight cardiac structural abnormalities is a sign of acs$Cause_1": {
+                    "He thus underwent a nuclear stress on hospital which revealed a reversible defect in the mid-LAD region.$Input2": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS$Cause_1": {
+                        "Chest pain$Input1": {}
+                    },
+                    "Coronary calcification seen on chest CT is risk fact$Cause_1": {
+                        "Coronary calcification seen on chest CT$Input3": {}
+                    },
+                    "family history:Father: Died of MI  is a risk fact$Cause_1": {
+                        "Father: Died of MI$Input4": {}
+                    },
+                    "family history:Mother: Died of pancreatic cancer\n  is a risk fact$Cause_1": {
+                        "Mother: Died of pancreatic cancer$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "He is a man seen at hospital where he ruled out for an MI. He had a nuclear stress test that showed mid-LAD ischemia and since has been having chest pain. He has been started on heparin and will go for cath tomorrow.\nHe is a pleasant male who was previously healthy who is admitted after a positive stress test. He was in his usual state of excellent health (avid daily long-distance biker), until someday when he began to experience exertional chest pain. Per report, he thus presented certain symptoms and ruled out for MI. He subsequently underwent an exercise ECG stress on hospital where he reached stage and experienced chest discomfort but was without ischemic ECG chages. He thus underwent a nuclear stress on hospital which revealed a reversible defect in the mid-LAD region. He continued to experience low grade chest discomfort for several hours after his MIBI and his cardiologist asked him to go to check. His cardiologist recommended \"1. Admit to Cardiology Service -- Dr., attending of record.\n2. Start on heparin.\n3. Heart rates slow, would defer beta-blocker therapy. Aspirin 325 mg already given.\n4. NPO. after midnight for planned cardiac catheterization.\n5. Rule out protocol -- emergent cath if elevated troponin's today. He has already eaten and suspect stable for cath\"Of note, approximately two weeks ago, the patient reports some blood on his toilet paper. He thinks it was hemorrhoids. In the ED, initial vitals were 1 98.0 51 140/82 16 98% RA\n- Labs were notable for WBC 4.5, Hgb 16, Plt 145, Na 143, K 4.2, Cl 103, HCO3 31, BUN 22, Cr 0.8, trop <0.01 (15:50)\n- ECG showed sinus bradycaria, STE in V4 (1 mm), sub-mm in V5, \nappear similar to ECG from today thought to be early repolarization changes\n- He started on a heparin gtt Prior to transfer vitals were 0 98.0 56 114/69 14 97% On arrival to the floor, He reports feeling generally well but has some ongoing chest pressure.\n",
+    "input3": "+ Seasonal allergies\n+ Asthma\n+ Pulmonary nodule\n+ Coronary calcification seen on chest CT\n",
+    "input4": "- Father: Died of MI\n- Mother: Died of pancreatic cancer\n- Siblings: Sister is smoker but healthy\n",
+    "input5": "ADMISSION:\nVS: T 98 BP 128/92 HR 58 RR 16 SaO2 98% on RA\nGeneral: Well appearing fit man in no apparent distress\nHEENT: EOMI, MMM\nNeck: No JVD\nCV: Bradycardic, no m/r/g\nLungs: CTAB\nAbdomen: Soft, nontender, nondistended\nRectal: Normal rectal tone. Brown stool in vault. FOBT negative.\nExt: 3+ radial pulses, 3+ femoral pulses\n",
+    "input6": "03:50PM   PLT COUNT-145*\n03:50PM   NEUTS-66.3 MONOS-4.9 EOS-3.0 BASOS-1.2\n03:50PM   WBC-4.5 RBC-5.41 HGB-16.2 HCT-47.7 MCV-88 MCH-30.0 MCHC-34.1 RDW-13.2\n03:50PM   cTropnT-<0.01\n03:50PM   GLUCOSE-96 UREA N-22* CREAT-0.8 SODIUM-143 POTASSIUM-4.2 CHLORIDE-103 TOTAL CO2-31 ANION GAP-13\n06:55PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 \nLEUK-NEG\n"
+}

@@ -1,0 +1,30 @@
+{
+    "Hypertension$Intermedia_3": {
+        "an elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "VS: 96.7 166/96 90 18 97% RA$Input5": {}
+        },
+        "an elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "at home today 172/95$Input2": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Nausea is a symptoms of Hypertension.$Cause_1": {
+                "Nausea$Input1": {}
+            },
+            "Vomiting is a symptoms of Hypertension.$Cause_1": {
+                "vomiting$Input1": {}
+            },
+            "Elderly age is an important risk factor for Hypertension,and female have a higher risk.$Cause_1": {
+                "66 year old female$Input2": {}
+            },
+            "Diabetes is a big risk factor of Hypertension,which is generally accompanied by Hypertension.$Cause_1": {
+                "Type II diabetes previously uncontrolled$Input3": {}
+            }
+        }
+    },
+    "input1": "Nausea, vomiting, abdominal pain\n",
+    "input2": "66 year old female with a history of IDDM, gastroparesis, hep C, HTN, multiple ED visits and admissions for gastroparesis who presented to the ED with nausea, vomiting, and dull midepigastric abdominal pain. Onset of symptoms was at 5 pm tonight and pt stated feels identical to past gastroparesis. Earlier in the day she ate toast, but nothing before the pain started in the afternoon. She notes sensation of fullness. She also had bilious emesis x 1.At night,she started to check BP at home for first time,states BP at home today 172/95.  Of note, the patient was most recently admitted with identical symptoms. She was treated with zofran and narcotics for pain control. During this admission it was also thought that she has autonomic neuropathy as she was orthostatic despite fluid resusitation. She has since presented to the ED multiple times for similar symptoms.\n",
+    "input3": "+Type II diabetes previously uncontrolled\n+Hepatitis C: Never treated, AST/ALT not elevated at baseline, screened with US\n+Hepatitis B: cleared infection\n+Depression and Anxiety\n+Hiatal Hernia\n+Colon polyps removed \n+Lap cholecystectomy \n+Cervical Degenerative Disk Disease\n+Chronic back pain\n",
+    "input4": "Mother: colon cancer. \nFather: heart disease.\nBrother: DM, HTN, obsesity.\n",
+    "input5": "VS: 96.7 166/96 90 18 97% RA  \nGENERAL: Well-appearing woman in NAD, appears comfortable depite pain  \nHEENT: NC/AT, EOMI, sclerae anicteric, dry MM, OP clear.  \nNECK: Supple,no JVD  \nHEART: RRR, no MRG  \nLUNGS: CTA bilat  \nABDOMEN: + BS, tender in epigastrium, soft, no masses  \nEXTREMITIES: WWP, no edema, 2+ peripheral pulses.  \nSKIN: No rashes or lesions.  \nLYMPH: No cervical LAD.  \nNEURO: Awake, A&Ox3, CNs II-XII grossly intact\n",
+    "input6": "___ 10:15PM BLOOD WBC-10.3 RBC-4.37 Hgb-12.7 Hct-36.7 MCV-84 MCH-29.1 MCHC-34.6 RDW-14.6 Plt ___\n___ 10:15PM BLOOD Neuts-61.2 ___ Monos-2.3 Eos-1.2 Baso-0.7\n___ 06:25AM BLOOD Glucose-108* UreaN-8 Creat-0.6 Na-139 K-3.5 Cl-102 HCO3-27 AnGap-14\n___ 10:15PM BLOOD ALT-15 AST-20 LD(LDH)-192 AlkPhos-93 TotBili-0.5\n___ 10:15PM BLOOD Albumin-3.9\n___ 11:20PM URINE Color-Straw Appear-Clear Sp ___\n___ 11:20PM URINE Blood-TR Nitrite-NEG Protein-100 Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.5 Leuks-NEG\n\nABDOMEN (SUPINE AND ERECT)X-RAY IMPRESSION: No evidence of bowel obstruction or free air. \n\nEKG: Sinus rhythm. Left ventricular hypertrophy. Non-specific lateral ST-T wave changes. Compared to the previous tracing of no diagnostic interim change.\n"
+}

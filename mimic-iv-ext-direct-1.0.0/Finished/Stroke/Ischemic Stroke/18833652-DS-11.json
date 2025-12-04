@@ -1,0 +1,42 @@
+{
+    "Ischemic Stroke$Intermedia_3": {
+        "A left middle cerebral artery infarction is a classic symptom of an ischemic stroke, indicating that blood flow to this part of the brain is blocked.$Cause_1": {
+            "L MCA infarct$Input2": {}
+        },
+        "CTA showed a thrombus at the distal end of the left M1 segment, which was the direct cause of insufficient blood supply to the brain.$Cause_1": {
+            "CTA with distal L M1 thrombus$Input2": {}
+        },
+        "The absence of intracranial hemorrhage further supports the diagnosis of ischemic stroke$Cause_1": {
+            "NCHCT without hemorrhage$Input2": {}
+        },
+        "Acute infarction means that blood flow to a certain area of \u200b\u200bthe brain is suddenly interrupted, causing brain cells in that area to be damaged or die due to lack of oxygen. It is directly diagnosed as ischemic stroke.$Cause_1": {
+            "Acute infarction within the left temporoparietal region, most notably within the left insular lobe, corona radiata, superior temporal gyrus and left parietal lobe.$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "Speech difficulties are usually caused by damage to the area of \u200b\u200bthe brain that controls language and are a common symptom of stroke.$Cause_1": {
+                "difficulty speaking$Input2": {}
+            },
+            "Have motor dysfunction, a sign of damage to the area of \u200b\u200bthe brain that controls the left side of the body$Cause_1": {
+                "unable to move her RUE, RLE$Input2": {}
+            },
+            "Atrial fibrillation increases the risk of thrombosis, and failure to take anticoagulant therapy may cause thrombus detachment and cause cerebral infarction$Cause_1": {
+                "afib not on anticoagulation$Input2": {}
+            },
+            "Frequent speech errors are often a sign of damage to language areas of the brain, which is common in stroke.$Cause_1": {
+                "Fluent. Frequent paraphasic errors$Input5": {}
+            },
+            "Facial drooping is a classic symptom of stroke, especially when it is limited to one side, suggesting that the motor control area of \u200b\u200bthe brain on the opposite side may be damaged.$Cause_1": {
+                "R facial droop$Input5": {}
+            },
+            "Chronic small vessel disease usually refers to pathological changes in small blood vessels caused by long-term damage, which is a common risk factor for ischemic stroke$Cause_1": {
+                "Likely chronic small vessel microangiopathy$Input6": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "___ (aka ___ ___ is a ___ yo L-handed woman with SCLC s/p palliative XRT and currently undergoing chemotherapy, afib not on anticoagulation who presents with L MCA infarct. \n\nShe went to bed yesterday evening around 2200 feeling well. She was found abnormal this morning at 0730 by her sister, who found her to have difficulty speaking and was unable to move her RUE, RLE.  EMS was called and she was brought to ___, where NIHSS 9. She received ASA 300mg PR.  NCHCT without hemorrhage, CTA with distal L M1 thrombus.  She was subsequently brought to ___, where code stroke was activated upon arrival.\n",
+    "input3": "None\n",
+    "input4": "No relevant FHx.\n",
+    "input5": "Vitals:   HR: 93-103 BP: 110-122/61-68 RR: ___ SaO2: 96-99% RA\nGeneral: Awake, cooperative, NAD. Cachectic. \nHEENT: no scleral icterus, MMM, no oropharyngeal lesions. \nPulmonary: Breathing comfortably, no tachypnea nor increased WOB\nCardiac: Skin warm, well-perfused. \nAbdomen: soft, ND\nExtremities: Symmetric, no edema. \n\nNeurologic Examination:\n- Mental status: Awake, alert. Unable to provide history. Fluent. Frequent paraphasic errors. Names objects on stroke card except calls cactus a 'cascus' and unable to name hammock. Able to read 3 word sentences, frequent paraphasic errors with longer sentences. Able to repeat 'mama', 'pizza', 'sunny'. At best she was once able to repeat 'today is some day' after examiner says 'today is a sunny day'. Follows simple appendicular commands but not complex commands. No evidence of hemineglect, no extinction to DSS. \n\n",
+    "input6": "MRI \n1. Acute infarction within the left temporoparietal region, most notably within the left insular lobe, corona radiata, superior temporal gyrus and left parietal lobe. \n2. Small focus of left putaminal hemorrhage with rim of surrounding vasogenic edema compatible with mild hemorrhagic transformation of infarct.\n3. Likely chronic small vessel microangiopathy. \n4. No definite evidence of intracranial metastatic disease at this time.  There are foci of curvilinear punctate T1 postcontrast hyperintense signal on spin echo sequences, not correlated on any other sequence, felt to be artifactual. \n5. Additional findings described above\n"
+}

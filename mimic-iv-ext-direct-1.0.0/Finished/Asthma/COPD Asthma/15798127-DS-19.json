@@ -1,0 +1,47 @@
+{
+    "Asthma-COPD$Intermedia_4": {
+        "History of COPD may increase the probability of patient develoop COPD.$Cause_1": {
+            "history of COPD$Input2": {}
+        },
+        "A typical symptom of COPD or asthma-COPD.$Cause_1": {
+            "Lasting airflow limitation$Input2": {}
+        },
+        "It indicates that airflow limitation that aren't fully reversible, patient may have COPD or asthma.$Cause_1": {
+            "A significant improvement in FEV1 of more than 12% and 200 ml from baseline after administration of a bronchodilator confirms the reversibility of airflow obstruction.$Input6": {}
+        },
+        "Asthma$Intermedia_3": {
+            "Giving albuterol to treat indicates that patient may have bronchus disease.$Cause_1": {
+                "The patient was given 1 albuterol$Input2": {}
+            },
+            "It shows that patient has an aggravate on her bronchus or chest disease.$Cause_1": {
+                "she is unable to walk 10 feet without feeling short of breath.$Input2": {}
+            },
+            "Suspected asthma$Intermedia_2": {
+                "It indicates that patient may have chest or bronchus disease.$Cause_1": {
+                    "Cough,$Input1": {}
+                },
+                "A typical stmptom of chest or bronchus diseasse.$Cause_1": {
+                    "SOB$Input1": {}
+                },
+                "A patient who has history of asthma may have higher probability oto develop asthma.$Cause_1": {
+                    "history of asthma$Input2": {}
+                },
+                "History of asthma may increase the probability of patient develop asthma.$Cause_1": {
+                    "+asthma$Input3": {}
+                },
+                "It can be accompanied by asthma.$Cause_1": {
+                    "+hypertension$Input3": {}
+                },
+                "Different sound of breath from normal indicates that patient may have chest or bronchus disease.$Cause_1": {
+                    "Lungs: Diffuse rhonchi with occasional expiratory wheezes$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Cough, SOB\n",
+    "input2": "She is with history of asthma, anemia, MGUS, COPD,  and prior CVA, who presented with shortness of breath.  Patient reports that she first developed what she thought was a cold 3 days ago. She had sore throat, rhinorrhea, headache and cough occasionally productive of clear sputum. She denies any fever or myalgias. She then began feeling progressively more short of breath. She does have some chronic dyspnea but is able to go about her ADLs, including shopping trips, without significant limitations. Over the past few days, however, she is unable to walk 10 feet without feeling short of breath. She sleeps with two pillows at home, which has not recently changed. She reports occasional PND chronically but denies orthopnea. She has had no recent travel, surgeries, or immobilzations.  \n \nIn the ED, initial vitals were: 98.1 88 168/95 20 98% RA  \n - Imaging revealed: CXR without evidence of pneumonia  \n - The patient was given 1 albuterol and 1 ipratropium neb, 125mg IV solumedrol, 500mg azithromycin  \n\nVitals prior to transfer were: 98.9 85 145/87 20 98% RA  \nUpon arrival to the floor, initial vitals were 97.7 162/117 85 18 100% RA.\n\nLasting airflow limitation\n",
+    "input3": "+left occipital lobe stroke (cryptogenic)  \n+remote right parietal, left cerebellar strokes by imaging \n+hypertension  \n+hyperlipidemia  \n+cataracts, s/p repair - at least on the right  \n+glaucoma  \n+asthma  \n+MGUS  \n+chronic anemia  \n+CKD\n",
+    "input4": "Negative for stroke, migraine, seizure. Father with cancer and sister with colon cancer.\n",
+    "input5": "Vitals: 97.7 162/117 85 18 100% RA  \nGeneral: Alert, oriented, no acute distress  \nHEENT: Sclera anicteric, EOMI  \nNeck: Supple, JVP not elevated  \nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  \nLungs: Diffuse rhonchi with occasional expiratory wheezes  \nAbdomen: Soft, non-tender, non-distended  \nGU: No foley  \nExt: Warm, well perfused, no clubbing, cyanosis or edema, b/l lower extremities with eccymoses over shins and venous stasis changes  \nNeuro: CNII-XII grossly intact\n",
+    "input6": "Admission Labs:\n---------------\n___ 10:50PM BLOOD WBC-8.8 RBC-3.41* Hgb-10.5* Hct-31.4* MCV-92 MCH-30.8 MCHC-33.4 RDW-16.7* RDWSD-55.8*\n___ 10:50PM BLOOD Neuts-73.9* Lymphs-17.9* Monos-5.5 Eos-1.2 Baso-0.5 AbsNeut-6.53* AbsLymp-1.58 AbsMono-0.49 AbsEos-0.11 AbsBaso-0.04\n___ 10:50PM BLOOD PTT-35.3\n___ 10:50PM BLOOD Glucose-97 UreaN-22* Creat-1.2* Na-141 K-3.9 Cl-107 HCO3-18* AnGap-20\n___ 10:50PM BLOOD cTropnT-<0.01 proBNP-861*\n___ 06:16AM BLOOD Calcium-9.4 Phos-3.4 Mg-2.0\n___ 11:11PM BLOOD Lactate-1.6\n\n\nCXR: Hyperinflated lungs without superimposed acute process.\nECG: NSR at 83. Downsloping/scooped ST depressions in III and more mild in V6 (old)\n\n A significant improvement in FEV1 of more than 12% and 200 ml from baseline after administration of a bronchodilator confirms the reversibility of airflow obstruction.\r\n"
+}

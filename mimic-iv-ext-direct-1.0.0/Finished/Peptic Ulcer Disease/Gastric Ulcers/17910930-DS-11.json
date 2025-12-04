@@ -1,0 +1,24 @@
+{
+    "Gastric Ulcers$Intermedia_3": {
+        "Key evidence for diagnosing duodenal ulcer$Cause_1": {
+            "Ulcer in second part of duodenum with bleeding vessel.$Input6": {}
+        },
+        "Suspected Peptic Ulcer Disease$Intermedia_2": {
+            "Black stools are a common symptom of gastrointestinal bleeding and may be related to peptic ulcers$Cause_1": {
+                "melena$Input2": {}
+            },
+            "Long-term use of NSAIDs (such as ibuprofen and Aleve) may cause damage to the stomach lining, thereby increasing the risk of peptic ulcers.$Cause_1": {
+                "past 6 weeks, he has experienced worsening back pain and left-sided sciatica for which she has been taking 800 mg of ibuprofen 3 times daily combined with multiple daily Aleve.$Input2": {}
+            },
+            "A change in stool color from watery to dark red, accompanied by mild dizziness, may indicate gastrointestinal bleeding, which is one of the symptoms of peptic ulcer.$Cause_1": {
+                "bowel movements which were first watery but then dark red. Symptoms were associated with some\nlightheadedness.$Input2": {}
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "___ male with a past medical history of COPD on 2L at night, chronic back pain who presents for evaluation of melena. \n\nThe patient reports that for the past 6 weeks, he has \nexperienced worsening back pain and left-sided sciatica for which she has been taking 800 mg of ibuprofen 3 times daily combined with multiple daily Aleve. \n\nToday, he noted about ___ bowel movements which were first \nwatery but then dark red. Symptoms were associated with some\nlightheadedness. No chest pain or pressure. He was evaluated by his PCP today and found to be hypotensive to ___. EMS was was called and he was takento the ED, receiving 400 cc of fluid en route with improvement in his blood pressure. \n\nPatient is not on any beta blockade or blood thinner. No large alcohol use. No previous history of GI bleeding. No known\nesophageal varices or liver disease.\n",
+    "input3": "COPD on 2L at night \nSciatica\n",
+    "input4": "Reviewed; non-contributory\n",
+    "input5": "VS: HR 95 BP 119/94 RR 25 O2 sat 92% RA\nGEN: Pale-appearing elderly man, no distress\nHEENT: Sclera anicteric. Moist mucus membranes.\nNECK: No palpable lymphadenopathy. \nCV:  Normal S1S2, RRR, no murmurs\nRESP: Scattered rhonchi, otherwise clear bilaterally \nGI:  Soft, non-tender, non-distended, no palpable organomegaly\nMSK: Warm, well-perfused, no lower extremity edema\nSKIN:  No bruises or rashes\nNEURO:  AOX3, CNII-XII intact, moves all extremities with \npurpose\n",
+    "input6": "___ 02:40PM BLOOD WBC-7.9 RBC-4.81 Hgb-13.6* Hct-40.8 \nMCV-85 MCH-28.3 MCHC-33.3 RDW-13.8 RDWSD-42.8 Plt ___\n___ 02:40PM BLOOD Neuts-66.0 Lymphs-17.7* Monos-10.6 \nEos-4.0 Baso-1.3* Im ___ AbsNeut-5.23 AbsLymp-1.40 \nAbsMono-0.84* AbsEos-0.32 AbsBaso-0.10*\n___ 02:40PM BLOOD ___ PTT-38.6* ___\n___ 02:40PM BLOOD Glucose-88 UreaN-26* Creat-1.2 Na-141 \nK-4.3 Cl-108 HCO3-23 AnGap-10\n___ 02:40PM BLOOD ALT-8 AST-13 AlkPhos-69 TotBili-0.4\n___ 02:40PM BLOOD Lipase-46\n___ 02:40PM BLOOD proBNP-446\n___ 02:40PM BLOOD cTropnT-<0.01\n___ 02:40PM BLOOD Albumin-3.6 Calcium-9.5 Phos-3.1 Mg-2.2\n___ 02:52PM BLOOD Lactate-1.2\n\nIMAGING\n============================\nEGD ___: Ring in distal esophagus. Hematin in stomach, no \nactive bleeding. Ulcer in second part of duodenum with bleeding vessel. Successful hemostasis with electrocautery and bicap.\n"
+}

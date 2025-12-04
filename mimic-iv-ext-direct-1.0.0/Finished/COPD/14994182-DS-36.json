@@ -1,0 +1,32 @@
+{
+    "Mild COPD$Intermedia_4": {
+        "FEV1 \u2265 80% confirm Mild COPD$Cause_1": {
+            "FEV1 82%$Input6": {}
+        },
+        "COPD$Intermedia_3": {
+            "confirms the presence of persistent airflow limitation. It is a criteria of COPD$Cause_1": {
+                "Post-bronchodilator FEV1/FVC < 0.70.$Input6": {}
+            },
+            "Suspected COPD$Intermedia_2": {
+                "Dyspnea is a common symptom of COPD and is usually caused by limited lung function.$Cause_1": {
+                    "admitted for dyspnea$Input2": {}
+                },
+                "Responding to diuretics suggests that fluid retention may be present, which may be related to COPD-related heart problems.$Cause_1": {
+                    "good response to Lasix$Input2": {}
+                },
+                "Dyspnea at night may indicate a COPD exacerbation$Cause_1": {
+                    "developed \nshortness of breath$Input2": {}
+                },
+                "A dry cough is one of the classic symptoms of COPD, indicating irritation or inflammation of the airways.$Cause_1": {
+                    "nonproductive cough but feel \nlike he can't get it out$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "N/A\n",
+    "input2": "During his last admission, he was admitted for dyspnea.  He had a good response to Lasix given in the ED.  He had a repeat ECHO that showed normal EF.  He was started on Lasix 20 mg daily, diuresed 7.5 L.  He was ambulating comfortably upondischarge.  He also had abdominal pain/left hip pain with associated weakness.  XRay and CT scanning did not reveal any acute processes.  MRI of the L spine revealed stable post surgical changes.  The cause of these symptoms were felt to be muscle strain/arthritic.  The previous admission to this he was started on a 14 day prednisone taper and treated with levofloxacin.\nHe felt fine when he was discharged.  Yesterday, he went out\nwith his friend, used his O2.  Last night, he developed \nshortness of breath.  He has a nonproductive cough but feel \nlike he can't get it out.  He also reports orthopena, which is new, but no pedal edema.  He also reports L-sided chest \npressure, no radiation, not associated with breathing or \nactivity, associated with palpitations.  He also reports L sided abdominal/hip pain.  No fever.  He is currently is on the tail end of his prednisone.  \n\n",
+    "input3": "N/A\n",
+    "input4": "N/A\n",
+    "input5": "N/A\n",
+    "input6": "___ 02:45AM BLOOD WBC-11.9* RBC-4.99 Hgb-16.6 Hct-48.0 \nMCV-96 MCH-33.3* MCHC-34.6 RDW-15.0 RDWSD-52.8* Plt ___\n___ 02:45AM BLOOD Glucose-86 UreaN-12 Creat-0.7 Na-145 \nK-4.1 Cl-108 HCO3-19* AnGap-18\n\nPost-bronchodilator FEV1/FVC < 0.70.\nFEV1 82%\n"
+}

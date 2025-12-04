@@ -1,0 +1,61 @@
+{
+    "NSTE-ACS$Intermedia_4": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09.$Cause_1": {
+            "BLOOD cTropnT-0.85*$Input6": {}
+        },
+        "ECG change is a evidence of ACS-STEMI$Cause_1": {
+            "Sinus rhythm. Possible prior inferior wall myocardial infarction. Left atrial abnormality. Diffuse non-specific ST-T wave abnormalities. No previous tracing available for comparison.$Input6": {}
+        },
+        "Occlusion of the coronary artery is symbol of acs$Cause_1": {
+            "ESTIMATED blood loss: <60 cc\nHemodynamics (see above):\nCoronary angiography:  right dominant\nLMCA:  No angiographically apparent CAD\nLAD:  Ostial 40%, mild luminal irregularities.  Long 60% diagonal stenosis.\nLCX:  Proximal 30%, Origin OM1 had 60% stenosis and the Cx continuation had thrombotic subtotal occlusion with 95% stenosis\nRCA:  Chronic mid vessel total occlusion with collaterals from the LCA$Input6": {}
+        },
+        "Cardiac structural abnormalities is a diagnostic criteria of ACS-STEMI$Cause_1": {
+            "The left atrium is mildly dilated. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. There is mild regional left ventricular systolic dysfunction with hypokinesis of the basal inferior, inferolateral and lateral walls (LCx disease). The remaining segments contract normally (LVEF = 40-45%). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve leaflets are structurally normal. Mild (1+) mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion.$Input6": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09..$Cause_1": {
+            "CK-MB-88* cTropnT-1.33*$Input6": {}
+        },
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09...$Cause_1": {
+            "cTropnT-0.71*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "symptom of ACS$Cause_1": {
+                "72 year old man with GERD, HTN, no known CAD, presented this am with several hours of retrosternal chest pressure similar but more severe than prior episodes of GERD.$Input2": {}
+            },
+            "risk factors$Cause_1": {
+                "Hyperlipidemia$Input3": {}
+            },
+            "family history is a risk factor$Cause_1": {
+                "Father died by cardiac issue. Mother died of pancreatic ca. Family Hx colon ca. Older brother well.$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "maybe evidence of ACS-STEMI$Cause_1": {
+                "Found to have inferior STe with reciprocal STd in I, aVL, QW in v4-6. Trop elevated at 0.09 (ref <0.03).$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "Chest pain$Input1": {}
+                },
+                "symptom of ACS$Cause_1": {
+                    "72 year old man with GERD, HTN, no known CAD, presented this am with several hours of retrosternal chest pressure similar but more severe than prior episodes of GERD.$Input2": {}
+                },
+                "risk factors$Cause_1": {
+                    "Hyperlipidemia$Input3": {}
+                },
+                "family history is a risk factor$Cause_1": {
+                    "Father died by cardiac issue. Mother died of pancreatic ca. Family Hx colon ca. Older brother well.$Input4": {}
+                }
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "72 year old man with GERD, HTN, no known CAD, presented this am with several hours of retrosternal chest pressure similar but more severe than prior episodes of GERD. Found to have inferior STe with reciprocal STd in I, aVL, QW in v4-6. Trop elevated at 0.09 (ref <0.03). Received clopidogrel 600mg, ASA 325, Atorva 80. Started on nitro and heparin gtt and transferred cath. \n \nCath showed LCx <100% lesion and received DESx3. Jailed OM was wired and ballooned with good flow following. He was chest pain free following the procedure and EKG changes resolved. \n\nOn arrival to the floor, pt reports resolution of CP. Denies N/V/F/C/SOB. Reports feeling anxious about being in the hospital.\n",
+    "input3": "+Hyperlipidemia\n+chronic GERD\n+OSA\n",
+    "input4": "Father died by cardiac issue. Mother died of pancreatic ca. Family Hx colon ca. Older brother well.\n",
+    "input5": "ADMISSION\nVS: 98.5   147/81   91  16   97%RA\nGeneral: WDWN man laying comfortably in hospital bed\nHEENT: NCAT, PERRL, EOMI\nNeck: supple, no JVD\nCV: regular rhythm, no m/r/g\nLungs: CTAB, no w/r/r\nAbdomen: soft, NT/ND, BS+\nExt: WWP, no c/c/e, 2+ distal pulses bilaterally\nNeuro: AAOx3 moving all extremities grossly\n",
+    "input6": "___ 08:00AM BLOOD WBC-9.1 RBC-4.55* Hgb-15.3 Hct-43.1 MCV-95 MCH-33.6* MCHC-35.5* RDW-13.0 Plt ___\n___ 07:45AM BLOOD WBC-6.6 RBC-4.21* Hgb-14.5 Hct-39.2* MCV-93 MCH-34.5* MCHC-37.0* RDW-13.0 Plt ___\n___ 12:46AM BLOOD Plt ___\n___ 08:00AM BLOOD Plt ___\n___ 07:45AM BLOOD Plt ___\n___ 12:46AM BLOOD Na-140 K-3.8 Cl-105\n___ 08:00AM BLOOD Glucose-115* UreaN-14 Creat-1.0 Na-139 K-3.8 Cl-102 HCO3-25 AnGap-16\n___ 07:45AM BLOOD Glucose-112* UreaN-14 Creat-1.0 Na-140 K-4.2 Cl-103 HCO3-25 AnGap-16\n___ 12:46AM BLOOD cTropnT-0.85*\n___ 08:00AM BLOOD CK-MB-88* cTropnT-1.33*\n___ 07:45AM BLOOD cTropnT-0.71*\n___ 08:00AM BLOOD Calcium-9.1 Phos-3.3 Mg-2.1\n___ 07:45AM BLOOD Calcium-9.1 Phos-3.6 Mg-2.1\n\nSTUDIES\n___ ECG\nSinus rhythm. Possible prior inferior wall myocardial infarction. Left atrial abnormality. Diffuse non-specific ST-T wave abnormalities. No previous tracing available for comparison.  \n\n___ Cardiac Cath\nESTIMATED blood loss: <60 cc\nHemodynamics (see above):\nCoronary angiography:  right dominant\nLMCA:  No angiographically apparent CAD\nLAD:  Ostial 40%, mild luminal irregularities.  Long 60% diagonal stenosis.\nLCX:  Proximal 30%, Origin OM1 had 60% stenosis and the Cx continuation had thrombotic subtotal occlusion with 95% stenosis\nRCA:  Chronic mid vessel total occlusion with collaterals from the LCA\n\n___ ECHO\nThe left atrium is mildly dilated. Due to suboptimal technical quality, a focal wall motion abnormality cannot be fully excluded. There is mild regional left ventricular systolic dysfunction with hypokinesis of the basal inferior, inferolateral and lateral walls (LCx disease). The remaining segments contract normally (LVEF = 40-45%). Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) appear structurally normal with good leaflet excursion and no aortic stenosis or aortic regurgitation. The mitral valve leaflets are structurally normal. Mild (1+) mitral regurgitation is seen. The pulmonary artery systolic pressure could not be determined. There is no pericardial effusion.\n"
+}

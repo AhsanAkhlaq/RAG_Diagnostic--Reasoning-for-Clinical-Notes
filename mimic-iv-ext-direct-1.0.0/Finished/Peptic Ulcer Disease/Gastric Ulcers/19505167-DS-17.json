@@ -1,0 +1,21 @@
+{
+    "Gastric ulcers$Intermedia_3": {
+        "Gastric ulcer with bleeding onendoscopy is the gold standard of gastric ulcer.$Cause_1": {
+            "Endoscopy:Gastric ulcer with bleeding$Input6": {}
+        },
+        "suspected peptic ulcer disease$Intermedia_2": {
+            "black stool and epigastric discomfort are the manifestations of peptic ulcer with bleeding.$Cause_1": {
+                "The patient is a year old man with hypertension who presents with 3 days of black stool and epigastric discomfort.$Input2": {}
+            },
+            "stool was black and guaiac negative is the vidence of blood in the stool.$Cause_1": {
+                "His stool was black and guaiac negative (although it was later guaiac positive on the floor).$Input2": {}
+            }
+        }
+    },
+    "input1": "black stools X 3 days\n",
+    "input2": "The patient is a year old man with hypertension who presents with 3 days of black stool and epigastric discomfort. The patient states that he began having non-radiating, epigastric pain on . The pain subsided but returned on night. From midnight to 4am, he experienced epigastric pain and a sensation of pressure and gas, which was relieved after an episode of non-bloody emesis. He also had an episode of \"black diarrhea\" that night. The patient has been pain-free since morning but notes that he continues to have black stool, including his last bowel movement this morning. The patient presented to today and saw Dr. who referred him to the ED for melena, abdominal pain, and tachycardia. The patient denies any fevers, chest pain, shortness of breath, lightheadedness, or NSAID use. He does note a 5 pound weight loss which he attributes to exercise. In the ED, initial VS: 99.2 94 150/85 19 100% RA. An NG lavage was performed, yielding clear lavage. His stool was black and guaiac negative (although it was later guaiac positive on the floor). He also received IV protonix. Currently, the patient is resting comfortably. He has no pain, nausea, or diarrhea. GI saw the patient and, through an interpreter, explained the plan for EGD. After speaking to his wife, the patient has declined EGD. He states that he needs to support his wife and daughter and that this hospitalization was not planned. He feels like he is okay right now and would like to do the EGD at a later date. He has agreed to stay overnight for monitoring but would like to go home tomorrow. He also refused to sign a consent for blood and said he would do this later.\n",
+    "input3": "+Hypertension - not currently on any medication\n",
+    "input4": "unknown\n",
+    "input5": "Vitals - T:99.3 HR:94 RR:20 02 sat:99RA  \nGENERAL: Sitting in bed, comfortable, NAD.  \nHEENT: Normocephalic, atraumatic; PERRLA, sclera anicteric, oropharynx clear without erythema or lesion, moist mucus membranes, neck supple, no lymphadenopathy.  \nCARDIAC: regular rate and rhythm, normal S1 and S2, no murmurs appreciated.  \nLUNG: Clear to auscultation bilaterally, no wheezes or crackles. \n \nABDOMEN: large abdomen, +bowel sounds, soft, non-tender, non distended, no pain on palpation, no guarding or rebound pain  \nEXT: warm, well-perfused, no edema, 2+ DP and pulses.  \nNEURO: A&Ox3, CN intact  \nDERM: No rashes  \nRECTAL: minimal stool, brown and black, guaiac positive\n",
+    "input6": "01:15PM   \nSodium-141 Potassium-4.5 Chloride-107 Total CO2-27 Urea N-14 Creat-1.0 Glucose-91 Anion Gap-12\nALT-25 AST-22 LDH-146 Alk Phos-50 Tot Bili-0.4Albumin-4.5 Lipase-45\nWBC-6.9 RBC-5.06 Hgb-13.1* Hct-40.5 MCV-80* MCH-25.9* MCHC-32.3 \nRDW-16.1* Plt\nSerial Hct:\n01:20PM Hgb-14.4  Hct-43\n08:00PM           Hct-37.5*\n05:50AM Hgb-11.6* Hct-36.6* \nIron Studies:\nIron-60 calTIBC-373 Ferritn-31 TRF-287\nEndoscopy:Gastric ulcer with bleeding\n"
+}

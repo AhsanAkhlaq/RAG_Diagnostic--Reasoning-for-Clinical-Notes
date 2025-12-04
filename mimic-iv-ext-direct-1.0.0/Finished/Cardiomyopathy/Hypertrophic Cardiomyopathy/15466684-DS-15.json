@@ -1,0 +1,33 @@
+{
+    "Hypertrophic Cardiomyopathy$Intermedia_3": {
+        "Abnormal rhythms of ECG can be a sign ofHypertrophic Cardiomyopathy$Cause_1": {
+            "EKG showed: NSR, new LAD. CTA did not show PE. Echo showed sig LVOT obstruction, possibly HOCM. No arrhythmias were noted on telemetry.$Input2": {}
+        },
+        "Echocardiogram: Increased thickness of the myocardial wall(typically >15mm) can be diagnosised  as Hypertrophic Cardiomyopathy$Cause_1": {
+            "There is mild symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. Regional left ventricular wall motion is normal.$Input6": {}
+        },
+        "Suspected Cardiomyopathy$Intermedia_2": {
+            "Syncope is a sign of Cardiomyopathy$Cause_1": {
+                "Syncope$Input1": {}
+            },
+            "hx of dCHF, HTN, CVA are risk facts of Cardiomyopathy$Cause_1": {
+                "Female with hx of dCHF, HTN, CVA, prior syncopal episode secondary PEs presented with a syncopal epsiode.$Input2": {}
+            },
+            "lower GIB possibly in setting of lovenox treatment to reduce DVT  risk perioperatively\n is a  risk fact of  Cardiomyopathy$Cause_1": {
+                "+lower GIB possibly in setting of lovenox treatment to reduce DVT  risk perioperatively$Input3": {}
+            },
+            "midsystolic murmur in the left sternal border that is louder with valsalva maneuver is sign of Cardiomyopathy$Cause_1": {
+                "CARDIAC: RRR, S1/S2, midsystolic murmur in the left sternal border that is louder with valsalva maneuver$Input5": {}
+            },
+            "abnormal rhythms of ECG can be a sign ofHypertrophic Cardiomyopathy$Cause_1": {
+                "ECG :Sinus rhythm with change in the atrial morphology as compared with previous tracing. Prior anteroseptal myocardial infarction. Low precordial lead voltage as previously recorded.$Input6": {}
+            }
+        }
+    },
+    "input1": "Syncope\n",
+    "input2": "Female with hx of dCHF, HTN, CVA, prior syncopal episode secondary PEs presented with a syncopal epsiode. The episode occurred day prior to admission while the patient was cooking breakfast. No prodrome: the patient denied lightheadedness, dizziness, chest pain, palpitations. Had otherwise been feeling well--was eating/drinking well, no dysuria, no fevers, no cp/sob. No recent medication changes, no narcotics/sleep aid usage. \n\nThe patient is on coumadin for previous provoked PEafter r TKR replacement. Last echo showed no significant valvular disease, with LVH and dCHF.  \n \nIn the ED, initial vitals were  98.6 74 121/65 19 100% RA . \n\nLabs : WBC 8.8 Hbg 11.4 Hct 35.2 Plt 422\n___: 28.5  PTT: 40.5  INR: 2.7 \n\nEKG showed: NSR, new LAD. CTA did not show PE. Echo showed sig LVOT obstruction, possibly HOCM. No arrhythmias were noted on telemetry.\n",
+    "input3": "+Hypertension  \n+Hyperlipidemia  \n+Osteoarthritis  \n+s/p ovarian Cancer BSO TAH  \n+right knee replacement\n+lower GIB possibly in setting of lovenox treatment to reduce DVT  risk perioperatively \n+Bell's palsy  \n+Macrocytic anemia\n",
+    "input4": "NC\n",
+    "input5": "VS: 98.4 101/46 68 18 99% on RA\nGeneral: frail-looking AA female in NAD\nHEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, patent nares, MMM, good dentition\nNECK: nontender supple neck, no LAD, JVP 8-9cm\nCARDIAC: RRR, S1/S2, midsystolic murmur in the left sternal border that is louder with valsalva maneuver\nLUNG: mild crackles in the right base\nABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly\nEXTREMITIES: 2+ edema up to knees b/l\nPULSES: 1+ DP pulses bilaterally\nNEURO: right sided facial droop, residual right sided weakness\nSKIN: dry\n",
+    "input6": "___ 05:05PM BLOOD WBC-8.8# RBC-3.38* Hgb-11.4* Hct-35.2* MCV-104* MCH-33.7* MCHC-32.5 RDW-13.6 Plt ___\n___ 06:55PM BLOOD ___ PTT-40.5* ___\n___ 05:05PM BLOOD Glucose-93 UreaN-22* Creat-0.9 Na-128* K-6.2* Cl-94* HCO3-29 AnGap-11\n___ 05:16PM URINE  RBC-<1 WBC-1 BACTERIA-NONE YEAST-NONE EPI-<1\n___ 05:16PM URINE  HYALINE-2*\n___ 05:16PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 LEUK-TR\n___ 05:16PM URINE  HOURS-RANDOM UREA N-210 CREAT-20 SODIUM-40 POTASSIUM-25 CHLORIDE-40\n___ 06:20AM BLOOD ___ PTT-35.5 ___\n___ 06:00AM BLOOD ___ PTT-37.9* ___\n___ 06:00AM BLOOD WBC-8.0 RBC-3.07* Hgb-10.1* Hct-31.8* MCV-104* MCH-33.0* MCHC-31.9 RDW-13.6 Plt ___\n___ 06:00AM BLOOD Glucose-82 UreaN-20 Creat-0.8 Na-135 K-4.3 Cl-102 HCO3-27 AnGap-10\n\nECG (___): Sinus rhythm with change in the atrial morphology as compared with previous tracing. Prior anteroseptal myocardial infarction. Low precordial lead voltage as previously recorded. The ST-T wave flattening has improved. The rate has increased. The P-R interval is borderline prolonged. Otherwise, no diagnostic interim change.\n\nCXR (___): IMPRESSION: \n \nNo acute intrathoracic abnormality. Persistent severe degenerative changeswithin visualized right shoulder joint.\n\nCTA Chest with and without contrast (___):\nIMPRESSION: \n \n1.  No acute pulmonary embolism.\n2.  Enlarged heart with coronary artery calcifications.\n3.  Multinodular goiter, seen previously unchanged.  Nonemergent ultrasoundcan be performed if clinically indicated.\n\n___: There is mild symmetric left ventricular hypertrophy. The left ventricular cavity size is normal. Regional left ventricular wall motion is normal. Left ventricular systolic function is hyperdynamic (EF>75%). There is a moderate resting left ventricular outflow tract obstruction \nsuggested. The gradient slightly increased with the Valsalva manuever. The findings are consistent with hypertrophic obstructive cardiomyopathy (HOCM). There is no ventricular septal defect. Right ventricular chamber size and free wall motion are normal. The aortic valve leaflets (3) are mildly thickened but aortic stenosis is not present. No aortic regurgitation is seen. The mitral valve leaflets are mildly thickened. Trivial mitral regurgitation is seen. The tricuspid valve leaflets are mildly thickened. There is mild pulmonary artery systolic hypertension. There is no pericardial effusion. \n\nCompared with the prior study (images reviewed), resting LVOT obstruction is now detected (may haqve been underestimated on prior). Hyperdynamic LV systolic function and heart rate are similar.\n"
+}

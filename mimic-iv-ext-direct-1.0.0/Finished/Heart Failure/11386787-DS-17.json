@@ -1,0 +1,43 @@
+{
+    "HFpEF$Intermedia_5": {
+        "LVEF\u226550% is the critiera for HFpEF$Cause_1": {
+            "LVEF>55%$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is moderately dilated$Input6": {}
+            },
+            "Strongly suspected heart failure$Intermedia_3": {
+                "BNP \u226535pg/ml is a diagnostic criteria of heart failure$Cause_1": {
+                    "elevated BNP$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Breathlessness is a typical symptom of heart failure$Cause_1": {
+                        "dyspnea on excertion$Input1": {}
+                    },
+                    "previous medical history of coronary artery disease, arrhythmias and hypertension are risk factors of heart failure$Cause_1": {
+                        "Past Medical History:\n1. CAD status post CABG.  \n2. Paroxysmal atrial fibrillation.  \n3. Hypertension.  \n4. Tachybrady syndrome, status post pacemaker implantation.$Input3": {}
+                    },
+                    "Breathlessness is a typical symptom of heart failure #$Cause_1": {
+                        "progressive SOB over a period of months$Input2": {}
+                    },
+                    "Reduced exercise tolerance is a typical symptom of heart failure$Cause_1": {
+                        "he could hardly walk up 3 stairs ___ pausing to catch his breath$Input2": {}
+                    },
+                    "Elevated jugular venous pressure is a specific sign of heart failure$Cause_1": {
+                        "markedly elevated JVP$Input5": {}
+                    },
+                    "Ankle swelling is a typical symptom of heart failure$Cause_1": {
+                        "edema in legs$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "dyspnea on excertion\n",
+    "input2": "\n___ year old male with CAD s/p CABG of asthma chief complaint of progressive SOB over a period of months. However, over the past week his symptoms have gotten progressively worse. At baseline, the patient exercises on stationary bike/tread mill for 1hr daily. However, on day PTA he could hardly walk up 3 stairs ___ pausing to catch his breath. He also reports wheezing. No relief w/ inhalers, however. Currently undergoing pul ___ (due to see ___. ___ wk). Had some pain in left low back day PTA, self resolved. Denies chest pain. + edema in legs.\n",
+    "input3": "\n1. CAD status post CABG.  \n2. Paroxysmal atrial fibrillation.  \n3. Hypertension.  \n4. Tachybrady syndrome, status post pacemaker implantation.  \n5. Hyperprolactinemia -- cause uncertain  \n \nSocial History:\n___\nFamily History:\nN/C\n",
+    "input4": "None\n",
+    "input5": "\nAdmission\nVS - 96.5, 151/71, 73, 20, 95% RA  \nGen: WDWN middle aged male in NAD. Oriented x3. Mood, affect \nappropriate.  \nHEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were \npink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \n\nNeck: markedly elevated JVP  \nCV: RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.\nLegs: edema in legs \n \nChest: No chest wall deformities, scoliosis or kyphosis. Resp \nwere unlabored, no accessory muscle use. CTAB, no crackles, \nwheezes or rhonchi.  \nAbd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by \npalpation. No abdominial bruits.  \nExt: trace - 1+ edema  \nSkin: No stasis dermatitis, ulcers, scars, or xanthomas.\n",
+    "input6": "\n___ 02:55PM BLOOD WBC-8.3 RBC-4.47* Hgb-13.2* Hct-38.5* \nMCV-86 MCH-29.6 MCHC-34.4 RDW-13.5 Plt ___\n___ 07:10AM BLOOD WBC-9.7 RBC-4.37* Hgb-13.2* Hct-38.1* \nMCV-87 MCH-30.2 MCHC-34.7 RDW-13.9 Plt ___\n___ 06:40AM BLOOD WBC-9.5 RBC-4.32* Hgb-12.5* Hct-37.8* \nMCV-87 MCH-28.8 MCHC-33.0 RDW-13.4 Plt ___\n___ 06:55PM BLOOD ___ PTT-36.1* ___\n___ 07:10AM BLOOD ___\n___ 07:10AM BLOOD Glucose-82 UreaN-20 Creat-1.2 Na-146* \nK-4.2 Cl-103 HCO3-35* AnGap-12\n___ 06:40AM BLOOD Glucose-84 UreaN-24* Creat-1.2 Na-144 \nK-4.1 Cl-103 HCO3-33* AnGap-12\n___ 02:55PM BLOOD CK(CPK)-56\n___ 09:20PM BLOOD CK(CPK)-52\n___ 02:55PM BLOOD CK-MB-NotDone cTropnT-<0.01 \nproBNP-___*: \n___ 09:20PM BLOOD cTropnT-<0.01\nBNP: elevated BNP\n\nEcho:\nHe also had an echo with a preserved EF, no wall motion abnormalities and no change from prior.\n\nCXR:\nThe left atrium is moderately dilated. Left ventricular wall thickness, cavity size, and global systolic function are normal (LVEF>55%).\n"
+}

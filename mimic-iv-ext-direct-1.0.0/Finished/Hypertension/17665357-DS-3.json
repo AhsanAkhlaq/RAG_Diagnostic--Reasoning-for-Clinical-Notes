@@ -1,0 +1,24 @@
+{
+    "Hypertension$Intermedia_3": {
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.$Cause_1": {
+            "BP: 152/75, 137/86 -> 20 IV hydral -> 139/81$Input5": {}
+        },
+        "An elevation of BP(SBP\u2265140mmHg or DBP\u226590mmHg)confirmed is a diagnostic criteria of Hypertension.*$Cause_1": {
+            "BP was 158/77$Input2": {}
+        },
+        "Suspected Hypertension$Intermedia_2": {
+            "Chest pain is a symptoms of Hypertension.$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "Headache is a classic symptoms of Hypertension.$Cause_1": {
+                "headache$Input1": {}
+            }
+        }
+    },
+    "input1": "postpartum day 9 chest pain, SOB, headache\n",
+    "input2": "35 yo female with s/p uncomplicated term SVD presented on PPD#9 to the ED from PCP office with 4 days of chest pain, increasing pleuritic SOB and with exertion, orthopnea, and headache.  Chest pain of gradual onset, central, nonradiating, different from GERD. BP was 158/77 in the ED. Headache started at base of her neck, has wrapped around forehead in band-like distribution.  No vision changes, RUQ or epigastric pain.  Bleeding minimal.  ROS positive for increasing bilateral lower extremity swelling over past few days.\n",
+    "input3": "OBHx: G6P2, term SVD, SAB x2, TAB x2. most recent pregnancy uncomplicated. no HTN in prenatal or L&D records. \nGynHx: abnl Pap h/o with normal colpo, neg since, D&C x2\nPMH: GERD, Migraine, angiolipoma of right leg. no known history of HTN. history of bronchitis.\nPSH: Angiolipoma removal right lower extremity x 4, D&C x2\nMeds: motrin & tylenol prn \nAll: Latex, Shellfish\n",
+    "input4": "noncontributory\n",
+    "input5": "BP: 152/75, 137/86 -> 20 IV hydral -> 139/81\nHR: 60, RR 18, temp 98.2, 98% RA\nNAD: no increased work of breathing but slightly tachypneic\nCV: regular rate and rhythm\nPULM: lungs CTAB, no crackles appreciated, good air movement\nAbd: soft, gravid, mild epigastric TTP, fundus below umbilicus\next: lower extremities with 2+ pitting edema, no erythema orappreciable cords, symmetric\n",
+    "input6": "___ 07:25AM BLOOD WBC-7.7 RBC-3.60* Hgb-10.4* Hct-30.1* MCV-84 MCH-28.9 MCHC-34.7 RDW-14.6 \n___ 06:12PM BLOOD WBC-8.5 RBC-3.89* Hgb-10.7* Hct-32.7* MCV-84 MCH-27.5 MCHC-32.7 RDW-14.4 Plt ___\n___ 07:25AM BLOOD Glucose-83 UreaN-10 Creat-0.8 Na-140 K-4.4 Cl-108 HCO3-24 AnGap-12\n___ 06:12PM BLOOD Glucose-87 UreaN-12 Creat-0.8 Na-143 K-4.0 Cl-109* HCO3-24 AnGap-14\n___ 06:12PM BLOOD ALT-23 AST-23 AlkPhos-111* TotBili-0.2\n___ 06:12PM BLOOD proBNP-801*\n___ 06:12PM BLOOD cTropnT-<0.01\n"
+}

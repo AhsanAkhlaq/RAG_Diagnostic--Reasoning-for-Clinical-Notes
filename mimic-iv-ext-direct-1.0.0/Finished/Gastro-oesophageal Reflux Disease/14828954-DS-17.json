@@ -1,0 +1,24 @@
+{
+    "gastro-oesophageal reflux disease$Intermedia_3": {
+        "AET: 6.1% > 6% is the gold standard for gastro-oesophageal reflux$Cause_1": {
+            "Ambulatory reflux monitor :total AET:6.1% on pH-impedance monitoring$Input6": {}
+        },
+        "!Abdominal Pain is an atypical symptom of gastro-oesophageal reflux \rdisease.$Cause_1": {
+            "Abdominal Pain$Input1": {}
+        },
+        "suspected gastro-oesophageal reflux disease$Intermedia_2": {
+            "Reflux and heartburn are typical symptoms of gastro-oesophageal reflux \rdisease.Abdominal Pain is an atypical symptom of gastro-oesophageal reflux \rdisease.$Cause_1": {
+                "Today, she experienced severe worsening of left-sided abdominal pain with acid regurgitation and heartburn.$Input2": {}
+            },
+            "!Abdominal Pain is an atypical symptom of gastro-oesophageal reflux \rdisease.$Cause_1": {
+                "She reports pain is left sided, cramping, at worst times radiates throughout abdomen in in upper back.$Input2": {}
+            }
+        }
+    },
+    "input1": "Abdominal Pain\n",
+    "input2": "A patient at presenting from ED with abdominal pain and diarrhea. She had a recent admission for descending colitis presented to today with a reoccurence of abdominal pain. During her prior admission, she had presented with profuse watery and frankly bloody diarrhea. She had a MRI which showed 'descending colitis'. She was started on azithromycin until stool cultures returned negative. Her symptoms had improved and she was discharged home after two days on a regular diet. She felt she never improved to back to her normal baseline and continued to have intermittent diarrhea and abomdinal pain. She saw a GI as an outpatient on , had labs sent (unsure what they were testing for, thinking maybe IBD). Today, she experienced severe worsening of left-sided abdominal pain with acid regurgitation and heartburn. She was transferred to for higher level of care given she is wga. She reports pain is left sided, cramping, at worst times radiates throughout abdomen in in upper back. No fevers/chills. No nausea/vomiting. Last BM 3 pm yesterday, diarrhea, non bloody, no mucous. No recent travel, unusual foods, sick contacts. No rash, changes in skin/hair, joint pains. Pain improved with morphine x 1 at outside ED.\n",
+    "input3": "PNC: \n+Labs Rh pos/Abs neg/Rub I/RPR NR/HBsAg neg/HIV neg (per records)\n+Screening: low risk NIPT per pt,  +CF mutation carrier, FOB tested and negative per pt\n+FFS normal anatomy \n+GLT not yet performed\n+U/S: none recent\n+Issues: prior c-section, desires repeat\n \nOBHx: G2P1\n+G1: c-section, 40w2d, fetal distress, nuchal cord x 2, 6 lb 15 oz\n \nGynHx:\n+h/o endometriosis\n+h/o PCOS\n+denies abnormal pap\n+denies STIs\n \nPMH: \n+s/p esophageal dilation\n+PFO, discovered this pregnancy after w/u for chest pain\n \nPSH: \n+c-section\n+T&A\n+diagnostic laparoscopy for endometriosos\n \nMeds:\n+PNV, daily  ASA 81 mg (started for PFO)\n \nAll: \n+amoxicillin (GI upset) and augmentin (hives)\n \nSHx:\n+denies T/E/D. Works with developmentally disabled adults in outpatient setting. Married, lives at home with husband and child.\n",
+    "input4": "None\n",
+    "input5": "Initial Physical Exam\nT 97.9 BP 106/45 HR 79\nGen: A&O, mildly uncomfortable, lying on stretcher\nCV: RRR\nPULM: CTAB\nAbd: soft, gravid, min TTP on middle left abdomen, no rebound/guarding, normoactive BX\nExt: no calf tenderness\n\nToco flat\nFHT 130/moderate varability/+accels/-decels\n\nTAUS: transverse, head maternal R, BPP, MVP 4.68 cm, anterior placenta, EFW 869 g\n",
+    "input6": "05:26AM   GLUCOSE-83 UREA N-3* CREAT-0.5 SODIUM-142 POTASSIUM-3.5 CHLORIDE-111* TOTAL CO2-21* ANION GAP-14\n05:26AM   estGFR-Using this\n05:26AM   ALT(SGPT)-13 AST(SGOT)-14 LD(LDH)-119 ALK \nPHOS-62 TOT BILI-0.2\n05:26AM   LIPASE-49\n05:26AM   ALBUMIN-3.3* CALCIUM-8.4 MAGNESIUM-1.8 IRON-58\n05:26AM   calTIBC-428 FERRITIN-11* TRF-329\n05:26AM   WBC-10.1 RBC-3.45* HGB-10.6* HCT-30.8* MCV-89 MCH-30.8 MCHC-34.5 RDW-13.8\n05:26AM   PLT COUNT-229\n05:26AM   PLT COUNT-229\nAmbulatory reflux monitor :total AET:6.1% on pH-impedance monitoring\n"
+}

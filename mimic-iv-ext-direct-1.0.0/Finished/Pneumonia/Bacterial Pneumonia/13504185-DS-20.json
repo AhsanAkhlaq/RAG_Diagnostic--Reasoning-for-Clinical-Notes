@@ -1,0 +1,47 @@
+{
+    "Bacterial Pneumonia$Intermedia_4": {
+        "aemophilus influenzae is a common cause of bacterial pneumonia, particularly in patients with chronic lung disease or previous respiratory infections.$Cause_1": {
+            "Multiple organisms consistent with Haemophilus influenzae$Input6": {}
+        },
+        "Pneumonia$Intermedia_3": {
+            "There is an infiltration shadow in the right lower lobe of the lung, which is direct evidence of pneumonia.$Cause_1": {
+                "A repeat CXR showed a RLL infiltrate$Input2": {}
+            },
+            "An elevated WBC count, particularly neutrophils, is indicative of an infection or inflammation.$Cause_1": {
+                "BC-12.0*# (Neuts-80.2* Bands-0 Lymphs-14.5* Monos-3.8 Eos-1.3 Baso-0.3)$Input6": {}
+            },
+            "CT scan result explicitly mentions the presence of pneumonia$Cause_1": {
+                "There is a persistent right lower lobe pneumonia involving the entirety of the basal segments.$Input6": {}
+            },
+            "Pleural effusion, which is the presence of excess fluid between the layers of the pleura outside the lungs, often occurs as a complication of pneumonia.$Cause_1": {
+                "There is a moderate associated right pleural effusion$Input6": {}
+            },
+            "Mediastinal lymphadenopathy can occur in infectious conditions, including pneumonia.$Cause_1": {
+                "Additionally right mediastinal lymphadenopathy is present.$Input6": {}
+            },
+            "Suspected Pneumonia$Intermedia_2": {
+                "Productive coughing and shortness of breath are common symptoms of pneumonia$Cause_1": {
+                    "productive cough and shortness of breath x 1 week$Input2": {}
+                },
+                "A drop in blood oxygen saturation to 93% and rales (abnormal sounds in the lungs) heard during a physical examination are both indicators of pneumonia.$Cause_1": {
+                    "He was noted to be satting 93% on room air, with crackles on exam$Input2": {}
+                },
+                "Symptoms that temporarily improve after antibiotic treatment but then relapse may indicate an ongoing bacterial infection, often seen in pneumonia$Cause_1": {
+                    "He had additional Azithromycin at home$Input2": {}
+                },
+                "Long-term smoking damages the lungs' defense mechanisms, making the lungs more susceptible to infection and increasing the risk of pneumonia.$Cause_1": {
+                    "Tobacco abuse$Input3": {}
+                },
+                "Fluid or other non-air material in the chest, which are common signs of pneumonia$Cause_1": {
+                    "Decreased breath sounds in right base, with rhonchi way up, +dullness to percussion$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "Fever and cough\n",
+    "input2": "He is with a history of HCV and 20 pack-year smoking history. He presented to his PCP with complaints of productive cough and shortness of breath x 1 week. He was noted to be satting 93% on room air, with crackles on exam. A chest X-ray showed no infiltrate. He was given a 5-day course of Azithromycin. His cough improved, but within a few days of completing his course of Azithromycin, his symptoms returned. He had additional Azithromycin at home, and took an additional 5 days. \n\nHis cough again improved while taking antibiotics, then worsened again after his second course. He saw his PCP back in clinic, who elicited a history of intermittent fevers to 102.5F with chills, and cough productive of green sputum. He had diffuse lower lung field wheezing and rhonchi at the left base. A repeat CXR showed a RLL infiltrate, with inability to compare to prior CXR. Levaquin was not covered by his insurance, and he was prescribed cefpodoxime and azithromycin. His symptoms continued despite antibiotics, with daily fevers and productive cough.\n\nHe was febrile to 102.5F with BP 143/69, HR: 102, RR: 20, SaO2: 95% RA. Blood cultures were drawn, and he was administered Levofloxacin 750mg IV. Shortly afterwards, he experienced mild itchiness at the infusion site. The infusion was stopped, and he was given IV Ceftriaxone and Azithromycin. A contrast chest CT was done, which demonstrated a mass-like obstruction of the RLL bronchus and pinching of the right lower lobe pulmonary artery after the origin of the superior segmental bronchus. There was right hilar and mediastinal  lymphadenopathy. Right pleural effusion. He was admitted for further evaluation.\n",
+    "input3": "+Hepatitis C - genotype 1a\n+h/o IVDU on Suboxone\n+Tobacco abuse\n+Obesity\n+Recurrent strep tonsillitis\n+Cleared HBV (positive HBsAb, HBcAb)\n",
+    "input4": "Father with diabetes, HTN, deceased.  \nBrother with diabetes.\n",
+    "input5": "Temp: 96.3F, BP: 134/80, HR: 69, HR: 20, SaO2: 96% RA\nGen: Lying comfortably in bed, NAD\nHEENT: Strabismus, PERRL, oropharynx clear with no lesions\nNeck: Supple, no LAD\nCV: RRR, no m/r/g\nChest: Decreased breath sounds in right base, with rhonchi way up, +dullness to percussion\nAbd: Soft, NT/ND, +BS\nExtr: No ___ edema. PIV site without erythema\nSkin: No rash\n",
+    "input6": "- ___ 07:53PM BLOOD WBC-12.0*# (Neuts-80.2* Bands-0 Lymphs-14.5* Monos-3.8 Eos-1.3 Baso-0.3) RBC-4.39*# Hgb-12.5*# Hct-36.6*# MCV-83 MCH-28.5 MCHC-34.2 RDW-12.8 Plt ___\n - ___ 07:53PM BLOOD ___ 07:53PM BLOOD Glucose-136* UreaN-10 Creat-0.9 Na-134 K-4.2 Cl-99 HCO3-24 AnGap-15 Lactate-1.6\n - ___ 09:18PM URINE Color-Yellow Appear-Clear Sp Blood-NEG Nitrite-NEG Protein-25 Glucose-NEG \nKetone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG Bacteri-NONE Yeast-NONE Epi-0\n\nDISCHARGE LABORATORY STUDIES:\n - ___ 06:17AM BLOOD WBC-6.4 RBC-4.10* Hgb-11.8* Hct-35.7* MCV-87 MCH-28.7 MCHC-33.0 RDW-12.7 Plt ___\n - ___ 01:39PM BLOOD HIV Ab-PND\n\n___ CT CHEST:\n - FINDINGS: There is a persistent right lower lobe pneumonia involving the entirety of the basal segments. No air bronchograms are seen within this and the brochus to the lateral segment of the right lower lobe is narrowed and then obliterated beyond the origin of the superior segmental bronchus. There is a moderate associated right pleural effusion. Additionally right mediastinal lymphadenopathy is present. A right hilar node measures 1.4 x 2.1 cm (4; 126). A precarinal node measures 1.8 x 1.4 cm. No other nodules are seen within the lungs. There is no left pleural effusion. There is no pericardial effusion. Numerous non- enlarged prevascular nodes are present (4;52). The visualized osseous structures are unremarkable. The visualized portions of the upper abdomen demonstrate an exophytic cyst from the left upper renal pole and are otherwise unremarkable. \n\nMICROBIOLOGY:\n - ___ BLOOD CULTURE: NO GROWTH\n - Multiple organisms consistent with Haemophilus influenzae.\n"
+}

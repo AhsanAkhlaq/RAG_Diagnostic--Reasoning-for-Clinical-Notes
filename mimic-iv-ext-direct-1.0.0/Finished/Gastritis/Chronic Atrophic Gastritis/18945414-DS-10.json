@@ -1,0 +1,26 @@
+{
+    "Chronic atrophic gastritis$Intermedia_4": {
+        "Atrophic mucosa typically has a pale appearance. with increased visibility of submucosal blood vessels due to thinning \r  of the gastric mucosa and loss of gastric folds are the common microscopic performance in patients with chronic atrophic gastritis\r.$Cause_1": {
+            "EGD - Atrophic mucosa typically has a pale appearance. with increased visibility of submucosal blood vessels due to thinning \r     of the gastric mucosa and loss of gastric folds.rough mucosa, bleeding spots in the antrum (biopsy). Otherwise normal EGD to third part of the duodenum$Input6": {}
+        },
+        "chronic gastritis$Intermedia_3": {
+            "NSAIDs are a common cause in patients with chronic gastritis.$Cause_1": {
+                "She is a patient with PMH of migraines and NSAID induced gastritis.$Input2": {}
+            },
+            "suspected gastritis$Intermedia_2": {
+                "Epigastric pain is a symptom that may occur in patients with gastritis.$Cause_1": {
+                    "presenting with epigastric pain for about one week that is exacerbated with food, most recently with several episodes of hematemesis.$Input2": {}
+                },
+                "Abdominal pain and nausea are symptoms that may occur in patients with gastritis.$Cause_1": {
+                    "This is the third iteration of abdominal pain, nausea, hematemesis that has required endoscopy.$Input2": {}
+                }
+            }
+        }
+    },
+    "input1": "hematemesis\n",
+    "input2": "She is a patient with PMH of migraines and NSAID induced gastritis presenting with epigastric pain for about one week that is exacerbated with food, most recently with several episodes of hematemesis. This pain is very similar to other episodes of gastritis that she has had in the past. This is the third iteration of abdominal pain, nausea, hematemesis that has required endoscopy. She had previously been taking zofran to manage her vomiting, but ran out of the medication. For the last three days when she vomits, there is blood in the emesis, ranging from streaks to about a few teaspoons. Currently takes protonix and OTC antacids. Today, vomiting x3 with slightly more blood per patient. She has also had a few dark stools. She was seen 6 months ago and was hospitalized. She has been seen a few times by GI here and was supposed to have an EGD in early, but rescheduled related to insurance change with a job switch. \n\nOn review of records, gastrin levels have been normal on the past. She was also H. Pylori negative. Normal musoca in the duodenal bulb. Otherwise normal EGD to third part of the duodenum.\n",
+    "input3": "-Migraines\n-IBS\n-asthma\n",
+    "input4": "Mom has MS, otherwise no fmaily history of GI issues or otherwise\n",
+    "input5": "Vitals: 98.5, 139/82, 65, 18, 100RA  \nGeneral: Alert, oriented, appears uncomfortable  \nHEENT: Sclera anicteric, dry mucus membranes, oropharynx clear  \nNeck: supple, JVP not elevated, no LAD  \nLungs: Clear to auscultation bilaterally, no wheezes, rales, \nrhonchi  \nCV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops  \nAbdomen: soft, obese, non-distended, moderate pain with mild palpation to epigastric area, bowel sounds present, no rebound tenderness, voluntary guarding over epigastric area, no organomegaly  \nExt: Warm, well perfused, 2+ pulses, no clubbing, cyanosis, trace generalized edema \nSkin:  warm, dry, intact\nNeuro:  moves all extremities, ___ strength in bilateral upper and lower extremities\n",
+    "input6": "Imaging\n___ RUQ U/S - IMPRESSION: Cholelithiasis with mildly distended gallbladder as well as prominent CBD (9mm).  No definite signs of acute cholecystitis but if there is continued clinical concern, HIDA scan will be helpful for further evaluation.  \n\n___ EGD - Atrophic mucosa typically has a pale appearance. with increased visibility of submucosal blood vessels due to thinning \r     of the gastric mucosa and loss of gastric folds.rough mucosa, bleeding spots in the antrum (biopsy). Otherwise normal EGD to third part of the duodenum\n\n___ MRCP - 1. Cholelithiasis, without evidence for cholecystitis or biliary obstruction. Normal appearance of the bile ducts without obstructing intraductal stones or masses. \n2. Two hepatic lesions in segment IVb and V with intravoxel fat, demonstrating arterial hyperenhancement, equivocal washout, may represent adenomas or less likely atypical FNH. Recommended followup MRI with BOPTA for better characterization of these lesions. \n3. Incidental note is made of pancreas divisum. \n\n___ Pathology \nGastric mucosal biopsies, two:\n1. Body (1A): Corpus mucosa with no diagnostic abnormalities recognized.\n2. Antrum (2A): Chemical-type gastropathy.\n\nADMISSION LABS:\n___ 10:25AM BLOOD WBC-6.5 RBC-4.99 Hgb-11.8* Hct-38.0 MCV-76* MCH-23.7* MCHC-31.1 RDW-16.4* Plt ___\n___ 10:25AM BLOOD Neuts-66.4 ___ Monos-4.6 Eos-1.7 Baso-0.4\n___ 10:25AM BLOOD ___ PTT-33.3 ___\n___ 10:25AM BLOOD Glucose-106* UreaN-16 Creat-0.9 Na-141 K-3.5 Cl-106 HCO3-25 AnGap-14\n___ 10:25AM BLOOD ALT-15 AST-16 AlkPhos-43 TotBili-0.3\n___ 10:25AM BLOOD Lipase-50\n___ 10:25AM BLOOD Albumin-4.5 Calcium-9.5 Phos-4.0 Mg-2.2\n___ 10:40AM BLOOD Lactate-1.2\n___ 06:10AM BLOOD GASTRIN-PND\n"
+}

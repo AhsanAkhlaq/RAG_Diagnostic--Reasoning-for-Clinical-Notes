@@ -1,0 +1,33 @@
+{
+    "gastric ulcers$Intermedia_3": {
+        "Gastric ulcer with bleeding is the gold standars of gastric ulcer.$Cause_1": {
+            "Endoscopy:gastric ulcer with bleeding$Input6": {}
+        },
+        "suspected peptic ulcer disease$Intermedia_2": {
+            "Stomach pains and bloating are possible manifestations of peptic ulcer.$Cause_1": {
+                "Endorses some minor stomach pains and bloating.$Input2": {}
+            },
+            "Black, tarry stools is one of the possible manifestations of peptic ulcer$Cause_1": {
+                "All symptoms have been in the setting of black, tarry stools since yesterday.$Input2": {}
+            },
+            "Aspirin is a risk factor of peptic ulcer.$Cause_1": {
+                "Pt takes plavix, aspirin, tramadol, and diclofenac for back pain. Also on citalopram.$Input2": {}
+            },
+            "Anemia is one of the possible manifestation of peptic ulcer$Cause_1": {
+                "RBC-3.91*$Input6": {}
+            },
+            "GIB with indigestion is one of the possible manifestation of peptic ulcer$Cause_1": {
+                "GIB with indigestion here for r/o MI$Input1": {}
+            },
+            "Indigestion and substernal burning are possible manifestations of peptic ulcer.$Cause_1": {
+                "Woke up multiple times last was having 'indigestion', that he describes as substernal burning and sour taste in his mouth.$Input2": {}
+            }
+        }
+    },
+    "input1": "GIB with indigestion here for r/o MI\n",
+    "input2": "with PMHx of STEMI, HL, EtOH abuse who presents to ED with 24 hour h/o fatigue and weakness. Also with diaphoresis, dizziness, and lightheadedness this AM. All symptoms have been in the setting of black, tarry stools since yesterday. Has had at least 3 BM with melenic stools. Said he was feeling fatigued yesterday and went to bed early. Woke up multiple times last was having 'indigestion', that he describes as substernal burning and sour taste in his mouth. This AM became diaphoretic in the shower, and during work noted 'tingling' of his left arm and epigastrium. Had minor tingle in chest, but no pain. Also having uncontrollable yawning.\n\nPt takes plavix, aspirin, tramadol, and diclofenac for back pain. Also on citalopram. Endorses some minor stomach pains and bloating.\n\nIn the ED, initial vitals were 97 108 135/79 20 100% ra. He was treated with PPI and noted to be guiac positive. Not given any IVF.\n\nOn the floor pt denies any current symptoms of lightheadedness, dizziness, palpitations, chest pain, dysphagia, odynophagia,\n\nLabs and imaging significant for hct 35.1 and negative troponins\n\nPatient given PPI, tums, viscous lidocaine, and dannatol in ED\nVitals on transfer were 98.0 104 116/66 16 100\n",
+    "input3": "+ST Elevation IMI/RCA Cypher stenting\n+Hyperlipidemia\n+Recovering alcoholic\n+Chronic back pain\n+Hyperlipidemia  \n+DES to RCA and Lcx\n+Chronic back pain\n",
+    "input4": "Father had an MI. Sister with a possible MI. Paternal uncle with an MI.\n",
+    "input5": "VS- BP=119/83 HR=130's RR=20 O2 sat=100%RA  \nGENERAL- NAD. Well nourished. Sitting upright in chair and conversive.  \nHEENT- NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the oral mucosa. No xanthalesma.  \n\nNECK- Supple with JVP of 5-7 cm.  \nCARDIAC- PMI intercostal space, midclavicular line. RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  \nLUNGS- No chest wall deformities, scoliosis or kyphosis. Resp were unlabored, no accessory muscle use. CTAB, no crackles, wheezes or rhonchi.  \nABDOMEN- Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by palpation. No abdominial bruits.  \nEXTREMITIES- No c/c/e. No femoral bruits.  \nSKIN- No stasis dermatitis, ulcers, scars, or xanthomas.  \nPULSES-  \nRight: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ 2+  \nLeft: Carotid 2+ Femoral 2+ Popliteal 2+ DP 2+ 2+\n",
+    "input6": "08:58AM BLOOD WBC-7.9 RBC-3.91* Hgb-11.8* Hct-35.1* MCV-90 MCH-30.1 MCHC-33.5 RDW-14.1 Plt\n08:58AM BLOOD PTT-29.1\n08:58AM BLOOD Glucose-104* UreaN-45* Creat-0.9 Na-140 K-4.7 Cl-108 HCO3-23 AnGap-14\nEndoscopy:gastric ulcer with bleeeding\n"
+}

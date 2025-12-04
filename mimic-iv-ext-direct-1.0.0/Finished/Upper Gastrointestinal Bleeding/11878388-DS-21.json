@@ -1,0 +1,21 @@
+{
+    "upper gastrointestinal bleeding$Intermedia_3": {
+        "The gastric fundus vein was ruptured and bleeding on gastroscopy is the gold standard for upper gastrointestinal bleeding$Cause_1": {
+            "gastroscopy\r:The gastric fundus vein was ruptured and bleeding$Input6": {}
+        },
+        "Suspected upper gastrointestinal bleeding$Intermedia_2": {
+            "Massive vomiting of red blood is typical of upper gastrointestinal bleeding$Cause_1": {
+                "The patient complained of nausea and was reported to have approximately 500 cc of bright red hematemesis;$Input2": {}
+            },
+            "Hemorrhagic peripheral circulatory failure is a nonspecific manifestation of gastrointestinal bleeding$Cause_1": {
+                "Mildly tachycardic, regular rhythm.$Input5": {}
+            }
+        }
+    },
+    "input1": "requesting detox\n",
+    "input2": "A male with PMH significant for borderline personality disorder, alcohol abuse, schizo-affective disorder, and IDDM who presented to the ED intoxicated after being brought in by EMS requesting detox. The patient reports that he is unable to recall the exact details of how EMS care was initiated. In the ED, initial vitals were 98.0, 105, 20, 138/88 and 94% RA. The patient was fairly combative and required several doses of Ativan and Haldol for sedation. A serum EtOH level was found to be 291. The patient complained of nausea and was reported to have approximately 500 cc of bright red hematemesis; he was then given Zofran for nausea. A right subclavian line was placed as the patient has difficult access. Lab testing was remarkable for an elevated serum blood sugar and AG acidosis. The patient reports that he had been in his usual state of health until the end of last week. Approximately four days PTA the patient stepped off a curb when he slipped and fell, injuring his left foot (denies hitting his head). The following day he stopped taking his insulin, which he reports he does intermittently. He denies significant NSAID use. At present, the patient reports he is comfortable but thirsty. He denies pain, fever, chills or persistent nausea. No CP, palpitations or diaphoresis. No cough, but the patient does report his breathing has felt \"shallow\" a few times in the last several days; he noted this while at rest. No abd pain. The patient reports he has noted some BRB streaking his stools over the last few days which is new for him; he denies melena or blood mixed within the stool. MSK complaints only as above. Denies weakness, change in sensation or balance.\n",
+    "input3": "+recent diagnosis of hepatitis B\n+History of alcohol and substance abuse\n+Borderline personality disorder\n+IDDM with a history of diabetic ketoacidosis in the past\n+Prior suicidal behavior\n+Schizo-affective disorder\n+History of depression and paranoia\n+Questionable history of seizure disorder, no seizures\n+History of microcytic anemia\n",
+    "input4": "Remarkable for DM. No bleeding diathesis or early CAD.\n",
+    "input5": "Gen: Chronically ill appearing adult male, no acute distress.\nHEENT: PERRL, EOMI. Dry MM. Conjunctiva well pigmented. \nNeck: Supple, without adenopathy or JVD. No tenderness with palpation.\nChest: CTAB anterior and posterior.\nCor: Normal S1, S2. Mildly tachycardic, regular rhythm. No \nmurmurs appreciated.\nAbdomen: Soft, non-tender and non-distended. +BS, no HSM.  \nExtremity: Warm, without edema. Tenderness and swelling noted at \nleft foot. 2+ DP pulses bilat.\nNeuro: Alert; initially oriented to self only. CN intact. \nMotor strength intact in all extremities. Sensation intact \ngrossly. Cerebellar function intact. Gait not assessed.\n",
+    "input6": "09:40PM   WBC-10.0 RBC-3.99* HGB-11.0* HCT-32.7* MCV-82 MCH-27.6 MCHC-33.8 RDW-14.7\n09:40PM   NEUTS-85.1* LYMPHS-11.5* MONOS-2.4 EOS-0.7 BASOS-0.2\n09:40PM   GLUCOSE-403* UREA N-9 CREAT-0.9 SODIUM-139 POTASSIUM-4.0 CHLORIDE-96 TOTAL CO2-19* ANION GAP-28*\ngastroscopy\r:The gastric fundus vein was ruptured and bleeding\n"
+}

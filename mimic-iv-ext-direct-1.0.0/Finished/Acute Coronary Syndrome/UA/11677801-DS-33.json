@@ -1,0 +1,105 @@
+{
+    "UA$Intermedia_5": {
+        "Severe chest pain is symbol of ACS-UA$Cause_1": {
+            "Reports pain during the last month which starts in left parasternal region, radiates to the left elbow. For the past week the patient has had worsening left-sided chest pressure with any exertional activities. This is associated with dyspnea and recovers after a couple of minutes of rest$Input2": {}
+        },
+        "Severe chest pain is symbol of ACS-UA.$Cause_1": {
+            "He states this felt unlike his prior episodes of angina. It lasted for about 25 min and resolved en route.$Input2": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest pain is a symptom of ACS$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "CAD c/b MI s/p 3v CABG and BMS can be risk factors$Cause_1": {
+                "CAD c/b MI s/p 3v CABG and BMS$Input3": {}
+            },
+            "family history can be risk fact$Cause_1": {
+                "Mother CAD, CHF, Tremor$Input4": {}
+            },
+            "family history can be risk fact.$Cause_1": {
+                "Father CAD$Input4": {}
+            },
+            "family history can be risk fact..$Cause_1": {
+                "Brother CAD$Input4": {}
+            }
+        },
+        "Strongly suspected ACS$Intermedia_3": {
+            "ECG changes can be sign of acs-ua$Cause_1": {
+                "EKG showed SR @ 58, old TWI in lead III, LAD. Currently reports continued left arm discomfort$Input2": {}
+            },
+            "Coronary stenosis can strongly be a sign of acs$Cause_1": {
+                "LMCA:  distal 60%\nLAD:  proximally occluded, distal vessel fills via LIMA\nLCX:  proximal 80% lesion with small distal vessel\nRCA:  diffuse proximal/mid disease with mid occlusion;$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "CAD c/b MI s/p 3v CABG and BMS can be risk factors$Cause_1": {
+                    "CAD c/b MI s/p 3v CABG and BMS$Input3": {}
+                },
+                "family history can be risk fact$Cause_1": {
+                    "Mother CAD, CHF, Tremor$Input4": {}
+                },
+                "family history can be risk fact.$Cause_1": {
+                    "Father CAD$Input4": {}
+                },
+                "family history can be risk fact..$Cause_1": {
+                    "Brother CAD$Input4": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation is a sign of NSTE-ACS$Cause_1": {
+                "ECG:non-ST-elevation$Input2": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest pain is a symptom of ACS$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "CAD c/b MI s/p 3v CABG and BMS can be risk factors$Cause_1": {
+                    "CAD c/b MI s/p 3v CABG and BMS$Input3": {}
+                },
+                "family history can be risk fact$Cause_1": {
+                    "Mother CAD, CHF, Tremor$Input4": {}
+                },
+                "family history can be risk fact.$Cause_1": {
+                    "Father CAD$Input4": {}
+                },
+                "family history can be risk fact..$Cause_1": {
+                    "Brother CAD$Input4": {}
+                }
+            },
+            "Strongly suspected ACS$Intermedia_3": {
+                "ECG changes can be sign of acs-ua$Cause_1": {
+                    "EKG showed SR @ 58, old TWI in lead III, LAD. Currently reports continued left arm discomfort$Input2": {}
+                },
+                "Coronary stenosis can strongly be a sign of acs$Cause_1": {
+                    "LMCA:  distal 60%\nLAD:  proximally occluded, distal vessel fills via LIMA\nLCX:  proximal 80% lesion with small distal vessel\nRCA:  diffuse proximal/mid disease with mid occlusion;$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest pain is a symptom of ACS$Cause_1": {
+                        "chest pain$Input1": {}
+                    },
+                    "CAD c/b MI s/p 3v CABG and BMS can be risk factors$Cause_1": {
+                        "CAD c/b MI s/p 3v CABG and BMS$Input3": {}
+                    },
+                    "family history can be risk fact$Cause_1": {
+                        "Mother CAD, CHF, Tremor$Input4": {}
+                    },
+                    "family history can be risk fact.$Cause_1": {
+                        "Father CAD$Input4": {}
+                    },
+                    "family history can be risk fact..$Cause_1": {
+                        "Brother CAD$Input4": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "He with h/o CAD s/p CABG and BM stent location, muscle invasive urothelial bladder ca s/p cystectomy and creating of neobladder, intraductal papillary mucinous neoplasm s/p Whipple procedure, who presents with chest pain. Reports pain during the last month which starts in left parasternal region, radiates to the left elbow. For the past week the patient has had worsening left-sided chest pressure with any exertional activities. This is associated with dyspnea and recovers after a couple of minutes of rest. \n\nThis morning at 4am he awoke with throbbing chest pain in the middle of his chest that radiated to his shoulders and his left arm. This was associated with nausea and palpitations, but not shortness of breath or diaphoresis. He states this felt unlike his prior episodes of angina. It lasted for about 25 min and resolved en route.\n\nWas seen where vitals were 97.8 63 126/58 15 96%. Initial ECG did not show evidence of STEMI/NSTEMI and troponin was negative. Received morphine and NTG with improvement in discomfort. He was transferred for possible cath.\n\nIn the ED, initial vitals were 97.4 60 146/54 16 100%. EKG showed SR @ 58, old TWI in lead III, LAD. Currently reports continued left arm discomfort, though no chest pain or shortness of breath. He denies cough, fever, pleuritic chest pain, orthopnea, syncope, leg swelling.ECG:non-ST-elevation\n",
+    "input3": "+muscle invasive urothelial bladder ca s/p cystectomy and creating of neobladder\n-intraductal papillary mucinous neoplasm s/p Whipple procedure \n+ventral hernia s/p repair\n+Ulcer s/p cautery\n+pulmonary embolus (was on coumadin for 6 mo)\n+CAD c/b MI s/p 3v CABG and BMS\n",
+    "input4": "Mother CAD, CHF, Tremor\nFather CAD\nBrother CAD, EtOH abuse\nBrother Living TREMOR, CAD   \nAunt LUNG CANCER\n",
+    "input5": "ADMISSION EXAM\n\n\nVS: Wt=215lbs T=97.8 BP=132/82 HR=67 RR=16 O2 sat=96% on RA \nGeneral: well-appearing man in NAD \nHEENT:  EOMI, anicteric sclera, mucus membranes moist\nNeck: supple JVD 6cm \nCV:  regular rate and rhythm, no murmurs, rubs, or gallops\nLungs:  breathing comfortably on room air, CTAB\nAbdomen:  +BS, S NT ND\nGU:  no foley\nExt:  warm and well perfused, no edema\nNeuro:  A&Ox3, CN2-12 intact, moving all extremities\nSkin:  no rashes\nPULSES:  2+\n",
+    "input6": "ADMISSION LABS\n\n___ 08:56AM BLOOD WBC-8.0# RBC-4.74 Hgb-15.3 Hct-47.2 MCV-99* MCH-32.3* MCHC-32.5 RDW-13.6 Plt ___\n___ 08:56AM BLOOD Neuts-69.9 ___ Monos-5.7 Eos-2.4 Baso-1.1\n___ 02:56PM BLOOD ___\n___ 08:56AM BLOOD Glucose-109* UreaN-21* Creat-1.3* Na-139 K-4.9 Cl-107 HCO3-21* AnGap-16\n___ 08:56AM BLOOD CK-MB-3\n\nSTUDIES\n\n___: Findings\nESTIMATED blood loss: 20 cc\nHemodynamics (see above):Coronary angiography:  right dominant\nLMCA:  distal 60%\nLAD:  proximally occluded, distal vessel fills via LIMA\nLCX:  proximal 80% lesion with small distal vessel\nRCA:  diffuse proximal/mid disease with mid occlusion; distal PLand PDA branches fill via SVG with no significant diseaseSVG sequentially to PL and PDA branches:  prior stent patent; 90%lesion proximal to proximal PL anastomosis LIMA- diagonal:  normal; retrograde filling of distal LAD which is a small vessel\n\nInterventional details\nChange for Fr AL 0.75 guide.  Using Spider distal protection,mid graft lersion crossed with Prowater wire , dilated with 2.5 balloon and stented with 3.5x12 Premier to 3.75 mm at 18 atm.  No residual, normal flow.  Angioseal femoral closure.\n"
+}

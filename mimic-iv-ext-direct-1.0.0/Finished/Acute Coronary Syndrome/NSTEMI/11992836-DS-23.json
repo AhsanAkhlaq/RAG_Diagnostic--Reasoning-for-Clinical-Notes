@@ -1,0 +1,72 @@
+{
+    "NSTEMI$Intermedia_5": {
+        "high hs-cTn is a strong value for ACS(> 0.2 \u03bcg/L\uff09$Cause_1": {
+            "cTropnT-0.14*\ncTropnT-0.21*$Input6": {}
+        },
+        "Suspected ACS$Intermedia_2": {
+            "Chest Pain is a symptom of ACS$Cause_1": {
+                "chest pain$Input1": {}
+            },
+            "Chest Pain is a symptom of ACS.$Cause_1": {
+                "presents 1 day history of chest pain. She was in her USOH until yesterday, noted sudden onset left sided chest pressure w/ nausea, diaphoresis, vomiting, radiation of pain down L arm.$Input2": {}
+            },
+            "Dyslipidemia  \n Rheumatoid Arthritis are Risk factors$Cause_1": {
+                "Dyslipidemia  \n Rheumatoid Arthritis$Input3": {}
+            }
+        },
+        "Strongly Suspected ACS$Intermedia_3": {
+            "Changes in heart structure is a diagnostic criteria of ACS.$Cause_1": {
+                "Mild symmetric left ventricular hypertrophy with subtle hypokinesis of the midinferoseptum. No clinically significant valvular regurgitation or stenosis. Indeterminate pulmonary pressure\n\nCATH ___:\nSuccessful PCI of the mid RCA with 3.0 DES(Mild disease in the other coronaries) Re load with clopidgrel 600 mg tonite and continue DAPT with ASA.$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "presents 1 day history of chest pain. She was in her USOH until yesterday, noted sudden onset left sided chest pressure w/ nausea, diaphoresis, vomiting, radiation of pain down L arm.$Input2": {}
+                },
+                "Dyslipidemia  \n Rheumatoid Arthritis are Risk factors$Cause_1": {
+                    "Dyslipidemia  \n Rheumatoid Arthritis$Input3": {}
+                }
+            }
+        },
+        "NSTE-ACS$Intermedia_4": {
+            "non-ST-elevation\r is  a sign of NSTE-ACS$Cause_1": {
+                "ECG\uff1a\nnon-ST-elevation$Input6": {}
+            },
+            "Suspected ACS$Intermedia_2": {
+                "Chest Pain is a symptom of ACS$Cause_1": {
+                    "chest pain$Input1": {}
+                },
+                "Chest Pain is a symptom of ACS.$Cause_1": {
+                    "presents 1 day history of chest pain. She was in her USOH until yesterday, noted sudden onset left sided chest pressure w/ nausea, diaphoresis, vomiting, radiation of pain down L arm.$Input2": {}
+                },
+                "Dyslipidemia  \n Rheumatoid Arthritis are Risk factors$Cause_1": {
+                    "Dyslipidemia  \n Rheumatoid Arthritis$Input3": {}
+                }
+            },
+            "Strongly Suspected ACS$Intermedia_3": {
+                "Changes in heart structure is a diagnostic criteria of ACS.$Cause_1": {
+                    "Mild symmetric left ventricular hypertrophy with subtle hypokinesis of the midinferoseptum. No clinically significant valvular regurgitation or stenosis. Indeterminate pulmonary pressure\n\nCATH ___:\nSuccessful PCI of the mid RCA with 3.0 DES(Mild disease in the other coronaries) Re load with clopidgrel 600 mg tonite and continue DAPT with ASA.$Input6": {}
+                },
+                "Suspected ACS$Intermedia_2": {
+                    "Chest Pain is a symptom of ACS$Cause_1": {
+                        "chest pain$Input1": {}
+                    },
+                    "Chest Pain is a symptom of ACS.$Cause_1": {
+                        "presents 1 day history of chest pain. She was in her USOH until yesterday, noted sudden onset left sided chest pressure w/ nausea, diaphoresis, vomiting, radiation of pain down L arm.$Input2": {}
+                    },
+                    "Dyslipidemia  \n Rheumatoid Arthritis are Risk factors$Cause_1": {
+                        "Dyslipidemia  \n Rheumatoid Arthritis$Input3": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "chest pain\n",
+    "input2": "Female with PMH of rheumatoid arthritis on prednisone, current smoker,  who presents 1 day history of chest pain. She was in her USOH until yesterday, noted sudden onset left sided chest pressure w/ nausea, diaphoresis, vomiting, radiation of pain down L arm. Went to OSH  and received ASA 325. Currently CP free, BPs 110s/74 HR 58, on RA. EKG notable initial submilimeter elevation AVL, no other elevations; resolved on repeat EKGs; noted TWI in AVF and VIII. Her troponins were elevated at 0.14, 0.21, and she was sent for PCI for NSTEMI. She was found to have a 99% occlusion of the RCA s/p DES and minimial residual disease in other vessels. Given full dose ASA and loaded with Plavix.\n\nCurrently she is chest pain free. She states that she has had small episodes of chest pressure and DOE recently that have always resolved quickly when she sits down. She denies headache, chest pain, fevers, chills, SOB, nausea, vomiting, or diarrhea.\n\nREVIEW OF SYSTEMS:  \nPositive per HPI.  \nCardiac review of systems is notable for absence of chest pain, dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, ankle edema, palpitations, syncope, or presyncope.  On further review of systems, denies fevers or chills. Denies any prior history of stroke, TIA, deep venous thrombosis, pulmonary embolism, bleeding at the time of surgery, myalgias, joint pains, cough, hemoptysis, black stools or red stools. Denies exertional buttock or calf pain. All of the other review of systems were negative.\n",
+    "input3": "+ Dyslipidemia  \n+ Rheumatoid Arthritis\n+ Osteopenia\n+ Vitamin D Deficiency\n+ Coronaries: Unknown\n+ Pump: Unknown\n+ Rhythm: NSR\n",
+    "input4": "No family history of early MI, arrhythmia, cardiomyopathies, or sudden cardiac death. Sister had a hear murmur as a child.\n",
+    "input5": "ADMISSION PHYSICAL EXAM\n=======================\nBP: 104/75 HR: 53 O2 sat: 98%\nGENERAL: Well developed, well nourished female in NAD. Oriented x3. Mood, affect appropriate.  \nHEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI. Conjunctiva were pink. No pallor or cyanosis of the oral mucosa. No xanthelasma.    \nCARDIAC: PMI located in intercostal space, midclavicular line. bradycardic, regular. Normal S1, S2. No murmurs, rubs, or gallops. No thrills or lifts.  \nLUNGS: No chest wall deformities or tenderness. Respiration is unlabored with no accessory muscle use. No crackles, wheezes or rhonchi.  \nABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No splenomegaly.  \nEXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or peripheral edema. R wrist non-tender with pulses intact, TR band in place with no evidence of hematoma. Sensation intact. \nSKIN: No significant skin lesions or rashes.  \nPULSES: Distal pulses palpable and symmetric.\n",
+    "input6": "ADMISSION LABS\n==============\n___ 06:00AM BLOOD WBC-9.0 RBC-3.98 Hgb-12.1 Hct-36.5 MCV-92 MCH-30.4 MCHC-33.2 RDW-15.1 RDWSD-50.6* Plt ___\n___ 06:00AM BLOOD Neuts-51.1 ___ Monos-7.3 Eos-1.4 Baso-0.6 Im ___ AbsNeut-4.59 AbsLymp-3.50 AbsMono-0.66 AbsEos-0.13 AbsBaso-0.05\n___ 09:33AM BLOOD ___ PTT-69.2* ___\n___ 06:00AM BLOOD Glucose-106* UreaN-14 Creat-0.9 Na-148* K-4.3 Cl-111* HCO3-23 AnGap-14\n___ 06:00AM BLOOD cTropnT-0.14*\n___ 09:33AM BLOOD cTropnT-0.21*\n___ 08:10AM BLOOD Calcium-9.3 Phos-4.0 Mg-2.0\n\nIMAGING\n=======\nTTE ___: Mild symmetric left ventricular hypertrophy with subtle hypokinesis of the midinferoseptum. No clinically significant valvular regurgitation or stenosis. Indeterminate pulmonary pressure\n\nCATH ___:\nSuccessful PCI of the mid RCA with 3.0 DES(Mild disease in the other coronaries) Re load with clopidgrel 600 mg tonite and continue DAPT with ASA.\n\nECG\uff1a\nnon-ST-elevation\n"
+}

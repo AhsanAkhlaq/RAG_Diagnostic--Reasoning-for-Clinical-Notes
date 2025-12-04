@@ -1,0 +1,47 @@
+{
+    "Massive PE$Intermedia_4": {
+        "Persistent hypotension refers to blood pressure that remains below normal, showing dynamic instability, which is a serious clinical manifestation in pulmonary embolism.$Cause_1": {
+            "The patient develops hemodynamic instability, show sustained hypotension$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "CTA showed pulmonary embolism in a small segment of the left lower lobe, which is the key evidence for direct diagnosis of pulmonary embolism.$Cause_1": {
+                "CTA which showed small subsegmental PE in LLL$Input2": {}
+            },
+            "A significant increase in D-dimer is one of the common laboratory indicators of pulmonary embolism.$Cause_1": {
+                "D-DIMER- 4315$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "back pain is the symptoms may be associated with pulmonary embolism$Cause_1": {
+                    "back pain$Input2": {}
+                },
+                "The patient had a certain degree of hypoxemia, which may be caused by pulmonary insufficiency and related to pulmonary embolism.$Cause_1": {
+                    "O2 sat was 85-90/RA, 95%on 4L$Input2": {}
+                },
+                "Patients with end-stage renal disease may have an increased risk of thrombosis due to long-term use of intravenous access$Cause_1": {
+                    "ESRD with HD-$Input3": {}
+                },
+                "The patient has a history of anticoagulant therapy, which is often used to prevent and treat thrombosis$Cause_1": {
+                    "On coumadin as allergy to heparin$Input3": {}
+                },
+                "Patients with a history of thrombosis. The blood clot may break off and form an embolus, which can migrate to the lungs and cause pulmonary embolism.$Cause_1": {
+                    "h/o right brachial vein thrombosis$Input3": {}
+                },
+                "Fluctuations in blood pressure may indicate an increased workload on the heart, which is common in PE as the heart fights against blockages in the blood vessels in the lungs.$Cause_1": {
+                    "BP = 110/61, 110/61-149/70$Input5": {}
+                },
+                "The patient had low oxygen saturation, a key symptom of PE, because impaired lung function leads to reduced oxygen exchange.$Cause_1": {
+                    "16 RR = 16 O2Sat = 94% on 2L$Input5": {}
+                },
+                "A prolonged PTT may indicate an abnormality in the coagulation system, which may be due to anticoagulant therapy or a coagulopathy$Cause_1": {
+                    "PTT-84.7$Input6": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "He with ESRD on HD resident, picked up at HebReb to go to dialysis, found by EMS to be diaphoretic, vomiting, c/o back pain. He denied any CP, SOB, abdominal pain. He was then sent to the ED. His O2 sat was 85-90/RA, 95%on 4L. In the ED, EKG showed LBBB (at baseline) and no other change. Of note he had his tunnel catheter dialysis line was exchanged secondary to flow difficulties/obstruction at hemodialysis. In the ED he had a CTA which showed small subsegmental PE in LLL. Given h/o allergy to heparin, he was started on agatroban. In the ED he was given zofran 4 mg IV/morphine 2 mg IV/ASA 600 mg PR/lopressor 5 mg IV/ Plavix 300 mg xT. I spoke with his daughter last night who confirmed that we should continue the agatroban and she would be open to the idea of coumadin. He has not had any falls. Dr. was also in agreement with this. He was seen by renal yesterday where there was no indication for HD yesterday. Review of tele demonstrates 6 bts NSVT and HR = 60s. Overnight he was weaned from 4L nc to 2L NC.  \n. \nROS  \nOn review of systems, the pt. denied recent fatigue, fever or chills, denies CP or shortness. He is now comfortable.\n",
+    "input3": "1. ESRD with HD-. On coumadin as allergy to heparin.  \n2. HTN  \n3. Gout  \n4. MSSA Bacteremia with septic right shoulder  \n5. Anemia Chronic Disease  \n6. h/o right brachial vein thrombosis. Delirium  \n8. GERD  \n9. Hypercholesterolemia  \n10. Rash c/w vasculitis on legs  \n11. b/l cataract surgery  s/p inguinal and abdominal hernia repairs \n\ufeff\n",
+    "input4": "Non-contributory\n",
+    "input5": "Physical Exam:\nVS Tm = 99, Tc = 98.8, P = 64-67, BP = 110/61, 110/61-149/70, 16 RR = 16 O2Sat = 94% on 2L. 480/inc 120/ not recorded.  \nGENERAL: Elderly male, sitting up in bed. NAD. He states that he is not very hungry. I re-heated his oatmeal and begged him to eat.  \nNourishment: Well nourished.  \nGrooming: Well groomed  \nMentation: Awake, oriented. Attentive.  \nHEENT: NC/AT, PERRL, EOMI without nystagmus, no scleral icterus noted, MMM, no lesions noted in OP  \nNeck: supple, no JVD or carotid bruits appreciated  \nPulmonary: Lungs CTA bilaterally without R/R/W  \nCardiac: RRR, nl. S1S2, no M/R/G noted  \nAbdomen: soft, NT/ND, normoactive bowel sounds, no masses or organomegaly noted.  \nExtremities: No C/C/E bilaterally,  \nNeurologic:  \n-mental status: Alert, oriented x 3. Able to relate history without difficulty.  \n-cranial nerves: II-XII intact  \n-motor: normal bulk, strength and tone throughout. No abnormal movements noted.\n-sensory: No deficits to light touch throughout.  \nNo foley catheter/tracheostomy/PEG/ventilator support/chest tube/colostomy  \n+NC  \n\ufeff\n",
+    "input6": "___ 09:45PM   PTT-84.7*\n___ 04:50PM   CK(CPK)-40\n___ 06:45AM   CK(CPK)-54\n___ 06:45AM   NEUTS-72.8* MONOS-6.3 EOS-0.4 BASOS-0.3\n___ 06:45AM   PLT COUNT-325#\n___ 06:45AM   PTT-29.9\n___ 06:45AM   D-DIMER- 4315*\n\ufeff\nThe patient develops hemodynamic instability, show sustained hypotension\n"
+}

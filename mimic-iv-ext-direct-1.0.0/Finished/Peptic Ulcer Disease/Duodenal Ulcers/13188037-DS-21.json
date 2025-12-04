@@ -1,0 +1,24 @@
+{
+    "duodenal ulcers$Intermedia_3": {
+        "Duodenal ulcer with bleeding is the gold standard of duodenal ulcer.$Cause_1": {
+            "Upper Endoscopy :duodenal ulcer with bleeding$Input6": {}
+        },
+        "Suspected Peptic Ulcer Disease$Intermedia_2": {
+            "Melanous stools are one of the manifestations of the duodenum with bleeding$Cause_1": {
+                "Presents with melanous stools since evening (x3 days), total of approx 10 dark bloody bowel movements since then.$Input2": {}
+            },
+            "Anemia is  one of the manifestations of the duodenum with bleeding$Cause_1": {
+                "Labs notable for HCT 25.2 down from 38.5.$Input2": {}
+            },
+            "Family history of cancer is a risk factor for peptic ulcer.$Cause_1": {
+                "The patient's sister was diagnosed with colon cancer$Input4": {}
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Famale, hx of pancreatic CA x year, treated with biweekly gemcitabine chemotherapy. Patient received C13D1 of gemcitabine on . Presents with melanous stools since evening (x3 days), total of approx 10 dark bloody bowel movements since then. No N/V. No SOB, no CP, no abdominal pain, no weakness. Was able to walk from parking lot to ED. She has never had this before. Pt cannot recall her last colonoscopy and she thinks it was more than years ago. She is on ASA 81 but no other antiplatelet agents or anticoagulants. She does not take any NSAIDS.\n\nIn the ED, initial VS were 97.4, 77, 120/37, 16, 100% RA. Melena on rectal exam. Labs notable for HCT 25.2 down from 38.5. Patient was given pantoprazole 40mg IV then started on gtt. Also given 500cc NS and 2 unit PRBCs. GI aware and plan to scope patient tomorrow morning. VS prior to transfer were 98.3, 75, 16, 132/48, 100% RA.\n\nOn arrival to the floor, patient reports she is feeling well. She does not have abdominal pain, chest pain, shortness of breath, dizziness, lightheadedness. She last had a BM this morning prior to coming to the ED which she described as black and tarry looking.\n",
+    "input3": "+skin cancer\n+Papillary thyroid cancer\n+History of left breast cyst.\n+Hypertension.\n+Status post knee replacement.\n+History of tachycardia with negative Holter monitoring\n+Acid reflux disease.\n+History of abdominal cramping, triggered by episodes of\nanxiety. New since being diagnosed with pancreatic cancer.  \n+Pancreatic cancer: Diagnosed with obstructive jaundice and \nmass in head of pancreas. She is s/p ERCP by Dr. / bulging major papilla ___ mass lesion, single stricture 5mm long in distal CBD\n",
+    "input4": "The patient's daughter was diagnosed with papillary thyroid cancer. She is status post thyroidectomy. Her other daughter was diagnosed with Graves' disease. She is status post radioactive iodine ablation. Her son is in good health. The patient's sister was diagnosed with colon cancer, which was treated by surgery alone. Her parents had coronary artery disease. No other known family history of malignancies. The patient is of descent.\n",
+    "input5": "VS: 98.2 139/52 72 16 98%RA\nGEN Alert, oriented, no acute distress  \nHEENT NCAT MMM EOMI sclera anicteric, OP clear  \nNECK supple, no JVD, no LAD  \nPULM Good aeration, CTAB no wheezes, rales, ronchi  \nCV RRR normal S1/S2, + systolic murmur, no rg\nABD soft NT ND normoactive bowel sounds, no r/g \nEXT WWP 2+ pulses palpable bilaterally, no c/c/e\nNEURO CNs2-12 grossly intact, motor function grossly normal\nSKIN no ulcers or lesions\n",
+    "input6": "Imaging:\nCT abdomen/pelvis\nIMPRESSION: \n1. Stable subcentimeter lingular and subpleural left lower lobe pulmonary nodules. No intrathoracic lymphadenopathy. \n2. Overall stable size pancreatic head mass. Persistent patent distal common bile duct stent. Enlarged pancreatic head massabuts the SMV, duodenum and the inferomedial aspect of segment 6 of the liver but maintains a fat plane between the SMA, IVC and Aorta. No significant retroperitoneal lymphadenopathy. \n3. Multiple stable bilateral renal cysts, some of which demonstrate diffuse hyperdensity. The most superior cyst in the right kidney contains nonspecific intrinsic hyperdensity. \nAttention to this on follow up exams.  \n4. Nonspecific 3.3 cm left adnexal cyst without obvious nodularity or wall thickening.  \n5. Stable lucent lesion in the posterior left iliac bone likely an aneurysmal bone cyst.\nUpper Endoscopy :duodenal ulcer with bleeding\n"
+}

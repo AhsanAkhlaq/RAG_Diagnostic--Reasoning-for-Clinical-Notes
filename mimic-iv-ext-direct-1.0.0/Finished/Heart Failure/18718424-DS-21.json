@@ -1,0 +1,67 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFrEF$Cause_1": {
+            "LVEF= 30 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "A history of heart failure without following medical advice is a triggering factor for acute exacerbation of heart failure.$Cause_1": {
+                "Per her PCP notes, it sounds like she may not be fully compliant with her medication regimen, including her prescribed lasix, as she is not sure which pill is what.$Input2": {}
+            },
+            "Chest X Ray (CXR) found that pulmonary edema suggests pulmonary circulation congestion caused by heart failure.$Cause_1": {
+                "CXR c/w with pulmonary edema$Input2": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of strongly suspected heart failure. Extreme elevation of BNP levels indicates heart failure.$Cause_1": {
+                    "proBNP-7782*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "A history of mixed systolic and diastolic chronic heart failure (CHF) indicates that this admission is highly likely to be an acute exacerbation of CHF.$Cause_1": {
+                        "Systolic & Diastolic CHF (EF 40-45%)$Input3": {}
+                    },
+                    "Lasix is a diuretic that can reduce cardiac load. The good therapeutic effect of using lasix indicates a high possibility of acute exacerbation of chronic heart failure.$Cause_1": {
+                        "Feels like breathing is much better since getting lasix$Input2": {}
+                    },
+                    "Palpations are common and important symptoms of heart failure.$Cause_1": {
+                        "palpitations$Input1": {}
+                    },
+                    "Dyspnea are common and important symptoms of heart failure.$Cause_1": {
+                        "dyspnea$Input1": {}
+                    },
+                    "Coronary artery disease (CAD) is risk factor for heart failure.$Cause_1": {
+                        "Chronic Stable Angina$Input3": {}
+                    },
+                    "Sick sinus syndrome (SSS) is the cause and triggering factor of heart failure.$Cause_1": {
+                        "Sick Sinus Syndrome s/p PPM$Input3": {}
+                    },
+                    "Atrial fibrillation is the cause and triggering factor of heart failure.$Cause_1": {
+                        "Atrial fibrillation$Input3": {}
+                    },
+                    "Diabetes is a common risk factor for cardiovascular disease, which can lead to heart failure.$Cause_1": {
+                        "Diabetes Mellitus 2$Input3": {}
+                    },
+                    "Urinary tract infections (UTIs) may also be a contributing factor to exacerbate heart failure.$Cause_1": {
+                        "does have a history of UTIs$Input2": {}
+                    },
+                    "Elevated jugular venous pulse (JVP) is a common sign of heart failure, indicating the state of fluid retention. Bibasilar rales is one of the manifestations of acute pulmonary edema in patients with heart failure.$Cause_1": {
+                        "Exam notable for bibasilar rales and elevated JVP.$Input2": {}
+                    },
+                    "Hypertension is known risk factor for heart failure.$Cause_1": {
+                        "Hypertension$Input3": {}
+                    },
+                    "A family history of cardiovascular disease$Cause_1": {
+                        "Mother: MI$Input4": {}
+                    },
+                    "indicates arrhythmia, a possible trigger for heart failure.$Cause_1": {
+                        "HEART - Irregularly$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "palpitations, dyspnea\n",
+    "input2": "female with a history of CAD, mixed systolic and diastolic CHF, SSS s/p PPM, atrial fibrillation on coumadin and DM type 2 who presents from PCP 2 days of palpitations and shortness of breath. Saw her PCP today and reported she felt \"sick\" over the past 2 days and that it had \"something to do with her heart\". Reports palpitations on the day of admission that accompanied shortness of breath and orthopnea, but took \"a big white pill\" and they improved. Per her PCP notes, it sounds like she may not be fully compliant with her medication regimen, including her prescribed lasix, as she is not sure which pill is what. Denies CP, hemoptysis, coughing, fever, HA, leg swelling, abd pain. Also reports some urinary frequency and mild dysuria, does have a history of UTIs. Reported her symptoms to her PCP, who sent her to the ED for further evaluation, given that she has very little support at home and could not be managed well as an outpatient.  \n \nIn the ED, initial VS were: 98.6 90 152/77 16 97% RA. Exam notable for bibasilar rales and elevated JVP. CXR c/w with pulmonary edema and BNP elevated over 7000. ECG showed atrial fibrillation with RBBB, unchanged from prior. Given 20mg IV lasix and admitted to medicine for further management.  \n \nOn arrival to the floor, the patient is awake and comfortable, talkative. Feels like breathing is much better since getting lasix in ED.  \n \nREVIEW OF SYSTEMS:  \n(+) per HPI, chronic constipation  \n(-) fever, chills, night sweats, headache, vision changes, rhinorrhea, congestion, sore throat, cough, chest pain, abdominal pain, nausea, vomiting, diarrhea, BRBPR, melena, hematochezia, hematuria.\n",
+    "input3": "+ Atrial fibrillation\n+ Sick Sinus Syndrome s/p PPM\n+ Systolic & Diastolic CHF (EF 40-45%) \n+ Chronic Stable Angina\n+ Diabetes Mellitus 2\n+ Hypertension \n+ Ventral hernia repair\n+ Cholecystectomy\n+ Hysterectomy & oophrectomy for uterine cancer\n",
+    "input4": "Mother: MI\nFather: certain cancer\n",
+    "input5": "ADMISSION\nVS - Temp 98.6F, BP 156/84, HR 82, R 20, O2-sat 98% RA GENERAL - delightful elderly woman in NAD, comfortable, appropriate  \nHEENT - NC/AT, PERRLA, EOMI, sclerae anicteric, MMM, OP clear  \nNECK - supple, no thyromegaly, no JVD  \nLUNGS - CTA bilat, no r/rh/wh, good air movement, resp unlabored, no accessory muscle use  \nHEART - Irregularly irregular, no MRG, nl S1-S2  \nABDOMEN - NABS, soft/NT/ND, no masses or HSM, no rebound/guarding  \nEXTREMITIES - WWP, no c/c/e, 1+ peripheral pulses (radials, DPs) \n \nSKIN - no rashes or lesions  \nNEURO - awake, A&Ox3, CNs II-XII grossly intact, muscle strength throughout, sensation grossly intact throughout\n",
+    "input6": "06:35PM   PLT COUNT-176\n06:35PM   MONOS-4.8 EOS-1.6 \nBASOS-0.4\n06:35PM   WBC-7.7 RBC-4.48 HGB-13.0 HCT-39.6 MCV-88 \nMCH-29.0 MCHC-32.8 RDW-13.1\n06:35PM   CALCIUM-9.5 PHOSPHATE-2.8 MAGNESIUM-2.1\n06:35PM   CK-MB-2 proBNP-7782*\n06:35PM   cTropnT-<0.01\n06:35PM   CK(CPK)-144\n06:35PM   estGFR-Using this\n06:35PM   GLUCOSE-181* UREA N-17 CREAT-0.7 SODIUM-140 \nPOTASSIUM-3.9 CHLORIDE-101 TOTAL CO2-32 ANION GAP-11\n06:49PM   LACTATE-1.1\n\ufeff\n\ufeff\n07:40PM URINE  RBC-2 WBC-3 BACTERIA-FEW YEAST NONE \nEPI-<1 TRANS EPI-<1\n07:40PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG \nGLUCOSE-150 KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 LEUK-SM \n07:40PM URINE  COLOR-Yellow APPEAR-Clear\n\ufeff\nIMAGING\nTECHNIQUE:  PA and lateral views of the chest.\n\nThe left ventricular cavity size is normal. Overall left ventricular systolic function is probably moderately depressed (LVEF= 30 %) with global hypokinesis and regional inferior/infero-lateral, \n"
+}

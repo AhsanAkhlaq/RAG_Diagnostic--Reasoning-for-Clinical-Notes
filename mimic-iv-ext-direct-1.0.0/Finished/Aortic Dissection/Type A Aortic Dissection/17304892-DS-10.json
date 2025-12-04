@@ -1,0 +1,30 @@
+{
+    "Type A Aortic Dissection$Intermedia_3": {
+        "The diameter of the ascending aorta was 6.6 cm, exceeding the upper limit of the normal value of 3.4 cm. Significant dilation of the aorta is an important indicator of aortic dissection.$Cause_1": {
+            "Aorta - Ascending:   *6.6 cm   <= 3.4 cm$Input6": {}
+        },
+        "Severe dilatation of the aortic sinuses and ascending aorta. This dilatation of the aorta may indicate compromised structural integrity of the aortic wall and is a risk factor for aortic dissection.$Cause_1": {
+            "AORTA: Severe dilation of aorta at sinus level. Severely dilated ascending aorta.$Input6": {}
+        },
+        "Suspected Aortic Dissection$Intermedia_2": {
+            "Chest pain is one of the common symptoms of aortic dissection$Cause_1": {
+                "Chest pain$Input1": {}
+            },
+            "Sudden chest pain is a common symptom of Type A aortic dissection$Cause_1": {
+                "sudden onset of chest pain$Input2": {}
+            },
+            "Persistent chest pain and discomfort raise suspicion of aortic dissection$Cause_1": {
+                "Woke this AM with the same sensations$Input2": {}
+            },
+            "The difference in the femoral pulse between the right and left sides, labeled equal to 2 on the right side and plus 2 on the left side, may indicate a stronger pulse on the left side. This asymmetry in the pulse may also be a sign of aortic dissection, where the dissection may be blocking blood flow on one side, causing the pulse to be different in strength.$Cause_1": {
+                "Right: =2  Left:+2$Input5": {}
+            }
+        }
+    },
+    "input1": "Chest pain\n",
+    "input2": "32 year old man with sudden onset of chest pain after working  yesterday. He went to bed with chest pain and indigestive symptoms. Did not sleep well. Woke this AM with the same sensations. His girlfriend brought patient to the OSH, where he underwent CTA. He was transferred urgerntly for cardiac surgery evaluation. Patient was brought emergently to the OR.\n",
+    "input3": "none\n",
+    "input4": "Family history of cervical and oral cancer\n",
+    "input5": "Admit PE:\nPulse:88 Resp: 16 O2 sat: RA 98%\nB/P  Right:110/68    Left: \nHeight:  5ft 10\"   Weight: 150lbs\n\nGeneral:\nSkin: Dry [x] intact [x]\nHEENT: PERRLA [x] EOMI [x]\nNeck:  Supple [x] Full ROM [x]\nChest: Lungs clear bilaterally [x]\nHeart: RRR [x]  Irregular []  Murmur [] grade ______ \nAbdomen: Soft [x] non-distended [x] non-tender [x]  bowel sounds +[]\nExtremities: Warm [x], well-perfused [x]  Edema []\nVaricosities: None [x]\nNeuro: Grossly intact [x]\nPulses:\nFemoral      Right: =2  Left:+2\nDP           Right: +2  Left:+2\nRadial       Right:+2   Left:+2\n\nCarotid Bruit:        Right:  -  Left:-\n",
+    "input6": "STUDIES:\nPA/LAT CXR ___:\nLungs are low volume with stable small bilateral effusions slightly increased in volume.  Cardiomediastinal silhouette is stable.  There is a lucency in the left apex which could represent a small left apical pneumothorax. \n.\nIntraop TEE ___, \nEchocardiographic Measurements   \nResults  \nMeasurements  \nNormal Range  \nLeft Ventricle - Ejection Fraction:   55%   >= 55%   \nAorta - Ascending:   *6.6 cm   <= 3.4 cm   \n  \nFindings   \nLEFT ATRIUM: No thrombus/mass in the body of the LA. \nRIGHT ATRIUM/INTERATRIAL SEPTUM: Small PFO present. \nLEFT VENTRICLE: Normal LV wall thickness. Normal regional LV systolic function. \nRIGHT VENTRICLE: Normal RV chamber size and free wall motion. \n\nAORTA: Severe dilation of aorta at sinus level. Severely dilated ascending aorta. \n\nAORTIC VALVE: Three aortic valve leaflets. Moderate to severe (3+) AR. \nMITRAL VALVE: Normal mitral valve leaflets. Trivial MR.\n"
+}

@@ -1,0 +1,64 @@
+{
+    "HFrEF$Intermedia_5": {
+        "LVEF\u226440% is the critiera for HFmrEF$Cause_1": {
+            "LVEF= 45 %$Input6": {}
+        },
+        "Heart Failure$Intermedia_4": {
+            "Cardiac structural abnormalities is a diagnostic criteria of heart failure$Cause_1": {
+                "The left atrium is elongated. The right atrium is moderately dilated.$Input6": {}
+            },
+            "Strongly Suspected heart failure$Intermedia_3": {
+                "NT-proBNP, pro-BNP or BNP are common biomarkers of heart failure. Extreme elevation of BNP levels indicates strong suspected heart failure.$Cause_1": {
+                    "proBNP-726*$Input6": {}
+                },
+                "Suspected heart failure$Intermedia_2": {
+                    "Dyspnea is a common symptom of HF$Cause_1": {
+                        "Dyspnea$Input1": {}
+                    },
+                    "Increased swelling in the legs. This is a common symptom of heart failure, as fluid builds up in the body as the heart's pumping power weakens.$Cause_1": {
+                        "increased lower extremity edema$Input2": {}
+                    },
+                    "Increased breathing difficulties. People with heart failure may have difficulty breathing because fluid accumulates in the lungs because the heart is not able to pump blood as well.$Cause_1": {
+                        "worsening dyspnea$Input2": {}
+                    },
+                    "Palpitations may be associated with irregular heartbeats (such as atrial fibrillation in this case), which are also risk factors for heart failure.$Cause_1": {
+                        "associated palpitations$Input2": {}
+                    },
+                    "Dyspnea on exertion worsens to marked shortness of breath at rest. This indicates that symptoms of heart failure are progressing from mild to severe stages.$Cause_1": {
+                        "dyspnea on exertion progressed over the subsequent 24 hrs, evolving into frank shortness of breath at rest$Input2": {}
+                    },
+                    "Atrial fibrillation is a significant risk factor for heart failure, especially when accompanied by a rapid ventricular response, which increases the workload on the heart.$Cause_1": {
+                        "recent hospitalization for Afib w/RVR$Input2": {}
+                    },
+                    "Cerebrovascular accidents are associated with heart failure because cardiovascular and cerebrovascular diseases often share the same risk factors such as hypertension and atherosclerosis$Cause_1": {
+                        "CVA$Input3": {}
+                    },
+                    "Morbid obesity increases the workload on the heart and may lead to heart failure.$Cause_1": {
+                        "Morbid obesity.$Input3": {}
+                    },
+                    "Type 2 diabetes is strongly associated with heart failure. Long-term effects of high blood sugar levels may lead to changes in cardiac structure and function, including myocardial hypertrophy and cardiac fibrosis, thereby increasing the risk of heart failure.$Cause_1": {
+                        "DM2$Input3": {}
+                    },
+                    "The veins are more distended than normal. This is usually a sign that the heart is not pumping blood effectively, causing increased pressure in the chest cavity, which is common in heart failure.$Cause_1": {
+                        "JVD 8cm$Input5": {}
+                    },
+                    "An irregular and unregulated heartbeat may be a sign of atrial fibrillation, a common complication of heart failure.$Cause_1": {
+                        "irregularly irregular$Input5": {}
+                    },
+                    "Crackles in the lungs, usually at the lung bases, but described in this article in the mid-lungs. This is a sign of fluid accumulation in the lungs, which may be congestion or edema due to heart failure$Cause_1": {
+                        "rackles half way up$Input5": {}
+                    },
+                    "The swelling is pitting after pressing, here depicted at the ankle. This type of lower extremity edema is a common manifestation of poor fluid circulation due to heart failure.$Cause_1": {
+                        "2+ DP pulses bilaterally$Input5": {}
+                    }
+                }
+            }
+        }
+    },
+    "input1": "Dyspnea\n",
+    "input2": "Patient was recovering from a recent hospitalization for Afib w/RVR from when 2 days PTA she noted increased lower extremity edema with worsening dyspnea. Her dyspnea on exertion progressed over the subsequent 24 hrs, evolving into frank shortness of breath at rest with associated palpitations. No chest pain, orthopnea (sleeps on 1 pillow), PND, syncope. No fevers, chills, wheezing, cough. While patient has a history of anxiety attacks, this did not feel like her normal anxiety attack.\n",
+    "input3": "+ CVA\n+ Morbid obesity.\n+ Anxiety with panic attack symptoms.\n+ DM2\n+ Ulcerative colitis.\n",
+    "input4": "Two sisters died of non-Hodgkins lymphoma, mother and sister had atrial fibrillation. All three sisters have DM.\n",
+    "input5": "ADMISSION PHYSICAL EXAM:  \nVitals - 97.4, 134/44, 88. 20, 100% 3L  \nGENERAL: A&Ox3, NAD  \nHEENT: EOMI, PERRL, anicteric sclera, pink conjunctiva, MMM  \nNECK: nontender supple neck, JVD 8cm  \nCARDIAC: irregularly irregular, normal S1/S2, no murmurs, gallops, or rubs  \nLUNG: crackles half way up  \nABDOMEN: nondistended, +BS, nontender in all quadrants, no rebound/guarding, no hepatosplenomegaly  \nEXTREMITIES: 2+ pitting edema to ankles  \nPULSES: 2+ DP pulses bilaterally  \nNEURO: CN II-XII intact  \nSKIN: warm and well perfused, no excoriations or lesions, no rashes\n",
+    "input6": "ADMISSION:\n07:10PM BLOOD WBC-10.5 RBC-3.45* Hgb-7.6* Hct-26.8* \nMCV-78* MCH-21.9* MCHC-28.3* RDW-23.1*\n07:10PM BLOOD Neuts-62.4 Monos-4.2 Eos-4.0 \nBaso-0.5\n07:50AM BLOOD Glucose-55* UreaN-21* Creat-1.3* Na-141 \nK-3.6 Cl-99 HCO3-33* AnGap-13\n07:10PM BLOOD cTropnT-<0.01\n07:10PM BLOOD proBNP-726*\n\nThe left atrium is elongated. The right atrium is moderately dilated. Left ventricular wall thicknesses are normal. The left ventricular cavity size is normal. Overall left ventricular systolic function is probably moderately depressed (LVEF= 45 %) with global hypokinesis and regional inferior/infero-lateral,\n"
+}

@@ -1,0 +1,38 @@
+{
+    "Low-risk PE$Intermedia_4": {
+        "This is the support for Low-risk PE$Cause_1": {
+            "The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels$Input6": {}
+        },
+        "Pulmonary Embolism$Intermedia_3": {
+            "A filling defect in the right lower lobe may directly indicate pulmonary embolism$Cause_1": {
+                "small RLL filling defect$Input6": {}
+            },
+            "Suspected Pulmonary Embolism$Intermedia_2": {
+                "Pleural pain is usually caused by inflammation or irritation of the pleura, which can be affected by pulmonary embolism.$Cause_1": {
+                    "pleuritic left side side pain$Input2": {}
+                },
+                "The continued worsening of chest pain affected the patient's sleep quality, which reflected the severity of the pain and suggested pulmonary embolism.$Cause_1": {
+                    "increasingly more painful to the point he has noted less sleep$Input2": {}
+                },
+                "Pain that worsens with deep breathing is a classic symptom of pulmonary embolism$Cause_1": {
+                    "inability to take a deep breath$Input2": {}
+                },
+                "Hyperlipidemia is a risk factor for cardiovascular disease, which indirectly increases the possibility of thrombosis and thus increases the risk of pulmonary embolism.$Cause_1": {
+                    "Dyslipidemia$Input3": {}
+                },
+                "High blood pressure may increase risk of blood clots$Cause_1": {
+                    "Hypertension$Input3": {}
+                },
+                "Lung rales, especially at the base of the lung, may indicate fluid accumulation or other abnormalities and are symptoms of pulmonary embolism$Cause_1": {
+                    "CTAB with crackles at left base$Input5": {}
+                }
+            }
+        }
+    },
+    "input1": "None\n",
+    "input2": "Mr. is a w/ GBM (dx who presents with several days of having pleuritic left side side pain that has become increasingly more painful to the point he has noted less sleep as a result of the pain and inability to take a deep breath in due to the pain. He denied cough. \n\ufeff\n",
+    "input3": "\nPAST MEDICAL HISTORY:\n1. Central brain mass\n2. Dyslipidemia\n3. Hypertension\n4. Bell's palsy                \n\ufeff\n",
+    "input4": "Of his three siblings, one died with lymphoma, the other two are healthy. His mother died with liver cancer, and his father died of lung cancer. \n\ufeff\n",
+    "input5": "Physical Exam:\nADMISSION EXAM\n==============\nVITAL SIGNS: \nWeight: 201.40 128/60, 98% RA\nGen: NAD\nHEENT:  MMM, no OP lesions, no cervical, supraclavicular\nadenopathy\nCV:  RR, NL S1S2 no S3S4 MRG, JVP 5 cm H2O\nPULM:  CTAB with crackles at left base\nABD:  BS+, soft, NTND, no masses or hepatosplenomegaly\nLIMBS: WWP, no tremors\nSKIN:  No rashes on the extremities\nNEURO:  Grossly normal, strength b/l upper and lower ext\n\ufeff\n",
+    "input6": "ADMISSION LABS\n==============\n___ 08:20PM BLOOD WBC-8.3 RBC-3.94* Hgb-11.4* Hct-35.3* MCV-90 MCH-29.0 MCHC-32.4 RDW-16.0* \n___ 08:20PM BLOOD Glucose-97 UreaN-23* Creat-1.0 Na-144 K-3.7 Cl-106 HCO3-26 AnGap-16\n\ufeff\nIMAGING/STUDIES\n================\nCXR PA/LATERAL:\nNo acute cardiopulmonary process.\n\ufeff\nCT HEAD W/O CONTRAST:\nIMPRESSION:\nDecrease in size of known mass centered at the septum pellucidum. No evidence of acute hemorrhage or infarction. The ventricles are unchanged in size and configuration.\n\ufeff\nCTA CHEST:\nIMPRESSION:\n1. 1 cm area of peripheral arterial enhancement in the left lobe of the liver, statistically likely a hemangioma, however, nonurgent abdominal ultrasound can be performed for further evaluation.\n2. 3 mm left lower lobe subpleural pulmonary nodule. 6 month follow up CT recommended.\n3. small RLL filling defect\n4. The patient has stable hemodynamics, no evidence of RV function impairment, and normal blood biomarker levels\n\n\ufeff\n"
+}

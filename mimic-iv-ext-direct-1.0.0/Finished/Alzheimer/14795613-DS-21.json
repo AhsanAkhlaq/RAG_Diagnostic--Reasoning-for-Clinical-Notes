@@ -1,0 +1,42 @@
+{
+    "Alzheimer$Intermedia_3": {
+        "It shows decreased glucose metabolism in the temporal and parietal regions, which is a typical imaging feature of Alzheimer's disease and is associated with brain atrophy and functional decline. It is an important basis for directly supporting the diagnosis of Alzheimer's disease.$Cause_1": {
+            "FDG-PET: show reduced glucose metabolism in the temporal-parietal lobes.$Input6": {}
+        },
+        "Suspected Alzheimer$Intermedia_2": {
+            "Agitation manifests as emotional instability, which is a manifestation of Alzheimer's disease$Cause_1": {
+                "Agitation$Input1": {}
+            },
+            "Loss of activity may be an early sign of cognitive decline in Alzheimer's disease$Cause_1": {
+                "less active in his iadls$Input2": {}
+            },
+            "Loss of personal hygiene management ability is a common symptom of Alzheimer's disease$Cause_1": {
+                "stopped being able to take care of his personal hygiene$Input2": {}
+            },
+            "Forgetfulness is one of the most common symptoms of Alzheimer's disease$Cause_1": {
+                "been forgetful$Input2": {}
+            },
+            "Mood swings and irritability are common emotional symptoms in people with Alzheimer's$Cause_1": {
+                "occasionally becomes agitated$Input2": {}
+            },
+            "Physical decline is one of the common signs of Alzheimer's disease$Cause_1": {
+                "doesn't walk as much as he used to$Input2": {}
+            },
+            "Delusions or false beliefs are possible psychiatric symptoms in Alzheimer's disease$Cause_1": {
+                "delusions of where he has been but has not described visual hallucinations$Input2": {}
+            },
+            "Diabetes has a known link to Alzheimer's disease$Cause_1": {
+                "Diabetes.$Input3": {}
+            },
+            "This is a direct reference to cognitive decline, one of the main symptoms of Alzheimer's disease.$Cause_1": {
+                "Likely dementia$Input3": {}
+            }
+        }
+    },
+    "input1": "Agitation\n",
+    "input2": "This morning, the patient does not have complaints. Collateral history obtained from daughter/HCP. She states ___ year ago, he started becoming less active in his iadls, and while he used to take care of his wife who has had a gradual medical decline, she began being more dominant taking care of him. Then, in ___ he stopped being able to take care of his personal hygiene. Since then, he has been forgetful, and occasionally becomes agitated. In the past, the daughter states this was in the setting of UTI. She noticed he doesn't walk as much as he used to, but has not particularly noticed a slow or shuffling gait. She describes he has had delusions of where he has been but has not described visual hallucinations.\n\nShe expresses frustration over his medical course over the last month. He was discharged to ___ facility, in which his medications were uptitrated. They started to treat him for a UTI and gave him a few days of abvx then stopped because the cultures were negative. He then was transferred to a rehab where the incident described in admission note occurred in the setting of her leaving him the first night. \n",
+    "input3": "Likely dementia\nBPH\nDiabetes. \nGlaucoma\nHx TIAS\n",
+    "input4": "None\n",
+    "input5": "Vital Signs: T 97.9 BP 152/71 HR 59 R 18 SpO2 97 RA  \n GEN: NAD, sleeping comfortably  \n HEENT: sclerae anicteric. b/l arcus senilis  \n ___: RRR no MRG  \n RESP: No increased WOB, CTAB no rhonchi, wheezing or crackles  \n ABD: NTND  \n EXT: warm, no edema  \n NEURO: no facial droop. PERRL. Moving all 4 extremities. Able to follow commands. AAOx1-2 (person and knows its a hospital)  \n\n",
+    "input6": "___ 08:26PM BLOOD WBC-5.4 RBC-4.01* Hgb-11.4* Hct-35.8* \nMCV-89 MCH-28.4 MCHC-31.8* RDW-13.5 RDWSD-44.6 Plt ___\n___ 08:26PM BLOOD Neuts-51.3 ___ Monos-10.2 Eos-2.4 \nBaso-0.6 Im ___ AbsNeut-2.78 AbsLymp-1.90 AbsMono-0.55 \nAbsEos-0.13 AbsBaso-0.03\n___ 08:26PM BLOOD Glucose-129* UreaN-32* Creat-1.5* Na-142 \nK-4.0 Cl-104 HCO3-29 AnGap-13\n___ 10:40AM BLOOD Calcium-9.5 Phos-3.2 Mg-2.2\n___ 09:45PM URINE Blood-NEG Nitrite-POS Protein-TR \nGlucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-SM \n___ 09:45PM URINE RBC-1 WBC-6* Bacteri-FEW Yeast-NONE Epi-0\n\n\nFDG-PET: show reduced glucose metabolism in the temporal-parietal lobes.\n\n"
+}

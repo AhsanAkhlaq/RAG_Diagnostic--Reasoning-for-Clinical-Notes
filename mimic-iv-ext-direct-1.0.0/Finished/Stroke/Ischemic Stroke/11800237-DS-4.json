@@ -1,0 +1,45 @@
+{
+    "Ischemic Stroke$Intermedia_3": {
+        "Brain tissue in this area is damaged due to insufficient blood flow, which is a typical imaging manifestation of ischemic stroke.$Cause_1": {
+            "Scans showing ischemic damage to brain tissue. In DWI sequences, areas appear as hyperintense (bright white)$Input6": {}
+        },
+        "Indicates significant arteriosclerosis. This is a risk factor for ischemic stroke$Cause_1": {
+            "Carotid artery intima-media thickness \u22651.0 mm$Input6": {}
+        },
+        "Suspected Stroke$Intermedia_2": {
+            "Slurred speech is a common symptom of stroke$Cause_1": {
+                "Slurred speech$Input1": {}
+            },
+            "Speech impairment may indicate impaired function in language-processing areas of the brain, one of the classic symptoms of stroke$Cause_1": {
+                "difficulty with word-finding since waking up$Input2": {}
+            },
+            "Speech pauses are characteristic of aphasia and are common in stroke patients$Cause_1": {
+                "other people described her speech as \"halting\" she felt as if she got \"stuck.\"$Input2": {}
+            },
+            "Word errors are characteristic of aphasia and are common in stroke patients$Cause_1": {
+                "using the wrong words for things$Input2": {}
+            },
+            "Hyperlipidemia is a risk factor for stroke$Cause_1": {
+                "Triglyc-290$Input6": {}
+            },
+            "High blood pressure is a risk factor for stroke$Cause_1": {
+                "hypertension$Input3": {}
+            },
+            "It may be that the area of the brain that controls eye movements is affected after a stroke.$Cause_1": {
+                "EOMI with a few beats bilateral end-gaze nystagmus.$Input5": {}
+            },
+            "Incoherent speech, with occasional phonological and semantic errors, may be signs of a stroke causing dysfunction in certain parts of the brain.$Cause_1": {
+                "Minimally inattentive, one error with serial subtraction of threes from twenty. Speech fluency is reduced, with occasional pauses. Speech is somewhat telegraphic. Occasional paraphasic errors (both phonemic and semantic).$Input5": {}
+            },
+            "High blood pressure is an important risk factor for stroke$Cause_1": {
+                "BP: 136-170/57-71$Input5": {}
+            }
+        }
+    },
+    "input1": "Slurred speech\n",
+    "input2": "She is a R-handed woman with history of HTN, HLD who presents with difficulty with word-finding since waking up the morning. She woke up around 0800 and felt 'funny'. Her mouth was 'full of saliva' and she states this was unusual. She didn't speak with anyone at that time. Over the course of the day other people described her speech as \"halting\" she felt as if she got \"stuck.\" She also kept using the wrong words for things, such as substituting \"wires\" for weather. She eventually presented to the ED that evening as She reported these same language difficulties in her native language. She had no other difficulties including no dysphagia, no dysarthria, no weakness/numbness, no difficulty walking, no difficulty driving. In fact, her son got lost driving her to the hospital, but a person was able to correct this and navigate them to the hospital. She was at her baseline over the preceding days and the only thing out of the ordinary was having 2 glasses of wine the night before and going to bed later than usual, around 0100.\n",
+    "input3": "+ Hyperlipidemia \n+ hypertension\n",
+    "input4": "Mother - HLD\nFather d. - HTN, d. of leukemia\nMaternal aunt with cerebral aneurysm\nFour sons, all healthy.\n",
+    "input5": "ON ARRIVAL: \n===========\n\ufeff\nPHYSICAL EXAMINATION\nVitals:  T: 98.3 HR: BP: 136-170/57-71 RR:  SaO2: 100%RA\nGeneral: Awake, cooperative, NAD.\nHEENT: no scleral icterus, MMM, no oropharyngeal lesions. \nPulmonary: Breathing comfortably, no tachypnea nor increased WOB\nCardiac: Skin warm, well-perfused. \nAbdomen: soft, ND\nExtremities: Symmetric, no edema. \n\ufeff\nNeurologic Examination:\n- Mental status: Awake, alert, oriented x 3. Able to relate history without difficulty. Minimally inattentive, one error with serial subtraction of threes from twenty. Speech fluency is reduced, with occasional pauses. Speech is somewhat telegraphic. Occasional paraphasic errors (both phonemic and semantic).  Names glove, chair, key. Calls cactus a plant, calls feather a \"life\", calls hammock a 'balance'. Able to follow most commands but not reverse order or cross-body commands. Delayed recall spontaneously, unable to get third word with CC nor MC. No evidence of hemineglect. \n\ufeff\n-Cranial Nerves: PERRL 3->2. VFF to confrontation. EOMI with a few beats bilateral end-gaze nystagmus. Facial sensation intact to light touch. Face symmetric at rest and with activation.Hearing intact to conversation. Palate elevates symmetrically. strength in trapezii bilaterally. Tongue protrudes in \nmidline and moves briskly to each side. No dysarthria. \n\ufeff\n- Motor:  Normal bulk and tone. No drift. No tremor nor asterixis.\n       \n*pain limitation from chronic shoulder pain\n\ufeff\n-DTRs:\nxx Pat Ach Pec jerk   Crossed Abductors\nL  2  2    2    2   tr                       \nR  2  2    2    2   tr                          \nPlantar response was flexor bilaterally.\n\ufeff\n-Sensory:  Intact to LT, temp throughout. \n\ufeff\n- Coordination: No dysmetria with finger to nose testing bilaterally. \n\ufeff\n- Gait: Normal initiation. Narrow base. Normal stride length and arm swing. Stable without sway. Negative Romberg. Able to perform at least 5 steps of tandem gait.\n",
+    "input6": "05:20AM BLOOD WBC-6.4 RBC-4.05 Hgb-12.1 Hct-36.8 MCV-91 MCH-29.9 MCHC-32.9 RDW-12.9 RDWSD-42.9\n10:44PM BLOOD Neuts-49.4 Monos-8.5 Eos-1.4 Baso-0.6  AbsNeut-4.26 AbsLymp-3.44 AbsMono-0.73 \nAbsEos-0.12 AbsBaso-0.05\n04:50PM BLOOD AT-95\n06:38AM BLOOD ProtCFn-139 ProtSFn-130\n06:38AM BLOOD Lupus-NOTDETECTE dRVVT-S-0.86 SCT-S-0.79\n05:20AM BLOOD Glucose-98 UreaN-17 Creat-0.8 Na-143 \nK-4.5 Cl-106 HCO3-24 AnGap-13\n06:25AM BLOOD ALT-23 AST-23 AlkPhos-67 TotBili-0.4\n08:09PM BLOOD Lipase-23\n05:20AM BLOOD Calcium-8.9 Phos-3.9 Mg-2.1\n08:09PM BLOOD %HbA1c-6.0 eAG-126\n08:09PM BLOOD Triglyc-290* HDL-68 CHOL/HD-4.7 \nLDLcalc-194*\n08:09PM BLOOD TSH-2.5\n08:09PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG \nTricycl-NEG\n\nMRI:\nScans showing ischemic damage to brain tissue. In DWI sequences, areas appear as hyperintense (bright white)\n\nCT:\n\nEcho:\nCarotid artery intima-media thickness \u22651.0 mm\n"
+}
