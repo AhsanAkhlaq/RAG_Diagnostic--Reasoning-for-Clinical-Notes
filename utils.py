@@ -19,35 +19,32 @@ def load_data(data_path: str) -> Tuple[List[str], List[Dict]]:
         for file in files:
             if file.endswith(".json"):
                 file_path = os.path.join(root, file)
-                try:
-                    with open(file_path, 'r', encoding='utf-8') as f:
-                        data = json.load(f)
-                        
-                    # Combine input sections (input1 to input6)
-                    full_text = ""
-                    for i in range(1, 7):
-                        key = f"input{i}"
-                        if key in data:
-                            full_text += f"Section {i}: {data[key]}\n"
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
                     
-                    if full_text.strip():
-                        documents.append(full_text)
+                # Combine input sections (input1 to input6)
+                full_text = ""
+                for i in range(1, 7):
+                    key = f"input{i}"
+                    if key in data:
+                        full_text += f"Section {i}: {data[key]}\n"
+                
+                if full_text.strip():
+                    documents.append(full_text)
+                    
+                    # Extract diagnosis from path or filename as metadata
+                    # Assuming path structure: .../Disease/Type/filename.json
+                    path_parts = Path(file_path).parts
+                    diagnosis = "Unknown"
+                    if len(path_parts) >= 3:
+                        diagnosis = f"{path_parts[-3]} - {path_parts[-2]}"
                         
-                        # Extract diagnosis from path or filename as metadata
-                        # Assuming path structure: .../Disease/Type/filename.json
-                        path_parts = Path(file_path).parts
-                        diagnosis = "Unknown"
-                        if len(path_parts) >= 3:
-                            diagnosis = f"{path_parts[-3]} - {path_parts[-2]}"
-                            
-                        metadatas.append({
-                            "source": file,
-                            "diagnosis": diagnosis,
-                            "path": file_path
-                        })
-                except Exception as e:
-                    # Silently skip errors as requested (no extra print statements)
-                    continue
+                    metadatas.append({
+                        "source": file,
+                        "diagnosis": diagnosis,
+                        "path": file_path
+                    })
+
                     
     return documents, metadatas
 
