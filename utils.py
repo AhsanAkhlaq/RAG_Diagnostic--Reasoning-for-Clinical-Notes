@@ -33,7 +33,7 @@ def load_data(data_path: str) -> Tuple[List[str], List[Dict]]:
                     documents.append(full_text)
                     
                     # Extract diagnosis from path or filename as metadata
-                    # Assuming path structure: .../Disease/Type/filename.json
+                    # path structure: .../Disease/Type/filename.json
                     path_parts = Path(file_path).parts
                     diagnosis = "Unknown"
                     if len(path_parts) >= 3:
