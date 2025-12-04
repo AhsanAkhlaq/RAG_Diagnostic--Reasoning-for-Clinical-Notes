@@ -12,7 +12,7 @@ st.markdown("Ask questions about clinical notes and get diagnostic reasoning bas
 with st.sidebar:
     st.header("Configuration")
     # Default path based on user's environment
-    default_path = r"mimic-iv-ext-direct-1.0.0\Finished"
+    default_path = r"mimic-iv-ext-direct-1.0.0/Finished"
     data_path = st.text_input("Data Directory Path", value=default_path)
     
     if st.button("Reload Data"):
